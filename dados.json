@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-10-16T06:43:06+00:00",
+ "atualizado": "2026-10-16T07:41:28+00:00",
  "indicadores": {
   "selic": {
    "valor": 13.75,
@@ -17,10 +17,40 @@
  "cotacoes": {},
  "noticias": [
   {
+   "titulo": "Ibovespa hoje: pesquisas eleitorais e IBC-Br podem mexer com a Bolsa nesta sexta-feira",
+   "fonte": "Estadão",
+   "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNbXA1MW9fZDg4d3M0NnVaUmwzd1RnOWNYb0M3WUt3TVgzVTh3a21IUGg1X3ljb0hXTTZPRzBpTl9wNDU2RmhoSldRSGlIUkRqSkNUWmVCNWdDdWd0aGpOeFQxVmRudnRIa2c2OVNYeFJGb0VDZnMwcy1kMDVYLVVQZlhBbHVRbnJlWnVzcjcwNjZqWGNUdTRER1FpQmpiUktsYXBlSGNYM2xyeUM2U09YVUctR2NiV1ZpTnBhT3NUQVdISTFpZ0hXRGpld0cyN201ZDhuVlZSdFdEVWRURVA4RTdFdlJpTWc?oc=5",
+   "data": "2026-10-16T07:39:38+00:00"
+  },
+  {
+   "titulo": "UBS vê potencial de valorização de 25% para o Ibovespa",
+   "fonte": "Acia Araçatuba",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9JWmI3OXg4UUc0a1lJZkR2MUYwQnVvTkVYRVM2RU9BV2tDYUtaVHhHYjJXSTNhVWo1eEM3b0ZxVU4zS1dKMTJnd3Y3U0d0T25NSHloY0dFRUc4MDFTYkFxNjJ3YVpEX2plV0FIT3lPWERYaXpFSU04ZkZjU2drMDg?oc=5",
+   "data": "2026-10-16T07:39:28+00:00"
+  },
+  {
+   "titulo": "Após euforia, mercado refaz contas e vê disputa mais apertada no 2º turno",
+   "fonte": "CNN Brasil",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNVEtvaDllMC1oLXZBaEJuNHBpbGZFQUtPMGt4MVRtZU96dnBGLTNLaU1Ydk5QWThYWnFOSFN2UThJcE1GTElscjNSUUh6bUFwemM2YXEtSGpnSUd4Q1Ftdmk0ekQycnlscEJuZ1dUdUdrYS1UYldSajg0dzkxZHBMakpXUkpmSE9HTXZSMVRxUWlWbjlILXJZN0hobnpQSzh2VVBFMkRUSkVVYjVidUo0UUctOC1rNWZ4TVlhUF9MS1FfdW8?oc=5",
+   "data": "2026-10-16T07:05:15+00:00"
+  },
+  {
+   "titulo": "2027: o consumo pode encontrar um novo ponto de virada?",
+   "fonte": "Mercado&Consumo",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQOWFyeE1RZzJ5MC1OVlJNcDlLcFN1UDFSZWpZcWctMWJQTHBBRXNCejJLcDdzZEpPbDF5UWFJcGNNVlI2cjIxVTA2Tm85RjkxTmRfdjVXM21TZTRoYTRzZUY2LTc4bmdFQzNCUnhRZ0NPNkt5QWhDcDFfSzVhMmxJd2VXR29nak9xQi1PXzFsWWY2cVBzSjlaXzQ3Q2dWWWZyUVZMb3ExVdIBrAFBVV95cUxQYWlHb3BLNFhpR2sxRmM5QVhjVTVRRjUzamVpT0FWR2VLM2tzVFNFZ29RalBSNWdkeFh0ZEFjVlRXTmlqSm1lVHIzMHJFVFFtWmt2MjEzbHROeGNQbGp0SmxRdUI3T3o2WE45Qll2N3NfRHBqSFY3aXRBTG1NNl9LR19tUUxvZDRaVjRLYTlZalMzT09FOS1fdnRtS1FvOHlpWk45RGdCMjNtbERL?oc=5",
+   "data": "2026-10-16T06:03:54+00:00"
+  },
+  {
    "titulo": "Incentivos: Prefeito lança pacote para destravar mercado imobiliário e atrair investimentos",
    "fonte": "A Tribuna MT",
    "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPOWt5MHc5YVlydllZZ3F6WHJOTzZkdTF2djU1MHVoRGV3Qmd0RGtHa0Q0b21wYU1aVzJBS1hXMG9ralJJWklRNjN6N290S1FFM1JpTHJjLWF0eXJrLTg2aGNVR3QwS3NTc2o1eGUyQ2RKVzZCc2N1SHhka2hwYnBzNmhDdE5rZnhkc0NObkJ2cVAzVG01MWp0NTFGWWVqdmhBVVB6T1A3YnVNaldSaG5QOFhOdHpqaWlYQ3M1cUhxamRjZlRvSVA2bENIQzlRaEVTNzVCT1N4T2RCdw?oc=5",
    "data": "2026-10-16T05:20:11+00:00"
+  },
+  {
+   "titulo": "Conta para menores amplia acesso de jovens a investimentos e educação financeira",
+   "fonte": "O Estado CE",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOTWxnU0VzWWRzd01zZUtHQUd6Z09rRkZUdVZPc2pkTW5VQl9JZWViSWJuTkJWS0hjUm1uMnp4d2JZLVlZaU9yOTlkS1J2UW5vb0g5YWpjb2dRUm1DVGk2M3pSNXZsX2o3Mm1LbEU2d25DMlVEVWpZY3Z4N3BNYmt6VEhmNXRYeEozT2E4V0ZRQTBsZmQwWGttY3VyU1AwSXVrRFRCNllwcG90OHFSN2ZEdmtjOFB5QQ?oc=5",
+   "data": "2026-10-16T04:45:00+00:00"
   },
   {
    "titulo": "Moedas asiáticas estáveis enquanto dólar recua; rúpia indiana sobe 2% na semana",
@@ -57,36 +87,6 @@
    "fonte": "brazileconomy.com.br",
    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNeExFV2NWbFdhVjFEWk84aE05YmdxcmZZcndPNEoyU0taT0dtSjUzWWRWSUlCYUFmT3hIcHQ4djdRZUx5MnJ6WGlhdWtlV21uSXk2ZGMwdmVlQWdCcXJ0YjJFb0xjbVZJbXVxbF9qSW1XU3lsYWQxX0EyRVEwRmd1QVNPVFZoSzZfNkZUSWNuSmlpMHlrWVZFQ1BCbTJHLUJOVDQ2aFRrNnZHUldKSWFDZ3JoNXVHS1dsLWZkT09YQVRnUzNaMnFV?oc=5",
    "data": "2026-10-16T02:58:46+00:00"
-  },
-  {
-   "titulo": "INVESTIMENTOS. ZPE de Cáceres busca atrair novas indústrias com incentivos e vantagens logísticas",
-   "fonte": "Sapicuá",
-   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPRWVUQXNlb2h2QnM5c3BDa2JmUnpqTW84Wkc2UllzZmFQS1RteTNManZiaDlaMnByR0lGMHhLVWdGUjRFWDZVWkU4NWxua2IxU2UzQm04WnhzVG1mRjl3NDJWS2ZGeDFIUk9SOUFWU2xqVFpwWDR3blh1dHZ5ekxUbDBrVEFlVVprQ2ZjVXdqdXNINDFGb0M5YVpwYmpEcTNvdW5vWFl0VEp0TUs1NUFaYlRtRHczSGo4Mm5lcmdlemI?oc=5",
-   "data": "2026-10-16T02:48:23+00:00"
-  },
-  {
-   "titulo": "15/10/2026 - Dia do Professor: Lauro de Freitas destaca valorização do magistério e investimentos na educação municipal",
-   "fonte": "REDE BRASIL DE TELEVISÃO",
-   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQX3RjOVRPNEpzMnlQZkp2Y3ZJWGpSYXZvUkZTRjVYR1NWRkJjS3lVZTRZZVJLX3h0S29mYUtUY3pWZGJZNy1RUVhTU0E1aUd3T1hBU2V0V0NaVU03UDhmSXFwd1dIOGlUdlZXVTh6V1M0OWZESnNNMGRTbWdabC1pTDRQZGpjd0xIbmQ3SUZTNGpyUXo3YVdzWnByOVg4MzVXVVdPRmJld19keGpkNWNVbG9nN3BCWlkyZVhrWXozMmhMTkU5a3hyU3lRdXVCVnlIS2tiWlF3clBlRElyZE10c3F3STc?oc=5",
-   "data": "2026-10-16T02:32:10+00:00"
-  },
-  {
-   "titulo": "Corsan amplia resiliência dos sistemas com investimentos de R$ 1,88 bilhão",
-   "fonte": "Jornal O Sul",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQMEdTRDl0NmVTUjU4MEhVd2dNVUY4dzllRFplRk9EbUpOYUdGbF9QRmdBUjB1RkQ2ajRlcXhlZ0JaeWo2S3ZhWkZsY3N1YU1RaGRrRWM2VkNkdHJweExxdEhyVGEwYTNfYms2S3NjMGdVOGJGamxwRW1tUldZTFpCaEgtYmZ3RVdja1RwSWpUX1ZfbnNsVHfSAZsBQVVfeXFMTmhXTmw5QjJ3M2RGdnh2b0VxbWx3bkhKcmNtdm56UFhjeTN2Qk1XMXYtMFdsZFFOaVp6cm9LZXpHT003WTlpN240TlNWTmF1VnhjT1dTdTBQVFpyLW5jcm8zWFB6YmUzQ3JncndoZmw4eG9GRnJfNl9IU2RuMVV5VEdtamM5X3pRZ0wyQ3NmcDI5NnlkY0l5bHkzZWM?oc=5",
-   "data": "2026-10-16T02:29:40+00:00"
-  },
-  {
-   "titulo": "Dólar tem forte valorização de 1,17% e fecha a R$ 5,08 em dia de cautela",
-   "fonte": "O TEMPO",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxORFBYN3ZmV3BGUXp3VG9sMTdPREVOdWhOUTVtRGNyVm1hWTJtcUs2Q282SERCT1pWbUtkRFcwMEFPRUtSSmdnZzdtTFJ5MlUyUlI1QzdYOXd2eml4MjQzMW1fQS1LcGoxdzlRc0d6dGtBZlZWVmk4NlhvMDduREFUZndLLThSc3FqbTQtN2pHTG5XVnZ6YWh3cnJRbTRUcGlrcVI0WG1YNVBXRDhiYXJ4S1otVFNwbG8?oc=5",
-   "data": "2026-10-16T02:01:57+00:00"
-  },
-  {
-   "titulo": "Lula reafirma que vai manter reajuste do salário mínimo acima da inflação, em sabatina do Jornal Nacional",
-   "fonte": "Brasil de Fato",
-   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQZXltWll5dmpUNDRIQmdMWVdMSXpHVllxQUhNbDlEOV9CeUkwRk51b2xOZk41WF9xeEY4WHh5RGllV3VTOHNLeDVKRTQ0a0JVR0VsWDRJNnlGSXNldHl5Nlk4MG9mSWR6b3JlQ3lkcVJhZGhabnRlNnlIM0lTVGstRHZvT1BIWFh6dFhTQkpoYVVsUl9MbDFpNnhQNzlZbzktamlnbEI2MGNWVHBNTkphUHd0NjdnYVEzTzdQRjBiMzloeGFlMS0tUXRVSHNMd0RybUpKcjFZRmtoLURuaENwX2lB?oc=5",
-   "data": "2026-10-16T01:30:00+00:00"
   }
  ]
 }
