@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-10-16T21:33:04+00:00",
+ "atualizado": "2026-10-16T22:33:47+00:00",
  "indicadores": {
   "selic": {
    "valor": 13.75,
@@ -17,76 +17,76 @@
  "cotacoes": {},
  "noticias": [
   {
+   "titulo": "Ibovespa recua 1,74% na semana com pesquisas eleitorais; veja maiores altas e quedas",
+   "fonte": "Estadão",
+   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNekgzOU9nUXVZWUpmdzFuQ1ltN2YtQUJTYXZzc01uZm1nQl9uLURFcE1sejI3U3ptSW9qeU1aOWRHZWt6cFpJYWdjTjdsdWtLVzBiUmhwVjB6VjY5QXR6eXJ3djhEMExzeW9QNGY1ekYyellYaEdiVzdIS3B1bGgwMmItSS1VMXFTR0tlZUY0TlNkZkRLYWdXNmpqWUt6NWRuUUZFdGR0a0JjNDhPMWstNlpTdlFSX2xJaHJSMm9SLVFFWjdCb2VBbTVUQ0VPREdGM0wwdkcxWHpKSVhQX0VtWi1R?oc=5",
+   "data": "2026-10-16T22:32:28+00:00"
+  },
+  {
+   "titulo": "BOLSA SOBE 0,54% E DÓLAR RECUA PARA R$ 5,07",
+   "fonte": "Bahia Econômica",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOSWJKNlZ1VE00VDFwUjh5LXZrY3diYmVYWFdKRU42Z19ka0x3dGtwdThvZTItR2NUWmNEWS0xV09XRVAtTzJmZG1UZ080MDJfU3RjX3V4aFFCSm1DRmRKdUZuUkNkSDhfWHJyTml1WHhGYkVHd1l4Zk1KOGRqRDlSRFpqNVZqTlhGa0NwT1owQ1Y5cFd1NVB6R3pqMkg?oc=5",
+   "data": "2026-10-16T22:16:12+00:00"
+  },
+  {
+   "titulo": "A Semana na Renda Fixa (12/10/26 a 16/10/26)",
+   "fonte": "XP Investimentos",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOM1I5RnROYWZqeFE4djJzUlFzcEl3ZUJ4ZFZzck5YMjB5UUtVOHBXWW9wUTJYX1hBYmllMzMtczltN29NcEhJUnNMYTNFSHJ1bEEzUVJ4NmdPaF9aZG9xLWRCWHhoTGtLQi05UnRjVDJCUUFYdXNwZ29HMDVfaWJRVUxERzRmV1pRclBKS1hEemZyWHhmcUVEMHV3?oc=5",
+   "data": "2026-10-16T22:14:31+00:00"
+  },
+  {
+   "titulo": "Dólar fecha a R$ 5,07; Bolsa sobe nesta sexta, mas acumula queda na semana",
+   "fonte": "UOL Economia",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOWS0wZXRDOU5paWtGU215NmtTck9lbmtxY3FMUjFBZTVKMFUyTDdNbmJqMG9iOVRGZHF5Q2JrVzJMcGcweGVMSllxMzBtRXVtUkRsVU1BUTVycElHV3FmUXdzWUY5TzE0Zk5fYUNaVEZqT0NyQXpib195UjB0VW5SdWhqeHVJb0JKUEZhb2pKUm1mSTVZRUNoVXRHMHFVaU03cnJYaHo4ejhPek1HUk1sMEdqSmRFMXFTLXgw?oc=5",
+   "data": "2026-10-16T22:10:29+00:00"
+  },
+  {
+   "titulo": "Ibovespa pode subir ainda mais? Citi vê sinais de uma recuperação que está apenas começando",
+   "fonte": "Estadão",
+   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNUTR5b0FSR1ZQbVU3ZjQ3QWRZRFpPXzBvN0NrRFBkYUdHcDNvMkh6V3h2SUxpTDU3eWJJQUtzcGM3TUFsY2xJbFp3QzFId3A0UFBOXzk4VzlIazNoYUg1MmZjbWZRMkVkcEE3b2JMXzQ5ZHc5a3ZqWGowZ05PLTY4cjlJYmdrNk5nLWR0WEVkdEl4TmV2c0NBLTFtTWRVSE05Q042ZnZJZ0t4cW1xcGZfcmxLdTU3cDFKaWd5SHpNWE1Jd2w0TDZ4X2U1SlhfYWFkSFNNeWxsQ3JsUnh2X01Ec2w5MNIB6AFBVV95cUxNak1mOXRSM0x0U0tnNzlqb3I5WEZMcTdtX3hPQjMzYWViemdfZl9tam5PdzJNVC1IbGFHWnJ5SUs1NXRWT24tSzV6WHpFaDBfYThvTXBUQWZXbmR4dWhvU1ZXcVpQei1Ja3B4dXF2aE9oLVBIZ0FTaUZuRWF0VDg3eUZlMFV1TkRQcUVONi1ETktTM0t6QnU2dVRRTVJTSUpSd0RUM01WNnBFTmtaY1BKTmlRbm96WmpzdWN0QUlHZzRKdi1TazZyUkR2WFdRTzNQTVVsZEpiUTllemt2T2hRYVJKVUFRVWFa?oc=5",
+   "data": "2026-10-16T22:10:00+00:00"
+  },
+  {
+   "titulo": "Ibovespa e dólar hoje: salto do petróleo a US$ 100, tombo de NY e eleições",
+   "fonte": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxObDFKQ29nUDdSTGNlbnhRaGJsMGpKcjFaMFU4VF9CUEZoSHBKalR3UF9nazJjaFVVeHZvTGpmX0QyQUNKTWViSnhYOUFraEdjQWFzNFM3b011TWtRc2lPWnZoQTFoZ1Uwb1hKWHFCODRySTZsbDd1bDJ4UXBONG9paFhJQzFtOUMzZnhmUGFtZEtHTTZ1V3JmdDh5WC1OMXZvS1hjT3ZPb1lwMTMtVzVaRVhmUE1NMTNrdHlrWmpfYURxdmtqeGc?oc=5",
+   "data": "2026-10-16T22:06:00+00:00"
+  },
+  {
+   "titulo": "Dólar cai 0,63% e fecha a R$ 5,0646 com eleições no radar do mercado",
+   "fonte": "EuQueroInvestir",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNX2pzSkNtWDFqU0pCcV9xeGVqelQwUG9nU1dmYWhUU2xQdEtyeE1kSGJaMlYxQVlWU2tERHloeXRMMU5uVEJHelYtZmxGTUJSZUdJZGk4dXAyWXhzV3hvQkdnN0lrTzZ6WUctSVhUSHNCT0wxdElkTjd2Tk9URFU2RlZ3NGplaDl3?oc=5",
+   "data": "2026-10-16T21:58:48+00:00"
+  },
+  {
+   "titulo": "Prefeitura de Belém vai ter R$ 1,5 bilhão para investimentos",
+   "fonte": "REDE BRASIL DE TELEVISÃO",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPMTZ5aGJtblhrYU5nX0hHMXV1Sldwa2RvR3IzWGRvcm16bkVDeXJ1THRLUFNNNi1TRFZpcWxOQVppX09hTjBBMzJMeG56X0xETXAwSGhqVmF1d1k5bS01clRKYVk1S2dielB5a0tCYzdEYXJqaWwtRXJHT0FxSDd0V0o5Z3ZnTDl6N3JqXzdXR1lRay1XcF90eQ?oc=5",
+   "data": "2026-10-16T21:58:12+00:00"
+  },
+  {
+   "titulo": "Empresas propõem R$ 25,2milhões em investimentos por meio do Prodes",
+   "fonte": "Capital News",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxORjdJVUpFQm1wMEJtWWVXaGxVX01uYzI5NGMtbVcxLUZjRUQ0ZmZCb28tRWVKa1VMUjMyWlV5YmtDSFIwbHlEUDJMbnFiX0gtelFXUDNHUEZjUVpSWVNueEhrWTFHV3RGNUxaUG1VM1UxODdHZFhsOG10YVFTSjNGNkIwdkh6bEgxX05WVU9RU1VHSVdhZlpEZnNpWHZIb0xZVWpRb0ZhZHJvSjRRb1MtVk04SVlaRWN3RUZRam42YXNFVEUySEFicEp3?oc=5",
+   "data": "2026-10-16T21:40:00+00:00"
+  },
+  {
+   "titulo": "Dólar cai 0,28% e Bolsa registra alta de 0,54%",
+   "fonte": "Poder360",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNYkNJaVFlTkktMXktaXVGbHJUMjNlOElKYlhSZmVVRkpmcGRteG9jQ1VrU1JxUk10ZG56TlNselZyQW56blVwR2E0c3l4N2FoMWx3Q2ZhY2tnWnZIV1dnVU1nelV4eE8wZlg3VFBxOWlLak9UN2RiSG5MYnJRMnpfMmN1c2dmVjRuQnI1X1A4UQ?oc=5",
+   "data": "2026-10-16T21:33:26+00:00"
+  },
+  {
+   "titulo": "Tesouro Direto hoje: taxas voltam a subir e prefixado paga quase 13% com incerteza eleitoral",
+   "fonte": "Valor Investe",
+   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQRWs4SDBJUHI3VUpwV01TcDd1UGtuWDROMWZsenhpa2dzM0Z0dVVtTmxMbEhNdkJRMWhheThIR05jU1BISlhUZWJKWFRrTlNhVmlTMGNnaGROTlBVUm5XSEFvdnFHeW9DRUxNSVRRNjVXS2FNWXpYRVVxX1Y3Mmc1bW9uOG5MRUtjNXVwOTdXX053b04xV3VLanAzSEhaTEphTGtVbWpRcUw4N0ZJSEpKSVF2WmRZZ3dwckJzeE9sbHMzV2xKNlk3dVdGYW1HcXZMUk9wU2VZd9IB5gFBVV95cUxQXzVZRVdxZFVQT1k0YVd5eVhKRksyM2pmUVZLWGZ6Mkl3OU1nY3BXZVBrOTA5VFhUZ2JrSjRiM2d6M0tyZ24xQjN3bVp2VzB5TWVZaTZsVEpma0t6MUNzc2tGZTR1QURHZmk3b2FzUG5IY20xUndXdXJEMS1RVTUzNVl0QmFycGxOY3JYZkRYZlhXMC1RMVRMSFZENkFiZDh5c0lPdjlLa1pxTlZSZzh3cER4VUhuTFc0VzEzWU5zaEJGdU1JR1B3Y1EyN282bGduWGN6Z3J6SDAwMzdOMTVhS2Q5SDdpQQ?oc=5",
+   "data": "2026-10-16T21:30:34+00:00"
+  },
+  {
    "titulo": "Ibovespa sobe 0,54% com Petrobras e petróleo em alta; dólar cai a R$ 5,07 e corrige avanço da semana",
    "fonte": "Times Brasil | CNBC",
    "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxORmRaTlE3MFg2VU92NEFrVndHVmxlTXl0Y25FVGtUWDM2S1ExYkxXUXI1SWtzcWVBWUt1bzdNRnh3TWNKZXVwWFM5VHo1aHRyVW1ranVBcWxKWHVWUlFvSDcza1ZUdVNBOG51Uktvd2JoWE1IRzFEOENIbUpTanllT2JwX1loUGEwQnE4aGdjeE5ERGl2NkRSMkRXTWZFc2hiTW5lZkRmTW5YVjJmcFpVQWtGQ0pseGpwT1Vqc3NIOFJvOXJrNlRqUnlBY0owWmFDR1lMdzdvZDhSV3M?oc=5",
    "data": "2026-10-16T21:27:00+00:00"
-  },
-  {
-   "titulo": "Ibovespa escapa da quarta queda seguida, mas não salva a semana; PETR4 dispara e bancos pesam",
-   "fonte": "Suno - Investimentos Inteligentes",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNb0ptbEZCMzFlaS13OXd0LVdZaDFjVWlTcnFfM0R4MFlReDBlMkxyMm80QmN1LUU0VTJQN0F3Z2hlOE1PSzRFNnBtQVpLMS1Tanh4YTRUUUNhaXZtTUZkRW1tb1FtR2VjZFdyazR6REpsNUpINFBHM0p3aTVsWEFnUzFiVXFELVXSAYwBQVVfeXFMUEhMNUZwVFZpaUpJemNxdHBieERVelVWcmp1REJDekhTUHpoTzgzaVhnNmVGZlZzckhlRHV1eUpobXRTYkdGT2FfdTlJUFhiUEtMOG9ENjc5U2w4clhqdmNCZ1BndVQ2ZVFnaTY4MExiWUl5by1kcjAzZnRHWUxNWDFKdTFKWXR4eFhUMTY?oc=5",
-   "data": "2026-10-16T21:25:10+00:00"
-  },
-  {
-   "titulo": "PRIO lidera ganhos e Vamos tomba em semana de correção do Ibovespa; veja destaques",
-   "fonte": "InfoMoney",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQRzJCZUdCMHU3d0hRTFN1YVE5d2dVTFA5SE5kMUFpWDNla045UGlmQkVhYzhGcW1GMWRqd2xubHI0RWNrTTNfYm51eTZyVjlWQXdIcE5xZllsNGFTX3pnR2dBNGV4UVZhOFUzcDlhTHdrTHZvSVNxOW9WM0tHaGFwVG9UcVhhUmNQczBJV2RIdnI5a3pJcG1BNnN2ZmthdW9MWmgtd0pBWFBfZ1RlUkJwN1g3X3RpdkM0eTNLWNIBwgFBVV95cUxOQ1FmWURWWVdWeENidTJJSUJfa24tSlp4N21leXpUUFhmSmM3RTBRZ2lmR18tb1EwNDJVUWtTY0VLSmVSQnFERGExR3dqXzZyYmE4b1FvdEQwbGZkRURRYVF6MHQzQTEtcE1KUEgtMzFqcGFRNk5RSGQ1Yzc0WWtxTGJ0S2lwYjFtNTB3UmhsY0RPUFNqMVBpYXpjVWFaRDdKcWY4Wm01UWxfNVJXT0xCOGlMaDV6cERWSVNXNDhpU3N3dw?oc=5",
-   "data": "2026-10-16T21:09:24+00:00"
-  },
-  {
-   "titulo": "Lula pede voto aos alagoanos e destaca investimentos em educação, moradia e saúde; veja o vídeo",
-   "fonte": "Tribuna do Sertão",
-   "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPSmNFTy1aZVpmNVJkM04xcjFMWHY3V3g2eXhiMmtoZzZuMndTMFFsQ3U4MmttM1RFTVdsYW94aVJTNXIzMV9vLXpxZnBMOUhiRDhhUUo0dEg5VVdtYzJSQWdzbk0zR29YWGtfVWx5OGVWdUQwQnAySWw4MnluVkZnczBwTG91ajdOb0h2blpKRnY5aFBTNTMtWmFUWlU2V293U0ZhY1FNQWxqbmlwTTlBYnllcFRDdTBYaWRGMXBDc3lvQVNnRGF5TkxyNkVhTDZrVTdFNFVvWFlvWVN5RzZGT093Wk9TdWtQMVA0?oc=5",
-   "data": "2026-10-16T21:04:00+00:00"
-  },
-  {
-   "titulo": "Dólar fecha a R$ 5,07; Bolsa sobe nesta sexta, mas acumula queda na semana",
-   "fonte": "ICL Notícias",
-   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE45Z3Z0RXIzdUI2c2pSbkhRRUgtaXBjMkxEbk1YWWk5V21YaFFIalBPcVVNcEV4UmE5dVdyTXJOeUJPc2M2TDdiREZzakI5U2JsMlBRbXJlOFdTYjUxSWRvTzhJMDhESTBVTkRKd3o1N1FDOGNpS1VUSE1kOWY?oc=5",
-   "data": "2026-10-16T21:00:34+00:00"
-  },
-  {
-   "titulo": "Ibovespa B3 sobe com ações ligadas ao petróleo e IBC-Br, mas cede na semana; dólar cai a R$ 5,07",
-   "fonte": "Bora Investir B3",
-   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPX0h1bzlVTWxiYlBDZW1mb3JUUEFQZEFmaE9fcEZqanI1VHJsVm1TMG1TZHdWRmViX0VSbnY0X1ZBUTd1QzlGbk50V24zYUNfZDRWcmswR205N3ZzUl90RXFUelRmU1dPYW9tTks5UWF6Mk10ODVqeFJjUUs0LV9HRUZ0OWoxYnZ1cmNJWThKTG1HRzN6c0V1c29lS0tINlF4OWwzTGtDYUNLOHNzNDI4UFQzdGpsbmFHTmkxWXlzamQ3Ti13SlBTLTRvWXl5OTFMbTUzM0VSUS0?oc=5",
-   "data": "2026-10-16T20:58:00+00:00"
-  },
-  {
-   "titulo": "Ouricuri destaca reajustes salariais e investimentos na educação municipal",
-   "fonte": "Blog do Alberes Xavier",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxONG05SHV5M2w5SjJTMmdBdDQtSWJxaEU0d0tvZWNWNHg2ajQ0aktjM0tnU2xWUkR2RzBldl9pRmcwLXZUTFdRRWRlR2ZuRmNSSVhMemNrbTdmZGtMTkFuMDcwQWZ4bUw3c01BUlpvMS1HVjFGMXhKRW1kSkZOSXpwNlZrWEZOZkZRVk9oRXZLRFBiUWdrQWtIMzdfNXFyMkJRakc5MG1DcjhYS3J2d1NqLWZXSmVwVExyZUI4QmZn?oc=5",
-   "data": "2026-10-16T20:56:00+00:00"
-  },
-  {
-   "titulo": "Petrobras salta 4%, bate novo recorde e segura Ibovespa no positivo em meio a cautela eleitoral",
-   "fonte": "Estadão",
-   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOemlCVFBmU0cyaEpWR0l6Z2lqeVdxbzJWMFdGTEw3NEJhSUZLNmVuRmVIaVZxSUtQNmhrX2RXUnNWdXdpdnVsWTIzQVNvUUI2QVNnMEZWdzBOWnBvLVdLUnV1dW1PcFl3V0oxQ1FaVTNWeXVvVHNMOG9hVW9qd21iRnI1WDJFTnBtRGcycUxFN1JmLWZhakxHaEZVRlZiZzVxZWN1ZUlibkRCWEZpZUE1bVQ1TEs3N2JwMDhmWGx3aHFBTXdjVDF0Um5CWWUwWFczN2NkcUMyMTJobWV10gHiAUFVX3lxTE9WTUFLLUVtdlF1Yk1LZjdEbkdYX2JjeF9HS01FWDJXajhnMTQ3aVNhOTB4cVM5WmpJaEd1UEhZa2hacG12a2ZDMExZOWt6RHZiMVhYd09odV92QzR2YzY2dzVFb2FNdF9rRGVtMm9RLXhBNy1pR2hrRGwxemliNFhDdWxGVGMzQzMzTG5IOG84RURCa09pbXhRSU1MQ1QyU2hQM042MC1KMUNyall1OTBxNW1WMUVjcVZ1cHQ3U1AzSmc0THdvSlNvempkamh4VzJpS2VGNjZ4SzA1UHA5cGdCd2c?oc=5",
-   "data": "2026-10-16T20:52:00+00:00"
-  },
-  {
-   "titulo": "Ibovespa sobe nesta sexta com Petrobras, mas cai 1,7% na semana com cautela eleitoral",
-   "fonte": "UOL Economia",
-   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPd2VrOWN6UkFObFh6aDNXWC1FMnpLVW50TnkwTlV2QlVQUkcxWV9hMVZxbzVwSUNGY29xazBJT2hzbTEzSWwyWjBZY0JzSFExQjN0N3BKOXZqUUFrZ2NMLXB1UW0ycGwxck1wTDZyc3NzcXo1eFZSSXEwcC1ROTNNTlIzUG1lNDhFMjlfbVExYmdiTm1yTWFjV292UmRyYUpjQTM2MUNsZDRaYVp3dXctcDE1TXMwU3pla19qamhHVHBBTUdGTGtXQXpocE95MGNIdVVTYkdJZ0ZZdTJIWmdxQ2JQUTlPQQ?oc=5",
-   "data": "2026-10-16T20:52:00+00:00"
-  },
-  {
-   "titulo": "Ibovespa registra alta nesta sexta-feira, mas acumula queda semanal",
-   "fonte": "Tribuna do Sertão",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQOFVQLVkyWVZmRVBYRkVsaWtLbXZnMkQ4XzBabjhPN2pDMjFodWcwVTcyeVprczlVaHFucUpDZXNUSmp0Snd2THF4WnRrX0trUTl4RGxGNVgxTG4taWZCMThwa0NMUi1sOHhUX09vN3k1d3FscDdhYzZhejE5VkZXMzZCUkMwNXdZLUgtYmk5N3BmTU5GNm9hRGlUSVA3MDFUODVOZi16X25MLVNqaURpUEU5UkVQYTBGanZnVXJwa3FJdVk?oc=5",
-   "data": "2026-10-16T20:52:00+00:00"
-  },
-  {
-   "titulo": "Ibovespa fecha em alta com disparada do petróleo e divulgação do IBC-Br",
-   "fonte": "TradeMap",
-   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE15ajRpbUwtMmVkN2xBd3Y2UFpfZjI0SWlhUF84NGk4QVJCZ1NSOHRkQ3d2Tk8wbldFUlBUVWF0Q3Y0N3lSLWdfSGw3WW1tZ0phSTJHem5uaUE?oc=5",
-   "data": "2026-10-16T20:50:52+00:00"
-  },
-  {
-   "titulo": "Ibovespa hoje: índice fecha em alta, mas acumula queda de 1,74% na semana",
-   "fonte": "EuQueroInvestir",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNaGctckhocG9YRFNWSGl0ZDg4M0FVQ2JFVVpmZDhLT2t6QnNaeEVXVTByOXVBZEM0b1dsQUNSNzNwWDBoc2FfaHFXUWV5Mkg5Y3BaMzFBakVDUDQzN0lxTmk2MlNETTJVZjU4Nk1QSDQ1ZzRLR3h3S1dvSVVnQTdOZ0RMbkhiYWptUTYwemdjUzFHcE04V1JhNnNIcW1Od0JsU3N5VVpB?oc=5",
-   "data": "2026-10-16T20:48:09+00:00"
   }
  ]
 }
