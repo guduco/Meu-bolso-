@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-10-16T18:38:52+00:00",
+ "atualizado": "2026-10-16T19:33:32+00:00",
  "indicadores": {
   "selic": {
    "valor": 13.75,
@@ -17,10 +17,64 @@
  "cotacoes": {},
  "noticias": [
   {
+   "titulo": "Nexa lança plataforma de investimentos sob medida com IA",
+   "fonte": "Startups",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQMVNVTUxwd19tVlpaU0x6dFk3U2J6WE9idmFxdjE1WkpoTVRhV2NwN1VSSnFZVjBRR1RoMUF3aWMtTDI5bHlzMml6RlhIeXFIQkVDaVA2LUlPeUI0dGFFdFlwbjJYX1NELWtEUkJJbmZ2WnlLeTQ2M0laWjBKQ1dGc3VLNGVtWHA3a0QxdTJTbDZJUlVOcElaZU9ySmY3aWs?oc=5",
+   "data": "2026-10-16T19:23:13+00:00"
+  },
+  {
+   "titulo": "Ferrovias do interior paulista podem ganhar novos projetos de passageiros e investimentos em cargas",
+   "fonte": "Âncora 1",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPZkFqa1JTd3JWWUgxSGtLdFNtb3hEaE90RDFxaXhMRFphNi1qWndRRTRMQXRJd21JcjUtR1ZDUW1iaXNrWVhJRjR2eEhORGtoZlpnTElkZTNJN3Rkc044TTAyZ1RYNXgwVjE4ZkNuTVoxQ3F3eGo2cGNZVks5Mkt2eXpMWVNkdkV6WjZSOV90QWZfeUxiYlJzM2RWYU9zdV81X0NVbXA3U2NPSVRzUmQ3ZkkyN1ZEb0M4VzR1WmZEYnFpeVJDaUVZ?oc=5",
+   "data": "2026-10-16T19:22:12+00:00"
+  },
+  {
+   "titulo": "Selic & Juros: a matemática que manda a empresa brasileira não crescer",
+   "fonte": "ND Mais",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQQllIeHV6NlZQVGJ6Q24xbGpRdVBmU3lLdUFOaEcxYlVmYjRhMEV2TG1DcFRVVGpHckhJUEgxOWMyWEZsZWNfeC1ualdjVWpVNVE5WWdWYjZyUzloZ2tUa0NWT2tSS2RWa2dmY2FTakxoaXByMXlOR3doUGZhQTdYZnI2WGxxUjR4X2lWdllMQlFCYVE5TkFvcXdpN0V5cmJnaDRfaWNaU3hnam5h?oc=5",
+   "data": "2026-10-16T19:18:26+00:00"
+  },
+  {
+   "titulo": "Globe Investimentos conclui aquisição da Avibras e anuncia conselho",
+   "fonte": "Band",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQdnRvVkhpdFQwcUpGa0tPWnEzWGFINU9YRGQyZlNHTlBTb2tULTN6c0NXWDVyU09yYzJLQnREb2s1SVFjNXRkV1hQM2NQNUlSTC1yYkcyV3dnUUp6RGZ4WVk3bFllZ1d3eUROV2dXdWtxdWhEb0pQM3ZQRWlDU0w1RW1PbUtvckdyTEtBN0pGLXlRUzRTeDNBMVUxTGRPTHJZQkE?oc=5",
+   "data": "2026-10-16T19:18:00+00:00"
+  },
+  {
+   "titulo": "Empresa de investimentos completa 10 anos em Blumenau com R$ 1,35 bilhão de clientes e seleto clube de descontos",
+   "fonte": "NSC Total",
+   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPdmtHUGVWUlNNY3RObWotTndDVXI5bTBQVnN4Rnh2YmtOM1pCdHQ2bnZqMS1xbU9VU2ZTN2pIa3lxSjh2ck9zX0t4UzlBTW0xelZjRDM5MDlLbzNmZlVhajlQczZ2RFpMWElTT3F0bjlkVDBhMGtwRmJzV3RfaHdOVUJtMzFlZlh0NFFKcm9ENlZpTmxnSmNMQV9qeWgzckFFbU15SlcxTTlScjB5cFUxMDhqeEVVSWtVbndjMkZkcEQzaG1uOVVVOXU4Zmg2alpRX0NfbkpyTlUwV2RTZW16cQ?oc=5",
+   "data": "2026-10-16T18:52:12+00:00"
+  },
+  {
+   "titulo": "AZEV3 sobe 11,4% e Ibovespa ganha 0,4% na B3 hoje",
+   "fonte": "Visno Invest",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPTHozdm5icmpROUlzN3NiNHlfZWxsR2taVWU2XzVTdC1GSlJFYjZIdzNwa0pUUUZDUm5NYloybGg3OWpOMUstTDladmR4cHNhM1pBQmdkbzVwSVVVcDhEZDd5UEt1MUVnLWhRaEF2ZWpqQzNjdmhfcjJ3cDd1Smx1U0NkWnRYVlJsR1hV?oc=5",
+   "data": "2026-10-16T18:40:00+00:00"
+  },
+  {
+   "titulo": "Aceleração da Inflação nos EUA Aumenta Perspectiva de Novas Altas de Juros Pelo Fed",
+   "fonte": "Forbes Brasil",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOQTNpMHR4aFFSRy1qT0dQTXZCTHJvQWoyZlpwWDhnTV82czl3NkVSazAtZmgtNVFWN1FrbVY4ZGRYTUtEZW50dlpoWjZNaWszMjQxdXR0QU13bDBxVDNiRld1bkQwbkJTNjRvUGxJOTVrQ1BPenJLckV3MkFGVThxY0F2TWtVQQ?oc=5",
+   "data": "2026-10-16T18:39:42+00:00"
+  },
+  {
+   "titulo": "Fed: IA impulsiona demanda, mas efeito sobre emprego e inflação é incerto",
+   "fonte": "CNN Brasil",
+   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNcGNqUm5jM2ZkZ0JjV3g1dHRZWFdKeU1OT2VIbGE5Y3VSS1duNkhVcU5QS0dBSmx6emxwRVZoMFRRdHRONDJaYTI4aWZCWUFlTnA3TzBrZEQ3b2haNDJSdDRMcWhPT2Z1NDZXakNGV2N0d2d3dDdDWjR2QUE1OGxiSUQzbFphN1p0Unlyb2JsbjdiQkEyMi01MU0zZ2JFTUZSRmpSbzNzbHQzMVQ4enkteHVEbEoyRmpNOWYzenBqbnZrOEF5MEdnWVY1ZERaNDhkQ1o0QnZPNA?oc=5",
+   "data": "2026-10-16T18:35:36+00:00"
+  },
+  {
    "titulo": "STF vai decidir índice de correção de dívidas da Fazenda Pública após alterações constitucionais de 2025",
    "fonte": "stf noticias",
    "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQSTIyWWRQQk50UE5OM3FYZjFsMFBzN1d3Mk8yTmtIdGh0aXdfYm1sV3RZRDd5YWt2d2kyWE1VakdiS205bDRVaUR3UF8wOHhuY2w3LWVwbE03ZWFhM0lLWkpGQkNxM3FpandobzQwYVZMSElZNVdyRzk3OGJMRVRKTWZHdnNCSy1veFRXUVVSdjRSLW1yNF80VHNsanJUNmtJR2NZVWM2aUJEWkZoVVFNODk4czY0WkQ3a3BRV0JpZXN6QWFtOHBUNHZJclBwOHkyV3RzclhURlQzb3VCZDJFMw?oc=5",
    "data": "2026-10-16T18:33:00+00:00"
+  },
+  {
+   "titulo": "Citi vê 'ponto de entrada atraente' no Ibovespa após rali pós-primeiro turno",
+   "fonte": "BPMoney",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQYTNoby1uNG44WXVLMDk3Yzk2TXNndmdaMEZ1Ymt0N3NVcjNEbUk1ZFZpMElNU0FQdFJMenBEVWVPbW5JUGxkbnNjZFk2WW95YkM0SFVFdmJFeTEyV1NkREM0LVpuc2NEV2xFSmN6RVk5MWtUY3BsTDcyeHZma1dKT2RpSlQ5VlZsZmN1dG10SnA3dVdyZHE5TjZNbkJLN3ZZUHRzcmln?oc=5",
+   "data": "2026-10-16T18:27:13+00:00"
   },
   {
    "titulo": "Tarifa zero de Lula pode custar até R$ 60 bilhões e reduzir IPCA, estimam entidades",
@@ -29,64 +83,10 @@
    "data": "2026-10-16T18:23:00+00:00"
   },
   {
-   "titulo": "SDE estreita cooperação entre Bahia e Portugal para atrair investimentos",
-   "fonte": "ba.gov.br",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPMVdGQ0Z4c21BcW9uY0xiQnJRdnlhcUNEOWxnMzBTZEEydlJEZl83RjNzN001MC1tamdpcF9Ia1lxUVY2TmI2ODVNTU9tbTJQUmlTU2Z2VTROOW9ZSnZjaHNtcGZpR1plcjdkWDY1RThSLURIOW9mZWRob3B6SkFjaHRuX1FlTzQwcVNmTU5IcHRJU1l3M29kY29ibEswNVVTUlIxNVJySlpOeVhYYVBxZXhaSGJZU1Zxa0VvZ1l3?oc=5",
-   "data": "2026-10-16T18:17:03+00:00"
-  },
-  {
    "titulo": "Hora de trocar o Tesouro por crédito privado? XP vê oportunidade em títulos isentos",
    "fonte": "Estadão",
    "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPb3hUMzdiZk9XR3Y0dXZ3SHpLazJRX25DenNrZFBCT3hGd1l0RU05UGFyMW5GcDBTdDNQTmRFcWhDUDlsMnc4b19iYklvNm5DZUdpeURsOUdZX1NMUU13MGYtWkNUMDZWSHdMbGZXcnNQM3ZiNTQ2SHV1eWlIa25IWjEwQmthNlF2N3lZMlNKR294RDk5TGNUQjNpMy1JX3BNRlJ2SlpkUXlERF9yM1VCOVBjWDhMdVEyNDA5bnFJRkIxXzJDNkRKUFdKUXZleUtsbWfSAdcBQVVfeXFMTkZsRzlGTjVidEQxUFZqbTZTcS12N0sxbm9keEpVZEpMR25hODJQZE1uNXM2U3VzclY2QVB4LU02LTFFRnRmWENxR2ZkS1BPaGlqVEF5S25ZclZOT2dpOWs2YkxkNUI2TVhJSlFUcGhpcWFhc1BGNXJfLTI1bHRpcHpkS2l5cGN6R1NpeFIxNVN3NFM5dUJWWEc2TmVCaTVRc01vZ3RaT1J3UF9JN2ZRR3pWUktqcVBfUTNFSUt2ZHJVWEQ0Q3N2TjA1b2JqeTBNZVYwMmpuNEU?oc=5",
    "data": "2026-10-16T18:12:40+00:00"
-  },
-  {
-   "titulo": "Com a Selic elevada, vale a pena fazer a portabilidade de um financiamento?",
-   "fonte": "Exame",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNUFR3Nkw3TkhjSTB6Yjg3MGY3bTdsbFoxYWh0YTFiUWNEbFdlMkFqOGpfaDgwOWtUQVExcGlpRmxDUWVtMVdaRDNBTnlIR1E5Um04VkNDMlpxeFZuMldkOWFESlVWeHRBN2pJdXFXN1Q1OVo4Vy1WNkpoVkVRZTdmWHFlb0NnalpJY2wtTmdSY1A1RVlPaEgzdTlYaUxRdw?oc=5",
-   "data": "2026-10-16T18:02:14+00:00"
-  },
-  {
-   "titulo": "Tesouro IPCA+ devolve parte do rali eleitoral: hora de vender ou esperar o 2º turno?",
-   "fonte": "InfoMoney",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQbFFoNWY3X2hGQkEyX1VLc3NTSFVWVDhxVDdMa0N4Z19JSXFETlpfTHJ1QkRPMnpvMUJOdS1tSnlLa3pBMF93Qnl6M3duMzU4V1lla000NEdrQnlzYmgyekk5ZUZXajNLTmZIVnFyVjlVRkR5TnVPeV9KdWdQcmJaMXhjMTlLZktXN0NIa0FHSDExNkU2Z3Vick5RU3pSQ2d2SmVzTEwyMHVPU2ViRUJ3X1VhU0tvZlFXQ1NwMG01N1kzdzTSAcgBQVVfeXFMTjJsZjFXbldVYTU3bk9ETHE4NUdZWVJkM2JpaHBkME85WmRUZ0VBLVBTaG80Y0IyelJfZzhmdVMzSTZtLWhWRXotTGZyR2h1TkZlS3BVZnhuak1RSF9YT3lCVEhmQXprNzR4UG9JT0kxdkJNamVzZGJHc2VjSm0zTVJ4bmExcXRpZ2ZFZkcxNkJ1dWQ3cjloOHphVl9Ua0plYndYa2hLQXREcElzYS1lazJCZmR3QjBjdU9jTzRMQ2dvbjBmeDM4OWQ?oc=5",
-   "data": "2026-10-16T18:00:00+00:00"
-  },
-  {
-   "titulo": "Nubank (ROXO34) lança Nu Smart Invest; veja como funciona",
-   "fonte": "Investidor10",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNbGJsekp5ZkVUUGtZMzN0YnZmejZ6ejdId3lXNU1wejF2MXFSOTNHSV9QWUY4V2tWZzdRS1FyQ3FSUlFmM1kydzVya1RIY0pvaG1QdUQwUmwzUDRGMmVWQkdWXzJMVk5FZUwwa0h4LU1jR0FydmVJcjdMVVhjYzc0NUNWTjhSaWh5Q0dXQ2JoanFvRmtBY2lyMU05VEk2U2RBdVNoZVln0gGmAUFVX3lxTE1sYmx6SnlmRVRQa1kzM3RidmZ6Nnp6N0h3eVc1TXB6MXYxcVI5M0dJX1BZRjhXa1ZnN1FLUXJDcVJSUWYzWTJ3NXJrVEhjSm9obVB1RDBSbDNQNEYyZVZCR1ZfMkxWTkVlTDBrSHgtTWNHQXJ2ZUlyN0xVWGNjNzQ1Q1ZOOFJpaHlDR1dDYmhqcW9Ga0FjaXIxTTlUSTZTZEF1U2hlWWc?oc=5",
-   "data": "2026-10-16T17:58:42+00:00"
-  },
-  {
-   "titulo": "Semana das Commodities - Dólar é a palavra de ordem, é o que vai definir os preços",
-   "fonte": "Notícias Agrícolas",
-   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOQ05wSnIzNDB0RGZtMlZiVXhRYjlVNmNETGdiUFJ1QkJ0QWR0czR4TFB4N3NGS01Yc3VyTXpDMTh5TjZvdnc3WUZucGN1OXJ3c2thNE9wcDU4TXhqUHB5NUlxQWNDZXFraFRSb0c0VHRndXFibUpGb2ZfSDVWZnZSaWYtdmw1c2J0MHZhUGJvSl9sNFg3OUNaNGRkQ1c4SXhPbFFhLWE0MnRFQXRHcklabU95V2o3eGNia2dhR2paeURKWGFzRjZadTNqSWYxeGRDY3JpbXhkaWp2TlpmLW1BadIB5gFBVV95cUxNR0VEUUFkcmR5QjZiV0I4SjdaeEt6TUhQLWtGVF9lTjB5V1EzX3BUcW9OREU1OTFPRklKMi1DaGRpNlBWQ0Q4UHN1SFB4Q2t0ZV9TaWhjdXVuY1ZGT3hYUWRvU0Z3eGdZMmJjckRmbzZoYjZIVm1BcHJjem9KU1l4Z2Q4NWN4Zm52M29IZ0Y3SC1XeDctNDNVcGRjdllKbUMzQi1ibjFvX081QTVnLS1nRFQxWlczVlZjUkF4cUJzR1dJX084OWh3ZlZfX1cxOUtGNm1MeVAzWVJvVTZtbXhpcmdXbmVMdw?oc=5",
-   "data": "2026-10-16T17:55:06+00:00"
-  },
-  {
-   "titulo": "Dólar recupera parte das perdas e melhora parcialmente a paridade exportadora do arroz",
-   "fonte": "SAFRAS & Mercado",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNMG12TzYyRHJNRFVjaWx6aUVrcTBqdkRMTzVjOWx4ZjdBSmt3eGpnVmlFQW8zZ0l3ZmN0aVlIMDFTYktNeWVyLW9nbmg5cmtIVy1EdlBvZXZSTzJfYkgwNzRpVF9sZDA5QzhqR2hLa3Jhak9sS0pUbFEwc1hUenhJX0x1TG01LU1SZFQ0VnFoQWdZQ0VJVm0tTzNMb0xwclNvMU1ZeVBqTjN5eGlGWFE?oc=5",
-   "data": "2026-10-16T17:51:46+00:00"
-  },
-  {
-   "titulo": "Euro hoje: moeda recua 0,38% em dia de inflação alta na zona do euro",
-   "fonte": "EuQueroInvestir",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNZmFxaEY3UDRvMkhyZzlrMC1QM3RYalpEMy04enFuLTJVUTFRa2M2akFEb29tRDk4R29XdUhoQ01oNkJnMG04aUZGNTR5OUVYNEstQUc5MUxPMDdJTERXd2VxRDJWX0JmNWxRQUNlcEhTQnJOTlk0SGQ4eWkzVWNOb3lHWHVYem55UXJ1M3JQT3hxX1IxWUJhZ2lSQmxrSktZRGc?oc=5",
-   "data": "2026-10-16T17:43:53+00:00"
-  },
-  {
-   "titulo": "Dólar hoje: siga ao vivo o valor da cotação",
-   "fonte": "GZH",
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOek5MUllaVl9pbFJhekp4QUdqZDRaTE81aEY0bkI2aFc2blRtTUVnOUFEdF9mcGtXbEpHT0lEZ0t4QUNpbkVDY2FZdkFnU0tQaHNIQlM0dGJIT2JHdXR0ZktoWVhtVTlKUWltRmNGQ05Vemtma0NCVVF2RF9WWTlRZ3FXNWtkM3ZYUWh1ZThwM1l3dHZRU0hva3VyWUplV0pkdTFoanY4QzBoa3NrVmQ2TTZDQk9XVUdNd3NIMUNyQlMwc1NmMHc?oc=5",
-   "data": "2026-10-16T17:42:08+00:00"
-  },
-  {
-   "titulo": "Tesouro Direto hoje: Prefixados voltam aos 13% após rali de eleições",
-   "fonte": "Money Times",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPemM5SktreTNIbF9FLTlBT29CUlJJSkVuVEpjdXB1V21RZWRUUGwxMk1TYlJVSnBwOEktVGsweExzSTNxUnhRdXU1Y25udFNQX3RFQlRYUzdHd1NyV1F6X1dMX0VhZzhaWWgwMHcyTHFOaVc2b0Rxb1kwbXRseWNqN1A0VjJQNWN3QzdxR293emJkY1NBc3o2THZWU0Z3QQ?oc=5",
-   "data": "2026-10-16T17:39:00+00:00"
   }
  ]
 }
