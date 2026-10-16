@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-10-16T11:35:43+00:00",
+ "atualizado": "2026-10-16T12:44:20+00:00",
  "indicadores": {
   "selic": {
    "valor": 13.75,
@@ -7,7 +7,7 @@
   },
   "cdi": {
    "valor": 13.65,
-   "data": "14/10/2026"
+   "data": "15/10/2026"
   },
   "ipca12m": {
    "valor": 4.58,
@@ -17,76 +17,76 @@
  "cotacoes": {},
  "noticias": [
   {
-   "titulo": "Dólar caminha para queda semanal no exterior com foco nas taxas de juros dos Estados Unidos",
-   "fonte": "Brasil 247",
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQWVJIUU9YeFZ1NWM1M2VkRFFpUFlLQmZEeG5ZY1laa1BZMzRMVFhFbFM0WHhXenlKdFV1V1lpaXRtSUZrVkZBWXBaR3FfOVBRMHhFLXdXNG0xUHpJcWtpWkxNQkNSbGR5NkJBQ04ycnM0WGNjSWE4T29RX040SmNJZG9iRUlMV0tETTV0R1ZhYTUtcDItTlJZd0xKRXVlajFwM1NuOXRDbmp3UWRfT2tuVldiVTdEVEE1bkdyOUF3VjBZcHFybGc?oc=5",
-   "data": "2026-10-16T11:30:00+00:00"
+   "titulo": "Ibovespa Futuro sobe com IBC-Br, eleições e medidas fiscais no radar",
+   "fonte": "ISTOÉ DINHEIRO",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBjZWt2dmR0UnY3b3NvZlpzcjFmXzA3UGJwYkpOeUprMFBTRFdxNlFZcnVjQ21mTzUzNkQzSW1GT2k0WWRtTnBXSWxfMlJubGVMbFdVQU92Y2RMZG9uWXVPOGhjZ0x0RVMyQnFsWg?oc=5",
+   "data": "2026-10-16T12:34:43+00:00"
   },
   {
-   "titulo": "Ações europeias sobem; dólar deve registrar perda semanal após queda nos rendimentos",
-   "fonte": "TradingView",
-   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9VVFJQTzNKeEVQYUoxcHlxbE5SM1BJOVVNMkIzMzhJYk9PVnRkbmFtLXRoSDQ4eFNWSkR4RVZpSlBJalg5YmYzYWdoLXJySjN5ek1wNmdqTkRsNnpiUDNjYk1nbFBBVGtNQ01yWmVxR2VCQjlmWGJJ?oc=5",
-   "data": "2026-10-16T11:28:28+00:00"
+   "titulo": "A inflação da Itália acelera para 4,2% em setembro",
+   "fonte": "ADVFN",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOSk0yOG8tRk1VYWgtV1NDR2Yzb2NYcU9nMlo2emZKejdtMVNHeG03TWtha1pWRHhKbFI1cGtrc2piQl8yVXVqN0laRmtRWmQ0Vl9fT20tNDdjOWh1VHFTSFV6Z2VUNFU3bzlSOHBfc1NWY3VqWGxta05PVG43bEt0YVJWU1NwdVpwRnZtZkt3?oc=5",
+   "data": "2026-10-16T12:34:41+00:00"
   },
   {
-   "titulo": "Promulgação da PEC da 6x1, regrs novas para MEI, prévia do PIB, dólar, Ibovespa, mais agenda e pílulas da economia 16.10",
-   "fonte": "GZH",
-   "link": "https://news.google.com/rss/articles/CBMivwJBVV95cUxNRTVnUUoxWGZ0TVd0TGc1REtCZDA0di1qTFRKRXdBUmRZcnVrdU1zRlY0TW9yZVZtVXowNmc3OG1zazd1R21nOWt1Rzl6dGE1VG05TElEZ244a2g1N1AwcFpJRGo2VXpVTnZPNWM3d29VdWpRZzNQQVBxRWNsc3JmLWtFcTJHS1A3ektMU3AwZkF5Q2RYdEhIMm8wYVBreUY0R0dibWlPRmFfZTVFN1poOUc3bVl4MS1KWUNXcXRtV1JzZWVVMi01Z0lYY2RjQjdQTXNSdlRrd3BPZVNaRFFnLWNaWEdSeWFvUjFjMktKcnloZE00clpLYmZoRUJ0OXUwN1BSbjFjRGJWbW9pWWx3bWNiQzNfUHozMU5ybFJjb0dvemlhUThhYlYyd1pqRkpzX3E2WWs3Zk5JS0tmUXZN?oc=5",
-   "data": "2026-10-16T11:28:07+00:00"
+   "titulo": "Taxas de juros abrem em alta com trade eleitoral, mas desaceleram com dólar",
+   "fonte": "UOL Economia",
+   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPaDlaVGljNVdPZjdIcjlSM0tWNGdNQzFfUnZPdUxlWGYtVkhHcWk1WXI1N3FVVjRVZVRhS0hCUkFFQlRPdFB1VnFtcF82azBtcFJ5cjBUT0dvX09CNHVaU3NKVFVpX21lb1pxSFFEUVAwSEMyQ2Z6N2ZPM3dCN2lUUFdCa0tzNmFoakpfd3FjVUpOVXg1eHY4NWN1aE5sT0R3RzdWVXZJYm5NRkRnQk51R3B1c2lMdHJobVF5MUo1ZW9UOG5pUi1UMFRSOFo5WlpOaUtYMWxjTzhmR2c?oc=5",
+   "data": "2026-10-16T12:31:00+00:00"
   },
   {
-   "titulo": "Economia: Lula e Flávio divergem sobre ajuste fiscal e papel do Estado",
-   "fonte": "Agência Brasil",
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQSGR1M1o2WTAyYW9KcnE4MHo1TXl4MTJlT2xYdk5BYy1DbVBOVEVGOUlGWldUV1AwZ1NMVkxERkNlRmxZeHcyTFpxVGw1NUpHOS1CbFNMal81WVdLMmFNeVItYTNHNDhwUXUxTHBpVWplWDZSN2Y0U1oxWG5DTTY4aDZzem9kNFQ2bjdMajM4d2ZRN3BkNkRJY3MxMVBjT21FNWdOdzhKd24wS1M4NzFMamx4LURPOVE1OG9IZUFKTTZDVTJoZUE?oc=5",
-   "data": "2026-10-16T11:20:00+00:00"
+   "titulo": "Dólar dribla mau humor com quadro eleitoral acirrado e recua diante de apoio externo",
+   "fonte": "Valor Econômico",
+   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPY1Vybnc3X2dsSHM4OUJILWJySUxjR3VBR1dWanZabi1TRnJoYmtlcVpiZ1hCLXJGODZvbUFDZ3J3cFNQVEZTTWJ2cVdoclhxVzROdFR6enVNY2xGVEZPWnBjWTZseFgxNlU3SnZ2TVJMZzhhRXM1cDJGQjRPdS1vYVdaeTNDVGM5MkRJY0JxWkRNQk0zdXdRbU1CTVhLaEhiUnkxdnpQYkduWEFvQi1Wd0Zkc18wUWRRWklhX2dJSjdwV3JGQU9iQTZQZG1wN3BGOEp3MzlaSFNBQdIB6AFBVV95cUxOV3lxamV5UngyT1M1a1lxeVh5YlVtYXA3ZG9KRDI5OW54dEVRV3lHM1BUajBaaEtGNngtX0xyV3BBa2JkdTNtb0Q3TmQtQ28yLWJiZ0ZjcVg4Mkw2cEQwWTBWQXg4Y1lzMFBCSXVYNmIxWFRNeXNUTm5meTBTRXlMWXJER016aTlYbnhSZVRmYlQ0LWt2Y3kzUkFsRzJZbHE5V1diN2JDdWFjcTRQbGkyOUM5QWtCUnBCVnZ3SDJ5X1ZBWUNyTjlNSFMwY0FqUHp5MDVHR2ZTOThfVWxkNnRKTkpYV0lNTW8y?oc=5",
+   "data": "2026-10-16T12:30:30+00:00"
   },
   {
-   "titulo": "Inflação na zona do euro atinge 3,8% em setembro",
-   "fonte": "Poder360",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOenVpMi1XeUxBWWhzdTNmTEpBSjVlU0xqRFp3cHBRcHh0bVIzOVpPT3RvUGw3N2FLc19KREZ3aDBFNG1sQ3VrTHkxMERIU3BYbW9pNVlPYkNXVUtOSXdMellUdTBsUGpvWjY5U3RUdkt3RjFMUGRaQzk5NzRFejVFTVRndG02SVpPZnluSUx3VjJMZFlP?oc=5",
-   "data": "2026-10-16T11:19:35+00:00"
+   "titulo": "Dólar abre acima de R$ 5, em leve queda após novas pesquisas e fim da 6x1",
+   "fonte": "Metrópoles",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1sMG1kcHJFc0V5ME1uVVBLSWk3ajVxMlhVQ3NPTTJkdjBqLVBua0tFcU90d3FveFRieWtJX3NDcGV3bnRvVnFETXdJaXVZbWxNbE03ZnZZV2F0aHlHdWRPUnVDRQ?oc=5",
+   "data": "2026-10-16T12:24:00+00:00"
   },
   {
-   "titulo": "Dólar caminha para queda semanal no exterior com foco em perspectivas sobre juros nos EUA Por Reuters",
-   "fonte": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
-   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPem9MRjVRRlBoTkg3M1ZxaWJGaUlWMHI2X3VFT3F0TGhWMTkxOWpKUnE5R3NDLUQ5T0c1di1EYXpyaThlWmNfVXRnZF96VkU0cWhtVmdWZnlLb1lBUEpJVTFQZTJPSTVSNWcwSHFmM0RuejRPa0ZYQmkwb1pwbFN4UVJpdG9sUHpwV0lyRlpoakp5VUt4ekdzS2lCdGZ3THhueU54MGViTEJ1aGFsOGo1RHAzaldtdHRhdmpHVnhYR1NuUmV0N2tmN2FVb0gwUmFPSEVIckxZMA?oc=5",
-   "data": "2026-10-16T11:17:00+00:00"
+   "titulo": "Inflação da zona do euro sobe para 3,8% em setembro",
+   "fonte": "EuQueroInvestir",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOMVh0aTI2YW9HMmpOVFRsU3BERmlzR1doLUtJTFNCcTF4ZlQxaGxFNlpONUlmRkw3akNGdXJ6UWVKUzhSMXh2cERweEt1ZEtsenQ1R1FXblYzWjhUUU16VEd6RHphbHdNajlVWjRyNndWMlNmTTRwenYyZEtJLUc5SWpfdExNNzNUOUVRckl6aw?oc=5",
+   "data": "2026-10-16T12:19:16+00:00"
   },
   {
-   "titulo": "Ibovespa Hoje Ao Vivo: Confira o que movimenta Bolsa, Dólar e Juros nesta sexta",
+   "titulo": "Dólar hoje ronda estabilidade com nova pesquisa e exterior no foco",
    "fonte": "InfoMoney",
-   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNbXFmQ2c5SUh3UDByVUlmQ1JnVkJHSU9DM29pVGJmaVVZQTJibFNQZlJHMFFOYWZiZ1UwUDRMdjV2RENKMUVpZFU4X1VwckNxT3ZBM3ZlU0RydVRneFNMeDNOeWtaOHJvaGVBdm1fMll6dGZGc3dnOFQ5djFUdHlSZWthVFc1Y2ZVMmdPdGY2OA?oc=5",
-   "data": "2026-10-16T11:15:08+00:00"
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQdTZsTkNkZWR6YWVrczJoTTBJSDFmQVRMVXlGSjZzMU0tWE5PM1pDRlM4cHFxNXIxUVBmamFpZDhXRDBMbkJnajVPYndTSWRsOTlTbTNfcVdDX05YTDRLMnNMM1lpYnlFMlRPTFY4eF9FV2hJOE9EbUVCVWhHUFZsM1VxT0dxUzVkXzdtcEV6SUVNWDAxTWtvNUNnb20?oc=5",
+   "data": "2026-10-16T12:16:43+00:00"
   },
   {
-   "titulo": "Bitcoin fica estável na semana, mas criptomoeda de blockchain \"diferentona\" sobe 45%",
-   "fonte": "InvestNews",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQN2d1LTRZSkcyblVQeU5VbWlJd2dGOThSd0ZxVElQb3dIR3ZmcTFaLTRvdi1nU25ud05xYzZrQklMYUkxWnNjMS1ZNDE4RzB5bE02Wl9VMTVEOGJJN2RvX042WW5MVDdfYzJhSlRST2ZhSS1RdGZqbFVJVVphX2p4dk9tOXZ1b2tfNTlNWFdZcVZlbnV3aVNEcXpReFNvMVZWbHREOTRsZTk1RTdDMi00OENoOU9vQklnSy10NGdn0gHDAUFVX3lxTE9wN3dwRjFhVm5PNm5aTWpGRGJKd012d1ZPRDBHRFM0WXpzV2tVRk93SnNDNEVYbHV5d25SMkhVSzNUeE5GcjJWb0RoZG1GQ25ocUNzOU1wc1BlSHBXdUt0NGp6NlB2NWYtR1hqbE12ZzVIc0wtc2lsb3U2YWJtc1lVS0VtMS1mUzkxcFZPOE95TG5Kd0tCMEdBOGZyZlZVY1ZLUmJGb1JCZm91a25Mbzg5RTVFbE5wMVlHbkZ3WF9sc1ZRMA?oc=5",
-   "data": "2026-10-16T11:13:26+00:00"
+   "titulo": "Dólar abre a R$ 5,09, com IBC-Br e corrida presidencial no radar de mercado",
+   "fonte": "UOL Economia",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPM3MtVm80cjVvcG8zbnBBc1dxdFl4Y3gzNmpUZWNLU0VBQnZZclQyVC1MVmI5dzc5QlJ3UFIyV2lIUGJQR2EtUk41QkVmZy1kZTRLMWVYWnRpV090U25oR0tJUWZXRXdIdVpESmFRcHdjeDA5V1hiQnZlV295TmJ2Yjl6RmkwN2tJTUhXSE9KV3Y5djdEYTBuUWRrVTFWeWhxNXJiNEhUZkJRNE1mWk1ySGNIcw?oc=5",
+   "data": "2026-10-16T12:13:44+00:00"
   },
   {
-   "titulo": "Dólar caminha para queda semanal com foco em perspectivas sobre juros nos EUA",
-   "fonte": "TradingView",
-   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5sMTRyaENSRUFORUU1aDN5Y2J6Y3k1bEsxYlFUdm5hNGIzZ0pQUEtrTFFtT1RhRjNOTmNLQXVMVlBfbXJRT1B6cHZCUEpOV3hKNDVhYl9rWjFsRWNYbmxIQkY2MGhFMUQ3a25RNXFPY20yNXdXRUo4?oc=5",
-   "data": "2026-10-16T11:11:24+00:00"
+   "titulo": "Ibovespa futuro avança de olho em prévia da inflação e eleições; dólar cai",
+   "fonte": "Money Times",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5OTFhEYUlTbFNHQ3hFTmlHdmdVaW1hLWNZLVBuNFE4NG8zNXFCU0VEbFpySzV1Rm8weXZrUUp3NVBOR0lCckxhYzMzekE2MG4wWXlwUWVHbHlmLXl4dXJjSkdIWUpyOTJESzBrQw?oc=5",
+   "data": "2026-10-16T12:12:00+00:00"
   },
   {
-   "titulo": "Dólar sobe 1,15% e encerra a R$ 5,09 em um dia de cautela",
-   "fonte": "Notícia Toda Hora",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPMDJ2WU83V1BaOF9BVE1uZE1YQ1J4OXVtS2lqbU1PNmg3VzdHWkRKc2prci1HUXNaQTZEVGE3a0t4ZXMybktzWWxhcVZsZXp0RjFMU2JhS3hDYnlNckEyUHI3NFdOZEJmZnRwZFdYTUpZMmtEZDVpMG5UVHdMWWNUTUl2aWN3QjhZTE1ZZVFR?oc=5",
-   "data": "2026-10-16T11:00:00+00:00"
+   "titulo": "Ibovespa Futuro tem leve alta com IBC-Br e eleições em foco",
+   "fonte": "InfoMoney",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPeTdBSlZYMXc4T2ZDcVdyeVNKa3ltMTlVUjc4dUNvRzZqVTBDd2VYZGJWX2VFWVkzM3UzYVJqX09VVks4MER5UnJ4d1hjcjc4bXBkVHpFcVZXenFmTV9ndkNKTG1NR2ZxNl9UR3VqOWJ5UVlJRjR2ZjgzWkFaaTJ5TER6TF9yd3BTWXBzOUctOWZjMXRiZkRDTmJXZEhUbUHSAaQBQVVfeXFMUEFqVG04VlZUbkxLQTR3MWVmTmp4aG5PRFhsdERxNnVkUzRkZXljTkpqNGtSZ19xX0NweG5ybnRYMWdkTlVBbzBBWjFfYjh5WEZpM3NzTDEzTEdrSHdYN2g2aGQxV1AtUk5hM2cwNTB3amVjZFJCT1VHbFRLbG1famFXcm1FenktOVQtNEhjMzJCcjNpVmhkVGl0Nnp1VG9qOU9zQ2c?oc=5",
+   "data": "2026-10-16T12:11:48+00:00"
   },
   {
-   "titulo": "Ibovespa: Datafolha, prévia do PIB e dados dos EUA movem sexta (16)",
-   "fonte": "BPMoney",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPQklxalJfMFNuaFMxSlpMUVZXNEVUd3VDTGxJeldLcThGdDFHcml1U3hKTEVWUkVfNlE4alRnb1FhakIyVzVsQWFQNkZscGljLXgwbEtvbThjbEw4R1FCTVNfLW9MVWM2SDZLTGlkTVV1OEFBWDdsRUN6bmp4SGNlWkJOTkVZMS1mRmtaRnd3SHlkQnVhQ2VEb3hsNA?oc=5",
-   "data": "2026-10-16T11:00:00+00:00"
+   "titulo": "Dólar oscila perto da estabilidade com nova pesquisa e exterior no foco Por Reuters",
+   "fonte": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQX2pxU1ZiaW9UVURUQ08tQkhXVUg3T0s5QUxwbWJYTEJia1p3TU5pby1WZW9UYVFLSXR3WXU2YXJRNi1EQnhtT3drNDNTdFFGX2dwM2hhTmNRYmJKRUMyd2dFV1owUVNTVVl0LXpsWWh1a3c4X2dCUEQtajhNSDRmS2dUSmJIVFNiYzJocjFYb3VULUJOaDU0RDRaSGVnZ1pWRWZfY19oNmhpTnY3QlhoRlVLczEtcVJWSkdsVg?oc=5",
+   "data": "2026-10-16T12:11:00+00:00"
   },
   {
-   "titulo": "Dow Jones",
-   "fonte": "Estadão",
-   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQdjRXc3d6NFFQRlVrYWpDLUNhWFZydnhJaXdFQ0JqclRzUGNtUll2S2k4RnJCQ2xvRlZiYk5Sa19OQU50TGV1bXZ5RjBSel94U04xUC00Mk0zb3h4VHVYNVdrd3lPRkNYenVYWVNfOVNXazRsYzRPakF4azZHTFJuQU52RmVxYVJUVXdtd2hSTGJ0NXJnNHVRXzU2eXpOV2VjNk84V0p0TXNyQmtHMmRkaGVWOWNrX0tPVlFYMjcyNGhGOFQydnlpYg?oc=5",
-   "data": "2026-10-16T10:46:57+00:00"
+   "titulo": "Ministério detalha supervisão dos investimentos dos RPPS",
+   "fonte": "Revista Empreende",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5VQ01PRlZXaTNXNjlXV1hORlNnZmZ4bkFmMlB0LTI5bkpYTzZEREQwTnl3aThPa1NHeDBXRkRBaktHa2lLVVJlYnVTVFBaTjJGYWpZNXB3UlJjelV6c3lwU1NtczJNcDJ1ajlVOC0xeGFOYU1BVmdNM000THk?oc=5",
+   "data": "2026-10-16T12:06:00+00:00"
   }
  ]
 }
