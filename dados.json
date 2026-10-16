@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-10-16T04:23:44+00:00",
+ "atualizado": "2026-10-16T04:34:49+00:00",
  "indicadores": {
   "selic": {
    "valor": 13.75,
@@ -17,9 +17,21 @@
  "cotacoes": {},
  "noticias": [
   {
+   "titulo": "Moedas asiáticas estáveis enquanto dólar recua; rúpia indiana sobe 2% na semana",
+   "fonte": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPdVpWT09tUXFaZFhrbVRIT2dvVmZkdDA3aU5RZTQzcnFmYmt5azd1LS1GcDdDSkhpek9NNk1aNExFam5BTEZBbE5oRDB2bG1aRm1NQWEtV0dYXzlSdFV2LVp0bGdmTGZfUVFUdGtNWm13NmFYcTA1dWFMOEZnWnJId1k2ZV8zdUhvZ1FsWmR1Y2RLd0szc01mYkktUkpURl90ZElib1NVSmhNYlROQTF4Y1ZqU25JbmpmajZrWFViWGFMTHoy?oc=5",
+   "data": "2026-10-16T04:20:00+00:00"
+  },
+  {
+   "titulo": "Dólar sobe 1,15% e fecha a R$ 5,09 em dia de cautela no mercado",
+   "fonte": "Tribuna do Paraná",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPRUlHSGdYY2ppb0hDNG9SNFlFTkpVX08wa1dESEhkaUdHY2RZYkxEZE1Xdk1WeEdHMG41RWF6Vmo4YllpMlEtVmswdXVNaU1hbkNxeXdxN0xKRXdnU1dfaDE4S0RkRTZuQXBULVUtcm4wcEhrbUhnalVwY3VoYlluMFMtT2xCSXB3a0tTWFBhdzhmclh2QTZFZkdjU3FKU2dqeGhoTjJtdDROdDjSAbABQVVfeXFMTldvdWg2cUw5bjRLU2tnYWtNVWk1bVBfWkVjT3UyV3BRRkJVam5vSDd0cEI4Uk0tMFJzdVlTNkQ2YzBkT2dNOE9qU1RfazU2eHExMEZzUjVzenRxVkFYeVVxTktLMlA2T1RZRTBnMmZTQW9SYXp3bXBvWWJSZ3pPNU81WUFnX2JjSmdkZUNhaXBpcDFGMlZLZ1hkczZCYW5lRjNzenVqUHl3TXF3Y19Eb3o?oc=5",
+   "data": "2026-10-16T03:07:00+00:00"
+  },
+  {
    "titulo": "Nubank lança ferramenta de IA que avalia investimentos e dá notas de até mil pontos - Portal IN - Pompeu Vasconcelos",
    "fonte": "Balada IN",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOTGs0c3JjU1lNY3JkcWJVN056T29KdEZEUHI5OUllYWc0Ql9KbjA5Mm5UM01HUGJ2Y0FVN0czb2dWZUtMX0Z3TS1ZQ0c2amNlckdKYkdnSjhxTU11cU5jU1VQLWpIOHNPNVhoc1Y0eEdMVWV6MmFvd3UyMm5qMDBHb3FzNFRoLW5heEpzOG9BVHVNN2FVenpqeGYtbTBSZWRCQ29jWjFoeXRCajZwVU83Vl9iS3dESjBvZEFpUmp3?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE02SWdtd1ROclJoaG9Ya3dpNTVFWWZveXR2VTBUR0prdTFwRHR0YTRuZGVYNV9PUnowTUN6d0ZSNHJOUWc2clVCQWFNbnFTZw?oc=5",
    "data": "2026-10-16T03:01:00+00:00"
   },
   {
@@ -39,12 +51,6 @@
    "fonte": "brazileconomy.com.br",
    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNeExFV2NWbFdhVjFEWk84aE05YmdxcmZZcndPNEoyU0taT0dtSjUzWWRWSUlCYUFmT3hIcHQ4djdRZUx5MnJ6WGlhdWtlV21uSXk2ZGMwdmVlQWdCcXJ0YjJFb0xjbVZJbXVxbF9qSW1XU3lsYWQxX0EyRVEwRmd1QVNPVFZoSzZfNkZUSWNuSmlpMHlrWVZFQ1BCbTJHLUJOVDQ2aFRrNnZHUldKSWFDZ3JoNXVHS1dsLWZkT09YQVRnUzNaMnFV?oc=5",
    "data": "2026-10-16T02:58:46+00:00"
-  },
-  {
-   "titulo": "INVESTIMENTOS. ZPE de Cáceres busca atrair novas indústrias com incentivos e vantagens logísticas",
-   "fonte": "Sapicuá",
-   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPRWVUQXNlb2h2QnM5c3BDa2JmUnpqTW84Wkc2UllzZmFQS1RteTNManZiaDlaMnByR0lGMHhLVWdGUjRFWDZVWkU4NWxua2IxU2UzQm04WnhzVG1mRjl3NDJWS2ZGeDFIUk9SOUFWU2xqVFpwWDR3blh1dHZ5ekxUbDBrVEFlVVprQ2ZjVXdqdXNINDFGb0M5YVpwYmpEcTNvdW5vWFl0VEp0TUs1NUFaYlRtRHczSGo4Mm5lcmdlemI?oc=5",
-   "data": "2026-10-16T02:48:23+00:00"
   },
   {
    "titulo": "15/10/2026 - Dia do Professor: Lauro de Freitas destaca valorização do magistério e investimentos na educação municipal",
@@ -69,12 +75,6 @@
    "fonte": "Brasil de Fato",
    "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQZXltWll5dmpUNDRIQmdMWVdMSXpHVllxQUhNbDlEOV9CeUkwRk51b2xOZk41WF9xeEY4WHh5RGllV3VTOHNLeDVKRTQ0a0JVR0VsWDRJNnlGSXNldHl5Nlk4MG9mSWR6b3JlQ3lkcVJhZGhabnRlNnlIM0lTVGstRHZvT1BIWFh6dFhTQkpoYVVsUl9MbDFpNnhQNzlZbzktamlnbEI2MGNWVHBNTkphUHd0NjdnYVEzTzdQRjBiMzloeGFlMS0tUXRVSHNMd0RybUpKcjFZRmtoLURuaENwX2lB?oc=5",
    "data": "2026-10-16T01:30:00+00:00"
-  },
-  {
-   "titulo": "Orçamento de São Paulo prevê R$ 20,6 bilhões em investimentos para 2027",
-   "fonte": "Gazeta de Pinheiros",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQdTRtc1A0eGNGRVphNWs3NGxzQTEwOUd3R0d1UWxvRVB3Q0tyU0tKZWlHQWRwWU5qY1Z1NENyU19nMlpSR3pmN1FuQ0lWekdtOFU2RjlNaVh6MjdRLUpHTVcyRTdxelliMGhyVUVncFJja0pNQ0V0eUw5MzJxRTZLdzBQcU41TDB2MWtzZ2tkTGRya2VDZUNZbzY3bFBGYm1lUkM1ZUprQklObUNsQnBVWG5vemlUZ0U?oc=5",
-   "data": "2026-10-16T00:31:50+00:00"
   },
   {
    "titulo": "Dólar fecha a R$ 5,087 e Ibovespa cai 1,06% nesta quinta",
