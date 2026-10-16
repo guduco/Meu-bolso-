@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-10-16T07:41:28+00:00",
+ "atualizado": "2026-10-16T08:37:32+00:00",
  "indicadores": {
   "selic": {
    "valor": 13.75,
@@ -17,16 +17,52 @@
  "cotacoes": {},
  "noticias": [
   {
-   "titulo": "Ibovespa hoje: pesquisas eleitorais e IBC-Br podem mexer com a Bolsa nesta sexta-feira",
+   "titulo": "Prévia do PIB, inflação na Europa e produção industrial dos EUA: o que move os mercados",
+   "fonte": "Exame",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQSmM3aUpkVUxTNEZjeHhVM2k0M0ZzMWNtbkJGYXo2MEtqYTN3SXJzZHRBbjBUWWVtZ3NFS2FNYnN0U0NaVHpfMlA3XzRyOVY3MktkSjRXSUZhWk5JN2Q5elVnaFZ1U0RqX0MxZ0hudElUTlYxVlc2ZUx2U1hVb1ZPVE4tRVBDaW03UWFBdXItcUJLSHh3VnZoLXY2dUQyNU5FUHVDdzhUR3pPdXVRR3hDaS04UTFiYmNfQ3JCMw?oc=5",
+   "data": "2026-10-16T08:33:41+00:00"
+  },
+  {
+   "titulo": "Tesouro Selic, IPCA+ ou Prefixado? Onde investir de olho no segundo turno das eleições",
    "fonte": "Estadão",
-   "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNbXA1MW9fZDg4d3M0NnVaUmwzd1RnOWNYb0M3WUt3TVgzVTh3a21IUGg1X3ljb0hXTTZPRzBpTl9wNDU2RmhoSldRSGlIUkRqSkNUWmVCNWdDdWd0aGpOeFQxVmRudnRIa2c2OVNYeFJGb0VDZnMwcy1kMDVYLVVQZlhBbHVRbnJlWnVzcjcwNjZqWGNUdTRER1FpQmpiUktsYXBlSGNYM2xyeUM2U09YVUctR2NiV1ZpTnBhT3NUQVdISTFpZ0hXRGpld0cyN201ZDhuVlZSdFdEVWRURVA4RTdFdlJpTWc?oc=5",
-   "data": "2026-10-16T07:39:38+00:00"
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNdUFTZXlJSXFKME9kXzNCLVhMN2ZwX3pNWWg5TGI1d01JYmdFLVBsUU5fdzJ0NEdrZXNBYkJsRFlzVVYzWU1ic1UwOGJLMHZtbjZiRVVKTWltcDJSSC0yS2VUX1lRcFVOay1HRUsydmdXdGxxN3lWTllCNUlsUlpiS1ZzLVdPVWVEUDNzVE9Fd3hfaXF3TnBBN1phbHNZV3F2NEhlTUQwS1JRX1FyTncwN2dlLUdYSjRwT0FmMmp3TDYwMzJ4dUpsQ3hDTmJoaWEwbnpj0gHYAUFVX3lxTFBtdEYycGQ3b3Iya0FuRG9qNlpVUDQzU05QLTBjeW1lSm8zeEFELTAzbkgwTWFncjJGdkpUZzVWMFpUZ0wyOXhBOUlHR1NLRTJzdHZfcjJTZVBFZDd1REkwMURqVW1NQ1l6UkxVTTVwYll2QmZiaVd3dmpJTXpFWUpNLWQ4azJ5UkRqbFNKeG91dEpYTUlqZzFxWlR4anFLY0tIZWZWeVRLX3FEX2Y1UUZfR3R3OFlkYUYwanpEd2tXRkVySktMV3JzM19HT1BMdDRMTFVUaGtzcA?oc=5",
+   "data": "2026-10-16T08:30:00+00:00"
+  },
+  {
+   "titulo": "Leilões de infraestrutura após eleições podem gerar investimentos de R$ 54 bi | Impresso",
+   "fonte": "Valor Econômico",
+   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQVDl0UlBGTXZwZGlXZ0tJUWxDaTRSVXE0NmQyaTVva1ZJMnRncTBEd256cHlQbTVXTTlLTkRlNTdFN1lpYlN0TllYV1RJcUVOOWVtbWVTY2tMZFZGUW9vUklYaTRfX2FyMEFzWjBkNnJCZTlOblZlcWRFQUk5d2wzcEF3R2t1ejgtZFRjQVVBU0ljeFkySmF0Q2IzdGtrNktWSnVwVDlwVUlwdjRSdk55NS1ScHFkYUU5d3pCZGpKUXYzMjZRTDNfaW9qLWxobk0?oc=5",
+   "data": "2026-10-16T08:07:14+00:00"
+  },
+  {
+   "titulo": "Dólar fecha em alta e vai a R$ 5,08; Ibovespa cai 1,06%",
+   "fonte": "brasilagro.com.br",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPQ2E4cGg3M19VQ1lxSmNkYXBhLW9qTjhfcUJRNDBXRk4zdWwyMmxZVzZBMkcyV1ZMd2NUaHZ6NzFwbUdSaklDcERXXzZ0RFp6bzlCN1c4eFJUdGxVUzhKSlI5ZllTZ18xSi10OUdXekNnR0ZqSEFuY3Z6YnNFbDNLY01DQ042VTl1QzBacno5MC04R2pYejcwRXVB?oc=5",
+   "data": "2026-10-16T08:04:32+00:00"
+  },
+  {
+   "titulo": "Aumento do risco dos investimentos financeiros",
+   "fonte": "Valor Econômico",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNQXNvdUswdUhvMFJFNVJyaVQ3QzBkRVBwY1ZuY1BwT0dDbmppdFU2cTNIY01EUXhoWnZ5cHp0N0g3X1ZuZUx2aWdLU3c4WFhtMWZ5WHBLNjFFZWlmNnVYZlB2OFRBVWZOUnpKOWZZdFJ1VUhXWkZaQU1LRTdkTW5NZVA1UmFFZ1V4R3FKRFFEWW5QTlFGcmdF0gGmAUFVX3lxTE8yWkpzYXhxbmlhLUxJQzVUMUdpT3RXMGhVa0hIOEpQTUJGYmtCWjhXR2tDeU9ZdGhxMkphb01KeHFzUDJrWGtBNjU2MTBEal9yVU1wcHNJUFVyWGRnNmhEZkJRLWlscFZEazh0VFpXUXdLdFh1Ulh4UWRRR29UYndWN3NTYUphcUJyNFRpMDBOTHJqWmRoUmoxRnhpektfYmhnSzE1ekE?oc=5",
+   "data": "2026-10-16T08:00:00+00:00"
+  },
+  {
+   "titulo": "Depois da euforia, mercado passa a ter cautela com trade eleitoral: o que esperar?",
+   "fonte": "InfoMoney",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOdWJvUjJWNWNYZV9pcl85MG1YSVBXcHVZMHBZOTFnaDN2STEtZ2UycVRWV1cxb0hReFFvWXlhNnlFUzA0eVFrelk2RXFKWlNZZ0tCV28tQXBjVVVIV2ZhU21kNXY5QzVqcWtJOHVIcTg4TmFpM0Rfd0owemxvaTBvOHVfdFJxcUVOSE9sWmZnTkxLLUg3X3NYRklITUNZTWllSFZTQS15N3BJRVVXQVVCT2M0Sk9sT1JZVEE?oc=5",
+   "data": "2026-10-16T08:00:00+00:00"
   },
   {
    "titulo": "UBS vê potencial de valorização de 25% para o Ibovespa",
    "fonte": "Acia Araçatuba",
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9JWmI3OXg4UUc0a1lJZkR2MUYwQnVvTkVYRVM2RU9BV2tDYUtaVHhHYjJXSTNhVWo1eEM3b0ZxVU4zS1dKMTJnd3Y3U0d0T25NSHloY0dFRUc4MDFTYkFxNjJ3YVpEX2plV0FIT3lPWERYaXpFSU04ZkZjU2drMDg?oc=5",
    "data": "2026-10-16T07:39:28+00:00"
+  },
+  {
+   "titulo": "Ibovespa hoje: pesquisas eleitorais e IBC-Br podem mexer com a Bolsa nesta sexta-feira",
+   "fonte": "Estadão",
+   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOemlCVFBmU0cyaEpWR0l6Z2lqeVdxbzJWMFdGTEw3NEJhSUZLNmVuRmVIaVZxSUtQNmhrX2RXUnNWdXdpdnVsWTIzQVNvUUI2QVNnMEZWdzBOWnBvLVdLUnV1dW1PcFl3V0oxQ1FaVTNWeXVvVHNMOG9hVW9qd21iRnI1WDJFTnBtRGcycUxFN1JmLWZhakxHaEZVRlZiZzVxZWN1ZUlibkRCWEZpZUE1bVQ1TEs3N2JwMDhmWGx3aHFBTXdjVDF0Um5CWWUwWFczN2NkcUMyMTJobWV10gHiAUFVX3lxTE9WTUFLLUVtdlF1Yk1LZjdEbkdYX2JjeF9HS01FWDJXajhnMTQ3aVNhOTB4cVM5WmpJaEd1UEhZa2hacG12a2ZDMExZOWt6RHZiMVhYd09odV92QzR2YzY2dzVFb2FNdF9rRGVtMm9RLXhBNy1pR2hrRGwxemliNFhDdWxGVGMzQzMzTG5IOG84RURCa09pbXhRSU1MQ1QyU2hQM042MC1KMUNyall1OTBxNW1WMUVjcVZ1cHQ3U1AzSmc0THdvSlNvempkamh4VzJpS2VGNjZ4SzA1UHA5cGdCd2c?oc=5",
+   "data": "2026-10-16T07:30:00+00:00"
   },
   {
    "titulo": "Após euforia, mercado refaz contas e vê disputa mais apertada no 2º turno",
@@ -51,42 +87,6 @@
    "fonte": "O Estado CE",
    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOTWxnU0VzWWRzd01zZUtHQUd6Z09rRkZUdVZPc2pkTW5VQl9JZWViSWJuTkJWS0hjUm1uMnp4d2JZLVlZaU9yOTlkS1J2UW5vb0g5YWpjb2dRUm1DVGk2M3pSNXZsX2o3Mm1LbEU2d25DMlVEVWpZY3Z4N3BNYmt6VEhmNXRYeEozT2E4V0ZRQTBsZmQwWGttY3VyU1AwSXVrRFRCNllwcG90OHFSN2ZEdmtjOFB5QQ?oc=5",
    "data": "2026-10-16T04:45:00+00:00"
-  },
-  {
-   "titulo": "Moedas asiáticas estáveis enquanto dólar recua; rúpia indiana sobe 2% na semana",
-   "fonte": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPdVpWT09tUXFaZFhrbVRIT2dvVmZkdDA3aU5RZTQzcnFmYmt5azd1LS1GcDdDSkhpek9NNk1aNExFam5BTEZBbE5oRDB2bG1aRm1NQWEtV0dYXzlSdFV2LVp0bGdmTGZfUVFUdGtNWm13NmFYcTA1dWFMOEZnWnJId1k2ZV8zdUhvZ1FsWmR1Y2RLd0szc01mYkktUkpURl90ZElib1NVSmhNYlROQTF4Y1ZqU25JbmpmajZrWFViWGFMTHoy?oc=5",
-   "data": "2026-10-16T04:20:00+00:00"
-  },
-  {
-   "titulo": "Dólar sobe 1,15% e fecha a R$ 5,09 em dia de cautela no mercado",
-   "fonte": "Tribuna do Paraná",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPRUlHSGdYY2ppb0hDNG9SNFlFTkpVX08wa1dESEhkaUdHY2RZYkxEZE1Xdk1WeEdHMG41RWF6Vmo4YllpMlEtVmswdXVNaU1hbkNxeXdxN0xKRXdnU1dfaDE4S0RkRTZuQXBULVUtcm4wcEhrbUhnalVwY3VoYlluMFMtT2xCSXB3a0tTWFBhdzhmclh2QTZFZkdjU3FKU2dqeGhoTjJtdDROdDjSAbABQVVfeXFMTldvdWg2cUw5bjRLU2tnYWtNVWk1bVBfWkVjT3UyV3BRRkJVam5vSDd0cEI4Uk0tMFJzdVlTNkQ2YzBkT2dNOE9qU1RfazU2eHExMEZzUjVzenRxVkFYeVVxTktLMlA2T1RZRTBnMmZTQW9SYXp3bXBvWWJSZ3pPNU81WUFnX2JjSmdkZUNhaXBpcDFGMlZLZ1hkczZCYW5lRjNzenVqUHl3TXF3Y19Eb3o?oc=5",
-   "data": "2026-10-16T03:07:00+00:00"
-  },
-  {
-   "titulo": "Nubank lança ferramenta de IA que avalia investimentos e dá notas de até mil pontos - Portal IN - Pompeu Vasconcelos",
-   "fonte": "Balada IN",
-   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE02SWdtd1ROclJoaG9Ya3dpNTVFWWZveXR2VTBUR0prdTFwRHR0YTRuZGVYNV9PUnowTUN6d0ZSNHJOUWc2clVCQWFNbnFTZw?oc=5",
-   "data": "2026-10-16T03:01:00+00:00"
-  },
-  {
-   "titulo": "Vereador defende união entre Governo e Município para ampliar os investimentos no esporte",
-   "fonte": "Blog Kleverson Levy",
-   "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPWUF6bERNWm8tYVNHN01ncGNsMENmd1dQV2RMdmhCWEJKVmhSZUtCRFJMZlBmNFI0Y1dON2d2Mmxpa3RsaVpxTHUzNnlydUtvejJpb2pzR0lBSndqc3lsVnUteXZDYjFackJEdE9JdHZUUFMyaE1RemRMS0N4T2ZwSEZFOUtaZXNucEJTa05HOXFTSTY4eHR3T2xpSko2OTFaTTk3UDNSUGZLOHdHWlQ2NzdIUWRXWEVKbEt5c2w2NnJMYmVXMTJhcTJFWmJ5QlkzbUZfM2JMZzNGUGNEcUtUaE1LRGJXdGNrS2xGLXhR?oc=5",
-   "data": "2026-10-16T03:01:00+00:00"
-  },
-  {
-   "titulo": "Salário mínimo: veja o que já defenderam as campanhas dos candidatos a presidente",
-   "fonte": "G1",
-   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOckQ2UHZ4SXhUeFZWRHNDdzY5WVc3OE9GUkdFdE84T3B1MGd1Y1JIOENjYk5ublMweXg0R3dhS2Q0QjRJYzRWSi1La3NVdkk2RDdtdVU2al9mQS1xck1qYlFHTVFxNWktUVdfNDZZQUk2TzlMQW1oWGFZVUhvLW1hV1hNQ1FucGd6X18zSzlyQllLQ3MwRDRHNlBfNmNWMm9kQ2pVOGtLbFRUU2E1ZGQxTGlvUU1INDYxWFhVd3huMHd6Y21ZMUttcmk5b08xSTc30gHfAUFVX3lxTE9ieXhoaGNSdV9kZng2SkNzZWIteWdsY2FlS0dRVmNHeXNiMFFmNW5IckpTaGl6akEzaWVIcVdFaUxrVE1TM3VfWk9nb25RbjluemVBTDYxQlU0R3hma2NSaUFQNks4ZEN2T0EyNUk5X3JGVWJXZ3Zyb1FUTmtSMGgyU3l5Z3NlUDNwU21JT2wxby1tZE5PbWtlZGJ1ZGMxMzhZR0xVUDhGRHhDSGV1N0VKMldBOFFYNDFMOWdNTFdwN2VyY3lvYXl5OUhVTjM1R3ltckRnY0c4THl5LW1Xdm8?oc=5",
-   "data": "2026-10-16T03:00:00+00:00"
-  },
-  {
-   "titulo": "Com eleição mais apertada, Ibovespa cai pelo terceiro dia e dólar chega a R$ 5,08",
-   "fonte": "brazileconomy.com.br",
-   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNeExFV2NWbFdhVjFEWk84aE05YmdxcmZZcndPNEoyU0taT0dtSjUzWWRWSUlCYUFmT3hIcHQ4djdRZUx5MnJ6WGlhdWtlV21uSXk2ZGMwdmVlQWdCcXJ0YjJFb0xjbVZJbXVxbF9qSW1XU3lsYWQxX0EyRVEwRmd1QVNPVFZoSzZfNkZUSWNuSmlpMHlrWVZFQ1BCbTJHLUJOVDQ2aFRrNnZHUldKSWFDZ3JoNXVHS1dsLWZkT09YQVRnUzNaMnFV?oc=5",
-   "data": "2026-10-16T02:58:46+00:00"
   }
  ]
 }
