@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-10-17T22:30:02+00:00",
+ "atualizado": "2026-10-17T23:27:44+00:00",
  "indicadores": {
   "selic": {
    "valor": 13.75,
@@ -16,6 +16,12 @@
  },
  "cotacoes": {},
  "noticias": [
+  {
+   "titulo": "Ibovespa abre em alta com foco nas eleições deste mês",
+   "fonte": "Diário do Estado",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOR0FIU1dQNHZOVnNZNm5RUUJRNDhBdDJXbWc5akEtX29HUEk2VFJaZHRXVWdYbFRXVE1WdmJMc2k4MnFLZno2eWwwVENqb3UyZi11N1VIN2w5U3cyNll2THVpMEpXZVRpRkJnb280UzNhZE51Wmt6U1NtTTRFb1FmVDN4ZTZmSFNwYWR1YUk0cw?oc=5",
+   "data": "2026-10-17T23:00:19+00:00"
+  },
   {
    "titulo": "Especialista aponta efeitos do cenário eleitoral sobre os investimentos no Brasil",
    "fonte": "deolhonacidade.net",
@@ -65,10 +71,10 @@
    "data": "2026-10-17T20:00:45+00:00"
   },
   {
-   "titulo": "Tokenização pode baratear investimentos, mas segurança jurídica ainda é desafio no Brasil, defende especialista",
-   "fonte": "BitNotícias",
-   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOd3ZUSHE0ZUFwOEZKc2x1WGs4eUV1SXh3bHR1ZkY2M3Nvc05SVmhDVWFZemVldkRUWGkwWkNka3hfSWdZei1MZlFPdXpKZXNfV3JYZTViNk9VcENncnpxQnFrcU1DWTNFTkFwUGZHdTFrU29wbWtfRjBjV0hybmRZYUsxWnZSSG0zbzFwR1lUMFNzeEk?oc=5",
-   "data": "2026-10-17T20:00:17+00:00"
+   "titulo": "Ibovespa abre em alta nesta sexta-feira com foco na eleição",
+   "fonte": "Diário do Estado",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQa1ZXLUVGSmkyX3BhWWZHS0tDRnoxMzB2Z054STZiRmc1b0RXaEVUdWlIWktKVEJwT2E0NzctbThvWV80U1l0UF83SEdXVHFDNUVjWUZJU3ZuRzhqajRiRTFYY0Eya3ZiX1hsdE83b1daVkhfWlp0ZEFHUWhmRmNLWWZVakwtT2N1VjV5NHd5dEhzQ2Juc2V3?oc=5",
+   "data": "2026-10-17T20:00:20+00:00"
   },
   {
    "titulo": "“Precisamos mudar o Brasil para trazer investimentos de verdade à Bahia”, diz Sandro Filho",
@@ -81,12 +87,6 @@
    "fonte": "Grupo Ceres de Comunicação",
    "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPRW9NNUhTTDlRWHIzblhmZFRObGF2a2Zzalpnay1wRVZmRDJYNlQ1eHJpRFcyT2NuRTBJcGFqZDhJbjY0RjM2RS02ZTFkY3p4TWpDeWtmUFhrWk5zVjczcF84UXRwaWpDOUpXM1hqU0pVcWtpUEEtdzlvVm1jdC1LZkhBY3Y0ZF80cHdSV1pJSHdhRGwzY1hDMVBfd3pYNkkxbS1iWVN1NlIybVVucVZBdUZsakVzb2ZTLTE2Zk4zZVY4SF9vTk9vXzZLaWlwQXFlblVEMA?oc=5",
    "data": "2026-10-17T19:31:16+00:00"
-  },
-  {
-   "titulo": "Richarlison acusa Flávio Bolsonaro de tomar mansão de R$ 10 milhões",
-   "fonte": "Investidor10",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNanVlamhSNVNVc1VCVFA1ZHRPUWgxVk9PWE1iN1JQUWRHbXRCYmoxclYzZkxHTHhNYUhQV25sVm9kaEQ0ZUxaZWlOUjdPMG9maUdyQXRlRkxRTjBOZ3c2OXpsT3VSTjlfQzZvLU54dWRnSzduMzBpaVBPbVhQckk3WklRWk9BbEJIR2xzYzQyU2YyaGZwbkdjSzFNLU1aUVdXdWVMYTFKemI3T3BxdHo3QlhyVndRd9IBtgFBVV95cUxNanVlamhSNVNVc1VCVFA1ZHRPUWgxVk9PWE1iN1JQUWRHbXRCYmoxclYzZkxHTHhNYUhQV25sVm9kaEQ0ZUxaZWlOUjdPMG9maUdyQXRlRkxRTjBOZ3c2OXpsT3VSTjlfQzZvLU54dWRnSzduMzBpaVBPbVhQckk3WklRWk9BbEJIR2xzYzQyU2YyaGZwbkdjSzFNLU1aUVdXdWVMYTFKemI3T3BxdHo3QlhyVndRdw?oc=5",
-   "data": "2026-10-17T19:17:06+00:00"
   }
  ]
 }
