@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-10-17T11:30:53+00:00",
+ "atualizado": "2026-10-17T12:37:09+00:00",
  "indicadores": {
   "selic": {
    "valor": 13.75,
@@ -16,6 +16,30 @@
  },
  "cotacoes": {},
  "noticias": [
+  {
+   "titulo": "Ainda dá tempo de ficar milionário: Mega-Sena sorteia prêmio acumulado em R$ 170 milhões neste domingo",
+   "fonte": "Seu Dinheiro",
+   "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNZXpfVkFuTkFHTWx3QmVwQlNpN3VhVm56MWxfQlEtWVRjN0IxbVJ6cXBSb1FOdU9OZHEzT0NRSHI1cHhYNnRVZ2xTUmxuNW1Ud2hlUnVGdFZhUXg4bURncWYwSUxMM1NUSGpYeTY1RV9hTzVkM21Yc3UzdjBTLWJYV25VS2p4YnhBWTEwSlM0dkVvYlhIaVlGRmlwYXZwek90THBGajdVcE5JeW04WF8yaElEZXYyTFZ2VkFrYzhLbmtXMGMtWWNnWVhKeGdheGh4cWVJZWRUSUpveFp4WFAzcWJTUXRrbFRhaTVueHRB?oc=5",
+   "data": "2026-10-17T12:15:38+00:00"
+  },
+  {
+   "titulo": "Inflação acima da meta, juros em queda e dólar mais barato; veja o que esperar da economia até o fim de 2026",
+   "fonte": "Misturebas News",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBZQzRxWHRBd3V4MVpsMGh4dzZrVG5jV3NHSWFIVEVrMW1JWXVTYm5CZzNoLUpTLWo4aktWZEM5aVl0SE1KTVR4OXl4enFQZktMV2lGaU1zX2FXVFl0X1FhRGFnNlQ5aF9MYnZ0eS01a3ozVEZIbWc?oc=5",
+   "data": "2026-10-17T12:14:47+00:00"
+  },
+  {
+   "titulo": "Ibovespa devolve ganhos do 'trade Flávio' e cai quase 2% na semana; Prio (PRIO3) e Vamos (VAMO3) são os destaques",
+   "fonte": "Money Times",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1hMVpkZHgxMnVhMTVOM2ZhQ0FwLXRnMHd4UG94U0t6VnFsYWU4ZzlVbW9nbnBMLUc0NXp1ZENKRmpXVFJGX04zdUhnT1NMZ3Q1TlRHeVZUOFNvQjdyREJHRExrRjRCc0hZNWtpUkNCY2sybnJUNHc?oc=5",
+   "data": "2026-10-17T11:32:00+00:00"
+  },
+  {
+   "titulo": "Eleições 2026",
+   "fonte": "Jornal Opção",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOcm1DcjVLWmltSTJiNUhUaFF4bDFsVzVHaS1ycmdDRzc2dDRxRDIxR3JGa2gxQ3d1WEpOaTU2bXFSQS00TkZCODd6aFk2WHF5aV9HamU3VUdzYzRpRXl4dTVVQlNUNXh3Nk5PWjV6TzJZT1FtcXZuTmdGQkx6ZnBTLWw0dm5YZk9iOHFHOXhkbkpKMjBwREZR?oc=5",
+   "data": "2026-10-17T11:27:07+00:00"
+  },
   {
    "titulo": "Tendências 19/10/2026 | das principais ações da Bolsa",
    "fonte": "XP Investimentos",
@@ -41,12 +65,6 @@
    "data": "2026-10-17T11:01:41+00:00"
   },
   {
-   "titulo": "Dá pra gastar tudo? Veja quanto rende o prêmio de R$ 170 milhões da Mega-Sena acumulada",
-   "fonte": "Money Times",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNUGpNTDRTZWRDRDAtQ2RyY3VPWmtoMlNOOEJPMENYQjVzX3ZEX0R2V3luZnlVSUpmWmFrY0ZiRExlTE1MSzJ5a3pmU09XZ0hxajdDbk02MThINHBKUjA0VXFVYjRUSHhfakZSQktqQXpEVFJMU01vRnJnWktqV3ZFUFlHdDhGUnFaMm9Na0Z1Z3FndnZNYW9YY2FrVGd3bGJwVW04QU54TmVYVVd5R2NSWg?oc=5",
-   "data": "2026-10-17T11:00:00+00:00"
-  },
-  {
    "titulo": "Corte nos gastos do governo pode reduzir juro real para 5%, calcula economista",
    "fonte": "InfoMoney",
    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOamVkVkZVSnFySERvT1lSMm5qMW03MjlLTnU1UUc4NFF4emV5NXMzQV9tWWZyNWhkc3ZyWU9GWlo5Y0xObXFjMnJCb20ybVpxWERReFg4bVVINWdVVTl4NnZXalNIWTIxTzZNc2lTM0dNcDg3aFZJRXZOT1Y4RG5RM0FqeDkyTFRxSl9ERzFhYmdQMlFvU0RUeHNlX0w0Mnl3Q2d3TTVLWVUwOUg3TnMya3QyY01xRDTSAbwBQVVfeXFMUHdnLTBwVzdSSHdyYjFIRGdvTmc5OEdfNUhfLThFTUhkZDVoSFBMRWJqS0djVnhkR3B3OWJVTTlJS3pETEt3MTFHVnlmOTZrakFDcmpXZE1ycHVKZzdEbHNUbnVoTmFOcW9MUDlvX3FLMlNCVGZmUjJ3N05reWNSNVRRLURXYzVVcXloMHo2TTBTdnNDSGxST1RtcDhuOU9tdWc3aHU1MGpmZEJFazJfZjlwQUh3NWIyY1JWcUc?oc=5",
@@ -59,34 +77,16 @@
    "data": "2026-10-17T10:59:08+00:00"
   },
   {
+   "titulo": "Jerônimo prevê novos investimentos em estrada turística no Sul e Baixo Sul da Bahia",
+   "fonte": "Classe Politica",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPbmtJeTJpWEpFVVU2eko2U3hySkg4TjFyVkUtYkxIVGNBY1N3c0w1Q0ZZM2l6bzMtWDdWSUlEM1lRalJCQXkzMXFPd2FBVzhhUlZRZlNmSHYwdUJxUkdNRGJTTkkxR2VWcFhjR0hocHJiZ0R6MEgwOV9rcF85b2dKUG1OQmxTbXhieG15UFdFcE9VeHJrcktVLUxUNE5mcERSTDNRVVIxc3pRNWxsZW1xNmFCVHJpc0xqNnlRYlJR?oc=5",
+   "data": "2026-10-17T10:58:00+00:00"
+  },
+  {
    "titulo": "Previdência multimercado vale a pena com juros altos? Grão Investimentos avalia",
    "fonte": "InfoMoney",
    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPLTAwYS1ycUhnQW1WN0ZmcGNUYllTVmUxRk4xeUZaWFlOeUxYZjlNcDdlQm9tYnFnZUluMmRDSlozelYwbmF1NVZyOWFJZUdhbm5uaGVqc0dKUmFqU3EzMFJxUXBScmo0MHd6QjVqWkY1elp5WWNIQi1wQVk1R1p6NzduMTF2cHdKam1haERpNENoYnNsRWhac0pycko0R3NVRHZCdlFMLUd5aUdGVElFSUE2LWdpQmVRdTVFZlAtb9IBxAFBVV95cUxQa3hBS2NPcUlyekFESmN5SkY4REYxZDhNN2RSLWlSdk4wYWhIZ05LRjdDdUF0QXhzc3lrbERvMXAyQjVKMGJRUF9xTWl1WTJTbHplUzhtZDRaeEg4ekVPSHp1bDdJNDMxSTVxMmFUODlhR19CbUJrNEpqaE1FVzZWdi1DemZBdzFOT3NlY0ZMTm5GejhKVVdQSHFXTVhNbXFpUjNEeWloLVQ2SDFuRUUzSTZvSjZ3MVJKTDBJX3pTSGdiX05o?oc=5",
    "data": "2026-10-17T10:49:00+00:00"
-  },
-  {
-   "titulo": "Potencial de alta do Ibovespa, IPCA e balanços dos EUA; veja destaques da semana",
-   "fonte": "InfoMoney",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPbVRRVXZJNzFsLTNfTGc2eUhGWFBIQUlaaUplMXoxTTVyVkdqaWtPUHItWnBRVHRJLWg2S1VxNENSZV9kWnFxUThlRHc2VDZlQlQ1TWVTd0dqNm5FTkZPS0wyTnZJZXlaaERjaEFQS2YzdUVjeXUtNnVaamU2XzY4ZGRINnZ5X0hBYWJmUkgxN1dfMWdBaUlCYURqbXR0WjB2Tmx4eWNZQ1pPWHBVdDVmZ1AzNnFOalBWQ3hkZlh2Y9IBxAFBVV95cUxNZ1lSS1d2YjFOdkpFaDBnRGg5R0QycjE3TUd2TXprSUNWMkpRaDdUR2tIQkp6clFwdEliVU40cWRJZmt6QXBLSmlzMWo0YVE5eGFtaDhhcXlsRFBkS0w4V3lBX2g1OWZQNFJ1OV9JN1hDU3d4cHhSRGhhNjAyR2xfQTdQdEd5NUhiMnZETTJqSzd6cVF2ay1uVHdCSlYtNnJHNU1vazllZUhlM3hoeGd1VHBMcU9HRnZWYVppNEh6NEJJQ1Y0?oc=5",
-   "data": "2026-10-17T10:49:00+00:00"
-  },
-  {
-   "titulo": "Juros com tendência em queda, tecnologia em alta",
-   "fonte": "Exame",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPSUpLX1NSRFExU1VBM2FmQnhxUkl0VklSSTRzZ1RxVWFvUUt6MmZNelhZYVN3Um9jUExsUE1FUjRrbTlueFQzQk9pODlhNVhjU1djWFozTWl4c2pyZFpLZ3o5OU5DNVVZZ2hjaDcyZ2lMWHhPMzN5NXE3RDBLLVJIcQ?oc=5",
-   "data": "2026-10-17T10:02:14+00:00"
-  },
-  {
-   "titulo": "Empresas alagoanas conseguem R$ 15 milhões para investimentos",
-   "fonte": "TNH1",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPdkMwQ3NZLUR4Y0NrQWoyVGJYVnRWMUxMZmtZZjFEM2NVU1EtNmNwS3lWSVFoM0pDRGVvaGVyTEU0UFBzdk5HWTk5UGduTFdSLTQwbmlnWFpyRTJDUklFTHNFaHBCb3RQaF9UZ0hKLWZPYy1OenpVZjdrTW1jdFd2TlBmVWJ2dHdmZkN3VXlSOTFOaEUta0NRbTdnQlhCUdIBmAFBVV95cUxNRU8teEgzbmpzVFZHOFdHVXl0WTZ5T1l3OWtqQzBQVFdoRnlXanZCRjlFLWw0bXpOQjdDNEZSWTVlN1I1QVBGSzR0bThrMVkyblZjMnpkakpodzFqU19DQVYyek5YOFdqMW1xOGIyUTM2dHV0dGdZVm44S2R0YS12eUcwam9DU0RPdXduSnNHUzlraWNEWl85Sw?oc=5",
-   "data": "2026-10-17T10:00:00+00:00"
-  },
-  {
-   "titulo": "Inter vê desconto na bolsa e projeta Ibovespa a 240 mil pontos",
-   "fonte": "Investidor10",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPV2MySFhKU0NqNVVDNkNySjVRMXktTWdxU1ZuZlpkWlI4TEkyS1QycElNbmt4a1lMeHhhMGIyU3o4WFRTWWY0S21abUg2SFJuU2xFTnF4SEhpSTFDUVJGRVpCZHFwZmlyOUVkYXkyRXpubVh3eEF2STQwWlBzbWJoUXdmVTFLTTliWFloZnIzbGF0V0YtbWF0TW1ZRDBlSm5wZGRpWXczUUtCbFHSAbABQVVfeXFMT0ZPNWd6RmRZVWR0Uy1pNnpwTTBvaENPYmJKbjFaSllUNEpIMXh2WExDcUFKQTZ6TFBITG9GaGVDSkYwT3dsLUxGR1N1SzB5VS0yTWd0SVd3RFFzWjl6LWJzbTYwYVZhSTAwSmEwNW5fMDY0X0V4ZmF5cVhjUzlBMTNHTUxxMWFNRUdDZ2RiTmtONHFEWFEzLTFpTERLS3JKNFdycUdYTDZuaFNTUDBaRlc?oc=5",
-   "data": "2026-10-17T10:00:00+00:00"
   }
  ]
 }
