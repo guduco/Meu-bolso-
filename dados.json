@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-10-17T07:35:36+00:00",
+ "atualizado": "2026-10-17T08:33:14+00:00",
  "indicadores": {
   "selic": {
    "valor": 13.75,
@@ -16,6 +16,18 @@
  },
  "cotacoes": {},
  "noticias": [
+  {
+   "titulo": "Governo da Bahia investe R$ 25,6 milhões na produção de ovos caipiras e fortalece a agricultura familiar",
+   "fonte": "Jornal Grande Bahia",
+   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPYXhtVEdTYi0tTXhGajZjcGVoMWozZGF6YTlaVzIwUUM3YXJlVmkyRVlWV2daa05QUko5cWJmNkM4NUhkR09YZHhoQi1LWUU2d3M3aHdlQzhuZ3F5SV9XcHBnOWpEc3NkSXZUTk9idjBEUkRncWtXX3pQOUp1QXhlY2hlSjJwc1ZwdTNBUmhMQnExOW1kN0VCVXQ3aG4yVzZIVnRsY2VDNGpHdDQtOW50c1J0YTRGQUpEa0dhLWxFTElRcDZ5YzhOb09Yd3F0dnJCVlNiZ2JxUXV5VHg2?oc=5",
+   "data": "2026-10-17T08:00:19+00:00"
+  },
+  {
+   "titulo": "Dólar volta a subir: é um bom momento para investir lá fora?",
+   "fonte": "InfoMoney",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNTGVnNlhPQ1h4Z011LTljM2dHVFdJZndVWkNFam5WMDc1UWgyQTNhMjJIeFZZY25hWWQ5VENkanFVZXg5bzBlMGdwYllsMzVRdUhma1h6LUQ2ZzdsbS1CSURMdHFtTngwSG5rb1BEb3FZZFhJWUJ1NmVuTHZfVG1ILXFrOWVvQmUyak91M3ZUUTV5RUlPaFJnYk5R0gGfAUFVX3lxTE1MWkN0b200Sk5lc2h3TktraTFidVNmTnVhMWhkN2VBeXF6UElxWDRWbVVNS0lGaEJUdGNsLWNTM0Vfd2JJbXkyYi1FQ0pSRXduaW5Bc0NGN2RKU0JCdHBuamstY29RWlZXZ05Lcy1NTUxaVnpzM0ZsRUFEaTdwUUlnVlpxNlFnS0M0OHIzclVia09RMGdGeDBCeE9KdjVsTQ?oc=5",
+   "data": "2026-10-17T08:00:00+00:00"
+  },
   {
    "titulo": "Lagarde pede disciplina fiscal ao alertar para riscos de inflação",
    "fonte": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
@@ -75,18 +87,6 @@
    "fonte": "G1",
    "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPb0Q2VTQ0RzUyMTNaWkE1NDNycTR0UHh0SWM4WU85bTBVRlFtcXltZlFoZTI4QXNfRE0zbUFwSXRDdFRXRUpLVFZNNWhrM2dnQ3hfemQ1bWtLTXdBZFRFQnhjbjVHb3dzdXc4SXhWSzc2NjVoRnFuVjZra2xxYzVhaUxXak1HN0xTUjlwVWRkOXB1M3AyU1BRZUwzdW51NUdHZDc1RE1BdVZuWWFGeVVVYjhydHNyMEFkdVRBanh3WjY0MVduLUhraW1OU3JFRmdoRDNpNGhIUlRjZ3dvVHAyRnBjOFYxdUpZaTNCWlotWC3SAf8BQVVfeXFMTU95SGtyRjlVOTFRd0hINXBjemlmaURlVXNGUHhwYUFKQ1cyVTVJLVpPUXViUUtEbVZYc3QxSWJlN0JwZndCLTJ5UjBLNV9PTzdtTHdvRWY5aEJ6N1IxZWZQdVFQcTRkYnJucmJZU05Fc1dLNTBhSXhJWm15NVFXWDdQNGxSYmxiR1dLTGZhdGNxLXByUUdrTTd3bUxBaWlvanN2M0VSOE9jYUJXSVVVd2dLR3B6b2RlTEUtRl9aR2RqRjlMbmhFX2EzLWZmYjkxaHA0cHdBT0N1MU1mYzVHNTNMMGE3M0htNzFoNTNQNzVaUWJlSXlPZlBPbERkX1Rz?oc=5",
    "data": "2026-10-17T02:45:06+00:00"
-  },
-  {
-   "titulo": "Bahia e Portugal articulam parceria para atrair investimentos e impulsionar novos negócios",
-   "fonte": "Alô Alô Bahia",
-   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQX1RrQ21LQm5ISVFTdUJldW5mYlhHblhTcThQMmVnc1RpbndzYXd1bndQS0dOdmRMTFQwWm5rLS1meWN3blVzdy1xSE1ObHBJMWphN2VXeHdVbFlJOHdrMkl2WGQ3T3VCR1hXVnE4cm5ndHlrZWxoNW9hakF5eFhrbzVUbHpOamxzcW5zNVFITHZkbkptdzhmc0g0VUNKWE5mX0xGLXVvQWg1TVFJN2l2cUtZTW9ocWdVMTl3ODNxV01mdnB1Ty0yZzQxZmM4aDA1?oc=5",
-   "data": "2026-10-17T02:23:39+00:00"
-  },
-  {
-   "titulo": "Dólar abaixo de R$ 5 reage e sobe; veja níveis e ações",
-   "fonte": "Acia Araçatuba",
-   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBVcnBoNzVOQWVXTkhsN3ljM3dsdGFseTFvUDVBUGJ1S3A0ZGJ5LWdXU0U4MmJKNTRNTG1yTE82WGkwOU45ZWZSN0kteU9lYzVYbU9ublFOcXBHWmtlT3VHNU8yRENnd3hQenNEQXZHYzlDSnEtTmdfeQ?oc=5",
-   "data": "2026-10-17T01:34:10+00:00"
   }
  ]
 }
