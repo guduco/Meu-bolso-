@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-10-17T14:30:12+00:00",
+ "atualizado": "2026-10-17T15:30:51+00:00",
  "indicadores": {
   "selic": {
    "valor": 13.75,
@@ -17,10 +17,52 @@
  "cotacoes": {},
  "noticias": [
   {
-   "titulo": "França enfrenta tensão interna e corrida presidencial dividida",
-   "fonte": "correiodobrasil.com.br",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPQUxOdDhNaWhhYUpiTUJab1pjTUhlWlRPcXJUVmpjVFJWZHFSTFBmLXhMYzZBNUFrdkZQM29odGZPM3dvN0owSEV2TEJsUElVa2h3U29uYl9NTC1YZzE1NW1MVG5yaHloUWFjY0ZTczF4V3V5Z1QteVlYd2UzakpkdDdNZS1iNW5mbFFfRGg4WnRSY00yQmhDQg?oc=5",
-   "data": "2026-10-17T13:38:11+00:00"
+   "titulo": "Jovens italianos vão às ruas contra armas e por educação",
+   "fonte": "Jornal Correio do Brasil",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOeXI4ZW1HUWVha1BoZE43VTFmT2JTalhkRmlMbjBmTWNvLWFLbHViY0dIR3JvanZYRWx0cm1URnNfLU1lSnlnTGtVazdENWhpSG1LbUtTUWR4NUx4Q0l3NE01OE1XdE1qaVMtVTEyaV9JZy1ta0tyemo5cFpOQUhjbGJkYXJLN00?oc=5",
+   "data": "2026-10-17T15:15:41+00:00"
+  },
+  {
+   "titulo": "Olimpíada de Matemática reúne alunos e professores",
+   "fonte": "Jornal Correio do Brasil",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOb2syZlhuSW0xRlAwaUhZS2dEWWdTcDI0eHZ3NVBuR0tPYnFyLUlmZklIOU0yZWtPRlFzRWJwV051WTRQYnhyLWd0RlBJdWRfYzZwdnczSG9pREtYT2hZY3BzVFg5SzlZM1d5bWh2SjNwM05GMWZ3bVZSUG1pcjRqYXJlM1k?oc=5",
+   "data": "2026-10-17T14:54:37+00:00"
+  },
+  {
+   "titulo": "Marcopolo (POMO4) e mais 4 ações para bater o Ibovespa (IBOV) no curto prazo, segundo a Terra",
+   "fonte": "Money Times",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPazJLbl9GQW9RNEducWg5Ym9Palh6V3NRM09BeXJUZ0xpWXVIYlZxUkdEa3JUeXhRcU5vQURZaWxBME1VVU0zMDY2bjNxMk9NVmZla1hzTVlhTGpKaG82RVRUTk1zNk5DVzN6OHV5UURfdkkzVVZFZHVFdUM4TUFuMkxfMmdrYXFpVUlNeGFhMTVVM0g1VW9pb2RZTlRxbnFwMnFWS1Z2VnNET043?oc=5",
+   "data": "2026-10-17T14:50:00+00:00"
+  },
+  {
+   "titulo": "Estudantes criam ferramentas contra notícias falsas",
+   "fonte": "Jornal Correio do Brasil",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNMW54dlFFUWFlRHhxZzN2cDVZNDNKaTE1Y3FEekV4OGhqUlZUd3N6MWpqci1ZVm5zMW1ZZURRc0p0T1RZc0JmeU1CYnM1c3NSLW13MW1ZUUlNZHRpSl9McXhpTDBMT2RKQTZENEJJeHhtbVFaT25yWVRST2JCRi1PNk5PQi1kMDVhLU9YbQ?oc=5",
+   "data": "2026-10-17T14:47:19+00:00"
+  },
+  {
+   "titulo": "Companhias aéreas preveem anos difíceis com alta de custos e temor de inflação",
+   "fonte": "Folha de S.Paulo",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPcXdpaUJ6UlQ3RFBjUTlJeUpHSERSQjFPMXBvOUlnWEstUzRYdFdGOGdVWUZveVlLaG1DTFQzd01mYzk5bzk1UXdMQkxPMVpvU2VncC12aWo3d1BZZ1FvZDJJeWF4MmVzSlI1TkxJTTg1enFUWjdqSnlURGNNX0k3OFVhbDFhS2szbEw4WUozZW1Ga0Q3djRqeUtjRFNmLVFFUTZzeDhUcEpXTEZUNmtkaWdyWm0wWS1uWG1nMm1EVHNVV2h1R3Z0bS1B?oc=5",
+   "data": "2026-10-17T14:45:00+00:00"
+  },
+  {
+   "titulo": "Abstenção entre idosos acima de 70 anos recua",
+   "fonte": "Jornal Correio do Brasil",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNNXlUY2t1eWdHRW04RWFYNWdGMjJHWVROVjdaeWdfTGx6MTNVWGJoUEtzUWJTYkQ4NklweklWVTJ3RkxxUHRJcUZldE9lWXBRTE5IZHltUEpwQWhGdWFObk5PT2hTbHVOTWN0cUFwMEZNbmU5NGxvc191M3pjUkJsNQ?oc=5",
+   "data": "2026-10-17T14:39:02+00:00"
+  },
+  {
+   "titulo": "Em vídeo, Lula destaca ações do governo federal no Maranhão",
+   "fonte": "Imirante.com",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOY0RIWHNCZEJOWXd3aHRORmw5QVpjYnh0bGlSbjlPd3UtcElQd2gzUVBBenpWWFpHakhlaVpXOGhoeUJrQ19CZ0Z0ZVBEVnBBZ1NVSzBndHRCM0ZrRjBqMGtNMmhzQXpxSW9QcjJwUUlnSjVFZWQxUmg1Sm5BbTNaVUFOX1Q2WTZuRWRaY0wteWhWcFpQeW1wNURFUi1XUU5MVEZ3eWQ3WkJDUDA0Y2Y1T9IBtgFBVV95cUxPcjlCN01EbVBweDBwOVIyUHJBMTBNS1BDNkRSSVliOXZjUW1oZTRzcGd1QzBsRlVHQXd6dEFlekZSTzF0dUhLNjFlUXRuY0RKWG1fYjU4LU5yczBMbHlFYjJGTGpubDg0V05BaTVtM2ZqWDZZbndzajkzTzJDQi1VLWI1ak5vbUJDbDlGTEZsVllZYUxvTktaVmdnUXM5VDdiZzJRVjJWUEl6VEtwWDhITFZCRjJwZw?oc=5",
+   "data": "2026-10-17T14:38:12+00:00"
+  },
+  {
+   "titulo": "França tem sábado de protestos em todo o país contra inflação e preço do combustível",
+   "fonte": "tmc.com.br",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNWkJRdUFfRHNiME1rbnhZRFZSUG5xNXp0WFZGcC1NNDJQb242LWdPWHVVcC1GMTV2THhjX3RiaW00QVZJZXRhOTEzWGgxU0haOHZmdFBBV2U2WnpZekdWbHYzQ2NfZV9rSUFMczlLUk1fWndyNFBReGlsMXlqZ2ttQQ?oc=5",
+   "data": "2026-10-17T14:27:04+00:00"
   },
   {
    "titulo": "Prefeito Ricardo Nunes visita São Miguel Paulista, onde 78 obras ultrapassam R$ 668 milhões em investimentos de sua gestão",
@@ -45,48 +87,6 @@
    "fonte": "Folha PE",
    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPN0lkRzJpWFpVRXFnZ3o1YXdiUTliNVl5NWdzM1RKaWRSM05zZzAyM21DblM3dFp4aTEwbTczREVTTlpaNlB0amt3SUIzWmh3LWZWTnI2cVNsZTc2RUl5d25yMUZWeFZiMm81N21iVXpBckFSY1UxQV9sbTBhekxlS1BTRGFYaFhsZk1SQ21lbUVrVFYyVkxUMUhPbUx3UDNqTWNiVTcxYWZrbFRMUlHSAa4BQVVfeXFMTzdJZEcyaVhaVUVxZ2d6NWF3YlE5YjVZeTVnczNUSmlkUjNOc2cwMjNtQ25TN3RaeGkxMG03M0RFU05aWjZQdGprd0lCM1pody1mVk5yNnFTbGU3NkVJeXducjFGVnhWYjJvNTdtYlV6QXJBUmNVMUFfbG0wYXpMZUtQU0RhWGhYbGZNUkNtZW1Fa1RWMlZMVDFIT21Md1Azak1jYlU3MWFma2xUTFJR?oc=5",
    "data": "2026-10-17T12:40:06+00:00"
-  },
-  {
-   "titulo": "Ainda dá tempo de ficar milionário: Mega-Sena sorteia prêmio acumulado em R$ 170 milhões neste domingo",
-   "fonte": "Seu Dinheiro",
-   "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNZXpfVkFuTkFHTWx3QmVwQlNpN3VhVm56MWxfQlEtWVRjN0IxbVJ6cXBSb1FOdU9OZHEzT0NRSHI1cHhYNnRVZ2xTUmxuNW1Ud2hlUnVGdFZhUXg4bURncWYwSUxMM1NUSGpYeTY1RV9hTzVkM21Yc3UzdjBTLWJYV25VS2p4YnhBWTEwSlM0dkVvYlhIaVlGRmlwYXZwek90THBGajdVcE5JeW04WF8yaElEZXYyTFZ2VkFrYzhLbmtXMGMtWWNnWVhKeGdheGh4cWVJZWRUSUpveFp4WFAzcWJTUXRrbFRhaTVueHRB?oc=5",
-   "data": "2026-10-17T12:15:38+00:00"
-  },
-  {
-   "titulo": "Inflação acima da meta, juros em queda e dólar mais barato; veja o que esperar da economia até o fim de 2026",
-   "fonte": "Misturebas News",
-   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBZQzRxWHRBd3V4MVpsMGh4dzZrVG5jV3NHSWFIVEVrMW1JWXVTYm5CZzNoLUpTLWo4aktWZEM5aVl0SE1KTVR4OXl4enFQZktMV2lGaU1zX2FXVFl0X1FhRGFnNlQ5aF9MYnZ0eS01a3ozVEZIbWc?oc=5",
-   "data": "2026-10-17T12:14:47+00:00"
-  },
-  {
-   "titulo": "MT pode perder R$ 10 bilhões por ano e comprometer investimentos, alerta Gallo",
-   "fonte": "Diario de Cuiabá",
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQUWlEMUpVcDFzMlEwT2Y1OGlpU0g5bTBkMGxYUjcxLVFPTG9zZnItYTljMzUxNzZLZUxtMjBJdXZsSC02SHRSU0JwZWFkOU12RTJ3YWZhS3BSWHFQRXM4SlB2TTljSDhnU2c5SVdsbUFEZE5VQVRiVGhXVUVuQXhtYUw4aU1jdUpFazZBYjdzNEI0YVVISWwxNFFXLU1XSEowY1RraE15QXBqNlJKNklta3p1aFFwX01vS1F6SWFMMzlQTU1P?oc=5",
-   "data": "2026-10-17T12:00:00+00:00"
-  },
-  {
-   "titulo": "Ibovespa devolve ganhos do 'trade Flávio' e cai quase 2% na semana; Prio (PRIO3) e Vamos (VAMO3) são os destaques",
-   "fonte": "Money Times",
-   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1hMVpkZHgxMnVhMTVOM2ZhQ0FwLXRnMHd4UG94U0t6VnFsYWU4ZzlVbW9nbnBMLUc0NXp1ZENKRmpXVFJGX04zdUhnT1NMZ3Q1TlRHeVZUOFNvQjdyREJHRExrRjRCc0hZNWtpUkNCY2sybnJUNHc?oc=5",
-   "data": "2026-10-17T11:32:00+00:00"
-  },
-  {
-   "titulo": "Eleições 2026",
-   "fonte": "Jornal Opção",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOcm1DcjVLWmltSTJiNUhUaFF4bDFsVzVHaS1ycmdDRzc2dDRxRDIxR3JGa2gxQ3d1WEpOaTU2bXFSQS00TkZCODd6aFk2WHF5aV9HamU3VUdzYzRpRXl4dTVVQlNUNXh3Nk5PWjV6TzJZT1FtcXZuTmdGQkx6ZnBTLWw0dm5YZk9iOHFHOXhkbkpKMjBwREZR?oc=5",
-   "data": "2026-10-17T11:27:07+00:00"
-  },
-  {
-   "titulo": "Tendências 19/10/2026 | das principais ações da Bolsa",
-   "fonte": "XP Investimentos",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOU0dVcWFEaGE5NE0zOWxfWUU4bWJ2QXhDQjBVVE0zUjRhLUtlWGxscTlya19vdGZzVWRibXZQQ01ieU8zbjN5Wm9OdWhmbjBoSmlIOXVVcTVOSHNNQ044amtLVlFESFFsb1RNMWVCT0FaWTV1S3M5VnhzV3k4NHhqTHZlNXN3VHZwV2pnVk9mckMwREFuTmFzV2dyZUNaS1c3cEhuT3hrZFpaVC1r?oc=5",
-   "data": "2026-10-17T11:26:05+00:00"
-  },
-  {
-   "titulo": "A força do interior na economia de Minas Gerais",
-   "fonte": "Rádio Itatiaia",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQejBPWVF5Mmk0aUR2SzNNS2lxYnBpMm1fX3BlQmpkM2J6ZzFidlhfaXk3R1V6T2N2MjRoQTM2OVdJRFRfTkNfUWpXUlo2TVB1NE9VaTEtYzlwTUM1cEJ1ZjN1dlJVSk90Z1F6dWxueUpmU1JRMmNwY2s0d012NXhFNWJUZHJRRkpXejVJaGRwN1dYS29Bb0FGSG5UZmZoWjhhN2pzeg?oc=5",
-   "data": "2026-10-17T11:15:06+00:00"
   }
  ]
 }
