@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-10-17T08:33:14+00:00",
+ "atualizado": "2026-10-17T09:32:05+00:00",
  "indicadores": {
   "selic": {
    "valor": 13.75,
@@ -16,6 +16,18 @@
  },
  "cotacoes": {},
  "noticias": [
+  {
+   "titulo": "Ronaldo Fenômeno também manda bem nos investimentos e vira dono de gigante dos esportes",
+   "fonte": "www.jornalcruzeiro.com.br",
+   "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNSTdFVVhaU2IyWWNVRmNBWVdpaHRGajlXc1NQWmNkeHUyMkIxdjZXNHg5dlVrVTFvbnhvZE9MUDZ3TWFmSUhwc3U5cDcwMERZVm1LcnQtVFFYU2NWRHRnWWVnYkhRWktiWkxYbFM3elJmWHBCcGtnRUdmeUlSWGF1eGhFYW1SY081dWVNdFJydWJaVDZ6UDlZSEp2TURDWFlvZjg4UHFOeDFvS3RaRXU4TkNPNHB5V0t3X0xhNXVjNnZtWnJoSV9BdnNfaGp4YkEtZHpOdzc3ZjFVR3hLSThrR1VOSV9XcDBkX01KVQ?oc=5",
+   "data": "2026-10-17T09:19:00+00:00"
+  },
+  {
+   "titulo": "Mega-Sena: quanto R$ 170 milhões rendem todo mês na poupança e no Tesouro",
+   "fonte": "UOL Economia",
+   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOZ1VnSzdWb1F2NUxmWjhqSHI3TXR4WU1Zd0dsalVTOUUzRVFPcHlpLVJORWphQnZOSWFOOWNSa2lqeVFSRmNjUXRNLTEzQzVuY0tVUTlQaXRhS2JYVTM3UEtYTU9MVGdYRUhWazFWNmFqU2Y1UVBFQkRXRmhGWi05Q0RKd2ZQWFJBMS1yTndfMVh4VzJhUGhsZThoRDNCSzNuVjRtSlpLdFhyd0Q0ZVgzYTl0Qk5VbndnVXlJd2VwRzZyendJMVBwcDVtUTdYSkY3UE1kZjNoMA?oc=5",
+   "data": "2026-10-17T08:30:00+00:00"
+  },
   {
    "titulo": "Governo da Bahia investe R$ 25,6 milhões na produção de ovos caipiras e fortalece a agricultura familiar",
    "fonte": "Jornal Grande Bahia",
@@ -75,18 +87,6 @@
    "fonte": "Times Brasil | CNBC",
    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNM09PbEFJNUxmRjlqV0VnMW1RZkhzNG11Ul9IOERldldWdUZ4a24zbkcyTWFlRnNScG5kRUVxWG5ZQmkwRkQ1ZnpzbmdQUnl5NlhxQThQaG9BRjdPNUxEemNRcWNzOThscnRkWnQxc0d6LTFyNUMxaURUcUhncElkWUVFN0Q?oc=5",
    "data": "2026-10-17T02:59:00+00:00"
-  },
-  {
-   "titulo": "Dívida pública: o problema está no custo dos juros",
-   "fonte": "Nexo Jornal",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNSVQ5MFNjMEJKZTNRdVZPSG54Ylg5LUgwM2ZwbkVKYU00aXN4TlowVm1DTy10emhIcGh1Q0taNnZCQk9VYld3S1U4aUZIbWRBNC1oSEtya0RSR2pvc3FJQkFVdnFpRjZMbUhyWjdPSkk2a1kwZDBLTVJJME51UExCc1ZfTDVHbEUwMnBOM3NBeGwzYUlrd2prWjB4MA?oc=5",
-   "data": "2026-10-17T02:54:08+00:00"
-  },
-  {
-   "titulo": "Queda do dólar aquece economia da Fronteira",
-   "fonte": "G1",
-   "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPb0Q2VTQ0RzUyMTNaWkE1NDNycTR0UHh0SWM4WU85bTBVRlFtcXltZlFoZTI4QXNfRE0zbUFwSXRDdFRXRUpLVFZNNWhrM2dnQ3hfemQ1bWtLTXdBZFRFQnhjbjVHb3dzdXc4SXhWSzc2NjVoRnFuVjZra2xxYzVhaUxXak1HN0xTUjlwVWRkOXB1M3AyU1BRZUwzdW51NUdHZDc1RE1BdVZuWWFGeVVVYjhydHNyMEFkdVRBanh3WjY0MVduLUhraW1OU3JFRmdoRDNpNGhIUlRjZ3dvVHAyRnBjOFYxdUpZaTNCWlotWC3SAf8BQVVfeXFMTU95SGtyRjlVOTFRd0hINXBjemlmaURlVXNGUHhwYUFKQ1cyVTVJLVpPUXViUUtEbVZYc3QxSWJlN0JwZndCLTJ5UjBLNV9PTzdtTHdvRWY5aEJ6N1IxZWZQdVFQcTRkYnJucmJZU05Fc1dLNTBhSXhJWm15NVFXWDdQNGxSYmxiR1dLTGZhdGNxLXByUUdrTTd3bUxBaWlvanN2M0VSOE9jYUJXSVVVd2dLR3B6b2RlTEUtRl9aR2RqRjlMbmhFX2EzLWZmYjkxaHA0cHdBT0N1MU1mYzVHNTNMMGE3M0htNzFoNTNQNzVaUWJlSXlPZlBPbERkX1Rz?oc=5",
-   "data": "2026-10-17T02:45:06+00:00"
   }
  ]
 }
