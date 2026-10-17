@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-10-17T00:45:47+00:00",
+ "atualizado": "2026-10-17T01:33:47+00:00",
  "indicadores": {
   "selic": {
    "valor": 13.75,
@@ -16,6 +16,18 @@
  },
  "cotacoes": {},
  "noticias": [
+  {
+   "titulo": "Tarifa zero nos ônibus aos fins de semana pode reduzir inflação em 0,25 ponto, diz economista",
+   "fonte": "ICL Notícias",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5hVUVTM3d0TnpQVDN4TlY5enBXN2s2STIxUkZhaEhkWlRRN1FLYWlkNGZEam4zRjFmc0Ffbk1iMXRqb01LX1lSRmV5ZWNheE96NXpwT3hsbHR3bDZ6eTNjcjJzUnozb0ZibGlTQURKb29ZYnQ4UE42N1ZRVQ?oc=5",
+   "data": "2026-10-17T00:55:26+00:00"
+  },
+  {
+   "titulo": "Após semana difícil, Ibovespa termina a sexta-feira (16) com alta de 0,54%",
+   "fonte": "O TEMPO",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQcVNDZWxwaVViMk1jd3J5OWZoejN6RkJWenNmblJnRDI5aHBHY1NPYk11YkIzNzR1YjJxSlpKdzJOaXg5VmdjTW9JUjdZV0pkVnNKZ2NyXzA0a1Bkb2ZDc3IzMG81c096Yy1IZTFTT0pyZTVKODNUUXU2Y19qRzhpUjNKTGU2YnRuY3pnLXBrQW1meW55LWdVZ1JZVE5KWHVfMHZEYUktTG1RTG9wY1BKVHI5YW5tOWM?oc=5",
+   "data": "2026-10-17T00:42:49+00:00"
+  },
   {
    "titulo": "Bahia e Portugal articulam parceria para atrair investimentos",
    "fonte": "REDE BRASIL DE TELEVISÃO",
@@ -43,7 +55,7 @@
   {
    "titulo": "Renda fixa isenta com petróleo paga IPCA+ 9,50% até 2034 e atrai analistas",
    "fonte": "Investidor10",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNLWg5OGZJVzhYeUhBTkxwNjM2endnSmdTTnVSUl9JTlZNSm9XcWhrWFgyOFJNZl9oYXY3WUFLSVVNd2huNjQ5cHVUVF85Z05lZFJDdHBiOTVtZDZFYlZXRjNIUS1KX3pjbERKNHFHMXNsWUxWc19aUTBULUFlcmJKWVJGQUpGYUhkcGtyUTJQTkNWck11ejg1MHZCVnBvWEdhVm1wRmZzSy1pdlBGQWZrcVlGb3d2YzZi0gG-AUFVX3lxTE9sSXczeWw3eVh2MWZwNWVQUkJLUEZPVjduQWNqeTFPQlZXd2djSjA0ejNHZnVlaWVNWDZ0OVdncGFpenBQSzlqUmdXQ2k3M3dKOHduYU1OcjkxQ3VEYlBtYlNqRTgzbDZkWmRHVmNYd1VzQ3Bzd0RoeENTQXVIZHhWVXFvSng5S3JZOUlJSGVQZWhtRldBdXU5SUFMYUVmRG90cWFvdnJzZHYyWjFSRk5uTzdkUWZPY3NsdUozYXc?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPbEl3M3lsN3lYdjFmcDVlUFJCS1BGT1Y3bkFjankxT0JWV3dnY0owNHozR2Z1ZWllTVg2dDlXZ3BhaXpwUEs5alJnV0NpNzN3Sjh3bmFNTnI5MUN1RGJQbWJTakU4M2w2ZFpkR1ZjWHdVc0Nwc3dEaHhDU0F1SGR4VlVxb0p4OUtyWTlJSUhlUGVobUZXQXV1OUlBTGFFZkRvdHFhb3Zyc2R2MloxUkZObk83ZFFmT2NzbHVKM2F30gG-AUFVX3lxTE9sSXczeWw3eVh2MWZwNWVQUkJLUEZPVjduQWNqeTFPQlZXd2djSjA0ejNHZnVlaWVNWDZ0OVdncGFpenBQSzlqUmdXQ2k3M3dKOHduYU1OcjkxQ3VEYlBtYlNqRTgzbDZkWmRHVmNYd1VzQ3Bzd0RoeENTQXVIZHhWVXFvSng5S3JZOUlJSGVQZWhtRldBdXU5SUFMYUVmRG90cWFvdnJzZHYyWjFSRk5uTzdkUWZPY3NsdUozYXc?oc=5",
    "data": "2026-10-16T23:48:00+00:00"
   },
   {
@@ -75,18 +87,6 @@
    "fonte": "Bahia Econômica",
    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOSWJKNlZ1VE00VDFwUjh5LXZrY3diYmVYWFdKRU42Z19ka0x3dGtwdThvZTItR2NUWmNEWS0xV09XRVAtTzJmZG1UZ080MDJfU3RjX3V4aFFCSm1DRmRKdUZuUkNkSDhfWHJyTml1WHhGYkVHd1l4Zk1KOGRqRDlSRFpqNVZqTlhGa0NwT1owQ1Y5cFd1NVB6R3pqMkg?oc=5",
    "data": "2026-10-16T22:16:12+00:00"
-  },
-  {
-   "titulo": "A Semana na Renda Fixa (12/10/26 a 16/10/26)",
-   "fonte": "XP Investimentos",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOM1I5RnROYWZqeFE4djJzUlFzcEl3ZUJ4ZFZzck5YMjB5UUtVOHBXWW9wUTJYX1hBYmllMzMtczltN29NcEhJUnNMYTNFSHJ1bEEzUVJ4NmdPaF9aZG9xLWRCWHhoTGtLQi05UnRjVDJCUUFYdXNwZ29HMDVfaWJRVUxERzRmV1pRclBKS1hEemZyWHhmcUVEMHV3?oc=5",
-   "data": "2026-10-16T22:14:31+00:00"
-  },
-  {
-   "titulo": "Ibovespa pode subir ainda mais? Citi vê sinais de uma recuperação que está apenas começando",
-   "fonte": "Estadão",
-   "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPd0hoelJtYWtVRURWUWFpeDJGWjhIdGlvZGdqUlpHNU5LTHlsOHprS0JjNkVfZzVpY2hkdlVTODdpaXkxcEJLSGZ0bFg4UFJTWmYzdG1Ka2RpQUs0NnJsV3NYNUh3RU9wdm94d1NCRkF1VENSQnRvRzVrRGJhaTVHR0Q3RFNfUnZzYTlvaVJGUFQzbmJNWTFhN1ZCb1EwcHpyM0Z2eU9tdGtYdmw5by1oM3BWSlJWLXVPbU5UT0gwM2liNWJXODVtSEVGOEFvNTlmT19yUnhTbFZYMzF0RU5iZUF4MC11YXNINjh5RWNB?oc=5",
-   "data": "2026-10-16T22:12:01+00:00"
   }
  ]
 }
