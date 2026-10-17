@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-10-17T02:33:19+00:00",
+ "atualizado": "2026-10-17T03:32:19+00:00",
  "indicadores": {
   "selic": {
    "valor": 13.75,
@@ -17,10 +17,34 @@
  "cotacoes": {},
  "noticias": [
   {
+   "titulo": "W1 Capital e XP abrem inscrições para o programa XP Future",
+   "fonte": "Agenda BH",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQMmtSdUNBYl9hUnZPRU8teTVlWW96RjdQTTc0NW8xZUdLQ21FODVvaHdoN3BzUC1uUURoVzZnS1M3a2hQT1ZsbkhyNnZRSTlVSVZGR2JYenBGYjRmRTdfanFHT25xTDY5QnZTN25HV2J6dXZHRXF0T2I0aHZvSEJKTVhPZmdnTHhDSVU3XzRrcko?oc=5",
+   "data": "2026-10-17T03:27:16+00:00"
+  },
+  {
+   "titulo": "El Niño: plano de SP prevê R$ 29 bilhões em investimentos climáticos",
+   "fonte": "Times Brasil | CNBC",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNM09PbEFJNUxmRjlqV0VnMW1RZkhzNG11Ul9IOERldldWdUZ4a24zbkcyTWFlRnNScG5kRUVxWG5ZQmkwRkQ1ZnpzbmdQUnl5NlhxQThQaG9BRjdPNUxEemNRcWNzOThscnRkWnQxc0d6LTFyNUMxaURUcUhncElkWUVFN0Q?oc=5",
+   "data": "2026-10-17T02:59:00+00:00"
+  },
+  {
+   "titulo": "Dívida pública: o problema está no custo dos juros",
+   "fonte": "Nexo Jornal",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPdC03SWlhNWtJTl8tYlhuZGg1dU9fSXZTZjFqVUdfTlJkbmdwNE1RQkVDN1V1b3FJSWo3MnRobzIzQkdwbEhuemdqTkZmLTlZUTJGMEFIZHAtR1c4WUE0aXp2d3piUDlSbkNkaE9ad2ZFZ0Rsd1RyaVpHM0N6UTZNTmNJTDRJX0RiWEdCd3BQa3lsUjBFMHozMC1NM1ZWQ0txb0pKU1ZGb084Zw?oc=5",
+   "data": "2026-10-17T02:54:08+00:00"
+  },
+  {
    "titulo": "Bahia e Portugal articulam parceria para atrair investimentos e impulsionar novos negócios",
    "fonte": "Alô Alô Bahia",
    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQX1RrQ21LQm5ISVFTdUJldW5mYlhHblhTcThQMmVnc1RpbndzYXd1bndQS0dOdmRMTFQwWm5rLS1meWN3blVzdy1xSE1ObHBJMWphN2VXeHdVbFlJOHdrMkl2WGQ3T3VCR1hXVnE4cm5ndHlrZWxoNW9hakF5eFhrbzVUbHpOamxzcW5zNVFITHZkbkptdzhmc0g0VUNKWE5mX0xGLXVvQWg1TVFJN2l2cUtZTW9ocWdVMTl3ODNxV01mdnB1Ty0yZzQxZmM4aDA1?oc=5",
    "data": "2026-10-17T02:23:39+00:00"
+  },
+  {
+   "titulo": "DECISÃO 2026: Flávio promete manter reajuste do salário mínimo acima da inflação: “Não vou fazer economia com as pessoas que mais precisam do governo”",
+   "fonte": "Times Brasil | CNBC",
+   "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNN0EzOEhTeHF3VUptcW5rbkVlcW5YNjB6RFNjRmhNekczZU5BY1dqQjAxblJ5NlVzSF9lcEFTd0RhVzFmbjZra2RjZERSWjhiTWlwQ2lqSGd3OWlVTk80U3BRd3Exclo4ZjVoTzdrOXFMZ1JWWTB6Z0pkTmxUUlV0UW4ydFMxUkQ5X25pejhXVFNFbXBuc0hPNlJ3eEd3eGR1MFdXYjc1clZwQUg4OTRTNlJ0eW9hbjhpME50OERmUDJiTUV2SHNkdVJRbmZuNjdqRVBkREJ2QjdjeXRkOUFrbHJSeUF6ekV1SXZLRVVYX2hZdzFoWkFJM2dYb2dSVTBlNUJDMk01VWdxLUEtNWc?oc=5",
+   "data": "2026-10-17T01:39:00+00:00"
   },
   {
    "titulo": "Dólar abaixo de R$ 5 reage e sobe; veja níveis e ações",
@@ -33,6 +57,12 @@
    "fonte": "Brasil 61",
    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOMXJEanNLaFJnUDVnZGJEenhBRF9KbDg0OEhwWmJHQXU0ZVBrbkdNMFd0MldNUGJSV3VuM3lONGl0X0JDQUlqNExWbFZqeTZsU1lNVXRxb1lpa3JPdFdsaGNEUlFXbnVDcUJsbGlnWXhZZmpuUzJsVjlBNWttYjNvZW9INWs5cmpFM29RR3NhdV9WVTFVSUxTRFgzV3BXS1BESlVWNjI4dHhidXVfYTRXWdIBtgFBVV95cUxQMVp3SEFhQ1JDaTB0djRhNkJVYzZXRTRZeGdYLVN1UG85ampLWGRUZ0pRWUtocUhpMm9DTkdBaGFJM2MxVDROZy0yX1dSYV8xMTVhcFN4dGxxcENVMG5iSlNsU0xfVHBUWndIaVdfMGtscHJfTXhHOW5jaldwT1BXR0VoekFOWlR1VXdsUVJ3LUtkRVNjZkxFWXIyRjdhQlhFZFpndl9aQVAzemF6bVM1Tl9wMzBUQQ?oc=5",
    "data": "2026-10-17T01:25:00+00:00"
+  },
+  {
+   "titulo": "PF vê contradições em depoimento de delator sobre o filme 'Dark Horse'",
+   "fonte": "Valor Econômico",
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOaHNXVlpaeFpaQWFUM2I5LUZDc2pqbDRIYXdKVUh5alQ4UWhILVVpZXotUFdoaVZheTMxaklHT3ZYTHl5d0FPTWFJSkZkdk1hQnVJMzhFMXdqdHpKcVRWWlpYeTdMNWJWancycDlzLVl2d1daVVh4U0ZXdnZmSVFZNzE1OTFnaVEwdlpQMmpOY0d4M2ROMEFWRFdlcHdJV1JSN09GYUpnTVRUc2RWNDZQUHpwTVZ3NkM1bXhFNWhwdHdZQm9aZVNiSlNNZDZVU0p5Vzl30gHTAUFVX3lxTE5oc1dWWlp4WlpBYVQzYjktRkNzampsNEhhd0pVSHlqVDhRaEgtVWllei1QV2hpVmF5MzFqSUdPdlhMeXl3QU9NYUlKRmR2TWFCdUkzOEUxd2p0ekpxVFZaWlh5N0w1YlZqdzJwOXMtWXZ3V1pVWHhTRld2dmZJUVk3MTU5MWdpUTB2WlAyak5jR3gzZE4wQVZEV2Vwd0lXUlI3T0ZhSmdNVFRzZFY0NlBQenBNVnc2QzVteEU1aHB0d1lCb1plU2JKU01kNlVTSnlXOXc?oc=5",
+   "data": "2026-10-17T00:59:13+00:00"
   },
   {
    "titulo": "Tarifa zero nos ônibus aos fins de semana pode reduzir inflação em 0,25 ponto, diz economista",
@@ -57,36 +87,6 @@
    "fonte": "Jornal do Sudoeste",
    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE94RlFCSHBWWjVQTUttN002MmpIeW1Jdkp2aExSWVNGODFLVDdVN1VOTTNMa08xSjkxVlJEdGdBaGRZaFFnVlRLQ2hmQTlaYldXNDlGVUhteS0tNjlrSVNlWUxCcEl1b0JOZi15X3dR?oc=5",
    "data": "2026-10-17T00:25:57+00:00"
-  },
-  {
-   "titulo": "Empresa que intermediou recursos para filme sobre Bolsonaro declarou R$ 2,2 bilhões em investimentos no exterior",
-   "fonte": "O GLOBO",
-   "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNc3RybjQ5aHZWRUJoWmE1SjJlZkhEbi1qb1pyT3owS25jRm5yZXprMFQ5QzRKZFFmdkU0NnJvb0l5a3dnZ3Z2V2JvdTVmWmVqSEZRVGxJRlBmOFJhTDNPbUw1SzAwVGZhQ0RtanRza3NNLWhxWWh1cmVEbUNGczU1djIwdUVWaVpMUkVFUkY2VDkzR1BVcndsMUxxaU54U1VsQ3pBOW9rQnpFMXZzaDlyVGtNTnVLQWhjSVNkSkNZX3p3enpXajJJM1VmTGM1bUo4VGkzX0VoZ1lMak9MQmRpQnFFNWQtYnV6R1RtWU9KemVJLU95Mlp0SVBWcFZoQdIBjAJBVV95cUxNNzJPdHQtRF9rSzNrMzVrMFgyVFRBaVVnM0c0Xy13c2p5b0Z5MC1UaFQwOFRRSXktcVJ1MmZzeS1OcUhwbWNkWmVTSUk1ZmU4NGM4V3NtSHFUQ3YwOEFmbVhQdlhQZk1WNWxDS1R5eE4weXNOSV9IOGlWSE5BWWhWRmRETW5uSGRKNWV2aDhqaXduMk8xNFpRYnFjdkNYS2VBWXp2czU3RFl3YW1DaFlBZVc4Q2UwcjNtOUc1WE5lU3M1Zm4yczhEMHBVMm1nNGdOX3h4MzlqdnAwYmZ3Q2dteUZaTVhQMHI4eXNwTG1adFJERGNXR01jOVpBa2dMQ0FRYkxSOXR0OVlqYnZI?oc=5",
-   "data": "2026-10-17T00:17:15+00:00"
-  },
-  {
-   "titulo": "Dólar fecha a R$ 5,07; Bolsa sobe nesta sexta, mas acumula queda na semana",
-   "fonte": "UOL Economia",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOWS0wZXRDOU5paWtGU215NmtTck9lbmtxY3FMUjFBZTVKMFUyTDdNbmJqMG9iOVRGZHF5Q2JrVzJMcGcweGVMSllxMzBtRXVtUkRsVU1BUTVycElHV3FmUXdzWUY5TzE0Zk5fYUNaVEZqT0NyQXpib195UjB0VW5SdWhqeHVJb0JKUEZhb2pKUm1mSTVZRUNoVXRHMHFVaU03cnJYaHo4ejhPek1HUk1sMEdqSmRFMXFTLXgw?oc=5",
-   "data": "2026-10-17T00:09:52+00:00"
-  },
-  {
-   "titulo": "Rubio conversa por telefone com Milei sobre comércio bilateral, investimentos e segurança",
-   "fonte": "Jornal de Brasília",
-   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQdkFoVnVnNzNFRm9oSGZiYXNzYzY2aVNpVzQyeVRQUWVhaE0tSzkyamFOTXBjN2NRSzU1cXA3bTdoLTR0a0JJQTFDZEk4aHI2WFZsYkZSUnl1THBmNXVZZkVZOW9IbklNSFNJMERUN2RuZUFhLWZ2dHpVb0x2ZWZ5Y3NMYWx5WFU1WS0zLXhxZTBPRDY0QWhIYV8wX0hQQUJWTDB3TnBaM3A3UWRqeElLY2c3cXZLeU5XQ3JDRkQ5bnlncm1OY0pRVzJmVEZlTVhDYmc?oc=5",
-   "data": "2026-10-16T23:58:53+00:00"
-  },
-  {
-   "titulo": "Renda fixa isenta com petróleo paga IPCA+ 9,50% até 2034 e atrai analistas",
-   "fonte": "Investidor10",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPbEl3M3lsN3lYdjFmcDVlUFJCS1BGT1Y3bkFjankxT0JWV3dnY0owNHozR2Z1ZWllTVg2dDlXZ3BhaXpwUEs5alJnV0NpNzN3Sjh3bmFNTnI5MUN1RGJQbWJTakU4M2w2ZFpkR1ZjWHdVc0Nwc3dEaHhDU0F1SGR4VlVxb0p4OUtyWTlJSUhlUGVobUZXQXV1OUlBTGFFZkRvdHFhb3Zyc2R2MloxUkZObk83ZFFmT2NzbHVKM2F30gG-AUFVX3lxTE9sSXczeWw3eVh2MWZwNWVQUkJLUEZPVjduQWNqeTFPQlZXd2djSjA0ejNHZnVlaWVNWDZ0OVdncGFpenBQSzlqUmdXQ2k3M3dKOHduYU1OcjkxQ3VEYlBtYlNqRTgzbDZkWmRHVmNYd1VzQ3Bzd0RoeENTQXVIZHhWVXFvSng5S3JZOUlJSGVQZWhtRldBdXU5SUFMYUVmRG90cWFvdnJzZHYyWjFSRk5uTzdkUWZPY3NsdUozYXc?oc=5",
-   "data": "2026-10-16T23:48:00+00:00"
-  },
-  {
-   "titulo": "Em reunião de transição, Secretaria da Saúde apresenta estrutura, investimentos e programas estratégicos ao governo eleito",
-   "fonte": "Portal do Estado do Rio Grande do Sul",
-   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQdnZLWDhwV2ZRXzFHLTNrWE9VTHludDBjU3c5dU0zNGd2WUthUWhkdEFlTHJXOHJzVGl3dEUxaWhZNGV5YVZWdGlUMTZndGNXTDI1Q3pCZ1JSVEdWY0VCenFNRUtCMVlkWG8tN0N2S2FmWEo4TWRxai01QmFtaG1xNU9oajZjVFJwQ1BrSDFWdjVRR0hKcWFKdFdMNk02aGhURGFSTXBFbWtzMXdGLXZMZ0xYUkFZWUlsdVFZMTF5dkRJTDNleUhhX0VPTHNBb1FJdXVsN1BCWGliZ1Jja2c?oc=5",
-   "data": "2026-10-16T23:39:24+00:00"
   }
  ]
 }
