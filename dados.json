@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-10-17T18:33:15+00:00",
+ "atualizado": "2026-10-17T19:28:37+00:00",
  "indicadores": {
   "selic": {
    "valor": 13.75,
@@ -16,6 +16,24 @@
  },
  "cotacoes": {},
  "noticias": [
+  {
+   "titulo": "FFMS aposta em parceria comercial para ampliar investimentos no futebol de Mato Grosso do Sul",
+   "fonte": "Capital News",
+   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOZXBXNXo5cGZpSXJEam9GNnVER2l2TlZPSjB0Zjd2STJJeEROOEFRSDBoRFc5c3gxNVRaRzBJMkRKcmtiVjUwcWJiM0hOcHBxRU1LVUUzYUNJT1hoVGFWVlNDa3NfZmRmMlM4RnJkVG1HUEFqdFRrdmtPd21kU0dVS2lKS29ISndwSWVWeWMwQWVCekpSV3NLLUVKODRIT2pBQnBZam95aHZUZzFKVks0UFlReVBHNlFvdENlbEV1TGc5endfdlJEVU15djgtUWtlcFJaMkJn?oc=5",
+   "data": "2026-10-17T19:10:00+00:00"
+  },
+  {
+   "titulo": "Mapa: quais cidades do RS têm maior potencial para novos empreendimentos imobiliários",
+   "fonte": "GZH",
+   "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQYllCcUw1OEd4ZnFfNmZBLW5aOFp2TlJsMzdJQVkwbUJETE9rQjlUTEpJUG1vZjVRc1JqLWdfMEVRazJOQVNDZzBvTFd4eWhXbDVyUWJqRGYxb0p5d0ZVTzFxQkVIZlVJVWtYeG8xaXFsaGRUb2NkT1p4RDdIMGYwZnlWeGNmcWcwTFdFZktZS2VJd1hwOWxTU0RSbzlVVUgwNzhpWWJmYUVDa2E3bExwNFdaVm5nQlNmd3JwOUNnVEowM21UZlhJV1psRnJFSDJQcmRrRnRpVHZyVjFPYzJVWXBvNVZ3dmVCa3RQVnFYU2lxQ0daT01oT2t0bWxZTS0yYnc?oc=5",
+   "data": "2026-10-17T19:05:25+00:00"
+  },
+  {
+   "titulo": "Presidente do BCE alerta para riscos de menor crescimento e inflação mais alta na zona do euro",
+   "fonte": "Times Brasil | CNBC",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQd1owNDBOVHlHc3dsNFVlY0JKTkplOW1rVGV5X2xyRmV4a3pGMWZJMU11R2k1dW04NFY5ZUs2c1ljOVktb2ZGOEotbXRwcExIeHB6N0pMVF94X1pGODRUUTk4c0JyalVxTU5mVTJSRkVUeU91d25wRmxvR1g3dlJaTFdLYmIyeWxlU1REenhqYkRuSmRDWFA0dUhkRmc5c2EzZnRZS0ZPVTZWQjJsUmZNd01sNURZRFp6aDZFTWpuZHJ4OFQ5RkI0?oc=5",
+   "data": "2026-10-17T18:51:00+00:00"
+  },
   {
    "titulo": "Mega-Sena 3071: veja quanto R$ 170 milhões rendem por mês em 4 aplicações",
    "fonte": "BPMoney",
@@ -36,9 +54,15 @@
   },
   {
    "titulo": "Mais de 4 mil eleitores precisam conferir novo local de votação",
-   "fonte": "correiodobrasil.com.br",
+   "fonte": "Jornal Correio do Brasil",
    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOajZBcS1pTXNSSjdkRGt6RXA4SmVGLTBmQy1JeDBMcTVROURYYzJ1bF9mOF9CaW92SDYyRFU0QWlPRExBcU9GN21lSGpBeFJ3eVJ2ZGp1bzd1NWQtdlg5WVU4YUV5dzVySmk0MHhvek9HVHRIdXU3QkszdnRCcVluU2dsVFpjMEs4Z0tCLXRnTlpRQmZk?oc=5",
    "data": "2026-10-17T18:03:41+00:00"
+  },
+  {
+   "titulo": "Lagarde diz que choque de energia é “grande demais para ser ignorado”",
+   "fonte": "InfoMoney",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNMGdEeWFwLV9fN0ZINF9LajFDUFpFYjVmZDg4TjBmWUE4U1E2US0tNk1xUjI3WGVJUmN0TmdUQks5Tk43aUNya2kwM1dVUEdZXy1aUU1mZm1iZWRXRkJkTnFadzNkem1VR01jOXpqanZhOFkyazBSOWs1a2Y1VEhSMW1MVl9TblNHOWJSeEYzSG1VNTQ0cnlOanEwY1JqaHRYREpsb3dCRGZvUdIBrwFBVV95cUxQWFZ4dTllWVlVZjZPUEFVamxOZi12VnVzOG53NFIxdWZ4bjhJenVyckhkRWdGemtmX1p4bHhSSXJWakNldGNaVmptSUtSd3ZJQXhraW9BZ3VxNnJKU1ZIZlppamMwOHNqRG9lczhFeENTV0xZZTQxT1E3N0Zhd0w4WXZtSzVjck43RHRZWVlMQ0t0RmxlQU9zejE0cVByUGxQTUVhcm5KT2c1NnJ3VGhr?oc=5",
+   "data": "2026-10-17T18:03:26+00:00"
   },
   {
    "titulo": "Raízen (RAIZ4): recuperação extrajudicial avançou, mas credores estão longe de saber quanto vão recuperar no fim do processo, diz BB Investimentos",
@@ -59,34 +83,10 @@
    "data": "2026-10-17T17:41:00+00:00"
   },
   {
-   "titulo": "Presidente do BCE alerta para riscos de expansão inclinados para baixo e de inflação para cima",
-   "fonte": "UOL Economia",
-   "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNX2NBYXVXSXNsMU1JOVFYeUlKbnpVRUlaRy1JWllGbnNITkt2MHZrOS0yd3dweEpQVzNtWHVuMzFHYlNhTHFzNERkUWR2RTE4ZjAzaGhSd1JUVlJhWEJjZXBBNDdlMEd3MTJvTnhTQnZOWk5XUlBLNFl4TU0tVldneDJnR2tVRVBFRWFiYnpxYXc2WGtsaXZLQjh5SWx4YS1kQ3o2WlcxNG5oeGR0WFZlTXU3YlJ5SW0wZmcyaFJsdGJmYmFIS2RQa2RscVRJOVhUbmxOdm9EemFxdHN1Z0Q1SWNzRkpnT3U0Ny1NRWRoTUpUX2NTd1E?oc=5",
-   "data": "2026-10-17T17:41:00+00:00"
-  },
-  {
    "titulo": "Dólar abaixo de R$ 5: especialistas veem oportunidade para ampliar investimentos internacionais",
    "fonte": "Estadão",
    "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQUTJvOXJ3YlVoQzVFdUl2NXdmc1NKNmZDd3lVSGZrOW5reF9FR21OLTIxNy1MOUtvMmFXYmdlX1hZM3RyODdCdGRLeFhpSGQ5Sl9iSnhqQlh5cTZ5cU1TSnpTNXNzazJ0N0lhYmhRV3dBMzVhdkhTS1paTURhMkd5UjEyVDJCWWNMamRwQ2hSV2pLZHFLSU5RLTlyTUhWdGk2NmwyTEVzREw3eTBFbXZWd2NCLUNaRWxldGplbmFwMEs1TjhmandpMk9LXzM3d3NTemxRY1BhZDlaRDd2UGJiR0xsc180dkVWWm44?oc=5",
    "data": "2026-10-17T17:04:13+00:00"
-  },
-  {
-   "titulo": "Globe Investimentos conclui aquisição da Avibras Aeroco",
-   "fonte": "Revista Forca Aérea",
-   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPWDd4SmVmSThadUFXY2lJUWFmS01Gb0VBU2pHUEhObWJnSVQ1UXF2RDdLMHhFeTVLd2xvSUEwT1gtb051cEZSNGxkMldlQjJ5MGxOVzRwSW1zcEVfX1NCa0dOeVp4SW0yLUhVZEVZaUdpMWxTZW1ZYU5tWndBVG9WYTNTV3V4VklmUUE?oc=5",
-   "data": "2026-10-17T17:00:50+00:00"
-  },
-  {
-   "titulo": "Flávio Bolsonaro ignora salário-mínimo em plano de governo e não garante valorização da renda dos trabalhadores",
-   "fonte": "Revista Fórum",
-   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE55a3ZXeDh0N2hTdElUYm9wQkNiMmZHdUtuZUJ6WUI3MkJIRVpSRHFQQjFxbVFjUDQtTVZTc2FGWVdXX1pTVHBBZXhzUEpDeXVyRF9qeWZNY2thaHNOUkRjZE1jblVoYkdDM3hCbF9YMUtoMVU?oc=5",
-   "data": "2026-10-17T16:23:06+00:00"
-  },
-  {
-   "titulo": "Vale a pena esperar o dólar cair para investir no exterior?",
-   "fonte": "Exame",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPbktkN1hiMkRpNTRsZm9pZXV2NEdqd2l3cTcyUjV2N2lfdUZpV2hCZGVBU1RSZVNFVTNYSlF3SHEyYTd1bHh6X1pRMVFqRDlONkdlZVRaa2U2dGJVZmI3dHVzTGV3TUtkOTc2WUpmczV0QkZoUVFkZHFwY2JkOEVWZDlsRGtFcGpkbjlFNF93?oc=5",
-   "data": "2026-10-17T16:03:10+00:00"
   }
  ]
 }
