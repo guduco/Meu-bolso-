@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-10-17T20:31:58+00:00",
+ "atualizado": "2026-10-17T21:30:37+00:00",
  "indicadores": {
   "selic": {
    "valor": 13.75,
@@ -17,10 +17,22 @@
  "cotacoes": {},
  "noticias": [
   {
+   "titulo": "Dólar sobe na semana, Bolsa recua e mercado entra em alerta a oito dias da eleição presidencial",
+   "fonte": "JBNEWS",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOMW05SFdfQUc5Z3dhcks1VE1kUTA4RWoyREZERmFqLTlaNm5ZU2JvOG5kZHFpako0VjFYVDJHTjlWdnJkMlRzTXdDV2JRV3g1NnhpMF85RWd4djlxY1pwYjA4VzlQYUhjOW5BZng1WmVnYUItV3FXampUVEY4MGktQTIwT2swajZvenlfSEpUT2l1YkZsS041QTJwbGt0d1JRWU50dXAtRzJhZzVsN1JBMXVld2dJNzlS?oc=5",
+   "data": "2026-10-17T21:07:40+00:00"
+  },
+  {
    "titulo": "Inflação no Brasil. Subida de salários e pensões não compensa aumento",
    "fonte": "RTP",
    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOY2x6amtZOEIxcldxbU1KVGd6M2o4ZFhEeWdlbGxWbU95RDB2MEFPVTBwb1ZhaDdMYlQwVmpSMHJNWFN4dnEyWUdxTWQ0azY3NDBZbXdwMFg2cDRfQ0dKNk5idTBWcy11Qkl5MEJ3NUhpczIyLVhOMzdrVTNNWE53TlZSa3lPUkFEMXlUbHBibDBSRVVSV0c1czQyYVM3ZGVJV2dLMlItWjlrQ1Fhc1hSOQ?oc=5",
    "data": "2026-10-17T20:00:47+00:00"
+  },
+  {
+   "titulo": "Ibovespa hoje fecha em queda após pesquisas eleitorais; dólar sobe mais de 1%",
+   "fonte": "Estadão",
+   "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPTGozN28wZmpfeEZSWUhqNUhDYU9HaVdQWXB1UU1QYVVkWUYtSGtBVGN4endSR0ZvMWVsaVVhQUc1QlJVYlFPNEh5WEQtc1Rrd053U0lUUEh1WmlVU2Q2R2dUem9vSWtUcVVnWnVjRWZKbG1SWWxVMFhuUXFsbW1pbGVVRUU3NUFoQ2VWN1F5LVpIeUlDYVhtbEc5bTVWVHpYVlI0MFhSQk9JVWlGOFdwMWVZZ09MU0IzTWNkY3ltc3MyYUlFUVJvekNmSTc4V0pBYk5WRlQ3V09WR0ZjOWRWVmxVMGRxclMwdkR2am9RRnJ2R2w2Tmp3?oc=5",
+   "data": "2026-10-17T20:00:45+00:00"
   },
   {
    "titulo": "“Precisamos mudar o Brasil para trazer investimentos de verdade à Bahia”, diz Sandro Filho",
@@ -53,6 +65,18 @@
    "data": "2026-10-17T18:51:00+00:00"
   },
   {
+   "titulo": "Prio e Petrobras lideram ganhos do Ibovespa hoje; veja maiores altas e baixas",
+   "fonte": "Estadão",
+   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQbHVuYzhyeGYwOVY2YXBPX0w3YWg3a1MzZmFCYk90RWNZWEloWjMzLS0tUWFWZE1XZ2trY0dhMGstZG44OHJ5dXNiSGZCZFJYVVpMeU5tdDJLbGp0Z0k0ZXZSNEhFeEVPUk5nSzJVbkVhXzJnV3lnMDZmQjJZbFFWNV81U2swSWN1N3V0RzVaS1dtZFRTNWpOSVJvc19WeE9rNzZBcHRoOU5uU2dTd0tpRFdpZWdrUXZDeEVfaGpxUmgtM2J5T1htY3FRaXVqdU5oUWdVblVnMFJ3LWc?oc=5",
+   "data": "2026-10-17T18:45:29+00:00"
+  },
+  {
+   "titulo": "VÍDEO: Escola Dr. Amadeu da Luz recebe melhorias com investimentos superiores a R$ 800 mil",
+   "fonte": "Jornal de Pomerode",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQcEpkRVlfRVNMMXQ3UldsRHRqa3VORFN3MjBvSGRVWTVuRi1uenpMZ09peFo5eU5YMFhtYWwySERMcFB6T3hsSTJHcG1Ja25YQmViRU5TZkRPS0RnYkx3a1NybWcwSzZhOXd0T1JjdUdXd2wteGtNMURIRU11VXo5c2hPYnBoUVlLNmhhbUpoc3hPMkhoUjdLUmhGZVlGTGRkTUJjSWhRQkpFTFZFSHcyc0M2blhhblRLLTVEZjRCR2ZFUQ?oc=5",
+   "data": "2026-10-17T18:38:53+00:00"
+  },
+  {
    "titulo": "Fundos imobiliários avançam até 15% em 2026; veja os 10 melhores FIIs",
    "fonte": "Investidor10",
    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNZFZLZEV5VEM5cnNySGxaeTVLa2ZheWFEN3ZZZjBtLTdJNTI2ZGtoVmFzanF1OWNvLWlfazN3UlV6dzE5dDZiM1NvbHlSRXdmMEpudmhwQXdyZ0NrazhYMGlvSnJfeWluWTJROUR5UXlDc255eWY5MjhHMnFjV1B4Yy04a3ZmaGRnTEFyUHEtMEM1TXBUbGlRaXlnZDRvZ0xVSVZqRnl4cFFNdWFJcDMxeEQ1ZFRkNDDSAbcBQVVfeXFMTWRWS2RFeVRDOXJzckhsWnk1S2tmYXlhRDd2WWYwbS03STUyNmRraFZhc2pxdTljby1pX2szd1JVencxOXQ2YjNTb2x5UkV3ZjBKbnZocEF3cmdDa2s4WDBpb0pyX3lpblkyUTlEeVF5Q3NueXlmOTI4RzJxY1dQeGMtOGt2ZmhkZ0xBclBxLTBDNU1wVGxpUWl5Z2Q0b2dMVUlWakZ5eHBRTXVhSXAzMXhENWRUZDQw?oc=5",
@@ -63,30 +87,6 @@
    "fonte": "Vietnam.vn",
    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFByV0FDQnBTRnJQNUlfLXZiVmphYmNkVlhiUzl5UXBCR0NCd1Q5YmRMUm1XUG54R1Q1Rk92UU81TXBtZmwtNFR6cVFxRTJESGpvNnZXMVp2YklvNzZSWGhnZ3RwcnJZSjZ0VEEwUHJHLW1odGM?oc=5",
    "data": "2026-10-17T18:23:29+00:00"
-  },
-  {
-   "titulo": "Mega-Sena 3071: veja quanto R$ 170 milhões rendem por mês em 4 aplicações",
-   "fonte": "BPMoney",
-   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNUDNsc2VVQTlYTUp6a1hXYWJ3eFlwUkoxdE5uWkJ0RjdYS2FVa3NiUUQ3RkdNRDFocGQtTE1BNXBKYmliakY0VTJNMW83dW16THVQRmF1bGNjR0tBZjU1X29ERnRSZUFDWjAyZzJyczdselM5bzVEbkExMV9uVWpCdG9wUDVCVWtTX3BHcW0tSFYtb2s?oc=5",
-   "data": "2026-10-17T18:15:00+00:00"
-  },
-  {
-   "titulo": "Recife recebe maior festival de animação do país",
-   "fonte": "Jornal Correio do Brasil",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNanJpX2pTMDFoNUdNTWRXY2FXUC0xZVhwZnE1T1BDbWRBVjgtOWMzMGxBU09FZnFOb3FtTVoxNkVuY041aEZOUVh1VkdocTE1aXFfWHNMWFlWdTRHMTYyc0oweXotWERBWGdWYU9ROTZmS2JMM0JSREhvS3JFM0Exaw?oc=5",
-   "data": "2026-10-17T18:12:22+00:00"
-  },
-  {
-   "titulo": "Netflix, Tesla, WEG e IPCA-15 movimentam a semana antes do 2º turno",
-   "fonte": "Exame",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxObHlrX1k2Y0ZHOWJKamU3Rkh3dDBBZmYzeEJMZkNHOHJ1S3lZMllxT2N6ZlVzUDlxVGZ2UnRrYUN0OHJBTkt2Y1A3Q004SndaY05Rd3Z4Z3VYSmdaTHVDbWNvRl9BODhEUkllZ3BiU3RLdVNjWlhoOXlodll1VlFQazNvM2ttdlJaeGhBNTFCUlVaWjVWRFpCS1V3Z0sxeGotRHc?oc=5",
-   "data": "2026-10-17T18:10:56+00:00"
-  },
-  {
-   "titulo": "Mais de 4 mil eleitores precisam conferir novo local de votação",
-   "fonte": "Jornal Correio do Brasil",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOajZBcS1pTXNSSjdkRGt6RXA4SmVGLTBmQy1JeDBMcTVROURYYzJ1bF9mOF9CaW92SDYyRFU0QWlPRExBcU9GN21lSGpBeFJ3eVJ2ZGp1bzd1NWQtdlg5WVU4YUV5dzVySmk0MHhvek9HVHRIdXU3QkszdnRCcVluU2dsVFpjMEs4Z0tCLXRnTlpRQmZk?oc=5",
-   "data": "2026-10-17T18:03:41+00:00"
   }
  ]
 }
