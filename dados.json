@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-10-17T16:31:48+00:00",
+ "atualizado": "2026-10-17T17:29:26+00:00",
  "indicadores": {
   "selic": {
    "valor": 13.75,
@@ -17,10 +17,28 @@
  "cotacoes": {},
  "noticias": [
   {
+   "titulo": "Globe Investimentos conclui aquisição da Avibras Aeroco",
+   "fonte": "Revista Forca Aérea",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPWDd4SmVmSThadUFXY2lJUWFmS01Gb0VBU2pHUEhObWJnSVQ1UXF2RDdLMHhFeTVLd2xvSUEwT1gtb051cEZSNGxkMldlQjJ5MGxOVzRwSW1zcEVfX1NCa0dOeVp4SW0yLUhVZEVZaUdpMWxTZW1ZYU5tWndBVG9WYTNTV3V4VklmUUE?oc=5",
+   "data": "2026-10-17T17:00:50+00:00"
+  },
+  {
+   "titulo": "Flávio Bolsonaro ignora salário-mínimo em plano de governo e não garante valorização da renda dos trabalhadores",
+   "fonte": "Revista Fórum",
+   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE55a3ZXeDh0N2hTdElUYm9wQkNiMmZHdUtuZUJ6WUI3MkJIRVpSRHFQQjFxbVFjUDQtTVZTc2FGWVdXX1pTVHBBZXhzUEpDeXVyRF9qeWZNY2thaHNOUkRjZE1jblVoYkdDM3hCbF9YMUtoMVU?oc=5",
+   "data": "2026-10-17T16:23:06+00:00"
+  },
+  {
    "titulo": "Vale a pena esperar o dólar cair para investir no exterior?",
    "fonte": "Exame",
    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPbktkN1hiMkRpNTRsZm9pZXV2NEdqd2l3cTcyUjV2N2lfdUZpV2hCZGVBU1RSZVNFVTNYSlF3SHEyYTd1bHh6X1pRMVFqRDlONkdlZVRaa2U2dGJVZmI3dHVzTGV3TUtkOTc2WUpmczV0QkZoUVFkZHFwY2JkOEVWZDlsRGtFcGpkbjlFNF93?oc=5",
    "data": "2026-10-17T16:03:10+00:00"
+  },
+  {
+   "titulo": "FecomercioSP recebe delegação chinesa para promover comércio, investimentos e novas parcerias empresariais",
+   "fonte": "FecomercioSP",
+   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQLWFoZzhrWXFSWnZLdTFqOFU3eTVVbTNhYVIxcDRvVFZMYkRVcVpDY0s2Ymg2U0ZaOVE4MHNmdHR4TlNoczZvNHJCZFFZMHVxNktXVWtoRzRLMUlBRFlPSlBBbDhmY3RwQ0RjZTZqcGdwdmdxdUxGNk85b3NDczkxY2NYMnVzRVI2V0dGazJwYnk3YmRtWXdTU0E2M1p3SVpWYXVEb0lrQUFOaURBTDg2eWduVjJ3WHl1Yi05OF94UjM1aGQyTGJKd3dpNVJaeDlQYi1nMQ?oc=5",
+   "data": "2026-10-17T15:33:43+00:00"
   },
   {
    "titulo": "Marcelo Arruda defende menos burocracia e estímulo a investimentos no RS",
@@ -47,6 +65,12 @@
    "data": "2026-10-17T14:50:00+00:00"
   },
   {
+   "titulo": "Flávio promete salário mínimo acima da inflação",
+   "fonte": "Ponta Negra News",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPcWp1ODhLT1kzcHBHRWZUbWROSEZ0d0ZLaEU3MWVVcDNRR3NiYTN0b3lMd3RPemI4NFAtZms4andkS0l2TnNPc0t0d20xNjV3aDFpQ3VMakhmNnhnOW5BR0ZBSzFwd01SRlUwREpBUWtZOW5pMDZFZkZlckFyM0lfQk1LZjNfN3VncFRfdEM2T2ZjVW_SAZgBQVVfeXFMUENsdE1Oc3FJNkx2VzdFYjVBX3A4OFhDUnNVSFRTQTdfNFRLZ1BZVkluQS1kVGx4V2RIV3BWQmJzSHlYR0xrUlZIQzN6RzJOMlNRSF9Lbzd6SklPbE9RejNqRExJUWVhaWNLckI5eE9zeUplSFQ5NEZPWXlBRDQwRlIzMEp5bGVETTVYOHZQcVNoNTdEeW5KVjY?oc=5",
+   "data": "2026-10-17T14:49:58+00:00"
+  },
+  {
    "titulo": "Estudantes criam ferramentas contra notícias falsas",
    "fonte": "Jornal Correio do Brasil",
    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNMW54dlFFUWFlRHhxZzN2cDVZNDNKaTE1Y3FEekV4OGhqUlZUd3N6MWpqci1ZVm5zMW1ZZURRc0p0T1RZc0JmeU1CYnM1c3NSLW13MW1ZUUlNZHRpSl9McXhpTDBMT2RKQTZENEJJeHhtbVFaT25yWVRST2JCRi1PNk5PQi1kMDVhLU9YbQ?oc=5",
@@ -63,30 +87,6 @@
    "fonte": "Jornal Correio do Brasil",
    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNNXlUY2t1eWdHRW04RWFYNWdGMjJHWVROVjdaeWdfTGx6MTNVWGJoUEtzUWJTYkQ4NklweklWVTJ3RkxxUHRJcUZldE9lWXBRTE5IZHltUEpwQWhGdWFObk5PT2hTbHVOTWN0cUFwMEZNbmU5NGxvc191M3pjUkJsNQ?oc=5",
    "data": "2026-10-17T14:39:02+00:00"
-  },
-  {
-   "titulo": "Em vídeo, Lula destaca ações do governo federal no Maranhão",
-   "fonte": "Imirante.com",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPcjlCN01EbVBweDBwOVIyUHJBMTBNS1BDNkRSSVliOXZjUW1oZTRzcGd1QzBsRlVHQXd6dEFlekZSTzF0dUhLNjFlUXRuY0RKWG1fYjU4LU5yczBMbHlFYjJGTGpubDg0V05BaTVtM2ZqWDZZbndzajkzTzJDQi1VLWI1ak5vbUJDbDlGTEZsVllZYUxvTktaVmdnUXM5VDdiZzJRVjJWUEl6VEtwWDhITFZCRjJwZ9IBtgFBVV95cUxPcjlCN01EbVBweDBwOVIyUHJBMTBNS1BDNkRSSVliOXZjUW1oZTRzcGd1QzBsRlVHQXd6dEFlekZSTzF0dUhLNjFlUXRuY0RKWG1fYjU4LU5yczBMbHlFYjJGTGpubDg0V05BaTVtM2ZqWDZZbndzajkzTzJDQi1VLWI1ak5vbUJDbDlGTEZsVllZYUxvTktaVmdnUXM5VDdiZzJRVjJWUEl6VEtwWDhITFZCRjJwZw?oc=5",
-   "data": "2026-10-17T14:38:12+00:00"
-  },
-  {
-   "titulo": "França tem sábado de protestos em todo o país contra inflação e preço do combustível",
-   "fonte": "tmc.com.br",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNWkJRdUFfRHNiME1rbnhZRFZSUG5xNXp0WFZGcC1NNDJQb242LWdPWHVVcC1GMTV2THhjX3RiaW00QVZJZXRhOTEzWGgxU0haOHZmdFBBV2U2WnpZekdWbHYzQ2NfZV9rSUFMczlLUk1fWndyNFBReGlsMXlqZ2ttQQ?oc=5",
-   "data": "2026-10-17T14:27:04+00:00"
-  },
-  {
-   "titulo": "Ibovespa hoje cai 1% após pesquisas eleitorais mostrarem Lula e Flávio em empate técnico",
-   "fonte": "Estadão",
-   "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQeUpyU0tWNnQzMEZhUUt4NFVuZWlQUWFFUzI3WHNibkMtZXJQeUdUbXNtbVk0dWFZS3VRVjBnVjZxODdBUjE4T2JMNmxXS1NPTUZ2dGRJX2RuSjRCWktJY29iMjhGbTdLRmw0TVAxU0xSRmJrUEZNd2xyWklaczFHWGw5RjZ3cW5tbUgyU1FZTWVXT2VuTTBVYW1EV0tldjlBcXR0Z3VnWlFtWThITHlkVEQ0NlN1ekhDR3Q5ck01ODhLOEFKTEEwRmFlbzZyVzRsT2U2d1RRNzRsR0NKN1F5WjRkWlBwZ1ZhX2NN?oc=5",
-   "data": "2026-10-17T14:14:17+00:00"
-  },
-  {
-   "titulo": "Codecon aprova R$ 25,2 milhões em investimentos para CG",
-   "fonte": "diariodigital.com.br",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNWjkwVjRpSHJZNXVVNUtMcWR2b3Z4Ti1GcTZabHM5bHJaZUFMM1pKeWczVWo2ZlBoS1hBeFBfLUpCd3lNWU9ZMml5U21Rd2MwMHZHWnVPRERIUmRvTGg2dS1WRHBBM3g2V0xaUnBxSHpoYm1FOC11Sllta3BoQ1hMMUw0cTJ5SGVuNGxEWHJaQUhsWW5JcDBlcXoyVDTSAZwBQVVfeXFMTVN0VzBDb0tCOVJZMUVEYnptRXRyZ01ERnU3YUxJZFNXVUZaV0xCVlZFeFJSbjBHQ3hTX2lGQVhRNV8zZ0VlNzJNWkFlZDlrS09sMENsbW5zOWMtdTA5QjEtZml2ZEtKZEYxM0tYU0dPU3g1dUFoN1oyVGtyNzlnYU1vaVRfZ2paR2VvaDhQbVhrcHlWbW4zMWRhMjBW?oc=5",
-   "data": "2026-10-17T14:09:00+00:00"
   }
  ]
 }
