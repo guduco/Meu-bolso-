@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-10-17T19:28:37+00:00",
+ "atualizado": "2026-10-17T20:31:58+00:00",
  "indicadores": {
   "selic": {
    "valor": 13.75,
@@ -17,6 +17,24 @@
  "cotacoes": {},
  "noticias": [
   {
+   "titulo": "Inflação no Brasil. Subida de salários e pensões não compensa aumento",
+   "fonte": "RTP",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOY2x6amtZOEIxcldxbU1KVGd6M2o4ZFhEeWdlbGxWbU95RDB2MEFPVTBwb1ZhaDdMYlQwVmpSMHJNWFN4dnEyWUdxTWQ0azY3NDBZbXdwMFg2cDRfQ0dKNk5idTBWcy11Qkl5MEJ3NUhpczIyLVhOMzdrVTNNWE53TlZSa3lPUkFEMXlUbHBibDBSRVVSV0c1czQyYVM3ZGVJV2dLMlItWjlrQ1Fhc1hSOQ?oc=5",
+   "data": "2026-10-17T20:00:47+00:00"
+  },
+  {
+   "titulo": "“Precisamos mudar o Brasil para trazer investimentos de verdade à Bahia”, diz Sandro Filho",
+   "fonte": "Classe Politica",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQYWJQeVNsLU8tU0l4QTQ2MlpoNUVodExqZWhwT3VwU3ZXTldMb2l5N2NJeF9RNkhnblFBQTRodGNTRDRBaGJXNWlyMWoyMjR0T0dtRE1XZmhWSXhYZFpxYmNMV09Xb3FHanB2dVR1Y2kyNS1jSllGbHpnWEYxSmRENnA2dW9rT1VaS1NNMlhQNTRJRWxsMkZaOWU5VGFvT3FzQXl5NjgzZzc0UnI5QV9ITUpHLTF5SnU1QXhhOEFFNGpNSlU?oc=5",
+   "data": "2026-10-17T19:34:00+00:00"
+  },
+  {
+   "titulo": "Governo do Rio Grande do Sul apresenta plano de investimentos de R$ 28 bilhões em reunião com Alckmin",
+   "fonte": "Grupo Ceres de Comunicação",
+   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPRW9NNUhTTDlRWHIzblhmZFRObGF2a2Zzalpnay1wRVZmRDJYNlQ1eHJpRFcyT2NuRTBJcGFqZDhJbjY0RjM2RS02ZTFkY3p4TWpDeWtmUFhrWk5zVjczcF84UXRwaWpDOUpXM1hqU0pVcWtpUEEtdzlvVm1jdC1LZkhBY3Y0ZF80cHdSV1pJSHdhRGwzY1hDMVBfd3pYNkkxbS1iWVN1NlIybVVucVZBdUZsakVzb2ZTLTE2Zk4zZVY4SF9vTk9vXzZLaWlwQXFlblVEMA?oc=5",
+   "data": "2026-10-17T19:31:16+00:00"
+  },
+  {
    "titulo": "FFMS aposta em parceria comercial para ampliar investimentos no futebol de Mato Grosso do Sul",
    "fonte": "Capital News",
    "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOZXBXNXo5cGZpSXJEam9GNnVER2l2TlZPSjB0Zjd2STJJeEROOEFRSDBoRFc5c3gxNVRaRzBJMkRKcmtiVjUwcWJiM0hOcHBxRU1LVUUzYUNJT1hoVGFWVlNDa3NfZmRmMlM4RnJkVG1HUEFqdFRrdmtPd21kU0dVS2lKS29ISndwSWVWeWMwQWVCekpSV3NLLUVKODRIT2pBQnBZam95aHZUZzFKVks0UFlReVBHNlFvdENlbEV1TGc5endfdlJEVU15djgtUWtlcFJaMkJn?oc=5",
@@ -33,6 +51,18 @@
    "fonte": "Times Brasil | CNBC",
    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQd1owNDBOVHlHc3dsNFVlY0JKTkplOW1rVGV5X2xyRmV4a3pGMWZJMU11R2k1dW04NFY5ZUs2c1ljOVktb2ZGOEotbXRwcExIeHB6N0pMVF94X1pGODRUUTk4c0JyalVxTU5mVTJSRkVUeU91d25wRmxvR1g3dlJaTFdLYmIyeWxlU1REenhqYkRuSmRDWFA0dUhkRmc5c2EzZnRZS0ZPVTZWQjJsUmZNd01sNURZRFp6aDZFTWpuZHJ4OFQ5RkI0?oc=5",
    "data": "2026-10-17T18:51:00+00:00"
+  },
+  {
+   "titulo": "Fundos imobiliários avançam até 15% em 2026; veja os 10 melhores FIIs",
+   "fonte": "Investidor10",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNZFZLZEV5VEM5cnNySGxaeTVLa2ZheWFEN3ZZZjBtLTdJNTI2ZGtoVmFzanF1OWNvLWlfazN3UlV6dzE5dDZiM1NvbHlSRXdmMEpudmhwQXdyZ0NrazhYMGlvSnJfeWluWTJROUR5UXlDc255eWY5MjhHMnFjV1B4Yy04a3ZmaGRnTEFyUHEtMEM1TXBUbGlRaXlnZDRvZ0xVSVZqRnl4cFFNdWFJcDMxeEQ1ZFRkNDDSAbcBQVVfeXFMTWRWS2RFeVRDOXJzckhsWnk1S2tmYXlhRDd2WWYwbS03STUyNmRraFZhc2pxdTljby1pX2szd1JVencxOXQ2YjNTb2x5UkV3ZjBKbnZocEF3cmdDa2s4WDBpb0pyX3lpblkyUTlEeVF5Q3NueXlmOTI4RzJxY1dQeGMtOGt2ZmhkZ0xBclBxLTBDNU1wVGxpUWl5Z2Q0b2dMVUlWakZ5eHBRTXVhSXAzMXhENWRUZDQw?oc=5",
+   "data": "2026-10-17T18:28:44+00:00"
+  },
+  {
+   "titulo": "As grandes potências estão acelerando os investimentos em cabos submarinos.",
+   "fonte": "Vietnam.vn",
+   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFByV0FDQnBTRnJQNUlfLXZiVmphYmNkVlhiUzl5UXBCR0NCd1Q5YmRMUm1XUG54R1Q1Rk92UU81TXBtZmwtNFR6cVFxRTJESGpvNnZXMVp2YklvNzZSWGhnZ3RwcnJZSjZ0VEEwUHJHLW1odGM?oc=5",
+   "data": "2026-10-17T18:23:29+00:00"
   },
   {
    "titulo": "Mega-Sena 3071: veja quanto R$ 170 milhões rendem por mês em 4 aplicações",
@@ -57,36 +87,6 @@
    "fonte": "Jornal Correio do Brasil",
    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOajZBcS1pTXNSSjdkRGt6RXA4SmVGLTBmQy1JeDBMcTVROURYYzJ1bF9mOF9CaW92SDYyRFU0QWlPRExBcU9GN21lSGpBeFJ3eVJ2ZGp1bzd1NWQtdlg5WVU4YUV5dzVySmk0MHhvek9HVHRIdXU3QkszdnRCcVluU2dsVFpjMEs4Z0tCLXRnTlpRQmZk?oc=5",
    "data": "2026-10-17T18:03:41+00:00"
-  },
-  {
-   "titulo": "Lagarde diz que choque de energia é “grande demais para ser ignorado”",
-   "fonte": "InfoMoney",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNMGdEeWFwLV9fN0ZINF9LajFDUFpFYjVmZDg4TjBmWUE4U1E2US0tNk1xUjI3WGVJUmN0TmdUQks5Tk43aUNya2kwM1dVUEdZXy1aUU1mZm1iZWRXRkJkTnFadzNkem1VR01jOXpqanZhOFkyazBSOWs1a2Y1VEhSMW1MVl9TblNHOWJSeEYzSG1VNTQ0cnlOanEwY1JqaHRYREpsb3dCRGZvUdIBrwFBVV95cUxQWFZ4dTllWVlVZjZPUEFVamxOZi12VnVzOG53NFIxdWZ4bjhJenVyckhkRWdGemtmX1p4bHhSSXJWakNldGNaVmptSUtSd3ZJQXhraW9BZ3VxNnJKU1ZIZlppamMwOHNqRG9lczhFeENTV0xZZTQxT1E3N0Zhd0w4WXZtSzVjck43RHRZWVlMQ0t0RmxlQU9zejE0cVByUGxQTUVhcm5KT2c1NnJ3VGhr?oc=5",
-   "data": "2026-10-17T18:03:26+00:00"
-  },
-  {
-   "titulo": "Raízen (RAIZ4): recuperação extrajudicial avançou, mas credores estão longe de saber quanto vão recuperar no fim do processo, diz BB Investimentos",
-   "fonte": "Seu Dinheiro",
-   "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOQm4yODVlRzNmMklULWtfLUpqcEJYMWdELVdVQmRZcUl3d3Nfakk1dGdMWExXQmplYThaSHlKa0ZlcDNRV1BfNlFXQ1JrT09HLVdXUnRjX2MzLWIySFI1LVdJRmRYejVhc0FkUUd5dmlibFNGSS1DYVlqLVNYMmxhbWhIU1I4RjVaOXkzZ05jZFc5aXZLdXFydmxZeUZjU3MtNkIwNi1CcDdLYXQ1aUI5c0NYYnpleXBIY2laNjdWaDBGc3oyQ2hkdXZBVWQ5NktJangwRjJmX2FKdkVZeEV1elBUZUxjUDFaWVBtMjV2akhwUXV4NW8xb1V4UkVWQ2x4SkRKcXJB?oc=5",
-   "data": "2026-10-17T18:02:00+00:00"
-  },
-  {
-   "titulo": "Reserva marinha no Rio concilia preservação e economia",
-   "fonte": "Jornal Correio do Brasil",
-   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOOU52UEhxNC05Q0lyT3hRNk1Bb2h5S2R0ZExBdnlNbFpyZzR3Ukh0ckg2Z2YxRzBIa3JGN3NNQ3hVNEFuTjFYTE5oT2tNQkRvXy1ZU05mbWlHQ0ZGS1VVaUZval9LMFlhSE1GNDVoZ1hmSDl6M1FDbU41ZDBIb2VjNE90b3dCTHhQWVE?oc=5",
-   "data": "2026-10-17T17:57:00+00:00"
-  },
-  {
-   "titulo": "Presidente do BCE alerta para riscos de crescimento e inflação",
-   "fonte": "Tribuna do Sertão",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQOWJSMG42OGJzbFZYcl9TMzFkSVlveUZ1M2pkTzExeXd1MXZZd3RsWXpCWUJPTzg0SjZMOTVJLVhHNXlrY2hfOXM0d05ENjhmVDRFbmp5M1M1eW5aUERrNzh4c04xN01uUXAzRW5UNVBSMV9ucVA0Q0FneTA2V2tvN1I5VS04R01NbE5weEt4Ykp3QlpnSWN2eEdJSEdvRUM0cGNyQ3NaMTdkZVZaamhqalBQbURKV0hHVENxanV3?oc=5",
-   "data": "2026-10-17T17:41:00+00:00"
-  },
-  {
-   "titulo": "Dólar abaixo de R$ 5: especialistas veem oportunidade para ampliar investimentos internacionais",
-   "fonte": "Estadão",
-   "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQUTJvOXJ3YlVoQzVFdUl2NXdmc1NKNmZDd3lVSGZrOW5reF9FR21OLTIxNy1MOUtvMmFXYmdlX1hZM3RyODdCdGRLeFhpSGQ5Sl9iSnhqQlh5cTZ5cU1TSnpTNXNzazJ0N0lhYmhRV3dBMzVhdkhTS1paTURhMkd5UjEyVDJCWWNMamRwQ2hSV2pLZHFLSU5RLTlyTUhWdGk2NmwyTEVzREw3eTBFbXZWd2NCLUNaRWxldGplbmFwMEs1TjhmandpMk9LXzM3d3NTemxRY1BhZDlaRDd2UGJiR0xsc180dkVWWm44?oc=5",
-   "data": "2026-10-17T17:04:13+00:00"
   }
  ]
 }
