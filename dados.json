@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-10-17T15:30:51+00:00",
+ "atualizado": "2026-10-17T16:31:48+00:00",
  "indicadores": {
   "selic": {
    "valor": 13.75,
@@ -16,6 +16,18 @@
  },
  "cotacoes": {},
  "noticias": [
+  {
+   "titulo": "Vale a pena esperar o dólar cair para investir no exterior?",
+   "fonte": "Exame",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPbktkN1hiMkRpNTRsZm9pZXV2NEdqd2l3cTcyUjV2N2lfdUZpV2hCZGVBU1RSZVNFVTNYSlF3SHEyYTd1bHh6X1pRMVFqRDlONkdlZVRaa2U2dGJVZmI3dHVzTGV3TUtkOTc2WUpmczV0QkZoUVFkZHFwY2JkOEVWZDlsRGtFcGpkbjlFNF93?oc=5",
+   "data": "2026-10-17T16:03:10+00:00"
+  },
+  {
+   "titulo": "Marcelo Arruda defende menos burocracia e estímulo a investimentos no RS",
+   "fonte": "Rádio Acústica FM",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE53aXctRHo5MEZYbmUyd2lRelItT2QxZDQteTd0cENBbmR0blRjVEw0SExlMlR2QzZWcS0zdFRDbGNJbEFhaVhfdGY4ZWYwVkFQSTV2blBaUk1Ha1pGcTU4ZzEwTFdKVXVpMGNqMnYtNlVvTGt4ZnF5TGpPVms?oc=5",
+   "data": "2026-10-17T15:31:36+00:00"
+  },
   {
    "titulo": "Jovens italianos vão às ruas contra armas e por educação",
    "fonte": "Jornal Correio do Brasil",
@@ -55,7 +67,7 @@
   {
    "titulo": "Em vídeo, Lula destaca ações do governo federal no Maranhão",
    "fonte": "Imirante.com",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOY0RIWHNCZEJOWXd3aHRORmw5QVpjYnh0bGlSbjlPd3UtcElQd2gzUVBBenpWWFpHakhlaVpXOGhoeUJrQ19CZ0Z0ZVBEVnBBZ1NVSzBndHRCM0ZrRjBqMGtNMmhzQXpxSW9QcjJwUUlnSjVFZWQxUmg1Sm5BbTNaVUFOX1Q2WTZuRWRaY0wteWhWcFpQeW1wNURFUi1XUU5MVEZ3eWQ3WkJDUDA0Y2Y1T9IBtgFBVV95cUxPcjlCN01EbVBweDBwOVIyUHJBMTBNS1BDNkRSSVliOXZjUW1oZTRzcGd1QzBsRlVHQXd6dEFlekZSTzF0dUhLNjFlUXRuY0RKWG1fYjU4LU5yczBMbHlFYjJGTGpubDg0V05BaTVtM2ZqWDZZbndzajkzTzJDQi1VLWI1ak5vbUJDbDlGTEZsVllZYUxvTktaVmdnUXM5VDdiZzJRVjJWUEl6VEtwWDhITFZCRjJwZw?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPcjlCN01EbVBweDBwOVIyUHJBMTBNS1BDNkRSSVliOXZjUW1oZTRzcGd1QzBsRlVHQXd6dEFlekZSTzF0dUhLNjFlUXRuY0RKWG1fYjU4LU5yczBMbHlFYjJGTGpubDg0V05BaTVtM2ZqWDZZbndzajkzTzJDQi1VLWI1ak5vbUJDbDlGTEZsVllZYUxvTktaVmdnUXM5VDdiZzJRVjJWUEl6VEtwWDhITFZCRjJwZ9IBtgFBVV95cUxPcjlCN01EbVBweDBwOVIyUHJBMTBNS1BDNkRSSVliOXZjUW1oZTRzcGd1QzBsRlVHQXd6dEFlekZSTzF0dUhLNjFlUXRuY0RKWG1fYjU4LU5yczBMbHlFYjJGTGpubDg0V05BaTVtM2ZqWDZZbndzajkzTzJDQi1VLWI1ak5vbUJDbDlGTEZsVllZYUxvTktaVmdnUXM5VDdiZzJRVjJWUEl6VEtwWDhITFZCRjJwZw?oc=5",
    "data": "2026-10-17T14:38:12+00:00"
   },
   {
@@ -65,28 +77,16 @@
    "data": "2026-10-17T14:27:04+00:00"
   },
   {
-   "titulo": "Prefeito Ricardo Nunes visita São Miguel Paulista, onde 78 obras ultrapassam R$ 668 milhões em investimentos de sua gestão",
-   "fonte": "Fato Paulista",
-   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPMlg2ZThWVE1uMkFPaGRUZURuVm16OVFXcGRRenJZOFFGNkZCclA3bXBsZW9sQi1QaUNPaDVZN254VG04T0VHUWExZVhCZXRSbmJpNFJvMzg4MzhiRmNHMXdqQWMtYmRXeUlPd296aUVaakk4Um52R3laNjV6dUc4aG9aVUY3R0tZN0djMm5vV0gwbFZsMmpmNnE0dm9mUU9WUWZmbjN6bmVyMWN2OENnOVR4UWpaem1HUHJLYTUxMEhPVWk1U3ZUTjhtNHpDY0xtYW00QlpuaGVxTGl6eVU5LTEyRQ?oc=5",
-   "data": "2026-10-17T13:27:22+00:00"
+   "titulo": "Ibovespa hoje cai 1% após pesquisas eleitorais mostrarem Lula e Flávio em empate técnico",
+   "fonte": "Estadão",
+   "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQeUpyU0tWNnQzMEZhUUt4NFVuZWlQUWFFUzI3WHNibkMtZXJQeUdUbXNtbVk0dWFZS3VRVjBnVjZxODdBUjE4T2JMNmxXS1NPTUZ2dGRJX2RuSjRCWktJY29iMjhGbTdLRmw0TVAxU0xSRmJrUEZNd2xyWklaczFHWGw5RjZ3cW5tbUgyU1FZTWVXT2VuTTBVYW1EV0tldjlBcXR0Z3VnWlFtWThITHlkVEQ0NlN1ekhDR3Q5ck01ODhLOEFKTEEwRmFlbzZyVzRsT2U2d1RRNzRsR0NKN1F5WjRkWlBwZ1ZhX2NN?oc=5",
+   "data": "2026-10-17T14:14:17+00:00"
   },
   {
-   "titulo": "Seminário orienta servidores de Boa Vista sobre aposentadoria, investimentos e gestão previdenciária",
-   "fonte": "Roraima 1",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNbjdMemZ0eV9WT0ZUdEJPSVB4c2FKN3lpbHRSQ1pGMlJWQXVaeG1TOUVwUGdPX0xDUjlEdERkbVdycWNSVEI3X2R3RUNKa09LT1N3dG4ySE91MkRDRWNENzhLaHppdG1FaXhYVlJXNldkSVQ3N2J4WXdxSUhmMlZhZWdzYVhvTHZUUjk0LTQ2OVlHMGdWU3A4SGtvMlZQRkI1czhTa0tFdUFTV0Y2XzFET21seFRXSEhtdWU5Y3BuS2k3Zw?oc=5",
-   "data": "2026-10-17T13:13:17+00:00"
-  },
-  {
-   "titulo": "Petrobras (PETR4) sobe mais de 6% e escapa do tombo do Ibovespa; veja o que movimentou a bolsa na semana",
-   "fonte": "Seu Dinheiro",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOdHZCSjBBMWFqRTlaZERyRkNRMDg1Vm1jOHB2eVdRN2IwanlmaXNwdnZqcUI4V3hYN210NkVLa1B3d0tjVm1ucjhwQ3IwMGxneFFHbzA2V1U1WE1PS180dkM2bngwckU4WFRTa19RaXBBWjFaTEw5V1hYN1JTQzFPR2IyMUQxMzJTMHlTd3g4UkIzdnI3TGtkaHFoTGxWUUkyMHktUW4yQVhSLUFsaUJJXw?oc=5",
-   "data": "2026-10-17T12:58:00+00:00"
-  },
-  {
-   "titulo": "FMI e Banco Mundial encerram suas assembleias entre 'otimismo' e 'preocupação'",
-   "fonte": "Folha PE",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPN0lkRzJpWFpVRXFnZ3o1YXdiUTliNVl5NWdzM1RKaWRSM05zZzAyM21DblM3dFp4aTEwbTczREVTTlpaNlB0amt3SUIzWmh3LWZWTnI2cVNsZTc2RUl5d25yMUZWeFZiMm81N21iVXpBckFSY1UxQV9sbTBhekxlS1BTRGFYaFhsZk1SQ21lbUVrVFYyVkxUMUhPbUx3UDNqTWNiVTcxYWZrbFRMUlHSAa4BQVVfeXFMTzdJZEcyaVhaVUVxZ2d6NWF3YlE5YjVZeTVnczNUSmlkUjNOc2cwMjNtQ25TN3RaeGkxMG03M0RFU05aWjZQdGprd0lCM1pody1mVk5yNnFTbGU3NkVJeXducjFGVnhWYjJvNTdtYlV6QXJBUmNVMUFfbG0wYXpMZUtQU0RhWGhYbGZNUkNtZW1Fa1RWMlZMVDFIT21Md1Azak1jYlU3MWFma2xUTFJR?oc=5",
-   "data": "2026-10-17T12:40:06+00:00"
+   "titulo": "Codecon aprova R$ 25,2 milhões em investimentos para CG",
+   "fonte": "diariodigital.com.br",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNWjkwVjRpSHJZNXVVNUtMcWR2b3Z4Ti1GcTZabHM5bHJaZUFMM1pKeWczVWo2ZlBoS1hBeFBfLUpCd3lNWU9ZMml5U21Rd2MwMHZHWnVPRERIUmRvTGg2dS1WRHBBM3g2V0xaUnBxSHpoYm1FOC11Sllta3BoQ1hMMUw0cTJ5SGVuNGxEWHJaQUhsWW5JcDBlcXoyVDTSAZwBQVVfeXFMTVN0VzBDb0tCOVJZMUVEYnptRXRyZ01ERnU3YUxJZFNXVUZaV0xCVlZFeFJSbjBHQ3hTX2lGQVhRNV8zZ0VlNzJNWkFlZDlrS09sMENsbW5zOWMtdTA5QjEtZml2ZEtKZEYxM0tYU0dPU3g1dUFoN1oyVGtyNzlnYU1vaVRfZ2paR2VvaDhQbVhrcHlWbW4zMWRhMjBW?oc=5",
+   "data": "2026-10-17T14:09:00+00:00"
   }
  ]
 }
