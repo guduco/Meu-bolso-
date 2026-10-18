@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-10-18T17:30:15+00:00",
+ "atualizado": "2026-10-18T18:33:59+00:00",
  "indicadores": {
   "selic": {
    "valor": 13.75,
@@ -16,6 +16,30 @@
  },
  "cotacoes": {},
  "noticias": [
+  {
+   "titulo": "Ibovespa a 240 mil pontos? Inter explica por que ainda vê espaço para a bolsa subir",
+   "fonte": "Seu Dinheiro",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOSXZZQ3VPR2RGM3EwV2RYX1lhdjg4VmF6Qklpa1NiZmFLcGNRMG1tVWJ6QlpGVzc4MDZ0MzBqZ2xfb1ptLTBfaGphQzdKVldRQ25aeGZHTEVfUUY0RkN5c0lCa0VCQ29ac3B5dTRhakRaQjZURWlFVlhGc3cxVVd3Q18zTEEySHNwUWNuTWVtZTNTSUcxLUZmcmJBU2NuZFFBYzBzbTk2QUwzaEVxRFpycERhaW13bm5waXJ6bVh0YzhXdTQ0Qk5ibG84bWdmdw?oc=5",
+   "data": "2026-10-18T18:30:00+00:00"
+  },
+  {
+   "titulo": "Estrela de ‘Rebelde’, Lua Blanco morre aos 39 anos",
+   "fonte": "Jornal Correio do Brasil",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE44TEFIamhqU1NTMXl5dFhsOXlWalR3QnctaUJOQUtqN2tCRGpza3FFWkRNYXlaWGlURC1mdmttVkRjT3pCcDFBQTdoOUI0QnpsQ3lqTkZxTnJwdDNfYklnbVcxSnE1aEJWZjVWcW9VZjFXSFQ1dFlYNnpXcGFDdw?oc=5",
+   "data": "2026-10-18T18:18:44+00:00"
+  },
+  {
+   "titulo": "Índices x ações individuais: onde começar a investir?",
+   "fonte": "CNN Brasil",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOS2FzVVN6OG1TZUk0WnV2RXd5ZlBIdnNmSmM4UGoxVHNOYlBvQ0c0d2hzUG94eXpHZHlXQUF3Y0otYXhLZjV3SDZOMUhvUFdKQ2NZMUxYM3Y2ZGZDNmZDd0dWbjJBZllOenRXV2Y2WTBmUzF2Smt2N01oZ0l0M2thejlMOC15SmRPckRYT2U0T2Rhc01ubEI0SGY2VVI3UXoxZTgzMDFPMA?oc=5",
+   "data": "2026-10-18T18:00:20+00:00"
+  },
+  {
+   "titulo": "CAOA Chery supera 400 mil veículos emplacados no Brasil e amplia investimentos",
+   "fonte": "Mecânica Online",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPMWpaZFJZcXJ0d0ZWNG9mN3ZmSFY2RjFMeERIbU5OanQyVHlPWG03WTdQemRHQktBTUdPS0psMTFkMlRTVkRiM1o5WWxCX1dHRVR2MDl3c24wV3d3RkstNi1XZmhEbE43eDJOQVR0Q2ZVUU9yRHJPZDRWbTZwcVFpSHQ0dXdSRXNiYS1FNk9OUFFZT0ZVblRfbmFxTzZaWF9kTWZiNlBwTHk1TUJseHR5Vmg0TEtGNHVS?oc=5",
+   "data": "2026-10-18T17:28:00+00:00"
+  },
   {
    "titulo": "Primeiro-ministro: Mantenha-se firme no controle da inflação para que as pessoas possam desfrutar dos frutos do crescimento.",
    "fonte": "Vietnam.vn",
@@ -47,46 +71,22 @@
    "data": "2026-10-18T17:00:00+00:00"
   },
   {
+   "titulo": "Plano de Flávio Bolsonaro para armas ameaça crianças e favorece facções",
+   "fonte": "Jornal Correio do Brasil",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPeVlIZkd3b2E0OGxSYUlnXzBUS1pWWXJQSGFPdnNPbzRxczh4SlJTOWVLUzZINXFMM3BGSXY3RjJlbGhYWGdSQ3JUZ19MRE52TG1yZjVtdXNQUWFHSWF6WXpLOU1PU2hqWUJFVE1keDhvVF94MkhXa1duMHpJZUpmUlZfNTlNcGEta3ZoS1pmU04zZnZSNF82dk1B?oc=5",
+   "data": "2026-10-18T16:57:48+00:00"
+  },
+  {
+   "titulo": "IPCA sobe 0,82% em setembro, pressionado pela energia elétrica e pelos alimentos",
+   "fonte": "Capital News",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQLUZqVW85Zm55bk41RWJUSjkxV1FNZVM1Y2RGUzcwZjZsWklESWZSSTJUbEJaaUZfZ3piTUs0eEpPd0FwWHRlWnVaUVFadGlqY0kwaGlJSGRpR1VGaEM5QVA0YjJTYmlYVjk3UksxOUo1TWJXU0Z6bDRyOVVORDZ6WGhOYVJJSU9ucEdsMGZCMlFPaldNcXVNN21HOWJzUHpWYkxpR2o4SVh1UWt4d05FWGRRU0JoZ3VXWXEtNE1fUUhIUQ?oc=5",
+   "data": "2026-10-18T16:51:00+00:00"
+  },
+  {
    "titulo": "FAZ O L: LULA TORRA BILHÕES EM SUBSÍDIOS, MAS COMBUSTÍVEL CONTINUA SUBINDO E INFLAÇÃO JÁ É QUASE O DOBRO DE 2025",
    "fonte": "Diário 360 Notícias",
    "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQdWd3cWdqZG0xSV9DOWhnTWVNekNpYnFjdHlPamkyZEtxNTI5OXRQaFVHR3VHdEJfYmY2YnVMeFY1YWZha3JTN3I4TmpGMVZwVVlfb2pkajJaUDF5bWJOWHh3QUtlc0lSZTRCdmp4UjFJeXJOV0RPYWJ3RHBLX2JTYnVWUXdxTWZqVHdwRElsRDFvZVV5OTcwME00cnczZHlEVk5tVzRYM0JZV242VXFrVlRHdDdqX19xa0lOaGpURC1LMVFHOW44QWYzZnFiaG1Bak40R2VoU3VwNV8xamk4Rw?oc=5",
    "data": "2026-10-18T16:45:00+00:00"
-  },
-  {
-   "titulo": "Empresas recebem R$ 450 milhões para projetos inovadores",
-   "fonte": "Jornal Correio do Brasil",
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNcUU5VFdXamhtbnF2d2dYTTdpVWFVTUF2aHVlTFd3aDFSdlgwbnNhUlZkclBOdFBNT1BKcFlLOWFDWURIWFpyS3R4OG4xOEpzN3NDNWNRZ1UwMnA4UmNOX3ZLYnFtaHZNZTFfRHNzT3loUTVXY1U5d3ZLejJxTXlNMlVhM2JhUkJL?oc=5",
-   "data": "2026-10-18T16:30:01+00:00"
-  },
-  {
-   "titulo": "UNE vê estudantes de volta ao centro do debate nacional",
-   "fonte": "Jornal Correio do Brasil",
-   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPZGRZcVFEVXBzTi1UM3BSTnN6U2JXZXMxXzhSM3pwWFhyQ3pOcHZid0U5NkVXSEZtaXkweXNNVURBOTFWWXVJaDQ0Zl9rRXY5NVZQa1prNFpydHA4VS1YRGc4ZHNvSnFXUjRXQ2pjT3JhTmI4WEd6RWFpSDNiTWtTQXJB?oc=5",
-   "data": "2026-10-18T16:06:05+00:00"
-  },
-  {
-   "titulo": "Ibovespa inicia sexta-feira em alta com ênfase na eleição",
-   "fonte": "Diário do Estado",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQNzcyZUZqc0tncV94QUVoejBwR1dMUXlLX0E2cWxMcW83OVFDTVZqOUx1UDR1a0NJWVY0N2Fha2ZJbE82RVNyTWZCTzV5MzVha211elVha2JRUTZ5SmdtSG1ueTlXcXBhMk53T0dhRW5MbV9BS3g1eGtCV1g4NDRtSVFuZUl4bVdsdHh5SzFpbF9oVkRR?oc=5",
-   "data": "2026-10-18T16:00:18+00:00"
-  },
-  {
-   "titulo": "União Europeia condena agressões a diplomatas na Cisjordânia",
-   "fonte": "Jornal Correio do Brasil",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOTTlwM0d5TW5xU1lzQm1WOUZORDl3OHZYWXFhbi1zTFF3M0RIVWRxQ09PYUtsd21PakhXY3ZQbFR3dldnei0xc2VPR2E3TjRpZWhmQjZYZDlnUzV1NlRSeDdmRm9YemUzVnJzQmd2MHlhdV9fa0NjbnlpYkFvSm1ZemNiUmF4a2dSSEpzU0hpSzRydw?oc=5",
-   "data": "2026-10-18T15:53:59+00:00"
-  },
-  {
-   "titulo": "Trump afirma que imigração destrói a França",
-   "fonte": "Jornal Correio do Brasil",
-   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE93M0kxUG4yT21KZHYyMEIzcWJNWXVUVGdmd2FfX1BNc3BZNXlzNHJwblpYNnRGM1lIWi1hNUhCOW1jQUZJYm5UYmlKT2E4RDRPVEdQZnpoUGk2MTAxNGtQcm1WZWZqOUp3dklEVUdxYmVXdmZsWU9ocHZR?oc=5",
-   "data": "2026-10-18T15:44:48+00:00"
-  },
-  {
-   "titulo": "Eleitor ausente no primeiro turno pode votar no segundo",
-   "fonte": "correiodobrasil.com.br",
-   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOSmhaN2dsWnA1aXhENEFobGY3NzVCcnBoOXVzT29idllvdFQ4VHBEcjVrQmdaNkdZQnJVd0ZVRV9xV2tQQzhLcGVtamVuVXFhWVVVOWUwaHpLdUI5UlhYN1o1N1M2Zk9OZ0FVUTNhaEZUV1VjQVd3VTVHTlJSeDlvSko1bVpkcTZjR1E?oc=5",
-   "data": "2026-10-18T15:36:28+00:00"
   }
  ]
 }
