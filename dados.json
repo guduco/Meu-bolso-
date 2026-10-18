@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-10-18T09:32:12+00:00",
+ "atualizado": "2026-10-18T10:31:22+00:00",
  "indicadores": {
   "selic": {
    "valor": 13.75,
@@ -16,6 +16,30 @@
  },
  "cotacoes": {},
  "noticias": [
+  {
+   "titulo": "Ibovespa sobe no início do dia com foco nas eleições",
+   "fonte": "Diário do Estado",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPemtSLW5weHVKLTJXMS0xNHlyUndvcG5wcWNGdGMwUW1YWk9BaEw0UGRzZjBVZGh6aXI5dU1EaGpVbC13SjE0SVF5WVZUWEtJUlVGNHlHMWxYR0RnYjdnVnZBblNqX0h5Z2RFd2lsMXJDRlJyWF9Gc0ZiU0M3OHFoX2ItMnhFbGdSakhQN1FR?oc=5",
+   "data": "2026-10-18T10:00:17+00:00"
+  },
+  {
+   "titulo": "Déficit público ameaça crescimento e pode pressionar dólar e juros no Brasil",
+   "fonte": "BM&C",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOODYwS3NUVTcxTVdoa0NZR2FOWXQ0WU5hZUNWa25VZmdpc3JsemxCN1VBcW1KLXp3Y3VvMXVvX2FZR3A1UUhFRlF0NHFZeFFXMDFXZXlCcVFla3ozdlpXQ2tnS2ZyZDNfcDYwd0h3MmtENHcyLTZfdmh0UXV6cGtOWmVFUDk4M05mdVN5Q2d0YnBYN1FweGdOZ2RRcG90QU5lOU5zX0VMYy1wLXF6UHVuMGstTUV2RFBPZmQwRnk4cERvX2M?oc=5",
+   "data": "2026-10-18T10:00:00+00:00"
+  },
+  {
+   "titulo": "Outlook Cabo Verde - FMI prevê menos crescimento e mais inflação que o governo",
+   "fonte": "Expresso das Ilhas",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPU0J3bS1RRFlkYzR6bEQ4X2F4TnludnAxU251Z295OGRFQ05fa3NRSTdVX1JpZkkyUlFOT3VYYk9fSDFueDRNZGV3Q2Z6OGtYZzVWN19qcDV5bFh6aGUtdGhsaE54NWxfbWd5dTlFR3pyMkFTR1FjMDktSHY1RHpDSVpoVlRHMVdDVUc3dUxQWGZ4czFhcWpSX2hDSmNoSnM3TDBISkJkbGNWMkZKd0hlek15M2NqVmhXa0ZDYWF5dUQ1NXV6bmNIb0U1WQ?oc=5",
+   "data": "2026-10-18T09:57:00+00:00"
+  },
+  {
+   "titulo": "Inflação de combustíveis em 2026 supera o dobro de 2025 mesmo com subsídios",
+   "fonte": "politiza brasil",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE13QzNmNlUwejI2OXRwcEo0YlpJZm1SY0MxZG1KQjRudmFDM0Vxckx5Tjc2alVjb3c2X1BuU2x6TnZ4eGdkZE1qUkt1RDRZTGNaTnpXYW5TbkNlWGd2ZjN4SXZPZGF5cWdMcmUyODR4WnUySmE5MlE?oc=5",
+   "data": "2026-10-18T09:33:39+00:00"
+  },
   {
    "titulo": "Ibovespa sobe e fica de olho em cenário eleitoral competitivo",
    "fonte": "Diário do Estado",
@@ -35,22 +59,22 @@
    "data": "2026-10-18T08:05:43+00:00"
   },
   {
+   "titulo": "Inflação no Brasil. Subida de salários e pensões não compensa aumento",
+   "fonte": "RTP",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOY2x6amtZOEIxcldxbU1KVGd6M2o4ZFhEeWdlbGxWbU95RDB2MEFPVTBwb1ZhaDdMYlQwVmpSMHJNWFN4dnEyWUdxTWQ0azY3NDBZbXdwMFg2cDRfQ0dKNk5idTBWcy11Qkl5MEJ3NUhpczIyLVhOMzdrVTNNWE53TlZSa3lPUkFEMXlUbHBibDBSRVVSV0c1czQyYVM3ZGVJV2dLMlItWjlrQ1Fhc1hSOQ?oc=5",
+   "data": "2026-10-18T08:02:08+00:00"
+  },
+  {
    "titulo": "Especialistas indicam soluções criativas e regras claras para manter investimentos em O&G",
    "fonte": "O GLOBO",
    "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPcFRyME1YWlhqbWZVakhXTE5NSlhVdjhyRkhuNGMzWWdpWUNOVDB3SktqTXZZRTY0eFdYZ0o5QlplRjdRT01wZUNrOWRwODM0aTZmU05jdm1UNUJjNjFENmgwUkxtdm93eTBNbUJvUmF0OWpYQzMyMjQybWszQWZFQV90UDh4WVFkdnZpMzJLWVhwYkE4cjRtNkNsbmRkVXFQOEFqdnRIVjFWeGVpZFlOTHEyN3FQamhNMTc0b3hOaWtNU0RPaWxvcG1rUkNsTVV4c2g5WE9vdzk2cWROc3VOVGlfU1hkdkVmNy1CcUpoWXJqQTd6MUtqYWYwUdIBigJBVV95cUxOVnZsZUxtUXRhR3hudlVHaEdyd1ItNUFxQ2JlYlNGdl9jZ2VwaWxVS1hGUDFmcVJOZ2o1TGdqNlZNai1oY053TmpRRHZKYWRBdF80WkFEOVZyNGZOdWZIWGRxSFZpZFd1dUtFVlM2d2dtcFc4eUVWUThJVnhQZzE5UDR1V1E5VEJxN1hGeVdjVE9meGRmaXU5OG1NdE94aFVXOVp1OHdEMjgxRkVsUU9TUDZxLTZBd3ZKY1VkRnEzT2ZpUmQySENJS2NXMUpFUTNRWWZsRm56RzVnUmZsVWg2dHlmcUNqekdQejk0TzdGRUVNNGpBaVFPa09xYmFQUk83NzNUWG9xYV94dw?oc=5",
    "data": "2026-10-18T08:00:00+00:00"
   },
   {
-   "titulo": "Inflação no Brasil. Subida de salários e pensões não compensa aumento",
-   "fonte": "RTP",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOY2x6amtZOEIxcldxbU1KVGd6M2o4ZFhEeWdlbGxWbU95RDB2MEFPVTBwb1ZhaDdMYlQwVmpSMHJNWFN4dnEyWUdxTWQ0azY3NDBZbXdwMFg2cDRfQ0dKNk5idTBWcy11Qkl5MEJ3NUhpczIyLVhOMzdrVTNNWE53TlZSa3lPUkFEMXlUbHBibDBSRVVSV0c1czQyYVM3ZGVJV2dLMlItWjlrQ1Fhc1hSOQ?oc=5",
-   "data": "2026-10-18T07:57:02+00:00"
-  },
-  {
    "titulo": "Inflação de combustíveis acumulada até setembro é quase o dobro da registrada em 2025",
    "fonte": "Portal VV8",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQRlBPdHhoRFFIeThBSjcwVGhsY1oxMVRiOFJDNFdxcFNQX3VqTXJpc0VkT1F5UG5qUFVRUXdXZEF0b1NkWmtPWjFma0lWX29XcDFOUGpOX1Bjd2NxMHBhY1FnZ2ZjTjBCY25nV19uQUNGZjdrNWMwSXdDcUtidnVodVQ0ejRzU1k4ZHdpYlNVWHBrTGxkbTc1UWtVeHRoQ0c4cEZPZW5MaU5ZZFF0N3NtSU9ZamhjNUpZYWNsQmItRXR6UQ?oc=5",
-   "data": "2026-10-18T07:38:45+00:00"
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOdW1pNWxPOW9WcHU4czRKNFo2VHl5X3JqUU9JdFpWRXlFRGUyWEU4ZWZKX2N3X1dkYXhENlFpdVVEWmh3TnoxcU5yeEs3MTVOOWJzVHFwM2lzUUVqZkJER05aU1pqVTNDWkR3azBfaUUxdTRiX3IzR09VZlY4Q054Zm5OVl9uTUlDNTlrZ0lvN2ZBbGR1eDNUN19CTURMOEpBOFJzaFByVXhrRFZBdGMxNXllbGFLQVdIOW40QmdyV21OTzFtN04w?oc=5",
+   "data": "2026-10-18T07:38:00+00:00"
   },
   {
    "titulo": "Mesmo com subsídios, inflação de combustíveis é quase o dobro da de 2025",
@@ -59,34 +83,10 @@
    "data": "2026-10-18T07:30:00+00:00"
   },
   {
-   "titulo": "Banco Central Taxa Básica De Juros Para 14,75% Ao Ano | #NewsPrimeiraEdição Lamour Est Dans Le Pré (g4IlSuZQbG)",
-   "fonte": "Unisba Media",
-   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE96X3pWMkJ4UTVNNzMzTjg3MDVuN1YyWTlBdE9lWUtNTlZ0VTcyb0R6RjBYenFaY0hGM3pPSFZPRktFbm4xZXBWV0xyVjlQV2lZWFhVNnVxSENIX0VoS0RGQ2RMY3YtUQ?oc=5",
-   "data": "2026-10-18T07:16:07+00:00"
-  },
-  {
    "titulo": "Marketing esportivo amplia debate sobre novos investimentos, mídia e conexão com torcedores",
    "fonte": "Revista Capital Econômico",
    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNSmtoOWZrTTVOMHROQ281VUdEa0Y0Y1NkWElWWFp0cmtvcFM5TExURGdBWG5OT2hTaUhxZDI5U2NZNUgweFpHNE00WjBMYlNZbDZ2ZUswTWlZcXRBS3QwV0tKSldXMnlKYXpqWGFuSFhUYkhVeEhkMm54eTBiaVYyRlpIOWZOcHcwWkM3MF92dEx1aUdsZ19yRmNHc19Bc09ZQkc1LWR4dDBWU2lraVhMRVhDc1BkOFBaZzR5Q3pDNjA4NWotcWZoeUN3?oc=5",
    "data": "2026-10-18T07:09:00+00:00"
-  },
-  {
-   "titulo": "Análise: Inflação alta nos EUA pode frear queda da Selic no Brasil",
-   "fonte": "CNN Brasil",
-   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOdFhncE9EeFBETk9DbW1kTV9TTHdtT0hRUEVzOU5qLXl5LTRQQTM3bTZoZnF6M3MwNk9xdzNpSUdWcC04ZXllaFV6cUo3eEdlSlpmNVFHUkZQbHRjdmJBdk50cVVJS1lGWEkycmF2dUdlZlJRblYtVC00VmZxUzJqcEh4OG9iWUl4Smh6ZE55S3hOUmR6dnhJMVBKVmIwMnlaQVV6Yno2ODJmbkE3bW8tNWdTM0lIWlF0T3lxSjlqRVRzejV6S0QxRno1T093WVNkT3VLcm16TGp1SlBUUVlB?oc=5",
-   "data": "2026-10-18T07:00:53+00:00"
-  },
-  {
-   "titulo": "Nobel de Economia 2026 premia Hall e Woodford; teorias sobre juros, inflação e expectativas ajudam a explicar desafios do Brasil | Por Carlos Augusto",
-   "fonte": "Jornal Grande Bahia",
-   "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxPZnZMaHFyc2hNVVBuQjFVbGtHTTJSV1BZeDkyeTR3aFI0cjMzT2JPNHNVOEQyOXJyNGFCdnNIRVZ0eTZ6REtSVjZJeXBwOW5FczdxSlg4MEJoV1N6T1VHSTMyUW1uQVIzdGR3SGN1R29NLVhMZllWc1BHTTlxZ1hHNk8wempxWmY5TVdFQ0w2UWlTYWt5aXQxR0FDdVJucGVuR2MzRkdFTjJzSWFYQlNNTGNjWlg5UGRPdmI4Y095QWMxekowNVprNHM5eWJfMHQ5SHJ4VzB2WHY4OWNHb3BGd252TDNiYktZYkpUME1aeEJMUFBkM2F6eW5Qb3o2RGZPOXEwblhWOFdCemZhZEVTUTltMTJxdw?oc=5",
-   "data": "2026-10-18T07:00:28+00:00"
-  },
-  {
-   "titulo": "Com perspectivas mistas, a marca de US$ 4.200 por onça continua sendo um desafio para os preços do ouro na próxima semana.",
-   "fonte": "Vietnam.vn",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNUXdJQlE2TGpVUGJTa3hfbWJqRFFGQ0V3Zjd3TjB2MVE5UXhxcTZ3QnB1S1NWNmNlcFR0NGVZd0dYRFBYYVZZeUluUmVoLXFEalpIQlktcG9FZFpFZHpCU3BjV0hfZ09IZDA3U0pFbHB4a05JOHRxRHJUS3pJcEdDaUlUS1RNTktfTzFKNDdYSDBUdEJpWWZpdHJjNnk1QWFjTkZlS3E0VnNkT1NCc2JuRDU4QS0?oc=5",
-   "data": "2026-10-18T07:00:07+00:00"
   }
  ]
 }
