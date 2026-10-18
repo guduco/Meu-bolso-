@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-10-18T03:33:05+00:00",
+ "atualizado": "2026-10-18T04:33:56+00:00",
  "indicadores": {
   "selic": {
    "valor": 13.75,
@@ -17,9 +17,21 @@
  "cotacoes": {},
  "noticias": [
   {
+   "titulo": "A inflação corrói o poder de compra, e várias companhias aéreas temem anos de dificuldades.",
+   "fonte": "Vietnam.vn",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQNzJJOVhNSVQyNm5OREh0Yk0zRFJrbXZDOXRyUjdrZ1NwNWthTl9XaDd0ajNpdlJ4eThhbzVEUnlwYjBid0E0M3N1dS0wQl8yc2oyM1U3RklPRkFydWc0cnBERzBJZU1KNUZLQ1RVREh3MkI4Nm04XzNfSHZ5WmZrY1kwcENJNEVIdDE1Q3U4NA?oc=5",
+   "data": "2026-10-18T03:42:37+00:00"
+  },
+  {
+   "titulo": "Ibovespa hoje cai 1% após pesquisas eleitorais mostrarem Lula e Flávio em empate técnico",
+   "fonte": "Estadão",
+   "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQeUpyU0tWNnQzMEZhUUt4NFVuZWlQUWFFUzI3WHNibkMtZXJQeUdUbXNtbVk0dWFZS3VRVjBnVjZxODdBUjE4T2JMNmxXS1NPTUZ2dGRJX2RuSjRCWktJY29iMjhGbTdLRmw0TVAxU0xSRmJrUEZNd2xyWklaczFHWGw5RjZ3cW5tbUgyU1FZTWVXT2VuTTBVYW1EV0tldjlBcXR0Z3VnWlFtWThITHlkVEQ0NlN1ekhDR3Q5ck01ODhLOEFKTEEwRmFlbzZyVzRsT2U2d1RRNzRsR0NKN1F5WjRkWlBwZ1ZhX2NN?oc=5",
+   "data": "2026-10-18T03:07:51+00:00"
+  },
+  {
    "titulo": "Investimentos em startups atingem recorde de US$ 698 bilhões, mas Brasil registra queda de 73%",
    "fonte": "Portal IN - Pompeu Vasconcelos",
-   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNSzVpdVpEYjJqMWJSZTA0RlJ2Z3ZXMWNZR1dZbkx1eFdldEpsMkhhZU9wOUlHbTc3X1U2cTZRNVFTbi1hWS0zakdRZkp2ZVhTbENFNkJHV05oT3RqdEt6V194dG51SDkxNElUSjV0NHAzZEMzbnBFQXFZUEZ4VXMyOFo0N05ZSDlFd19yZ04yT1U1ZXQzSXcteDQ2VE9zb1VEaGVZU0ZXLUdORi1RODIxaW1YeklvbDlDWXMzZERnQW12R3VKQmFVeA?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFA2b0JSeHFmamtZV054d1JnQmtFWlo3VTFacVhENjFlSm1RQUZpY2JxWU9fV1VWNS0tT04zVlYwa0R6OExsNlRueVl5OHVnZw?oc=5",
    "data": "2026-10-18T03:01:00+00:00"
   },
   {
@@ -75,18 +87,6 @@
    "fonte": "Estadão",
    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNRERfcmVZelNnQ3c3UVJHRjZ6Y0JMMG1TVXFDd1ZzWHN4U2I5SnJZVURrTEFwMkFaTFJNUjZfUkdRZnZkNXlCN2twU2dCUE9RN0Y2VFdzT1ozRnF0SGplVmhwT29zci1pbjNXaWNTOUpwNWM0S3A5YWlrd2dZM1VTSURPWUJtdjhteV9ieHpOdjVNQ1ZzZm16Rw?oc=5",
    "data": "2026-10-18T00:25:49+00:00"
-  },
-  {
-   "titulo": "Ibovespa potencial alta: IPCA e balanços dos EUA em foco",
-   "fonte": "Acia Araçatuba",
-   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOZHNQZng2aWgyWExPR3FhWUE5OUdHM1F4a0xlYlFhbFR3MUl0S3BIcnZ0MjkycDlVZnlMTnpnb19rcWMzR1FTYkV2VzYtX0RrT0dibVZkUmVlMFd4aE55c2U0NFM3YnpkWkdCZHJOT0J5dWJDT3lLSmtiYWpseG5SUVhB?oc=5",
-   "data": "2026-10-18T00:04:11+00:00"
-  },
-  {
-   "titulo": "Dólar avança 1,15% e fecha a R$ 5,087; Ibovespa cai 1,06%",
-   "fonte": "93 Notícias",
-   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQTXJEbmIyT0FzVVJxOU1IclVRU0w5VUQ4YlRqMGZqRnlGY2ZHU051Nm1wNWdieklGQm5FSDlrTV9OdHJ5MGszRWZDU3Y0TnRwaW9mTjNFT0p4ZXJvV3BlaXJvUjd1ZmxxY1pROVNOMUZxb1VTLV9VdXZxVWxEdWpYVmcxMA?oc=5",
-   "data": "2026-10-17T23:58:11+00:00"
   }
  ]
 }
