@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-10-18T21:31:21+00:00",
+ "atualizado": "2026-10-18T22:30:14+00:00",
  "indicadores": {
   "selic": {
    "valor": 13.75,
@@ -16,6 +16,36 @@
  },
  "cotacoes": {},
  "noticias": [
+  {
+   "titulo": "Por que é uma má ideia seguir o modelo econômico de Milei, inspiração de Flávio Bolsonaro",
+   "fonte": "Viomundo",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNYUhlNmZQdGZPU2NFZVpZSFozblJ1U2xnQ254M0gzTEpEakJQdlloVno3RnJhdTViX0p0N1Q3b0lFNjlUMlJnM0h4N3E2UVBvT3NnZ2xlbzd2bXgxLUk0VFg3QkQxR0xNR3M3NTBtTWVnaENPOVhFRFVwYWVmbDZXVExPRUQwbXdqYV9CeEVQQ3EtTHg2NW9ydTNSWGxpRm90NVRITF96bFF3dlVJMHgwM0ZldXZYcEt4WWYwUDlKaUF2RlgzdG5yZlVn?oc=5",
+   "data": "2026-10-18T22:08:00+00:00"
+  },
+  {
+   "titulo": "Quanto custaria um Etios sedan hoje, com a inflação?",
+   "fonte": "Canaltech",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxONV9taVFOQzhTUm1rZVFQMmxON2ZPdDhSWFRXWWduZFBoSG1DczlRVkJzU2tvX082aWlwcG5tdHhOeVotRFJSTlExRDJBMENyeGRoMVRoekE3bmRuYXVxTXJsX3V1bnhONUtGTnFnQjJDaHQxc3dzZWhLVVBjeVVIWXRLZllpa2VvQl9V?oc=5",
+   "data": "2026-10-18T22:02:00+00:00"
+  },
+  {
+   "titulo": "Ibovespa inicia sexta-feira em alta com foco nas eleições",
+   "fonte": "Diário do Estado",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNZVRrRFktdnIxR2VCRWdUMkxxaXgzNjYtc2RQZzZBWDgyWXk4UXlNQ3JzelFwYjRNOVNINHl0M0dYNTNYdnAySkVBRkN1eC00dUFIYzdkVmh2YjRlTkxkd3pSX3VsMFRtUlprQ0dDNEhha2RWcjZaM3NlenROcmpqNl96THlyREVEemhqVDFNcVIyZUZ4Y3gw?oc=5",
+   "data": "2026-10-18T22:00:24+00:00"
+  },
+  {
+   "titulo": "Trump promete investimentos em estados decisivos nos EUA",
+   "fonte": "Radio Shiga",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOeE5rNUQwMkRGaXZlMjNQVWQycUdRZXdZWExaUjB6dlJXN1FNeW1USXpKd0V0VGxSVGtBbDhkRWtLdmxWeDZFSWdJaWRvbXZpM0hwaXpkNU51OHptZWE5YVlfMkZmRzdMX1R3OEhUMmNwSjJzM2RoN29kTHdHYzMwRjdEcWNFYnA4QVd3SjhibGY?oc=5",
+   "data": "2026-10-18T21:40:04+00:00"
+  },
+  {
+   "titulo": "França: atos contra inflação reúnem 500 mil e deixam 1 morto e 2 mil presos",
+   "fonte": "Correio Braziliense",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOalA2NDM1Uk1NeEh2bkRRYk9uZUpGX0E1STBFSng0YkhRNW1NVHcyMXlvVjdwenB1UjRGTGQweGdBMVc0S3lIeURFc2ZPTHZWQmZYZUlfVTJZWFhwUmtTTG44UGYwWmxOV1RpYkR3MDZfWE44aUN3SVh1UUV2bXBtYUw3Rk85UG41X0RxcExhRlZIQV9vbGU1RGQzM2NLY3lqZGYxQVR2eWpleG01ejZRREtUTnZvUFhjckx5YzBCNy1lX0HSAcgBQVVfeXFMT3dLT1N2WXYyYnVqY29YZXZfYXdUWWU1VXFiYnM4MEJSWGJYV2VMZllieWVDc0J5aDhIZG02V21rUGotWUtfYWh3NXZoOXA0Q3JPOVIwcDZiWHhvOGhfQ2o4WGo4bE9GWmdxVnY4djVPSWtjQlZqUWlhTEx2WlJEdERtYXpkbTJfMTlBc2l6RklZWHNxNGZzQnZHYmJWbWpEMTZ5cmdYamp5TGhlMGI2Si1XRDZMSzd0cV9lMUhhQkd3U1NIN3k0YXk?oc=5",
+   "data": "2026-10-18T21:36:08+00:00"
+  },
   {
    "titulo": "Stefani e Dabrowski vencem em Wuhan e lideram ranking",
    "fonte": "Jornal Correio do Brasil",
@@ -57,36 +87,6 @@
    "fonte": "Estadão",
    "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNbXA1MW9fZDg4d3M0NnVaUmwzd1RnOWNYb0M3WUt3TVgzVTh3a21IUGg1X3ljb0hXTTZPRzBpTl9wNDU2RmhoSldRSGlIUkRqSkNUWmVCNWdDdWd0aGpOeFQxVmRudnRIa2c2OVNYeFJGb0VDZnMwcy1kMDVYLVVQZlhBbHVRbnJlWnVzcjcwNjZqWGNUdTRER1FpQmpiUktsYXBlSGNYM2xyeUM2U09YVUctR2NiV1ZpTnBhT3NUQVdISTFpZ0hXRGpld0cyN201ZDhuVlZSdFdEVWRURVA4RTdFdlJpTWc?oc=5",
    "data": "2026-10-18T20:41:24+00:00"
-  },
-  {
-   "titulo": "Inflação menor nos EUA pressiona Federal Reserve por corte antecipado de juros",
-   "fonte": "Folha de Curitiba",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOUk1pX3kyWUJxYnJJQmNSOEItM3Fxbks3em1PZ1RuejQwQzd5U0t1dWNRQWJZU1lMQURveGw4R1FXcVZvU3RRQjh1dW41czdIWmc1a1pMMU55Y21kUjRqYl9yTDc1MlVLUnpnVnpxSmFVXzhpbWkwT1p4aFlaYVFQd296dWs3a1Fjdk5wcG9KWDFIcHZMOFJVdHBSd216bE0ybmlSLXJidFNveGoteE5j?oc=5",
-   "data": "2026-10-18T20:33:39+00:00"
-  },
-  {
-   "titulo": "Semana traz PIB da China, IPCA-15 e PMIs globais para os mercados",
-   "fonte": "BPMoney",
-   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPenprX0NQYnQtQi1MaUpZM082SzllZFVxeWFHSFBqSHIzWW16SHprbWRXTnN0V1BQWkVobDdXekxvYVBHSlZ5c0dDdkR3TFFlWDhJT09WdXVWcGFKZUlLTFpjNWNEek93VU8weWNLSnNwOFZZX1pjRFEwa3FsUWlIR2o0VVd1QQ?oc=5",
-   "data": "2026-10-18T20:30:00+00:00"
-  },
-  {
-   "titulo": "CPI indica reajuste monetário mais cedo nos EUA, diz economista",
-   "fonte": "CNN Brasil",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQSVFSTUotRDdhSW1xRWotSHlXWlVXaTE0elBraVRjUHR6M2gwdVZWd2dMY044MlU3R1dWTmRkSmFKV0RpalNFeG85RWxMb0NkLUt3UnNOTjR1ZDNwYmJoQmlTQmkxZTNUNUZTRlR0NEdmVDlwVkNiTGNBSmJJZTRxOWMwMUlyWXRnN2JiYUQ1ZFNBaE9WODVlUDlEX0NOdjI3eF9nTGUxV0NILXFaZHZlU01HQVhndw?oc=5",
-   "data": "2026-10-18T20:19:44+00:00"
-  },
-  {
-   "titulo": "IPCA-15 e reta final das eleições movem a semana",
-   "fonte": "SpaceMoney",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNRWRpcUtkajRWR2lUcHFPWHdQcnZ6WFJBZWpJbTV5RVNIUXFqdTZRRmlMLTJxY2xVd0FXNGRSME5mcDNvbHhIZE9BX3hQWUJXSzVPV1RleXRlT0d1eWttM1ZoNUVNc1l3NW4yM3ZpekxlS3lHbi1YcDRXWXltaGFlTHZjSDhKRTAxc0NBTFJBazFhWkZhUDhVQlBnS2k4ZVBYUEdfc21DMTc?oc=5",
-   "data": "2026-10-18T20:19:25+00:00"
-  },
-  {
-   "titulo": "Ibovespa inicia sexta-feira em alta após pesquisa eleitoral",
-   "fonte": "Diário do Estado",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNVmxEc3o1ZFN4Rl9FWU9WUWp5OF80UXVGWldaX0czUWd1cTRiTlVkOWxHOWlTN01zSEN2NmNQZWx4dVpla2VBeVpkTlJFV0dXRFJyd3BwbWJNYnZPX1RIdTVaRFFaSEJ0REloZk5pTjRQRF9Xb2Y4YlowRE5QVVFUbXNyTGtmampzUURESmdNZFhzUEU5eWhz?oc=5",
-   "data": "2026-10-18T20:00:21+00:00"
   }
  ]
 }
