@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-10-18T00:45:12+00:00",
+ "atualizado": "2026-10-18T01:34:20+00:00",
  "indicadores": {
   "selic": {
    "valor": 13.75,
@@ -17,10 +17,34 @@
  "cotacoes": {},
  "noticias": [
   {
+   "titulo": "Venezuela espera US$ 76 bilhões em investimentos no setor de petróleo",
+   "fonte": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOT2gtVFJkdnkxaHRYdlFZcFNFV0hRZjZTeVlUVFVqWk9WWjl5Mlpjb2ZTU0VhRF84S1pzWlVUYnJVSFlXTEVYWFZlZDU1cW42OFk3MHVQOER3TkJkdjFhb2FZSTFoUEFyMUtnc2lSV3FaMXFjVE1qczdET1M1dnlFb05kZ09ROEtoUFlXZ2xZYTVTelNRZHRfcVdjSVVXZl9MTlcwU09KdzFpc1JJRXAzelJlVkpsY01UYjA4?oc=5",
+   "data": "2026-10-18T01:25:00+00:00"
+  },
+  {
+   "titulo": "Taxa de câmbio do dólar americano hoje, 18 de outubro de 2026: Ligeiramente reduzida, enquanto o euro e a libra esterlina se valorizaram.",
+   "fonte": "Vietnam.vn",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOVWhhWjI2NDdTYXB0REQ4RGZrbG9hQ3d2Q1U5UENfUDJiOUViLUF2WkNVMXQ4QjFIMV9aMk9fOWxDbjFEYXJORXFCQ1Y5NlYxM0VTYzVWeUdNUktUdVZPMjJMNTJRNmhsc01pcWlWVjFab1YwVk90OU51bHplOVUwdUt4OXRjYkh3MFBhLXB2RjlxN2dwUUEtQkJR?oc=5",
+   "data": "2026-10-18T01:05:11+00:00"
+  },
+  {
+   "titulo": "Ibovespa inicia a sexta-feira em alta com atenção nas eleições",
+   "fonte": "Diário do Estado",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQcXdma25OSV9DNkRlTHRkWGRnUE9SYnJMSHd3a2dLLWM3TUFhMWlSaHpPc0N6aE1GVjBIVjVsVlhhZnMzMm5XZFlfMWV5TjR4YTBiQk5Hb3M5M2JHTEtNd1NDUWozMjcySHpzRFJTOUdiZGRQUkxJeGpKN0ZuUzZRdEhvaUVQM3RPUy1UN0VIakFEbGRGZHpmMlRNZw?oc=5",
+   "data": "2026-10-18T01:00:27+00:00"
+  },
+  {
    "titulo": "Cotação do dólar hoje, 18 de outubro: O dólar americano registra sua primeira queda semanal após quatro semanas de valorização.",
    "fonte": "Vietnam.vn",
    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPNHktZnFHZ1hhbkVBZktSWm5leElsRWJkWXlEUWY2WHh1VVVhVF80LWd5QWJJY1VTWG9heEwtaE5hQ3Y0MWlxTFRDVnhaaWp2OENScnNORzk0MW9Hdk5fWWtHaVJFZW1odUd5V09jNVFEQU1VbWtoMkV6emhjUlFzZ2trVzEwN09HX2Q1MGNheE93cjR3N1AxYW5qbDU5bWtuT3JYaA?oc=5",
    "data": "2026-10-18T00:27:00+00:00"
+  },
+  {
+   "titulo": "Mercado projeta alta da inflação e reduz estimativa para juros e dólar em 2026",
+   "fonte": "Estadão",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNRERfcmVZelNnQ3c3UVJHRjZ6Y0JMMG1TVXFDd1ZzWHN4U2I5SnJZVURrTEFwMkFaTFJNUjZfUkdRZnZkNXlCN2twU2dCUE9RN0Y2VFdzT1ozRnF0SGplVmhwT29zci1pbjNXaWNTOUpwNWM0S3A5YWlrd2dZM1VTSURPWUJtdjhteV9ieHpOdjVNQ1ZzZm16Rw?oc=5",
+   "data": "2026-10-18T00:25:49+00:00"
   },
   {
    "titulo": "Ibovespa potencial alta: IPCA e balanços dos EUA em foco",
@@ -29,16 +53,22 @@
    "data": "2026-10-18T00:04:11+00:00"
   },
   {
+   "titulo": "Inflação sobe, juros caem: novas projeções do Focus mostram contraste para 2026",
+   "fonte": "Estadão",
+   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOR0ZFekVSUEtqTTRKbnVzLWk2QWZPcmhQb0pPWm5hWjhWRHdUVjlLbTgzRzFreWhrWnB5bk9HYzktTmRsM1JuRmxxd3BpZlZ5WUxlczRKa29kbml3d2JlQlFfTVducDdjRGVpT2RlNEQzT1I0WVF1MXpNNnBydnFBaHJPWEhxNF9tWTNGeVA5eWNlLVBuTnU4STJrX29PVHdlRkVlVW5OMmRCcWRJRFZ3bURMR1hCWkVrVWlXNjQ5RThxSHcxaU83Y2hOdXFLNUVxZ3dIbXdEZXNxR1ZT?oc=5",
+   "data": "2026-10-17T23:41:51+00:00"
+  },
+  {
    "titulo": "Ibovespa abre em alta com foco nas eleições deste mês",
    "fonte": "Diário do Estado",
    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOR0FIU1dQNHZOVnNZNm5RUUJRNDhBdDJXbWc5akEtX29HUEk2VFJaZHRXVWdYbFRXVE1WdmJMc2k4MnFLZno2eWwwVENqb3UyZi11N1VIN2w5U3cyNll2THVpMEpXZVRpRkJnb280UzNhZE51Wmt6U1NtTTRFb1FmVDN4ZTZmSFNwYWR1YUk0cw?oc=5",
    "data": "2026-10-17T23:00:19+00:00"
   },
   {
-   "titulo": "Montanha de códigos em Re:AOPG injeta gemas grátis e ameaça disparar inflação no anime-hit do Roblox",
-   "fonte": "Rádio Geek",
-   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBsZHBxWHBZZXFSNUI1bC1QWkxSUXZHYkVZc0hncExhRzBBYThldjNKVkZDQjR5LTEyUHc5b0ZTZUhXWE1CaUpBR3JTa0l2SHpOWGRxby00Y1V6YjBxcGV6ZzRIbDdIcnI4QmsxSTdheHhVYnM?oc=5",
-   "data": "2026-10-17T22:56:04+00:00"
+   "titulo": "Ibovespa acima dos 220 mil pontos? BofA revela salto no otimismo após 1º turno",
+   "fonte": "Estadão",
+   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNcmk2VDZoTzE0ZU9WZGZ6U2xid0FJQ1h0Y1ZiNnRZa1AzcHlVaTNPOEdrSktncFJPd0hDMGhxdUNGbWZjTjlUbzkzNUtMaF9MeXpzUW5OaUZMTkZhVEJyZXdzaC1YTHJXVzJ3S1VJMU5CNWRtWkNUNTdRVFhBVmxXSXpPVGhtRnlrLXlmMTZFejk5endqMFBVamh2Q1RHTVE2MXVkeVQtdXpQMHZDeGpGakZrRXpiVUNYVDl1X1BFRFNJajBiQ2oyY3FQNndONEFyWncwRU5RTlJNVEE?oc=5",
+   "data": "2026-10-17T22:59:34+00:00"
   },
   {
    "titulo": "Bitcoin recupera os US$ 82 mil, mas inflação americana ameaça interromper reação",
@@ -57,36 +87,6 @@
    "fonte": "deolhonacidade.net",
    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQcHpBWDBXYS1ZME1RdC1iNU9TdUtxVnNPLU1FUnZYeHBCdzRiaGtrS1ZiYzAzUm9QM1U2blFXcmRjZzdNeVRTREgwSnZzUmJvVDVEOWk5YjhXQnlTNWNndktrVUdMNFE3ZGhYejBrSDMzdXJwd1ZlLXhvbF9ienhqSHNKRzNMZFZzV3BBRW5Od1NRNEZoa2xudUpXSGo0UVVYQnc3SEI4VEZ4aEVIdGtZVk1n?oc=5",
    "data": "2026-10-17T22:13:38+00:00"
-  },
-  {
-   "titulo": "Direcional cai mais de 9% e lidera perdas do Ibovespa hoje; veja maiores altas e baixas",
-   "fonte": "Estadão",
-   "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNd2xuejdydWhsWUpWb2RIT1M5dDVhQ2RtbWY5bWpmODUzZVpJYzFCWDZxUnRqV2hNOEw5eEY2MGd3cUJWT3N2VDZZS2hJMTZkaWxVaDdmWXBmZTM1d2RRNG55dXVVVlRmZllvemoyZWhUVlh4THVLcnFQdERxaExzZEl4cFcySXVLOXZHN3JTRFI0c19RV1IwT1gxZ1RTeWdKYWxpQ3F4YnhWazRoQnVEdzdGUWhVa3M0TTVmc1AtcmdjanRKT3FSci1WVS1KbmZxTUw5bTlkanYxbEY2S1gxaFJrRFA5TjQ?oc=5",
-   "data": "2026-10-17T21:39:57+00:00"
-  },
-  {
-   "titulo": "Ibovespa, dólar hoje, MGLU3, INTB3, B3SA3, TOTS3 e mais: Giro Semanal de Gráficos",
-   "fonte": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPdTVjZXlESVkyR2I1am15SUxFUW1JRWplcWZMTURtQnFETDhHbHJMbDFvWk1KTUh0ZGttOTZSRktMZEhnUEQ3SHB0ZlZwcWY3R3RrZUJjRzgyYVRnZGVsREZuR2FrQ3M3UExfUi05M3o0YnB2Ymw2Y0E4WkdqZ2VxZUNrNllIUDVPQVVfeTlwX2t2NHBMbHhoR2RYNkgtSGFMUnpQVmxkbldtZ3laR2VhVkotU054dmk0azhV?oc=5",
-   "data": "2026-10-17T21:34:00+00:00"
-  },
-  {
-   "titulo": "Lagarde alerta para inflação alta e riscos ao crescimento europeu",
-   "fonte": "Vero Notícias",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNNWRhcG9DM3BiNEZGdUNXMmJ6VmtFMHF5WEFMa1pnb09VOFdoQW5IVzZLMEhtZDdMakc2SXNPSjZQcFJHbVhIMzhwNlJkaF9LeUxpZTBqSTk0OTRjb0VXNktPbmZQaWdtRDhINGlGLTVUcHZvbFZ6WXZ2WGowR0JreWpURlJCNjdJa2FSVmF5Y1lWZmtQMkFMOFRubG1HNHVRbnc?oc=5",
-   "data": "2026-10-17T21:30:00+00:00"
-  },
-  {
-   "titulo": "IBOVESPA fecha hoje com alta de 0,54%",
-   "fonte": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
-   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxORlZNZTd3MTFoS1gtMlJjTHY0THZ0Q0dJV0tHT016R2hzSUw3UmtuT2ZjZE9Ca3JlQnhwYlR0WUlabDVLMTMybkVPWUZMZWpLUDJUSjI0dVlORm5RRF84OXlBaHFuaERlSU1Lc3lZNm9wX1pUVHFld2JKcG9FYXZwcGhCcDN2dw?oc=5",
-   "data": "2026-10-17T21:30:00+00:00"
-  },
-  {
-   "titulo": "Dólar sobe na semana, Bolsa recua e mercado entra em alerta a oito dias da eleição presidencial",
-   "fonte": "JBNEWS",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOMW05SFdfQUc5Z3dhcks1VE1kUTA4RWoyREZERmFqLTlaNm5ZU2JvOG5kZHFpako0VjFYVDJHTjlWdnJkMlRzTXdDV2JRV3g1NnhpMF85RWd4djlxY1pwYjA4VzlQYUhjOW5BZng1WmVnYUItV3FXampUVEY4MGktQTIwT2swajZvenlfSEpUT2l1YkZsS041QTJwbGt0d1JRWU50dXAtRzJhZzVsN1JBMXVld2dJNzlS?oc=5",
-   "data": "2026-10-17T21:07:40+00:00"
   }
  ]
 }
