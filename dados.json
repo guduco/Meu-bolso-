@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-10-18T20:31:00+00:00",
+ "atualizado": "2026-10-18T21:31:21+00:00",
  "indicadores": {
   "selic": {
    "valor": 13.75,
@@ -17,6 +17,60 @@
  "cotacoes": {},
  "noticias": [
   {
+   "titulo": "Stefani e Dabrowski vencem em Wuhan e lideram ranking",
+   "fonte": "Jornal Correio do Brasil",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPalFIWHZNWF90ZElUTWFrMGc0R2ZLZDdaMW5vbndKUGk5U25rUnZpTVh0NWFodUk1SUt2TkZoc3ltWGhja1hLbVJESGlPaHhDMVYxRERTTjR0dVVMczNYTHNXVUdGMFVrREdtUzNMOUZ1VmtRT2dPeVhjUVJoU3ZZQnZIc1RIZw?oc=5",
+   "data": "2026-10-18T21:26:11+00:00"
+  },
+  {
+   "titulo": "Protestos massivos na França cobram ações contra inflação",
+   "fonte": "Radio Shiga",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOR3NBZGFZY3EycGtWdi01OEc3SHdDd3QxcVhSNElIeEpmcGNLNHEwSjhIMlB3WHczUjBFeGlocm41MEFKY3d5OXl2WExYRlhNLVBwR3p4WS1VZXd5ZlhrYk5GQU5WZVJ4TXZpRDZUNF9iWmRyTk9PMzJxWXN1NS1iV2VkUnBNYUtxbGRJM3hwaEYyX1ZxRlRr?oc=5",
+   "data": "2026-10-18T21:16:19+00:00"
+  },
+  {
+   "titulo": "Ibovespa inicia sexta-feira com alta e foca no cenário eleitoral",
+   "fonte": "Diário do Estado",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPX2RwMjczRFI5RFhOaHRLanprYmctQ1FKOU9LbFRXMXJTbENPQUQxNHE3cjNyeHQzUUNWSXlNTnZsYnVtMHVkM1FTekRaOEJfdGdLVGFwaGgzLWM0amN5Z0FKdEpocTJLc25relA0U3NqY0Z2Q0ZrSHc3R0RlNVYzTGloaTdZRVFIUUhuRTFxaVhuNXhnM2tKMEdpSzRzQQ?oc=5",
+   "data": "2026-10-18T21:00:26+00:00"
+  },
+  {
+   "titulo": "Mercado imobiliário da Baixada Santista pretende manter investimentos em 2027",
+   "fonte": "A Tribuna",
+   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNWk9jUDFneHNUcEk0WGNSSE1ERkRWd2ZybGFiNnpuX3JtcXFHY1dsUWtwTmhBbU12RnJWcmhoT1ZiUV9GWUdUR1VVOUYzd1paNHZrMWhPOG84WWJaSWxkaXMtMkdQOVBuMnh6WjU0Um5KbkxDRzVOcXEzb2hfb0I0NFBFalhPWlZIZHYxUV96enZqWHoyVjdxV2hLbWZqNkI4ZW9sbjRHekhPb3VDYTZQcVV4dF9YcjNTdE9Wak9uSXBVYTh2WmtJNXlLSjhNX0FTai1ZMzl5QVRpcV9uQzloag?oc=5",
+   "data": "2026-10-18T20:46:00+00:00"
+  },
+  {
+   "titulo": "Qual o melhor banco digital para quem recebe em dólar?",
+   "fonte": "financenews.com.br",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOazJYV1VOWTFvTlRxZ0dXeVRGWnAtc2VZZjlUSEFXLTllTlQxMnNlZEduTTUyRUJJcURONnBfTzRfbDZOUXZzTEk1XzlIQkN4OVJ4N0dfRG9yV05zX3lRd2Y4U25EWTBObHBXWnAtamtQajJIUTZ2RXUtWWdCRENIdld0OXRpeU1udXl5SnduOFJpQTQ?oc=5",
+   "data": "2026-10-18T20:42:58+00:00"
+  },
+  {
+   "titulo": "Agenda da semana reúne PIB chinês, Focus e IPCA-15",
+   "fonte": "SpaceMoney",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQZG5LV1FadTNKOEtsRG9MWlZHNUJzTmgzcjhSTXhyYlBvdXNKcmRjM0JCaDdEUnplLTFBZ1VGajY2VlA0Zy1CcXJRRVJWSjNmV2FubHFoQ3JNZ09OTkpBZGIzMkVNYTNCMnZKMXdPM3NGWmZMY1ZkdXJRb1BVMks0a25n?oc=5",
+   "data": "2026-10-18T20:42:27+00:00"
+  },
+  {
+   "titulo": "Petrobras salta 4%, bate novo recorde e segura Ibovespa no positivo em meio a cautela eleitoral",
+   "fonte": "Estadão",
+   "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNbXA1MW9fZDg4d3M0NnVaUmwzd1RnOWNYb0M3WUt3TVgzVTh3a21IUGg1X3ljb0hXTTZPRzBpTl9wNDU2RmhoSldRSGlIUkRqSkNUWmVCNWdDdWd0aGpOeFQxVmRudnRIa2c2OVNYeFJGb0VDZnMwcy1kMDVYLVVQZlhBbHVRbnJlWnVzcjcwNjZqWGNUdTRER1FpQmpiUktsYXBlSGNYM2xyeUM2U09YVUctR2NiV1ZpTnBhT3NUQVdISTFpZ0hXRGpld0cyN201ZDhuVlZSdFdEVWRURVA4RTdFdlJpTWc?oc=5",
+   "data": "2026-10-18T20:41:24+00:00"
+  },
+  {
+   "titulo": "Inflação menor nos EUA pressiona Federal Reserve por corte antecipado de juros",
+   "fonte": "Folha de Curitiba",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOUk1pX3kyWUJxYnJJQmNSOEItM3Fxbks3em1PZ1RuejQwQzd5U0t1dWNRQWJZU1lMQURveGw4R1FXcVZvU3RRQjh1dW41czdIWmc1a1pMMU55Y21kUjRqYl9yTDc1MlVLUnpnVnpxSmFVXzhpbWkwT1p4aFlaYVFQd296dWs3a1Fjdk5wcG9KWDFIcHZMOFJVdHBSd216bE0ybmlSLXJidFNveGoteE5j?oc=5",
+   "data": "2026-10-18T20:33:39+00:00"
+  },
+  {
+   "titulo": "Semana traz PIB da China, IPCA-15 e PMIs globais para os mercados",
+   "fonte": "BPMoney",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPenprX0NQYnQtQi1MaUpZM082SzllZFVxeWFHSFBqSHIzWW16SHprbWRXTnN0V1BQWkVobDdXekxvYVBHSlZ5c0dDdkR3TFFlWDhJT09WdXVWcGFKZUlLTFpjNWNEek93VU8weWNLSnNwOFZZX1pjRFEwa3FsUWlIR2o0VVd1QQ?oc=5",
+   "data": "2026-10-18T20:30:00+00:00"
+  },
+  {
    "titulo": "CPI indica reajuste monetário mais cedo nos EUA, diz economista",
    "fonte": "CNN Brasil",
    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQSVFSTUotRDdhSW1xRWotSHlXWlVXaTE0elBraVRjUHR6M2gwdVZWd2dMY044MlU3R1dWTmRkSmFKV0RpalNFeG85RWxMb0NkLUt3UnNOTjR1ZDNwYmJoQmlTQmkxZTNUNUZTRlR0NEdmVDlwVkNiTGNBSmJJZTRxOWMwMUlyWXRnN2JiYUQ1ZFNBaE9WODVlUDlEX0NOdjI3eF9nTGUxV0NILXFaZHZlU01HQVhndw?oc=5",
@@ -33,60 +87,6 @@
    "fonte": "Diário do Estado",
    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNVmxEc3o1ZFN4Rl9FWU9WUWp5OF80UXVGWldaX0czUWd1cTRiTlVkOWxHOWlTN01zSEN2NmNQZWx4dVpla2VBeVpkTlJFV0dXRFJyd3BwbWJNYnZPX1RIdTVaRFFaSEJ0REloZk5pTjRQRF9Xb2Y4YlowRE5QVVFUbXNyTGtmampzUURESmdNZFhzUEU5eWhz?oc=5",
    "data": "2026-10-18T20:00:21+00:00"
-  },
-  {
-   "titulo": "Aluguel sobe 9,13% no Brasil; veja as cidades com os maiores preços em 2026",
-   "fonte": "Agência GBC",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPaGpBUXBlb1Joa0hoMGtPV0hjNVVPTThKNzU4WUdSaTBuVjh5RkNQTWttTmc5ZEJ2VHd5M3c5akcwTXF4WURJR3pBQS10MVY5SjFlY1puNDhfeHNXTV95TGk2VkhTNFNhZDltWnhPeVdXN2RUU3VabW16M0o4WGtITUFuVXdiVnpwQjNQRUJSN0VhRGY4bDAxUkRENEZMd0xkcjJPMlN1T0psaXM?oc=5",
-   "data": "2026-10-18T20:00:00+00:00"
-  },
-  {
-   "titulo": "Inflação: como americanos enfrentam alta dos preços: 'Já fiz coisas insanas para sobreviver'",
-   "fonte": "BBC",
-   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE53bjlLeHJyZXhYdWhIZVA0YVZObTlrMnNwUkdUbVRJcllILVFuR3BhZEVkcUF3alg0cDFRaWRtbnM0ODFSWEdQUVFCT0VEeHltTElQUEhwOTBUMnZRZm5vVEw3TdIBaEFVX3lxTE9saHBUU3R2UlQxYWZEYXdULWh5QW5lM1BLR1NOYUpPVVI1ck9QeExpZngxOHNHYWJHb3hzRUhmaGJ4aE5TVVBBRFdFLTBhWUZjNFZ0WlRVRFBKUTJ1R3psR2hLVlR6YTBI?oc=5",
-   "data": "2026-10-18T19:35:21+00:00"
-  },
-  {
-   "titulo": "Apoiadores de Flávio pedem que Trump bombardeie o Brasil",
-   "fonte": "Jornal Correio do Brasil",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNdHJLME5fOVVwVFdOWU1abmY1UlFWQU9pMFBBT3NNXzZweXg4ZDIwajdFQldLOHR5VlV2eGlBNGJWNmFtWEtzRFVscUN5cDNJSU5QLXJNUDRTN2lKUkZuZjNsUzJGQlFvOFRvd2ZJWDl0WktYRXFNTmh5YzhweW56R3JOcWtLd0U?oc=5",
-   "data": "2026-10-18T19:27:48+00:00"
-  },
-  {
-   "titulo": "Ibovespa inicia dia em alta com foco na disputa eleitoral",
-   "fonte": "Diário do Estado",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPVDc5dHF0Ujk1bEFKM0kwOXh3QWtmVjJURmU2aDJBd3VGdnltc1ppWlBQM3pMbk9VNC1JMFhRQk92aUZjSTBYcV9CWkZJZ25uLVQwVFo0VjNpbjRsXzhxNjIxTGk0bHE0a290Tnp1c0xXNGFoSG1pbTlmZVVMS19kSTF6S2ZWeHpQV1VtZW91VkV1Zm1x?oc=5",
-   "data": "2026-10-18T19:00:17+00:00"
-  },
-  {
-   "titulo": "Lagarde alerta para efeitos do choque da energia na inflação e descarta candidatura",
-   "fonte": "Jornal Primeira Página",
-   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQYXJBa0xBSFJ5YjhlOEozb0pCRXlBWG9NZnhaMS1VdlAxOXgwRzVYbS1PVl9VblVmd29hY3BUMXdoV0tBNmpLR094OUFsbDIybElRNkY0RTdXVnFHYm5tRnFvVERiNTluUVNrbGYzX1AtYVV2aEljbm9Za3VlVU1HVjFKcVd5alE2aVk2ekN3b0NvVzhzbTF2UE50UEwzZ2ZXVE5JTjJNaTFJSUR2ME0xaGFaS2QycHlBXzVoZUwxdUNBSFNLbUltX21TeUQ?oc=5",
-   "data": "2026-10-18T18:53:02+00:00"
-  },
-  {
-   "titulo": "Apoiadores de Lula fazem ato pela democracia na Candelária",
-   "fonte": "Jornal Correio do Brasil",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOMmxfQUc4Mk00ODcxd1lTQXVZZkllSXBhcTJ5X3UwTDZ6a1AtSnZ5YzdqNzYwa1JLM3JLWDJFMjVERnY2Q1RwTWhXVl9UeHl3SkVuQ0U1X3UwcG0yMEtpLVl2RDZVdllyOFR4NklTVVlmRE5yWG5rZGxhbjZrSjByeDhMX2o3N1A4Y1ZreUFR?oc=5",
-   "data": "2026-10-18T18:47:10+00:00"
-  },
-  {
-   "titulo": "Primeiro-ministro: Pronto para substituir os funcionários que não atendem aos requisitos, empenhado em compartilhar a pressão da inflação com a população.",
-   "fonte": "Vietnam.vn",
-   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQT0xoS3NxdEJvV2l0eFExcDhBckkyZVh3T1BkRkxQOERFSnFaVV9RMFlZdWR4Y3FRTlVFS3NHRlZ3cWRFaF8tNlphOVVpSFJ2Z0tSVHBSREh1Tmk1TUJXb1BGYkZzZGtzY19XNEI1QmRmSmdCaFppaU9EZkVtSE94MjVJb3NDMGh1YXd2RFJCdHp4VnpNMlpFZWlBU0sxZWZMZ3hEd2x5b3J3NTl5VDEwZ185MjYwYUVzVTJCVmZqVjU?oc=5",
-   "data": "2026-10-18T18:43:17+00:00"
-  },
-  {
-   "titulo": "Nikolas Ferreira cobra impeachment de Moraes em ato na Paulista",
-   "fonte": "Jornal Correio do Brasil",
-   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPQTNhN05BX1dHOC1oTXVvSDREME13Mm1vYjE2WkE0VWNCNDcyazZPckdoc09NTDN5SXVwT2cyZGhxSmwwQzJucUprRHU5OFE0XzJnZ0lzLXppcEowVGtUanAwOGVJOHpyM3VsTnI0X1hwdmladU42eWZxd09NbThuVndtLUNSdUR1Q3NjQTJXb24?oc=5",
-   "data": "2026-10-18T18:38:57+00:00"
-  },
-  {
-   "titulo": "Michael Saylor sugere nova compra de Bitcoin, mas STRC falha em bater US$ 100 enquanto reservas de dólar diminuem",
-   "fonte": "Livecoins",
-   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOV215UEs3Y2F3M3hiV1paYmowY1VRS0c1VVRMX1htYmhwa3RiMXNiendMV3BHN25PNElkODVlWUE0SGhfV29mWDhacnhHRXJXX0pLUmkyNXNZQzBRX1ByMWNITGRCT3p6bW9FOEtVZnYzaTlPdEhzeFNCZmtNalZOWjZwTjVWSm5zOHZYRTV0b3FZRVJHSjh3d0VtS1JpWThkeURXaVlwdWdZN1lKREFNckdmUGlGeVJlcHhSSF9xYzJnOXRWaXNaX1JQVHVRWFV6QTdB0gHYAUFVX3lxTE9pMTc1Qk11Vkw2Qk1RU01YbnNjOVpPQmJqNDdLQ1dtbWM4SXRoazM3cDRrVExvYk1LWURObDh0MWQtdTE1dTlpbktEZm9TcmY1RHh6a0pudEJOc0VXcHh4TzZkVHRsanhwRHAyRzdTa3ozMWoyMHZoWC15TXpaVE9lVlZrTXF4a1BjcW9WekdzWWZiaURmMlh0T051SGw4N2tuV2NPMzlCNWRuajBEOURvZXpmSEFxODZrZ3JTRnFxeG92V1FwR2VhZldObUU5aGdtWEhOdWs0ZA?oc=5",
-   "data": "2026-10-18T18:30:49+00:00"
   }
  ]
 }
