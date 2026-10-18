@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-10-18T05:32:02+00:00",
+ "atualizado": "2026-10-18T06:37:47+00:00",
  "indicadores": {
   "selic": {
    "valor": 13.75,
@@ -16,6 +16,12 @@
  },
  "cotacoes": {},
  "noticias": [
+  {
+   "titulo": "Opinião | Por que Trump tem medo do Pix",
+   "fonte": "Estadão",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQN3dkOXBLZURacDVWNFh4dGVtMGQzOXI5cjRnUGJpN2x6cGpxNWVvT2RWaHBncEh6Z21wT1pRZk5qeEJSQ1Bia2xQLVh2TmFlMHgwOE05UFV5bW8xa2ZXemt6ZVBXSFh3QkxaTkYxWXZYSTJYbU52VG4tc1RNSEU5bHNZU29Ndw?oc=5",
+   "data": "2026-10-18T06:00:00+00:00"
+  },
   {
    "titulo": "A inflação corrói o poder de compra, e várias companhias aéreas temem anos de dificuldades.",
    "fonte": "Vietnam.vn",
@@ -81,12 +87,6 @@
    "fonte": "Vietnam.vn",
    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPNHktZnFHZ1hhbkVBZktSWm5leElsRWJkWXlEUWY2WHh1VVVhVF80LWd5QWJJY1VTWG9heEwtaE5hQ3Y0MWlxTFRDVnhaaWp2OENScnNORzk0MW9Hdk5fWWtHaVJFZW1odUd5V09jNVFEQU1VbWtoMkV6emhjUlFzZ2trVzEwN09HX2Q1MGNheE93cjR3N1AxYW5qbDU5bWtuT3JYaA?oc=5",
    "data": "2026-10-18T00:27:00+00:00"
-  },
-  {
-   "titulo": "Mercado projeta alta da inflação e reduz estimativa para juros e dólar em 2026",
-   "fonte": "Estadão",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNRERfcmVZelNnQ3c3UVJHRjZ6Y0JMMG1TVXFDd1ZzWHN4U2I5SnJZVURrTEFwMkFaTFJNUjZfUkdRZnZkNXlCN2twU2dCUE9RN0Y2VFdzT1ozRnF0SGplVmhwT29zci1pbjNXaWNTOUpwNWM0S3A5YWlrd2dZM1VTSURPWUJtdjhteV9ieHpOdjVNQ1ZzZm16Rw?oc=5",
-   "data": "2026-10-18T00:25:49+00:00"
   }
  ]
 }
