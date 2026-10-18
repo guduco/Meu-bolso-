@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-10-18T11:30:41+00:00",
+ "atualizado": "2026-10-18T12:37:13+00:00",
  "indicadores": {
   "selic": {
    "valor": 13.75,
@@ -16,6 +16,48 @@
  },
  "cotacoes": {},
  "noticias": [
+  {
+   "titulo": "Controlar a inflação e eliminar os entraves para atingir as metas de crescimento.",
+   "fonte": "Vietnam.vn",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNRjJnSEVmcU1CN2FQS3l5WmdSTkpObG5nTXJzTWxZWXFsd0JoWVRPMFh6d2JnN2E1cEdRcEtYSFRxRGppclpKUlZpN2lSWXEwY2ZtUmlDUFVVVU9tN2R3RG10c3BFanFkd0w2U3BhSkQzeWNsZTJFaVlNd3hNempfQjZPQkRxMFp5d2c5ZU94eDczWFdMci1JNWpkSEZXQQ?oc=5",
+   "data": "2026-10-18T12:18:15+00:00"
+  },
+  {
+   "titulo": "Inflação de combustíveis no Brasil atinge quase o dobro do registrado em 2024, mesmo com subsídios do governo",
+   "fonte": "BH 24 Horas",
+   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQNTdIcjNZYW1GYWx3eDlEcTMyWWRJZ05BWW4xZ2NVS2VFRnZsWHJQcXFkQnIxUjdRMU0xSGZ4SDdqek9pc3NLaTUwcHYtY3hmdnViY3hpcUNad2JDbXB5LTlyQ2tHR1hPV3ZabHp0V2JJLVZNWEx4UEJXUlNSLW1BUmQtMzN1M1FQbmZJbDhYS21XWWlDRndvUDhtcGNIWFhpejZmWGxTa2dBRGRPX19ac2RMdXYwZHFLSGUzWGw2NE5LcTJjYjliQ2Z2emM3S2FXZmFRakZiQ0J6OWExUy1sbkdHZjA?oc=5",
+   "data": "2026-10-18T12:08:51+00:00"
+  },
+  {
+   "titulo": "Como investir em dólares sem sair do Brasil: ETFs, Equities e fundos",
+   "fonte": "CNN Brasil",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNMnNsSXBSUF9rQTRFQ3E4eXl6STlZakVNdllyd2h2dHRPSFZhN2o2U2xjbTZrdHFCWnV2TXZSbVBBdTNMVXZiallFOTk0MGNicVAtT1g0M3d5RWpINzI3czc1d2Rsbmg0MmxSNERWWkJ0TUExUklKS0M1MlMzNmlGOS1jYzUxRWRTNk1JZ2FuRURsN01rajg5bXlTVkh4NHJQSnBxU2VtY3cwaU8yMkh3aVk0R1JQbmpLMUpURA?oc=5",
+   "data": "2026-10-18T12:00:48+00:00"
+  },
+  {
+   "titulo": "Ibovespa inicia sexta-feira em alta com foco no cenário eleitoral",
+   "fonte": "Diário do Estado",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQWk1oei1rNGxCOXNWMjNRSTBCTzVycGtSQXdNUVllZFRmZldlVHFQVUYxZ3c2WF9idXFpWXlhZjZiRTdxdmcxc2NvYnNzVmV0T1ZYaWtPbmtUR3BXLUh5U0VHVFM5d1kxT3ZsNDd6TnQ5RUx2OEdldUk1M1lMdXQtZGRWMThaa19mSTNJdVNVSzFBYUZHSlp4MFdhcVg0cmc?oc=5",
+   "data": "2026-10-18T12:00:24+00:00"
+  },
+  {
+   "titulo": "Itanhaém vai participar da Feira do Empreendedor Sebrae 2025 para atrair novos investimentos",
+   "fonte": "Diário do Litoral",
+   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOY0tPSGFvZUFnRlBNeTFCYlpuakJTb3h6VmtqVDh3Wklsa2xsaE1zbU90SUF1Z09CUkZ1UkJwRFlDUWlGaGx0NjBSWmFLdlZfcVBfUlBTS2I4VU0wUW9Qenk3YWxhejUyeFk2bnM4WC1FRG95eVc2RWJ1dDhBSzE1WlBINkxVME9GZ3J1bEdXQjdNNkJCTWV0WVR4ZXVHWktabjZocTdLWHByNU9uc3BkdEZzYk5HdDZTT2hpS09BRE9ZeDdwSWc0RVVvNVJmTVRwNXctVg?oc=5",
+   "data": "2026-10-18T11:50:00+00:00"
+  },
+  {
+   "titulo": "Guerras no Oriente Médio e na Ucrânia disparam preço dos combustíveis no mundo",
+   "fonte": "www.bra1.com.br",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNa3FHYnFlZXd5MGhMTGRrLVQ0UGFIUU9oeXozdW4xNXdNMkxTUl9FRldiT2xCMlBVclNEZEpmNWtxQm55UFd2WFR1bmEwY3JnZHIxSXFFaWdLMC1Qd3BvMG9TMGdjV01Hdk1rYmpPamo2Wjh4ZjZHMDVjVW1wZzVCUFE2VTF3SkNiT1MzTWVCSkxYQUpTZ2lGVHRVd0pjOWdmY1ROQl9qdXVFVlVGaDFSV2I1RUFQZzlzNThmWE9B?oc=5",
+   "data": "2026-10-18T11:25:00+00:00"
+  },
+  {
+   "titulo": "Temor de virada de Lula faz proteção contra alta do dólar saltar à máxima desde 2011",
+   "fonte": "Valor Econômico",
+   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPeWhtalU1dllkLWxxYnZKMy10N0c1NWNtOTg2SXlMZ09FYTdlTXJlNnVrUEJ2Y0lnVkJqM1h6STF3RDNTRGdrRE91WTJWOUJXNVQ2cnZxanlLWFdNWlFmZFR3NEtzVnU1VC1aeEFVaFNHb1hiYVdZUm51QVZ6eEtZWUIyeUJRdTRCZ0tzd29vcEhxNzYtbjd0bFhkNzN6bUhRWnRCRVN3eHh6eGNvckhyNGg5elczX0kySHlLOHFuV2ZMVnVxdTltWVRzWmpnX1Y3dnBEZFlvYmk5bzN4WlHSAewBQVVfeXFMTjBnaW90MmQ2N2J4d3BvcDBDR2VrelRuU01aQThsaC13cG4xTGRBVnI4eWZRSWtBdFdkNU5fR0pJOGExNldlN3lMOEFSLVA3ZXBkT3phcmhNTG92UWdGdHpNYXNSaVRTWkp4czFWbEF2dWt3SnJJdVJ4MFZxZGhSUXJRTU56ZWJZNXVXZF9CTk5HZDZxeTlEMnYyRUY3Z2FmVmxYUHhiQmp6X2pmT3c4dE8wY2FmQ0YtUVhWSUpaUC1vVjFsRDlhMEIzMmJYTlpjSkE2X0o4Y1NzcWRudkFUM0pFUWxCcG8wYWhUaWE?oc=5",
+   "data": "2026-10-18T11:24:12+00:00"
+  },
   {
    "titulo": "Bitcoin oscila próximo de US$ 81.600 enquanto mercado avalia inflação e fluxos de ETFs",
    "fonte": "boca.com.br",
@@ -36,7 +78,7 @@
   },
   {
    "titulo": "A contagem regressiva chegou",
-   "fonte": "www.tradenews.com.br",
+   "fonte": "TradeNews",
    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFAtMU8xQjlSX3NGeTVrWkkyVFB4VkVCZkRhLW9zVERYaDdnakdDM2VVMjUyazhBUlp0RXkwTkZYcTF5d29hb1QzMFF4TG1nSS1qZEZpUC1wN0d3OC0wczVTOV9jeVVNMDVqTmFr?oc=5",
    "data": "2026-10-18T11:09:33+00:00"
   },
@@ -45,48 +87,6 @@
    "fonte": "Valor Econômico",
    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQdzNXa3Q2bFVoVTFnUVBuWERZbkUxMUxodVpMZ3ZnNVAwVHdYLTBpVkVqT2NCckhvNGhDOXdqZGxSM3NzTkRoMUcySk9lbDNQMURFU1pQVk53elpQZ0puLVVHQ1paYXFIZXJPdUwzdWxHdDc2cFd5X2Jkb2RqVnhpWmZvSmt4akkxVVQ0Vk5uM3FoTnZvQmxUbmxtVk9PS1lKZnVDMFc3ZUN4Q3kybDFLRzdxVUNwc1pBWHlqeVdVUVPSAc8BQVVfeXFMTUVxTThERUY1MlFHamo5X3FGOW5fRHRpVS01c0FfNERUcUFQOVYwQ2xadmdMR3FWNzFFcjNyUHJVWm5IMUlyUUFjSl8tVzViS1dJLW9xT05GeUxVQ2tHQUVQV3hzV3BaRjMyREswSXY3ekU3b3Q4TW9pSWVsaWdpUW14SmRPMnl6TzUtZ2k4N3N3a2hLeXVwT0FpYUp5UFNmNmM0OTFrcGxnZlk4eFpPanQ2bGNra0NEdXNOb0g3NVd3Q0xBa28xUERxb05JSk1B?oc=5",
    "data": "2026-10-18T11:03:56+00:00"
-  },
-  {
-   "titulo": "Ibovespa inicia sexta-feira em alta e foca nas eleições",
-   "fonte": "Diário do Estado",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQYjNLOHY3b3lrcmZ0R0JGaU5kRlppdjkzZHBUd05ZZXAyYk5MSUlXYThob1dLYnBqY3l1M2tCSzRyalBmTVByM2tVOE9yaGpUaW9XMy11RUVwcHl0eWttMTBNVGV6bmlPc2o1dlB3a3NnZmZNczdpYW1rVGFkRFZ4dG41QWZzajliNDYwbVpOSE1VQQ?oc=5",
-   "data": "2026-10-18T11:00:18+00:00"
-  },
-  {
-   "titulo": "Folha da Região: Após as urnas, prefeitos buscam novos caminhos para investimentos",
-   "fonte": "sampi.net.br",
-   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQb1FBaDB5dVZwMXJOUEs2OVFMZzNTY2JoVWpzYXBiUlQ1NC1Yb3Z6ZFM5NWQtTmxGdHRWd3pyR0ZRM3h2SkNTUGZFaU1nN2ZIUmp1MFBfUV9KbTcySFJWMnk2bkNhUS1aWWgxMmFZaml5UXh3cnF0amNhRXdrOTlHNzZyN3d0VGNUcHpJVUJsWGR3WDRMUURtaVZsc3ZkNnd0THFLTC1YYlZuQzlQakxwZG5RNEdEU2FpbFE3VWNSWUwxMm1aV1FFVA?oc=5",
-   "data": "2026-10-18T11:00:00+00:00"
-  },
-  {
-   "titulo": "Ibovespa sobe no início do dia com foco nas eleições",
-   "fonte": "Diário do Estado",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPemtSLW5weHVKLTJXMS0xNHlyUndvcG5wcWNGdGMwUW1YWk9BaEw0UGRzZjBVZGh6aXI5dU1EaGpVbC13SjE0SVF5WVZUWEtJUlVGNHlHMWxYR0RnYjdnVnZBblNqX0h5Z2RFd2lsMXJDRlJyWF9Gc0ZiU0M3OHFoX2ItMnhFbGdSakhQN1FR?oc=5",
-   "data": "2026-10-18T10:00:17+00:00"
-  },
-  {
-   "titulo": "Déficit público ameaça crescimento e pode pressionar dólar e juros no Brasil",
-   "fonte": "BM&C",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOODYwS3NUVTcxTVdoa0NZR2FOWXQ0WU5hZUNWa25VZmdpc3JsemxCN1VBcW1KLXp3Y3VvMXVvX2FZR3A1UUhFRlF0NHFZeFFXMDFXZXlCcVFla3ozdlpXQ2tnS2ZyZDNfcDYwd0h3MmtENHcyLTZfdmh0UXV6cGtOWmVFUDk4M05mdVN5Q2d0YnBYN1FweGdOZ2RRcG90QU5lOU5zX0VMYy1wLXF6UHVuMGstTUV2RFBPZmQwRnk4cERvX2M?oc=5",
-   "data": "2026-10-18T10:00:00+00:00"
-  },
-  {
-   "titulo": "Ibovespa fecha em queda com inflação acima do esperado nos EUA e expectativa por pesquisa eleitoral",
-   "fonte": "Estadão",
-   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQYUdsbkVsd0xVS2lnLVJ1cjE5cFlFRFJnQ3M4TWF6bU9GNnhmVGdjcWpLWF85RDBkUXQyYnY5czZlVGY2emJKeVhuVU9zMWpmWWdVak1QajlUMjB4OU5yaWZTRTRMRVZZSlVwNGRvVWhnZ1J3NmVtZkgwb3JyUE11alBSRl9IbkdkWnpNNHJ4WDBnSXh5UTVHWmU1MHcxZ0lfU0NCelI1dWgxSFByZmo3YkpUVElMMkhVbV9FdHVtWnJrd2dZQWhQM1BmRmdwRHdaQTFmZDRSUmJZRWl3dWZJZGRYY2RNOXBJ?oc=5",
-   "data": "2026-10-18T09:59:20+00:00"
-  },
-  {
-   "titulo": "Outlook Cabo Verde - FMI prevê menos crescimento e mais inflação que o governo",
-   "fonte": "Expresso das Ilhas",
-   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPU0J3bS1RRFlkYzR6bEQ4X2F4TnludnAxU251Z295OGRFQ05fa3NRSTdVX1JpZkkyUlFOT3VYYk9fSDFueDRNZGV3Q2Z6OGtYZzVWN19qcDV5bFh6aGUtdGhsaE54NWxfbWd5dTlFR3pyMkFTR1FjMDktSHY1RHpDSVpoVlRHMVdDVUc3dUxQWGZ4czFhcWpSX2hDSmNoSnM3TDBISkJkbGNWMkZKd0hlek15M2NqVmhXa0ZDYWF5dUQ1NXV6bmNIb0U1WQ?oc=5",
-   "data": "2026-10-18T09:57:00+00:00"
-  },
-  {
-   "titulo": "Inflação de combustíveis em 2026 supera o dobro de 2025 mesmo com subsídios",
-   "fonte": "politiza brasil",
-   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE13QzNmNlUwejI2OXRwcEo0YlpJZm1SY0MxZG1KQjRudmFDM0Vxckx5Tjc2alVjb3c2X1BuU2x6TnZ4eGdkZE1qUkt1RDRZTGNaTnpXYW5TbkNlWGd2ZjN4SXZPZGF5cWdMcmUyODR4WnUySmE5MlE?oc=5",
-   "data": "2026-10-18T09:33:39+00:00"
   }
  ]
 }
