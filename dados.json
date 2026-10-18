@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-10-18T14:30:58+00:00",
+ "atualizado": "2026-10-18T15:30:05+00:00",
  "indicadores": {
   "selic": {
    "valor": 13.75,
@@ -16,6 +16,30 @@
  },
  "cotacoes": {},
  "noticias": [
+  {
+   "titulo": "Ibovespa em alta: Olhando para o cenário eleitoral",
+   "fonte": "Diário do Estado",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQRHJHRlJLSldZMEpQWnYyZzBZaEpiajFoZWxGVHFhWTMtRjhoX1ViQWFuZHdjdk9vMC0xWDNiNlFaWjZKNFNNeVhXak04U3c2UkhnSmNMSmcxSmY1S1Rub2tnZ05halpYaG5FUnIwUG1iVkw4eTIyQk9EQWdiVlZZTHU1Nlk0NzI5cXc?oc=5",
+   "data": "2026-10-18T15:00:17+00:00"
+  },
+  {
+   "titulo": "Protestos contra inflação deixam um morto, mais de 500 policiais feridos e quase 1.800 detidos na França",
+   "fonte": "www.noveen.com.br",
+   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNdkw2RHlINDJ1VF9teFdGWVZ1OGpMYTA4UzZOWElTczVHbGV0a2xIZVU0cnlGc3hJVTU0Mkdob0o0Q1llMXBUTEJYWEtreW5VNFZXdDU3N3RhLXRDWjJfeER4ZksxamxEc3VHUEp3TnlicE9NWE02b3BEcWRFM0Rab3k4U2hfMkEwNHVmN0pDdFdrWmlKMG1ORmVuVEtCQ1ZVVDNydllEb2FxamhRUGMwaFhsWEMzRXRVT2R0RXhxeUUwQjRHYXRqUmhaNmxUYjExX2pULWU0RTg?oc=5",
+   "data": "2026-10-18T14:42:00+00:00"
+  },
+  {
+   "titulo": "Meloni defende policiais após confrontos na Itália",
+   "fonte": "Jornal Correio do Brasil",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQUEJkaERaWXJoTFktd3pJY2U4LXhKY2kzc2dIMVV1c29HdkNzelhaZmZyZk5WMjRIZ0d5NDF2cERxMzVObWdDcGpwRDRqdjY5TVp6Q1dvbnVhTHhUSXo4U1FWRmxTQlo4UF9pYWdWVFJWdEZ4SFZNd3Vjc3d4RFNCQVhOUHROdFk?oc=5",
+   "data": "2026-10-18T14:36:20+00:00"
+  },
+  {
+   "titulo": "Pequenas empresas dos EUA mantêm confiança, mas inflação e mão de obra preocupam",
+   "fonte": "Revista Empreende",
+   "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNb2tNczRTeFptdm1QVGhjZlo4TVJqY0VqSW9UTmxzb3M5U2dleUJjQkxtb0JQTVR5U2hwMk1Ea3lhdnlaRFNCLVJwZ3h4cUtMdmd0WXFib0dYaVo4SDZsM2QyRjM4S0lWU2VIVGNJVVZ6TFhkcEowaXA2WHNEMW9oQ01uVXM0eC1heXRjS0U5WG5XczRwbmhIWVRzZmF3RlBjcVlpaFQwZTg0Q3Z3RnFCMDBGWGNEYU5vdUZhUk9rN3I1dXJqUGJKVEdjQmo3YUtJaDFacDByVTdlWXlBM2UyRGc1SDBPWkRnaE1R?oc=5",
+   "data": "2026-10-18T14:35:50+00:00"
+  },
   {
    "titulo": "Macron enfrenta reta final de mandato sob pressão",
    "fonte": "Jornal Correio do Brasil",
@@ -59,34 +83,10 @@
    "data": "2026-10-18T13:48:55+00:00"
   },
   {
-   "titulo": "Ibovespa recua após disparada histórica e investidores encontram nova oportunidade para comprar ações",
-   "fonte": "O Petróleo",
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPWmdDa1RtTmktcS1GNmJpV1U0QXY0cW53WXdCVkV5NVhZNGJOZWppSnJWdDF4dUN6X2Rwbk82MVdkdkZpbjhtUnpXNDJXQ1dWYnpCOGllbFJCbGllOHZoQkZTQnlXX2M0TGNlajJSTW1HZGVSaDJnaVUzdEVmSjZUaDJpWkdFRE8wTVQ4ZWtGMmRDUG50VjJaNkxyZW5kMV9jY2d3R3dNY3gtVGZxSm5KYWE4YThQdGRvQy00Q2xhc2RFNTJVYVE?oc=5",
-   "data": "2026-10-18T13:30:32+00:00"
-  },
-  {
-   "titulo": "BRICS prioriza pagamentos, investimentos e cooperação tecnológica, afirma diplomata russo",
-   "fonte": "O Mundo Diplomático",
-   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQRF9jVW5PcUU5N094TGVKbUhVbGV1XzJCbHdfWlMxOGphMUQzWXJKYzhQS2ZIMzJnWWpvVlR4bTZZUFZKR1RKRUtxZVUyak1YX1gzWGt0MW9DNDNOOEVsd0NzLUxqc3Ewa2tDVFRucmo3MWlpQ3ZmNjJaaVp3OEdKN29zYkZvRk9xd3J5MlRzdmpEUWdlNUczUEhjYmlxYmlaeHA2WDJFVkRqV0xPek5xQmJsNFdIbFhrQXJxc093MXN3blJ1d2Ryb2J4UTI?oc=5",
-   "data": "2026-10-18T13:26:26+00:00"
-  },
-  {
-   "titulo": "\"Não é hora de vender Bolsa\": Inter eleva projeção do Ibovespa para 240 mil pontos",
-   "fonte": "Money Times",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQR3VCRHI1ZkktcGUtVVduWVpiSlpRR05lMkhncHBlWXh3eWhSLVBBWmFHNEpPdThUeDVJWDZ4XzBuZkJWU0FKSENrSnBXN0NZUmFTWGQza0Njb3Jvc3M1RVhNdHF6dEg4aXo5b0s3SG5HeU5qd1ZWQ1hzSUNOcGlORVRaLThUOHQ1VXI5cXJ4c21ucWRBbkxjUDBBOFVQZXJLSzFUWUJuamx1S3hFT3FRbUZLeG41Zw?oc=5",
-   "data": "2026-10-18T13:17:00+00:00"
-  },
-  {
-   "titulo": "“O Conselho Administrativo de Defesa Econômica (Cade) abriu uma consulta pública para avaliar possíveis mudanças nos critérios que definem quais operações precisam ser submetidas previamente à autoridade. Entre os pontos em debate, um dos que m",
-   "fonte": "Instagram",
-   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1HbWcxdWJ5bW5WSC1jYWhHVnI3TVhxUjBzQjJiVXV5cm5mblR5QWhSV1ROLU40ZnZYSzJlUWhUODYwUnZNekx1c0IzV2JLUXg2QWc?oc=5",
-   "data": "2026-10-18T13:15:04+00:00"
-  },
-  {
-   "titulo": "Ibovespa avança com mercado atento ao cenário eleitoral",
-   "fonte": "Diário do Estado",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNMm9kRnlWMV92VGtKYTN3ajVKRnVlY1FUMjB5S1hfX0s1Qkd3S21QQzFfM19zZldVa1dEcGEtaE9kUDA2OXhnNzlnNHF0QlBpYkUwWjlYSDh4SUxnQmtRUC16MlFENlVpWmlTZ3RDOGczd3BtQl9hNFdnYXFhU3psZmFxbHN2YTdydUN1NEFDM1Rpdw?oc=5",
-   "data": "2026-10-18T13:00:23+00:00"
+   "titulo": "Siderúrgicas começam a retirar planos de investimentos da gaveta, com menor pressão das importações",
+   "fonte": "Estadão",
+   "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPeG1ZYWV6aUxfek5WVGlWRkFldmhJT1l6U1BubHc4eFg0NG9pUzlnR2hXblczaE1VRENMNDRRLVJkWXIzY1N4bTVtaUVPNnhTMmc0UUZaYjE5aUZXdGJ2MWtUdGdyM2cwS3E4QUZwSzRDLU1TdUloZUxvcW4zQjB5RlZuZU12alZvWXY2X1VGQ19DM04tQ2N4MEVXRkx2Q0JlS0F0VVZDMVJfYmFpd19OaEhBdjJ3RTZZc1pnVWY2bFMxWXdaNkhtdklvYk1RZTB1TDVlRm50aEI5REhMQ3A3dlA2cTkxdUk?oc=5",
+   "data": "2026-10-18T13:38:10+00:00"
   }
  ]
 }
