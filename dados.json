@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-10-18T19:28:42+00:00",
+ "atualizado": "2026-10-18T20:31:00+00:00",
  "indicadores": {
   "selic": {
    "valor": 13.75,
@@ -17,10 +17,40 @@
  "cotacoes": {},
  "noticias": [
   {
-   "titulo": "Como americanos enfrentam a alta da inflação: 'Já fiz coisas insanas para sobreviver'",
-   "fonte": "Terra",
-   "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNM0lrYXJ1YUZyWldEdlBpX19EUnN6OGZISHJaYUd0ZjZIQ1pfeWNxQk5vaUw3bXpMT2JpbjRqaWJ0dHhzYXhxNjdhQ2RkUmRENmljTTlRZGJtYnpxaUgwUDc3VjNWbFJtZGwwRVhlaVZ2RG9GMVk5WndLN290UlpQbEFIWG9ySU1fS3pmcmZYUGo3UFRBcG14T0g5cG1TbDRlQmJWTlBzelQ0RXJfTDZaT3BjZEtaWm1ZbERMb1Vpa1pCM2pMNExkMHIxVHROdTRzdTJVd2x5T2d5c1pSc1o2NXgwclhxS0k4VVFmWXRQZ2x3cEtk?oc=5",
-   "data": "2026-10-18T19:20:00+00:00"
+   "titulo": "CPI indica reajuste monetário mais cedo nos EUA, diz economista",
+   "fonte": "CNN Brasil",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQSVFSTUotRDdhSW1xRWotSHlXWlVXaTE0elBraVRjUHR6M2gwdVZWd2dMY044MlU3R1dWTmRkSmFKV0RpalNFeG85RWxMb0NkLUt3UnNOTjR1ZDNwYmJoQmlTQmkxZTNUNUZTRlR0NEdmVDlwVkNiTGNBSmJJZTRxOWMwMUlyWXRnN2JiYUQ1ZFNBaE9WODVlUDlEX0NOdjI3eF9nTGUxV0NILXFaZHZlU01HQVhndw?oc=5",
+   "data": "2026-10-18T20:19:44+00:00"
+  },
+  {
+   "titulo": "IPCA-15 e reta final das eleições movem a semana",
+   "fonte": "SpaceMoney",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNRWRpcUtkajRWR2lUcHFPWHdQcnZ6WFJBZWpJbTV5RVNIUXFqdTZRRmlMLTJxY2xVd0FXNGRSME5mcDNvbHhIZE9BX3hQWUJXSzVPV1RleXRlT0d1eWttM1ZoNUVNc1l3NW4yM3ZpekxlS3lHbi1YcDRXWXltaGFlTHZjSDhKRTAxc0NBTFJBazFhWkZhUDhVQlBnS2k4ZVBYUEdfc21DMTc?oc=5",
+   "data": "2026-10-18T20:19:25+00:00"
+  },
+  {
+   "titulo": "Ibovespa inicia sexta-feira em alta após pesquisa eleitoral",
+   "fonte": "Diário do Estado",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNVmxEc3o1ZFN4Rl9FWU9WUWp5OF80UXVGWldaX0czUWd1cTRiTlVkOWxHOWlTN01zSEN2NmNQZWx4dVpla2VBeVpkTlJFV0dXRFJyd3BwbWJNYnZPX1RIdTVaRFFaSEJ0REloZk5pTjRQRF9Xb2Y4YlowRE5QVVFUbXNyTGtmampzUURESmdNZFhzUEU5eWhz?oc=5",
+   "data": "2026-10-18T20:00:21+00:00"
+  },
+  {
+   "titulo": "Aluguel sobe 9,13% no Brasil; veja as cidades com os maiores preços em 2026",
+   "fonte": "Agência GBC",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPaGpBUXBlb1Joa0hoMGtPV0hjNVVPTThKNzU4WUdSaTBuVjh5RkNQTWttTmc5ZEJ2VHd5M3c5akcwTXF4WURJR3pBQS10MVY5SjFlY1puNDhfeHNXTV95TGk2VkhTNFNhZDltWnhPeVdXN2RUU3VabW16M0o4WGtITUFuVXdiVnpwQjNQRUJSN0VhRGY4bDAxUkRENEZMd0xkcjJPMlN1T0psaXM?oc=5",
+   "data": "2026-10-18T20:00:00+00:00"
+  },
+  {
+   "titulo": "Inflação: como americanos enfrentam alta dos preços: 'Já fiz coisas insanas para sobreviver'",
+   "fonte": "BBC",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE53bjlLeHJyZXhYdWhIZVA0YVZObTlrMnNwUkdUbVRJcllILVFuR3BhZEVkcUF3alg0cDFRaWRtbnM0ODFSWEdQUVFCT0VEeHltTElQUEhwOTBUMnZRZm5vVEw3TdIBaEFVX3lxTE9saHBUU3R2UlQxYWZEYXdULWh5QW5lM1BLR1NOYUpPVVI1ck9QeExpZngxOHNHYWJHb3hzRUhmaGJ4aE5TVVBBRFdFLTBhWUZjNFZ0WlRVRFBKUTJ1R3psR2hLVlR6YTBI?oc=5",
+   "data": "2026-10-18T19:35:21+00:00"
+  },
+  {
+   "titulo": "Apoiadores de Flávio pedem que Trump bombardeie o Brasil",
+   "fonte": "Jornal Correio do Brasil",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNdHJLME5fOVVwVFdOWU1abmY1UlFWQU9pMFBBT3NNXzZweXg4ZDIwajdFQldLOHR5VlV2eGlBNGJWNmFtWEtzRFVscUN5cDNJSU5QLXJNUDRTN2lKUkZuZjNsUzJGQlFvOFRvd2ZJWDl0WktYRXFNTmh5YzhweW56R3JOcWtLd0U?oc=5",
+   "data": "2026-10-18T19:27:48+00:00"
   },
   {
    "titulo": "Ibovespa inicia dia em alta com foco na disputa eleitoral",
@@ -41,52 +71,22 @@
    "data": "2026-10-18T18:47:10+00:00"
   },
   {
+   "titulo": "Primeiro-ministro: Pronto para substituir os funcionários que não atendem aos requisitos, empenhado em compartilhar a pressão da inflação com a população.",
+   "fonte": "Vietnam.vn",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQT0xoS3NxdEJvV2l0eFExcDhBckkyZVh3T1BkRkxQOERFSnFaVV9RMFlZdWR4Y3FRTlVFS3NHRlZ3cWRFaF8tNlphOVVpSFJ2Z0tSVHBSREh1Tmk1TUJXb1BGYkZzZGtzY19XNEI1QmRmSmdCaFppaU9EZkVtSE94MjVJb3NDMGh1YXd2RFJCdHp4VnpNMlpFZWlBU0sxZWZMZ3hEd2x5b3J3NTl5VDEwZ185MjYwYUVzVTJCVmZqVjU?oc=5",
+   "data": "2026-10-18T18:43:17+00:00"
+  },
+  {
    "titulo": "Nikolas Ferreira cobra impeachment de Moraes em ato na Paulista",
    "fonte": "Jornal Correio do Brasil",
    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPQTNhN05BX1dHOC1oTXVvSDREME13Mm1vYjE2WkE0VWNCNDcyazZPckdoc09NTDN5SXVwT2cyZGhxSmwwQzJucUprRHU5OFE0XzJnZ0lzLXppcEowVGtUanAwOGVJOHpyM3VsTnI0X1hwdmladU42eWZxd09NbThuVndtLUNSdUR1Q3NjQTJXb24?oc=5",
    "data": "2026-10-18T18:38:57+00:00"
   },
   {
-   "titulo": "Ibovespa a 240 mil pontos? Inter explica por que ainda vê espaço para a bolsa subir",
-   "fonte": "Seu Dinheiro",
-   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOSXZZQ3VPR2RGM3EwV2RYX1lhdjg4VmF6Qklpa1NiZmFLcGNRMG1tVWJ6QlpGVzc4MDZ0MzBqZ2xfb1ptLTBfaGphQzdKVldRQ25aeGZHTEVfUUY0RkN5c0lCa0VCQ29ac3B5dTRhakRaQjZURWlFVlhGc3cxVVd3Q18zTEEySHNwUWNuTWVtZTNTSUcxLUZmcmJBU2NuZFFBYzBzbTk2QUwzaEVxRFpycERhaW13bm5waXJ6bVh0YzhXdTQ0Qk5ibG84bWdmdw?oc=5",
-   "data": "2026-10-18T18:30:00+00:00"
-  },
-  {
-   "titulo": "Estrela de ‘Rebelde’, Lua Blanco morre aos 39 anos",
-   "fonte": "Jornal Correio do Brasil",
-   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE44TEFIamhqU1NTMXl5dFhsOXlWalR3QnctaUJOQUtqN2tCRGpza3FFWkRNYXlaWGlURC1mdmttVkRjT3pCcDFBQTdoOUI0QnpsQ3lqTkZxTnJwdDNfYklnbVcxSnE1aEJWZjVWcW9VZjFXSFQ1dFlYNnpXcGFDdw?oc=5",
-   "data": "2026-10-18T18:18:44+00:00"
-  },
-  {
-   "titulo": "Índices x ações individuais: onde começar a investir?",
-   "fonte": "CNN Brasil",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOS2FzVVN6OG1TZUk0WnV2RXd5ZlBIdnNmSmM4UGoxVHNOYlBvQ0c0d2hzUG94eXpHZHlXQUF3Y0otYXhLZjV3SDZOMUhvUFdKQ2NZMUxYM3Y2ZGZDNmZDd0dWbjJBZllOenRXV2Y2WTBmUzF2Smt2N01oZ0l0M2thejlMOC15SmRPckRYT2U0T2Rhc01ubEI0SGY2VVI3UXoxZTgzMDFPMA?oc=5",
-   "data": "2026-10-18T18:00:20+00:00"
-  },
-  {
-   "titulo": "CAOA Chery supera 400 mil veículos emplacados no Brasil e amplia investimentos",
-   "fonte": "Mecânica Online",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPMWpaZFJZcXJ0d0ZWNG9mN3ZmSFY2RjFMeERIbU5OanQyVHlPWG03WTdQemRHQktBTUdPS0psMTFkMlRTVkRiM1o5WWxCX1dHRVR2MDl3c24wV3d3RkstNi1XZmhEbE43eDJOQVR0Q2ZVUU9yRHJPZDRWbTZwcVFpSHQ0dXdSRXNiYS1FNk9OUFFZT0ZVblRfbmFxTzZaWF9kTWZiNlBwTHk1TUJseHR5Vmg0TEtGNHVS?oc=5",
-   "data": "2026-10-18T17:28:00+00:00"
-  },
-  {
-   "titulo": "Primeiro-ministro: Mantenha-se firme no controle da inflação para que as pessoas possam desfrutar dos frutos do crescimento.",
-   "fonte": "Vietnam.vn",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOcVhOZlVPTDFVR19wNzJrMTZDMWpCaWx6X1V2Z1diM1VSR1NZWXBJVVhIWFVpZ3R1MzdWa0k1QUFrYTJWQkhTak01b0NueXNxWnJrd3lvdHJUd29LTmM5TEpBcmRSUXg2TEtzNGpicXFnQkpQc1hXMU1abExLVHcyaWJpNmM3Slhtbm9fcHRFUjdzajN3Z0JnMEtCRDZtT1AtOVNwUkZxejIxR2dZOF9lZHM5SQ?oc=5",
-   "data": "2026-10-18T17:25:19+00:00"
-  },
-  {
-   "titulo": "Ibovespa inicia dia em alta com atenção no cenário eleitoral",
-   "fonte": "Diário do Estado",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOdzJBWlJ5Z2xocG5ieml5MWdUQTM5TVozN0FYSC1CVmV4NHRHNV9jZGRGbjB6V05rWXpJM1NXLS1IRXRUZjdOU3BScml3clNZQ0ZOUmp0TzBFYkNKMC1KNmpkcW80T3hObzlvTWhPN1VJNU5lRmhzMld3bnNDcjAtcm1pN0tFQnp5bWVXcEdwLVJISHZKcG9IUQ?oc=5",
-   "data": "2026-10-18T17:00:17+00:00"
-  },
-  {
-   "titulo": "Energia solar no Brasil tem R$ 134 bilhões em investimentos ameaçados",
-   "fonte": "Times Brasil | CNBC",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOajFpWGlFMnRMWXlsSEJibTdFVFNVaTRucnB5NjQ5QVJCaEljdzJwZm13M180MjNpVlpQU1U3RDQyTi0yMHZYOFdnOUYxeDdaYXBTcTBKQ0g5T0lHNEpKS2lrRFpIcDhCcWVHdDd1b0dkblQydDEtMVViaWhWcUptWlA2Wjc1NVFjcU94bkhaNThXUWM3czkzUWY1WjRrWHJxRGlGTUtMcS1PVWJnT3JBTzFsYkZGdHFQMnhMTmEwWGVDQQ?oc=5",
-   "data": "2026-10-18T17:00:00+00:00"
+   "titulo": "Michael Saylor sugere nova compra de Bitcoin, mas STRC falha em bater US$ 100 enquanto reservas de dólar diminuem",
+   "fonte": "Livecoins",
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOV215UEs3Y2F3M3hiV1paYmowY1VRS0c1VVRMX1htYmhwa3RiMXNiendMV3BHN25PNElkODVlWUE0SGhfV29mWDhacnhHRXJXX0pLUmkyNXNZQzBRX1ByMWNITGRCT3p6bW9FOEtVZnYzaTlPdEhzeFNCZmtNalZOWjZwTjVWSm5zOHZYRTV0b3FZRVJHSjh3d0VtS1JpWThkeURXaVlwdWdZN1lKREFNckdmUGlGeVJlcHhSSF9xYzJnOXRWaXNaX1JQVHVRWFV6QTdB0gHYAUFVX3lxTE9pMTc1Qk11Vkw2Qk1RU01YbnNjOVpPQmJqNDdLQ1dtbWM4SXRoazM3cDRrVExvYk1LWURObDh0MWQtdTE1dTlpbktEZm9TcmY1RHh6a0pudEJOc0VXcHh4TzZkVHRsanhwRHAyRzdTa3ozMWoyMHZoWC15TXpaVE9lVlZrTXF4a1BjcW9WekdzWWZiaURmMlh0T051SGw4N2tuV2NPMzlCNWRuajBEOURvZXpmSEFxODZrZ3JTRnFxeG92V1FwR2VhZldObUU5aGdtWEhOdWs0ZA?oc=5",
+   "data": "2026-10-18T18:30:49+00:00"
   }
  ]
 }
