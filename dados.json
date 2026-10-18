@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-10-18T06:37:47+00:00",
+ "atualizado": "2026-10-18T07:34:10+00:00",
  "indicadores": {
   "selic": {
    "valor": 13.75,
@@ -17,10 +17,46 @@
  "cotacoes": {},
  "noticias": [
   {
+   "titulo": "Marketing esportivo amplia debate sobre novos investimentos, mídia e conexão com torcedores",
+   "fonte": "Revista Capital Econômico",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNSmtoOWZrTTVOMHROQ281VUdEa0Y0Y1NkWElWWFp0cmtvcFM5TExURGdBWG5OT2hTaUhxZDI5U2NZNUgweFpHNE00WjBMYlNZbDZ2ZUswTWlZcXRBS3QwV0tKSldXMnlKYXpqWGFuSFhUYkhVeEhkMm54eTBiaVYyRlpIOWZOcHcwWkM3MF92dEx1aUdsZ19yRmNHc19Bc09ZQkc1LWR4dDBWU2lraVhMRVhDc1BkOFBaZzR5Q3pDNjA4NWotcWZoeUN3?oc=5",
+   "data": "2026-10-18T07:09:00+00:00"
+  },
+  {
+   "titulo": "Análise: Inflação alta nos EUA pode frear queda da Selic no Brasil",
+   "fonte": "CNN Brasil",
+   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOdFhncE9EeFBETk9DbW1kTV9TTHdtT0hRUEVzOU5qLXl5LTRQQTM3bTZoZnF6M3MwNk9xdzNpSUdWcC04ZXllaFV6cUo3eEdlSlpmNVFHUkZQbHRjdmJBdk50cVVJS1lGWEkycmF2dUdlZlJRblYtVC00VmZxUzJqcEh4OG9iWUl4Smh6ZE55S3hOUmR6dnhJMVBKVmIwMnlaQVV6Yno2ODJmbkE3bW8tNWdTM0lIWlF0T3lxSjlqRVRzejV6S0QxRno1T093WVNkT3VLcm16TGp1SlBUUVlB?oc=5",
+   "data": "2026-10-18T07:00:53+00:00"
+  },
+  {
+   "titulo": "Nobel de Economia 2026 premia Hall e Woodford; teorias sobre juros, inflação e expectativas ajudam a explicar desafios do Brasil | Por Carlos Augusto",
+   "fonte": "Jornal Grande Bahia",
+   "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxPZnZMaHFyc2hNVVBuQjFVbGtHTTJSV1BZeDkyeTR3aFI0cjMzT2JPNHNVOEQyOXJyNGFCdnNIRVZ0eTZ6REtSVjZJeXBwOW5FczdxSlg4MEJoV1N6T1VHSTMyUW1uQVIzdGR3SGN1R29NLVhMZllWc1BHTTlxZ1hHNk8wempxWmY5TVdFQ0w2UWlTYWt5aXQxR0FDdVJucGVuR2MzRkdFTjJzSWFYQlNNTGNjWlg5UGRPdmI4Y095QWMxekowNVprNHM5eWJfMHQ5SHJ4VzB2WHY4OWNHb3BGd252TDNiYktZYkpUME1aeEJMUFBkM2F6eW5Qb3o2RGZPOXEwblhWOFdCemZhZEVTUTltMTJxdw?oc=5",
+   "data": "2026-10-18T07:00:28+00:00"
+  },
+  {
+   "titulo": "Com perspectivas mistas, a marca de US$ 4.200 por onça continua sendo um desafio para os preços do ouro na próxima semana.",
+   "fonte": "Vietnam.vn",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNUXdJQlE2TGpVUGJTa3hfbWJqRFFGQ0V3Zjd3TjB2MVE5UXhxcTZ3QnB1S1NWNmNlcFR0NGVZd0dYRFBYYVZZeUluUmVoLXFEalpIQlktcG9FZFpFZHpCU3BjV0hfZ09IZDA3U0pFbHB4a05JOHRxRHJUS3pJcEdDaUlUS1RNTktfTzFKNDdYSDBUdEJpWWZpdHJjNnk1QWFjTkZlS3E0VnNkT1NCc2JuRDU4QS0?oc=5",
+   "data": "2026-10-18T07:00:07+00:00"
+  },
+  {
+   "titulo": "Articular o desenvolvimento de energias renováveis ​​com a atração de investimentos e a promoção do crescimento local.",
+   "fonte": "Vietnam.vn",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQSER3dUIwamFaTXNEMk1NdW8wNkpEMFJvdE8zOXpBYWtweFdyQzVCWFN0c1pabGR1RmZHYVBtSmxsVWM2dTh4aFBNTVgtX1VqaFU3VS1hMmg2RVFUdWRYOFJHeVV1MkR3QWxxb0VEMG5jU2szQnF5d1FMTFpiNmt2cXExaDVUTXZZUVBidjNCMHFOSEtpMUxHa05xYVRkcmpPdnRqRGJmRU5wRVBB?oc=5",
+   "data": "2026-10-18T06:58:33+00:00"
+  },
+  {
    "titulo": "Opinião | Por que Trump tem medo do Pix",
    "fonte": "Estadão",
    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQN3dkOXBLZURacDVWNFh4dGVtMGQzOXI5cjRnUGJpN2x6cGpxNWVvT2RWaHBncEh6Z21wT1pRZk5qeEJSQ1Bia2xQLVh2TmFlMHgwOE05UFV5bW8xa2ZXemt6ZVBXSFh3QkxaTkYxWXZYSTJYbU52VG4tc1RNSEU5bHNZU29Ndw?oc=5",
    "data": "2026-10-18T06:00:00+00:00"
+  },
+  {
+   "titulo": "BRKM5 Saiu Do Ibovespa: O Que Acontece Com Quem Tem A Ação? South Simcoe Police Enforcement Blitz (OHMO4h8KQk)",
+   "fonte": "Unisba Media",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5CcnkwLUJLTmN1N21RdzAyNVRNS3hIcHEtWjdoZEdVbVFja0NGQUltcUFqSEtIUlFPMzRrTUlkT3NkcmlNNkpEVlpUVkRMTDNuQ3k2YnZrZ3ZRLXgzOGFjTjlKTGVsbXhCRzZF?oc=5",
+   "data": "2026-10-18T05:04:59+00:00"
   },
   {
    "titulo": "A inflação corrói o poder de compra, e várias companhias aéreas temem anos de dificuldades.",
@@ -51,42 +87,6 @@
    "fonte": "Estadão",
    "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQajRfZHZMNmFMUEZCYUpLU3U0V2VFeEZJakp0UmpKR0UzMVZVZGxwUmotdE9jNnZNNjFqb2FQTW9MdEVXZk9GSkcwVUlqeGk0VGx6QUYtdkJkNHpXYUhKdWZKUzV4RDBYSUZ1SVJpVVExLTQ1TU1UUUwwVjhuLU1YLUNNYTNHeGVISGl4SXFXZndCQ0JKX0FQcmVGU21Lb1FxMVZ6R0ROWVhfWGNQODRDTmZ6X3hqbG1jOWVRNVlJdjE5SElXeDRTSXlkY3hqNnhyelNNX0FGWnE0Si11em9z?oc=5",
    "data": "2026-10-18T01:46:38+00:00"
-  },
-  {
-   "titulo": "PIPA GANHA PODCAST DEDICADO AO MERCADO IMOBILIÁRIO, INVESTIMENTOS E SEGURANÇA JURÍDICA",
-   "fonte": "Hilneth Correia -",
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPalpHSjVQTFBfSmtUYzBqRWU1a2lDOC02OWFmaVA5X2c3ZnFmNlluMzFkN1lYa2pMcGNHZzhEYUZSTFhSSlZWeGlXb2ZqdzFwcm9Cb0FMY2NMdmExbTUwbFpNS05odTRjcWswNXhhN0tKNnRLV0c0alBvWDlJRkk1NTBMekZPTC05ZnVqTW9qUG5MZ21HYU43ZnJ2NzlGNDRJbUlYUFNJRnlsUnRLbXlXdVItaWZ2RGtEckRlNVpvRUlrOWVtQlE?oc=5",
-   "data": "2026-10-18T01:41:04+00:00"
-  },
-  {
-   "titulo": "Venezuela espera US$ 76 bilhões em investimentos no setor de petróleo",
-   "fonte": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOT2gtVFJkdnkxaHRYdlFZcFNFV0hRZjZTeVlUVFVqWk9WWjl5Mlpjb2ZTU0VhRF84S1pzWlVUYnJVSFlXTEVYWFZlZDU1cW42OFk3MHVQOER3TkJkdjFhb2FZSTFoUEFyMUtnc2lSV3FaMXFjVE1qczdET1M1dnlFb05kZ09ROEtoUFlXZ2xZYTVTelNRZHRfcVdjSVVXZl9MTlcwU09KdzFpc1JJRXAzelJlVkpsY01UYjA4?oc=5",
-   "data": "2026-10-18T01:25:00+00:00"
-  },
-  {
-   "titulo": "Taxa de câmbio do dólar americano hoje, 18 de outubro de 2026: Ligeiramente reduzida, enquanto o euro e a libra esterlina se valorizaram.",
-   "fonte": "Vietnam.vn",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOVWhhWjI2NDdTYXB0REQ4RGZrbG9hQ3d2Q1U5UENfUDJiOUViLUF2WkNVMXQ4QjFIMV9aMk9fOWxDbjFEYXJORXFCQ1Y5NlYxM0VTYzVWeUdNUktUdVZPMjJMNTJRNmhsc01pcWlWVjFab1YwVk90OU51bHplOVUwdUt4OXRjYkh3MFBhLXB2RjlxN2dwUUEtQkJR?oc=5",
-   "data": "2026-10-18T01:05:11+00:00"
-  },
-  {
-   "titulo": "Ibovespa inicia a sexta-feira em alta com atenção nas eleições",
-   "fonte": "Diário do Estado",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQcXdma25OSV9DNkRlTHRkWGRnUE9SYnJMSHd3a2dLLWM3TUFhMWlSaHpPc0N6aE1GVjBIVjVsVlhhZnMzMm5XZFlfMWV5TjR4YTBiQk5Hb3M5M2JHTEtNd1NDUWozMjcySHpzRFJTOUdiZGRQUkxJeGpKN0ZuUzZRdEhvaUVQM3RPUy1UN0VIakFEbGRGZHpmMlRNZw?oc=5",
-   "data": "2026-10-18T01:00:27+00:00"
-  },
-  {
-   "titulo": "Vamos afunda mais de 11% e lidera perdas do Ibovespa hoje; veja maiores altas e baixas",
-   "fonte": "Estadão",
-   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQc2RRQWtGaGtKYnVHbGNJTmhlSnYyVjBpRFdpTzVRSjNqVVFBMXhuVzBEQklHcGJFMko5dS1jWlVuTXk2TVNGZ3F3dVlxbFp6Q19IVkwtdnRJcDhkV0NuRFhfSU45X2lEQy1RdVVIMTJVQWpwVmlQS2swV0RPeXZvTmlEbHpTb1RFblhMY2trRW96UVhaY1ZFcWh3bVBLZUdjcHFfOXBPbUc4bUY1ckIzSGdaRmRWLThfbXFoS05QcWtKNll5TUZ3LXFidG9GdWlyQW8yTWMtM20ySm5WS01MZ2NhLVQ?oc=5",
-   "data": "2026-10-18T00:48:20+00:00"
-  },
-  {
-   "titulo": "Cotação do dólar hoje, 18 de outubro: O dólar americano registra sua primeira queda semanal após quatro semanas de valorização.",
-   "fonte": "Vietnam.vn",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPNHktZnFHZ1hhbkVBZktSWm5leElsRWJkWXlEUWY2WHh1VVVhVF80LWd5QWJJY1VTWG9heEwtaE5hQ3Y0MWlxTFRDVnhaaWp2OENScnNORzk0MW9Hdk5fWWtHaVJFZW1odUd5V09jNVFEQU1VbWtoMkV6emhjUlFzZ2trVzEwN09HX2Q1MGNheE93cjR3N1AxYW5qbDU5bWtuT3JYaA?oc=5",
-   "data": "2026-10-18T00:27:00+00:00"
   }
  ]
 }
