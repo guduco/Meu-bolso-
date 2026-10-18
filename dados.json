@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-10-18T01:34:20+00:00",
+ "atualizado": "2026-10-18T02:32:53+00:00",
  "indicadores": {
   "selic": {
    "valor": 13.75,
@@ -16,6 +16,18 @@
  },
  "cotacoes": {},
  "noticias": [
+  {
+   "titulo": "Ibovespa inicia dia em alta enquanto olho está no cenário eleitoral",
+   "fonte": "Diário do Estado",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNTmFBbDFzM1lmWmxwc05Edzk5NG5RRHNGOEhyU25KeEZZYW5VY2xQLTA0akdnT0QyM3d1cDRqem4zaUVxVWtaMlZyam5LOG9GRWhtcGt1bk9BcDRoUjhSRV9pMTJrSktJSWh2aUotRUY0T0hweHVpYkFUM1B1MGFwWDR3aTZ1N3lRSi03cXRuSmZ6enRiYmNablNiMmdHamRIWnc?oc=5",
+   "data": "2026-10-18T02:00:18+00:00"
+  },
+  {
+   "titulo": "PIPA GANHA PODCAST DEDICADO AO MERCADO IMOBILIÁRIO, INVESTIMENTOS E SEGURANÇA JURÍDICA",
+   "fonte": "Hilneth Correia -",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPalpHSjVQTFBfSmtUYzBqRWU1a2lDOC02OWFmaVA5X2c3ZnFmNlluMzFkN1lYa2pMcGNHZzhEYUZSTFhSSlZWeGlXb2ZqdzFwcm9Cb0FMY2NMdmExbTUwbFpNS05odTRjcWswNXhhN0tKNnRLV0c0alBvWDlJRkk1NTBMekZPTC05ZnVqTW9qUG5MZ21HYU43ZnJ2NzlGNDRJbUlYUFNJRnlsUnRLbXlXdVItaWZ2RGtEckRlNVpvRUlrOWVtQlE?oc=5",
+   "data": "2026-10-18T01:41:04+00:00"
+  },
   {
    "titulo": "Venezuela espera US$ 76 bilhões em investimentos no setor de petróleo",
    "fonte": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
@@ -71,22 +83,10 @@
    "data": "2026-10-17T22:59:34+00:00"
   },
   {
-   "titulo": "Bitcoin recupera os US$ 82 mil, mas inflação americana ameaça interromper reação",
-   "fonte": "Estadão",
-   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPbGd3endZYmdtMW9CdUZ6UHNEMF9YbUo4MmhYcEpnZlBPZ2t6a3lXcTI3V0t2b0daMG5mcWdZM3RWNFFBX3Q3V0ZiSy1yUG9XMm0zc052d21FWWY2VklmYzRCd0xHSU1GSUloR0M4M0xkWTRLemlxa091b0czX3BIdUN5dmFBQllVbGlHRDFIS0FaMjZPUHJZZ2otZGVMT0VxRnMwUnR5WHBwbWl5bWtka3NjeTN3MmlDZzZHU1NLdlVWWDVjRmx2dnlpQ2kwUQ?oc=5",
-   "data": "2026-10-17T22:52:29+00:00"
-  },
-  {
-   "titulo": "Vamos afunda mais de 11% e lidera perdas do Ibovespa hoje; veja maiores altas e baixas",
-   "fonte": "Estadão",
-   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQc2RRQWtGaGtKYnVHbGNJTmhlSnYyVjBpRFdpTzVRSjNqVVFBMXhuVzBEQklHcGJFMko5dS1jWlVuTXk2TVNGZ3F3dVlxbFp6Q19IVkwtdnRJcDhkV0NuRFhfSU45X2lEQy1RdVVIMTJVQWpwVmlQS2swV0RPeXZvTmlEbHpTb1RFblhMY2trRW96UVhaY1ZFcWh3bVBLZUdjcHFfOXBPbUc4bUY1ckIzSGdaRmRWLThfbXFoS05QcWtKNll5TUZ3LXFidG9GdWlyQW8yTWMtM20ySm5WS01MZ2NhLVQ?oc=5",
-   "data": "2026-10-17T22:32:44+00:00"
-  },
-  {
-   "titulo": "Especialista aponta efeitos do cenário eleitoral sobre os investimentos no Brasil",
-   "fonte": "deolhonacidade.net",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQcHpBWDBXYS1ZME1RdC1iNU9TdUtxVnNPLU1FUnZYeHBCdzRiaGtrS1ZiYzAzUm9QM1U2blFXcmRjZzdNeVRTREgwSnZzUmJvVDVEOWk5YjhXQnlTNWNndktrVUdMNFE3ZGhYejBrSDMzdXJwd1ZlLXhvbF9ienhqSHNKRzNMZFZzV3BBRW5Od1NRNEZoa2xudUpXSGo0UVVYQnc3SEI4VEZ4aEVIdGtZVk1n?oc=5",
-   "data": "2026-10-17T22:13:38+00:00"
+   "titulo": "Montanha de códigos em Re:AOPG injeta gemas grátis e ameaça disparar inflação no anime-hit do Roblox",
+   "fonte": "Rádio Geek",
+   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBsZHBxWHBZZXFSNUI1bC1QWkxSUXZHYkVZc0hncExhRzBBYThldjNKVkZDQjR5LTEyUHc5b0ZTZUhXWE1CaUpBR3JTa0l2SHpOWGRxby00Y1V6YjBxcGV6ZzRIbDdIcnI4QmsxSTdheHhVYnM?oc=5",
+   "data": "2026-10-17T22:56:04+00:00"
   }
  ]
 }
