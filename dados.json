@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-10-18T18:33:59+00:00",
+ "atualizado": "2026-10-18T19:28:42+00:00",
  "indicadores": {
   "selic": {
    "valor": 13.75,
@@ -16,6 +16,36 @@
  },
  "cotacoes": {},
  "noticias": [
+  {
+   "titulo": "Como americanos enfrentam a alta da inflação: 'Já fiz coisas insanas para sobreviver'",
+   "fonte": "Terra",
+   "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNM0lrYXJ1YUZyWldEdlBpX19EUnN6OGZISHJaYUd0ZjZIQ1pfeWNxQk5vaUw3bXpMT2JpbjRqaWJ0dHhzYXhxNjdhQ2RkUmRENmljTTlRZGJtYnpxaUgwUDc3VjNWbFJtZGwwRVhlaVZ2RG9GMVk5WndLN290UlpQbEFIWG9ySU1fS3pmcmZYUGo3UFRBcG14T0g5cG1TbDRlQmJWTlBzelQ0RXJfTDZaT3BjZEtaWm1ZbERMb1Vpa1pCM2pMNExkMHIxVHROdTRzdTJVd2x5T2d5c1pSc1o2NXgwclhxS0k4VVFmWXRQZ2x3cEtk?oc=5",
+   "data": "2026-10-18T19:20:00+00:00"
+  },
+  {
+   "titulo": "Ibovespa inicia dia em alta com foco na disputa eleitoral",
+   "fonte": "Diário do Estado",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPVDc5dHF0Ujk1bEFKM0kwOXh3QWtmVjJURmU2aDJBd3VGdnltc1ppWlBQM3pMbk9VNC1JMFhRQk92aUZjSTBYcV9CWkZJZ25uLVQwVFo0VjNpbjRsXzhxNjIxTGk0bHE0a290Tnp1c0xXNGFoSG1pbTlmZVVMS19kSTF6S2ZWeHpQV1VtZW91VkV1Zm1x?oc=5",
+   "data": "2026-10-18T19:00:17+00:00"
+  },
+  {
+   "titulo": "Lagarde alerta para efeitos do choque da energia na inflação e descarta candidatura",
+   "fonte": "Jornal Primeira Página",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQYXJBa0xBSFJ5YjhlOEozb0pCRXlBWG9NZnhaMS1VdlAxOXgwRzVYbS1PVl9VblVmd29hY3BUMXdoV0tBNmpLR094OUFsbDIybElRNkY0RTdXVnFHYm5tRnFvVERiNTluUVNrbGYzX1AtYVV2aEljbm9Za3VlVU1HVjFKcVd5alE2aVk2ekN3b0NvVzhzbTF2UE50UEwzZ2ZXVE5JTjJNaTFJSUR2ME0xaGFaS2QycHlBXzVoZUwxdUNBSFNLbUltX21TeUQ?oc=5",
+   "data": "2026-10-18T18:53:02+00:00"
+  },
+  {
+   "titulo": "Apoiadores de Lula fazem ato pela democracia na Candelária",
+   "fonte": "Jornal Correio do Brasil",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOMmxfQUc4Mk00ODcxd1lTQXVZZkllSXBhcTJ5X3UwTDZ6a1AtSnZ5YzdqNzYwa1JLM3JLWDJFMjVERnY2Q1RwTWhXVl9UeHl3SkVuQ0U1X3UwcG0yMEtpLVl2RDZVdllyOFR4NklTVVlmRE5yWG5rZGxhbjZrSjByeDhMX2o3N1A4Y1ZreUFR?oc=5",
+   "data": "2026-10-18T18:47:10+00:00"
+  },
+  {
+   "titulo": "Nikolas Ferreira cobra impeachment de Moraes em ato na Paulista",
+   "fonte": "Jornal Correio do Brasil",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPQTNhN05BX1dHOC1oTXVvSDREME13Mm1vYjE2WkE0VWNCNDcyazZPckdoc09NTDN5SXVwT2cyZGhxSmwwQzJucUprRHU5OFE0XzJnZ0lzLXppcEowVGtUanAwOGVJOHpyM3VsTnI0X1hwdmladU42eWZxd09NbThuVndtLUNSdUR1Q3NjQTJXb24?oc=5",
+   "data": "2026-10-18T18:38:57+00:00"
+  },
   {
    "titulo": "Ibovespa a 240 mil pontos? Inter explica por que ainda vê espaço para a bolsa subir",
    "fonte": "Seu Dinheiro",
@@ -57,36 +87,6 @@
    "fonte": "Times Brasil | CNBC",
    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOajFpWGlFMnRMWXlsSEJibTdFVFNVaTRucnB5NjQ5QVJCaEljdzJwZm13M180MjNpVlpQU1U3RDQyTi0yMHZYOFdnOUYxeDdaYXBTcTBKQ0g5T0lHNEpKS2lrRFpIcDhCcWVHdDd1b0dkblQydDEtMVViaWhWcUptWlA2Wjc1NVFjcU94bkhaNThXUWM3czkzUWY1WjRrWHJxRGlGTUtMcS1PVWJnT3JBTzFsYkZGdHFQMnhMTmEwWGVDQQ?oc=5",
    "data": "2026-10-18T17:00:00+00:00"
-  },
-  {
-   "titulo": "Mesmo no vermelho, carteira da Terra bate o Ibovespa; veja as 5 ações para esta semana",
-   "fonte": "Seu Dinheiro",
-   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPd3o3c3hRYVBUTzBBakVxbWQ2aFdOUHNDell0anpMcWwtczdEMi1iM2JKa0hGMTVMOWFvSk11RmpyOEs5ZUl4ZGRqZ1VMTHJtVWdERGc5MjZDek45YlFPT3ZzZlFXUHZGeG1lTm45c0RYM3AzTWFBeHBtajQybDFCU2Y0LXBNczBGakZ0UUhET2g0QmV4TVlnWjg0X25hZTBYRzVKeW1LeVpzR2xCYXg5bG9OaC1wMjJCS2hNdlgxbzN1bm1KVTFETGpXa1E?oc=5",
-   "data": "2026-10-18T17:00:00+00:00"
-  },
-  {
-   "titulo": "Mudar de emprego já foi uma das melhores formas de proteção contra a inflação. Agora a vantagem está a desaparecer",
-   "fonte": "CNN Portugal",
-   "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxOX19NblVsbmhWVW9lUjhNdWQ1U3dkbDBsY0xJRkhOUjZJNC10QWt6cUU2SXdzckdlbzlrZGZOaUNaMXQxSFhaTUdSZ0xJMFN3Mjk3SGJ4WGd0dW5OWFNta0lDRjdRM3pLVlVxRnlBZHNjYzRGX2pXWktGZWpBRTJaaHQyWXBHLW9aNWdOUE9XQ3J5bGFFU3hOd3VVNDU2UXdDenpPZXNwSEk2TUdKelY2cjRTdVdZcE43d25YYUI2Mk5weTN3NnV3cWEyU3U4N2kzLWFHbS1vTkJIOWZqRnd6eko5QU5jdU00aE56RVZEbTVkaEtEeS1OcVRvMXY0VGRkd092eUltaUJQNEdJYVJ4QWU1S3FxSTV0eDNOdFVRYzhzUEE?oc=5",
-   "data": "2026-10-18T17:00:00+00:00"
-  },
-  {
-   "titulo": "Plano de Flávio Bolsonaro para armas ameaça crianças e favorece facções",
-   "fonte": "Jornal Correio do Brasil",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPeVlIZkd3b2E0OGxSYUlnXzBUS1pWWXJQSGFPdnNPbzRxczh4SlJTOWVLUzZINXFMM3BGSXY3RjJlbGhYWGdSQ3JUZ19MRE52TG1yZjVtdXNQUWFHSWF6WXpLOU1PU2hqWUJFVE1keDhvVF94MkhXa1duMHpJZUpmUlZfNTlNcGEta3ZoS1pmU04zZnZSNF82dk1B?oc=5",
-   "data": "2026-10-18T16:57:48+00:00"
-  },
-  {
-   "titulo": "IPCA sobe 0,82% em setembro, pressionado pela energia elétrica e pelos alimentos",
-   "fonte": "Capital News",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQLUZqVW85Zm55bk41RWJUSjkxV1FNZVM1Y2RGUzcwZjZsWklESWZSSTJUbEJaaUZfZ3piTUs0eEpPd0FwWHRlWnVaUVFadGlqY0kwaGlJSGRpR1VGaEM5QVA0YjJTYmlYVjk3UksxOUo1TWJXU0Z6bDRyOVVORDZ6WGhOYVJJSU9ucEdsMGZCMlFPaldNcXVNN21HOWJzUHpWYkxpR2o4SVh1UWt4d05FWGRRU0JoZ3VXWXEtNE1fUUhIUQ?oc=5",
-   "data": "2026-10-18T16:51:00+00:00"
-  },
-  {
-   "titulo": "FAZ O L: LULA TORRA BILHÕES EM SUBSÍDIOS, MAS COMBUSTÍVEL CONTINUA SUBINDO E INFLAÇÃO JÁ É QUASE O DOBRO DE 2025",
-   "fonte": "Diário 360 Notícias",
-   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQdWd3cWdqZG0xSV9DOWhnTWVNekNpYnFjdHlPamkyZEtxNTI5OXRQaFVHR3VHdEJfYmY2YnVMeFY1YWZha3JTN3I4TmpGMVZwVVlfb2pkajJaUDF5bWJOWHh3QUtlc0lSZTRCdmp4UjFJeXJOV0RPYWJ3RHBLX2JTYnVWUXdxTWZqVHdwRElsRDFvZVV5OTcwME00cnczZHlEVk5tVzRYM0JZV242VXFrVlRHdDdqX19xa0lOaGpURC1LMVFHOW44QWYzZnFiaG1Bak40R2VoU3VwNV8xamk4Rw?oc=5",
-   "data": "2026-10-18T16:45:00+00:00"
   }
  ]
 }
