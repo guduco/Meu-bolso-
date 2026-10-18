@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-10-18T13:32:29+00:00",
+ "atualizado": "2026-10-18T14:30:58+00:00",
  "indicadores": {
   "selic": {
    "valor": 13.75,
@@ -17,6 +17,48 @@
  "cotacoes": {},
  "noticias": [
   {
+   "titulo": "Macron enfrenta reta final de mandato sob pressão",
+   "fonte": "Jornal Correio do Brasil",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNcVdCZ3dOYmlTVXJPdmhHOERMNm5fTFBpbFREVWREVEdsU01zQkNsUnl3SGJRNklOYWFpV21FZUU0dXpkdDB5RXROT3NfRzZKQUQ4YzNUWW5fZV9BTTZfWVZPVC1Ja1NGZ0lBcGc3M1JxTEMtYnQxZU1kTFc3S2g2andmTTVRZw?oc=5",
+   "data": "2026-10-18T14:22:31+00:00"
+  },
+  {
+   "titulo": "Japão envia sonda para explorar lua de Marte",
+   "fonte": "Jornal Correio do Brasil",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE13ZHpHeHI1WlY0ejJpUVBSazVSZWQ5S0U3cEpCd2R4UGRUUEN6MG01aDlyRTU0dVZ2RTloOG9VWGJrRkpuMUZreGpkeHpONkpTSFZjQkxJQmQ5el9US3l5eUVJa3dNbWVFcTh0TUIxQlVJa2pIcWFvMg?oc=5",
+   "data": "2026-10-18T14:11:10+00:00"
+  },
+  {
+   "titulo": "Papa retoma agenda no Vaticano após alta hospitalar",
+   "fonte": "Jornal Correio do Brasil",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQaWRuZFVOY3hobjJfLVlwUmRNTGRhVEpVWlc0X25aekh6cnpSZUk2WlRUOXROb1lKMWtIUHFWeVM3UVVOTFlmNXByelY5cEJXNDBnXzYyMkd0WFRMUnFrak1WR2w0SUJ5SHpvLVNoZ0lwS3VnTjNPaHUtc094ZGNjd2RwbDJnV0ty?oc=5",
+   "data": "2026-10-18T14:06:57+00:00"
+  },
+  {
+   "titulo": "Festival destaca cinema feito por crianças e jovens",
+   "fonte": "Jornal Correio do Brasil",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNRktCZ3BmYktKZGZaQjJRVXl1QjBnTVRkeUQ4Ry04NUtrcExOWkt4SGVXY21fVXlUbEp1RkdxbzBVekI5WGJJRjdEcHoydTRiQVhMZEpzMmZNMzFsU1ZFeTRGUlN3VU8xOEpBa3hhb0VfbjBBYWQ5ZWVDVVhxNVM5ajBoM0s?oc=5",
+   "data": "2026-10-18T14:02:50+00:00"
+  },
+  {
+   "titulo": "Ibovespa em Alta: Olhos Voltados para o Cenário Eleitoral",
+   "fonte": "Diário do Estado",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQY2Zpbl84d3NfNzlBSUFQc3BTbExzTzNpb1pfVk5vSG5lWjN5bk5qNUp5U0ZHRFZ1dTJPQ3BfbUItTXBwc1VqNUkwVEI3eGFVWnZkUlhqTDBtdG5IS0JRVVZROTBlTmZKWXZDYndWWmhiZ1NubGxFX1ppY3FTUk41b05HaVlEa1p1NWcxd1RPSlhlZkE?oc=5",
+   "data": "2026-10-18T14:00:20+00:00"
+  },
+  {
+   "titulo": "Barra do Jacuípe encanta com encontro do rio e do mar e revela potencial para novos investimentos no turismo",
+   "fonte": "Portal Abrantes",
+   "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNRzhhVDRtem9tNGd5UjNPYlYxQzhtaWdXcFgwV3JoRkZqazA1ZU5YRHlsV3dXd0VEaGpZdmt2bmNCbjlnVVZHS2E1VmlaRnNKbnJwZmVqWWpaYWdrUlYtOEozVGo5MGhUUURCbkpzWGYwN05nWkpWU1hyMksxZEdmYkViSGJZb3o3Y01oQ0FzYkN0OWY1S2cyVklUVmlWYklDbFl4SDJab2ZVbmdfcHVGWmQtWXp1MFVIU0VOREFrVk53TTVnMHphanlZTGlHck92SWFhcXBNejd2VWJIcVk5TS0tdzR3TkNUbC1JZQ?oc=5",
+   "data": "2026-10-18T13:50:00+00:00"
+  },
+  {
+   "titulo": "Ministério da Educação e Formação: Universidades devem investigar e combater a inflação de notas.",
+   "fonte": "Vietnam.vn",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOUGNtSmNVbGNrRnM1OWtaVXVFNEt4SC1YZDYtMV9wWk8wdjlEUFBpamJwQjVsRUttLTJlUFJHZlFIMW1HbnlRV0Ytcy1haU5tSWFIVUpVZ3c4TmRuaUphcDdGLVdHakpTLXVMQk5NalpocXRwQWk3bXlleGxyTVhqX0tvbEpqUmxxZTdGOUVGWVp4QQ?oc=5",
+   "data": "2026-10-18T13:48:55+00:00"
+  },
+  {
    "titulo": "Ibovespa recua após disparada histórica e investidores encontram nova oportunidade para comprar ações",
    "fonte": "O Petróleo",
    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPWmdDa1RtTmktcS1GNmJpV1U0QXY0cW53WXdCVkV5NVhZNGJOZWppSnJWdDF4dUN6X2Rwbk82MVdkdkZpbjhtUnpXNDJXQ1dWYnpCOGllbFJCbGllOHZoQkZTQnlXX2M0TGNlajJSTW1HZGVSaDJnaVUzdEVmSjZUaDJpWkdFRE8wTVQ4ZWtGMmRDUG50VjJaNkxyZW5kMV9jY2d3R3dNY3gtVGZxSm5KYWE4YThQdGRvQy00Q2xhc2RFNTJVYVE?oc=5",
@@ -29,64 +71,22 @@
    "data": "2026-10-18T13:26:26+00:00"
   },
   {
+   "titulo": "\"Não é hora de vender Bolsa\": Inter eleva projeção do Ibovespa para 240 mil pontos",
+   "fonte": "Money Times",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQR3VCRHI1ZkktcGUtVVduWVpiSlpRR05lMkhncHBlWXh3eWhSLVBBWmFHNEpPdThUeDVJWDZ4XzBuZkJWU0FKSENrSnBXN0NZUmFTWGQza0Njb3Jvc3M1RVhNdHF6dEg4aXo5b0s3SG5HeU5qd1ZWQ1hzSUNOcGlORVRaLThUOHQ1VXI5cXJ4c21ucWRBbkxjUDBBOFVQZXJLSzFUWUJuamx1S3hFT3FRbUZLeG41Zw?oc=5",
+   "data": "2026-10-18T13:17:00+00:00"
+  },
+  {
    "titulo": "“O Conselho Administrativo de Defesa Econômica (Cade) abriu uma consulta pública para avaliar possíveis mudanças nos critérios que definem quais operações precisam ser submetidas previamente à autoridade. Entre os pontos em debate, um dos que m",
    "fonte": "Instagram",
    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1HbWcxdWJ5bW5WSC1jYWhHVnI3TVhxUjBzQjJiVXV5cm5mblR5QWhSV1ROLU40ZnZYSzJlUWhUODYwUnZNekx1c0IzV2JLUXg2QWc?oc=5",
    "data": "2026-10-18T13:15:04+00:00"
   },
   {
-   "titulo": "\"Não é hora de vender Bolsa\": Inter eleva projeção do Ibovespa para 240 mil pontos",
-   "fonte": "Money Times",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQR3VCRHI1ZkktcGUtVVduWVpiSlpRR05lMkhncHBlWXh3eWhSLVBBWmFHNEpPdThUeDVJWDZ4XzBuZkJWU0FKSENrSnBXN0NZUmFTWGQza0Njb3Jvc3M1RVhNdHF6dEg4aXo5b0s3SG5HeU5qd1ZWQ1hzSUNOcGlORVRaLThUOHQ1VXI5cXJ4c21ucWRBbkxjUDBBOFVQZXJLSzFUWUJuamx1S3hFT3FRbUZLeG41Zw?oc=5",
-   "data": "2026-10-18T13:13:00+00:00"
-  },
-  {
    "titulo": "Ibovespa avança com mercado atento ao cenário eleitoral",
    "fonte": "Diário do Estado",
    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNMm9kRnlWMV92VGtKYTN3ajVKRnVlY1FUMjB5S1hfX0s1Qkd3S21QQzFfM19zZldVa1dEcGEtaE9kUDA2OXhnNzlnNHF0QlBpYkUwWjlYSDh4SUxnQmtRUC16MlFENlVpWmlTZ3RDOGczd3BtQl9hNFdnYXFhU3psZmFxbHN2YTdydUN1NEFDM1Rpdw?oc=5",
    "data": "2026-10-18T13:00:23+00:00"
-  },
-  {
-   "titulo": "Controlar a inflação e eliminar os entraves para atingir as metas de crescimento.",
-   "fonte": "Vietnam.vn",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNRjJnSEVmcU1CN2FQS3l5WmdSTkpObG5nTXJzTWxZWXFsd0JoWVRPMFh6d2JnN2E1cEdRcEtYSFRxRGppclpKUlZpN2lSWXEwY2ZtUmlDUFVVVU9tN2R3RG10c3BFanFkd0w2U3BhSkQzeWNsZTJFaVlNd3hNempfQjZPQkRxMFp5d2c5ZU94eDczWFdMci1JNWpkSEZXQQ?oc=5",
-   "data": "2026-10-18T12:18:15+00:00"
-  },
-  {
-   "titulo": "Mesmo com subsídios, inflação dos combustíveis quase dobra em relação a 2025",
-   "fonte": "BossaNews Brasil",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPdHpVSmIxNTZsYlRvdHZ6Sm9MY0J3RVpHYUJhdnF5WjdSYlBtLXl1Qk54MUxPOVkzLWh2VUpMN0xFWVlNdmNxTHBvVFA0OXl1RmE0UXNkMXo0NGpxbndCaWRlSjd2d0dsTGRWVjRhTE10cGV2TjhHZTc3bk1yS1dzSjZwWWZKVVpyeUliVGg2bnNZX3ROeGtyNTF6R0tXTFM0WXJv?oc=5",
-   "data": "2026-10-18T12:16:50+00:00"
-  },
-  {
-   "titulo": "Atingir metas de crescimento ambiciosas deve andar de mãos dadas com a garantia da qualidade desse crescimento e o controle da inflação.",
-   "fonte": "Vietnam.vn",
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNOU5pTVB6SW14cWUwYnFPUUp1b3ZWbjlYQXRvR2xBTkFTaF9GWWFfYnA3eXJTZUV4Nnd1QXBtdW51b0JOS0QxbVVqRVF1UmEyQ0g0NnVQck5BSHhkd0c0Ni1faWhZT2FJNFlxcmtrOHZEYy1Mc0NkMEdORjhUeEo2THRDUzk3aThURk9hbFNPeXMwelp4R2h5T1BFRVRmSzM0Tm9PYlpzWHo5d19XNFczdTh3dEJtV1ZyYW1oeW9mOG9mVC1FSVE?oc=5",
-   "data": "2026-10-18T12:12:02+00:00"
-  },
-  {
-   "titulo": "Inflação de combustíveis no Brasil atinge quase o dobro do registrado em 2024, mesmo com subsídios do governo",
-   "fonte": "BH 24 Horas",
-   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQNTdIcjNZYW1GYWx3eDlEcTMyWWRJZ05BWW4xZ2NVS2VFRnZsWHJQcXFkQnIxUjdRMU0xSGZ4SDdqek9pc3NLaTUwcHYtY3hmdnViY3hpcUNad2JDbXB5LTlyQ2tHR1hPV3ZabHp0V2JJLVZNWEx4UEJXUlNSLW1BUmQtMzN1M1FQbmZJbDhYS21XWWlDRndvUDhtcGNIWFhpejZmWGxTa2dBRGRPX19ac2RMdXYwZHFLSGUzWGw2NE5LcTJjYjliQ2Z2emM3S2FXZmFRakZiQ0J6OWExUy1sbkdHZjA?oc=5",
-   "data": "2026-10-18T12:08:51+00:00"
-  },
-  {
-   "titulo": "Como investir em dólares sem sair do Brasil: ETFs, Equities e fundos",
-   "fonte": "CNN Brasil",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNMnNsSXBSUF9rQTRFQ3E4eXl6STlZakVNdllyd2h2dHRPSFZhN2o2U2xjbTZrdHFCWnV2TXZSbVBBdTNMVXZiallFOTk0MGNicVAtT1g0M3d5RWpINzI3czc1d2Rsbmg0MmxSNERWWkJ0TUExUklKS0M1MlMzNmlGOS1jYzUxRWRTNk1JZ2FuRURsN01rajg5bXlTVkh4NHJQSnBxU2VtY3cwaU8yMkh3aVk0R1JQbmpLMUpURA?oc=5",
-   "data": "2026-10-18T12:00:48+00:00"
-  },
-  {
-   "titulo": "Ibovespa inicia sexta-feira em alta com foco no cenário eleitoral",
-   "fonte": "Diário do Estado",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQWk1oei1rNGxCOXNWMjNRSTBCTzVycGtSQXdNUVllZFRmZldlVHFQVUYxZ3c2WF9idXFpWXlhZjZiRTdxdmcxc2NvYnNzVmV0T1ZYaWtPbmtUR3BXLUh5U0VHVFM5d1kxT3ZsNDd6TnQ5RUx2OEdldUk1M1lMdXQtZGRWMThaa19mSTNJdVNVSzFBYUZHSlp4MFdhcVg0cmc?oc=5",
-   "data": "2026-10-18T12:00:24+00:00"
-  },
-  {
-   "titulo": "Itanhaém vai participar da Feira do Empreendedor Sebrae 2025 para atrair novos investimentos",
-   "fonte": "Diário do Litoral",
-   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOY0tPSGFvZUFnRlBNeTFCYlpuakJTb3h6VmtqVDh3Wklsa2xsaE1zbU90SUF1Z09CUkZ1UkJwRFlDUWlGaGx0NjBSWmFLdlZfcVBfUlBTS2I4VU0wUW9Qenk3YWxhejUyeFk2bnM4WC1FRG95eVc2RWJ1dDhBSzE1WlBINkxVME9GZ3J1bEdXQjdNNkJCTWV0WVR4ZXVHWktabjZocTdLWHByNU9uc3BkdEZzYk5HdDZTT2hpS09BRE9ZeDdwSWc0RVVvNVJmTVRwNXctVg?oc=5",
-   "data": "2026-10-18T11:50:00+00:00"
   }
  ]
 }
