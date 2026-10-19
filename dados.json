@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-10-19T22:34:35+00:00",
+ "atualizado": "2026-10-19T23:34:33+00:00",
  "indicadores": {
   "selic": {
    "valor": 13.75,
@@ -17,10 +17,22 @@
  "cotacoes": {},
  "noticias": [
   {
-   "titulo": "Mailza propõe facilitar abertura de empresas e atrair investimentos",
-   "fonte": "ContilNet",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPaS03N1NGNkJNbG1wRlZrc3NFVkN3YjhhRExuVGszQzFFRWdoYUplZ3VCMFRKcW9pYkNJMDY1enlXUFF0YjNfTVlHOThjSHlDZXRHaHhvc29zOTFneTZUOFFNM0draGU3S3hEUEd2SWVlUG9hTElVQlNlV0lKV04tZXlOMzR4dlFjWEo5VkZyQklqSldrV2RpVkgwN1lQN2gtSlVTSUZUTHRjZm13T1dFRTVSRVJhbUd1U3RKTXpSZw?oc=5",
-   "data": "2026-10-19T22:30:10+00:00"
+   "titulo": "Tesouro Direto: ranking revela oportunidade ou exagero?",
+   "fonte": "Acionista.com.br",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNYk9oXzZmSVRwSzFCVnB2c0pUS183MWw2a2dYc0tTQnhVRWN2ajJDbExsTDJFRGEwcnVJWDloa3dsazlLaE1EUUV2dHh5RmU1aXNnWnFKNWtOWG1Dd2xqNW9wMWRyRUU5V0NWejVNTy1FbGV4Vm1GcUY0cFlIRk9OaXgxVlVhUQ?oc=5",
+   "data": "2026-10-19T23:29:40+00:00"
+  },
+  {
+   "titulo": "Pescaria Brava projeta R$ 20 milhões de investimentos em pavimentação e obras",
+   "fonte": "Agora Laguna",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQTmM1TnFsWWhTTVZNZDYtdFh4UFNXLU1lM2VScnVHX3JBalZuM1EzZHBzRC1QOEd4a0pnd3hLcTJzeEtuLXFtY010b3owTUlORlZLR3N3dHdDanIwWVgxRHlrMVJzSXQ0c2RtZ3ZKWThoVGV6LUFxSHV1UG9ucFJ4SXZoWDh3Wm56U0tRRzJNc2hNTzlFQlR6aTlFME8tYW1WQXAyaF92WllUUExsRjktQWFB?oc=5",
+   "data": "2026-10-19T23:10:23+00:00"
+  },
+  {
+   "titulo": "Cadu de Lula defende ampliação de investimentos na educação e uso da telemedicina na saúde",
+   "fonte": "G1",
+   "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOM0JEUVI3UVBfNnkzWHNVckZEajB4akVpWmJ5aF80SVhSNFlyNk5FM0EtVFhUZGJLUlJpWUNON3doZGdjcEhqcDF5VWdadUo3a2x0RjZzZGhwLXFqZzJ3dzFLVmY4alVBaWlDMXdmRHgyWnpyLVVwZXF0U3dmMFRBZmN4VEttandCNVRybldxUUl2eVQ3bDlKMnJ2bGZyN3lra1lFSFRVWVpWb283Zk1ZTkhuRE1SZmllOFptWm5LSndSMVhhZWx4ekFid3dZRFNpbmpaLUJ4NEpxeTZYRm9vWklQcWFpNWFYZXJYaG11LWxfUHBsQ1o4OGxKcE4zMUhUVmdB0gGSAkFVX3lxTE15UWw5TFcxdjBZZjdmQk9PNlF1dW85QmNhZTQtNXRFMjYxTExlcHpCNUFZeDFwQXd0NDByRTVKcXpJLURZWWJENXIwUE9ZSC1COGJtaFJmdnE2UjJLelAxVnlaazVhb0ZBU3JHYlhZX1ZfeDAyWkRQWS1EcG5aTHgtVGZvdkF3Z3NYcDdmcjRqd3BfY05kM1pESmUxNmJERG9BaGxUZzdnVm4wcGlXaDdjQ05jZTAwMzFVSVpsZURYN1J6OTdpN0FWYkRVdXptWWw1emJXNEpfTU9Bb3RMUFZqS0Z2MGRIT1BJdk1LT3dXRldaWWgwRVhEamU3MHBTZmFrY3F1Z093aXBMZlZoZ1k4OWc?oc=5",
+   "data": "2026-10-19T22:29:00+00:00"
   },
   {
    "titulo": "Tendências 20/10/2026 | das principais ações da Bolsa",
@@ -75,18 +87,6 @@
    "fonte": "Canal Rural",
    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNVDVTckJuRXp4S2lsVy1hRTJSVXVPb1d4UVVCZXJIdFFPUUZQakJnOGtEQnh3VlJKdE9lTnptU2lpOGszWmhJei12NjlwSDh4eGRIRkliNGREYjBRRE02WndTNnczTXZaOFVmRC1oOGRaT2NCbkNOVzR3SUxHaEl4dkFQY1pod1g4YWdvSWFhZDR0MkJUd3lNbzlOSEJXUQ?oc=5",
    "data": "2026-10-19T21:42:08+00:00"
-  },
-  {
-   "titulo": "Dólar fecha em queda de 0,49%, a R$ 5,047; Petrobras pesa na Bolsa",
-   "fonte": "UOL Economia",
-   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxObXR1R0M5S3dnWGoxNkxvcTlyYzY0WlBtSVRTd1dLdm9FbFZRQ3dySF9BWFNZWjI4LW9oZ1ZvSlRUellDcVBSYWxEUHh2Q1lDNW9oN1ZjN1VNUzR3MlBQSWRSS3ZGWEszT0xtVlo4bmNNM3JKTnpOLS1ReUhuQnpFcnlMeE4zYzR0U0dSV0sxd0ZpUTBYcUZSN1VVLXVpY1BoSVJYbnBqRWJMRnN6dV9saUdhOTFXbkxiNWQ2b243TjJfaWI5T0hMRw?oc=5",
-   "data": "2026-10-19T21:40:28+00:00"
-  },
-  {
-   "titulo": "Ibovespa recua 0,17% com mercado digerindo debate; dólar cai a R$ 5,05 com atuação do BC",
-   "fonte": "Times Brasil | CNBC",
-   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQOVFtV2tyZE04d05kOUxFMTg2ZXYwTzN4RXZHTzZaSmZZdV90US00c3dwSnUyVWlpWGZ1bDVKYlh2Y3JncVhnRG44RGRFeUI4N3RRalZxTTFfZkRaRFJPSjY1Z1F4X293OGJwMktqMElTMHVmeEtpWW5TSFduZ1RGeldld0ZQXzd4akhOZDV3WGRQR1lYRXZhakpSak5pbXZxcV85Y0pVV0d5S0tYM2xBVHpVaVJwNVpXTDc0WGV2LU1GZERKMGwyaHZsaw?oc=5",
-   "data": "2026-10-19T21:34:00+00:00"
   }
  ]
 }
