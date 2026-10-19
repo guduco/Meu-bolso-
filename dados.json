@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-10-19T09:40:47+00:00",
+ "atualizado": "2026-10-19T10:37:32+00:00",
  "indicadores": {
   "selic": {
    "valor": 13.75,
@@ -16,6 +16,48 @@
  },
  "cotacoes": {},
  "noticias": [
+  {
+   "titulo": "EUA entre a espada e a espada: como guerras, inflação e eleições de meio de mandato pressionam Trump e mexem com a sua carteira",
+   "fonte": "Seu Dinheiro",
+   "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOejQzbGtteEV5ZE52Rk55WW5wd0JmSk5pOWJIWHVZWng1S2NSbHIxNnFSeWN5YTFtUnl4bDdiTXo5UEtJZTBOMGFQU1Nad1JtWFBLaEFuNnFMTmg1TUlZLXdqVWxBZHF1RTY0MkFWam1FRGlmdm9UT21VeUdiU3R6WC1QLVo3Nm9pTUN0YllHMmxySTVVR0VZRk5XZjVZOHlzYmNDOTYzUGVtWlBPZ0M1TXhzUm1OT0lsbDhXemI0eUY0VmNjUTFjaXZpb3FIcDhMWXpNTXFsNkJRN1pYVGtORVBnLURkakdKSExIclM3ODI0Nzc5X2Y3V0VFZVNOMUhkLVlwN1MzVndvQQ?oc=5",
+   "data": "2026-10-19T10:14:00+00:00"
+  },
+  {
+   "titulo": "Minidólar (WDOX26): veja os níveis decisivos para esta segunda-feira",
+   "fonte": "InfoMoney",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQQ1lfQXJ1UUd4SThkMlBoSmFZbGRjZlhvZmd3RGYtaHdhV1Y4TkpxVUgtcGJMamUySVY3SDd0YUNMV0pSZ19NcldoVDQ4NjBXd0RJdC1QNWE1eU9xTDZBNDVpaXdHOUxYX09NZmZuTTNRQmNqeVdOeGdqZ3JpYWE4Zjg0Z0ZITk5UTV9jSnZR0gGTAUFVX3lxTFAwLXV5TF9lTDB1My1QU2VzMHRySUxHM0RqaldJVGtCNnNSQUhfUU84cldsZUE1b3p6bG5zMXRvbWVlUGlzaUd5YjAxeWFrMnBGa2x2NDROQjNMSVo4Sl9keDNfU3BXQkVNT0gzMDF4Y2ZvdC1hNkg3RWZCTzc5aUFFRFl2ZjFTdzRrRFF0OEw2QkdFNA?oc=5",
+   "data": "2026-10-19T10:13:00+00:00"
+  },
+  {
+   "titulo": "JPM Coin, o token do JPMorgan para depósitos em dólar, está chegando ao Ethereum",
+   "fonte": "CoinDesk",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNUnF6RjhTc01LSXJ5YzhIU3JXaWFxVUY3c2l5RDI3eDZydlVXU0FtOHVQZ01Sb2dhdjUyMENxWEVoREZDQWlJNGVkUE1pNzJPSVc0aDI1c0pGeUJNUXRXaW9sZU9MWmY5SHdtWDlwdHpad3lFd19fbVJsdjViTV8wNmhDd1ZISGRBTEtzTl85cVhjalVubHNBNEdoeTJwTWl6aDU0T0haZjFQcEhoVWI0U1JhOTZUa2V0NUFWZGlaY0pWQzRoeFNHZmNB?oc=5",
+   "data": "2026-10-19T10:03:47+00:00"
+  },
+  {
+   "titulo": "DAY TRADE 19/10/2026 | Abertura de mercado e minicontratos",
+   "fonte": "XP Investimentos",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOUEcwZy1Ma0pzOF80Y1R3TkpzaWJtbTd2V2JzVy1jWjFYN0R2UDhLaVNwUmpWQVROMkNzaEFxOVpyYTVaV2dlTUs2czJPdWF6elhab3BrSkxuTzlRaU1wSF9kLUxQc0gxVmx2XzAzRnJyYzRqbTZ4dk1kQ3dsRl90dW1VeGZTVFBXaVJoTktkb0Ixd2FtbjM1R2F2WFdrdGdKaEs5T3VpUW1jak14NVMta0tJSQ?oc=5",
+   "data": "2026-10-19T10:03:17+00:00"
+  },
+  {
+   "titulo": "Day Trade hoje (19): Ibovespa reage após 3 quedas; alta pode continuar?",
+   "fonte": "InfoMoney",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOVDIxcGhGR0N0VVBHelUyaUE4RnFtRkZMWkpTLTFZM0dQVnc1V01CdGpxU0hFM3BpalU1UGMtczB3Rm5SNlNnOXdrUnFRZ0pYSWdlNkJ6d1pHSzlUbHVrZWctWDZfSFl3Yzk4eVczdnBFTm9oNUEyUHF2dk81cXhLbjZXUEVLdko10gGOAUFVX3lxTE9qQkpwUHNyOGZPUlVzMDBJclp3ZC1CTkNqa2xMdVNjTzhIZlc0ZXVHTWhCY3RsUkk2ZDFsUm9YYnZYbTVsNG5mbnF6VURCcnN3ZEJZNDl3OEdhQ1RmTGNISXlJQ0ZVREhvSEo5YVhDSHdEWUM2UmtWbk9UZk5VbEYxTWtoa2UxdUJpXzJtMnc?oc=5",
+   "data": "2026-10-19T10:03:00+00:00"
+  },
+  {
+   "titulo": "JPMorgan anuncia investimentos de US$ 5 bilhões em empresas essenciais para a segurança nacional dos EUA",
+   "fonte": "TradingView",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5kLVNfSHhuVXVFZ3YtN1R5NGtvRHlvdDFteUhlbER5ZWZqNEkzejNQZG9HWjl3aFBOd3JFTW91aC1FZGdKU0l2aDMxMkM5MFB2eldMZlZIeVJ2X3pFZTZuNy11Sk01YTUzaDY4UXVaMm13RTFZQkl3?oc=5",
+   "data": "2026-10-19T10:00:56+00:00"
+  },
+  {
+   "titulo": "Investidores avaliam debate e pesquisas eleitorais com início da temporada de balanços; Ibovespa em dólar sobe nesta segunda-feira (19)",
+   "fonte": "Money Times",
+   "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNak1kbVZOZE4tU2E1SW1pMng3dUhwS0FUWV91alNrZ3BCWmtOZl9lT09qTE1TVFRkRnM1WnpTQ0Z5MDRTbFZHUlpMeHZnT1NVenQ3S0N6NmNBTk1kVmJlVGluNl8xMTNMNzRPV3g3TGZQa3RqTC0xZXZQN2lCNUtKLUJqdDdJazdZVGJjTFJJeTNrZEh4Zkl1V2JzVGtVZS1vZDdYUF91N0hSay1Nd3A0MVBKWndMSjRsTVloMDB2SC1QOXJLNllveVRRNDJ0WGk2RTFNeE5kaU1TX3Nxam9namlEZ3VnR094Wmt4V2hYM08zckF2SDFDanBiU2I?oc=5",
+   "data": "2026-10-19T09:57:00+00:00"
+  },
   {
    "titulo": "O que pode mexer com Bolsa e dólar? Veja os destaques da agenda econômica desta segunda (19)",
    "fonte": "Money Times",
@@ -41,52 +83,10 @@
    "data": "2026-10-19T09:24:35+00:00"
   },
   {
-   "titulo": "Sob Equatorial, Sabesp busca acelerar investimentos e mantém 1.300 frentes de obras",
-   "fonte": "Bloomberg Línea Brasil",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOMEo0Vkd1T0NPNUdNV0toS25nbTdEcjkyT0E1Y2hSb3VETTBqckxVc2g1YW13VndpWmlOM2hGWUZXeFRiRjVSOC1PbzRGNGYwUm9LYmxLdzFMNDAyYjNIQ1lJYjhoMm9VYnNHb3dHbkc0N0hYYTlacWRHM2hLclF3XzJPNWtlUWdtbmJWZml5ZklPLVZaTnl6dXJjUEJVTzJLRjBVZHB5LU9rVE0yNXktWXRieVdmR1psWWlPWnpDdm9fRGvSAdcBQVVfeXFMTmtla2F1NFhWVWF4ekZBSXlvZ0JTM0R1YW80aG9qeGZPd1Q2ME9EcnRDRXhPV0FBX0VYTzVIRjh4UHcwUWVUM3k0elh5dGxLcHB2aVZFM1pPMlg2SW9hRlpsNHY3dWE4ZU9WX1FMX0VjOE56aHhOX3h6MnBULUlZUXZ6UDJfeldBY1pSd2NRSjEzMFJoekRsNXZvNE5XZlBGbTN6cGo4Q2JlVUxERGoyYmlYZGJtbWltMXNtaDVjeFgtUHBfLU1ZN0ZxRkRfZFkzMS16LTRfMHM?oc=5",
-   "data": "2026-10-19T09:00:01+00:00"
-  },
-  {
-   "titulo": "Tempo real: Ibovespa abre a semana de olho no Focus e pesquisa BTG/Nexus",
-   "fonte": "Money Times",
-   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5NNG4tM2l3NUJNVm5fN1hqOHRyb1dsaVhzQUE4Q3FLLS1JYUdVRTJRdVQ0Y3lYaG4zT01PSXdzdnY1RExJRjc3enlZUUFicVFhMzlzc1JpN216VF9peE4wOGcyOF9DbGFmNEtESA?oc=5",
-   "data": "2026-10-19T09:00:00+00:00"
-  },
-  {
-   "titulo": "\"Para atrair investimentos em alta tecnologia, precisamos de uma força de trabalho altamente qualificada.\"",
-   "fonte": "Vietnam.vn",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPblY0RjdtdXotQWpuRVRhT29pdGRKeFl6dTRDRVRicVprczAxZnJncFVSaVExQ20zckVGTi1hYlRnRVlSSXd1UVlzQmJtYVltZ2ZXWGNuMUJaYUplSXNYeXRhTVZmUWl4bnpDRVVTeEx6Qkc2ckNaZ0NYZGl4aElVbXZTWHJxS3NTdGY0UlhpRDFZS25iZFE?oc=5",
-   "data": "2026-10-19T08:58:10+00:00"
-  },
-  {
-   "titulo": "Carlos Thadeu | Juros altos não resolvem tudo",
-   "fonte": "Poder360",
-   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBLYWZoX2VmTUhwWHM1S0hrSmRLeklaQjI3cG1rcXRpMjFWd25jWlljdmFNT3kzSmlMVVRWMWJsWk02ZFBZSnVzdlEzMnZNNTItRFk0Y3dCYnNDcXREcWF3ektHaF9GOExzSGZFSWN3Xy1CeEd3?oc=5",
-   "data": "2026-10-19T08:57:26+00:00"
-  },
-  {
-   "titulo": "O que Flávio Bolsonaro e Lula propõem sobre reajuste do salário mínimo e aposentadorias",
-   "fonte": "BBC",
-   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5FU29uS2YwNGNVMWl4MFVfb0g1WHl2V0lRZ2RENktFRUZ1TzVlMDBHTTN3NGVmb2tmRFJZUU9wTVlidnpIajExc1FQM0lRaVlYNTFQMUxBS3dqR3ZxQjFSNmJxNA?oc=5",
-   "data": "2026-10-19T08:40:58+00:00"
-  },
-  {
-   "titulo": "Mercado ainda vê chance de Selic menor em 2027, diz economista",
-   "fonte": "Juruá 24 horas",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNV2x5TjZQTUhXM0VfM3lSaHJkbG1MWlo1ZlVEcUZXX1NiNTBJRS0taE1HY2JFaXN3WTdELVc1N09WUUUtOG10dUZETE83MzhxRzM3ekZDTzN0S2JTYjdyb2pWX0k3YXprWko5NEhjazkzU2JrLW5UUldMS3RxMVQwd0d6ZEZyY0RYc242YTB1MzNuS2diUmRKVlpB?oc=5",
-   "data": "2026-10-19T08:35:52+00:00"
-  },
-  {
-   "titulo": "Prévia da inflação e dados da China movimentam a agenda econômica da semana",
-   "fonte": "UOL Economia",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOMmQ5MTh2d1pkdVNEaFZKOVlkVW9STGlkODg1akZyVm5Zd2tPanZyM3g4RFRjX25MM19zYzQxa3BKTHlJazJZcjBUM3M3eUVUdG9YT1BzYmRqUU5ONDJXaWtlRlRZV1M0TExsLU9nb0xLN0tXN25hQVItUGZ1czJwX3JhSmo0QmpaaE11ZDJUc1E3OEZXSEduVUZKQ0FNekxjMHRKeE5ydw?oc=5",
-   "data": "2026-10-19T08:30:00+00:00"
-  },
-  {
-   "titulo": "Libra recua levemente enquanto turbulência com IA pesa sobre dólar",
-   "fonte": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOYW00OVF6eVJvZmFZSGJDUUZFempvem5ZRDJ2Yl80dkhlNUxDcHY5cGNNeHh3bmFZOC1rbzlFM3RUd3VxSWlKZlEyQ1IxbUgycTBLZVZpbkVPMGVxNGNvNVVFNFhLaVhWTHZWWk5MMXhtTTlfMFNFa0tVQ29DZGh6NjVWM1phcGpXZU13bEctUHRQem9tYlktZm82OVlmWnI3V1l3V0VJUkl6OGpvdERKcUo4aGdsZw?oc=5",
-   "data": "2026-10-19T08:24:00+00:00"
+   "titulo": "Bitcoin recupera os US$ 82 mil, mas inflação americana ameaça interromper reação",
+   "fonte": "Estadão",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPbGd3endZYmdtMW9CdUZ6UHNEMF9YbUo4MmhYcEpnZlBPZ2t6a3lXcTI3V0t2b0daMG5mcWdZM3RWNFFBX3Q3V0ZiSy1yUG9XMm0zc052d21FWWY2VklmYzRCd0xHSU1GSUloR0M4M0xkWTRLemlxa091b0czX3BIdUN5dmFBQllVbGlHRDFIS0FaMjZPUHJZZ2otZGVMT0VxRnMwUnR5WHBwbWl5bWtka3NjeTN3MmlDZzZHU1NLdlVWWDVjRmx2dnlpQ2kwUQ?oc=5",
+   "data": "2026-10-19T09:11:54+00:00"
   }
  ]
 }
