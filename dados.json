@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-10-19T13:50:33+00:00",
+ "atualizado": "2026-10-19T14:41:10+00:00",
  "indicadores": {
   "selic": {
    "valor": 13.75,
@@ -17,76 +17,76 @@
  "cotacoes": {},
  "noticias": [
   {
-   "titulo": "Wall Street tem tom misto com balanços e geopolítica em foco",
-   "fonte": "Money Times",
-   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1HVFp5UFJiMXlQZURNOVdqRVFkNDFjQUJBMVpyZnBtaXY0ME91QjduTER2Tm1HSEM1Z2Z4Ul8ybHJYT3RMTDJuM2IxTVNYX08yd25MRUlKVWRwckZuM2FOMFcwSENNT25OSFFvTXp2NzFNWnc?oc=5",
-   "data": "2026-10-19T13:47:00+00:00"
-  },
-  {
-   "titulo": "Inflação no Canadá supera meta do banco central com alta nos preços da gasolina",
-   "fonte": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
-   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQOU9Lbk9rSkg4Uml0VktYa210MS1aOW9yVkJfVzZ2X0tNeEcybFBrVklYWVRhdEp3M0FHLW00LXBHcFd4dlVvTll3MVYxRTRSR3NUdE1lRGVTaG9hY1czSG5tQk1zdXBwd253czJSV0ExTmY3UDVncTFDdlJPM1ZHekZiRXRyTE4xaFM0a18wOTF3VlVYejJUWWd6cnY3TklEWUcyYk9IemRUbndIUmhocFdEWks4VVFSRUZta3dIY2lsWHIwdmMzVmVR?oc=5",
-   "data": "2026-10-19T13:46:00+00:00"
-  },
-  {
-   "titulo": "Queda nas vendas de tratores preocupa mercado global de máquinas agrícolas e pressiona setor",
-   "fonte": "Portal do Agronegócio",
-   "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOaW1obVRjQW9yWU5EWV9IaHVTRGZteTBvZmFxUjgzZHBEdDRsTnNCNFRBRXBhTS1RRUJnZGNGREl6aXBEZENfUzhBeHBwcDBzTklVQ3RaNmtMRDB5SEVoV04zdWlzRk5KWWFHQnNLdG44OUpheTMtTDBuNjdYMjhjVHNwVGdzOXZvM3lxWUUybGhKTmJ3YmNNTWFjVi1rakJiTFFKeWRFZXZWeThrQUFiMmtGQklEYzViel9hd2ZJRlNiNUQ3WUlVQjhlcUpxa1ZZbHRGQ2I5SGNoeVN3UnhWZFgwNGNsR0RkMHNkQXhIWUJBQUJoRzVOYlZYSFl3Smx3NjdLYll1anM?oc=5",
-   "data": "2026-10-19T13:45:00+00:00"
-  },
-  {
-   "titulo": "Gerdau lucra R$ 1,5 bilhão e Bradespar acumula caixa: o que esperar dos próximos dividendos?",
+   "titulo": "Bitcoin a US$ 82 mil e ouro acima de US$ 4 mil: quem está ganhando a batalha pelo futuro do dinheiro?",
    "fonte": "O Petróleo",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOQlozWGNWandGakgxY2RSMEJwaFpqOW43MUJ4aHlId2t2azFDNWdhd0otR0ltNXlIdmFIbUtWYl9ZTUVSRFJSUEhpUDlYTlljMXIxRUdKY3RKMWhKMTJySXZlejNhblBaVXFmUUZQMmtrYzRtQ3RGSUVxdmhSandIT1VNcVUtWkRxUTFZWkNlUElFaHd2OWhaT0ZNZW4tLVF0T0d6bXI3eEswQUJzVE4wVHhmUVM?oc=5",
-   "data": "2026-10-19T13:43:49+00:00"
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNWWdRVmpPYnRoMFlkbGxsUTZQRW54WVZKa1RCTXNSeElDNzM4c0JTSEowanhQa2pLUnhUSThId2REZjZLb2tLYm1CQVBvbF81bVRad1JiWVAxVi1uVW1QdnNnVmdXR3RQbEExYXFkZ2tjSGZ2MGkxcGlyMjRpVlhYSVVaOU1KNzZXUWlxNjRGaE1rbHc5N1pDVXA3RmptNExtcFdNWDFlaFdzWUx1TUE4RFVjUVFmbVJDU2dmYURDUEQ?oc=5",
+   "data": "2026-10-19T14:33:15+00:00"
   },
   {
-   "titulo": "Avanço da IA pressiona inflação nos EUA e Fed estuda elevar juros para desacelerar o restante da economia",
-   "fonte": "Brasil 247",
-   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOSnlPa3hrMlJIa0VqYUZXUUJlQUhKZmpqSFNWaFRpYmFVRktibmprYjBkcXFNUUswMDA5dEZiZDR2Ml9VNTlOT3UzX0tjZEROUF9KbE9id2xXTWlMZWhiVnFTdThnZUZYY09qQU9VeFJCRU94R3AtY2hzdUF3bzhNUzV6UVQ0NGk1MUplcU16ZzVCSVNEX2R1Q0ZveGVTYkhNa3NXaG9fOHh4VC1yX29RY1JjQ3NLTU51ZnZCbE1PZ0d5ZU56eXM4dTBPaTJmRWk1emo4d1daX1M?oc=5",
-   "data": "2026-10-19T13:42:00+00:00"
+   "titulo": "Euro cai em meio à turbulência na França, dólar australiano se valoriza com crescimento da China",
+   "fonte": "TradingView",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9EeFV5YXpzMnNYM3BFVDYwcGpRSm1CdERoMzdTeFJwYkYwUnlRZkg0Q0VjRHlTelNNcW5ZUXRoZjRUbGFEYU94XzVLNzB4cDBpNmxYclh3STdBT3diNTJlNW1KY3hSTUJzTnFTbnZJcC0yTzRpMGY4?oc=5",
+   "data": "2026-10-19T14:32:13+00:00"
   },
   {
-   "titulo": "Rabobank mantém dólar a R$ 5,35 no fim de 2026 e alerta para inflação de alimentos e energia",
+   "titulo": "Investimentos bilionários em IA dificultam controle da inflação norte-americana",
+   "fonte": "Vero Notícias",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVEFhWVhab3BuSHMtY3Jzb0E1THh0SXg2Vkp5d0wwYlJlR1J1SGRpVkhhejA0dHBxRnduRkZQcVp6ekxOTDFuaGcwWkpxZkktQ3B2OFhQRk0tRTB6b2d2eWstbXNiaURURHZVcGFIT3dLLXlFU2d0bmhIRVJ3ck9qVTZ5d2NUcDVSamZiOWdVbmVqdUw3MEdkVUtPN1pmbklaWUxoVDUtbnp0dHNEMGd0QnB4bjM?oc=5",
+   "data": "2026-10-19T14:30:00+00:00"
+  },
+  {
+   "titulo": "EXCLUSIVO: A uma semana do 2º turno, dólar e petróleo guiam os juros futuros; pesquisas ficam sem efeito, mostra estudo",
+   "fonte": "Times Brasil | CNBC",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPX2dGTm5CcGVYNjNFOG1WYVdXcmphYk9WelJDZmhoX052VExwc01VZlhadjQyU2ZMV3lyVThwdk1HOTNZRTNMdFZlNjNiQzB2d25YR2xWRjVFUEh1WFFqOWJRRjNVWHNlNDRFYkw4YkdpMWVLRjVXdFVoaUZKNll0dVhtY2NPMXJNd2FPMTFRemdRLWxUallBdTdXRGQ2ZEROZEFvckgtQTlUUkpaVlVlMUdZdTZIUQ?oc=5",
+   "data": "2026-10-19T14:30:00+00:00"
+  },
+  {
+   "titulo": "Guilherme Uchôa Jr. é homenageado pela Fundação Altino Ventura por atuação e investimentos na saúde",
+   "fonte": "CBN Recife",
+   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNQm5JYk9GZUFMU05oazhQb1RtMzM3VlB0RlliWEhDMHh5U05UZ2pVZ3JsN292a3hnUjM2OFhxcXhiSnkwTzNLRDRzamg5TlJPcWFXamlmUFFjMlU0SGs3c3RFR2hfZFpYZTFuako0c3FxeXA4bVpsbW9wVEFtRWJmeUxvLWRPV1FXY2VMb0pSVndMVnRwYS0zS2hZTUlZOWpMRlVTM3VFWWFNNERCS3VKMHUtZ2JTWXV2aDFPVklqZ1lrTENRekw2RWFrY0h2eHJHbmUtemZrZFhrTFNsdjJyaWx4NUM3QQ?oc=5",
+   "data": "2026-10-19T14:29:50+00:00"
+  },
+  {
+   "titulo": "TSE exige informações da Meta sobre campanhas eleitorais",
+   "fonte": "Jornal Correio do Brasil",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQM01hcWc2TU1aVDItbklPbG1ta3R0clZwaGtKakt3N1ByeTFWRklrX0xRYkRSSTBIbHl1b0prbXMtcW5RWVVCRnNrSmZ0aDJPSzdIX2V2RUprSVUzV2dkOTc1M2VNUVFSN255QXZfWmxZREpoMlZrbFBzc1pzN0lQd3hyaHhDU1BtaXNRVlA0bw?oc=5",
+   "data": "2026-10-19T14:28:19+00:00"
+  },
+  {
+   "titulo": "Mercado reduz projeção do PIB para 1,83% em 2026",
+   "fonte": "MundoCoop",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPSU9JTFVjWWRaM1lEQTVnX2RScXFGaC1rbHNubUdlUTJEanBmVk95bjJLN2lPa3Z0dFlJVTFPOEgxbl9mUS1oVzhLREkwNGsxVmtGOFE1RTlweDFGSWhaNmx0RTZvcEpBUGtTUGlhRU1iZUs5UlJpZ2FTdXZHeUw1cXJfckFmTDNDM2p3ODRlek02LUxv?oc=5",
+   "data": "2026-10-19T14:27:56+00:00"
+  },
+  {
+   "titulo": "Ibovespa sobe com foco em eleição e aval externo",
+   "fonte": "TradingView",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBiV3dkcEk3VS1RTlpjS1VobE1ERGFUMFh3clN2STJmNERZZ0NmNTlIcnZMRUE4SWZJUjlQY0FuVmF0d1FlZnN1RFNPN0c4dVh5V1ZWOUJQTGJLNWd0UE03NjBWZHJnamc5YUlJZUY1cklOTlE1ZUh3?oc=5",
+   "data": "2026-10-19T14:25:43+00:00"
+  },
+  {
+   "titulo": "Juros no Brasil devem cair, mas mercado aposta em Selic de 13,25% até o fim de 2026",
+   "fonte": "bra1.com.br",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPVEJSUHJFSTdJLUJtMF9nMnNaYzlRbDBiZzhQcDdvaVRtdEhvSUkwTGVrUUh0ekx0ZjQ1VDZuRHMwWnNaU3p0Z0QxVFJYdTkzQ2ZDYXJ0YklEZnJHd2w1X3B3bVRqeG9aaVRrRjJ3bXIxUi0xVUl6Zi1pUkxIUzVFODVOZVBISHViV1pUOXgwT0NBUW1YS2kyeG9QaVlGTW5VQWM0RndSSnM4bW50Vk0yWEtMZTVWSEhGMVR2VHBUZ1ZBRWJO?oc=5",
+   "data": "2026-10-19T14:24:00+00:00"
+  },
+  {
+   "titulo": "AXIA Energia (AXIA3): lucro dispara 282% e ações a R$ 59,49 ainda têm espaço para subir?",
+   "fonte": "O Petróleo",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPN1RUXy1ka0Nydm0tQ191c1IwY0pueGwyOXd6MXRCd1RmN2RvdVlBMEVHTGJNNVlBb1ZqV1BEa1o0MndWdTV4OVBMZ1k3dTB4RWowV0wzNjhtS21YMXpYZzhucHc2VzZzbk00WGtMdkxadnVtVzBNdTRBUlV3cDVRSVh0T2lKNUtvak1DU25EMWR3eVFFQkVVUFg2WDdHMXdfYzVKNFRzbzRUOEk?oc=5",
+   "data": "2026-10-19T14:22:46+00:00"
+  },
+  {
+   "titulo": "China cresce 4,5% no trimestre, mas consumo fraco e crise imobiliária limitam recuperação",
+   "fonte": "Paraíba Business",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQay1PalJ1R3A0MzByMWZHVlpEYmM3S2ZoTHFqOE0yMFJjWE1HdnAtOVJ1djlzejhxSWdaTWxrUWdiamxiaG9CaFlrMXNNdGc0VVI4R04xZTlydTFlbFV5UXIyLTF0cGJUQjI3VnotZjZWNVdIMDNfTXZVRHFvTG1vaWN0dzlMd3llb3R6TXAtbDZhckQ0bS1CMTdRV1RULXNPTnAtTlVtOUdzOWxjU2pCbEtMTHZJcUQ4R1E?oc=5",
+   "data": "2026-10-19T14:20:00+00:00"
+  },
+  {
+   "titulo": "Café supera 310 cents em Nova York, mas dólar em queda limita negócios no Brasil",
    "fonte": "Portal do Agronegócio",
-   "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQX3c4ZDBNNUJKR2pUVTZZQnQ2QmVkRk93UGUwbmk5SFNnMjNobkd1bEFpclV2T0QzUnNpYWdpd3hEOTVDSHdjemZDQVlIVTZObGp0NnlBUkZTM3NvQkd4cDRtV3NxVDJCeFM3dlpmZ3BKTmV3MXlmS29hTEFOamVhVkNRYmkxNGR0eHgtcUpqdFhYbmhWTVZVZEtyWHYtMm4zWkpVOWVKZkNlaUM5Z2tKYXZTOTBoMWJSa1ZsVWxsUzlkczdlUnpaLUx3U0JYVTFkTUxIcndTdXBoRVpydlpYRDhORWFPckI2b1JjR2lQelpndFpTQTY2UGJsSQ?oc=5",
-   "data": "2026-10-19T13:40:00+00:00"
-  },
-  {
-   "titulo": "Ibovespa em alta: Como aproveitar o rali sem depender do resultado das eleições",
-   "fonte": "Money Times",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOSV9LU3pHNXFUbjBBSVNUZFV1TUcySnU5UlNtVVA3bE5hc0FoZ3VUV09KR2d4Wnd3R0E4WGhZNGx6MXJ4NkszMTl4V1JlVVVhMDVEVlVqQ0dLNU9sQzRsdUQ1blJQUGY0Z2IzZmpQbGZCb3VSN3A5ZXVSZmlldXZydkR5eE9nbmJvd1lxMnNNTXE1Z05MVUR5b0dVSlJLQWowTldkQmhkQW82bG1CcFE?oc=5",
-   "data": "2026-10-19T13:39:00+00:00"
-  },
-  {
-   "titulo": "Centro atrai onda de investimentos; ritmo de abertura de novas empresas na região cresce o dobro da média da cidade",
-   "fonte": "Prefeitura de Curitiba",
-   "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNNDBhc3QxSjhabzloWi12VVlMMnNGelcta1NIY2lONURqcXFub1kzVmhEOEd3WlJ0SzVydWM3bDFUYUVESzdEZ1BSamhyT0NPRTJvT1dHNWdkUFRzMXdqTkJfeFlJaVhWNEVNdEdkcEZmZHJFZVlVTGI4ZGR5V2dzMnNNTGhuSXdFQmNvY3ZXOTdRUlNYUFVNc2pnN21UbHQwQUI1OGxPN3AyUFFnTnZxM200WDFTRkhFV2JxZk5Bem1mVkhXWUNjazlyX0tCTjdISmxaUWZGTGNMWHpwWExTNWZwbjJmamx1RGI3UFI5RXdiaWxMN1p4TldTbUFoWnQ3djRHaFh6RWM?oc=5",
-   "data": "2026-10-19T13:38:00+00:00"
-  },
-  {
-   "titulo": "Renda Fixa Hoje: confira as taxas de CDBs, LCIs e LCAs na XP nesta segunda-feira (19)",
-   "fonte": "InfoMoney",
-   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE01aUlKT3g5dWgyTzVoRXBobWI2Q2M1ZVpwbTdsdnZkOXdMdVBFMnFiNTJzZDBRZ1VtWHZCbTN2ejBmV1I5dnBEeUpSd3hXYnBvUDNQcldiYVlPVFlzbVJEekNGcHNqWVg0UndLMTIzb2x4X2NUbDhj0gF8QVVfeXFMT01CSmtrd1ZDamgwLWFzbUJyZXBUTXN1WVZzUm8zbkM4SUIzaDloSzBQNjhlZ21xM2hJTWlVakVRcl9fQnBsdWJ4Si15OGd6NXFHcEMxSnEyVXNLb2U5b3d3aXJwS2dHTVFMWG5qNzI3REEzOFIwcTFJNG9fTA?oc=5",
-   "data": "2026-10-19T13:35:11+00:00"
-  },
-  {
-   "titulo": "Prefeito de Pouso Alegre fala de investimentos realizados pela prefeitura",
-   "fonte": "Terra do Mandu",
-   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxONUZoeEFaRzF1X1hCYnQ1SG1KdWhod0pSVmNneUVCSTdPWXkwZVh4Z3VUQ3E5WGt6OFdSQUZtb1lqeldQbllkRzkzeWNuTHZwZkhhZjFCcmhCRlFSSjNYS3JLb0NsRUw5TkhqTnBnWjRwLU92d2dOOFhoYzl4VU9Jcl9XVFNfNXhmbFhqVWdwLW9Jb29DNWM5dGZ0TzlmYnZHWXVxVTFDS2tqSWRVU0hJOE1pRjJDZVZnTkozRHRRYWM?oc=5",
-   "data": "2026-10-19T13:34:27+00:00"
-  },
-  {
-   "titulo": "Independência financeira à vista? Veja quanto rende o prêmio de R$ 185 milhões da Mega-Sena acumulada",
-   "fonte": "Money Times",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPY290c3VIaTZsVHdfWVdOZnJIUWNmUl92ci1sTS1kaHJGcUwzeFdMYTYxdmZrR3pZek95bDZwaU16RV90U1Zad0E1Unk1OTJ6TXhyRDROazcxUW9hZV9rb0t4Yk1MbUttS3o3RTYzcGJPeEEzcmhpX1pHVjQ5M1o2aUMyUWNyU2tadzdIaEswb01WT19UVW02RzVnancwQ2R3c1FPS1lwbW84TVpZVTFFTHpMdHZNREZM?oc=5",
-   "data": "2026-10-19T13:34:00+00:00"
-  },
-  {
-   "titulo": "Ibovespa: Reta final das eleições no Brasil, balanços das empresas de IA e persistência dos riscos geopolíticos; veja destaques da semana",
-   "fonte": "Empiricus",
-   "link": "https://news.google.com/rss/articles/CBMimwJBVV95cUxQVjFQUlcxQ1lRcFBlRGxWSmU4dlFDNlN4VVhZWXRRQ3pwaWp5Uk8tcmFZMnQ5UmtpV1J1VmEwQW00RmVvV1E0V0tHNGppZHR5ZVJYc1UyOXlqXzlnaG5BVzE0R19JVnNBc3U5cEdRSG02b0ZsaFduemczbFZLZmFscHdVeDNPazVpNVAxQk42MEJQdUttMmFuNjZMTm5vWlp6WTR4cW1reWhYY2F2b0xkaFExOUFDN0JtNVFRa1luVXNXQ3J5T0RQT3phSXhPNlBVbnRrU1lQWDJkY1ZNU3FTNjI5Wk1lLWNLazRWY3VkUE43SldEcVNxSmVLdVFRZkxldi03Rnc2Z3BrRnUxaTFIdVRPb3U2dmxLNDhr?oc=5",
-   "data": "2026-10-19T13:34:00+00:00"
+   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPaXpPV1pDeE9jQkhINXVBdVNGQnpMT2dINi0wTVlHZ0FGZHFlS1VzQ1ROQUktTFYtSm8xQVc1NmFrcXg1S0diNGcyeXRFZm80d1NNalhEUzlwcmVUS3ROZlpNMU9mVFdoanVvTlVodW5xZmlTWVdFOVB2MGhpVGJJTVNHWDZBd3lWSkFDTTlncUNWejBvVzlyYmQ3SkstSEVwTGMwOVdIZmkzT1c1cXFLckVDM1RCUmtWWnY1TlVFQmtZTWlaSEI0WTAxQmZJbUhoWDg3UXVmazMwcUVP?oc=5",
+   "data": "2026-10-19T14:20:00+00:00"
   }
  ]
 }
