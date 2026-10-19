@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-10-19T02:34:14+00:00",
+ "atualizado": "2026-10-19T03:36:30+00:00",
  "indicadores": {
   "selic": {
    "valor": 13.75,
@@ -17,6 +17,18 @@
  "cotacoes": {},
  "noticias": [
   {
+   "titulo": "Café: Essa alta em NY faz sentido? – Por Marcelo Fraga Moreira",
+   "fonte": "brasilagro.com.br",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxObWxLblBiVGk4cDFvTVE4dGtfWmZxLXpaQTVwRVcyM2MtUEN4Z0lqUllGS3plOS1GSm5lR3dSZUJIdTF2Uy1xMm9xZThablNwR0tpQUUtbE1IU3JRNUk0bGZZNG5fOGhOS0V1TUFSdmtZV1VaYk9La3FNQ1UxRjgydDZVemRFUThjdjBSN2Ruam9Pa18wVnMyeWppdWVqMTNvZlZsWg?oc=5",
+   "data": "2026-10-19T03:02:12+00:00"
+  },
+  {
+   "titulo": "Índices recuam com temores sobre o dólar, mas ação de energia selecionada por IA sobe 12,94%",
+   "fonte": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
+   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNVzFETzlXVFBQYllpY0JhVjNGTWRoSmpEdGxSek5sMm9BMVBERUJKbkp6cTNydC1wNldOTGtNeU1ZZlBGLUJIbVRVbm9rdFptQ05nWktTcWx6eVpyMXFubldKWG9mRTdSMUlOTUFodkN6RGthNnVwSFhjSlg3dTI3SEwxTl90YW9HbVFFREhZRjhRSmNrUnF4OXI4Y2FrYkRzUkNPeFZ4ZlBySGhpT2RIMGM5SEhnejF4VXBOb2V5cXRWOVdhZkxiX0ZQVzZUWTZGSHFJUF9OUnRKVVVtTXc?oc=5",
+   "data": "2026-10-19T02:35:00+00:00"
+  },
+  {
    "titulo": "Obras dos hospitais estaduais avançam; R$ 600 milhões de investimentos",
    "fonte": "PORTAL MATO GROSSO",
    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNX2M3Ukw0LW5kT0ZibkFqc2kzUWhtRWVDV3ZEbTdpcTV3WlF2eDJmQ1U3Mk9OOUJzZFdMU0RzMzBGV2UwdGlOLTRyUzJldE1VWHpIeWQ1bnVJQnZPa1RoQnowTUs3a3FhLWZRSGhzUzBFLUkzNGJSYVNYNUtrZVNNZ2tZVVBUNWVwZ0NQT0tWd1BrcWVtVlhuZndFRzd4NDM0eDg4?oc=5",
@@ -33,6 +45,12 @@
    "fonte": "G1",
    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQR2g3TkJnejdQQ1ZWR2RHTGRXNTQ0N1BFTUZyYmJDTnZqN0NMN1ZfbWdEMDAzUEg0cXFoMjFpNjJMamlqVnFkWUJ0ZUlVcFA3cWFLSDk5NEdhVWdWZC1VbnQwYVhMVE9jc1h4S1pGWURFOUVMcFhkQ1ltaXhZVHFIQWVCQm1aOHROQmZVVDVFeDFaUdIBoAFBVV95cUxPRy1XSE5sdy14SVhMeTkxcURGQUxzM3Z1elJnczNLRDFfNVA1YnlLWmtDd0ljTmtrelVQd1JVUmFLbV9YaU85WGFFUE40T0NYX1FxSUx5TnNxTGFtcnVjLUIwNWx2eEY5Y1JKdHMxVXBkcXo3Q1phcDNERkVfd0lKRGlkSEhiSlhVbVNGc3Y5cjcyZ0JQMy1pcmxwN1YxQXkx?oc=5",
    "data": "2026-10-19T01:53:48+00:00"
+  },
+  {
+   "titulo": "Direcional cai mais de 9% e lidera perdas do Ibovespa hoje; veja maiores altas e baixas",
+   "fonte": "Estadão",
+   "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNd2xuejdydWhsWUpWb2RIT1M5dDVhQ2RtbWY5bWpmODUzZVpJYzFCWDZxUnRqV2hNOEw5eEY2MGd3cUJWT3N2VDZZS2hJMTZkaWxVaDdmWXBmZTM1d2RRNG55dXVVVlRmZllvemoyZWhUVlh4THVLcnFQdERxaExzZEl4cFcySXVLOXZHN3JTRFI0c19RV1IwT1gxZ1RTeWdKYWxpQ3F4YnhWazRoQnVEdzdGUWhVa3M0TTVmc1AtcmdjanRKT3FSci1WVS1KbmZxTUw5bTlkanYxbEY2S1gxaFJrRFA5TjQ?oc=5",
+   "data": "2026-10-19T01:49:29+00:00"
   },
   {
    "titulo": "Dólar cai 4,12% e fecha a R$ 5 após Flávio Bolsonaro liderar 1º turno das eleições",
@@ -59,34 +77,16 @@
    "data": "2026-10-19T01:22:48+00:00"
   },
   {
+   "titulo": "Inflação de combustíveis em 2026 quase dobra em relação a 2025",
+   "fonte": "O Alto Acre",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOMW5OaXZPVFVUXzFKQW1PM2w0eTJ5ZWIydFR3LVl5VHkycVg4Qk1TcU9MT2huUG1CUXoxeF9KWkwyUjhDTzdIRzJOanU4WE1reUh3TmxSOGgyem42V0VOelFyT0ZzaXdxbG92SGs5Y3N5X0VSTXA3UFZHTkFtM1hzbG03MTg3WTR5NWJFOGZn0gGTAUFVX3lxTE9CaFZnMFVaanpURkxwdHRkN1Y3QllyWi1QRnc1dHplYUJZUzdqaDBJTjR1T25yblRHMU1oejk5SDkzUV9QOFJqaWoybGFTUVcyWVdWV0p0WVR1VWVDR2EyU2kxMEl3RjdXTEZaOU1HWnlQQjBHb3lGSHhlS3NEaVJXUmZMN1RvLWtpZkg0VEV0UmVEaw?oc=5",
+   "data": "2026-10-19T01:16:52+00:00"
+  },
+  {
    "titulo": "Flávio cita custo de vida; Lula reage: 'Mais caro era no governo Bolsonaro'",
    "fonte": "UOL Notícias",
    "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNLU13ZkZqaDZGMlJKMlZIX19qY2wwRUEtdTNZRjBVeFlaakJwdXVBN0dnU2xqa3ZCU3k4UWU1TnZFWkZybUZoaHYyZERDTVBNWmViNmJlZ0IyWWRERGpqMTFSWlRPaDFPTkk0eWpILTNPckQwc3pSbFpVQVZVcEd1QkhR?oc=5",
    "data": "2026-10-19T00:48:19+00:00"
-  },
-  {
-   "titulo": "Lula defende ganho real do salário mínimo: “Não é luxo dar aumento”",
-   "fonte": "Francês News",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOdzNZbDdqYVo1RFN2bGp5dE9ubUo5Rmd4ckhLMHdmM0RiNWxRWmF0R3dkRXZTRndsbUxIOFQ0aGFnT191eU5EcDJUVnNvLTg1X0NYTnRLUUpNYUtPVm1PVzI4OThIZ19ONzVJQkYwd3pqOEx3SndFbHZXLVRSaERiQ2JmRU9kRF9tcE5WY1BsV291VTdLbC1wV0JyQXlwRUF2TUF4eHR0T1RIc2ZGV2xpd2I4cw?oc=5",
-   "data": "2026-10-19T00:36:00+00:00"
-  },
-  {
-   "titulo": "Temor de virada de Lula faz proteção contra alta do dólar saltar à máxima desde 2011",
-   "fonte": "Valor Econômico",
-   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPeWhtalU1dllkLWxxYnZKMy10N0c1NWNtOTg2SXlMZ09FYTdlTXJlNnVrUEJ2Y0lnVkJqM1h6STF3RDNTRGdrRE91WTJWOUJXNVQ2cnZxanlLWFdNWlFmZFR3NEtzVnU1VC1aeEFVaFNHb1hiYVdZUm51QVZ6eEtZWUIyeUJRdTRCZ0tzd29vcEhxNzYtbjd0bFhkNzN6bUhRWnRCRVN3eHh6eGNvckhyNGg5elczX0kySHlLOHFuV2ZMVnVxdTltWVRzWmpnX1Y3dnBEZFlvYmk5bzN4WlHSAewBQVVfeXFMTjBnaW90MmQ2N2J4d3BvcDBDR2VrelRuU01aQThsaC13cG4xTGRBVnI4eWZRSWtBdFdkNU5fR0pJOGExNldlN3lMOEFSLVA3ZXBkT3phcmhNTG92UWdGdHpNYXNSaVRTWkp4czFWbEF2dWt3SnJJdVJ4MFZxZGhSUXJRTU56ZWJZNXVXZF9CTk5HZDZxeTlEMnYyRUY3Z2FmVmxYUHhiQmp6X2pmT3c4dE8wY2FmQ0YtUVhWSUpaUC1vVjFsRDlhMEIzMmJYTlpjSkE2X0o4Y1NzcWRudkFUM0pFUWxCcG8wYWhUaWE?oc=5",
-   "data": "2026-10-19T00:32:48+00:00"
-  },
-  {
-   "titulo": "Relatório Semanal de Wall Street da TradingKey: Alta da Inflação Intensifica Pressão sobre os Juros; Nasdaq Cai 4,48%, Sua Maior Queda Semanal desde Junho",
-   "fonte": "TradingKey",
-   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOZkduc3RseUpzS2xoelRnbWRaZmZTWC0tNUVKM2l5MWRGTjE0LUZEZGFQN2dIWkt6bHZyRFBjTmk3R2FXVk14bGxDMWFiWVNRMEVkNGVXQTJYZVc1bmgzNmE2T3F4b24tVm91eGYtblkzNmlId005U0hXT2NENmxyZ2xoYnV4ZVFrQ1VSaW56aDRBZTdGeEJtOW1uV0lRRmpXeE03NW5qZnNkajdBV2VKOWxNR3pVRTZDYjNNeHQzTkpXT1hmdkFJTm9RWERzNVo5b2VVUXlVcw?oc=5",
-   "data": "2026-10-19T00:26:49+00:00"
-  },
-  {
-   "titulo": "ING: força do dólar deve persistir com diferenciais de juros a favor dos EUA - Notícias e Estatísticas",
-   "fonte": "IndexBox",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOSlREWndPSFcyQklXd2FkUkFSbjAtRWppZFpFam5hODcwS3NLemxSMzA5NHM4UTFQd0VlMGgtVERJOG1pVDU4RGpyV0pyN1JCQ2piNTlTMFhwSC1ObzlPd0lJNjdwWktRODBLNHRYRXVCazN5cnFHcE41RDJMd2JaUzJkVHJuNWtNMUxPcTZYRG9xUmVNbXR2UDNMOVp1WDQ?oc=5",
-   "data": "2026-10-19T00:20:29+00:00"
   }
  ]
 }
