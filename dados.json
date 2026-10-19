@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-10-19T05:35:48+00:00",
+ "atualizado": "2026-10-19T06:48:07+00:00",
  "indicadores": {
   "selic": {
    "valor": 13.75,
@@ -17,10 +17,58 @@
  "cotacoes": {},
  "noticias": [
   {
+   "titulo": "Golden Prospect nomeia Baker Steel como gestora de investimentos",
+   "fonte": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPM0Z4bGxCUEpFdFBKQ1l2ZFRkWEZrb0p6a3NGU3Y3dU52eEpaX2FVRFFPMmwzaS1jWklKMHJ3OEljUW5xNlJheElDS2pNcjRVZFZQcGtDOFZ4cGxTWnhkOXgxYlhaZnl5X1U0MjBORlRQOXhjVWVZZlRSMlZWNlE3d3FXcE9iWmc3MV9icFJtLU5WNG1NZ0RRTnlwajQtZF9NcU9oc0lKaEhzbVZSRlBod3d5UzN6MWRSenU3cQ?oc=5",
+   "data": "2026-10-19T06:22:00+00:00"
+  },
+  {
+   "titulo": "Inflação vai cortar para metade ganho real do salário mínimo no próximo ano",
+   "fonte": "Jornal de Notícias",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPeUVGM2NfcjdUTF80c3VQY2NWVkw5UHpQZ0owMjQ5aVpweTBnSkRTY3JoMGhYcUhRdjZmaFptUnlBeWRzZS1Id25wb01FdXE2Zzg4WWNOaV9aQ25qdXh5SW4xY2JuOGluOGt4bHh5eFNaVWY2NUR2aWJaZ2huN0NZMkhEOE5Ma1FWTGlxRUtlcWdsVGg5S0pobnNwS1k5ZGoyUjNIR0VqMnJIOHNKdjZ0N2xmeG9nMG14R0E?oc=5",
+   "data": "2026-10-19T06:07:00+00:00"
+  },
+  {
+   "titulo": "Dólar forte, posição fraca para Trump antes das eleições de meio de mandato: McGeever",
+   "fonte": "TradingView",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5GMkZ2bTlkbk1rYUVpRk9hcW5PaEdMYXI3cEJjTlkwaXhCQnBuNkV0WWJncnV0OU9Va1BEZ0F1NmVaeVFFZFczQXZfU1g1b3NhZHZFcGMtaGtlbTEzSWNiY2hFVFFwc09teEZoQjltM3VYX0pLZS04?oc=5",
+   "data": "2026-10-19T06:02:00+00:00"
+  },
+  {
+   "titulo": "Orange County propõe investir US$ 800 milhões em 13 projetos com recursos do turismo",
+   "fonte": "Jornal Nossa Gente",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQNThBTUVLVXpCSGV6SmN0aDBHV2VxZVg3N0JsN19CR1ZxZXpDWE1GWVNtdkt2aFhnWXZKSGZNSVdWTnFqcUtNRm5vZ0VfUmh6UnhOYm8wbDhnQ1BmdlR6M2xEMmRkbjZDSGxFSVRHQ05CWWl3akNocjVmTndBWFZnZmgyckk0a3dmUV9vQkhpVUE0eUtqRWpkZlU1Y1JEUXZVYmdMWk9GVUZaRUJ0UzdZMw?oc=5",
+   "data": "2026-10-19T06:01:05+00:00"
+  },
+  {
+   "titulo": "Como as universidades estrangeiras lidam com a \"inflação\" de diplomas de alto nível?",
+   "fonte": "Vietnam.vn",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPeWFIZVRPQVhpWmpDRGQ1Z3E1SkQ2TzJKNExVbVpwOGJ2aEd4VmpzYTk0SDRyWHlhUlZjMFVSd2k2RjlvazRuNkFMWnI1eHpPaTJoazEzd3F3Ym93Nmx0cFlSOWlrdWtnTmZ2Y1MwcHliWHV4emZjQlplQWtEbm5EekxLRQ?oc=5",
+   "data": "2026-10-19T06:01:03+00:00"
+  },
+  {
+   "titulo": "Inflação nos EUA sobe para 3,7% e pressiona o orçamento das famílias",
+   "fonte": "www.nossagente.net",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPbEFaSFZjOEpGR3FBLU5XU3dyN0tOTjhlMmJZUWpjRk00Q3JvMnZCSHBYSDdnYUlCVG85TWV1aExtTGYwNlB4YlZaUEhZVEhDMDRjSnVDYm9UbGlOR1FuazlJc3Y5cDcxM2ptZmdmSlNNQ0doRDBHV0ZKSVhIZ1lnVXBJMU1vQnhzZGV4ZWEtUUNkbzRJWWhlLTh3?oc=5",
+   "data": "2026-10-19T05:50:47+00:00"
+  },
+  {
+   "titulo": "Dólar abaixo de R$ 5: especialistas veem oportunidade para ampliar investimentos internacionais",
+   "fonte": "Estadão",
+   "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQUTJvOXJ3YlVoQzVFdUl2NXdmc1NKNmZDd3lVSGZrOW5reF9FR21OLTIxNy1MOUtvMmFXYmdlX1hZM3RyODdCdGRLeFhpSGQ5Sl9iSnhqQlh5cTZ5cU1TSnpTNXNzazJ0N0lhYmhRV3dBMzVhdkhTS1paTURhMkd5UjEyVDJCWWNMamRwQ2hSV2pLZHFLSU5RLTlyTUhWdGk2NmwyTEVzREw3eTBFbXZWd2NCLUNaRWxldGplbmFwMEs1TjhmandpMk9LXzM3d3NTemxRY1BhZDlaRDd2UGJiR0xsc180dkVWWm44?oc=5",
+   "data": "2026-10-19T04:55:33+00:00"
+  },
+  {
    "titulo": "Taxas de câmbio em 19 de outubro: USD sob pressão devido às expectativas de aumento da taxa de juros do Fed.",
    "fonte": "Vietnam.vn",
    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQclJuUHl4NUp4blBvZ0QxamJrczVpZVdoRXZYd2MxaC1CZk92RzB3S2RWeEh5X1ljLU5KLWZzaTYtbmxJc1U3bmlkMzdrNlRVWWtnOWxjSE83QWR6VnM4Z0FDV0h4bzFRNUpYaWRQc0VuZ1NtWWFBTjhra1hQOGYxZ09fdFZTZ2FQUUVV?oc=5",
    "data": "2026-10-19T04:47:18+00:00"
+  },
+  {
+   "titulo": "5 mil de dano no primeiro disparo: como os novos códigos de +1 DMG FPS expõem a inflação de poder no Roblox",
+   "fonte": "Rádio Geek",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQaWxSUUlPcXVuUFR4c293a202dXotd0NLaGllRzd4WWZ0NTFXMlJTQk0yaXE4NFBmLWhFZ3lrWEhZYkcwbVJxY2lLdExwVGgycFhtUm9OQXBBci1WUk5QV2JUbnRjUjRQam1NX3RLd0xLeUEzdl82M0RXSTZ4NTFZR21SZlAxSS1tWGJSbllreUxCQTJadUo4azZB?oc=5",
+   "data": "2026-10-19T04:41:31+00:00"
   },
   {
    "titulo": "Ueda, do Banco do Japão: inflação subjacente perto de 2% com demanda por IA pressionando preços",
@@ -39,54 +87,6 @@
    "fonte": "Vietnam.vn",
    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNY0NLUi0zTExqSkVGUTYzcHkwZ2k4bGxpV0pHSEszRmpxT1otV1RManZlZWpTbzVzV0xqVVZ0SVUzdGttSGhNdC1EcV8xcnNub2h5MEptRXVQZ05qaTQyd1hsN0JWY0dETkNJblVTYldpSWtfT0xmZUpVYXRXeWVmckZDM1VoQ1N3Tkd0ZVlMZnl6c2pkUTdn?oc=5",
    "data": "2026-10-19T04:00:04+00:00"
-  },
-  {
-   "titulo": "Taxa de câmbio do dólar americano hoje, 19 de outubro de 2026: Estagnada com a valorização do iene japonês.",
-   "fonte": "Vietnam.vn",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNQmgza1Rpb19uT1hJU3RzUDlBTF9MdGQ0NGdoVXJQeU0ydjdVT3doUlRaNEp6THBkYzd6YXZldnJMeDUzYVdLWDBEclRVSDFlaTA3N2FJUmZXdWFfcmloZTdpYjMzUW96UkxZSjVEZU9jOXZfTXRTLWFXa3E4ZVVzbDlVb2hZNUtRc1d6eWVORTVfVzE2WEE?oc=5",
-   "data": "2026-10-19T03:18:54+00:00"
-  },
-  {
-   "titulo": "Café: Essa alta em NY faz sentido? – Por Marcelo Fraga Moreira",
-   "fonte": "brasilagro.com.br",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxObWxLblBiVGk4cDFvTVE4dGtfWmZxLXpaQTVwRVcyM2MtUEN4Z0lqUllGS3plOS1GSm5lR3dSZUJIdTF2Uy1xMm9xZThablNwR0tpQUUtbE1IU3JRNUk0bGZZNG5fOGhOS0V1TUFSdmtZV1VaYk9La3FNQ1UxRjgydDZVemRFUThjdjBSN2Ruam9Pa18wVnMyeWppdWVqMTNvZlZsWg?oc=5",
-   "data": "2026-10-19T03:02:12+00:00"
-  },
-  {
-   "titulo": "Índices recuam com temores sobre o dólar, mas ação de energia selecionada por IA sobe 12,94%",
-   "fonte": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
-   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNVzFETzlXVFBQYllpY0JhVjNGTWRoSmpEdGxSek5sMm9BMVBERUJKbkp6cTNydC1wNldOTGtNeU1ZZlBGLUJIbVRVbm9rdFptQ05nWktTcWx6eVpyMXFubldKWG9mRTdSMUlOTUFodkN6RGthNnVwSFhjSlg3dTI3SEwxTl90YW9HbVFFREhZRjhRSmNrUnF4OXI4Y2FrYkRzUkNPeFZ4ZlBySGhpT2RIMGM5SEhnejF4VXBOb2V5cXRWOVdhZkxiX0ZQVzZUWTZGSHFJUF9OUnRKVVVtTXc?oc=5",
-   "data": "2026-10-19T02:35:00+00:00"
-  },
-  {
-   "titulo": "Direcional cai mais de 9% e lidera perdas do Ibovespa hoje; veja maiores altas e baixas",
-   "fonte": "Estadão",
-   "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNd2xuejdydWhsWUpWb2RIT1M5dDVhQ2RtbWY5bWpmODUzZVpJYzFCWDZxUnRqV2hNOEw5eEY2MGd3cUJWT3N2VDZZS2hJMTZkaWxVaDdmWXBmZTM1d2RRNG55dXVVVlRmZllvemoyZWhUVlh4THVLcnFQdERxaExzZEl4cFcySXVLOXZHN3JTRFI0c19RV1IwT1gxZ1RTeWdKYWxpQ3F4YnhWazRoQnVEdzdGUWhVa3M0TTVmc1AtcmdjanRKT3FSci1WVS1KbmZxTUw5bTlkanYxbEY2S1gxaFJrRFA5TjQ?oc=5",
-   "data": "2026-10-19T02:33:01+00:00"
-  },
-  {
-   "titulo": "Obras dos hospitais estaduais avançam; R$ 600 milhões de investimentos",
-   "fonte": "PORTAL MATO GROSSO",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNX2M3Ukw0LW5kT0ZibkFqc2kzUWhtRWVDV3ZEbTdpcTV3WlF2eDJmQ1U3Mk9OOUJzZFdMU0RzMzBGV2UwdGlOLTRyUzJldE1VWHpIeWQ1bnVJQnZPa1RoQnowTUs3a3FhLWZRSGhzUzBFLUkzNGJSYVNYNUtrZVNNZ2tZVVBUNWVwZ0NQT0tWd1BrcWVtVlhuZndFRzd4NDM0eDg4?oc=5",
-   "data": "2026-10-19T02:31:09+00:00"
-  },
-  {
-   "titulo": "Ibovespa pode subir ainda mais? Citi vê sinais de uma recuperação que está apenas começando",
-   "fonte": "Estadão",
-   "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPd0hoelJtYWtVRURWUWFpeDJGWjhIdGlvZGdqUlpHNU5LTHlsOHprS0JjNkVfZzVpY2hkdlVTODdpaXkxcEJLSGZ0bFg4UFJTWmYzdG1Ka2RpQUs0NnJsV3NYNUh3RU9wdm94d1NCRkF1VENSQnRvRzVrRGJhaTVHR0Q3RFNfUnZzYTlvaVJGUFQzbmJNWTFhN1ZCb1EwcHpyM0Z2eU9tdGtYdmw5by1oM3BWSlJWLXVPbU5UT0gwM2liNWJXODVtSEVGOEFvNTlmT19yUnhTbFZYMzF0RU5iZUF4MC11YXNINjh5RWNB?oc=5",
-   "data": "2026-10-19T02:27:23+00:00"
-  },
-  {
-   "titulo": "Cotação do dólar hoje (19 de outubro): O dólar americano enfrenta pressão de baixa esta semana.",
-   "fonte": "Vietnam.vn",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQNS1FMkVNdlZHLUlEaWgzenBqcVRKSmlkOTBtZHVIV3NzX3JYbGNjVHlkb21fYjI1QXJKaEpVVkZ1UkhOMHBhZUZTcXFxM1JtQkV2VkdPcXl3am90N29kTFIwRmlpVGxxMkxOM3lTUEduYzJGaEE5TU9zYU9KUkYwb3d6LUpsQXppaWhERHU3NXhhR0ZuS3BWNVNHTGFidm8?oc=5",
-   "data": "2026-10-19T02:21:21+00:00"
-  },
-  {
-   "titulo": "Prio e Petrobras lideram ganhos do Ibovespa hoje; veja maiores altas e baixas",
-   "fonte": "Estadão",
-   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQbHVuYzhyeGYwOVY2YXBPX0w3YWg3a1MzZmFCYk90RWNZWEloWjMzLS0tUWFWZE1XZ2trY0dhMGstZG44OHJ5dXNiSGZCZFJYVVpMeU5tdDJLbGp0Z0k0ZXZSNEhFeEVPUk5nSzJVbkVhXzJnV3lnMDZmQjJZbFFWNV81U2swSWN1N3V0RzVaS1dtZFRTNWpOSVJvc19WeE9rNzZBcHRoOU5uU2dTd0tpRFdpZWdrUXZDeEVfaGpxUmgtM2J5T1htY3FRaXVqdU5oUWdVblVnMFJ3LWc?oc=5",
-   "data": "2026-10-19T02:18:57+00:00"
   }
  ]
 }
