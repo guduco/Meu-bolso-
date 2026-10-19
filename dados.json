@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-10-19T08:43:50+00:00",
+ "atualizado": "2026-10-19T09:40:47+00:00",
  "indicadores": {
   "selic": {
    "valor": 13.75,
@@ -17,16 +17,64 @@
  "cotacoes": {},
  "noticias": [
   {
-   "titulo": "Mercado ainda vê chance de Selic menor em 2027, diz economista",
-   "fonte": "Juruá 24 horas",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNV2x5TjZQTUhXM0VfM3lSaHJkbG1MWlo1ZlVEcUZXX1NiNTBJRS0taE1HY2JFaXN3WTdELVc1N09WUUUtOG10dUZETE83MzhxRzM3ekZDTzN0S2JTYjdyb2pWX0k3YXprWko5NEhjazkzU2JrLW5UUldMS3RxMVQwd0d6ZEZyY0RYc242YTB1MzNuS2diUmRKVlpB?oc=5",
-   "data": "2026-10-19T08:35:52+00:00"
+   "titulo": "O que pode mexer com Bolsa e dólar? Veja os destaques da agenda econômica desta segunda (19)",
+   "fonte": "Money Times",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQRU92Yk4xWXhVUDZPaUJ3aU5HbUg5SktNbFd6R2ZRSkdncVVXd1RCTzRFbk1YZlpyRl9pWDREMk5waU5seUc5TGwyRmdhNHI4SUlHZnJqWGRLSjBtMG14UUFHMF91amF2RjlmYTMwSzFYa2VtdnpkNkVCWExUUVpRTWNMbkxJSGVfZEtYLXo3RGpLY3lWQnFHQ2QtTFVxZm5uSDBfWkgzRzlncldBRjU4V3ZhaU50TnJE?oc=5",
+   "data": "2026-10-19T09:30:00+00:00"
+  },
+  {
+   "titulo": "Salário mínimo sobe em 2027, mas inflação rouba metade do ganho aos trabalhadores",
+   "fonte": "Folha Nacional",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOYmFFQWVlR2RIU05qdVFrWGZpV00yZEgxanpQNjZhMGlLNV8wTk1oNmkyQzFSZThVbFdHeFU4ZExNYm9TM1FVZEJxNXlIcVRwczY1aUt5SktoTlhsVG5xcER3MDUxTjR1ZlI5dnQ0aFh6ci1YSTVNUEE2RjRIU3h1czRHajM2MHQ0UVQ1WXE4czBnM3BHWExTYXlENENXeGZtMmxMUGltSWJidk1UUjR3N2JJWEFuR21i?oc=5",
+   "data": "2026-10-19T09:29:06+00:00"
   },
   {
    "titulo": "Inflação e PIB vão definir impacto do fim da escala 6x1 nas contas públicas",
    "fonte": "UOL Economia",
    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQdnhraHhvZzZEZEVyaUx0Qk02Q2xDa0dLTzhCSUtvR2R1Y0h0WXRESURHb1o3cldUN2EtMUF6b3BSTXpVZlJLMXhTSDBYQW1sT2lsc1ZLU2tieWZrci1sVU1kdHJiSkVqSWhKWWNwUDlaQ2hBS2F3VjlRM3RGQ2doTlpMWTRVeGVOdGV4X29WOUp5YTQ?oc=5",
-   "data": "2026-10-19T08:33:06+00:00"
+   "data": "2026-10-19T09:25:12+00:00"
+  },
+  {
+   "titulo": "Bons projetos e governança metropolitana são essenciais para ampliar investimentos em mobilidade, diz Francisco Pierrini",
+   "fonte": "technibus.com.br",
+   "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQeHNqaWI0Qm9aUE8yS0ZvMUFSZk5XM1k1Qm9ERGpJOUJSYXVYQkVUeUNWNWhJTVVTaEs2WHE2VEd5dDlyZlNPc0dSYzdiSl9RcURWTjZtZkpGcFBCTEhOVGZOZEZqdDdRN1Bnbm9tNVZsZ1hpMWxBQmpHbE9FQjBNNnJmUDJRb1BzS2Y1cWlFcjJjcDNlS2puWnUtTWtwZUhuM1pWNldXUkk4T2gtYW5YN3hpY0h5WVJneWFrQTN1dlBVbF92cWhHWGo5SER6bHhiYlE2MWc5OFdHM0RwMGM2ZnAyZWU1Z0pDbmdz?oc=5",
+   "data": "2026-10-19T09:24:35+00:00"
+  },
+  {
+   "titulo": "Sob Equatorial, Sabesp busca acelerar investimentos e mantém 1.300 frentes de obras",
+   "fonte": "Bloomberg Línea Brasil",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOMEo0Vkd1T0NPNUdNV0toS25nbTdEcjkyT0E1Y2hSb3VETTBqckxVc2g1YW13VndpWmlOM2hGWUZXeFRiRjVSOC1PbzRGNGYwUm9LYmxLdzFMNDAyYjNIQ1lJYjhoMm9VYnNHb3dHbkc0N0hYYTlacWRHM2hLclF3XzJPNWtlUWdtbmJWZml5ZklPLVZaTnl6dXJjUEJVTzJLRjBVZHB5LU9rVE0yNXktWXRieVdmR1psWWlPWnpDdm9fRGvSAdcBQVVfeXFMTmtla2F1NFhWVWF4ekZBSXlvZ0JTM0R1YW80aG9qeGZPd1Q2ME9EcnRDRXhPV0FBX0VYTzVIRjh4UHcwUWVUM3k0elh5dGxLcHB2aVZFM1pPMlg2SW9hRlpsNHY3dWE4ZU9WX1FMX0VjOE56aHhOX3h6MnBULUlZUXZ6UDJfeldBY1pSd2NRSjEzMFJoekRsNXZvNE5XZlBGbTN6cGo4Q2JlVUxERGoyYmlYZGJtbWltMXNtaDVjeFgtUHBfLU1ZN0ZxRkRfZFkzMS16LTRfMHM?oc=5",
+   "data": "2026-10-19T09:00:01+00:00"
+  },
+  {
+   "titulo": "Tempo real: Ibovespa abre a semana de olho no Focus e pesquisa BTG/Nexus",
+   "fonte": "Money Times",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5NNG4tM2l3NUJNVm5fN1hqOHRyb1dsaVhzQUE4Q3FLLS1JYUdVRTJRdVQ0Y3lYaG4zT01PSXdzdnY1RExJRjc3enlZUUFicVFhMzlzc1JpN216VF9peE4wOGcyOF9DbGFmNEtESA?oc=5",
+   "data": "2026-10-19T09:00:00+00:00"
+  },
+  {
+   "titulo": "\"Para atrair investimentos em alta tecnologia, precisamos de uma força de trabalho altamente qualificada.\"",
+   "fonte": "Vietnam.vn",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPblY0RjdtdXotQWpuRVRhT29pdGRKeFl6dTRDRVRicVprczAxZnJncFVSaVExQ20zckVGTi1hYlRnRVlSSXd1UVlzQmJtYVltZ2ZXWGNuMUJaYUplSXNYeXRhTVZmUWl4bnpDRVVTeEx6Qkc2ckNaZ0NYZGl4aElVbXZTWHJxS3NTdGY0UlhpRDFZS25iZFE?oc=5",
+   "data": "2026-10-19T08:58:10+00:00"
+  },
+  {
+   "titulo": "Carlos Thadeu | Juros altos não resolvem tudo",
+   "fonte": "Poder360",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBLYWZoX2VmTUhwWHM1S0hrSmRLeklaQjI3cG1rcXRpMjFWd25jWlljdmFNT3kzSmlMVVRWMWJsWk02ZFBZSnVzdlEzMnZNNTItRFk0Y3dCYnNDcXREcWF3ektHaF9GOExzSGZFSWN3Xy1CeEd3?oc=5",
+   "data": "2026-10-19T08:57:26+00:00"
+  },
+  {
+   "titulo": "O que Flávio Bolsonaro e Lula propõem sobre reajuste do salário mínimo e aposentadorias",
+   "fonte": "BBC",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5FU29uS2YwNGNVMWl4MFVfb0g1WHl2V0lRZ2RENktFRUZ1TzVlMDBHTTN3NGVmb2tmRFJZUU9wTVlidnpIajExc1FQM0lRaVlYNTFQMUxBS3dqR3ZxQjFSNmJxNA?oc=5",
+   "data": "2026-10-19T08:40:58+00:00"
+  },
+  {
+   "titulo": "Mercado ainda vê chance de Selic menor em 2027, diz economista",
+   "fonte": "Juruá 24 horas",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNV2x5TjZQTUhXM0VfM3lSaHJkbG1MWlo1ZlVEcUZXX1NiNTBJRS0taE1HY2JFaXN3WTdELVc1N09WUUUtOG10dUZETE83MzhxRzM3ekZDTzN0S2JTYjdyb2pWX0k3YXprWko5NEhjazkzU2JrLW5UUldMS3RxMVQwd0d6ZEZyY0RYc242YTB1MzNuS2diUmRKVlpB?oc=5",
+   "data": "2026-10-19T08:35:52+00:00"
   },
   {
    "titulo": "Prévia da inflação e dados da China movimentam a agenda econômica da semana",
@@ -39,54 +87,6 @@
    "fonte": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOYW00OVF6eVJvZmFZSGJDUUZFempvem5ZRDJ2Yl80dkhlNUxDcHY5cGNNeHh3bmFZOC1rbzlFM3RUd3VxSWlKZlEyQ1IxbUgycTBLZVZpbkVPMGVxNGNvNVVFNFhLaVhWTHZWWk5MMXhtTTlfMFNFa0tVQ29DZGh6NjVWM1phcGpXZU13bEctUHRQem9tYlktZm82OVlmWnI3V1l3V0VJUkl6OGpvdERKcUo4aGdsZw?oc=5",
    "data": "2026-10-19T08:24:00+00:00"
-  },
-  {
-   "titulo": "Inflação em Angola mantém trajectória descendente fixando-se em 8,3%",
-   "fonte": "Jornal Mercado",
-   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQMnJ3NW5oSUQ2M0RLRENQTFRDUG9sRWw0WnZFMzV4eDVrVWdJWjNzczNsSDA0ZldJUzRKb3FuQ1kyY0ZqRVFCYlUwOFVfeFFIeUt6LXAyYk1qNGpXZDN2ZjNXUktJdjRwMWZBcVVJZWgzTU9NN0dPTkJiTWpLNjBoM3Zzai10U2xFc05uZjdQeFIwMVE?oc=5",
-   "data": "2026-10-19T08:20:57+00:00"
-  },
-  {
-   "titulo": "Motos elétricas ganham mercado e atraem investimentos no Nordeste",
-   "fonte": "Movimento Econômico",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPbUhLT3RBSHk0MjQyRmVVcVFUc051QnhDV1dVbHBwU2cta3RNXzRTUE5BeFVQWkFZUllQTG11RnBlWFdPdm96a1BsQ2ZXVEdjUDIxUGQ4RElCR1BGUGFjazBEa0dsVVFqUE5md2VNemY0YmpZU1hrX0JhTFFNQy03ZktWekZMZmlEdEZuOUJObXp4eE5WckE3WGxteTFkd09QSzV4d0pYWkdSYlAtWEMzS2tsZk9zWVpOb2hyWU80WQ?oc=5",
-   "data": "2026-10-19T08:16:00+00:00"
-  },
-  {
-   "titulo": "Fed deve manter juros na próxima semana, apesar de inflação alta",
-   "fonte": "Valor Econômico",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQejgwUk41WUpvczJwMmNJWm9QZWZOQmp2ODd5Q09hdl9LV05JdDR3MHJ6aWVqZTlBZUxSdHZrclZYZXBDbmJjMmdWWU5pQjZJNDFodnVrUjByR2p4dkd5cC1LTktITkdZUTdRdE9jTlpFdUtVRmo3a2JsNzhlTkhpb0x2LUplVVpFTzdBb1BnaEFiMkNyU3QxMGF6blVfaEctRWhJd3llSGwtMXBvU2JYX29HQkVid212cjBOMWVR0gHMAUFVX3lxTE9sZGpzeEk2Ymp1ZkJEdkVTalpscmFYZnJrc1dMQUg3RjF6RG4tc005SXFPbDR5NFpXdjZ5ZXZKQnUxbHpDYVoxNTNKb3BCR0U5RkxKN2Y2Unl3X0lfbU1vMlZ0X1NFMmxROU1hTWlXMVBJOGZ0Q1pINi11ODJobkg1LTN1T3Fwa0diMHkxYmhuNi1QZW1qZU5fdTVMUm5SYVIxQVBvd19KMmZDbDUwUVVwZmJhNGxDMjJlOTVvLTVzQ2luR2tCc3Q3OUNndQ?oc=5",
-   "data": "2026-10-19T08:15:00+00:00"
-  },
-  {
-   "titulo": "Aumento da inflação pode diminuir para metade o ganho real da subida do salário mínimo",
-   "fonte": "SIC Notícias",
-   "link": "https://news.google.com/rss/articles/CBMiyANBVV95cUxPRVFCUmt4dmJMY3lpSVZicFZmY0prSVhqQVNLWmJKTTU3cV9pOERBVmViYnFrUVFyMXNJbFZxbVo5NlBRZmtOVXpwM2RjVmFNekdjSVZRZHhpanRoM0V4Tm5jb0VMSEhrNzAwNlNXaWRQZm5wci1XM3hKZ1RxQ1g5YkkxakFJSmFaUDRlN2RCenc0RVAxSW15eUpfdkYyNF8xdkNSWHliaXBva1g1OEJsYlhONmFlRGRGemZpdHRtZlZqc05uV1JMVVZMRkxsQk12c0piZ2tLd25uNE9XTlNvaUlLeTYzZWU4djI5dmt2ajJXZWhHQzJvb21JSjlBT1VJQUFRdFFUYmN0ZDRrQ2ducndETFVGSTZfOHk5MnkxbFBMblRiUGNxMVF2Si1QNDRDOUMwT0ozN0xDc2JaNjBEU3JHcG15ajVSZWFzZ3FLdGlFbDZZeU5mNVUyN3pVWTJWN2dFcTNxV0piSFppdjdGNUl6VzhabXBtVmM1b3FmaVp5UXBxcEZjVThrdzlsTVFQS1REZnQtZ00wT0hfYlpzM25DVG90LVJGTV84RmVGSjN3QUx6Q0hZLVhLNkVPRWd3MU5BWGlWdnA?oc=5",
-   "data": "2026-10-19T08:09:03+00:00"
-  },
-  {
-   "titulo": "Filtro a investimentos estrangeiros entra no radar bolsonarista",
-   "fonte": "Valor Econômico",
-   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQSXgwcnVYZ2NWNFdoODk4ekN2Z1ZoeU9xWElsT09kZVE1Qkhsdnl1UmdxcUEyQmhxZ0lkQXJZYUNvNjJwQ080ZHg2bC1iRnNIdmUxLXhxZE1Mb0NPSWtSM2VYTWhOa055ZkdrM21KMjBxdE1ZV3N3WFhPZkk3NW5HWlZBR1pMVGVjaVlIUE1UV3FrdjhDU0hiT19nX2ZBcTljZ1dDWk9zby1hV3ktdTZHMkJiQTQxdUFmdklpZTY0TEk5eHJTYVpMeEVmOXlWLVZK0gHfAUFVX3lxTE5mZC1mejhvTEc4Q1BsLTFhOTFUQUpZVVY1Nmx0QUpFcUNPQlotazYxQ0JXS1h0NXdEQ2RTOTNKeHJMREp1X1BsM25JSVFsVzlEUzZYTnJWUmt4UHdaS19zeGNOYlBTMkx4NUEyR2JZejBNdFcyWEtvQXluX3NWRDFWMFoyQkphUmZjY3RmU0xBVXJnajY5RFN2dnRoNmpCZ0g1ZzJTd3VsWjdMMXFZR0FGQWtYVk9ONnJTLXU2Yk9YVVZSN0VYeHFDdmV6WnNHS0JzVDhXbnhZTXctVW9pU1E?oc=5",
-   "data": "2026-10-19T08:00:00+00:00"
-  },
-  {
-   "titulo": "FIIs de logística ganham força com escassez de galpões",
-   "fonte": "InvestNews",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPZE9mQUw2VHJlY1lOM21CX1hXQlk2czhUVExyNFI2TjdyS2twZHZQeXlIX3BzS0FSLWQ0U0xxZnAzVEFuZzhIZjh4YzlKYTlWYkRMdHdqQ05yTkIwWC1VM0VaS1FweDFfRk9ySXQzeE5WaE4zMEJJb3VER2lzbFQtdGJERFNvTHVxN25tZldmbHhBN2Q2akHSAZsBQVVfeXFMTUdyQ1hUWHdINzd6d2wzQjVkVl90UHp2RURXSUh5Smx2OERPNmhXTkRYWXR3UHo0YmdTeGZ0TE5oLTUwSzA5V2RtVmxkWUM3ZC1LQkNqVGppZTN4OEF4eHcwQVRKZFB0WTl4YUhoeTZpSTloY0ZGYk5aQ05tNXFHc25rT3BaczVlZWp2LTBEdUdkSlB2RkxsTm9sVEU?oc=5",
-   "data": "2026-10-19T08:00:00+00:00"
-  },
-  {
-   "titulo": "Especialistas indicam soluções criativas e regras claras para manter investimentos em O&G",
-   "fonte": "Valor Econômico",
-   "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPNlZYeU02VHNoNW1TSEU5NmV1QWUzcVZUTzQ2V3FoRnRnR0FYOVBnUHljMHdONVJsOUp6MVFRdEd5TkJwRzFjTG8xSXQ4Q3ZZWThXQjBZWi1qN1IyU1dkalRRNC1IWVVyem5IY1pVbVY3NTBWRzB2QUZiNWFaSjNZT2ZvQVM1NmpSbjlFOTRSNGpRQ2tvMG1nSk0yX21ISUVYckxYRXJIM0ZXU0R1QXptbnBRaTVwcWJ6RUJRak9hYWlWTllYS25oNHRPQzhXMm13eHBNQ3J5NHA3QUV6UU1IOHJ0UFYtQlE2SmU2bEJqZWpWd9IBgAJBVV95cUxQYXdNLVBVQm5EMlUwdk41QmlybzNJc21USkZCUmNhZmJ4OWs1Smtxak5XY0FUb0J6SlZ0VHZuU0hxY1JkTkRBYURBTVdMX0dsUDFEMll4SFBLQW42YTJlc1g1VGUtdFdBM2F3U1pRUS1EVDhORk16bFlMZVZjZjF2elRZNmx6a0s4S2dmazNhUnBKMnpBdTBEblFud2hPU2ZKekRUZjM4NmtGaG85T2VsTEFSc2c4N0Y5cnRCdjlJN3JSTDR5OFBUa1Q5Nnpvc0gwbkJROGQ5V09wUmpoRWtkaHhubVdCc3BxdF9VSXIzeWo5SzNxS3BiMExTZlpTa05C?oc=5",
-   "data": "2026-10-19T08:00:00+00:00"
-  },
-  {
-   "titulo": "Quanto está a custar-lhe a inflação? Pergunte ao chatbot de IA da Euronews",
-   "fonte": "Euronews.com",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNMUE3WlR2QzB4LURNbUtEdnZiQWw2SHBWUk1pV1NaX3dJZkpmT1FneWtDRV96WnR2dWZRYXVEemFHSUQ5dk91NmhQX3ZfbHY4X0tSa3dES012d2ZkZXRDUkxib0l3elJEeFJSLWllNVNRdndHTVZjQjNFMzYyaE1mRElJcFcyV2l6TS1CYnlLOV9rNWNRaURuQlNOUUpMMDJzc21ISUtWQ0Zha28t?oc=5",
-   "data": "2026-10-19T07:51:11+00:00"
   }
  ]
 }
