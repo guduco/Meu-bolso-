@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-10-18T23:28:37+00:00",
+ "atualizado": "2026-10-19T00:46:12+00:00",
  "indicadores": {
   "selic": {
    "valor": 13.75,
@@ -16,6 +16,48 @@
  },
  "cotacoes": {},
  "noticias": [
+  {
+   "titulo": "Lula defende ganho real do salário mínimo: “Não é luxo dar aumento”",
+   "fonte": "Francês News",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOdzNZbDdqYVo1RFN2bGp5dE9ubUo5Rmd4ckhLMHdmM0RiNWxRWmF0R3dkRXZTRndsbUxIOFQ0aGFnT191eU5EcDJUVnNvLTg1X0NYTnRLUUpNYUtPVm1PVzI4OThIZ19ONzVJQkYwd3pqOEx3SndFbHZXLVRSaERiQ2JmRU9kRF9tcE5WY1BsV291VTdLbC1wV0JyQXlwRUF2TUF4eHR0T1RIc2ZGV2xpd2I4cw?oc=5",
+   "data": "2026-10-19T00:36:00+00:00"
+  },
+  {
+   "titulo": "Temor de virada de Lula faz proteção contra alta do dólar saltar à máxima desde 2011",
+   "fonte": "Valor Econômico",
+   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPeWhtalU1dllkLWxxYnZKMy10N0c1NWNtOTg2SXlMZ09FYTdlTXJlNnVrUEJ2Y0lnVkJqM1h6STF3RDNTRGdrRE91WTJWOUJXNVQ2cnZxanlLWFdNWlFmZFR3NEtzVnU1VC1aeEFVaFNHb1hiYVdZUm51QVZ6eEtZWUIyeUJRdTRCZ0tzd29vcEhxNzYtbjd0bFhkNzN6bUhRWnRCRVN3eHh6eGNvckhyNGg5elczX0kySHlLOHFuV2ZMVnVxdTltWVRzWmpnX1Y3dnBEZFlvYmk5bzN4WlHSAewBQVVfeXFMTjBnaW90MmQ2N2J4d3BvcDBDR2VrelRuU01aQThsaC13cG4xTGRBVnI4eWZRSWtBdFdkNU5fR0pJOGExNldlN3lMOEFSLVA3ZXBkT3phcmhNTG92UWdGdHpNYXNSaVRTWkp4czFWbEF2dWt3SnJJdVJ4MFZxZGhSUXJRTU56ZWJZNXVXZF9CTk5HZDZxeTlEMnYyRUY3Z2FmVmxYUHhiQmp6X2pmT3c4dE8wY2FmQ0YtUVhWSUpaUC1vVjFsRDlhMEIzMmJYTlpjSkE2X0o4Y1NzcWRudkFUM0pFUWxCcG8wYWhUaWE?oc=5",
+   "data": "2026-10-19T00:32:48+00:00"
+  },
+  {
+   "titulo": "Relatório Semanal de Wall Street da TradingKey: Alta da Inflação Intensifica Pressão sobre os Juros; Nasdaq Cai 4,48%, Sua Maior Queda Semanal desde Junho",
+   "fonte": "TradingKey",
+   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOZkduc3RseUpzS2xoelRnbWRaZmZTWC0tNUVKM2l5MWRGTjE0LUZEZGFQN2dIWkt6bHZyRFBjTmk3R2FXVk14bGxDMWFiWVNRMEVkNGVXQTJYZVc1bmgzNmE2T3F4b24tVm91eGYtblkzNmlId005U0hXT2NENmxyZ2xoYnV4ZVFrQ1VSaW56aDRBZTdGeEJtOW1uV0lRRmpXeE03NW5qZnNkajdBV2VKOWxNR3pVRTZDYjNNeHQzTkpXT1hmdkFJTm9RWERzNVo5b2VVUXlVcw?oc=5",
+   "data": "2026-10-19T00:26:49+00:00"
+  },
+  {
+   "titulo": "Cotação do dólar hoje, 19 de outubro: O dólar inicia a semana com cautela.",
+   "fonte": "Vietnam.vn",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPSkJXTWx2RU91TnJVNlZUMEltS3NKVS15TUdvTVJYdDJQM1VKWnprVXdnSjhzVjdONWoteGVPXzhMWlBjVGhRT2hSRnJrNUtMTHl0ODc3bk55cTRYdTdYaUJWbllwVEdSNFJiU3RqRlpBZDBiSlNEM21MZklEaGNNTHdDeTRhdXRva0FkUXpCbFVKaFZDZUhBZ1ZwWHBiS3Y1QlE?oc=5",
+   "data": "2026-10-19T00:07:50+00:00"
+  },
+  {
+   "titulo": "Lavrov viaja ao Irã para discutir segurança, comércio e investimentos",
+   "fonte": "Tribuna do Sertão",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQLUdNc29Oam9UUkZ3QzNGb2M4MklRcXVuMVNSODI1R2Z0RGdLaWNqMGtyVHM4ZDdmaEhPWVRRckItdUdlbGg0M2FseUhJRWJ1d2h1SVdDMjhMLTUzWnVLQVhHUEl6c2tQTHBsRUNkTDBlM3kwNlVwYTdwcTExVmF5RUIxNVRra0o3cnJVQVZrU1RmSnR0T0lMTElON2F3bHJMVThTTkJ2TmpSNFpRVV9oYV9OUkF2RkZGaDRra3cxWXQ3T0tpU2NB?oc=5",
+   "data": "2026-10-19T00:02:00+00:00"
+  },
+  {
+   "titulo": "Ibovespa inicia dia em alta com atenção no cenário eleitoral",
+   "fonte": "Diário do Estado",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPcVhQdXZtTGs0VWNwZWNDaDc2aGlfYW5CRm5wYnUyVmgyVUxmTGhuMHhXaTNrNlNBeUVTbnMxZWE4Y3BsX0ZEWkRpYUVLQ2daUXVvX2l2alJpbjZjZ3RiSVBINDZ3TWRhMl9LT0hFY3REM1U0Um1QR0VtT2dIY2IzVDgyYXdiZUFyQTI1c2RfVWN1T1NWSXFsUFJwWQ?oc=5",
+   "data": "2026-10-19T00:00:23+00:00"
+  },
+  {
+   "titulo": "Executivos do JPMorgan e do Citigroup estão considerando desistir de participar da cúpula de investimentos na Arábia Saudita após os ataques em Riade — WSJ",
+   "fonte": "TradingView",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBjTkNTa0xyQllJRjlKcGN4RUUwUGVCTU9reDhId2lld1Fwby1KOWtMb2JXX3FOblkxbHFZSXA2UWtOTU9vN3B4TDVXcF9tTzQ3WmM4QkJ6X0FWWERrS0VvcHNNcnZRR0paMklMSGhDRnhqUkJNTHVR?oc=5",
+   "data": "2026-10-18T23:40:59+00:00"
+  },
   {
    "titulo": "Reforçar o controle sobre a inflação de notas nas universidades.",
    "fonte": "Vietnam.vn",
@@ -35,58 +77,16 @@
    "data": "2026-10-18T23:00:00+00:00"
   },
   {
-   "titulo": "Ibovespa acima dos 220 mil pontos? BofA revela salto no otimismo após 1º turno",
+   "titulo": "Inflação dos EUA devolve pressão ao Tesouro e IPCA+ 2050 sobe mais; veja as taxas",
    "fonte": "Estadão",
-   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNcmk2VDZoTzE0ZU9WZGZ6U2xid0FJQ1h0Y1ZiNnRZa1AzcHlVaTNPOEdrSktncFJPd0hDMGhxdUNGbWZjTjlUbzkzNUtMaF9MeXpzUW5OaUZMTkZhVEJyZXdzaC1YTHJXVzJ3S1VJMU5CNWRtWkNUNTdRVFhBVmxXSXpPVGhtRnlrLXlmMTZFejk5endqMFBVamh2Q1RHTVE2MXVkeVQtdXpQMHZDeGpGakZrRXpiVUNYVDl1X1BFRFNJajBiQ2oyY3FQNndONEFyWncwRU5RTlJNVEE?oc=5",
-   "data": "2026-10-18T22:12:43+00:00"
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPSktKanlBTmRKaGtjRTdWN1NuWHptYmFQZUxaS2RRdF9XWFJiSnJiV05oUC01VC1zM0QxZ1Z1aER4T1N4YUZnVndaLUYxTnFQZmNHZFg0WjVtc2ZQcUNYVVVZVHh6TEQxcGR0UkFQX3BUd1QzeTVTam1fU0FZcGd1cHJJUDJjWVJhcThaU0xSTHdBM1RJNDJZMkdMc3pjRzhXZWFGMXJqOUlVSEFuSUhRbVBOUUxxbDlqTEdHZUM4dVdtWEcyRHVfcEVwdw?oc=5",
+   "data": "2026-10-18T22:47:06+00:00"
   },
   {
-   "titulo": "Por que é uma má ideia seguir o modelo econômico de Milei, inspiração de Flávio Bolsonaro",
-   "fonte": "Viomundo",
-   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNYUhlNmZQdGZPU2NFZVpZSFozblJ1U2xnQ254M0gzTEpEakJQdlloVno3RnJhdTViX0p0N1Q3b0lFNjlUMlJnM0h4N3E2UVBvT3NnZ2xlbzd2bXgxLUk0VFg3QkQxR0xNR3M3NTBtTWVnaENPOVhFRFVwYWVmbDZXVExPRUQwbXdqYV9CeEVQQ3EtTHg2NW9ydTNSWGxpRm90NVRITF96bFF3dlVJMHgwM0ZldXZYcEt4WWYwUDlKaUF2RlgzdG5yZlVn?oc=5",
-   "data": "2026-10-18T22:08:00+00:00"
-  },
-  {
-   "titulo": "Quanto custaria um Etios sedan hoje, com a inflação?",
-   "fonte": "Canaltech",
-   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxONV9taVFOQzhTUm1rZVFQMmxON2ZPdDhSWFRXWWduZFBoSG1DczlRVkJzU2tvX082aWlwcG5tdHhOeVotRFJSTlExRDJBMENyeGRoMVRoekE3bmRuYXVxTXJsX3V1bnhONUtGTnFnQjJDaHQxc3dzZWhLVVBjeVVIWXRLZllpa2VvQl9V?oc=5",
-   "data": "2026-10-18T22:02:00+00:00"
-  },
-  {
-   "titulo": "Ibovespa inicia sexta-feira em alta com foco nas eleições",
-   "fonte": "Diário do Estado",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNZVRrRFktdnIxR2VCRWdUMkxxaXgzNjYtc2RQZzZBWDgyWXk4UXlNQ3JzelFwYjRNOVNINHl0M0dYNTNYdnAySkVBRkN1eC00dUFIYzdkVmh2YjRlTkxkd3pSX3VsMFRtUlprQ0dDNEhha2RWcjZaM3NlenROcmpqNl96THlyREVEemhqVDFNcVIyZUZ4Y3gw?oc=5",
-   "data": "2026-10-18T22:00:24+00:00"
-  },
-  {
-   "titulo": "Trump promete investimentos em estados decisivos nos EUA",
-   "fonte": "Radio Shiga",
-   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOeE5rNUQwMkRGaXZlMjNQVWQycUdRZXdZWExaUjB6dlJXN1FNeW1USXpKd0V0VGxSVGtBbDhkRWtLdmxWeDZFSWdJaWRvbXZpM0hwaXpkNU51OHptZWE5YVlfMkZmRzdMX1R3OEhUMmNwSjJzM2RoN29kTHdHYzMwRjdEcWNFYnA4QVd3SjhibGY?oc=5",
-   "data": "2026-10-18T21:40:04+00:00"
-  },
-  {
-   "titulo": "França: atos contra inflação reúnem 500 mil e deixam 1 morto e 2 mil presos",
-   "fonte": "Correio Braziliense",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOalA2NDM1Uk1NeEh2bkRRYk9uZUpGX0E1STBFSng0YkhRNW1NVHcyMXlvVjdwenB1UjRGTGQweGdBMVc0S3lIeURFc2ZPTHZWQmZYZUlfVTJZWFhwUmtTTG44UGYwWmxOV1RpYkR3MDZfWE44aUN3SVh1UUV2bXBtYUw3Rk85UG41X0RxcExhRlZIQV9vbGU1RGQzM2NLY3lqZGYxQVR2eWpleG01ejZRREtUTnZvUFhjckx5YzBCNy1lX0HSAcgBQVVfeXFMT3dLT1N2WXYyYnVqY29YZXZfYXdUWWU1VXFiYnM4MEJSWGJYV2VMZllieWVDc0J5aDhIZG02V21rUGotWUtfYWh3NXZoOXA0Q3JPOVIwcDZiWHhvOGhfQ2o4WGo4bE9GWmdxVnY4djVPSWtjQlZqUWlhTEx2WlJEdERtYXpkbTJfMTlBc2l6RklZWHNxNGZzQnZHYmJWbWpEMTZ5cmdYamp5TGhlMGI2Si1XRDZMSzd0cV9lMUhhQkd3U1NIN3k0YXk?oc=5",
-   "data": "2026-10-18T21:36:08+00:00"
-  },
-  {
-   "titulo": "Acre é o 2º estado que menos investe em pesquisa e desenvolvimento no país, aponta ranking",
-   "fonte": "A Gazeta do Acre",
-   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQbHE4S0ZlMDZfMlh3YnVtUFFGUlU2eG5pSGlGU1RNUUVGTVRZQ05EZmd0bmYxdmtHdUVGZkdKSW9FRGg1ZHhxZlA2enFxZEtDRC12TFFHa2tiSG1tM1FIRkNWMzFBX1lrM1RPc3dlVnE5czFyMUw0UXg4VHJESGJUVWdFdGllQ3lpMDh0M2FURGp3T3VqbmJxZzN5Rm5vNFlhb1RfS2t0YVdYNW9zeEw1YlZLX1U5QXppWXI4RGlPc1BSejVCc2FyZGZGcThHX0VqZUUzZXlR?oc=5",
-   "data": "2026-10-18T21:30:17+00:00"
-  },
-  {
-   "titulo": "Stefani e Dabrowski vencem em Wuhan e lideram ranking",
-   "fonte": "Jornal Correio do Brasil",
-   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPalFIWHZNWF90ZElUTWFrMGc0R2ZLZDdaMW5vbndKUGk5U25rUnZpTVh0NWFodUk1SUt2TkZoc3ltWGhja1hLbVJESGlPaHhDMVYxRERTTjR0dVVMczNYTHNXVUdGMFVrREdtUzNMOUZ1VmtRT2dPeVhjUVJoU3ZZQnZIc1RIZw?oc=5",
-   "data": "2026-10-18T21:26:11+00:00"
-  },
-  {
-   "titulo": "Protestos massivos na França cobram ações contra inflação",
-   "fonte": "Radio Shiga",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOR3NBZGFZY3EycGtWdi01OEc3SHdDd3QxcVhSNElIeEpmcGNLNHEwSjhIMlB3WHczUjBFeGlocm41MEFKY3d5OXl2WExYRlhNLVBwR3p4WS1VZXd5ZlhrYk5GQU5WZVJ4TXZpRDZUNF9iWmRyTk9PMzJxWXN1NS1iV2VkUnBNYUtxbGRJM3hwaEYyX1ZxRlRr?oc=5",
-   "data": "2026-10-18T21:16:19+00:00"
+   "titulo": "Etios sedan corrigido pela inflação valeria R$ 107,4 mil",
+   "fonte": "SpaceMoney",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9jZnZZbmtZYnJKcXdNVHN5Y0Y4NjVJdFBOQlg2VzhyT1NmaHROM1JDTVVmQnNGelduWDZzQnR6a2JXSEsyMlBFOHFEQU5Jd0tFNTc4NEdtTHZqbkVHNmZRaGVySFhHT0hxNmNsMFZIbmNidDZsc3hQRmo4bw?oc=5",
+   "data": "2026-10-18T22:45:31+00:00"
   }
  ]
 }
