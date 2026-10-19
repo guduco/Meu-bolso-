@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-10-19T15:38:02+00:00",
+ "atualizado": "2026-10-19T16:39:08+00:00",
  "indicadores": {
   "selic": {
    "valor": 13.75,
@@ -7,7 +7,7 @@
   },
   "cdi": {
    "valor": 13.65,
-   "data": "15/10/2026"
+   "data": "16/10/2026"
   },
   "ipca12m": {
    "valor": 4.58,
@@ -17,76 +17,76 @@
  "cotacoes": {},
  "noticias": [
   {
-   "titulo": "Focus projeta inflação estável em 2026, mas num patamar elevado",
-   "fonte": "Revista Investidor Institucional",
-   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPZWRRdFhvemdYb1hmRWI4SGU3Z1E2Z1I2aUstcWNIRGZvT0EzTnpNLTA5TnVkajA0eHVva0Q3NzdHSk5jcHZLWXVhbzZqbGpEUzVhbTRQdmdHU2NNQW5RSW9HenN3R19jRUZzVHhaUGpjdVl3SEZnVUQ4MG1PUHNyNlBEZlFUMEoyM2QzLUh4NFJNeDdJcDBVNElVRndFMjhWT21SRXhiSGs0WGhlUEhkQWU3VUQ4anFGQ25SczB0ZGRVeVhHeFl5VXNRcEQ?oc=5",
-   "data": "2026-10-19T15:34:30+00:00"
+   "titulo": "Economia argentina: crescimento e inflação em queda, mas pobreza sobe",
+   "fonte": "Acia Araçatuba",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQYmNDeWluRlRaenhpVFNmc0ZhamRLNzczVjN6SkJGeDBRSGI2VkdSMnFBR0ZXeTR2d3V4VHFSemE1TkF4QWFGSXVtUm1rX0pxSGstNkMteWZoVjBwNWIzMVpZU3ZOR0RjVS1Sdzh6Nmd0cDhnVlVpSEZQZjFmUkFIR3hPOGxkQ0JiZnQ1Yk5PRTBWdw?oc=5",
+   "data": "2026-10-19T16:34:57+00:00"
   },
   {
-   "titulo": "Ithaca Energy pode parar investimentos no Reino Unido sem aprovação de Rosebank",
-   "fonte": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
-   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOLUdNdjQ1cGJJY1BCakFLcUVYeHBKWjZvX1NyT3RWUkpvQXBkQWo2bllMWGlXTGlLRC1ZYjhLNEFGeFlnZThTUUlTTjZhdG51cnVPNFZTV3NOYWs1YTg4Znp2ZWV4Wm1zdS1Nd3JJSlZhS0o4VjdIaEl2bUhkcUpPUjNGTFMwRFZWRFRfb2dkWlF0bnRQQzhCRC0tVEQzWGhhNVd2Vjh3R2R5cHRHVFNqczlzLVZZclVRN0JwazBTQThXWEMtdXN4VjRqQmEtMVExOVhzUXV4SQ?oc=5",
-   "data": "2026-10-19T15:32:00+00:00"
+   "titulo": "Taxas dos DIs sobem e Ibovespa cai nesta tarde após pesquisas eleitorais e debate",
+   "fonte": "TradingView",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5GQXJBVzJRN0VDZ3JKaUtHTXk5cnpmbTF2aTRlZGlaOVE4bG9GYlEwdEZzQWM5elRnODFxXzBIVGtNeVB2WGlIX1p5aEpSc1BFMHdvRXVLZXVVbnNBR2p4TFNLN2hMdGJWdnNtcnU5dW9XVEJHU3d3?oc=5",
+   "data": "2026-10-19T16:22:55+00:00"
   },
   {
-   "titulo": "Dólar hoje: siga ao vivo o valor da cotação",
-   "fonte": "GZH",
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOT0dBM2FYUlcyblAyVEJkbUlsSHN2ZHFIQzJTUkZLS1FLdW9sR1NkVTZ2cDdfbVVfbEFoTFhJUmNWU1RfcDNQRm90WDdvdjMweHNCUmU5Y1pHRXpFazIzSHAwMGVIV3V1Q3VpZEt6WEJXYjdZbEd4cl9wNFJTMmlid3pBM3FLTTlqbTVXMWM1Ym5GQUxxQ2JwYS1DU2F3YVlFTjVwQ1BkSWNqNWdFekQ5ZGltaEVXTUV3RlhhMkhrSlh2V2NwY0E?oc=5",
-   "data": "2026-10-19T15:24:42+00:00"
+   "titulo": "Ibovespa recua com eleição e petróleo, apesar da alta em Nova York",
+   "fonte": "ISTOÉ DINHEIRO",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5oN1Y1ZXlRVksyckY5TkJnMjB3MV94VXk0Q1hNZFNZV3A1SzljSjdDTGV2R09iV21icmRHLUJyVzc5M1JJclVnUWxBMTFXV001M3cxMVJxSThVNk40MHJyN1RPSlB1Rl8tU0VUZVZmQ0IzXzJ6blZjVWswNA?oc=5",
+   "data": "2026-10-19T16:22:05+00:00"
   },
   {
-   "titulo": "Movida (MOVI3): Itaú BBA vê alta de 51% nas ações",
-   "fonte": "BPMoney",
-   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNN2ExVUNiUld4UGR1RWJtcUNHcFRrcmhVSDFFQ2pGN00tSzVpbXZjSUVUbE01X0U4ejFIMzcyMXlFVUU4ZGFxTm5DV2JhanhNaVp3dDF3RDJlTHVIWXNzek1Zazc1U0ZjVmowZDg4dnp5UDgyTUZCdDBwOGxILVV3R3Nycw?oc=5",
-   "data": "2026-10-19T15:17:18+00:00"
+   "titulo": "Escolas de Cachoeiro vão receber mais R$ 9,5 milhões em investimentos",
+   "fonte": "Aqui Notícias",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPeHpWZ2ZOOTViYU5pSnlhY2lfYTNDT2lBSFk4MC1RdFVoTWRJZzgxWTloWndQdVFiMUJTU0xxVTZYSkYySXZYZ21ybzk2b0ZWZGlRTVVtWURUYTg5ZGdhNHhSSlNjbTMxalFQZ0NISXpVeVh5U19KcGg5dXZrTGpWSTNzMktlYkotNmUyNG9QcU5aMlRmNHN3eUFTMjdfTWxyUVdv?oc=5",
+   "data": "2026-10-19T16:21:00+00:00"
   },
   {
-   "titulo": "Informações Financeiras",
-   "fonte": "Enfoque - Informações Financeiras",
-   "link": "https://news.google.com/rss/articles/CBMivARBVV95cUxNdlhoZ0dJLTVlaXNxbFR4Ym96OGU3UXp0SmdkVm91V1pwWGlPeUhkaUd5Vk5TVzRrdWpjOWY4YnROTWQwd0dxLWxpX3VxM05uamVjLTI2MXl2UWFXTE9CYVZNNDBacFRoazM4WFJ5OHVCVFpvMlkwOVhJV3BJaHU2cG9CTUtTeFdOdHpURFhudHVNNmh4ekx3Y0VLd2NsT1V2VmZVc1oyN1Z0N3dmXzEtRkZ6NnhoWXI2Z0Y1NGNRbjFVV2tTNkZ4Skh0d2U3ZmNycHRUMTM0SG1IVnFvRXo3UWJrZlMwM1NneURXemlDUjhZaE9WMWxET0NGYjUtVnBGeHFoZXdvZXJEaFdPaUlCZ2NLQjZDWVpGTHRScHFaWnFrbEZ4a3RQbUk2T1lYN3RKY051NVBoa29JYTJNbXFTWjVfeldJaVJHcFVYNjg1Zll4MVhHamdpNTc4MUJZck4tbzBKT29MY3AxSjdPX2xiUG9oTUk5UmY4c0NXZmd3SGItdm9CUXF5ekpkdXFPU21qcVo5aVdoajREamNXczdRVHFQRUxHX0M2TUZ4UExjaEtjU1VLQmVCSU1kXy1iWC1oWlVDc2xEbWQxRVJfQUw3Z05NZXJyZ2VLQndVV19LRzdXSks1REVVb0VaQllqTVFlRk8xY3NwbW5vX0xNaHBNdkFSenNIeDFUWVVpbEN4akRHWHVoanZLUmstSVZON2ZraWtwVkduZ0ZkRFhZQ2RlNVZUQzZhLVZfMjdWTQ?oc=5",
-   "data": "2026-10-19T15:12:35+00:00"
+   "titulo": "Boletim Cambial (19/10): Dólar e Euro PTAX",
+   "fonte": "trademap.com.br",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1hS2FaUFh5MzR5NkJTcEpKNG11NkhPMHl3OExZU0VyRWRPSWFBMWZGTDdBR1psNExvTEhZVWJIeHpZYVp2YnVrTHlaZk9VWHVCNTNOczJIZ18?oc=5",
+   "data": "2026-10-19T16:20:49+00:00"
   },
   {
-   "titulo": "Ibovespa: incerteza eleitoral e petróleo ofuscam alta de NY e índice registra queda",
-   "fonte": "InfoMoney",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOT0ozc0Z4YzExQ09saVk5TDBJZGx0RXZlX0VQNkpSYlQ5ZXdYZjdndng1MkhPWU51WXBxckZIeXVFUnlCb1kwRU02eE1uSW9TLW5DQXNnN202Q0c5WTdBMlN2eWRCbnpxd3ltNVhyZXVDcDNwbk9JTzBNMTZ1Vkh1Szd4bUx0ekhWb194OGczLXFFZkVTbVpoVy1yTW5rRmxvMU9taWk2WTVLOFk3dEMzT2JyUVpCaVFqaEI5dGFn0gHDAUFVX3lxTE5pRER1YlhGazM1d1FuV2lzdnZXMHZPN1pYU25FZ281RDcwbV9YaUhWUF9nbTJDeEpPZDg1LWoxQVlkOW9Fb1EtTUZsZW9yblJrWHJkZkJGUnhWTXRJQU1xMFpKTDd6OEd0RTJsbnVkQzR0ck9lSE5yeU1LRmptNm5uc090QnQwdHZjcVhqMng5cHhwenRGTWhWYzdmLVZLSWRwM3BXMUhkOW94cVhtQ0xjendDLXJGRklDWUV4U2tWUkRVcw?oc=5",
-   "data": "2026-10-19T15:05:50+00:00"
-  },
-  {
-   "titulo": "Semana tem prévia da inflação oficial no Brasil e da indústria nos EUA",
-   "fonte": "UOL Economia",
-   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQUm8wWVY1aWJ3OGZaMWM1SGxpVkZNSERuWDJIaHpsWXZXNnhJU3ozSUlwZlhSYmt1dDdmaUVvZGphTTk2Vi1ySWR4Z1ozbVF0UzR5MTZfWmgzNzJ2VFNOOUdheXlSVjVXcl9vT0xuYWxmQUUxN3RwSjhyWUExUXd2UWE4eXBxUWFMYVdSZGwtOUI2clVsMDhPYmhRbVFINDlYZ1lpcGxPeGhtLWJBMWRJZldDaWl1RndpX3ZYZVVqZ19LOGdRT3pXRU9GNVAyS1VFQTJpbjJZOWM?oc=5",
-   "data": "2026-10-19T15:02:01+00:00"
-  },
-  {
-   "titulo": "XP prevê crescimento de apenas 1% em 2027 e alerta para inflação resistente",
-   "fonte": "VEJA",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNZDVkR1NSSkJ2Vk9PcmVwV2ZoLVA4S0NOLUdFRW16YlVhZVNQaFY2UXNROE5ZeGU5MFpYNm1QU281VE9Wd1RmWllOazUyaWJXQTZHSEZYa1VYcGpLdmJhRkl6Y0J2eUNtXzJNWlk0WDJ1QTVfeFdpZjFVbFR3RWFmRlMtdHhRa1R6OEtsZUh1c2h1V1VHUUZKTDdMQjFTY19VakxmVWFLMmdXa05Ga0pr?oc=5",
-   "data": "2026-10-19T15:00:29+00:00"
-  },
-  {
-   "titulo": "Flávio e Lula discutiram inflação e dívidas das famílias em debate; veja",
-   "fonte": "www.band.com.br",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNUDNoWVFUNW9YaGh6bThJcXh3R3RySWRpVmVVVkx2WUtrYWZDSkxENl83bnZ1N2Y2MWxoTGxSMnRuRllyZ0x2YnhMWEhWc1lXZFZRZnZlM0drMGFfdDJrR3QtWEZzckU3T1FtV3ZoaHZCUnVrSnJpQ3k5VVVCTE9VZ3lWMDFtcE1rMTZkVTRqQjBzLWhRSFlwRnZqZmpTR3F1Z0Q1ZEpUQ3ZQNUZDcVRGb0c2VQ?oc=5",
-   "data": "2026-10-19T15:00:00+00:00"
-  },
-  {
-   "titulo": "Deputado do PL é preso após disparos em balada de SP",
+   "titulo": "Marcas de luxo suspendem atividades por temor de violência em Milão",
    "fonte": "Jornal Correio do Brasil",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8yUWlQamNDZUVwWHZvUVVaUTE0cVZzQUJzMTV5M00tS0Qzc3hUVlBMczNDY3N1TkZPbGFUdUFfZm13NjE4S3FJc2MyeFY2RE9VVld4UUV1OGlFcFlOdXZtQm1peTJmSjd6TVVDUUdJaEp5QVNLLWR2S3ZxdUdldGM?oc=5",
-   "data": "2026-10-19T14:53:59+00:00"
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQblFWczdIaktXcVdQdGlQcGZILWdEMnVfc0M0eTVseGUzUWVEZVhYOHZFZmNjSEZzWlE4UVgzTzllSkc0WVdDQUdMUTRnSTczVXVTblRRbk16RDBBYlpLaEJfNFk4amQwS1FQNjBxdGhoUERXRzB4R1VlcS1LejhwbjJFNVNmNlRYdVlfZXNXaVI?oc=5",
+   "data": "2026-10-19T16:19:04+00:00"
   },
   {
-   "titulo": "Tesouro Direto hoje: taxas recuam e prefixado 2032 paga 12,90% ao ano nesta segunda",
-   "fonte": "BPMoney",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQdnFEa2hSXzJkN25rcmVKbk9kaTlJWG5WTGhjWGZYSm9JLXBQMkFwSzEtVFF1QTF4TzZaMTRlNFplaFcyY2VVQ1pDZUF6dlR4d052azdvNTZ2bVRWcERNMTZfcE9icDFqRlJwUTBnZHNmcWowTGZhVUFhM2YwV1BISVBUOEV6MnhaNlhkVWdhLXlDSDJkSVhxTHpodm9hZW5CcTQ0?oc=5",
-   "data": "2026-10-19T14:53:51+00:00"
+   "titulo": "Dólar hoje cai a R$ 5,059 com pesquisas eleitorais e Focus no radar",
+   "fonte": "ISTOÉ DINHEIRO",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE03bmY0X28wZl9Ga3NUa2JIbmxMY2xfRnJpa0VVS0ZOUnRoX3NHaGxXMDFzbVVmejZHSG9US3hKNXRRV09yQVhLZFZvMjItOG45Nmo2RUxjd1lQeUMxVnJIYlBLMmF1OV9zR0hFdlVHSUpEdVFP?oc=5",
+   "data": "2026-10-19T16:15:28+00:00"
   },
   {
-   "titulo": "Mailza propõe facilitar abertura de empresas e atrair investimentos para o Acre",
-   "fonte": "ContilNet",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNbUo1SUw4MDgyR25NUUNRQ1l2Y2xKVjgtQ0FTd2d6OFhvdEZjbWE2TEFlQ3ZRVkNHOVRoajk0X0pGT2UyYi1DNmROdEVYaVg2X0cyN0hfcDBxcGdZZ09uWno1OF9TOUExYmY0d1hFb0cwclFNNDhGeVBqX0doeXBYYUJkenBXOUQ0SUEtcGpQN3pQeG16eEdnVU93SEtzSEpyTDlJVGFienExcXozUjMyZllFckhhMXhWczBGOHVJajBzQQ?oc=5",
-   "data": "2026-10-19T14:53:33+00:00"
+   "titulo": "Arábia Saudita adota teletrabalho em Riad e adia conferência de investimentos em meio à escalada de ataques dos houthis",
+   "fonte": "O GLOBO",
+   "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNYm8zczhjUGRRTERnRGNnREdSYlZSQUdxZGF4ZkE5ajh5WWNDSXlJTXJaREtUTVRZcFg2XzJqU1VCQ0E0LVhpaWNoMnFQMi1CRmJSZEg3bUx2c3JWVzNoSWYydXRPMW9kN2FhcUI5WWl0amhDeG50dUpINGs5UXMtSFJvNHhjcnBPR1Z0dmQ4c1BtYWN0bHhLdTJzXzJLakxRazAzSGlnZmtLS0Q2OW5EUWxtTm9sTHo2N3dSanJ2YmlHS1kyZUlUbTFLa1YtcVl2bHF5YWpaSnVLVHM3Wng5c1Nvd1BsWDNna19fMXNvYWlrVXZoUHRLMkF6Q1VjbXZ1MkxsRE1B0gGUAkFVX3lxTE5uQkRpc1J1TEFaN1FKMzlJRDV1cFRmdExCOVMxTDB1a1dJNVh0SE0wMHVDUkZ3cHNLN1BvZnFQN295WGtJWll4VmREUDMyVlkwUjlnb1kyTEdCOERXeWVBWkFqaHlqNEtxdUpfdVhkRWdhSDBtQlZiYldtcFdGeDdRUHBqalVKd0lYbFpRcGJqb21UWE5GU21SeGctOE1SS0E1Z0U3UVRxYl8tbUpabjhJeERIdHlOZ3RaaHhvRFRQR1VQOVNJb0l0aTltblJCYVZZc2k2ak5IZ3MycDVhZGhfSGxmcHpDajNWbEpMcmYtRmFvLXlNMmFTb3FvaGRUNjlEaElvTXdBa0RVUWZBY3h0ei1MeQ?oc=5",
+   "data": "2026-10-19T16:05:37+00:00"
+  },
+  {
+   "titulo": "TSX recua com inflação mais alta e queda no petróleo",
+   "fonte": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNYWl1ZjRkbTl6cXF3Q3B5ZEJDUS1wVVZ1SHp4MTdVVE1JR0xJTFpFX0doYlBVdlFWdlRrMEFEUHFVbHNBU1o2RHEyWEc4dXRFQmdxVnRIVHlncUNRSVpMeHZVZXZ5Q1ZiRnZkN0VaQVIyLXRrRjFid1VCWFdRQlB3YmtjcGpidDZ1THdEdWRTcDEzTUNBMWJMMEJIQTBIRzRIeTFhUTdB?oc=5",
+   "data": "2026-10-19T16:04:00+00:00"
+  },
+  {
+   "titulo": "Dólar cai a R$ 5,05 e Bolsa abre em alta, com Focus, China e EUA no radar",
+   "fonte": "UOL Economia",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQX3k3bHJfTDFCWDFDbWQyREZNZmNEbkhyTjlTSHJuU05ZNWhIYUdDNW5qOXN5aGhJY3RJN2xZVmlKWS1CVGxEc0RyMUFWcGpMNUhUWjdNS0RKZFFONHp1b2hFeUVKQnEzUVBBZGlsaHE0Y0xhc0ViWGdlRjBrVUJOVWxfR3BzdmxMUmxSQkhZa1JZTEZwQ25Uek1XSXR3c0VjNGowcW43X1ZNZmNUa3pqTUhsRQ?oc=5",
+   "data": "2026-10-19T16:00:21+00:00"
+  },
+  {
+   "titulo": "Marcelo Werner destaca investimentos e modernização da Polícia Científica da Bahia",
+   "fonte": "Classe Politica",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOX3dlaUlyN1F3Y0QwZzNxZFZISVVsSWtpOWgzVUZzazlIWVI5ZTIyVll2QlN0cEdBMmxId0pzcmdxdTVHRUdyQm50Zlp6bDlNU3FGRVg3TXZUTTYwYkVXZU1WYnljZk5PYXZ5YUFTX0dsaFkzTXppM21hVEZkRmhfT2RzNnVHVktqVS1KZHJhSVpWODh1Nk5hcjlKVVJRV2lGWnV1bXhuREdnSVZiUWJIRnpVS1RIS0JodnF5aA?oc=5",
+   "data": "2026-10-19T15:58:00+00:00"
+  },
+  {
+   "titulo": "Ibovespa vira para queda com recuo da Petrobras e atenção às pesquisas eleitorais",
+   "fonte": "Times Brasil | CNBC",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOeVdxSlpnMVdqYlFWRjM4NFV4TjAwWDlwRFhLNzhDZ3I4S05aT1hOd1RKbks1MkN0Zi1LdzRMZXVQcUJSXzE3S25oT0dkeXVMUzZQMHFSRnJnM0tadG9hYkNiQUpNelpwWk90RnU4QWp0TktuV1J6VGE3Vm5ucGx5RUlXUE9rbnBtai1rWHJxSGU0bzNsTDEyRXhZVlRFU3cwbW5wQVFFVkU0SU83WWJtcTd4MktieGVUNGZlU2h4T2REckdma0k3OQ?oc=5",
+   "data": "2026-10-19T15:52:00+00:00"
   }
  ]
 }
