@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-10-20T02:33:58+00:00",
+ "atualizado": "2026-10-20T03:35:47+00:00",
  "indicadores": {
   "selic": {
    "valor": 13.75,
@@ -16,6 +16,48 @@
  },
  "cotacoes": {},
  "noticias": [
+  {
+   "titulo": "Juros altos no Brasil exigem choque de credibilidade, diz XP",
+   "fonte": "Tribuna do Paraná",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNbnJTczJYR284ZUF6X0tCMUxhUk52N1lRUGdZd3hsRUQ1OEdqZk9vcGt0cGZfQkthYm13NkFOU1ZKajZ5TmN5LTBCd1M3RDZZbkZFQ3RkNjhqU09Hck9jZTIwR0V1NHBxcFd2MXNjVDdTcDlKS1NaZWVUcVhXZ3dfcjJhTlN4MmpWWk5rcnpXNm1QX1dlVjVSVUMtNjNHLWhHcmh0MWFNa0tKQUk?oc=5",
+   "data": "2026-10-20T03:07:00+00:00"
+  },
+  {
+   "titulo": "Quanto rende o prêmio de R$ 185 milhões da Mega-Sena na poupança e em outras opções de renda fixa?",
+   "fonte": "Valor Investe",
+   "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQbzN0WHNjWkxGX3Q5NWh3M3NhNEJjalYtbEtJc09DMFM3VTZOdzQwMW94LVNSMUU0NVlVaHJYSTYzWmxqXzR4MUcxWUFrQ1k5d0JBX2tiNDV0b3drYzM0TzVuV0s0UTAwY1daTFVDQzVDS2lGZndrVGFRMlBLb2t2THF5bVp6NWdJbVVKZlNNTzQ0cjZ1N3lnQklXSU5IdjY5WUNMazVmSDlRVnliYjBPNFpvQk9zajl6ZWRRM3pFVHpHSkNvem42YTBzZ1ZzTmtuZ3Vtd3d5V1R1bklKVUlfNVRSN1RoT3VCV3Rpd3V5N041Nzk3bThvWV9nbHVnQkNwa00xUzNFb9IBlgJBVV95cUxQRS0wOG50eFhwUURkWEpGRU1oVkU4UU51dDVuM1FFaFhFbk9jMkhSN1dFUlNOa1JTTEdJTTFBZGJEZno0MUlaMTA2NVpqTFhXTkRyYlVPOWxORGhuZFdTdFZEblJIVVRyS3NMdVl6UTIxY1g1Tm5HOVhiczJtcnpJUFJIQ29sV2d6R3VjWTZZVlJEMzBXR2Q2LXZkWVNxOTZxcEdCZnZuT0RaaGltZVMtb1I3R19YMkFkaVVlNmplVlZnOU9kdjM0bUpDbGxQZGFPQUF1TUVmSnR0RzVLd1BjVXFQNWRLWlozM09oY1FZejZyTWs5SmN3V0RaN2lfQXI1V3gzVXdYdGRIVWU5cE9RUnJoMm9ZZw?oc=5",
+   "data": "2026-10-20T03:00:01+00:00"
+  },
+  {
+   "titulo": "Incentivo ao etanol atrai R$ 27 bilhões em investimentos para usinas de Mato Grosso",
+   "fonte": "Sapicuá",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOMUl5ZUN3d0cxdVFkWl9EMmFQOUFoWlMxNnRDWmdZWlR6M1M2SVBHcWVBRUQ3cHFpamR3eTZWQTFxZkpfLWN3QWxNNEhhZEF4SVFZWGtlc2JmalVwLVhOWFFRVjZwalE0ZkY2b0tlcjBBdHFIWG5rUDZ4SG03V2MzYUpuQUswZ2plTjloVVRUN1lnTC1KcWlJYnJzUjhiaXVlb1dOVkV6bWc2a2I5VlE?oc=5",
+   "data": "2026-10-20T02:47:31+00:00"
+  },
+  {
+   "titulo": "Internet concentra 40,7% dos investimentos em mídia no Brasil",
+   "fonte": "Correio Braziliense",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQNTR4eEFxWXdjaWdoVDNtWTlQZkhOdlpWZEhZS29Kc2h4SnRvdDlFUm45dWJKTmZVdVBZd1BBdXVBLWw2bjNYQTRwQ2Q4Y2xMUDYtUXNmbXdtUnBmWWt3N0txZWZrOEgtRkNuQ0stNTBnVldYNUZ6ZEJfZDlSU2l0dWN5a2MyUng4aHd5cUdRWmp3c01SUUJJc2dKQjRLdzFObTdBS0pGVGhtNnItQkg1N1dnVFo0REQwekE2MWFiMWtjRld6aXfSAcsBQVVfeXFMTlNsMkl1XzVlbklZUTZodTNma3JGeFA2S0hnVi1YS0U5NWpBYjQ2VGk3Ym9ySGg0bG9aUzhEQjNxbi1PcHpJNWpPQzN1aHI0bzFlSEFWeHR5WWdPSlF2X0hHaERiWlVzRm80Q2RRaWk3M1ZyNmFUN2g5ekVEUzRxck1TUmVfcDl6enBPVGQ5d0prSjBJYnJ5VWdNS1I4V1hHaGE5UWFhamx2MXpIU1B5R0Q5dEloeEtxX3NZX21RYjFPZFBZOFE0N0lWZGc?oc=5",
+   "data": "2026-10-20T02:44:00+00:00"
+  },
+  {
+   "titulo": "Eleições no AM: Omar Aziz fala sobre atrair investimentos à Zona Franca de Manaus e Professora Maria do Carmo promete incentivos fiscais",
+   "fonte": "G1",
+   "link": "https://news.google.com/rss/articles/CBMisAJBVV95cUxOODJmTWtCaDhWMXBQci00S25fcnFWZ3E5emMxSUdDdDVEOEVQWWdrangxbmhDX2xuVTBhVUNHQk1jTE5jYkhVWDgzcHJKOTZ1ajRla19mTGZaSGFOYkJZM2lWNU9vV2hSamJxN0hWRlJkSGl4WndGM0FWTVZOT05jZ0pqdFN6ZDlfWGtIZzdzblN5SzZueEtreVE0Zy1wWmJaT1ZkVWJHOVJoUWZEV3U0X0l1WFZ5MEpJVVBCeE11cF9Qcmh2UHpBRzc2bUxBYzVTMUQ1b0hObHZUZ3NaSXo5MEZjQjg2c2RIdnFXZ20tMDQzSUVpcUE1SVBtQVFjbXRMQXBOcnNQck1LWGVfLVY4NUVBczROMjVsaW9MNEE4djlrWFJCSWVyZ0hLeEFUUnRl0gG_AkFVX3lxTE5VSS16alc4dmxsQWpqQ18zRFJ4akkyYkNORGFCSEhvbUVqTXpBd3dXWDNLV1BaNXZQZjh4LXdUejJzU2xWSDU0b3FhZzlvb1dmblpONkhaTmVzRjNpLXNVbnlCb0hLanZYQmRhclRxbHpxZXVsQU56V3RzbkZUQ1pYVHNfa3Z0c2pDaWV2enFaMzNvQmdGcHZkVnA4bVV0U000SDJtNmNuNllpcm00Q015SFduUHJDRU4xakVyOVV3SS1KV0tpSXdsVTBKbFlqM0xRSEZXWWZjajk2ZVFBanl6MnlrTmNaLXZlR182emFsYmJ3WkJoQnllQVJGalRHZ2JUTFdxSExRdTFrYVZzR1hqcVV1RkJURC1RN2F4TFh5cEJ6T0NRTlJqdFR3MzdadlpYX0doLVQ4c05RdUlTemc?oc=5",
+   "data": "2026-10-20T02:42:39+00:00"
+  },
+  {
+   "titulo": "Ouro recua com temores de inflação impulsionados pelos preços do petróleo",
+   "fonte": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNajFzVjNfY0FhekJfZlRseTlKejBUTWx5WGNqUzluR2RZcE16SjY0d09PQzQ1UHgzcjBfaGRzN0M1M1J0NWJTNDl5ekFnVVBnbHdoMEV5TDFvTWRadm5KMHVySGF0aVFraGZ1cTdWcVdVLV9jSDNwZ1hrMlgzZGtpQU1uNjUybHYxVExmN1B4Q1BIM0pCd2lOUV8tWTFSb3RvQVJ2R2ZCM0FWYVlqemFCUGdDd0hlYVVOamZIWEZWU1V4VWFISXk4?oc=5",
+   "data": "2026-10-20T02:32:00+00:00"
+  },
+  {
+   "titulo": "Entorno cresce mais que Brasília e atrai investimentos",
+   "fonte": "Jornal de Brasília",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOcHl4azZOZWd5Q0p0NG9PdlBvQ0Njb0pGdVZKSnRnZHlYODlUQ2dLQ3Y5cHRGVmFTdWcxdzE4REU0d2prenNwUnJSX3Y3bk1OTFRYTmRXU2V4aDFZdVA1cTVWcU5VRnJkdk8zdjU4QTFHUy1HYldFaWpPTUtRVlhqa0E4aVV2dml4Q0s1eTl2NWtrcmZMY21RUUVOM3lOY0Q4RjA5OHNfS1NhV3Y2OWNsSW1WM0I0UmdnRzJFQg?oc=5",
+   "data": "2026-10-20T02:28:59+00:00"
+  },
   {
    "titulo": "Allyson promete “revogaço” de normas para destravar investimentos no Estado",
    "fonte": "Agora RN",
@@ -45,48 +87,6 @@
    "fonte": "Gazeta do Povo",
    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQLUNiOVRYNUp6LUQzUk9sMkNkZmJibTh2M01zM2lLcnVveGJ1TGd6WWdoSnJNaDBUZGhQTERPRzFtTXhvdWNidm1jeDlNQ0xrWG1FZlVQaFJwWU9iMFFvaURsUVQyYnRibXF3UGoxTjMwNzAyOHp0ZjNiRVh4UzgtcWxya181cThndHQ2SEl6NlZNZHA4eGhfSmNONjdCaGZ0bkhlanRQTGVQQjRIUkt4S1lEdWxMR1JMWnc?oc=5",
    "data": "2026-10-20T00:20:00+00:00"
-  },
-  {
-   "titulo": "Ibovespa recua 0,15% e encerra o dia aos 205.126 pontos",
-   "fonte": "Brasil 61",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNbHEyaDVyZTZ3cXhQUEIwVGNwdzNzWklhaG1ydlJScHpyWm9OMHJhTnRYU3gtdnRLZi1lQWFDaUdsb0UzeC1DeFdqODBtOG1FYzJaU19sQ3lYNWd0QmhRLTdSZ1JpLUVpYzVGLXZLbV9BT3FkOWlnd0dYdUJpbnd1WG0tQzNsMTRmWjVWLWtRWmtLMmszUGt6M9IBmAFBVV95cUxNbHEyaDVyZTZ3cXhQUEIwVGNwdzNzWklhaG1ydlJScHpyWm9OMHJhTnRYU3gtdnRLZi1lQWFDaUdsb0UzeC1DeFdqODBtOG1FYzJaU19sQ3lYNWd0QmhRLTdSZ1JpLUVpYzVGLXZLbV9BT3FkOWlnd0dYdUJpbnd1WG0tQzNsMTRmWjVWLWtRWmtLMmszUGt6Mw?oc=5",
-   "data": "2026-10-20T00:10:00+00:00"
-  },
-  {
-   "titulo": "Dólar fecha em queda de 0,49%, a R$ 5,047; Petrobras pesa na Bolsa",
-   "fonte": "UOL Economia",
-   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxObXR1R0M5S3dnWGoxNkxvcTlyYzY0WlBtSVRTd1dLdm9FbFZRQ3dySF9BWFNZWjI4LW9oZ1ZvSlRUellDcVBSYWxEUHh2Q1lDNW9oN1ZjN1VNUzR3MlBQSWRSS3ZGWEszT0xtVlo4bmNNM3JKTnpOLS1ReUhuQnpFcnlMeE4zYzR0U0dSV0sxd0ZpUTBYcUZSN1VVLXVpY1BoSVJYbnBqRWJMRnN6dV9saUdhOTFXbkxiNWQ2b243TjJfaWI5T0hMRw?oc=5",
-   "data": "2026-10-19T23:57:18+00:00"
-  },
-  {
-   "titulo": "Fiquei muito nervoso porque reposição de inflação é obrigação, diz Lula sobre Bolsa Família",
-   "fonte": "UOL Notícias",
-   "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQXzRrUFRLb0pQcGhLNXYtM0ZocmdqTUZZSHZpMDluRk1MdFRqWnVITkQxdkMwS010dnNLbjMyNW5BZDE2eGwxMnBpZXFEZTUyQlFsdkFiMFZlVEd4OG1HcUNfT0NPQ0xHN0xaUU1nLWNyU1l0Q2Y1QnpZakVNck10aWs1aGZ5YVNzdjkzeXdBSE95S0FnWVdrcWVnTWcwT2VhNkEtSC1QSVdXcnd2ZEJaVzBOM1k3WFZGQkcweGg1SlRKaFZJYmtHQXl2aFJHNnUzMGUxTGVPbTZWUHA4NEpxNFdQeGkxNUswVmNKNFpBdmR4dnlNZm9MMA?oc=5",
-   "data": "2026-10-19T23:51:00+00:00"
-  },
-  {
-   "titulo": "Lula critica falta de reposição da inflação no Bolsa Família",
-   "fonte": "Tribuna do Sertão",
-   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOM3cyVG5BUm1HQ3RsWmtIbHExVTJfQUt3R1FpMHhlWVBYMG0tZ19IUkpDS1FHY09xSG52UllNWFRYckQwWWVPSUFZMjlNSWJFQXE2VVlTdk03M29kQ3FzNEMyMGQ4TzljWXF2N3gxa3JTUlRwVEtndl9kVHU2S2FBV3pOSWpNbE0yZXJhYk5NaWZUNGRmbXMtNUZ3QVFuMnJrdjh5X19BREFCaUEtdnRDLXRLNk1NbUstbG00b2Z2bnQ?oc=5",
-   "data": "2026-10-19T23:51:00+00:00"
-  },
-  {
-   "titulo": "Concessão da BR-280 prevê bilhões em investimentos e pedágio eletrônico em SC",
-   "fonte": "ND Mais",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNbzBQWGkxS2w0TS1HOGs3V2JHOXJfSTBOZGF1Ukh5YUx0dG9hYVZKQW12eWk0WHNlXzVzUTVUUU5QZ3pNdHQzbG5rX1AwMTBmTk9EM0pnSUw0LWdHQmIwbFNyQkx6QU1iZGJlMHFudE44WUZsRnRqbEhPZjd0U3RQV1I3eUs1QnBCZ0pCa09zeUxPRHU0N3N2ZXdaTzB2ejRKbDFNMXcyY3VFZw?oc=5",
-   "data": "2026-10-19T23:41:15+00:00"
-  },
-  {
-   "titulo": "No Dia da Inovação, Fundação Araucária destaca mais de R$ 460 milhões em investimentos",
-   "fonte": "REDE BRASIL DE TELEVISÃO",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQbEFkNTNPY3o5NWNtMXVvbjBnbWZ1NkNLSXNMakxCbUZmdlZndFdrY3FOLURNbWp1TXN5LUJmdWtMNnNRRlg1Mk9hSXJJTkU3cUMtaWxkYWJQRjRjUUdyNER2YTV5QWR3RGZDekF6V3k3b2tBN0g1aGZtU2U0dnVSY0JDZkkzdDEyTUhXWk53MnhMdmRqNU1EMThpLWhLeTFOeTdvNDNIUGZ1VlJLNkFZcnp0VUxvM3dpaHc?oc=5",
-   "data": "2026-10-19T23:40:26+00:00"
-  },
-  {
-   "titulo": "Dólar fecha a R$ 5,05 com mercado atento ao crescimento da economia",
-   "fonte": "Campo Grande News",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNcTdEd2JGNWR2T0xyZzdqWVhQR01GM0hQMEVRSWp2c2ZWNEZ6WnVLUDR1WmtwMU0zLTBZa3REYnhJSlVRbVk3bERZNDlzTElfY0dHUlI5RG9fdkRudExmTlRnTUhqY29qTjhGbmI1QnBIS0FiLXNxbVZXVlo0MHZGQW0temI3Z3lTRkV3S3pxazM5Zm1CVFBtLVRicmNwYWoxN0xHVjczRmxPMDJrLU1r?oc=5",
-   "data": "2026-10-19T23:37:00+00:00"
   }
  ]
 }
