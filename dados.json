@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-10-20T21:35:49+00:00",
+ "atualizado": "2026-10-20T22:33:55+00:00",
  "indicadores": {
   "selic": {
    "valor": 13.75,
@@ -16,6 +16,36 @@
  },
  "cotacoes": {},
  "noticias": [
+  {
+   "titulo": "Por que a queda dos juros não garante financiamento às incorporadoras",
+   "fonte": "Exame",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQSDZ2RS1PMXlqaFlmS1YzMEFSV29ZYW5oMW9Vb1NBeDhMN0MwdmpOMVpYWE8xWEw5VTNQelNZTW9QSVozeEp3ZFdET3hCTXpIa1luSTFxQzJVb29ucFJkM0NpU2pydHdmdEJZRkx5UTBFWlluM0VMMXplTU1fYUFHWUJ6NjZOOGd0N01kRnJxVjgzTTNwMHFkRUpnMjU?oc=5",
+   "data": "2026-10-20T22:23:38+00:00"
+  },
+  {
+   "titulo": "De olho na eleição e no exterior, dólar recua\ne Ibovespa sobe",
+   "fonte": "iG Economia",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOUnhMS1pKWGY0UE83cEpkRXdERXVzVG83LXo3N0VvZ1I2Zm1OUTU1eWJzbDFOakVhOFhucllPQXFXVnFZaXVzcWZCN3lEckJvU1M4bUZQN3JZQ2huRUF6Vlh1U0FGbm51UGZEMTZhajhJZlFXcG9sQlFSMGNpWm1WV0VudjFZRnFKTHpEMmVNRDJLQml5NGpnZzNCalVlQTRTUU9zQ1Zpb9IBrAFBVV95cUxPazNtNDExZC16VlBMQ18xTXpGZGpVRlotNFp3RU14ZDNrbXFYUDlRbHNwX3Y2WmdITXRJa1hiR3lpWE1LcHZpLURLa1hyWEY5MDNXWmJ4TmQ1V2Q4LUw3bzY3dTFzOFdKTkFGNmU0MTdfcGdHbm5wbEFkT09TWmcway1HTHBJVVUteGJ3cmlGdlktNkdGbi0xVFp4WUhSSmFxc0JtVGhSOUlNN2xM?oc=5",
+   "data": "2026-10-20T22:12:00+00:00"
+  },
+  {
+   "titulo": "Ibovespa e dólar hoje: bolsa retoma 208 mil com bancos e reta final eleitoral",
+   "fonte": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPLUlFbjZPZGdMM3YwMWd4cnVPTGY0S0dXTjJ0cDd3NS1RZldzWGx6dExZSXpyWUlpOElSOTk3dE9FS3ljTVFtSTZ2ZDkzMVhSRS1NOEJMdEgxMUFqM29ULWhxc21MRlB4bS1tQ3VMSlQ1dkFrMGlCZk1waFBWbXFYRmNIR2xibWJaUlYySUVKZzNzeXZ4c0hfOTJpVi1NSzlxNzc1LU1BRkRGRmdQTzZKTUJqU1Bhb3ZCY3FwMVhKcVpRdmVhUmljblVxcGg?oc=5",
+   "data": "2026-10-20T22:11:00+00:00"
+  },
+  {
+   "titulo": "Por que a taxa de juro Selic virou assunto de eleição? | SDVM",
+   "fonte": "GZH",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOUXV0dXpsR0JEQVVSV0Q3alBfUFFJblM0VWVpa0c3ZEc0WjJLaWRmenFYRldJUUxhdHhjMEZvVnpIM1FuM2dKeWhOUXVHWk5vaS01Q2pYWWZBRjlZMi1jNG9kWVNBM1NkNGpxaXI3SmRMQzc2ZFdfc1FaT0pETkdVZ0RrYy1Dc0s2RHU2TUlTdFJlWnRSV1MzX0VoN2pTNjdQRVQ3WHQ0NEgtdTBVWmFMR0xuVFM1VDMtVnE1ZUlJYWtkdTN3Ymc?oc=5",
+   "data": "2026-10-20T21:39:55+00:00"
+  },
+  {
+   "titulo": "Dólar à vista cai 0,58% e fecha a R$ 5,0182 antes do segundo turno",
+   "fonte": "EuQueroInvestir",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE45ZjZJR0lKSjlzWnYydWJKOUVxZkNQOS1jWmtma1BQRURQMEk4T3Jrb2dRbzVoeUwtWl8yd3hjZzFWUEJ3SGV6NFZQdk1rbWtyLS0zTE42ZjVBbHllQkFUcEloNUxUZzlmb2lnM09GTThfWUJwb2FPdjAtc2Q?oc=5",
+   "data": "2026-10-20T21:34:03+00:00"
+  },
   {
    "titulo": "CRAs estão com os dias contados? Dinheiro do agronegócio está migrando para outros papéis isentos, mostram dados da Anbima",
    "fonte": "Seu Dinheiro",
@@ -53,40 +83,10 @@
    "data": "2026-10-20T21:13:21+00:00"
   },
   {
-   "titulo": "Ibovespa tem 2ª melhor marca após 1º turno com alívio externo e trade eleitoral",
-   "fonte": "Jornal do Comércio",
-   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPMUk2ZEcxUHNGc1h5Z0c2aGpld0pfZ2xPSUNWanN2UGNpdG8xTEpadG9WbEFJY2VWNFBpbFZrWmgyLTBMMVlqYlB4Ml90T1JLbllIeUphLTM3bTBjT1NnVFJpRUZiNWhGVmVEak85U0JFNUNienp4QjN2Y2xFWWVEZjQzbl9wNllxYzZfUXZiUk9MVGRnTWF6OWZVZUIxd0RWeUdpX0xtTzNneGJ2eGpibmZEN19jVmZCMVlZc2ZKOVRkTzBIZncxeVd0djFnZFhMU2loYmtnMA?oc=5",
-   "data": "2026-10-20T21:12:51+00:00"
-  },
-  {
    "titulo": "Vitória de Flávio pode provocar euforia no real, mas há um risco no radar do Commerzbank",
    "fonte": "Estadão",
    "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPVGhpSzljc3E4Tjh2emdjc25aT1c3ajVVa042MGIwaVJNY2dTdmZ3aTVHS3NkbUtWakUyWVZtWDVaQ2xlVTROLUY2Yy02cVl4b1hrTDY4aHVKcjdSUHdmVVZISWR6SDVidW5Kb0VNTjNkSldTcTF2Tmc3OWdKenJPQ2daT1RfSWxGd0pLWW1mSEZ5dS1CUEtQa2lBeW9wazAzSGtmcWZqWWhjYkx5bTlhLWR5Y2pTOEtsQk5RNmsyWThHMXlCV21JNjZKbWZXdjJ0N1hxcDZDeHRSdjN6ZkF30gHkAUFVX3lxTE9RY2lVN0F5YjR1VGZYaTctQXZmR2pDd0pISVZPTmVad3dGUUduelZZcUFCcU9OTjVqX3NpR2l2MEZOWXd2YWZ0czM3c2Z0NEtfbl9RU3VLeTlwVnZaY2kzVjNnWVdveUtQQTFRT3QtYWRhaFVVT0kzazBpd1N2RDNGWGp0ZHFPbG1fQV9TZVhJQkNhM1piS3Zhb0JZMzVWdHVYRDZtcWE1bzNybE1RNWdaRUx4cnVoblFyZ3ZYaHVQdktsOGJZODRhQ09pc2Rodk0wOVQ3UVl4RkUyeF9Fc0FaNDhSdg?oc=5",
    "data": "2026-10-20T21:12:00+00:00"
-  },
-  {
-   "titulo": "Bolsa dispara e dólar cai com Flávio à frente de Lula",
-   "fonte": "Diário do Poder",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNTE1pTWZyY2xmNUpBVEtnSFpNMXdLNy1KeklQUjZNVzFYVFUzQ0JSQW14SjlpY1pQaVhOYXdaS3FPeFFYX243RUpHVkFHalRBS2JIRldEdl9fUktpTDEybWdpTE9xOE1WMENBcVNhaFZrOHlSbXhWSVF1TGs5YWhHem9kZXk2N0d3MVZGOHpxbFJKaVpEMTFRTmk4dFpyMFRjejV4bDlFSUQxSm44a01J0gG0AUFVX3lxTE5icGtMWWNQMTNyRkkzMVRWTUEwUXNjc2pjTkg3RkktS2pieXFCWUtnazU3MDNBSUp0R200OVNhVGZTeVREc1QxX3RFODZLN0EyMVlEQkxhTjdyZjVKbll6dHZvRVU3MnE5SDgxNHlXMTVpUnpaOURwLTZ6RzQ0eVNFdlVMTjJKT1NHTTVRS2xxLVAzQ2xxSENOWVlwR0hnc3o2WTZsM3BROXg5c1FGNDhjTWxxMA?oc=5",
-   "data": "2026-10-20T21:01:00+00:00"
-  },
-  {
-   "titulo": "INVEST MINING SUMMIT | A economia brasileira favorece investimentos em mineração?",
-   "fonte": "Brasil Mineral",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQem4weVg2bjkyZV9CeWNub1VjLWlkbktjaTBEOGFtZVZIQTJCYkhxd0FiYWJEb01TMExLdnZlTXVsTUZKbDlHTE5JRGxtY0hlWVVMaXUxbDJ2eTk0X2ZoTDhoSnRRNUVBMkV3eTFzM1JBOGVKT21NS1E1Sk0xTkFCeDEwM0UxTWdyQjlnUE13dHdyN0RiYldBX0U1Z3BEbVRM?oc=5",
-   "data": "2026-10-20T21:00:43+00:00"
-  },
-  {
-   "titulo": "Ibovespa valoriza mais de 1% com vantagem de Flávio Bolsonaro em novas pesquisas eleitorais",
-   "fonte": "VEJA",
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNT3FLTHdKU1ZtM2pnOVlJNlhHc3ZjM0xuNGFPa1ZTUTI3cjR3a0pIX3pLTXVNd1p1LWEzdXQwZDlDckhOblpCUzhHb3pENjZEeGV6QWZiMWVmeUQwLU1RVDJMWkgzVDhEMGo5TmNOem5ycUFuU292Umw1Ym52YjJnaTdnNkIyM1gxR2FuSUhKZG1kTzFtUmdLTElPMElPQm1UWjhkNUJZTzZNa3VUSTFMNnhtam1CNEl1X1hMTEpUTS14OF9f?oc=5",
-   "data": "2026-10-20T20:57:12+00:00"
-  },
-  {
-   "titulo": "Ibovespa sobe 1,57% puxado por cenário eleitoral; dólar cai a R$ 5,02 com maior apetite por risco",
-   "fonte": "Times Brasil | CNBC",
-   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOckZPRjNiQXh0SE8wbGdmN0RKTHhUNUF2VXBLSmpfRU4xbUNpZHdVUzdIYUJMaEZ2bWpkY1FsM3ZLX09adGptNnc1cm05ZTFOLTI0cV90SWdxbDY2SVVsY21FcFdvODRGdTVPQjM0UjQ2MW4xendaekpkVjNqUDFta0lEcV8zdkVJQnRPNi0xWmVSTWJ6bW02NDRBVDR6b2lzTXN5T0hxRWlwVTIyLUJnVXJsZjdGMDdpcmdDaEFqLU5CRzZrVlJtbjBSSFRacnp0bnJYYVN6aw?oc=5",
-   "data": "2026-10-20T20:56:00+00:00"
   }
  ]
 }
