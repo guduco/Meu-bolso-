@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-10-20T04:34:56+00:00",
+ "atualizado": "2026-10-20T05:35:25+00:00",
  "indicadores": {
   "selic": {
    "valor": 13.75,
@@ -16,6 +16,30 @@
  },
  "cotacoes": {},
  "noticias": [
+  {
+   "titulo": "Moedas asiáticas sobem com recuo do dólar; iuane atinge máxima em quatro anos",
+   "fonte": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPR05YdzRIbDJwYXc3QmQtSHFHX3RBUzY5aDdpamt1TGp1Q2pzbVZUZzNBZFAwcDI2bkJ6a29tMWdFSUplekhYRU9vQVhjZkl2QnJ0MVBvWW96NE0zQjZJeV9iVnduN1hzWEdDMHV4cndWZ01XRHFJaG5OYktUM3BQNkU2NmlwejlTQV9MMDJHSnFWTWFVYV9IWm5xMWdFMm93U21wSzI1Ukp4eGhjMTVJOThzZlhNdXRrZWpxWlRFZGRtZUE?oc=5",
+   "data": "2026-10-20T05:14:00+00:00"
+  },
+  {
+   "titulo": "Como americanos enfrentam a alta da inflação: 'Já fiz coisas insanas para sobreviver'",
+   "fonte": "G1",
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOTldvbW1nXzhlMHU4R0t1Vk4xaGp5aHEzb3N3bHFMWEZONFNfVHd4Um0yREdjcy1XdkZ5bGh6Rzd1VGplZVp2N0FHR0NwcW5WSTFDaURZNk52YXc5TkVIWTVkcWpSREVwZDJsQzhvZkVnMDdKZHFfVmFnOHdmOHVITURCdUNIdnY2SzNTNjBHWC1NOHlZaHk4TGtKX3pvLVo4R2JadEYyQkk5ZHhQWkcyVVM2a0lvMk0wLVBmMm1sZU94V3NFT2FqYWhndEdjc2xnY3J30gHiAUFVX3lxTE9ka2UzUlBERjJBQ3VOdDB3NUQxamFFTm1pM0hDVHYtRks4R2N1WE4zRXFjdFgxRkV2VnlSOE56ZW1CSjZpa2hIRy15V1RFSldma0ZjY05fWHRIYVZ1NU5vbHAySnNFM2YwZVpHOTVrd3RLX1lHdDJmMXJZUC1pcjVuWWR4SXRFM0YyWHFFWDhWaU1hR3RfMFVteldEbWRJY3ByRHlfRThhSU5DX2pLNTRTNkliYmlUenRudENSWTRmdUk4MXRab19WWkdGMVNwY001dUR4WnFsMUpVYVdNWGE0SWc?oc=5",
+   "data": "2026-10-20T05:00:00+00:00"
+  },
+  {
+   "titulo": "IBOVESPA fecha hoje com queda 0,17%",
+   "fonte": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPN3FXNWdzQkFrbnBOYUY1Nl9ydVVzQ3Z0MmY3bmx5U1hBc2pocnlOS0wtVGtvZVlPb1pNOHNBMkcyMUhvaUxrN003ZHplT05IVExPVk54a0toVzlIbXRkZnhQcWxkdE51UzdMeTI0T2ZydEdyMU0ycXVkUVN4by15OGlrQQ?oc=5",
+   "data": "2026-10-20T04:51:00+00:00"
+  },
+  {
+   "titulo": "“Até o agro tem recuado”: Cláudio Ferreira diz que política do PT está afugentando investimentos",
+   "fonte": "A Tribuna MT",
+   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNeGx3RjZSVzN6MmI5Y2ZiTmYzRUVLVDRMZlpZdkUySFJpVTY0TTUzc3E0UERFUmZVRGx4bFUzNjUwdXllRU9nc3g4bnNRbnloYVAydFl2WUFaR3NQX1VQeHJOY3Q0Z1lBRkJJd2ktckI2VHVXeTRsXzVnR2tYdnZZalpETnVaMHVWczFpMFhjWjVOMTNHRU91YVdJWWs4VVZWZzNrRTk3ZFZaUk82LTM2RGc2ckZadl9mMzgzZTl2WlQ5NG1nM2RId2s3N29Wc2E0LWEwU1dIcEMyd1djcGc?oc=5",
+   "data": "2026-10-20T04:34:33+00:00"
+  },
   {
    "titulo": "Ajuste fiscal é caminho para queda da Selic diz Rodrigo Sgavioli",
    "fonte": "Gazeta do Povo",
@@ -41,9 +65,15 @@
    "data": "2026-10-20T03:07:00+00:00"
   },
   {
+   "titulo": "Investimentos em mineração na Bahia somam R$ 59 bilhões até 2030",
+   "fonte": "negociosba.com.br",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPMzcyYTJjelFiNmFSdllhZUphTUhLaW5MSnJhUXpnblJiTUlOc2RyV04tWXFiQ1VYRjNoNjdmSmNObnpuUVZHZVR5SW81M190RFBTWjFSNVZNdndYUi1kYzUtUF95Mms3eHlRZkVZQ1NnTGpIdUh6dXIyd1BjYTVtblA1Tnp0Rk1ZSk1JOXRMR3luOTJsak9VYXkweXpVVUFq?oc=5",
+   "data": "2026-10-20T03:00:35+00:00"
+  },
+  {
    "titulo": "Quanto rende o prêmio de R$ 185 milhões da Mega-Sena na poupança e em outras opções de renda fixa?",
    "fonte": "Valor Investe",
-   "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQbzN0WHNjWkxGX3Q5NWh3M3NhNEJjalYtbEtJc09DMFM3VTZOdzQwMW94LVNSMUU0NVlVaHJYSTYzWmxqXzR4MUcxWUFrQ1k5d0JBX2tiNDV0b3drYzM0TzVuV0s0UTAwY1daTFVDQzVDS2lGZndrVGFRMlBLb2t2THF5bVp6NWdJbVVKZlNNTzQ0cjZ1N3lnQklXSU5IdjY5WUNMazVmSDlRVnliYjBPNFpvQk9zajl6ZWRRM3pFVHpHSkNvem42YTBzZ1ZzTmtuZ3Vtd3d5V1R1bklKVUlfNVRSN1RoT3VCV3Rpd3V5N041Nzk3bThvWV9nbHVnQkNwa00xUzNFb9IBlgJBVV95cUxQRS0wOG50eFhwUURkWEpGRU1oVkU4UU51dDVuM1FFaFhFbk9jMkhSN1dFUlNOa1JTTEdJTTFBZGJEZno0MUlaMTA2NVpqTFhXTkRyYlVPOWxORGhuZFdTdFZEblJIVVRyS3NMdVl6UTIxY1g1Tm5HOVhiczJtcnpJUFJIQ29sV2d6R3VjWTZZVlJEMzBXR2Q2LXZkWVNxOTZxcEdCZnZuT0RaaGltZVMtb1I3R19YMkFkaVVlNmplVlZnOU9kdjM0bUpDbGxQZGFPQUF1TUVmSnR0RzVLd1BjVXFQNWRLWlozM09oY1FZejZyTWs5SmN3V0RaN2lfQXI1V3gzVXdYdGRIVWU5cE9RUnJoMm9ZZw?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxQRS0wOG50eFhwUURkWEpGRU1oVkU4UU51dDVuM1FFaFhFbk9jMkhSN1dFUlNOa1JTTEdJTTFBZGJEZno0MUlaMTA2NVpqTFhXTkRyYlVPOWxORGhuZFdTdFZEblJIVVRyS3NMdVl6UTIxY1g1Tm5HOVhiczJtcnpJUFJIQ29sV2d6R3VjWTZZVlJEMzBXR2Q2LXZkWVNxOTZxcEdCZnZuT0RaaGltZVMtb1I3R19YMkFkaVVlNmplVlZnOU9kdjM0bUpDbGxQZGFPQUF1TUVmSnR0RzVLd1BjVXFQNWRLWlozM09oY1FZejZyTWs5SmN3V0RaN2lfQXI1V3gzVXdYdGRIVWU5cE9RUnJoMm9ZZ9IBlgJBVV95cUxQRS0wOG50eFhwUURkWEpGRU1oVkU4UU51dDVuM1FFaFhFbk9jMkhSN1dFUlNOa1JTTEdJTTFBZGJEZno0MUlaMTA2NVpqTFhXTkRyYlVPOWxORGhuZFdTdFZEblJIVVRyS3NMdVl6UTIxY1g1Tm5HOVhiczJtcnpJUFJIQ29sV2d6R3VjWTZZVlJEMzBXR2Q2LXZkWVNxOTZxcEdCZnZuT0RaaGltZVMtb1I3R19YMkFkaVVlNmplVlZnOU9kdjM0bUpDbGxQZGFPQUF1TUVmSnR0RzVLd1BjVXFQNWRLWlozM09oY1FZejZyTWs5SmN3V0RaN2lfQXI1V3gzVXdYdGRIVWU5cE9RUnJoMm9ZZw?oc=5",
    "data": "2026-10-20T03:00:01+00:00"
   },
   {
@@ -57,36 +87,6 @@
    "fonte": "Correio Braziliense",
    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQNTR4eEFxWXdjaWdoVDNtWTlQZkhOdlpWZEhZS29Kc2h4SnRvdDlFUm45dWJKTmZVdVBZd1BBdXVBLWw2bjNYQTRwQ2Q4Y2xMUDYtUXNmbXdtUnBmWWt3N0txZWZrOEgtRkNuQ0stNTBnVldYNUZ6ZEJfZDlSU2l0dWN5a2MyUng4aHd5cUdRWmp3c01SUUJJc2dKQjRLdzFObTdBS0pGVGhtNnItQkg1N1dnVFo0REQwekE2MWFiMWtjRld6aXfSAcsBQVVfeXFMTlNsMkl1XzVlbklZUTZodTNma3JGeFA2S0hnVi1YS0U5NWpBYjQ2VGk3Ym9ySGg0bG9aUzhEQjNxbi1PcHpJNWpPQzN1aHI0bzFlSEFWeHR5WWdPSlF2X0hHaERiWlVzRm80Q2RRaWk3M1ZyNmFUN2g5ekVEUzRxck1TUmVfcDl6enBPVGQ5d0prSjBJYnJ5VWdNS1I4V1hHaGE5UWFhamx2MXpIU1B5R0Q5dEloeEtxX3NZX21RYjFPZFBZOFE0N0lWZGc?oc=5",
    "data": "2026-10-20T02:44:00+00:00"
-  },
-  {
-   "titulo": "Eleições no AM: Omar Aziz fala sobre atrair investimentos à Zona Franca de Manaus e Professora Maria do Carmo promete incentivos fiscais",
-   "fonte": "G1",
-   "link": "https://news.google.com/rss/articles/CBMisAJBVV95cUxOODJmTWtCaDhWMXBQci00S25fcnFWZ3E5emMxSUdDdDVEOEVQWWdrangxbmhDX2xuVTBhVUNHQk1jTE5jYkhVWDgzcHJKOTZ1ajRla19mTGZaSGFOYkJZM2lWNU9vV2hSamJxN0hWRlJkSGl4WndGM0FWTVZOT05jZ0pqdFN6ZDlfWGtIZzdzblN5SzZueEtreVE0Zy1wWmJaT1ZkVWJHOVJoUWZEV3U0X0l1WFZ5MEpJVVBCeE11cF9Qcmh2UHpBRzc2bUxBYzVTMUQ1b0hObHZUZ3NaSXo5MEZjQjg2c2RIdnFXZ20tMDQzSUVpcUE1SVBtQVFjbXRMQXBOcnNQck1LWGVfLVY4NUVBczROMjVsaW9MNEE4djlrWFJCSWVyZ0hLeEFUUnRl0gG_AkFVX3lxTE5VSS16alc4dmxsQWpqQ18zRFJ4akkyYkNORGFCSEhvbUVqTXpBd3dXWDNLV1BaNXZQZjh4LXdUejJzU2xWSDU0b3FhZzlvb1dmblpONkhaTmVzRjNpLXNVbnlCb0hLanZYQmRhclRxbHpxZXVsQU56V3RzbkZUQ1pYVHNfa3Z0c2pDaWV2enFaMzNvQmdGcHZkVnA4bVV0U000SDJtNmNuNllpcm00Q015SFduUHJDRU4xakVyOVV3SS1KV0tpSXdsVTBKbFlqM0xRSEZXWWZjajk2ZVFBanl6MnlrTmNaLXZlR182emFsYmJ3WkJoQnllQVJGalRHZ2JUTFdxSExRdTFrYVZzR1hqcVV1RkJURC1RN2F4TFh5cEJ6T0NRTlJqdFR3MzdadlpYX0doLVQ4c05RdUlTemc?oc=5",
-   "data": "2026-10-20T02:42:39+00:00"
-  },
-  {
-   "titulo": "Ouro recua com temores de inflação impulsionados pelos preços do petróleo",
-   "fonte": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
-   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNajFzVjNfY0FhekJfZlRseTlKejBUTWx5WGNqUzluR2RZcE16SjY0d09PQzQ1UHgzcjBfaGRzN0M1M1J0NWJTNDl5ekFnVVBnbHdoMEV5TDFvTWRadm5KMHVySGF0aVFraGZ1cTdWcVdVLV9jSDNwZ1hrMlgzZGtpQU1uNjUybHYxVExmN1B4Q1BIM0pCd2lOUV8tWTFSb3RvQVJ2R2ZCM0FWYVlqemFCUGdDd0hlYVVOamZIWEZWU1V4VWFISXk4?oc=5",
-   "data": "2026-10-20T02:32:00+00:00"
-  },
-  {
-   "titulo": "Entorno cresce mais que Brasília e atrai investimentos",
-   "fonte": "Jornal de Brasília",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOcHl4azZOZWd5Q0p0NG9PdlBvQ0Njb0pGdVZKSnRnZHlYODlUQ2dLQ3Y5cHRGVmFTdWcxdzE4REU0d2prenNwUnJSX3Y3bk1OTFRYTmRXU2V4aDFZdVA1cTVWcU5VRnJkdk8zdjU4QTFHUy1HYldFaWpPTUtRVlhqa0E4aVV2dml4Q0s1eTl2NWtrcmZMY21RUUVOM3lOY0Q4RjA5OHNfS1NhV3Y2OWNsSW1WM0I0UmdnRzJFQg?oc=5",
-   "data": "2026-10-20T02:28:59+00:00"
-  },
-  {
-   "titulo": "Allyson promete “revogaço” de normas para destravar investimentos no Estado",
-   "fonte": "Agora RN",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNby11Qm9qb25UcU5ONmowbGc4MEloYUJIOHozVk4yMG5vWWNoLUVqQzhXZGhUcFFpS243Nm4tblF5VEkwcVVNU3NoNXdFSmNwRmxrQW5HZUpKUDA0WDZZS2JOUDZSOTl1TC1RUEVTZ3p5UTlDd1J3Ym5TR0pvWktvSjE2NDVxZS1DNzluSWdPS1l0anhhbTJCM09BcXV4OVBjdHFnUUpiLXVVZw?oc=5",
-   "data": "2026-10-20T02:14:21+00:00"
-  },
-  {
-   "titulo": "Silvio Costa Filho defende reeleição de Lula e cita investimentos em Pernambuco",
-   "fonte": "Márcio Didier",
-   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE16SFUyWTVmQWxTR2hiWTJQcDZhYXZtLVZCTWpORWlNX0RWUXNDVE0wUjNJck1VZGltZHhMRkNrV1dGeXoyZjJHcXhiVmFWa0ZjMnIxUnJIZjJac0J1RWVmSnl2M3JKNWZKTFB3ZTBTeGF6alZ6R1E?oc=5",
-   "data": "2026-10-20T01:14:02+00:00"
   }
  ]
 }
