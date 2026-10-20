@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-10-20T07:44:30+00:00",
+ "atualizado": "2026-10-20T08:38:45+00:00",
  "indicadores": {
   "selic": {
    "valor": 13.75,
@@ -16,6 +16,42 @@
  },
  "cotacoes": {},
  "noticias": [
+  {
+   "titulo": "Prêmio de R$ 185 milhões da Mega-Sena: veja quanto rende na poupança, no Tesouro Direto e em CDB",
+   "fonte": "Folha de Curitiba",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPUkpEOUV1VXdMVHU0c0xhMWZJTnQyNUE5MzlaUDVPa3U1UlpkZ3ZESEhWcHpDS3BEMmp1WmVFdklFcGJIM3U2ejlvWC05RWpUb3UwVjJrQ2x5cVgwRFQ3dHo3MEc4Z1RFZjlnQmFkLWpUR0RsTXo2TEZnVlZ2RmcxWVN0Wk9ITkVsM3lfSTBCbHJmMTlSNUFLYWR1ak1wTy1HLVZPalRiVUZXLWtYTjVKY2VBdkNrT1NSOUlIYUgyZmFyVlk?oc=5",
+   "data": "2026-10-20T08:30:12+00:00"
+  },
+  {
+   "titulo": "Mega-Sena: quanto R$ 185 milhões rendem todo mês na poupança e no Tesouro",
+   "fonte": "UOL Economia",
+   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNelRqQXhTdUw1YUpfUUxFSzRQR0VCQU5nSGJ5bnpvMzdyTFJZQlhiZE5MMy1rMWphWDNkTTlqT1BQbXNJUTNqcU9BRVM3aDRBV2NBVEQ5UHNOLTFTeG4wbzZoNEdpY3lUQVJ0eUtOX1V3cjNxM0lBX19XQnl5SHNTeEZ0N256YXdRX2hZdjBvT3YydkxzUjhkWDJqLUhPTmtVYTRjdWFiakt4S0ZlLXlZRkRrREdEMjUxV181NUU5MzdDSXZEU2JrejFWeDJkdGRFa0E?oc=5",
+   "data": "2026-10-20T08:30:00+00:00"
+  },
+  {
+   "titulo": "Mega-Sena: quanto rendem R$ 185 milhões na poupança, Tesouro Direto ou CDB",
+   "fonte": "CNN Brasil",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNeVVBb2EtWVFIdFlRdl90bUhIMEpFdjdtTmFsamhPT0pDRWo1amNrbk9aT2dLdnBVRnNuZFY0RnFGS1gwakY3LWlUMlloaElnQ2FtTDk5bW9YX05Hd1BHUmFCcTZCdHZmWUNad0NmcEgwbHhvQWFvZDJ4dE5lY2FIdjBTOVFJaEQ5NzFadDMxVmJIbkQ4cE0wV2dON19uUGw5VERwaFJ1UWNhVDVsOV9mSXo2R044MGFGZFFOdFl5RE4zSENDem1UWW5paVBsdw?oc=5",
+   "data": "2026-10-20T08:05:34+00:00"
+  },
+  {
+   "titulo": "Dólar cede e destoa de ativos locais com eleições",
+   "fonte": "Valor Econômico",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQQ0dQSFVnMXZncGZRUXJmSl9WRk9vYzZZNjVQTlBISktXaWlENGEtcDNvTlU3ODcwVzVnSk5VbUlSTmhfOGlOSkZzT3h5NkpVNzN5MEI0UEdtWWZSdkpvV3Y1MXlFU0RWc3pCMUZ4N3A2dHdXR2JITHpPTEpYbEdJbzJxQjNEVVZXdFRRTEw5cC1VbWIzWTMta0ZPWlNaclJNeE9aclUwLWtMcmPSAboBQVVfeXFMUDhmRVJUYlc5bG1GWDF4SldjcnVidjFHazM1dVZ3WHV5UjJqNVdsMElob0Y1NFhzQmhPTE1DU0NxT09fSENOaUtHSUEzaFJBX3ptOUlmSWpNNVRqazl5Q3QwX04ySE1UeWE1N0ZQaHJ2REpEQVVSYmlNX21HUm01NURTWnVjTzFkQ2s1UjNReUxnYUN5VGxCcXdWeEdMc2dRMmlXMllVak5XNWxGYktDczEwZkF6eURjYjF3?oc=5",
+   "data": "2026-10-20T08:00:00+00:00"
+  },
+  {
+   "titulo": "Pesquisas eleitorais, debate e fiscal: o que pode mexer com o Ibovespa até 2º turno?",
+   "fonte": "InfoMoney",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOVS12dFp4WDFWY2IxRUlYZVQzUURWMks4TUxLc0NGX2FNeTkyWElQZWJQUkUwbzJwSktEZ0RmeWhuOHc3VUU4N1lnNkQxX1BMelBGcXpWZXJ2VXBaUmpwd1hYOXJoSVFod2NOLWg1WkE0eFpORnBrSDI2MFBXbnlxclczOWFtMWhTTXRsVE9tMDRnbm9JWVQ5NGgzbWtsNXY1alJMUi1qWUJhNkNvOHltRG1NU2l1Y2JrZDZucNIBwgFBVV95cUxNWGxIR2dnVnR2WFppeHZBaWk3cDRCRldGeGlFQnBtVTZDam5wVXhzMnFrX3J5N3hFZDdiOWV3UVc4TUdoOWFfbXVfZG50VWpRakl2X3pvR2dpOWJ0TkJoZjYwM0h4R3FaMXRhWGFoR3Ywel9WbXE5R0llQXJaeXhjeUhYZl9lMFRSWm1Rc3RNN1NpQXB2SFZhZWRWOXhldm9RY0F0cmdNekl5RDYyNFYtS3BRbGotT1ROSEpHMmh2R3hGdw?oc=5",
+   "data": "2026-10-20T08:00:00+00:00"
+  },
+  {
+   "titulo": "Portos do Nordeste ampliam investimentos e acirram disputa por novas cargas",
+   "fonte": "Movimento Econômico",
+   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNNHFiYjJKbVQxdGlHQjRHLVhQbjY4VmVDX3NCWlRZU1g3UnZQOFR3Yk10a0hNdmJVc3ZMQ0dYaEVZWTZ0YnJQalRLMTQyM1lpbEpDZlNRRzV5M1dvRGxiNHI0R1lnQUM5T0JHcG52RjhwODdWLVZ3MjRlcVZVQmJLYUNGTFFqWVlObno3Yy1zeEtKd09Ka2hWNWxTMllsNWl5RzFOdVZkRWRTeW1OeUIycEJtOVp6UDRTWjh4Qi0zTEd2djBxNnl4SjdLSWlKcGFtcnlFNTkzbkpuOXVTZy0wamlR?oc=5",
+   "data": "2026-10-20T07:53:00+00:00"
+  },
   {
    "titulo": "Ibovespa hoje: pesquisa eleitoral e petróleo podem mexer com a Bolsa nesta terça",
    "fonte": "Estadão",
@@ -51,42 +87,6 @@
    "fonte": "A Tribuna MT",
    "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNeGx3RjZSVzN6MmI5Y2ZiTmYzRUVLVDRMZlpZdkUySFJpVTY0TTUzc3E0UERFUmZVRGx4bFUzNjUwdXllRU9nc3g4bnNRbnloYVAydFl2WUFaR3NQX1VQeHJOY3Q0Z1lBRkJJd2ktckI2VHVXeTRsXzVnR2tYdnZZalpETnVaMHVWczFpMFhjWjVOMTNHRU91YVdJWWs4VVZWZzNrRTk3ZFZaUk82LTM2RGc2ckZadl9mMzgzZTl2WlQ5NG1nM2RId2s3N29Wc2E0LWEwU1dIcEMyd1djcGc?oc=5",
    "data": "2026-10-20T04:34:33+00:00"
-  },
-  {
-   "titulo": "Ajuste fiscal é caminho para queda da Selic diz Rodrigo Sgavioli",
-   "fonte": "Gazeta do Povo",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPMTVKQllpWXh4OXJ2ZW9QZVdNWi01MmJVd1NHek4yUkc2VTVkLWFNSkRpZjZOdl9IQkFqS3V2a0FxQ2hjM1llUG40Q1gzUFEtRFB1VFpudXNsbnpmYVEwQjFrV3d2NF9vUUNCLXNTN2ptMGdxeG9VOFliMW5SRm1jU0dGZ3hNRURQcDRuUEttTnFBcm8xVkpnTXVaRVpkZTYwek9CZ3BWbi1zN1VxcTNQS2ZydlBWdw?oc=5",
-   "data": "2026-10-20T04:22:00+00:00"
-  },
-  {
-   "titulo": "Alemanha: gigante Roche suspende novos investimentos no país",
-   "fonte": "Euronews",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPcjZIOXppaE50VUc4WEF4cGFCSDdHQTFoZjRQNGxoajJhLXgyU0FjbGFCQ24zSE1BekxNXzJWLTJTZ2pEOW43Z240c0g5RGJHQzNvdEljbnpTSDhteGdlMmcxQzBjZEpHYzgzMHh4Wk81bWxwRDhXLTVyaWplbkRjV1FKeVJ2MW5OdnhJM240OEN4ZHdUX0lTcmxn?oc=5",
-   "data": "2026-10-20T04:08:38+00:00"
-  },
-  {
-   "titulo": "Dólar cai a R$ 5,04 com mercado atento a pesquisas eleitorais",
-   "fonte": "Vero Notícias",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNWmlZX3lHNDFhTWdjV3RyM2dlWG9UTWY5a3oxZWtLZTRvR2JPSmtaZDE3YkI2blMwSFR6RG1lX2RBTVB6cE1rXzZScUhWR1BONVpmYzY2dERzUGpaRW9sZlRUSFZhYVpHZ1JfTzNtWkZwQjBVMi1sakJfYjJrbGtxWDdpdjJhV1hTeUJTc1RMSng3QTJtMWpSVExB?oc=5",
-   "data": "2026-10-20T04:00:00+00:00"
-  },
-  {
-   "titulo": "Investimentos em mineração na Bahia somam R$ 59 bilhões até 2030",
-   "fonte": "negociosba.com.br",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPMzcyYTJjelFiNmFSdllhZUphTUhLaW5MSnJhUXpnblJiTUlOc2RyV04tWXFiQ1VYRjNoNjdmSmNObnpuUVZHZVR5SW81M190RFBTWjFSNVZNdndYUi1kYzUtUF95Mms3eHlRZkVZQ1NnTGpIdUh6dXIyd1BjYTVtblA1Tnp0Rk1ZSk1JOXRMR3luOTJsak9VYXkweXpVVUFq?oc=5",
-   "data": "2026-10-20T03:00:35+00:00"
-  },
-  {
-   "titulo": "Quanto rende o prêmio de R$ 185 milhões da Mega-Sena na poupança e em outras opções de renda fixa?",
-   "fonte": "Valor Investe",
-   "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxQRS0wOG50eFhwUURkWEpGRU1oVkU4UU51dDVuM1FFaFhFbk9jMkhSN1dFUlNOa1JTTEdJTTFBZGJEZno0MUlaMTA2NVpqTFhXTkRyYlVPOWxORGhuZFdTdFZEblJIVVRyS3NMdVl6UTIxY1g1Tm5HOVhiczJtcnpJUFJIQ29sV2d6R3VjWTZZVlJEMzBXR2Q2LXZkWVNxOTZxcEdCZnZuT0RaaGltZVMtb1I3R19YMkFkaVVlNmplVlZnOU9kdjM0bUpDbGxQZGFPQUF1TUVmSnR0RzVLd1BjVXFQNWRLWlozM09oY1FZejZyTWs5SmN3V0RaN2lfQXI1V3gzVXdYdGRIVWU5cE9RUnJoMm9ZZ9IBlgJBVV95cUxQRS0wOG50eFhwUURkWEpGRU1oVkU4UU51dDVuM1FFaFhFbk9jMkhSN1dFUlNOa1JTTEdJTTFBZGJEZno0MUlaMTA2NVpqTFhXTkRyYlVPOWxORGhuZFdTdFZEblJIVVRyS3NMdVl6UTIxY1g1Tm5HOVhiczJtcnpJUFJIQ29sV2d6R3VjWTZZVlJEMzBXR2Q2LXZkWVNxOTZxcEdCZnZuT0RaaGltZVMtb1I3R19YMkFkaVVlNmplVlZnOU9kdjM0bUpDbGxQZGFPQUF1TUVmSnR0RzVLd1BjVXFQNWRLWlozM09oY1FZejZyTWs5SmN3V0RaN2lfQXI1V3gzVXdYdGRIVWU5cE9RUnJoMm9ZZw?oc=5",
-   "data": "2026-10-20T03:00:01+00:00"
-  },
-  {
-   "titulo": "Incentivo ao etanol atrai R$ 27 bilhões em investimentos para usinas de Mato Grosso",
-   "fonte": "Sapicuá",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOMUl5ZUN3d0cxdVFkWl9EMmFQOUFoWlMxNnRDWmdZWlR6M1M2SVBHcWVBRUQ3cHFpamR3eTZWQTFxZkpfLWN3QWxNNEhhZEF4SVFZWGtlc2JmalVwLVhOWFFRVjZwalE0ZkY2b0tlcjBBdHFIWG5rUDZ4SG03V2MzYUpuQUswZ2plTjloVVRUN1lnTC1KcWlJYnJzUjhiaXVlb1dOVkV6bWc2a2I5VlE?oc=5",
-   "data": "2026-10-20T02:47:31+00:00"
   }
  ]
 }
