@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-10-20T08:38:45+00:00",
+ "atualizado": "2026-10-20T09:36:44+00:00",
  "indicadores": {
   "selic": {
    "valor": 13.75,
@@ -16,6 +16,36 @@
  },
  "cotacoes": {},
  "noticias": [
+  {
+   "titulo": "Reunião secreta entre o Fundo de Investimentos Público saudita e dirigentes do Milan: Cristiano Ronaldo se tornará proprietário do Al-Nassr?",
+   "fonte": "Goal.com",
+   "link": "https://news.google.com/rss/articles/CBMiogJBVV95cUxNTlU5bkhVS2dSX1BUdGRFLXdNeFRydzlXYm8wWEppVWFvSVlXNmNyWGV3c1R0TlhJSkFsLVlGZ3NfZDFCcm5KaDBCYVhkdXF1YVpjVVJDTXpqZFR5c2NUYjlCNkd1Z3FoRS1fcVo1c09ZcVgxMGVyaW1palRZYThNdWd0MUczbktISDRtd1JTX1llMlM0b3UwZmpYOV9qS2ZDcVN0YktTNHoxdVZVNmJRN2JNYndOSGtWSFRjZm54bW9xUzBTZ0htOFh0TnZYYU82TWVXVkpyc0VrQWpUMzBUUUNJVmZSdVlScTFXbHliNEFtS3NpcWw1b3VrNlFuV0xacjhBMEdTRGZUNmdEdm1jU1NTM1RMV21hNTlnZ01IMEVrdw?oc=5",
+   "data": "2026-10-20T09:12:40+00:00"
+  },
+  {
+   "titulo": "Cenário para Selic de 6% nos próximos anos depende de credibilidade fiscal",
+   "fonte": "Money Report",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOYl9zSVFBdFNQWDJvNzBmRmJqbXA4bDZYaDVTNDFnMHhjeDVpSG91TmxCTGZvYU5vc3FDMk1OejJna1BLb1Y1cjA5S0VWejl0d1M5S2l1ZTYyLTdYSkNXcGJmRkZrNlZpbm81TnVqX0R1NlFZQ0dyVWRpbnc1VGxybkdkUGZVeUFZYnNRcUdFUVFqTGZlM19od1czWWpzWVc0MUdaNTU1TzhQQURTNFJhMFlHemg?oc=5",
+   "data": "2026-10-20T09:02:41+00:00"
+  },
+  {
+   "titulo": "Tempo real: Ibovespa segue de olho nas eleições",
+   "fonte": "Money Times",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9WRzRrUDB0NFVfWWNyT3VXQVMwRmdIUnBkaGpkekpaTzJ0YnhhQnBrcm5tbmdxR21TYmZFZTI3M2RQNnI2TDNOUk5VZENpT1RXaGJKT3ZkYS1UTXppUjEzdFNBVURWajctdkV5eA?oc=5",
+   "data": "2026-10-20T09:00:00+00:00"
+  },
+  {
+   "titulo": "Euro se recupera com diminuição dos protestos na França; dólar recua",
+   "fonte": "TradingView",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9kclhZZzN0MUFQS0pQek00d1VwN1Y5VGFGSDdKLWdyajJvSTlySjdYS1VySS1Ga1NMbkhlMml2V0NJVUJ5bDdaRm5QVlQ5S2R1VTZnekZVVGM3b1NfZHBPZUliUzVldUN3NlFvaW5GNlBTODdVWEhj?oc=5",
+   "data": "2026-10-20T08:55:10+00:00"
+  },
+  {
+   "titulo": "Libra sobe enquanto dólar consolida em sessão tranquila",
+   "fonte": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQcEhWTU8tdmxRWVNlWjQ2RHFLTkJUZTJhNjRVOE42U1dvUDUxYjg0VkhEOVVWNWl1dkpRYTBCM0ZtSGFOVWpfTFY2enh6d19QaFZqRi1KM0VmNWxjT3VwZ1I3RmtlSHlIYWtDS0lia2RmbGtVNHNxRWMxa3FzWDBnR3UxWkZGMnpKVVZhS29iREktaEswNVVWR19seE9LdTdyanM5Zkwzbw?oc=5",
+   "data": "2026-10-20T08:54:00+00:00"
+  },
   {
    "titulo": "Prêmio de R$ 185 milhões da Mega-Sena: veja quanto rende na poupança, no Tesouro Direto e em CDB",
    "fonte": "Folha de Curitiba",
@@ -53,40 +83,10 @@
    "data": "2026-10-20T07:53:00+00:00"
   },
   {
-   "titulo": "Ibovespa hoje: pesquisa eleitoral e petróleo podem mexer com a Bolsa nesta terça",
-   "fonte": "Estadão",
-   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOMDhfbmpqdUw2LXZTamdpbGFqMDFIUW43VWJDdVpYdlZJY0JudXlCRjRsNkxRWEpOU1A5c2hoaS1yaFJKR3RxVGNWN3dPRWxwbXNmRWhGekRIUDQ1TG0zbXFmLV9BZUpVLUtiYUhKT0RCaE1PTlZqNUZrZzRFZ0NNQ2xOYXFzeE1QMnlHTXdVR05OWGR4Z21kOEZOZi10T0JhNTRhc3kwZnNpZmZmVy12VzJrbkIwZFp2VUdoTUhwa1J0TW8zUEdlRE41ekNGeTVjeG93NkI0YXRwR0pSRm1j?oc=5",
-   "data": "2026-10-20T07:37:49+00:00"
-  },
-  {
-   "titulo": "Moedas asiáticas sobem com recuo do dólar; iuane atinge máxima em quatro anos",
-   "fonte": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPR05YdzRIbDJwYXc3QmQtSHFHX3RBUzY5aDdpamt1TGp1Q2pzbVZUZzNBZFAwcDI2bkJ6a29tMWdFSUplekhYRU9vQVhjZkl2QnJ0MVBvWW96NE0zQjZJeV9iVnduN1hzWEdDMHV4cndWZ01XRHFJaG5OYktUM3BQNkU2NmlwejlTQV9MMDJHSnFWTWFVYV9IWm5xMWdFMm93U21wSzI1Ukp4eGhjMTVJOThzZlhNdXRrZWpxWlRFZGRtZUE?oc=5",
-   "data": "2026-10-20T05:14:00+00:00"
-  },
-  {
-   "titulo": "Vereadores avaliam orçamento de Manaus para 2027 e defendem investimentos em áreas prioritárias",
-   "fonte": "Amazonas1",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNTGlsMXZ6d0l2c1BWWUZzanR5ZGlCeG9rS1pVMVRhalRKVGUtMkNMSkxnc3pNMXVHV0dKQ083SmY2b05pUVNweEQ5N2ZYb2dyWTN1X2tHdXIwaWJKd3hneXQyZElTLW5DYl9kM0tjQ19lcFdlQ0hIdzVfMzYyTFFhVDVPWlNPTDM4YU1qc01WOHlqNHdpbXlyeHR6enpZNEJ0b3RYVUZaRWRaNVl4T3FKODlwLUJLV0JBXzJsQVpR?oc=5",
-   "data": "2026-10-20T05:00:00+00:00"
-  },
-  {
-   "titulo": "Como americanos enfrentam a alta da inflação: 'Já fiz coisas insanas para sobreviver'",
-   "fonte": "G1",
-   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOTldvbW1nXzhlMHU4R0t1Vk4xaGp5aHEzb3N3bHFMWEZONFNfVHd4Um0yREdjcy1XdkZ5bGh6Rzd1VGplZVp2N0FHR0NwcW5WSTFDaURZNk52YXc5TkVIWTVkcWpSREVwZDJsQzhvZkVnMDdKZHFfVmFnOHdmOHVITURCdUNIdnY2SzNTNjBHWC1NOHlZaHk4TGtKX3pvLVo4R2JadEYyQkk5ZHhQWkcyVVM2a0lvMk0wLVBmMm1sZU94V3NFT2FqYWhndEdjc2xnY3J30gHiAUFVX3lxTE9ka2UzUlBERjJBQ3VOdDB3NUQxamFFTm1pM0hDVHYtRks4R2N1WE4zRXFjdFgxRkV2VnlSOE56ZW1CSjZpa2hIRy15V1RFSldma0ZjY05fWHRIYVZ1NU5vbHAySnNFM2YwZVpHOTVrd3RLX1lHdDJmMXJZUC1pcjVuWWR4SXRFM0YyWHFFWDhWaU1hR3RfMFVteldEbWRJY3ByRHlfRThhSU5DX2pLNTRTNkliYmlUenRudENSWTRmdUk4MXRab19WWkdGMVNwY001dUR4WnFsMUpVYVdNWGE0SWc?oc=5",
-   "data": "2026-10-20T05:00:00+00:00"
-  },
-  {
-   "titulo": "IBOVESPA fecha hoje com queda 0,17%",
-   "fonte": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
-   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPN3FXNWdzQkFrbnBOYUY1Nl9ydVVzQ3Z0MmY3bmx5U1hBc2pocnlOS0wtVGtvZVlPb1pNOHNBMkcyMUhvaUxrN003ZHplT05IVExPVk54a0toVzlIbXRkZnhQcWxkdE51UzdMeTI0T2ZydEdyMU0ycXVkUVN4by15OGlrQQ?oc=5",
-   "data": "2026-10-20T04:51:00+00:00"
-  },
-  {
-   "titulo": "“Até o agro tem recuado”: Cláudio Ferreira diz que política do PT está afugentando investimentos",
-   "fonte": "A Tribuna MT",
-   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNeGx3RjZSVzN6MmI5Y2ZiTmYzRUVLVDRMZlpZdkUySFJpVTY0TTUzc3E0UERFUmZVRGx4bFUzNjUwdXllRU9nc3g4bnNRbnloYVAydFl2WUFaR3NQX1VQeHJOY3Q0Z1lBRkJJd2ktckI2VHVXeTRsXzVnR2tYdnZZalpETnVaMHVWczFpMFhjWjVOMTNHRU91YVdJWWs4VVZWZzNrRTk3ZFZaUk82LTM2RGc2ckZadl9mMzgzZTl2WlQ5NG1nM2RId2s3N29Wc2E0LWEwU1dIcEMyd1djcGc?oc=5",
-   "data": "2026-10-20T04:34:33+00:00"
+   "titulo": "Ações indonésias se recuperam após atingirem a menor cotação em seis anos; dólar de Taiwan se desvaloriza",
+   "fonte": "TradingView",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9rS3ZJb0VVd05LaU54WFhpdDFnVjdyWlY4Ymp3Y3h0ZTE4cGhQcVZFWWJTVFZHeVliRFU2SXlqdU0yYlkyTGdvWFNXUVZfN3I5QkNYVWxSQ1c5TFZEQjV0cDFBR1d2TWR5ODk0LU12VktBdkhMb3Qw?oc=5",
+   "data": "2026-10-20T07:44:07+00:00"
   }
  ]
 }
