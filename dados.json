@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-10-20T18:39:36+00:00",
+ "atualizado": "2026-10-20T19:38:21+00:00",
  "indicadores": {
   "selic": {
    "valor": 13.75,
@@ -17,16 +17,64 @@
  "cotacoes": {},
  "noticias": [
   {
+   "titulo": "Recorde com menos renda fixa: mercado de capitais soma R$ 556,7 bi até setembro",
+   "fonte": "InfoMoney",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNNDZ4OEhrNzQ3LTlQZURjTVVlYzBUTFpJWTItYTNNNEJkekRjcXp2eVZSR09wX1U4cVdYdVhLNzVyQzAyMzNvLWNES0VUZll5eWFXVzBXWDlibjNhUnh0NUc2NnRacWlGV2Q5NHdReTJjNF9XVWpKbFdQZkt1RHIzNDJoX2hTRFhVVXRaaWlpMDRQclg4RG9fOUJRN0dkdENULWV6RVlZSzFRbWNMRXlQd3dUWFBUMjJVWW5tN9IBwgFBVV95cUxQVHAtd2RWLXJHdk1GR3VMRkIwQm9lSHJtUlNZdVFxLXpiUHJSUVhPaGNZakl3b0Rha2V2NFUxVWdpS20xcHhrZDUwOTE2dFRoRWtucy15WlE2cVpGam9tNk1pMFJuUktUS29taDZ4RWF5Z2ktTzNDQURoX2dQM1lZb0ZrR0ZQNlNXWno0VkZkRFMzamQzSXN2VnJ2R2Zpam5zWnV2SElIM19JQndhRkFfOXJVX1dHS204azB1cHdWbFFHZw?oc=5",
+   "data": "2026-10-20T19:28:10+00:00"
+  },
+  {
+   "titulo": "Licenças ambientais do IAT viabilizam mais de R$ 1 bilhão em investimentos",
+   "fonte": "Band News FM Curitiba",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQTGNNTDdpQ2w5ZWEtNXdRbExpMldGdWFudnc0SENvOFJYTDNTaHRiY2lXVktPM3UxTVNuNTQyTDk2ODBHZ3p2Um52UDFSdDIyZFZ2dkNHVDdrWDN2LXFZVzVBc2U5NEt3aWEwRnpJMFJFcjViWmhEMnNDMDYzQllZU0l6YXRkOEdPNTM1TTE2SjNYSnZEY3AzUmJTMUt0WlliSHd3MnhGN3k?oc=5",
+   "data": "2026-10-20T19:18:11+00:00"
+  },
+  {
+   "titulo": "Resultado da luta, maioria dos reajustes acima da inflação",
+   "fonte": "Sindicato dos Bancários da Bahia",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNMmJTaXJfNFBKc01Gd1lMVnNfWnFMYWxLbUJUS2pyc3RHQk5PTlNmRUR5bnlzTzZmeGpOWHRJamZqOXNwQ0NwajZNb01CZjZXOGc5Wk9LaDdxS0hUTEo1Rm1RMHFOdFBFOVVLZnRxeXBDOVlwMWxrc001N0JvTGFQbThfRHpSNzYtbVcxNFM5a1ZnNFBNTE54ZlU2TFBlNjhLb2ZuR095cU91SkstU0R3VVlteUZwenVnLWE4?oc=5",
+   "data": "2026-10-20T19:14:26+00:00"
+  },
+  {
+   "titulo": "Defesa Civil realiza capacitação para a Operação El Niño na região de São José do Rio Preto, com investimentos de mais de R$ 7,2 milhões",
+   "fonte": "www.agenciasp.sp.gov.br",
+   "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPUUV4Yk42eW45bG1oNElxeV9VMWFYZGlTeVZFeDc4aF83TGwxa1pNT3VUd0tDWEVmSjBKUzJCQ09FT0hiOEsyamZGcU9URU1PMHZURTM0bms4Rm5Ma1A4bm9oMWVDVzEyLW94d3lla05kMEJ1cWN6b0VSSEdrWTBhLUJ0Y084dktCWDFSM3RTWUY2bThBSDF1NldwUFVPQUxpdjMzVlJZVURYN2VHNXlsUzdidW44SDQ0Qm5BLVpDUkdIR3ZrNS1DdkJYTmlaNV9rV01QWTlOYlMyejVwQjE5aW1HcFhub2x4N1lJWmtxQXJuTmE2UHlET3hpb1pXcUhleGl3bUo1b3BjaU0?oc=5",
+   "data": "2026-10-20T19:11:44+00:00"
+  },
+  {
+   "titulo": "Bancos aceleram investimentos em marketing com GP de Fórmula 1 em São Paulo",
+   "fonte": "Money Report",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQcnRRUVlGbXE4SXhDVnhVVlpKUjF1djJnSktEaTlzVnpMcGFtdndaZ00wV1V0ck5WVThVZl9BczBCTlFuRm5aWGhJOGsxaXBURHBZWnRmVjRMcEp5aU54cHI1cEJXakFPajU2RVh6SXZBbG9rSGR4bS1LaUxVdG4yNWtiSXVpNWVwS2tYbG5OcmxhZVA2RzRCUmRraUxxX2t2NTN2ZHpyNXB3V2hMWjFuSjNITUdsdEU?oc=5",
+   "data": "2026-10-20T19:03:18+00:00"
+  },
+  {
+   "titulo": "Dólar opera em queda e Ibovespa sobe",
+   "fonte": "Drops de Jogos",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQR0xXeEhsTkhJUHJCWmd0ZnJSR25Ydnl0TnlWemRLNi1fUlZJUTMxbldQSGEwZkxqU3dKM2lsM3JMM1BMZmZUMmxzbGJxd2VaYnpBeXVoM0xMVFdJMkEzbm5mNUE4LTJCdmxwZ21IenJkTzNnZVRma1VSNDJmQmVWaEpuSnFhVVI0Y0E?oc=5",
+   "data": "2026-10-20T18:55:32+00:00"
+  },
+  {
+   "titulo": "Varejo lidera em investimentos publicitários globalmente",
+   "fonte": "Meio e Mensagem",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNWGtHaFBJOTE3Zmp4dlhjNmZRSUx4ZTdSTGRzT3dMUEZ1NGszQWQ2bnhqVGJVVlIydV94WGx0QzV0S0FqaExtTElIZW03NHlKTV9CcW43a2swZGdXQ2VWMHRaUmRyRXZtb2cweDUzaWVxd0Roai1uZzFLVXR1ckc1X2s4eFdfUFEyRGZ2UEgtOU5iSWlkTW5ickhaek1kNzdt?oc=5",
+   "data": "2026-10-20T18:55:00+00:00"
+  },
+  {
+   "titulo": "Fundos de debêntures isentas continuam abaixo do CDI e voltam a ter mais resgates do que entradas em outubro",
+   "fonte": "InvestNews",
+   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPY1I4QzI4a05FSW1kRnlzV0UzcVFpVHpUUEFjeFZ5VXY2d2dTV0xmb0NBdG1qQ1EtYjFDVGJJc25OM2FwM2ZWRnpFZ0kweDZlQURlalJrbTJxbHVkYlY4MldvcG1Db0hOc3ZfZnRScGVHdVNCdjBVd01IMThHaUxQN29LQ2JscG00QXFFZDBfeUZobDZQdTV0TndoTTc5T0RwbDRjYnQzdlZqZ0FwMDlqVjF6WnNTYTF2Z1o5UHdFekR5ai1fcTR6cGo5aVZBU2R6QmRPbmhRajZRUk9zVjNia1FEa9IB6AFBVV95cUxQRTNLM0l0eFEzREl2SlhSTXN6Q19nN0pqMjNyU3J2c3N1aVJmTHBqY3Q5YURXdDF1TTBYOGFsdGZVOUl5TDNYMXlGbXhDejRlS0hjaHBxbzc2NVlLZjZraDJJWm83MTRPUElOelA3b3V1NmdsdDlxTVl2OWlEZ2NJNG5YaFluT293QnYwU2pwTnBmZ1MtdzJ3T2JMc0JDclR3Q1pkZVJBNnlYdUs2b21OV0U3SGdUWVlHQml0MnFLUk40NGhXU0tFZlJoRDVYeFl4VUplZktvRDZJT1JZUG9kNjdmRmxpdmRs?oc=5",
+   "data": "2026-10-20T18:50:58+00:00"
+  },
+  {
+   "titulo": "Brasileiro é ‘viciado em CDI’, mas queda de juro pode fazer bem para a renda fixa, diz gestor de crédito que se antecipou à onda de resgates",
+   "fonte": "Seu Dinheiro",
+   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOQWpOVEZXVVhmY2RPaHVsQWtzajQ5S3YybUMyUEZJYlJ5dGpRbjR2Xy1yOEJMb29HYXFFZUs0Z3dfUjBhNlNyRENubGF1QzhtaGE4aWlYanp4dmZ0Zk9MaTc2VnJYZ0pHNllfSDhEVHdQR3gwOUZYWG5qYjdCZWtzZ2o3ZmQ1Vjc4bFhpVndUdzRveGtnWW5sMl9KZTJ1Y29rVnFwRUx4MkhpS1Z2QnhNeHFNdzhlU1pyRC0zWW9DLWpYT0tnWXVtRW9uWWUxYWZBREhVOGVKOGtsTVA5RVZxSy1rRUY?oc=5",
+   "data": "2026-10-20T18:41:00+00:00"
+  },
+  {
    "titulo": "AMER3 sobe 19,1% e Ibovespa avança 1,35% na B3 hoje",
    "fonte": "Visno Invest",
    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNQWYtTEVUWkdOMFA0dTcwUnRiMlNyMVotLUtaYi1jYWo0TksyNFpNVzNDMWtNRGVmY19NSWFBNGVlRWVPZmp2UXNLX2l4UjZ5WURxU3lyeEptc1l3LUNMR3BTRzVtRXl6TmNweTJ4bVJBWkF4YkdMaUh5ZkM3VTRaalJ1ejYwYTRjcXhjU3Fn?oc=5",
    "data": "2026-10-20T18:35:00+00:00"
-  },
-  {
-   "titulo": "Igrejinha mantém seis grandes obras em andamento; investimentos superam os R$ 11 milhões",
-   "fonte": "Portal da Cidade - Igrejinha / RS",
-   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOWC1SWG03WnByMjdkX1pnbkpNSlpSRXh3X3ktMWFBN1lxRktkOXMwTGt3ZnVsOGctUi1oTlJHblU4TXJLVGNHckc1YkVMUk1vQlJkYjlHQkpLNEl3MENlMHFIVkZqWkhJeTdqLWF6aHF1a1Faa09EcUZrSmNpQ2Y2TnFHVVZ5SXJXeGd4cW4yUnJZMTVlT0RCNnM1cU1jYlY2S1ZVQzdZa21RbllPUURLT1lUSG05TGg3VE9uUk1oRDZ3S1NiRVhoeVhTUGY3OHY1dmJhelRSaEZnR003?oc=5",
-   "data": "2026-10-20T18:26:45+00:00"
   },
   {
    "titulo": "Setor privado, governo e investidores se reúnem para impulsionar o financiamento da mineração brasileira",
@@ -35,58 +83,10 @@
    "data": "2026-10-20T18:24:13+00:00"
   },
   {
-   "titulo": "Mulheres avançam nos negócios, mas enfrentam obstáculos para captar investimentos no setor de startups",
-   "fonte": "Foco Nacional",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNY0c4MHUyOGh5WUdFeWFFMGdDek1ncWxPVll4ZmlJLWpVS3hJMTVJRUpqZDRFU3FrY19odTVTSWVXYms5Nko5OUx0VlAySzhLdTdBZXd2STR3QTZLSFlra0dkQXlRNjl2QWVfb2pablNadWJlU3U5Z3NhWXpDWEVMMldJMGQ?oc=5",
-   "data": "2026-10-20T18:17:00+00:00"
-  },
-  {
-   "titulo": "Fundos com CRAs da Ruiz Coffees vão assumir fazendas da produtora",
-   "fonte": "InvestNews",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNMURFR3hVY0xiMzd4WllYM2JIb3plTFZoeXBaVDZHX3VhXzZJNUN1NXRZX2Z5b0pkTjBlMDdDbm5FNUlJY0pCbTQzZGNhVDhPeEtfNWdpRVFhTHRaTmJneUdZcGlUYkQ1ek81N3p0U19tX1RTMHhVb2RQaGNvZGVmT09aeWZLNU9kaE9nWEpEcFMtZVprMmoxRmVmUlowWlEzZTNhN2RSZDXSAa4BQVVfeXFMTUd0Q2pVWU0zMERNWHhicldodUlwRGJsODJUbXlRUExiLVJIZ01QMllESXc0RzNwZ2E3QjZ0RjNEM1dqVW1qR1J1SkwwQWN4V21uRnZ6RmlmQkVYVDVrcVNQNHVJMDRZWVFCd0t2Nk5XM19YNC1xZzRfbklCc2pGbi1SbkRBMy1lMXFGYmdIWVQzaDEzWVZVTThNT0J2a1o0bEx1QmdlZzBzQzhGcVZR?oc=5",
-   "data": "2026-10-20T18:15:18+00:00"
-  },
-  {
-   "titulo": "Operação investiga fraude em investimentos que teria causado prejuízo de mais de 29 milhões de reais",
-   "fonte": "ND Mais",
-   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPb1FoTkxaMnVnZjZZNmVscmZVcGdEWmtQdFhOaTNoQkpTOGZNaFFGcnlvLVNGMWFHQXV4MFpYQkt6VVBucWtTVHE0ZU95NFNSMmY0XzVrYVBndGxBbi1BTUY0eUdfVlBpOF91emxvTW1MQVdnOVJTdVN0YWNOMnY5eFVxMXJ0eHFhem10V2VJMVhrNEdDVUdXczMwRC1qT3NRZTc2TlhuSm94MlJ3UzBMSERnQ0htUGhDN1NyVFNWMWxaSFNCLXMtcA?oc=5",
-   "data": "2026-10-20T18:12:31+00:00"
-  },
-  {
-   "titulo": "Além da indústria, Joinville aposta no turismo para atrair novos investimentos",
-   "fonte": "Jornal do Iririú",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOcVNOU1UzQmpJWDZMME9aS1NTSHNRVi1UanN3LWhDVHFLOU8wWk5oUU9PUGppMWVzQWpKd2xacHhGTHBPdDYxRnZKN2MtQTkyXy03VWxyN1pRMV92LUpUUVNvYXZYVU1NV184VlczeHB2a1RYV3NSbTBjZ1RVNVFRWUFxLVoxRk5TTGhKamxuVk82X21hMGtxTUpEX0tYY1ZJV0Q0TkotaHlXcURqOTRQLV9VY2lid0Q2Z0Iwc2JJUzdUdw?oc=5",
-   "data": "2026-10-20T18:11:00+00:00"
-  },
-  {
-   "titulo": "Análise | Inflação virou assunto menor na campanha",
-   "fonte": "Estadão",
-   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOV29LZm5nd1c4S01MakNCQ2JZQzVaWEF3RE80YW41czM1ckhheEZKOS0zY0EydUU3R1hDX2RPXzBFYzRGb2tNaEJ0MmhCc3BrRlIxRlFsdjUyNGcyRFY0YUtjRk1hNTJXVWU5NnBrUHdMeFh2MjNSWThNN1NVbXdvQ0dR?oc=5",
-   "data": "2026-10-20T18:07:16+00:00"
-  },
-  {
-   "titulo": "Nova Marina pode redesenhar mapa dos investimentos imobiliários em Florianópolis",
-   "fonte": "Top Society - Karla Cruz",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQdmVqaVQtSjQ0dUJUeFExQ0Z6SGRRcndoaHNqUzh5T2VBVkFiUUszOHFzeHBmUWp1cnhSWmdvQmYwTmQzY0o5dXFMOUdPT25pR2dwQ2F2SlNxWTYxSG5wYnBObjJYeXFXQU0xNENQQ081eXVuSXJnVmRQNEQ2SzR6R0NaSHl4TFlPZUNxbHFGUmtjNjdUNWlkalVVMGh1aG5NVUhudjRIQXRJNFU?oc=5",
-   "data": "2026-10-20T18:07:00+00:00"
-  },
-  {
-   "titulo": "Câmara delibera sobre investimentos em esporte e infraestrutura",
-   "fonte": "Jornal O Pergaminho",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQN3p5RGRmLVBRSXdxZzdkZ0tnN05mc0xfSFluZy1fYzRHeUFXaFNTMHJ4cUV5MnlBS0JURHZVX3h1QWUzUTQyLV9ySDdGTGtnTDZxVFhNcWFnaTQ0UlgxMFN4OTREVDUyWFd4TEZOYnRJa2hBYWtrUW85clNicmRtOW5yZllNTjJUWDU3WWhwanhEWHFGQzlNbUJn?oc=5",
-   "data": "2026-10-20T18:06:00+00:00"
-  },
-  {
-   "titulo": "Inflação virou assunto menor na campanha",
-   "fonte": "Estadão",
-   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1xLVJGUUlRVnFWZlFkR3JJZTJDUkQ4SEQwYTFEMHVDSnFta0llSjZrYzVGajFZVWhQTkIxYjhEdkZ0aEEtWURfQkZTVFBEcTY2SFA1aXluYjR4cFE2MUFoUVhhZkZKX0pid3FUYm5od1p0YkV0OWZB0gF8QVVfeXFMTjJXYU1QNlYxX2FwaXUtY2NBQlZXU1E4dU84SGwzck9qUS12dHJVWTBNZWl1bUNSTVZoVkxxT016dVYteGVPbG9jRWl1N2ljbUdEQnlvRHcxdHpXdV9LZGtUNTU5UjlVRGlDbUJmQjFHMXMzQ2VHbnNjMTl4VA?oc=5",
-   "data": "2026-10-20T18:04:31+00:00"
-  },
-  {
-   "titulo": "Por que a queda dos juros não garante financiamento às incorporadoras",
-   "fonte": "Exame",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQSDZ2RS1PMXlqaFlmS1YzMEFSV29ZYW5oMW9Vb1NBeDhMN0MwdmpOMVpYWE8xWEw5VTNQelNZTW9QSVozeEp3ZFdET3hCTXpIa1luSTFxQzJVb29ucFJkM0NpU2pydHdmdEJZRkx5UTBFWlluM0VMMXplTU1fYUFHWUJ6NjZOOGd0N01kRnJxVjgzTTNwMHFkRUpnMjU?oc=5",
-   "data": "2026-10-20T18:03:17+00:00"
+   "titulo": "Acesso a investimentos na Revolut: como funciona a nova oferta para investidores",
+   "fonte": "bra1.com.br",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPeDgwWHdycDR5OXZvVU9OYXVfN3A4Qk1lLVRqTWJDMWNoTHlxQ0RfUkRQNzRkUjdvVl9aYWtPekFmSThYQlIwZklvRmkwUHloUXlaU0JEaVZ3cHFTVkN2ak12bXJBbjNNSE5BeWxlb1dlNGp1bWkwLWh6Y2hhN3NJZW5YTVhIYng3RjFLcWxZN1BKVnZIdmxIZmhxRk9MRW5wZlRaTUdTOWRJenpKbDRCdVFhT0VGS05wTzJhQzZGOUI?oc=5",
+   "data": "2026-10-20T18:23:00+00:00"
   }
  ]
 }
