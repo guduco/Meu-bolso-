@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-10-20T11:36:05+00:00",
+ "atualizado": "2026-10-20T12:44:46+00:00",
  "indicadores": {
   "selic": {
    "valor": 13.75,
@@ -7,7 +7,7 @@
   },
   "cdi": {
    "valor": 13.65,
-   "data": "16/10/2026"
+   "data": "19/10/2026"
   },
   "ipca12m": {
    "valor": 4.58,
@@ -17,76 +17,76 @@
  "cotacoes": {},
  "noticias": [
   {
-   "titulo": "Após crise no abastecimento de água, Prefeitura de Juazeiro anunciará na próxima semana pacote de investimentos no SAAE e ações contra impactos do El Niño",
-   "fonte": "Blog Nossa Voz",
-   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1XNHdSbjJBbUw0Y2VBUkVRWHk0YW5MaHJCY2FONzhsZ2hkVENIZWVxbVgtTHNNdUFDRUFBVFNkSGd2MlZJMVNQZktEMHlYd3N1LTJ3Wg?oc=5",
-   "data": "2026-10-20T11:34:41+00:00"
+   "titulo": "Dólar abre em queda com mercado atento à segundo turno das eleições",
+   "fonte": "CNN Brasil",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPb2ZPN0ZqY3F5THc4LWplMUV5NV9JS2FvVjJtU2JIQ1FZdDNBaFdDYU40ejZGQkEwZWVVSElzNFd6YWl0R1NEUHlydFp4ekRwb3Y1MkFfUTBfUXBlbnNBOHhuVEcwVUxxR0lLaEd6b1hEd1lMcXJXOU9Nc1BGRW9XelNQUnV3dXVSc2VrUU41S1J1b0RYb3UtTVdQa256SjRrTDFieA?oc=5",
+   "data": "2026-10-20T12:39:12+00:00"
   },
   {
-   "titulo": "DAY TRADE 20/10/2026 | Abertura de mercado e minicontratos",
-   "fonte": "XP Investimentos",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOYi0xSkRPZDFxaTNsWWdTemJCV0xyMHpHZTMwRnpqdkZBREViX0g1TGNlV3JzR3lrWUNjalQ5ZnJZbEFhbnpVbVJiM0lSNjFUcFlEOUFzMjBLTjNBVTg3dGFJelJSb056cDlPN2c3YmU1MTZfRGtON1hZVmdVc2FPUWJkMWQ2d1BwelRYdTRGazdmWTl6NEQtbElZT1BGcG5pa3RmbHZtb0RGd3pLRE9JeXRfWQ?oc=5",
-   "data": "2026-10-20T11:29:44+00:00"
+   "titulo": "Investimentos prometidos durante a Cúpula “Invest in Germany” de 2026",
+   "fonte": "TradingView",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5HN1hOV1lESl9iZkxWMXdoLVJjRUpTTXB3azNJQlp5ZFhjdHU4bk5jZXNmNkJfNzhycktiZUR5eVIydlZDZUNkZkdlS0psdE1kdV9FZW8xZHprZ0RqaVJBaXRfYzdZSW9WdGxOSTMzSEZ1M1BDdlp3?oc=5",
+   "data": "2026-10-20T12:37:58+00:00"
   },
   {
-   "titulo": "Mega-Sena acumulada: quanto rendem R$ 185 milhões por mês na renda fixa?",
-   "fonte": "Portal ClicR",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPakhoSm1VSDJvQ2VFbmx4VHJRQVFKbmNYdWdvV0ZMdlFWanNJYnRrUDhnTzJaaEJlU1ZWbXhXa0hVUlozb3VLdU1uR2ZBQzE2Skk5VmV3VElPYjY3bHdzY01XQlY3cnN3VDRKX2luNU9jYkpNTGZMR2pOdTcxVVppYjJCbUZ1M19LUThrU3ZfU1hvQkNkMHc?oc=5",
-   "data": "2026-10-20T11:24:40+00:00"
+   "titulo": "Dólar hoje cai a R$ 5,019 com exterior e eleições em foco",
+   "fonte": "ISTOÉ DINHEIRO",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9qb1ZUTS1YS3pVdGtsSnNVbWMxWWY4dkpnbUF1NUVybk1ZN3pfNklVNHhkeWRiS21aazR4ZzNiRG9ZTS0tclJzSktHUWRhYWxVQmduVzNuVEZDcDBEQTRBdWdQMjI5VVNVd29FdEFaaTg?oc=5",
+   "data": "2026-10-20T12:36:50+00:00"
   },
   {
-   "titulo": "Petróleo, Cotribá, dólar, Ibovespa, mais agenda e pílulas da economia 20.10",
-   "fonte": "GZH",
-   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOeWFiSHNWTlQ2dG5CTm53QWVFblRpMmVzQXNudW54Yi1HY0hKYjIwZzRxWEV3LWo0UmFKRmNoaFVQbkNfdFhZNGpkVVhGZ2JtQWdIWUprVndDdThRZlI0WGVzRkljNll3X1lKSXEzWHhCOGpBc2ZzRTMwOEJUSUQ0MkxJUUs4V05ncXNxWk5wVEFLU3dYbmUtYU5KR3NaU2c1UjBXREJ2QmVtNm93dzl0c2FvbzU4RklPYjZJQ1JzQnZWWThXdUdOWll3UWRwdjNuRncxMHhLVnJFWWhpbHc?oc=5",
-   "data": "2026-10-20T11:12:07+00:00"
+   "titulo": "Em ato de apoio a Lula, Victor Marques destaca diferença de mais de R$ 500 milhões em investimentos federais no Recife",
+   "fonte": "CBN Recife",
+   "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPTU1nMm1XQXNnelp0bng4Z3hzMGZuSmd3ckZWS1c3anFXYzllYWZDcHBraDdha1dnLUZKWVdfdmJaWUczWFBJRTRjSEI4Ql84ZW5USmJsbW1ZWXVGVmIzWGRDY0YyM2hiTmtaQzlGS1YyZF9FVFcyVU5Va3Q4SmpxemN2em1RN0NMTU1VZzNIdzhkbWV4RngtRTF2cHBvQnJRYi1leG1CZUM4RUFKSk1NaW9yc2JVLWY3QjNla0hUUWZmVXVPYlVMVm9GQnNIMm1kdFBKLVNSbVlqekZHZkl5MDhSSlo1aGw2LUsxZC1GNnR3RmRORENqUGFoY1lsQQ?oc=5",
+   "data": "2026-10-20T12:35:27+00:00"
   },
   {
-   "titulo": "Juros altos, inflação e El Niño: o que espera o produtor rural após as eleições?",
-   "fonte": "Canal Rural",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNZjM3OXhsNzJXRXQyeVlxdlJXR3NTLV8tVUNXUC1SQ21GUkV2aDVpVlV5ejNVdDN0amdMNUs5V2tGLTNHQzZGdUJ0LXc5bVpPOTRYX05oUlA2LXg3V2J4Q3RQRzU3LTYtXzQ5MkRQZXZhbFBQVmVkNlhiOTgySnQ3OVQxLVVHa09zWC1JM3JCeG03OVZiU2tvUkpmRVNKVUlTME1Vbl84OEJIWGdIWUZLYTc3QTJwX0xCM3FuaDJjalJ0aDg?oc=5",
-   "data": "2026-10-20T11:09:50+00:00"
+   "titulo": "Juros recuam com dólar em meio a trade eleitoral",
+   "fonte": "UOL Economia",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOcEJNTEF2d2d4eWFLdjVwNFVhTC1DNzFUdldKUGdjaE1xaE5PRXV4M2lacG9uRWxZSnNYQmN1dGhnVzBhcTR2Q29nQXh3RUpZTHFnZWdXMzlIM0IzblYwdnBEa0VTQjJheWJqZ1ZPN2FvZm14eGNqTExXQUFYNWhaaExseFh3eklWdmE0ai0wN295MVhTMDMzZjA3aUFEbVFSLVJISnhCQklyelNDWTNsS2NsSkZIQ0tN?oc=5",
+   "data": "2026-10-20T12:34:00+00:00"
   },
   {
-   "titulo": "MXRF11 ou Tesouro Selic: quem pode render mais com R$ 20 mil investidos em 2026?",
-   "fonte": "O Petróleo",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPWEtqVkhJeTc4X01qV0wzenNGZXV2cWNLdkI5cy1udVdabWpJai0zU0RjRWRhcVJFU2NQU0h6Umo5U2VTNGZkU2tPQWUtcEJnWnJ1ZVRLa2RuWnUyenhpMzhqaXFBTWo5RlZRWmdnaVdrUXc3aGpheVV4S0FiU0RMSjR4a1RhSDdNYXpXaVRMdTNNSkxiaTJsSlhzdG9iNlRHUnJtY1Rn?oc=5",
-   "data": "2026-10-20T11:06:30+00:00"
+   "titulo": "Tx lança stablecoin USTX pareada ao dólar para negociação de ativos tokenizados",
+   "fonte": "Cointelegraph Brasil",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9QWWQyblNnbDNEQ3dlLXE4YzF1U3lvakFZOG5UWmxmdVZ1WjFmY3NWRlVzVWlCd2Y4aGlaN0F1VWVkbE9SSFhRN1FGdGdTZW90SjJWSlQwdlRUUmhsMVRRMUZjaFBGVzA2XzUwZW1veG9KNHE2Z2RKek9rZUg?oc=5",
+   "data": "2026-10-20T12:33:51+00:00"
   },
   {
-   "titulo": "No Dia da Inovação, Fundação Araucária destaca mais de R$ 460 milhões em investimentos",
-   "fonte": "Coluna do Meio",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOWEdmVXVVTkYwOFFSSDNPdXE1aGMxcTcyUVhpZXRRYmVQcUFJZ1NaUEl1ZE5PUG1yMG9PbTkzS2xGUjM3TWhrZ1RUbDRSaTUxS2lsWGpfaW43dlR5ZHNqay1rSlJCekhERl9IOENIY3pkakh4Z1lyTTllVVFzYzJ4aUc4MDgzWXNPTXF5SjVzM054X0U2TlpONVZ3N25pcXVsaVd5NVVGWEdNbDFuX0t0N3g1WXpYQUZRMTBhN0owdzRfdw?oc=5",
-   "data": "2026-10-20T11:06:00+00:00"
+   "titulo": "Frasle corta projeções de faturamento para 2026 com base no dólar mais baixo negociado ao longo do ano",
+   "fonte": "Times Brasil | CNBC",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOaWxCeW5BQ005bl84N25xRTE4bzlJNWFDWVdDLXBUT29TMWZIOTZTOUZBQnRqdy05OHJFNDlnbnl2ZkVoUHMxb2dHQTA0VnRxRGthUTR6NkFVVXp4M211SFVUR09mcVF5V3dUN3NuNmw4NzBteHdQYTZUd2RmRHNYZzd1WTAyYlRlT1Jad1FfOGVzRTdkakhr?oc=5",
+   "data": "2026-10-20T12:29:00+00:00"
   },
   {
-   "titulo": "São José dos Pinhais reúne mais de 45 mil empresas e amplia atração de investimentos",
-   "fonte": "União Metropolitana",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNRDUyeVV1bGtLLTNTVlVkY0U3M3BqRWpHSG44REgzbVUxNm9jWklkTTROaUx4RGItM2dFS1AwUWZ3c1RRZ1BkZGlUdFEwWDlDX2hZVHNIWTBKU2JKVm1KamVVNHdraVJXVTBtT2xNLXo3UGdpX3BvTl9udHVhOHhCWm5PQmJIVWNpa1ZITzFxN2theWVLU3h0SS1WcDg3ZW1CN3k5OUxIN3VCdWRPZURWczZscExWeGFWNFJR?oc=5",
-   "data": "2026-10-20T11:02:00+00:00"
-  },
-  {
-   "titulo": "'O Brasil é o país da renda fixa', avalia CIO da Mirabaud, que vê entraves estruturais para a Bolsa",
-   "fonte": "Money Times",
-   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQVldQMWY2Q2RGSlg3a1VPa2ZWQV82azJvalRJcGVEQ3lkc2ZDbmdSNTd4Y0hHLVJaUmI1MjMwenQ5d1NkbGpPcldJZnFJUnhpRnM2X29mWW9NNjlXTUV6anBGV3RyYTdFb1psTkdPQVp1Z24taEdidlJ2VGFWYVU0bTliajZ6NmUxb2VnQ0Zqdkc1RTNqMnRBYlowYzJkYjh4VmdDRDBBekFZeEk3TVlEcWpCZEVIWld3VVQ2bzlQY0k4V3hONy01bkhWMA?oc=5",
-   "data": "2026-10-20T11:00:00+00:00"
-  },
-  {
-   "titulo": "Selic alta protege o patrimônio? Entenda os limites",
-   "fonte": "ADVFN",
-   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPMUxIbk9jX1JQS01DNDdHd0tLeFdWYkJma3dCc1VXX3pSUE9jZDlKX2xnS2N6M3JnWEg5MHhhcTVlZFRzd1RETVdDcm11U2ZqZmFrNXNSU3E1cTkzVG9ZRFBXU3ZiTWxVQlpuVHFsSURDd3prQWVRVWVaLTNaTUk5all1OTV0c1lidnFQc3N6WQ?oc=5",
-   "data": "2026-10-20T10:58:35+00:00"
-  },
-  {
-   "titulo": "Ibovespa Hoje Ao Vivo: Confira o que movimenta Bolsa, Dólar e Juros nesta terça",
+   "titulo": "GM supera previsões de lucro e receita no 3º tri e anuncia plano de recompra de ações",
    "fonte": "InfoMoney",
-   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPZWVrOUVZa2V1VDN5TlZQTi1DUHV6OTRKaVdRR1VCRkF4eHhsMUNYVjM5NzRYcllzN3FZZ2JzWlV0SjkwWkVKNEstTEpZUnZVQVJlN2s4Qnp1cnRpc0pSTGUwdVVGSDhxN1hYa0VheF9SVVM0UlR6Zi14QzE0MzB4elVHZ3RMOW9KZ3lDV29jVQ?oc=5",
-   "data": "2026-10-20T10:58:16+00:00"
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOclRVWTFTTm5DdDdQNFE1QThIY0s0cVRaU3R5RWtoaXlPdS1Kc3p5OEVCVGdVSnhMV0Zta3NlWk9XeDNIZVNfUGEtTHlEV2JqOF8tTmFSSVpQcGZrenJCRlpWUVJJQmRKN3N0VDNzaGtpdEZwenY0aDZ5b3dnZlZMazRuT1c0OU9jTlhIRy1Jd3ZqZnBRYVZSWjRabXlJWFAxM3VmaGhmdDZiSVhyb2MweFl4U0c2bXVUeEZfRkk2N3VBZ9IBxwFBVV95cUxOdmU1UEJCcWtPWjlldFhDbU5CRGlBUnJreDh2d19iY1R3eE01alFmT3NnZzViNWdacE01bTdkRDFQZDVwaV9yVzhsS2FVcGNEUUtNWWhxb1dsWWp6THBOTGRYbWN2ZnVfal96VE5xaUt3RTYtSXZPSGM5S2RkWDA3NGpYV0FXRHFPT0lDOXU2bHl1V0VFSjNfelZGb2V2eTJ2elFkcjZqR3p2bWNCek5fenpMazc3NV80WTlqVkQ4aDhRMzV5T2o0?oc=5",
+   "data": "2026-10-20T12:28:21+00:00"
   },
   {
-   "titulo": "Ibovespa recua diante da indefinição do cenário eleitoral no segundo turno",
-   "fonte": "Canal Rural",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZG9ncnF3WkptZFF6RjFKeEtHR3FDUkdTcVI1WjlwbDRWcFVxNDF2QlVvbV8zT1ZHSEM1dHFZd2JBeHg4b2VVZ3hTemRSUjRoUHhQY0VYQ1FqOU9pdjRzR0xRei10RWl2SFE5SHF3cmRNRTA4UW0yN0NXOHc1bWVuOVpPMWJBNmZlTUhjcHVLcFZ2ZEZkaG5RRVFGNlVLeGNKUmthbG8zYWYzZk5zcjMxRUdmdFo?oc=5",
-   "data": "2026-10-20T10:58:02+00:00"
+   "titulo": "Emanuel Pessoa critica governo Lula e STF e analisa investimentos",
+   "fonte": "band.com.br",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPLW5Ja2RacVhiUVozQjc2WmVTUkt2Q2ZxZGZpUWpMTE9fd3F6ZWxsRVpudnNWWUVJR3NzbTVpWjBPSkllZmRhS2gwWW14ZThJX2FQcVFBVVVsVHMtYkdBY2xTOVllamZLRWk0S1pacjBMS3VvMDNvdEV3dEZ6Sms0bjZxTjhpN05pSnhzNG1NSlRjY3FBMTZtSUdldkpXTFRiTkZVTWk2SkQ?oc=5",
+   "data": "2026-10-20T12:25:20+00:00"
+  },
+  {
+   "titulo": "Ibovespa futuro abre em alta, dólar cai e notícias corporativas",
+   "fonte": "Finance News",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNM1Vkd29uNjlIMFBHWUJwZ29PWVIwV3FqaDJCaFRfcjZDX1hFS001enpfbmhNN2l5UlBMT052T1NKNndNLUpOTjIyTC1Pbk12WXBOXzJBVUtmS1BZYnNvV0tocFJlSVpITEk0Ny1MZGY1Y3RBTGZMYThqY1RIMGUtdi1hYzd4MGNQMXVna0JQcG8zSGZfdXJScGtldXZlZktvR1E?oc=5",
+   "data": "2026-10-20T12:22:36+00:00"
+  },
+  {
+   "titulo": "Banco do Japão pode elevar previsão de inflação e manter juros inalterados, dizem fontes",
+   "fonte": "Money Times",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQWDRIUnhoeDZXLV9OeFp4cUREcmMxdnEtSDNyamstZjlpR0ZWb3Nud3BpMTFSdjJVMXdJMDZmYWVTY2tkTjl0cTdDQngzZ3h1Qjh5Ykl2Nmx2NDZ0emNzZUFvTlZLQ0Z1eXRETTk3YXRuNXQxTmlEMy0zcmlub054M29YMExKZlZnTHlyaUVrTTE3U3hmOHFUSXlaRm40SkFTZkR4b3F2dWpzODdPOXlvZ3M5cDYyRktzT3c?oc=5",
+   "data": "2026-10-20T12:21:00+00:00"
+  },
+  {
+   "titulo": "Dólar hoje recua com exterior e eleições em foco",
+   "fonte": "InfoMoney",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPSFZTWHFUa1JJdHdTUldLZmZGdXdPZ2x5V1IwQXBORFVCMEMzbndlTWtxd0Z3ZDZuTWo1Y3dibDFWS055TEEtLW1BQUJHV1FGakRVN19EQVVnQlp5LXozWXJvZUlIZ2RyYWhSczRFS20wME5GRk1HUi1oc29OTEhPd3h1Z3FodllTVWF6ZWpLS1JWbE9sam9tSW5VMW3SAaIBQVVfeXFMTlB6MjA1ZEdWQl9sZ2xVTmVMelllcldMWDl5RExYVDdQd2lIZDM1RE1uU3FkTGdGelNNTkFKSFhtZGx1dU8wZjF0LW5Da1EwQV9fNHBDV19sY21wWkRMd1V2dW1rSEFacDJCZjcxa3RjMzhyWFJXcF9xZnpNdnVGX2xyc3VmcHQ5bkt3Rlc1d01yRHF2aGd4LWFaYUxyYzFLVExR?oc=5",
+   "data": "2026-10-20T12:19:46+00:00"
   }
  ]
 }
