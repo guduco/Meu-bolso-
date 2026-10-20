@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-10-20T03:35:47+00:00",
+ "atualizado": "2026-10-20T04:34:56+00:00",
  "indicadores": {
   "selic": {
    "valor": 13.75,
@@ -17,9 +17,27 @@
  "cotacoes": {},
  "noticias": [
   {
-   "titulo": "Juros altos no Brasil exigem choque de credibilidade, diz XP",
+   "titulo": "Ajuste fiscal é caminho para queda da Selic diz Rodrigo Sgavioli",
+   "fonte": "Gazeta do Povo",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPMTVKQllpWXh4OXJ2ZW9QZVdNWi01MmJVd1NHek4yUkc2VTVkLWFNSkRpZjZOdl9IQkFqS3V2a0FxQ2hjM1llUG40Q1gzUFEtRFB1VFpudXNsbnpmYVEwQjFrV3d2NF9vUUNCLXNTN2ptMGdxeG9VOFliMW5SRm1jU0dGZ3hNRURQcDRuUEttTnFBcm8xVkpnTXVaRVpkZTYwek9CZ3BWbi1zN1VxcTNQS2ZydlBWdw?oc=5",
+   "data": "2026-10-20T04:22:00+00:00"
+  },
+  {
+   "titulo": "Alemanha: gigante Roche suspende novos investimentos no país",
+   "fonte": "Euronews",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPcjZIOXppaE50VUc4WEF4cGFCSDdHQTFoZjRQNGxoajJhLXgyU0FjbGFCQ24zSE1BekxNXzJWLTJTZ2pEOW43Z240c0g5RGJHQzNvdEljbnpTSDhteGdlMmcxQzBjZEpHYzgzMHh4Wk81bWxwRDhXLTVyaWplbkRjV1FKeVJ2MW5OdnhJM240OEN4ZHdUX0lTcmxn?oc=5",
+   "data": "2026-10-20T04:08:38+00:00"
+  },
+  {
+   "titulo": "Dólar cai a R$ 5,04 com mercado atento a pesquisas eleitorais",
+   "fonte": "Vero Notícias",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNWmlZX3lHNDFhTWdjV3RyM2dlWG9UTWY5a3oxZWtLZTRvR2JPSmtaZDE3YkI2blMwSFR6RG1lX2RBTVB6cE1rXzZScUhWR1BONVpmYzY2dERzUGpaRW9sZlRUSFZhYVpHZ1JfTzNtWkZwQjBVMi1sakJfYjJrbGtxWDdpdjJhV1hTeUJTc1RMSng3QTJtMWpSVExB?oc=5",
+   "data": "2026-10-20T04:00:00+00:00"
+  },
+  {
+   "titulo": "Juros altos no Brasil exigem choque de credibilidade",
    "fonte": "Tribuna do Paraná",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNbnJTczJYR284ZUF6X0tCMUxhUk52N1lRUGdZd3hsRUQ1OEdqZk9vcGt0cGZfQkthYm13NkFOU1ZKajZ5TmN5LTBCd1M3RDZZbkZFQ3RkNjhqU09Hck9jZTIwR0V1NHBxcFd2MXNjVDdTcDlKS1NaZWVUcVhXZ3dfcjJhTlN4MmpWWk5rcnpXNm1QX1dlVjVSVUMtNjNHLWhHcmh0MWFNa0tKQUk?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNbnJTczJYR284ZUF6X0tCMUxhUk52N1lRUGdZd3hsRUQ1OEdqZk9vcGt0cGZfQkthYm13NkFOU1ZKajZ5TmN5LTBCd1M3RDZZbkZFQ3RkNjhqU09Hck9jZTIwR0V1NHBxcFd2MXNjVDdTcDlKS1NaZWVUcVhXZ3dfcjJhTlN4MmpWWk5rcnpXNm1QX1dlVjVSVUMtNjNHLWhHcmh0MWFNa0tKQUnSAbABQVVfeXFMTTdTZUpWOXNWVzI4bHJKVVZETTlMd0F4WnEtZXFBOF84eTRGZ3p4RHZDdFlnanNKNC1TV29hb01BQkFtRXRJcmI5bVZ2VURNUEFTdVVXc1dWTlJub1lPOG9Fb3RjdXhaNjNWQlZvLU90am9aNXFYNkdIZ1hwbldGa3ZsanE2QTJxUm8xamNDa1dId0dNaGJMY2pOSEh1bFNpMXI2Vlc5NGh5cEtrR2lkQ1o?oc=5",
    "data": "2026-10-20T03:07:00+00:00"
   },
   {
@@ -69,24 +87,6 @@
    "fonte": "Márcio Didier",
    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE16SFUyWTVmQWxTR2hiWTJQcDZhYXZtLVZCTWpORWlNX0RWUXNDVE0wUjNJck1VZGltZHhMRkNrV1dGeXoyZjJHcXhiVmFWa0ZjMnIxUnJIZjJac0J1RWVmSnl2M3JKNWZKTFB3ZTBTeGF6alZ6R1E?oc=5",
    "data": "2026-10-20T01:14:02+00:00"
-  },
-  {
-   "titulo": "Dólar comercial fecha em queda de 0,49% nesta segunda-feira (19)",
-   "fonte": "Brasil 61",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQcmpabFVCdlNZamxDUHdOcE5pWi0yWnBMYllDbVQ1Yk9vZC1jXzhMRVNrTmJ5LWJweHFYS2oydXhJa1dEWlExRFVtd1NES3dUWWFQaWstUzh3anVObWlyTmlEWkFKc2plQl9FM2lOSlFTWS04UjdWMGhTSlFSS0RKSnQ4cFpkeTE3YXVkWjNtZW0xcDNZN0JvUDhIbGLSAaIBQVVfeXFMTUxLS3hpbmNXYnUyLU1iWl9OTXVnRFc5RUY1VjI2ZkRNaVVLMU14QldDbTIyRXgxOG94V2xpSVVvbmRJWWtOR2NXTUY4aGhzV2Q3VDNEVUQ4YkZVMmtQa1Q0ZGQ4UlBXMUZZTHcxMmdVNHRCV1dhbHE2YWE1X3pncUNFTEVOTExrM0JrUjlPalJQT1VTRFlDbEEtNTl2cl80bVpn?oc=5",
-   "data": "2026-10-20T00:30:00+00:00"
-  },
-  {
-   "titulo": "Edital Rio Doce aprova 1.464 projetos com investimentos de R$ 433 milhões para comunidades atingidas",
-   "fonte": "Informe Capixaba",
-   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE96c3ZKZE04dnlKY1pwakxIaGNsZzA3QnhLY0ZwbG03aVJTTzRxWGQyTTg3bnZhcjBNOXE3R3V3bmwyVlo4TGJpVm5hS3A5OUxrM01GU1dHMWF3V0U4bXE2Qk96bXgwcTV3T0dmT2JtQQ?oc=5",
-   "data": "2026-10-20T00:21:09+00:00"
-  },
-  {
-   "titulo": "“O Brasil tem muito do que o mundo quer, mas não deslanchamos”, diz economista da XP",
-   "fonte": "Gazeta do Povo",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQLUNiOVRYNUp6LUQzUk9sMkNkZmJibTh2M01zM2lLcnVveGJ1TGd6WWdoSnJNaDBUZGhQTERPRzFtTXhvdWNidm1jeDlNQ0xrWG1FZlVQaFJwWU9iMFFvaURsUVQyYnRibXF3UGoxTjMwNzAyOHp0ZjNiRVh4UzgtcWxya181cThndHQ2SEl6NlZNZHA4eGhfSmNONjdCaGZ0bkhlanRQTGVQQjRIUkt4S1lEdWxMR1JMWnc?oc=5",
-   "data": "2026-10-20T00:20:00+00:00"
   }
  ]
 }
