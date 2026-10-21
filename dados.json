@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-10-21T15:38:57+00:00",
+ "atualizado": "2026-10-21T16:37:26+00:00",
  "indicadores": {
   "selic": {
    "valor": 13.75,
@@ -17,76 +17,76 @@
  "cotacoes": {},
  "noticias": [
   {
+   "titulo": "47º CBPP: Em 13 anos, renda fixa passa de 56% para 86% das carteiras das EFPC",
+   "fonte": "Abrapp",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOU3lQNEVVbXdza3RNVXZYT1RlaDdUZTZFNC0xZFVrTktaSWlVWnBNdzdYZFVUcnFWOE96ejdFSHhSYVhEU0xGNGpMWFFGOGRzamppU2htRFk5c3ZlMEp2RXJMZXJXOExRRlR2akI5QXJybHl5aUdyQXh5VzRPcERYeUx4NTZtc2wwWjZITWFpdHk3QnRCZGR0RHVCa0IyeFRqcDdsZW45SWNqdw?oc=5",
+   "data": "2026-10-21T16:18:00+00:00"
+  },
+  {
+   "titulo": "Dólar ronda R$ 5,02 e Bolsa abre em alta com pesquisas e balanços na agenda",
+   "fonte": "UOL Economia",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNQ0dKZkJKWXVWdmhwZUlxRHllR2V4Q2RURlhMVWRQNnRwZ3k0RGdWQXR2V0FGOXE0bVIwUHNUaHFmN1VfNEN5QVlpSkF6NHBVNnNNZUp2SkFKdzgyNU84V3QtTXpMODJMeExXaHBfR29fM2Y2a1lQdk10YkZIMWlXOTlzVWZNeW56LTFGLTJFNDktZkMwaE56RGFaWFlTNEhxTUdfeldWZkREVmdIUjRmVUZtWQ?oc=5",
+   "data": "2026-10-21T16:08:14+00:00"
+  },
+  {
+   "titulo": "Gestoras de investimentos destacam critérios técnicos e financeiros na seleção de projetos minerais",
+   "fonte": "Estadão Blue Studio",
+   "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQQ3M0STQ1MTVkMTYzTlhfTlFQMnRpOFNZcUFqUlVpTTVDTkh5d01qam9yYXdIdUVhcnBoYlpMd0x3dnEyV3dMTTVQR2d4b080SFlqOXQzX2k0MjY2dDNjV016dWNnMGJXV0xKZ1hkZ01BNFpId0R1LUhvU19NMWw5aXMyd3hfSVk2ZHhiQmUxRGFuVDFFWEdyRzAwSkxzeGdscDZrS3dSb3BGRlFVck51NlVrMkdGcHJnSmdjQ01kNmJUOFYyN0JGb09YM29mTUp1WVF1TU9tc244dnAyLUlhaDZrVEplMjk4ZzN3Wk5fdlZfMGJ4Wk9nWDVZMmhjaVEzZFZfd0V0OTk2bDA?oc=5",
+   "data": "2026-10-21T16:06:18+00:00"
+  },
+  {
+   "titulo": "Saneamento atrai capital privado com previsão de R$ 201,5 bilhões em investimentos até 2030",
+   "fonte": "Money Report",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNVEprc0VtNHZOeDZQTmw1S2J6TGJpWm4xakwxZTlfaTNjWDB6RlBQSEFURmhBX0E5NkswUktGajhDc2RlNjlDSElDd1R3Z1d5dmEtMnppR2NKMWI5SFRVclV2RF9waXptSlgtZ0FUV0R2UVZQQy1MVE1vQ1hHTGdRZURHNmtRcncxUmtPR05lUjNGcFJoU0o4dEYydWY4bkg1QWxtX0NwcGhfNms3Zk5BcXhxNW1mbnhHVF8taGVlWTVpOFpDUU1Od0lR?oc=5",
+   "data": "2026-10-21T16:03:39+00:00"
+  },
+  {
+   "titulo": "Tesouro Direto opera de lado após Quaest mostrar empate técnico entre Flávio e Lula",
+   "fonte": "BPMoney",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOYVFRZ2ltR3BGS1IxTUUtdG5fdTVZODVmM3V2LWM1NzRvUmNSZVA0aUxBa0lTQ3RWZ1I4VG44MUhmUENyVEhUNzhsbzJ5bTRfdGxCWWZaN2FSZXpHcTRUQ0R5R21SM254VVUzSHZLMXV4c2h4cmN1MExVeUJTbHloZHBsNU82ZGtTZTVEV3dOOUhJZ2xleTBrVUJ4NjE5MENFbUcwZ3FlckdvX2dWT19jQVJB?oc=5",
+   "data": "2026-10-21T16:02:47+00:00"
+  },
+  {
+   "titulo": "Dólar e Ibovespa oscilam sem tendência firme após pesquisa Quaest; taxas dos DIs caem",
+   "fonte": "TradingView",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE51cExmdHk1RWM4d04wX0N5S2VZZlMtZGVrZzNobE1hYWJzRHNnZVBiZzNyV1owdkhQWHBjS0QyYWVSajVkUkc0MUhtUk9BZFhpb3hwTFZXVmRFY1IyZ2V2emxJQktJRmJPWlBBd0N0SklDTHFnZkxN?oc=5",
+   "data": "2026-10-21T16:00:40+00:00"
+  },
+  {
+   "titulo": "Ibovespa hoje anda de lado e dólar sobe após Quaest apontar empate técnico entre Flávio e Lula",
+   "fonte": "Valor Investe",
+   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNQ29FOElRdHBFaDJ1dDQ0aFpIa2JtRW9xaC10MnpTR2E1ZFBNMm10TXR4TFVlVUtFeHJJamc2eEFBaG5YelhGOFJsUXI0MjUzUmE0Qi11ZDBWQWdHRXVhRHVJR0JpOGx2a3dNbEcydWhQclNMOWtxS0xLc2xjZ2l0bVEwQlVHVVZUS0t2U1RiMXF0V3U2SUk0alQ1WkN5SFBDdk52b3ZZb0pDMXRnQnVuVW5ESkVDUGhNSGhRaEZBQTNnQXN5dFY4MzA3MktvTktWRzZXSWRQb9IB5gFBVV95cUxNelJ0SERtSHFSMXpfdWtLM0ZILWxudk1WaERPdUhKTXdDdS1qdlI5NVBvZ2VfOWp0YkplZm50dXN2VjcyeTVKUDUwenhhQmtmVEduVHlCcUV4ajRZZVphaWotS1VjTVJrTTg2Y3pidG1ybmFmanYzR0dndVJOcVQ4MGZzdngzM1JWOVlrVE1uSk9FbFRwN3ctNkpoT2FvdmM0aWNqTzJxckFRTGFWdVlLeTZzVVJJZ3UtZ1FWVmZkem51YkpsbHAzWWdhc3ZrZWdHbGhsTV96TkhVQkl5dmxPRnRheE16UQ?oc=5",
+   "data": "2026-10-21T16:00:15+00:00"
+  },
+  {
+   "titulo": "CNT estima queda de 4% nos investimentos em transporte previstos para 2027",
+   "fonte": "UOL Economia",
+   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxORktweVJtSHZaamFNVjFJQ0g1ZnhTcjBGN0J1WDlNc3VHVXBxMDVJU3Y5NG1IV2Q0cF83TDhONmpYSi10dmJ2TUVfaHdjd0syMGVwU3I2T1puQjJYZ2NUU292Y25CYU83UVNzV3ZOTlpraVhuQlNjb05jN0dibFpBd1dIRUVGRUZjblV3Y000Y2NGOFp2cEk1U0swb2hfVGxUdFd5WnFCN2JvdVBQUmt1X2VoYmRJaUZSYXpzZ2hIN19SNDY1OXZyYXZadGlTOG8zU2tjTzd0MkNUdw?oc=5",
+   "data": "2026-10-21T15:58:00+00:00"
+  },
+  {
+   "titulo": "Digicel apresenta à presidente do Suriname planos de fibra e investimentos ligados a petróleo e gás",
+   "fonte": "BNamericas",
+   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNdFQ3WW9NNk9LSGk5RjA1YVk5Um9TVHFJclF0eEhjVUs2dUwtVTh4UUxOQTBXQ0MwRkxoMWNtTFZDWUlMMV9salgyNGJqdDJzVkxzU2d3RlBKYUJwbmFnYmxIWXpOQ2s1SHFxRHBsM0pWUjB2MmtWTHJ6bjl5Z1RldTFEQVhVQ2tCVTU1Tm9BYUtjeXpFUUZBVHJvSmx6MjloaWpFdXZSNG41cndtOXZ3SXBHLU5yMDRNMHBmWkZoRnM0bUxwWlVjWkNxNW9tWDhhWk0zdQ?oc=5",
+   "data": "2026-10-21T15:53:35+00:00"
+  },
+  {
+   "titulo": "Ibovespa começa a cair, e dólar sobe após empate técnico entre Lula e Flávio",
+   "fonte": "R7",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxObVR4SkRmc0NhMGZQNXZaaWlwYUVkWWFhcG42MTFYYlg1SjFUYlJQQlBtclp2UFBhYzJZY2ZGSXpnTGpmYmZPemExVFhLQTlKSTVDLTdMMmozXzFZYzlmNzRnTWdvWDh6bnhvQWRNa1BQX0xITnhRczcxWm9hTjRmQ084cmtSZjcybGdkNnRUM3N4OEUxcks3UU9mWFJGb0MydGw2U1VrMHhoUDFOYi01QllpSkp6YkJWVnJpeXBoeUM?oc=5",
+   "data": "2026-10-21T15:52:45+00:00"
+  },
+  {
+   "titulo": "Ranking da Bolsa: 10 índices superam o Ibovespa no 3º trimestre; confira",
+   "fonte": "Estadão",
+   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPem55RkhxWEM2T0p5OVhvSE5tM0hWRjZyMkJhc3VjMzdVbWR6V3RLZFVCbXBOOHE2YmliTDY5Z1ZPaWdNVGdGbll4X2JsUDkxWWVIbjB4dDhMYVdYZnhURnQ2QVFpcEZmVHhXUHc0cmFZdUhMRVJJTnVwMzdyN3ZscHJTMTRIODl5a1lCcHlSMHRMVHJ0QWVfN21nUm0zME5yV0ZINDdIaWRjMnJ3MFl3dUxTYjZZUUJ1T3B6WlRaWEdwR2pabjUzbmh1QTdYR2UzUGc?oc=5",
+   "data": "2026-10-21T15:46:43+00:00"
+  },
+  {
    "titulo": "Tesouro Direto após pesquisa Quaest: por que prefixados e IPCA+ andaram em direções opostas em outubro de 2026",
    "fonte": "BlockTrends",
    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQTk9OZEVmem1QRWc4djJMeTVhYm5GT1d1aU1VNk9GSVhBUVZFQ1B1Y3pJc2U1NUVEYkFtVzhQdWpBZldmX3F4SlhHTkQtRkhIdlhzT29kYXluQzEtcF9HVHh2ckN5MFV5U0dLV2h3Q19WdmY5ekxGT19JQzd5T1hHdmlfVQ?oc=5",
    "data": "2026-10-21T15:32:32+00:00"
-  },
-  {
-   "titulo": "United tem lucro de US$ 1,1 bilhão no terceiro trimestre e amplia investimentos a bordo",
-   "fonte": "Panrotas",
-   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQdHpNOWlsdmVDeXNnRGtsb2M4cjBRSk9VV0w2OGZrR3NZTVhzTkc2YkpTOUM0X2otZ1lRVnhvS2xWVHIzbVZhZHc2cVpsMjhoSFVpZjRKYlV5bm1WMURNR2pYb1plazJac1c3T2xNSjdrR204UGtMMTRISjUzN0ZQREtGXzYxbG1QMWxnX0pNcXlRRHZJUjE3dDNuTEEtVkxoUUhOcWVFQTJKaml3R0c0Tm5yNHplOGdnZHBiLURMQzFYelJ2Y3YzbWhURV9kV21VZ3dBUjE3SEpXckZMSTBiSTQ5NHI?oc=5",
-   "data": "2026-10-21T15:30:00+00:00"
-  },
-  {
-   "titulo": "Bolsa oscila e dólar sobe -",
-   "fonte": "Folha de Campo Grande -",
-   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5rYkRFTWkxTDBjT0lpWUZ4UjlqdjE3NjFnb0UzTGxkZTFaZHlKNU56YTQ5aUkwQzl6NWdVZklBVVhBMEthWnBPN3pFX0ppZWZFWFJMNlhJRHEwQXJZUS15Tlp2YTk3TFduZE5jUkF4M0JiLWhsMllF?oc=5",
-   "data": "2026-10-21T15:29:49+00:00"
-  },
-  {
-   "titulo": "Prefeito de Maracajá destaca investimentos em obras, saúde e infraestrutura durante entrevista à Rádio Araranguá",
-   "fonte": "Rádio Araranguá FM 95.5",
-   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPSTFoYVl4M3hXN2R0bDNxSW9BS2lkX3ZPNExUS1E2MUE3dlZzNHB0RnBCSjZHaEo1cXNqTFFoZUFMNDRZeTVTakdoVkVMZ2ZtQ2w2QjF0WHVzV1RpZUM5S2lzVHk1b3NHaEhQQlpGeFBTR0VVcERsaTdZeE9KLVo1aXFkTTlJY1A4eDJoc3dNbF9JRE1ILUNjNlQtRXJUN0FUNUx3X2NRSkozOVhva1BxRVFzeExQdGFqMHZJOUV3TUx5UHAwdjVSYXRPX3RfMmNjOExBQi1xOGRJQQ?oc=5",
-   "data": "2026-10-21T15:26:00+00:00"
-  },
-  {
-   "titulo": "ROMI3 sobe 5,5% e Ibovespa recua 0,2% na B3 hoje",
-   "fonte": "Visno Invest",
-   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOMVdqd2prWWxDZVZPSnNqWnpvX2lsTHR3T01uenFyREhBc1VyS1pIUGNHWjJUeWNzdU5hM3FJX0c3YkR0OTAwMjNFY3ZzYU56bnZnN3FRME53SHFpSElTMTk4Y0RjMFBwdlFPRjBIbTQ5LTh0MHd4LWVydE9CSjNzc3FQdXU0YmRjSUE?oc=5",
-   "data": "2026-10-21T15:25:00+00:00"
-  },
-  {
-   "titulo": "Radar dos mercados: SpaceX e petróleo em foco",
-   "fonte": "XP Investimentos",
-   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNOF93QXVTejMzV1U5bDN2RnlrN0ZSZkdhdXJNQk9VSGpBZmtkRlpPNXdJSmxkWWZVOWtjbjRXVDd2UGFyTzJBanMxcE45TzNVZmsyVTl2UkJZQlpMMlhBRXMxdGRrUDAxS09LRGVhX2xqYy10cDJSaTlsLTZnUlNJbkxudXl2Rm1xUkZzMG0tNzU?oc=5",
-   "data": "2026-10-21T15:24:01+00:00"
-  },
-  {
-   "titulo": "ALMG abre discussão sobre investimentos de Minas para 2027; veja como participar",
-   "fonte": "Diário do Comércio",
-   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOMXE3bFdYZVRnaEVkX2ZFSXFiMmRXMkFNa3pYNEVfa0NDUVV0QUFxbU1xNks5U1g1eTRGT2RTT1hTR1NORnFMT3Z6MFUybmZfdmZ5dlkteFFQd29OcGJjOXlzSnNYZGpUcnVZR1J0bUktSFB5THZZNGFDTWxJaFNGY0N3?oc=5",
-   "data": "2026-10-21T15:17:00+00:00"
-  },
-  {
-   "titulo": "Ibovespa abre sessão buscando definir direção após avanços do início da semana",
-   "fonte": "Monitor Mercantil",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPQXFMTjhpUDNlSVdtQ0ZCMWphMkVsa0hJQ3RXWG5ycURhYTZPVER2cURxWnpXUExwNGZ2Z09QajJoYTFTLTJIcVdpYkNBRklDM2o1MWVBQjVBekxiZENTbkVDLVVKdEJvanJrSlJvSVR5V2lLci0tc191Wld5UDJaSlNpcnRqNjhVTl9MamRtem5tb2haVVhYT0E5c1dPTmwzUS00M0w1UGJjNTdhY2ZfMw?oc=5",
-   "data": "2026-10-21T15:09:24+00:00"
-  },
-  {
-   "titulo": "Informações Financeiras",
-   "fonte": "Enfoque - Informações Financeiras",
-   "link": "https://news.google.com/rss/articles/CBMimgRBVV95cUxPTEFpR1BsQ3NKMWV3UUJPc1RqZnR1ZG01ekpJTU5aam5kMTZBYUR5OWVLWGFrUEZoVi1Ra3JEZS0xMHZOYnI3c1VveVdhVlFtX1l1bGxYX0lSUzQ4ZXVQNHFvTWZjTkZYNHJnTW1ybVFiSDBtdFVYTmFIN3lucWFfbzJOeUJHYmtVOXlCLTMzNDdtanE4cUtJbGdWQzEwaEVCLUpMTzZGVHlVbE9RS2pxb0RHVlFabFkxVHpDamdKNHZwdkhWNzQtZVA5LXlwN1dlVTRIb2NCVW9rNUUwTFI2REV0VGNPT2FJVjBfdmZNTDNnRy1WdkdBWmhlLXJtMFNHSURDNlkwX3BQZkhpdzdodDQzeW50VzJvZzI0Y01HLUhSNjdTYjA1LVR5S2x2QW1hU2Q4Nzk1bE9KMkJQenIyX3pjYmRFcTB5QnBPUUpOM01kSHZaWFU3WEZFTzFJdDRDTlpEazN6T3RmYnRSY0QzNGJ2c1RQLTEtbmlZWE5uVnE4MDcwd29jMFI4cmE4YUN0U1FZaXdHQW9BSTB6VV9zWEpOYWFQVXJGU2pOTHpFRktZVVl2anFFSjVXeThJVkg4WGtBTjZ2MkxSV3VEZGN4QzFKalpNVlB3dGpkODFtLU5VT1hlUVpDQ1RVVmEwVi1iQk5saEtKTUswX2F5SlM4b2ZCRmVGQXdmYVJ4cHUxdmRDYXFvODBrN0ZB?oc=5",
-   "data": "2026-10-21T15:06:03+00:00"
-  },
-  {
-   "titulo": "Fundos de pensão querem voltar à Bolsa após ações caírem de 34% para 4,7% das carteiras",
-   "fonte": "BPMoney",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOMHhaZ19pMzktUmthaUMyYWkwRjYyaDVnbTd6Xy1TSDljTmdOLVVXSy1iLWZnTXBTb3VTUnkyQWQzdkhBR0otT09qbzVhby11RDlMMERVaUpjODFZQ1NCRFZPTmVmZ0dMbDBUX2Vnb1VORXNCX1V5bnltWTJUaG0zTHRpUjUxeEpPNkhjTHlDeVJWQjFVZ1hrNzlBWEV3VWU3RVMw?oc=5",
-   "data": "2026-10-21T14:59:07+00:00"
-  },
-  {
-   "titulo": "Carrefour confirma a venda de 22 lojas para o Pátria por sale-leaseback",
-   "fonte": "SA+ Ecossistema de Varejo",
-   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOUnMxWjFFWnBaNjlYckdQanlIZzJ0VGQxamhUWFItZmQtbzltMWRQN1hoVVFpTGxhdkt3NGc1VmN6dG8zNnZmYnNadTBuZTJnSG9QVGFsSFNRRnloWWRISmVvYUwtQnZZSjFiUXgzVnJpUjBQTHo3VjMwVE0yX1dhLWNkRUNPazVvNC1jZEFsUQ?oc=5",
-   "data": "2026-10-21T14:54:00+00:00"
-  },
-  {
-   "titulo": "Meio-Dia Mercado: Ibovespa recua com pesquisa eleitoral, nos EUA Tesla e Meta reportam resultados após fechamento do mercado",
-   "fonte": "ADVFN",
-   "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNcXgxUjV3a05sMFU4alhuNjFxaks0akJEOUxlR2tiblY0bFpEWnZrZWR0bjJYZW1LZFRiUzV4T0xBS2trelh3NndydDRQdzFfdzJ4VVpad05oMWZNQmpuelM5M0hpWXliQlRkU3dXLXJNTk5acVIxWFU5Y1JPT2I5QkE0ZnAyUVJfbGM4SEV6YzlrMW9qd2s3aHp6aElQRUpyV2tEd2E0VWdHU3V4UHBtbEd2MFlvRnd4Qm5SUnJhQV9jb01NZV9kUnJiR2VOVXBxd1YxSFBBY0NVR2NNVzdmdDliMjNTY2VPUGdjMzY2WQ?oc=5",
-   "data": "2026-10-21T14:51:51+00:00"
   }
  ]
 }
