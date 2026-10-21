@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-10-21T07:46:31+00:00",
+ "atualizado": "2026-10-21T08:40:42+00:00",
  "indicadores": {
   "selic": {
    "valor": 13.75,
@@ -16,6 +16,36 @@
  },
  "cotacoes": {},
  "noticias": [
+  {
+   "titulo": "Petrobras (PETR4) bate recordes com petróleo em alta e cenário eleitoral; o que fazer com as ações?",
+   "fonte": "Estadão",
+   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxObTJGTUFVYnhhaENGUF9wLXVZYlYyOFRlNW1pU1RCcVhZRmRHeV9NTzB4R2FIQWlVWEJsemFYWkpRMHNiaXRzUWlyU2ZCSDExVFdmOGNWWUFvNUFCYkRUNkNlSi1UekxVUVphQmlQdUhHT1NicjZyenRWMzhJUmdxSUh2TEJUME5IMUZhTVU4SEcxM1pHZTZ5QzhrRVI2UENSVmduU2xvWUt4cld0dUVoUEh0eG9STVlHRU84QmNEdlliOTVMbFpCb1ZmR3FYMXJCZGd4YkpJbWtMTVNJbjdBUGlTR3JOY3VGa2fSAe8BQVVfeXFMTjFXelg3Q3hLcGxBcFJMWklZeUNmcHpsZXIxLXQ5RDNnVTh4MUhyeFNpcDZVV3lxZmpYSzBQMlBsNS0xMDQtY0RDRUdCdnBsclhoNEs2R3JhLTAtX3ZkcklPcFFMQThjX2pDR3JVS1luMDRRQWFhSnhqR2RONHU5M0tCdFZ1SEI1WFBjcW94Q0JqZUp0R1pVYzJ0aGtfRU9aU0hta1lGVjdYeE1zMno2bE1rX0J6bkczeDNhcVVlX25IUFJpdm1vOTRLRnVkTG94WkQ0UUhoUnBPNEhMWDFGLWUxbzF6c0l0T1FMYl9uYzg?oc=5",
+   "data": "2026-10-21T08:30:00+00:00"
+  },
+  {
+   "titulo": "Dólar recua a R$ 5,01 e Ibovespa sobe, de olho com eleição no radar",
+   "fonte": "brasilagro.com.br",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNamptbUNkS3FMQXE5dDh1QlBSalZsLUh5VHB6NGQ2OGtnTzRQYTZ4NlhoUEwxQXYyRzFJamd2cGQ5c09VejBHTTRtQWFjN2VVNHcxeGNuOE9OUFN3RjVRdFQxcFJYQVVkYzBqbzNHME9wdkU5N0JtYkJlQUxsVjc5Q3VydVZ5U3FBT3NpMUdXbE1adUZmVUNxRjRNMjhaaktwWTZyaGV5bmdtbnpB?oc=5",
+   "data": "2026-10-21T08:18:06+00:00"
+  },
+  {
+   "titulo": "Cinco empresas disputam concessão de água e esgoto em Lavras, com R$ 257 milhões em investimentos previstos",
+   "fonte": "Diário do Comércio",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPVzB6THo1eHdlMWtpbFpWbXg3UHRsZ01TczduY29XXzllTElXZDNxcXFRNGdyS2NGVnhFb3JGZzNieVgtZHNxTTVYWVNGQzVVRVNwQmdmM2hmTU5tM0NFYXNyV3hBdk12aFFNSGl2el9QdVRUTE1SN3F0YWNmbGQzenA1bFE?oc=5",
+   "data": "2026-10-21T08:01:00+00:00"
+  },
+  {
+   "titulo": "Sudene aprova 19 pleitos de incentivos fiscais; Bahia reúne três projetos em rodada com mais de R$ 220 milhões",
+   "fonte": "Jornal Grande Bahia",
+   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPajE3TndGWFZRUWdUTk5PWnBCc0dLTGUzSkQ1LUhST0NteFhGc3NTYzZHMHlJdlo2d1pudUViNjFUWF9ESVdoVVptb2VoeDFGTXFPSExoS0JRWWpHeDRGcmFOZl9Sa092WFJyeXRLaWlPQ3R4Zm01WmFHcGpmbHNhMFYtNHVxbkFPcG9pSGFLY1dCd19WSUpHa0pFTllYc2RVbnVobTZUVndRbUxDTkRDU1F0dTFNbFI1MWg4TkpBNmlYZDNfV1ZtOHBXSXd0Q3F3NE02Ymp5a3Rub2hGVkE2dFlOMm4?oc=5",
+   "data": "2026-10-21T08:00:17+00:00"
+  },
+  {
+   "titulo": "Rendimentos franceses perto de máximos de 2002; inflação britânica pressiona gilts",
+   "fonte": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNSTZfd0pTWTYzUzU5X1dPeXBtQklBelVaVTgyUWt5Ri1OeVN6bFVDY0s5Wm0xVks4SlEtR2Q0Sjdoai1TakQ4X3JMTk9ITDhGRVo4LTFLUnUzTEdMcUc5NFRvaklzbURYVGxkb1o5a05Tb1AyR2pOV2dtb2tVdkhMOG9VUFRsMlNZOFB1T1NBRXRDTTRyWXdOaG5TYXk4Z1RxT3lYcjFVWW9jZzZFTXhXbnNPWUc3d1h1emljWEtLanRMZ0RCaGxLU29R?oc=5",
+   "data": "2026-10-21T07:50:00+00:00"
+  },
   {
    "titulo": "Nervosismo com o dólar pressiona bolsas, mas uma ação de TI sobe 13,9% no mês",
    "fonte": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
@@ -53,40 +83,10 @@
    "data": "2026-10-21T06:21:00+00:00"
   },
   {
-   "titulo": "Por que a bolsa reage à eleição antes de a economia mudar",
-   "fonte": "TV Sim Brasil",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPR3F0V2czeWt0OHhnNjZ3S0tSM0Q1cS1sY3NXWUpYb25MNnlPa1JzLUo2c3Z3bUhjS29sVHdUc0pQVFVyS2ZwLUJmVmtYc1ZMUjJTU1Noa2tfZG41bVY0ZU9ubi1rVjk2SjJWeTViUW9VNW50bUpMNXlOMEdVVG5uRGs2MHFYbGpsQlZpMlAzTUo4cnIybkVBUFRJYmxLS18xX0FhbHZwZEJuYzhaNTFfT2tTZEpTQQ?oc=5",
-   "data": "2026-10-21T06:05:07+00:00"
-  },
-  {
    "titulo": "Moedas asiáticas estáveis enquanto dólar ronda mínima de 3 semanas e rúpia se valoriza",
    "fonte": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOZ0RIRW5lT29COUtFNkk1LVQxb01NTG5SM0JQMWxlZENJZmdtZHdoUWxNNjA5LXpSQ0xJTTVPSDdYM2h2ZHlqQWVHVHZhWXZSWmk2R2ZrMDJrNWRzZUpNOEpjakM1Z1ZVVnRzeGlDOTJkZVBvbGtUNDNVcnllMm84MC15MkJCUkFCdEdhTnZ6MDJqUDRiWDhjcTV1clA5QmhqYkw1NDFHZldDWXFRNFp0TEVaTmRtMG5ubWE4cFJfeG1KNjdNRFFsUHJPVlNrb0kt?oc=5",
    "data": "2026-10-21T05:18:00+00:00"
-  },
-  {
-   "titulo": "Apostas em alta de juros do RBA em novembro superam 50% após alerta sobre inflação",
-   "fonte": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
-   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQZ2ZTSVpSWVk0SGZWV0lfLVdCVXZrXzBnMEZZbjdXWWNZZVYzUGJ5blFyZHNNUVZCTnZxNkpnS003Q2lyTENMYVdtTWtMeHpacVV2YVVZTUYzQ1A4V0JwRHBHX0ZHczAxdFhDdDczUmJDNjJ4cVBYUGRmYjluUlp4ZkZ2Vmd6dkhKRHR2ZzJoNURRUnl6OVNxSnV0c0FzclhWVHZfTzdvcE1FeWw2bVZjODJ6RTc1SzJTUTBsQk5ScFlLX2FXZEhzU1lVZWQ?oc=5",
-   "data": "2026-10-21T04:36:00+00:00"
-  },
-  {
-   "titulo": "Concessionária consegue R$ 2,74 bilhões do BNDES para investimentos na BR-262/MG",
-   "fonte": "Estradas",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNbEh2Nk5POUk4WFM4aTlWTDlIcGtJanFld2pzXzNncWtrZUNZU0RlX2NLa05Zdm5oanh2TUM3czkwTVlOUDhoTmlCVHl4OHlFWmJPeVo4WjlnMTRmdVVlUlBGOFgyQTlCU090SDJhWGVsd2w5VVRKSGVjU1A5V2s2TjlPSWhlR19td21CRkpYY0d1bU93bHZMVHhaZzJReks4ZF81ZldB?oc=5",
-   "data": "2026-10-21T03:25:51+00:00"
-  },
-  {
-   "titulo": "Alfredo Gaspar reúne lideranças do agro em Minas e promete investimentos e empregos",
-   "fonte": "Gazeta de Alagoas",
-   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNaHMzYldVN0hZcmNVUDllYUJOVF8xbE1QM2RTcVpFaExMMjRYODNON3VhNG1ySmpqQXlIU0NraXdqRS1jN1ZCU1dKT29PRERUWHRGc3YwRzNYMnMtTWQ4TVgyV3hwQnYtRFA0NVk0Umh6eWhEVk1xcnNwbjRiTF9aTHU5eUxuVy1YVWhpSGptYlRRM3ByN1hpc0E1U29HUVNvNEZhLXpFd19VWGprNmFZTHJlX2ZPOEtoV0NZRnZPaDY1U0hQRFNSZnh3MVk2bTTSAdcBQVVfeXFMTzJaR2MtS0FnUHFETVJjdjBZTDFpcGxBTE5VZWdael9xQVFtWDk1eG4yc3RVYVdiT3BvbkFtV0VqNjF2bmZQUjl5d3Y5QnBZTTY3QmVGQWVMWEdNRXpFVFNKWG5RSGF4aUNtUkhMeVBhNEZObUpJa0ZTU3ZYclZaOHZtY2Q4NEFmOUlXa00xSzlGM2NMUjhmWDB2QmppVnJuMEp2Y1hIR1pxOUJ1bC1SSzFBUUNiak1rSDdJREtudG1QM3RiNnh3LU40ckpXcHlHNE5uQng4ckU?oc=5",
-   "data": "2026-10-21T02:14:37+00:00"
-  },
-  {
-   "titulo": "Dólar cai a R$ 5,01 com avanço da bolsa e recuo no exterior",
-   "fonte": "Brasil 247",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQN0hjMUM0c0l0bVdRQVZ1cEszRnZHN2FscldZTmRlbmNmUUQ4d21maW9RMVRiTm1mRlViT0JIM0VyN1h5akVQS21OZEN2c3B1czZqY3E2M2RVQ3ZGbm51dDRseS1BYnlEMTJuZUlwOVRlSkNDVlFyVm0yOEszaXNqeUlGNjVpUGo4bi01V3h2ZkN0Yy16OXVTRA?oc=5",
-   "data": "2026-10-21T01:54:00+00:00"
   }
  ]
 }
