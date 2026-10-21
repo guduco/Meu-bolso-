@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-10-21T22:35:15+00:00",
+ "atualizado": "2026-10-21T23:34:07+00:00",
  "indicadores": {
   "selic": {
    "valor": 13.75,
@@ -17,16 +17,58 @@
  "cotacoes": {},
  "noticias": [
   {
-   "titulo": "Tendências 22/10/2026 | das principais ações da Bolsa",
-   "fonte": "XP Investimentos",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNbWtjX0NibVo3dXpNS0F0c0QtVER0RnRaUUtvTlVWRUQySTB5ZVNPZ2hCdk1mcWJOY1pWN3VOcnVlUWxoYW1oZ3I3X0o1aldRZXlWMGU2MmNJdnNaS1N2azFJU1d6ZFZYcVE5dTlraHh2bFl2N085ckJmLWlKTlhEVS1Hay05X2poVmxVcGhUalc3WDZ4dHloVmFCbThFenAwMG43MmJxWVFueHVJ?oc=5",
-   "data": "2026-10-21T22:24:07+00:00"
+   "titulo": "Dólar sobe 0,17% e fecha a R$ 5,0272; Ibovespa cai 0,86%",
+   "fonte": "Campo Grande News",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPUURKR1BwWWotODQwX3liQXF5d1VBblpJanBHMGlTM3BtUDZNek11cjFya095VVlibnlNZGh2LVNQZmY2QXk2YWFsM2kxYktzRGtnbFc1VGViZGRPekJoR2N6VXpneFp2VEc3RTFodmdNYVNwRVE5cUhrRGRvY0hWRHNFSF9USzRBNElXS2xQOVRPWks2ZGFoaDFZdHpfZ0ctdEHSAaIBQVVfeXFMT2w3b1BKWFFGYndVdVpJMlJqbkJGNUZScVBrZnRVMWs5emhsSVVmZEw0VmVObXRrX1RDdFZsRjdhSmRTUGRPTTN5cWpPekFvYktMY3BkV09nb1RTT0lWS1ViZXhqZ1p5M1A1ajZHeFVmQzh4bVBsajU2T2llMWdNVF9ZTGxsem5mODlFUElyVmpOT0NTYUR3MjlPbWtnSU9xY05n?oc=5",
+   "data": "2026-10-21T23:20:00+00:00"
+  },
+  {
+   "titulo": "Indústria plástica de Ribeirão Pires cresce 60% em 2026 e amplia investimentos",
+   "fonte": "Repórter Diário",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOQkZhX3Y4Q0RjTHhzaTRXdmtjWTFjb3VNdzlxWVJ3TkpRUjlHMlN5UDF1anlFOG9nZ2JNeE5YZVdkdnMtWnRSSHZDMDdfUHlMWWtha1NoN2ZVZWxRTEdMTFZPUFhwRkgwNFo0OE5FN3BVb0VLZDNMMDJseUZVdDlKMmNOZGdDaTYwY2N6dmhPSFc0NDRuY204ZE4zak16bEM1ZHNESjYzazdqQzg3amxqcGxmbU5QVEJGaVkzdlhlbHBmRGh4dzVr?oc=5",
+   "data": "2026-10-21T23:11:37+00:00"
+  },
+  {
+   "titulo": "Marcelo Beltrão e Arthur Lira discutem investimentos e fortalecimento dos municípios alagoanos",
+   "fonte": "AMA - Associação dos Municípios Alagoanos",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOMmRRTXR3M3ZTaVBOaURBTWVfdURqeFRBTGJhZ0xZbnhUdDlRR1dSTjhNZFc5MWhjdmhHRWJMeEMySGx5SkpNaWdqSUtxTV8tRzNmX1psV1BEOHRDV1d0cDFpR01GcWVnUm5BVE96U0dqS05mNHhGWV85c2EtRk11Y0tXd3otaFhtRzh2WnRkUFdvejdfeUdkUF9TMGRybzBmdnp4RHpWYjN5S2ZaVXB6YnJSM19vVVgw?oc=5",
+   "data": "2026-10-21T23:03:31+00:00"
+  },
+  {
+   "titulo": "Bahia e Portugal articulam parceria para atrair investimentos e impulsionar inovação e cadeias produtivas",
+   "fonte": "Jornal Grande Bahia",
+   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPTnVzWDY4MkJXTmlWMFhIeDV5eEFZUnd6ak5Pd3U1TC1GRW5fQ3BPemZWc3kxWTBBWFd6d2JreGhPSnlMbmFTbUFIc3d0Tm92MWFhaGItZzF6X1E3Zk1CWnlzX296MW5YVnV6NWQzcUc0dFpZSkJ5WnlxLUFRRkpibGhmYXg2ZnNTNEZQNVNtV05fdjd6ei1fdVU2U05WT2ZJZGFWMXU0Y3I3dzU0OXFHTl92OHdvTzVyU255LXlJUUx6R1dURy10U3dmaXVHYTB6UjFTS0lqQ0Uzel9RQmtDSw?oc=5",
+   "data": "2026-10-21T23:00:31+00:00"
+  },
+  {
+   "titulo": "Rodolfo Amstalden: Na média, continua tudo meio igual",
+   "fonte": "Seu Dinheiro",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOT3ZCaW8yM0dmU2VVa0U5S1htNFBuSlVpc0h1cXRnQlNmd2toMnVNOFZXSHpMOEd0R2xBcGdHVzF6QzdJT3poRE5JcENHMllYT3BlR0FMdUFlNlpxTmVBb2ZaNFVZYnhfT3duRE1SSzlFREdDQnEzZTF1LVlVbEhjRXlMMFhUcWRmYTJzUjhfQmZyVm9LeG9KbFhrQTA4YnVBNEx3?oc=5",
+   "data": "2026-10-21T23:00:00+00:00"
+  },
+  {
+   "titulo": "Dólar fecha em leve alta de 0,18% após pesquisa Quaest mostrar disputa mais apertada",
+   "fonte": "EuQueroInvestir",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1YM3ZZYlRzZjBJTk9yQUl0YVdtdmFBcW1odlR6Z0N0dzR2WllkZE1aS1JUZEJDQUpqVUNaQUdFY2tjTVMwcy16MWU5X0VaMGo2OEt4TDdySldnbjFRcjdnbDdyMTRMSEVPQmlRY1VGalFtQk5WUWU4V081dFE?oc=5",
+   "data": "2026-10-21T22:39:59+00:00"
+  },
+  {
+   "titulo": "IBOVESPA fecha hoje com baixa de 0,86%",
+   "fonte": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQY1NNLWNSUm85MmJ0dDQ4bDZtWXFoSVlLSVRQcDEzRHhzaWZLMi1IOVRiUDBsanIyb3BFVTZwOEluVDVDYl9CYl9jdzljU2R5clB2R3Z1eGpGdlU2bkg0bk1ESW52amNuSHpVSjIzbVhNT1ljSWp6bnhZOWtDOF9iVWNjWms0ZDg?oc=5",
+   "data": "2026-10-21T22:37:00+00:00"
   },
   {
    "titulo": "Governo prevê 4% menos investimentos em transportes para 2027 enquanto propõe R$ 12 bilhões para tarifa zero; E os vetos ao Marco Legal do Transporte, ninguém fala?",
    "fonte": "Diário do Transporte",
    "link": "https://news.google.com/rss/articles/CBMirgJBVV95cUxOdm1FNHRFcHpuelhxQklwY043d0MxTThzYVFRU1NEdXlpNl9PWVM0ZW83Q1FUelRkWjNFWkRod2lOV2I3YkE4cmZ0dGRyLVZiSHdVa01OTzhKeGtJWEdERXNmSUxibk9HbUhCbU1rOGk0enVfWXlCWWZlSjc4dzlYT3FyZDlKd01rTXBCUmhHbW5hTEt6b0V2UlBrbE5QMjlib19DSjdJMmxZR2tPZkJrdnB6VW1QNTBzaEtMZDJpREU3SzNod05qSG1YSTVrNU8wb0NDWU1sZHFJRXFRMVk1eXBBbXdudW1TQTNteEwyTXZCVnlRejJ4TUNySjRpX1VXSWRCZnZnbjR0OWpTQkxIQjF0b2h1V1JJRDN2OWhHNmdCRkE1RnVNa0NnRE12Z9IBswJBVV95cUxNeTJteUFlcXhFNGlnenlZWkJXY1dxdGhLR2hvcUlzVDdhV0NsYm5YSHBNQmVYbkhITjh2ekR3dkt1dWlfSEQ1bTVLZi1YZE42bFY0bVVlYzYwcFlaTDNvX2ticnlyX0oweVdicFNlVUZZeUNvXzFOMVRua2ZBNnEtMGxNSUV5eFV4SFNNSjdJRWoxSXdZMGdXeG9sSXFlOVBKdk9nMDBHSFZZUU5wUzBxZHlyNzIzcU1pdWZmOVliVFZrdTNhZmZFWUVvWU1aWkx0TURWV00xT3FWM2VVQTNjRG1sUk5tc2JqbWpPRVlvRnZHSGdHU1pGTVhlWFdvSDYtU3FUZEYwVVpUYXJiUERLWE1yT2FIQkpkQ0hNMUJZbzdPc2l2M2JuT0w2RnNqdF9WTHNz?oc=5",
    "data": "2026-10-21T22:19:51+00:00"
+  },
+  {
+   "titulo": "Eneva deixa geração a carvão e concentra investimentos em gás natural",
+   "fonte": "InvestNews",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9kYmdKaVFldE1FZTh0YmZhQkxzY1k0R0pnU05nVVFxWDNhRm1KTzRkT3VmWEZhR3pwNU4ybFNXRnVNVEU2Tk1YS3ZDX2JWbWd5SUlDdGVGVzBYUS1kdGlpZTdBWlZCNlAzYUxoVWRra1lwQkxHbFVCTWpR?oc=5",
+   "data": "2026-10-21T22:11:38+00:00"
   },
   {
    "titulo": "Fabricantes chinesas de baterias ampliam investimentos no exterior",
@@ -45,48 +87,6 @@
    "fonte": "UOL Economia",
    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNbU1EdnRpTDdYbzVmR0tURlo3Z3A2VU9NNXlwdENaNGxkTTdiLU90WlRJZlh5RFN5OGlkREtscmZoWm5oVzNsdWlhalFuRnhwZjRRVXBwcldyRjlNbDVZZ3JISUtSbnAyNVZOVmhzcHJkRjZoU200U3NyYlg5VldFelgzS3V4dk5IQzBmTXoyMkdoYWN0OWVIM2lnTHVRcmNGT3Z2TktDODI4TDZpazNNNFJnTQ?oc=5",
    "data": "2026-10-21T21:46:47+00:00"
-  },
-  {
-   "titulo": "Ibovespa hoje recua quase 1% com cenário eleitoral no radar",
-   "fonte": "EuQueroInvestir",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOY0ZtTkQ1b1poV0Q4RXdIVjBQeGs3QTBBUTA1bXJ0NXYwcko5U1lMaG0zaVp0dWwwakNrMEVfS0Z1TVB1OUl2ckY0LUwwekdFOHZQLU16UVYtN3RzNHFQYzNuaGR5bUFoNTEwWWdLbnY3T0xDNVdCQ20zdHJfRnQxRllRcms3eFpxYVlQMS1HS3k2RjRLTzRN?oc=5",
-   "data": "2026-10-21T21:44:46+00:00"
-  },
-  {
-   "titulo": "Aumento da dívida externa do Brasil pode atrapalhar os investimentos?",
-   "fonte": "CBN",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQUWhxNkZ1ZThpUGttd2J5eVFUSzlLcHZEdU9nUUdjdE1ybDg2YWh6VHAxVmYtVnk4b2pqVDc2UXhPZXRBOTJtMHFGbVF3bUZDYmZOTzdDMlViNnJjdHNFRlhJU2lJbURQa2lwTVFhM2lVTU1walB0Nzl3Mm9rWE5iTGFOVU9XS29mOEJjRlVHZmFiZjQtVFpvdkhEWDJFOFZUYlg0T3NIZ2J3RzZ3alRObFlDOHJ2M2tnc09zc24xWFAxd9IB0AFBVV95cUxNTGZjeFp3UWJLQ09Ia19ma0dZT2tfNVFVWlpvMDFBeWUwdEtPMHVSaGF4R0ZTXzhnXzZSWlZWQ1VrekpEWE5TSkxnamFCajduTklRd3J3c2FBOTVCRkFvSy1kbXY1S09BSlZpT1JtUU5RbW5nZXB6VzcwMmZWbDB0THdrSzhpcEdveDRRQlhYd2hRMXNicFp5UUtEM1ducFdNaUt2ckJSZ0VmNkdKamlYNDhYaTFZTWdVV0NlbHAxSExOY1lXOUxQaWhZTjBTMHdP?oc=5",
-   "data": "2026-10-21T21:40:41+00:00"
-  },
-  {
-   "titulo": "IA na consultoria financeira: o motor tecnológico que impulsiona os investimentos no México",
-   "fonte": "Funds Society",
-   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQQ2JuNnBpUFFMa1pxdmpoSDB2ZE1jeElSYnRMTndqR2IxaVFqT3h5MFc2SzkzcFlFX3ZpQTdjdlV6ODVEZmdsRFBYWVJEZ21jUU5RS1U4WGFnQWZBV1M0c3hPcGt2OHYxMEZFc3RscHVBVWhrRkd5TlhmUm05SzhXckxRZnQ4eGp2Q3hneGh0SHRxQVotWkgzUi1zRXdfaWZmM0R4ZkFQZUFpNXBzQlFGV3hUcU5KNnFhNGdPQVl1TWVXVWhJRWhF?oc=5",
-   "data": "2026-10-21T21:34:48+00:00"
-  },
-  {
-   "titulo": "Dólar fecha em R$ 5,02 e Bolsa cai 0,86% com cautela eleitoral",
-   "fonte": "Rádio Pampa",
-   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNOGRNZld1eE1la2RaU2F4N1lJQ3RrWERDVjN1TGhMUXNwU0xJMmhCSDB3X0JHUS1tOVVOazRQZFgzX2Z2TjZtRnpkUTQ1ekF3MVUzY2JXSUZRTkhvb3JKRVVKd19HRE5JazlBR2JpX0NEeXQycjVuaWxQeU4yVEpCa2JOdEhnRVdQZ2RzQmpQTE9KZEE?oc=5",
-   "data": "2026-10-21T21:31:27+00:00"
-  },
-  {
-   "titulo": "Ibovespa sente o peso das pesquisas; WEG (WEGE3) despenca 7% e Magazine Luiza (MGLU3) recua",
-   "fonte": "Suno - Investimentos Inteligentes",
-   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQREw2clNINWN4WDZZQnlNWnBubU9HbnZ0aEJUYmxOTWVSMlJfc1prSTQxRmM4S0dDand4TU9ZdWo1aVJ0d2g0ZGthaDBmNzNZWXZqdGoxNXdZdGZzVEtmUzBfcmVVUkNxRjhteHRXM09pMTF5cGhKa21ra25NdDl5b0Fnd9IBiAFBVV95cUxPcmNFalNzQzdPRHcyUlc0RndycEd3Z2cwRkU2bTFZakthdWJISHBKREhkaEsyMmFST213WGRXZWNyVjBjczRXSDVKZ2hpdVAwNjZHaXo1WlpvSjBmVFFDQXE4enByZng3eXBXbTlMYW5seGxHdU15Vlo5T1BUak9BbGx4V1dSRmJm?oc=5",
-   "data": "2026-10-21T21:25:07+00:00"
-  },
-  {
-   "titulo": "84% dos CFOs devem ampliar investimentos em IA, aponta Grant Thornton",
-   "fonte": "TI INSIDE Online",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNRnIyaTBibWVDeU9mNjctQ2xWZGgxVHVzRFFMdmlHdDdwRGhnWkUxVk5lN0E0OVJQOVNZYjFycHpxemRUb2dqTmNyanRVWFFjbzhoSUdoSHlwVENnUXJPRTlSejFPbGpsa3ZmZXp1cmd1bEQ0ckZMTjlSZG1GV2RrSlZuQV9CT3RfS3ZKVFJaUy1IdXJGNzNwYUp4VkJhTGI5LWd6ZWZn?oc=5",
-   "data": "2026-10-21T21:22:39+00:00"
-  },
-  {
-   "titulo": "Milhares de estudantes da Grécia se unem aos protestos na Europa por investimentos na educação",
-   "fonte": "Folha de S.Paulo",
-   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPdEFDa0NXSndWY1pxVFBJb19JNUJPU0RiMVhqdlZtTGd5Uzh5YzlTYklDRWN4X3JVUkhBRmxXTm9hUWxJQ3JPQWhlTTY5T3BTTGNzWE5kalR3dGlzNmFCY0pRSkpoNjBQMkUxOThRZTludDUyMEp0MmhiOVhkdE5hVHFtaHZqVllnSzdNVU5xR0dqSGREUVlXanlVbjB0M2k1cFN5a25OTGx0anJmTTFubUJGdnUzMG4tLVRsdEk2MEtlbU1LcWE5LW1vUmVIWE9FcE9xdWJ0VVJNeWt3?oc=5",
-   "data": "2026-10-21T21:19:00+00:00"
   }
  ]
 }
