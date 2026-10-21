@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-10-21T04:36:34+00:00",
+ "atualizado": "2026-10-21T05:35:36+00:00",
  "indicadores": {
   "selic": {
    "valor": 13.75,
@@ -16,6 +16,18 @@
  },
  "cotacoes": {},
  "noticias": [
+  {
+   "titulo": "Moedas asiáticas estáveis enquanto dólar ronda mínima de 3 semanas e rúpia se valoriza",
+   "fonte": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOZ0RIRW5lT29COUtFNkk1LVQxb01NTG5SM0JQMWxlZENJZmdtZHdoUWxNNjA5LXpSQ0xJTTVPSDdYM2h2ZHlqQWVHVHZhWXZSWmk2R2ZrMDJrNWRzZUpNOEpjakM1Z1ZVVnRzeGlDOTJkZVBvbGtUNDNVcnllMm84MC15MkJCUkFCdEdhTnZ6MDJqUDRiWDhjcTV1clA5QmhqYkw1NDFHZldDWXFRNFp0TEVaTmRtMG5ubWE4cFJfeG1KNjdNRFFsUHJPVlNrb0kt?oc=5",
+   "data": "2026-10-21T05:18:00+00:00"
+  },
+  {
+   "titulo": "Apostas em alta de juros do RBA em novembro superam 50% após alerta sobre inflação",
+   "fonte": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQZ2ZTSVpSWVk0SGZWV0lfLVdCVXZrXzBnMEZZbjdXWWNZZVYzUGJ5blFyZHNNUVZCTnZxNkpnS003Q2lyTENMYVdtTWtMeHpacVV2YVVZTUYzQ1A4V0JwRHBHX0ZHczAxdFhDdDczUmJDNjJ4cVBYUGRmYjluUlp4ZkZ2Vmd6dkhKRHR2ZzJoNURRUnl6OVNxSnV0c0FzclhWVHZfTzdvcE1FeWw2bVZjODJ6RTc1SzJTUTBsQk5ScFlLX2FXZEhzU1lVZWQ?oc=5",
+   "data": "2026-10-21T04:36:00+00:00"
+  },
   {
    "titulo": "Concessionária consegue R$ 2,74 bilhões do BNDES para investimentos na BR-262/MG",
    "fonte": "Estradas",
@@ -75,18 +87,6 @@
    "fonte": "Estadão",
    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOeUVYeEpLcjV3SE5WVThOX3l2WWxuYTU4d2QzczN2cU96Y20wbF9CZ1FfSW9VY05tT21iclRvX3Z0ZXJ2WHN0VjRJa05WTHVqdXVrQmJPc3JRa3hncXFYNDZyLVZlVGo0ZDA1M2loeDdOa294VGY5R2ZvMXh1ZWNaTmZhUWpMV0hGNS1zWk0xaS1vUExpZ08wY3BuNTJENTFYR1HSAacBQVVfeXFMUHVvY3hVQTE1UVpqM3NIWExFcmVOUlpvTVlIelN3STFWT2pLaGNjTnA2NVNGb0JYSXRXVi1sVXAwYl80RHdYMmtydS1hcUJZaVBYY01DcFVFQ2V1Q1lNWFd5XzY3Q3I1dUx6c25UWFpoalJxRGpLRFhsMUVWSk1JckpkMmZXUGU5ZG8zOWJtOHVCVVlET1JFcDd2SGNRb3V2RTJxbzY3MlU?oc=5",
    "data": "2026-10-21T01:00:00+00:00"
-  },
-  {
-   "titulo": "Inflação de Curitiba e região fica em 2,72% em 12 meses",
-   "fonte": "Bem Paraná",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZk9HWGRPSTVUbHFJZWRjQm95dzJIUzgtTXdBYUdHdEd3VThVOUFaRHdOZzI1TVhMZUNMVU5NWWtyLVJqWTRxQkJ1aXJRUUlTRlpxVHB3ODZJRkIwcG9MR0FJQ0E3RlF0QXlLdFRGenl1WlByNWlERlQyVW54M1pic00tdnBrVTNJM2lDWXdLZ3BCc1ViaUVxSlZXaXZ3UWNfRUdB0gGoAUFVX3lxTE5ydXlSZ2EwTVJ2Y2ZFOUV0WFpYLWVFZzVUc3hQLVA4MU04clBteHVFMXNCOVROZnRPemhrZzhtZzhSRks5ay1aR0NHaHBJQkFmTG1wQVBUbzRKX1dLUExZUGs1OEhHM2NnSXlqU2R1b05UT2U5ZmNvejQ5bmFLeUFXMlhNS2Q3NVhENmVnTTdjNE9oZ3l1TklhYTdTdER1ZEpiS0JBZndKMw?oc=5",
-   "data": "2026-10-21T01:00:00+00:00"
-  },
-  {
-   "titulo": "Inflação nos EUA pode pressionar Fed e derrubar ações e títulos, alerta Gavekal",
-   "fonte": "Exame",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPSl9GZzhPaV9LUHdUQXJvMXFBWnpUd2xBNExRaVpTZ2ZGaXE1QVc3TlppOEpFdndtemJIWE1tTFJOTzhGdjZrSk5ycjhIYnVMSFlfb01CMk5MZlc1dlo1bFNlQkdtd2g3QXBtZlBtRVRGM0JZa1p2VW5DUW1lcGViS0tKZmJiSVAtUU5MalY1QkZSSjZOVldFNmRWWXhxcnRBbFp2MkdB?oc=5",
-   "data": "2026-10-21T00:56:48+00:00"
   }
  ]
 }
