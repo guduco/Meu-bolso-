@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-10-20T23:31:42+00:00",
+ "atualizado": "2026-10-21T00:44:43+00:00",
  "indicadores": {
   "selic": {
    "valor": 13.75,
@@ -17,16 +17,52 @@
  "cotacoes": {},
  "noticias": [
   {
+   "titulo": "Ibovespa sobe 1,57% com disparada do varejo; dólar fecha a R$ 5,019",
+   "fonte": "UOL Economia",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNZ3BwenZaT0tMUV9YWUlHN21iM0p0OWY2aUVXbXdCRDQ3eHZTSk1HXzc2b0RnV2E4c1JVeHRLRVlpU0pTZVZ3WTcwbG5keTlzRjhGSkNZSE9PZWlPUDVqRlBfNGpTMU91cElUXzRYVHlsZGJycHkwRnBvd2dxTldvWk5feWlzWGdCVmEwVEw3VHNRWnFuLTdLSTZPbUlJTlJicXhyN1pVNXFpTHNlWXZVUFowTXBPOGVTZXdHZTR1eXZZNTJVS25QMnZfUQ?oc=5",
+   "data": "2026-10-21T00:15:14+00:00"
+  },
+  {
+   "titulo": "Ibovespa sobe 1,57% e dólar cai com otimismo do mercado na vitória de Flávio",
+   "fonte": "brazileconomy.com.br",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQcXVvMzFVaXpiZ3BDY29MUmNydS10MU5IbFczNkZuaWN0cFJaeUdiR3lwdFQxb0g1SHZsZjFjU3VKMWFHR2V0RGR4RnlaSEVoRlptRHFSaHFmLUxnREoxakUtZkpsdTRheEhIejc5T2VkS21uZmpIYUF4LURPZGVHUXdkOWl1cC1IQXd3NjJQd281VzBkYVFrQlhaa1ZITGRqd0JTY0w3ZjN0TktBZzVVMi1RTHotM0RST0xTcGxR?oc=5",
+   "data": "2026-10-21T00:05:11+00:00"
+  },
+  {
+   "titulo": "Dólar recua a R$ 5,01 e Ibovespa sobe 1,57%",
+   "fonte": "Acia Araçatuba",
+   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9RazFFYlFDNUJtbTA4Rl9tZi1zVG5OdjhlRW9wbF92Tlp4SUJNWjN5N3VFSlVsSHhuNHVDcThLQV90cXBsNktteHZtS1lFTHA5NHE5cDRVM3RMV1N6?oc=5",
+   "data": "2026-10-21T00:04:38+00:00"
+  },
+  {
+   "titulo": "Votação no segundo turno do Troféu Benchmark vai só até sábado",
+   "fonte": "Revista Investidor Institucional",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOMDAtVW5JNU9wdC1yNS1MTmkzVEx3SmFBTXJhdmd3dE1nZHROMndEVzNRWXhUdjZZck5WdlFKUDJpSWk1SWE1M0NfU2FUenFZYV9GNGFkUW1TUVJuUWtZYndfSE9Bd3ZDRHVwT2hlVmFRa2hyb2VfY0pWYWQ2NlBJSHZmaDgyX1gtcFJKYndqUTU4MXp0X0U0RlJuNTRzMzd5ZmpVbzFackF3Nlp5RFJ3cFZPajE2WFFoMDhv?oc=5",
+   "data": "2026-10-20T23:31:15+00:00"
+  },
+  {
    "titulo": "Ibovespa avança mais de 1,5% e dólar cai a R$5,01 de olho na eleição",
    "fonte": "TradingView",
    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1XYzNnaTZsR2M0d3o0YTNtanE4Q3huYWlnZzd1bUlyOFZrdUZDTlRQRGVOY0pVMS1KZUc3a1RZMUFTY2x6ZFZ2UGJFbnVxMHRSbWM4Z3h5cGpFMzdiTTBZR0p0bHItRHhTQk9vazBVamJVMk16RXBv?oc=5",
    "data": "2026-10-20T23:14:57+00:00"
   },
   {
+   "titulo": "Dólar fecha em queda de 0,58% e vai a R$ 5,0188 em 20 de outubro",
+   "fonte": "Campo Grande News",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQY2N2WHB1UEp2TkJNSHpyb2FMUDU3ZW84YkIydDBCbTd6UmVKY0h3QmNiaGxYcXpCS3c4X3IwTWZwb0xxc1JHVG5TNXlnNERmR3M4aUJLVFJGX3ZkRFpxaldKWm91bTlGQ25zRExkN25oTlBkNEhJVVVMTTk1ejNzNHMxU3d4dUVmQVlVeDlrQzBwUFFpR0tNaDhhMm9RckhkLTh5d3k1dUPSAagBQVVfeXFMTkVNYkFoSUVBUjNHQlVDVVBRa1JBeTI1LW1hVWdVQUd3MzE3YU9EbkRFRF9xTktTT05rSjdaMXhodUFJT3d0UzhGMzJUcnR2MkswVFVBMnJWVXRMNjgwY3dqdlBwRDR0U1ZpdVl2a05BdERucHlidEhJOGVRWW9MVW15OWVRRHdmaU5jVU5PUmVOTmxva0gtdlVRSF85S2k3b2gyUmtZZ3FG?oc=5",
+   "data": "2026-10-20T23:10:00+00:00"
+  },
+  {
    "titulo": "Dólar cai para R$ 5,01 e Bolsa sobe mais de 1% com avanço do varejo",
    "fonte": "Jornal O Sul",
    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxONDd0Q1VBcjhSczlxTDNBdlZEQ0d4V2tKQlJ3ZUZGV0xfekZlRmI5ZnNKVU53Uk5ON0h3UDlSRmx5VzQwNk9yRkZlclhnUS1HaHp0NVlHQkdoTEhIZHVvYmNKc3Ztd2xTc0J3emhGM2pTRnFfRFY5LVF1cVY3NTR0dGdkQkZBMVdQX3RXd3E5OUxXc0HSAZgBQVVfeXFMTWluY1JBdEp2UEk2ZnhUOTVVNktZX2R3Mi1aM0tiV3VBLUxiNXpHWFBDYk1CZ1lLcDJYQ3pZUlN3QkhGcUVWajRzOGlJb3dkS1lsZ2hWZ01jb1EwNjFfSVdCQldsNkQ0MXZlUEUzS1BJY2pscHl1UFNMb1lLNlFpYWlDTWNMQTFVSXFaV1NoamJUUmNZMHlDQlI?oc=5",
    "data": "2026-10-20T23:07:57+00:00"
+  },
+  {
+   "titulo": "Setor mineral do Pará divulga relatório com dados sobre investimentos sociais",
+   "fonte": "G1",
+   "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQWXBTeC11ajNmcUJGQl8xMElBcXFyblRXWnVoMHRuUmYxeFFHZ294UHBKN1dXN2NhNngteHhFWVpDeUJla0I2d1Bqa1oxSWJzNGU4VVVfQXh0VldqekcyOTV6MmpLaXdUaWNLOG1RcEQ0NnZCamlzWm45ZG53YjVGajhJR1RFbnVvdF9IY0ZnQTBReDkxODRHQjBSZnNVRll6QWtvTS1UdlNITThENGhXT0N4QkRRVFJ2cFc0TThFSmxtcDNjUU5fazJrQzA2OTkxdmFOazFpRWYyVVltdzBKUDFXRXBEdUNKVzhhTWVqRdIB_gFBVV95cUxNblh6OGRLclF4V0R6VnFzcGRVYWQ5WlN2dW95MWFwVWxFbzB5aWxKd3JWWFRwRDhNeEMxUUNVRGd1WGJCLUtSZllmN0FUMlk2YW1wNU55NEJtanZ0SVhacGlwTkJXMDg4MXZRT0VHelRLNXBoWl9YUUFVSDZ3YlhBMWtMM01adXY4aVBHZEhRdW1mWDBubldUa29TNWNjQ3pOazZKNkdtR0xUQjRXXzdsZkpEbzc3NU1FU1V0a3hDSzJZYl82eGlsMDlsOXVXa1haczltSEc3TWRKdEVLUFZWVUdBZWtycENpZnJTNXQ0eFZ0bThPTThCVjFpeVJBZw?oc=5",
+   "data": "2026-10-20T23:02:15+00:00"
   },
   {
    "titulo": "Ibovespa acelera na reta final das eleições; Magazine Luiza (MGLU3) dispara quase 15% e Vale (VALE3) cai",
@@ -51,42 +87,6 @@
    "fonte": "Neoenergia",
    "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNSGhOdkhKMUplcU4tampla01seGZrbzI2c04yUW9sOXFhQlhIZEtMcDRsdUprRkhmbmp5UmRWWnhieDQtZXEzZ0NBbTE5SlZ1QmRRazRRcUM1YUhNamZJdEVYaGZhbzNYUndXT01BNkVXNFRUNWQ5VklPMHlzSGRzYjZFTFN3RUN4TEtYc3dEWVBDemRxY3R0RVRtYUItYmRvcnNHdHA3ZUtFUkp6anJGTzJEUFdLVFBHc0JyYnd2aXRJdUVnanJaNTZQMVE2WnBpWEtUeVF3?oc=5",
    "data": "2026-10-20T22:41:35+00:00"
-  },
-  {
-   "titulo": "Operação contra golpe de R$ 29 milhões em investimentos chega a Blumenau",
-   "fonte": "ND Mais",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOa3daWmpCd25zV0dKQnplSHA0UndMenZ3emhqbFh4RDhDZGoweTdQbmV4TlBhakgwcEFSWkpLdGlEUS1rcmJMTzhJWVZvS0NBQTNBSjE4VDh2blJyU3ZKdVdlWmtUbjY1WHR1dEcyaFBrWnJKQ2ZsOXRQQTFSZzdrNUxWam1zVDFfQVY0cDJ2azFRZWdkd25DTmZGMXZ1cGlJV0E?oc=5",
-   "data": "2026-10-20T22:41:00+00:00"
-  },
-  {
-   "titulo": "Alfredo Gaspar defende investimentos em infraestrutura e geração de empregos em encontro com lideranças do agronegócio",
-   "fonte": "Portal VV8",
-   "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNZzNlUUhSMGMwekJ6Q0lOQVZWR1BLdlVOYzZWc2EwMFZla1ZuNjFGMzhpZTExYWJ1U3BWRW4zS1NvVGF1eUtOWlJ3WXRVSm83NXZOSGpIajlNYlRfMDZWcGVXZTZFM3dPNEdHdTFxbHd0blEtN1JnRDFNYjQ1c2dJaEY1UkFXTGtIZDBicExpQ3pGcDlKeG53MERmN3hOTTNSLWZyb1Znelczdm92Z01yUGhfQlBfUjlITjVRRGdjRDA0dUx3VTNOS3BQQXlUVXlPZVYwT0d0djhGUmZ0Zjd5Zk1fOFZvcnY5eHZSQ3Bn?oc=5",
-   "data": "2026-10-20T22:40:44+00:00"
-  },
-  {
-   "titulo": "Dólar cai para R$ 5,01 com exterior e expectativa eleitoral no Brasil",
-   "fonte": "Agência Brasil",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOMkl4MDZoOHRJMUNNUkxkaDRPNDJ0bld5eEEyYmlsaWhZc0wybGd3aTI3andpYUJoMHRPVkpPdzBDVHVoUGdTUV8xOWUxZm1naGFQYzllWVVYNUM3cDdMZ21fRVhLTHlkNU9ObkcydTZJWlVVbTlZSXpXU045OE4yRFN1dUtyTUlzdmFfZllNeEdJcl9WR3hFS3N1bFNpRnpOLUZCMnJ0dFZYT3V6cUZZbV9BX3FEbEVDem1faXlRS2Ziazg?oc=5",
-   "data": "2026-10-20T22:34:00+00:00"
-  },
-  {
-   "titulo": "Curitiba cria Orçamento Climático para orientar investimentos públicos",
-   "fonte": "Band",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOc0R6Z1RMSkhLV2laU1RIVHAxTklObU1hOVB5ckcyNFhxcFJDZ2tJLTVWeTdPNWxKYzE5N3lzSFE5Wm1OU0hYWGxMODFuYjg2ZnBjYnNGMF84eXA2SmxSRU5ONWhTODBzX0Y2R19KMDlBRHZHU09mSG1OdjBtbzlRRmEwTkJXRGVrRk9IT0dycUR0LVFsdTVHa3dhSm9uWFBGMkRaQ0ljNFBuUQ?oc=5",
-   "data": "2026-10-20T22:25:00+00:00"
-  },
-  {
-   "titulo": "Ibovespa sobe 1,57% com disparada do varejo; dólar fecha a R$ 5,019",
-   "fonte": "UOL Economia",
-   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNZ3BwenZaT0tMUV9YWUlHN21iM0p0OWY2aUVXbXdCRDQ3eHZTSk1HXzc2b0RnV2E4c1JVeHRLRVlpU0pTZVZ3WTcwbG5keTlzRjhGSkNZSE9PZWlPUDVqRlBfNGpTMU91cElUXzRYVHlsZGJycHkwRnBvd2dxTldvWk5feWlzWGdCVmEwVEw3VHNRWnFuLTdLSTZPbUlJTlJicXhyN1pVNXFpTHNlWXZVUFowTXBPOGVTZXdHZTR1eXZZNTJVS25QMnZfUQ?oc=5",
-   "data": "2026-10-20T22:24:10+00:00"
-  },
-  {
-   "titulo": "Por que a queda dos juros não garante financiamento às incorporadoras",
-   "fonte": "Exame",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQSDZ2RS1PMXlqaFlmS1YzMEFSV29ZYW5oMW9Vb1NBeDhMN0MwdmpOMVpYWE8xWEw5VTNQelNZTW9QSVozeEp3ZFdET3hCTXpIa1luSTFxQzJVb29ucFJkM0NpU2pydHdmdEJZRkx5UTBFWlluM0VMMXplTU1fYUFHWUJ6NjZOOGd0N01kRnJxVjgzTTNwMHFkRUpnMjU?oc=5",
-   "data": "2026-10-20T22:23:38+00:00"
   }
  ]
 }
