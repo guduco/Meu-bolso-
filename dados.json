@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-10-22T04:35:47+00:00",
+ "atualizado": "2026-10-22T05:35:00+00:00",
  "indicadores": {
   "selic": {
    "valor": 13.75,
@@ -16,6 +16,24 @@
  },
  "cotacoes": {},
  "noticias": [
+  {
+   "titulo": "Moedas asiáticas mistas enquanto dólar recua para mínima de 3 semanas",
+   "fonte": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNMDRsZzlZNHVSbDJFN0o1VnlhUmtQMUZhLUZsOS1vQzR5NE5GbERtbkYxdm1LcGhtVUNtZXFHUnI3aVZXTGVmT3ZSQkpTNHBkRklmN2prUnBzOTUwZUEtYm9HblFtZ1pUQTU2ekF2ZjhENWhmRm1Qa2I4dUF1QXZ6XzIxU2wyUzdQb0dBel9HcWxYWlJabWhhS2YwWkQ2cDQ4c3RKRGVLTkpLc2ZFeXhEaktyLVpSQ0ludUE?oc=5",
+   "data": "2026-10-22T05:11:00+00:00"
+  },
+  {
+   "titulo": "Salário médio no agronegócio brasileiro subiu 3,7% acima da inflação em comparação a 2025",
+   "fonte": "Sapicuá",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNSTlDQVZMR0tncXlObjlfLVlxdG41TUNpWktYcDhoZS11Y0hYNndTdWhvUUNMU1NfX3BMLXNFdGVKRWphNFNkVG8tSWw2NG80cDNmdWNmenF6UW9CNHBoMURBWEZQLVFjYlQ2NUw0SkFVUU84WWFuYktzQjhkeHhFZ2xDTk4yeU5YaktUNUNhRXcyUTJWaW0xSVlEVWRocVNQSjRCbmVkQ0V3VW9DUklaclJn?oc=5",
+   "data": "2026-10-22T03:41:55+00:00"
+  },
+  {
+   "titulo": "Economia azul abre novas oportunidades para energia renovável, investimentos e desenvolvimento industrial…",
+   "fonte": "Portal Revista Kdea 360",
+   "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPOU1KX18tZHAtTTBTcWtTVnR3MlQ4dHBFdVdUdVU3eGx1VFVIaHJJOHl3WTdBRFFpRTVCZk92QnhKeUlWUVJzZGUzbGZaQ0o0RTBxa210aDBjX25SRW1GcnhmUDIwczZKdTBWRHdwS0t2ODYzdWJVeFQzdlcxcUk1YWdrR01EZW1RYno0STY5VE9aY0EwbV9LM0U0VmNtWWRHR252dy1sakQtVTI0Q3BPR3R2WXFWNnA2cEVCY0ZoUExsa0R5cUF4NDVOblB2aG9fSm94MTNVd1MwWG9XNk5rdHJUMzdreThSWlN5RnB5NEI?oc=5",
+   "data": "2026-10-22T03:29:19+00:00"
+  },
   {
    "titulo": "Segurança jurídica e conexões atraem investimentos para a capital paulista",
    "fonte": "Metrópoles",
@@ -41,52 +59,34 @@
    "data": "2026-10-22T02:54:00+00:00"
   },
   {
+   "titulo": "Disputa eleitoral acirrada eleva busca por proteção cambial e derruba Ibovespa",
+   "fonte": "Brasil Inovador",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQWDAxSUM1cVBNM0ZvVWxyTGJWeG5TaGVlcnFtZlhZWGRMOGdQblpZMERTYjJxekRUMTRoOVZQR195M24xN2F4NFhIRnRkSTNZTmlxUzAxTUtjNXAzZmduLUpyd1M2bUt3YXdHbjVlZEx1aW9RT0JLX0VkVmZwa1VGLU1HRXZiaHhxTGFzUFdrbFBYanVCMGdET09JTDNOVDlnZ1VLbV9qUlgwX3NZTWc?oc=5",
+   "data": "2026-10-22T02:43:22+00:00"
+  },
+  {
    "titulo": "Queda das passagens no IPCA não reflete cenário real do segmento aéreo",
    "fonte": "FecomercioSP",
    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPTzA3ckJ6TnRibGNSM05oMXNQRUlFOTZZRmxESmIyd2xqTmNDbnphc2VXSVd4MkMwOFl2dkoxdkVkTjUxXzBOUUk5d3hPMDRseFBfV3gtbGUyRWliV1BCX0JzNExsam80VlJ1cnRtc05kS2JJTF9nanJFSmNxTy0tY1hMVGh0bDA0M1BXQzRvT2hVaVM1MzVURDZpcFp6cEpDSVhVR3BmWQ?oc=5",
    "data": "2026-10-22T02:12:27+00:00"
   },
   {
+   "titulo": "Ibovespa recua 0,92% e encerra o dia aos 206.379 pontos",
+   "fonte": "Brasil 61",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPaE1lMEJOUnQxc1lQQmdmLThad3J5azIwNkE0MEFKcFk4dmNjaDFabF9UZnhyNWVDRTBMQTlQUk1XM1FVVUx0NU4tZDM1Ry1CTHBXMUxHQzNRS2lpQTBObnBCbzFxUXkyaTJyS1dNUm1mRnluQ2UyN3Zpakc3OVZha3VlSmszOUpydk03V21XeU5TVGc2T0ZlWtIBmAFBVV95cUxPaE1lMEJOUnQxc1lQQmdmLThad3J5azIwNkE0MEFKcFk4dmNjaDFabF9UZnhyNWVDRTBMQTlQUk1XM1FVVUx0NU4tZDM1Ry1CTHBXMUxHQzNRS2lpQTBObnBCbzFxUXkyaTJyS1dNUm1mRnluQ2UyN3Zpakc3OVZha3VlSmszOUpydk03V21XeU5TVGc2T0ZlWg?oc=5",
+   "data": "2026-10-22T01:49:41+00:00"
+  },
+  {
+   "titulo": "Dólar fecha em leve alta após pesquisa eleitoral reduzir diferença entre Flávio Bolsonaro e Lula",
+   "fonte": "Brasil 61",
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNWlo3R0xVOF96R1ZXWmNnbXo1eVJVZThMc1lVWU42ejU2NV9MQk9ySHlmUENXR3JqalREYWVGcmxEalhSN2NhX1pKNmlwTE5KYVl5MlJjcU5rbVZVQlg1dExjcE1INVB5N1pqV1N6cFpLeE1SaXh6ODExWTNBNUlSNE5UVXJIdEtSdlhaM3pSQ2t1RVFObnhjcEp6MVBLY2ZNcHRWSU9tcWxBTi1EZWRjb3RzdUxDVl9KR1lLUmh3R0dURTdYZnN2SmxuenQxQmRr0gHQAUFVX3lxTE1aWjdHTFU4X3pHVldaY2dtejV5UlVlOExzWVVZTjZ6NTY1X0xCT3JIeWZQQ1dHcmpqVERhZUZybERqWFI3Y2FfWko2aXBMTkphWXkyUmNxTmttVlVCWDV0TGNwTUg1UHk3WmpXU3pwWkt4TVJpeHo4MTFZM0E1SVI0TlRVckh0S1J2WFozelJDa3VFUU5ueGNwSnoxUEtjZk1wdFZJT21xbEFOLURlZGNvdHN1TENWX0pHWUtSaHdHR1RFN1hmc3ZKbG56dDFCZGs?oc=5",
+   "data": "2026-10-22T01:48:52+00:00"
+  },
+  {
    "titulo": "Invest RS chega a 100 projetos de investimentos monitorados no Estado",
    "fonte": "Jornal do Comércio",
    "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNRWpjcFItLXVWanB4RXhjSlFIaFFsVG1TTXpBNGF0Mmp5Sm43YXZCSE9tUldnOFhEdXhOUnNmREdVQk9UYkNwd0t0SEpzT3p6dnZhZlg2ZzZ2dDhKNEd1UlR5SDVxUHlSYWhDN0trT3B1czJETjZ0TTlMMEpIZVZXMFR4Q19McmRIM19UYUtUWGg0R1RQV0NCZE9sVkxQbzF0M2FnRF9obGg3aTF5SzgzLUgyUzBsRkRmUUlNRXZfd3g5WW1ZVGJURUhuZjJseU45cF9Jd2RnNGdTRDVvbEVyLUdxVkZpMFRxbXBNeGotOA?oc=5",
    "data": "2026-10-22T01:32:42+00:00"
-  },
-  {
-   "titulo": "🔴 As ideias de José Amarante para investimentos e futuro do Inter - Eleições Inter",
-   "fonte": "GZH",
-   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOTEplUE1HUkR4aFFzS2lGNGJYTGY1eUVwUzZ3d2RBbGk2Q1gyS2ZtbV96cFVNbGRDTmJXbUJZT3BGN1ZzRDQ0UWVaU0N0RVhsRDh5SkRXamc3aS1nSzY3UnZGYUpMRVE5SWNVY3Rka0FNYXBYTmwxLVBfQm5fVF94enVvd3ZLaWRCenVJUUFDUnVrVlg4MEZWTjlMT29pTWRoamg4ZXJTY2VKa3VRWWFubzBDM2tNSVNHbnBCX3VsRmtCN3BvUzZ0WWdtaVVVa1R3U3Mycy01QkJ2UzJhblQ2Rw?oc=5",
-   "data": "2026-10-22T01:10:03+00:00"
-  },
-  {
-   "titulo": "“O desafio é enorme”, diz Radamés Casseb, CEO da Aegea, sobre investimentos para universalização do saneamento no Brasil",
-   "fonte": "Times Brasil | CNBC",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNS1NXRGFRUG9qZGw5aWhya2xlbGpkN21jRzFJTkdid0h4NUJLUmZ2WVhWdVcyUFYySFdiOEdkckRVS3RNeGxpN3VuSUdyaHlXQnRGSUx0MlZlWmRqYWJGNEpKZmtmc3Jfa3pMYzNkdnhkSnRQenp2TExyLTl1MUx5ZkZMNmlRd2FnV3I5VmYzV1VXZkVVOUZMc09NOVlVUW5KN053WmV5U2lqTTVpY2c?oc=5",
-   "data": "2026-10-22T00:53:00+00:00"
-  },
-  {
-   "titulo": "Diretor de investimentos da Finance of America vende US$ 60.265 em ações",
-   "fonte": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
-   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQekpDNFU3ajF3eFRBS0JwaWdOckFncDgxQUprQ1h2b3JXb3ZobVlHYlhISHA2YUpZaWs2dklyQk9mMDBrblJVVE9wYUxRcy1YQzQyQUVOTnR2eGM3ZEtyM21adk9aQmc0ZWEyOVl6VWtTeThQRnp4OURBMDk0OGdlWE9RdjR1cVFvQ3JoeG1QckF2ZkRNckhTTlh1TVIyQ0gzZElDel9IWmdEUVZHSWN5enAxSXZNMXdNb0JrRWdmeTZ4UG1icXZ2SF8xN0JhQms?oc=5",
-   "data": "2026-10-22T00:37:00+00:00"
-  },
-  {
-   "titulo": "Inflação para o consumidor aumenta em Porto Alegre",
-   "fonte": "Jornal O Sul",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQWWJocjg5bmdVUGRvYk5ZOElySEp2T196bDJZNkh1SVdlLXNmSVN3Ym9ZT0kzVkVNOUFaNFlYMnBYTTBhMlFWN3FLWHdBNDB3LUNHaldWWUdLbTVrbUJSbWF0Mm1IUnNDbUt0cEtaUEJqMWs1ekdyQmVfWDROSlFUejJkN3HSAYoBQVVfeXFMUFV3RXRDNXlvb1FnT3R5ME1OVjdwcmJNaWRJVHNmQXhVVmVVaXVWUnFBYUsxdERLY2ZrVnN1bGRVVGQyRVQ2WFNuV29YbXJ1cVJCV1haSDdZcHBjYXR6UTlSb19weUZLeUtJOTc3enpTdHhUVGpzV2xiLXcxUy1BMTljWG54MTliYy1R?oc=5",
-   "data": "2026-10-22T00:31:01+00:00"
-  },
-  {
-   "titulo": "Ibovespa cai 0,86% com pesquisa eleitoral; dólar fecha a R$ 5,027",
-   "fonte": "UOL Economia",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNbU1EdnRpTDdYbzVmR0tURlo3Z3A2VU9NNXlwdENaNGxkTTdiLU90WlRJZlh5RFN5OGlkREtscmZoWm5oVzNsdWlhalFuRnhwZjRRVXBwcldyRjlNbDVZZ3JISUtSbnAyNVZOVmhzcHJkRjZoU200U3NyYlg5VldFelgzS3V4dk5IQzBmTXoyMkdoYWN0OWVIM2lnTHVRcmNGT3Z2TktDODI4TDZpazNNNFJnTQ?oc=5",
-   "data": "2026-10-22T00:13:40+00:00"
-  },
-  {
-   "titulo": "Indústria plástica de R.Pires cresce 60% em 2026 e amplia investimentos",
-   "fonte": "Repórter Diário",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOQmd1V1NZZGxxS1FqMnJocVRjaklFNjdJWGhLeG5jR3dwMXNCUENYZXp3VDFjelNhdTF3UlZHSDc3cThjeEJlYjVSeXFFNUVFQk1CaGJfY0NFZ3JMeGNiZFBvd2NTSGxVbmFjUVpzazFncjMwNUhGeWJoQzdkMmFBUEZKR3dzcTZaanRNQy1jNVFCNVlLTWI3SjIzNVZUVDBWRXBfcFRNQzV6dVhpSTZnRTQxdTJiVWRJVURpZUZB?oc=5",
-   "data": "2026-10-22T00:03:57+00:00"
   }
  ]
 }
