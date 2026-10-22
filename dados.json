@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-10-22T08:42:39+00:00",
+ "atualizado": "2026-10-22T09:38:39+00:00",
  "indicadores": {
   "selic": {
    "valor": 13.75,
@@ -17,10 +17,40 @@
  "cotacoes": {},
  "noticias": [
   {
+   "titulo": "Dólar sobe a R$ 5,027 e Bolsa cai com pesquisa",
+   "fonte": "Acia Araçatuba",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1nM1FoRlAzWTQxWllaUEpaTVVBVWV6ajVzWWJiMVNDd1ozSEF5Wlg4aHQxNjlVVFJVX3VQcnhRWVlDaFdyWERfcjNxaXFWNXVBa1d6ZDItYUFiME9JYWpWbWhsd1lDOE0?oc=5",
+   "data": "2026-10-22T09:34:48+00:00"
+  },
+  {
+   "titulo": "Agenda econômica: O que pode mexer com Bolsa e dólar nesta quinta-feira (22)",
+   "fonte": "Money Times",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNM1NVRXF5cEQyb0tSQ0FiR0pzRWEwTVNiLUZGV1E4NXhaakw4LURndFczMFFyVXZKcjU5Wkk3Y3NSRFR5MzVJMXVQTVlGUGlvbTdwcnQxd1E3YXhJWFp0RW5Nc2NacWJId0ZkSFo5UXBHSXlTZkpDN3hfc1hpMmg3QTd2aTZVeVl0ZFJIMWhCUGpkWGhhUTFQVXVyei1pb3FXYWcyNHJuUWJYZw?oc=5",
+   "data": "2026-10-22T09:30:00+00:00"
+  },
+  {
+   "titulo": "Meta coloca agente Muse no centro de estratégia de IA; planeja novas ações para impulsionar investimentos",
+   "fonte": "TradingView",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9GeVRGc2hpb1VKMzZKUkNtaTRVaTk5VVNIUEQtV3BuMEJHNXJuS0RueHVVN2oyd19kVGpubkpaYmZvdkVaTmc3blAxMF9yNVI5bFVjcHp6c1QtOTliYTFxUkQ1dXFSWUxhM3ozbnY0TE9LZEYxX1ZB?oc=5",
+   "data": "2026-10-22T09:15:35+00:00"
+  },
+  {
+   "titulo": "Mega-Sena: quanto rendem R$ 200 milhões na poupança, Tesouro Direto ou CDB",
+   "fonte": "Juruá 24 horas",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOMGNER04wblFocUV3X0Z3c1lSNWNzTFBJZUNhbUx5SHc4NmhsUUJub294dkRjcjQwcGgxSmM4X0h3R2U0d1JMX2JxcTJLUExBLW85U1dXUjd1QThaVmpwZmRwRTkzYjM3V0xHQXA1VGE0VEdQVlNtSFljNnFwNVBGWmN3WTYtRzEtZXFHNmNDT3pROHZQb3d0ZFZiX3lUMXFsQzdxNnVuOA?oc=5",
+   "data": "2026-10-22T09:10:48+00:00"
+  },
+  {
+   "titulo": "Tempo real: Ibovespa acompanha Datafolha e reunião do CMN",
+   "fonte": "Money Times",
+   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE8wb2RUUFBaT0t2anpfQ05BMF92bk9ZZkg2dlhwaTZDaU0yTWtZVEE2Sk1reHZGRnl5UUJRbDNYRG1MY1lCenBHOUpiQXdBRWpwbU5qbmFtZHZxXzRUV0VjdzJnQUlEQQ?oc=5",
+   "data": "2026-10-22T09:00:00+00:00"
+  },
+  {
    "titulo": "PagBank Investimentos: IA nos investimentos: 5 cuidados antes de confiar na resposta da máquina",
    "fonte": "UOL Economia",
    "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNbzZoQkFJUkpmVU9qNmt1SFk4SV9XbDc3eVRHRjlMRmlmbllwYmJ5S21oQzh2RG5YdUtXaDhJMERGLTc5amwyaTlWUWQxN2dvZ0hIT3g1ZmJXLXVxOF9CTkRVaXBOTURweXlfbnJPamtwSVNySXJTLVlneDIwOUJVUGw3d0pTODlid01UT085eWFOWkVHdUs0ck0tSm5qcXVzaEI0T09mbENfQXpEMHNnSXFqYjR0eEhXMTlPRzVYNDJFVHVXWEE3RGNaQUJDZGF6N2NVRy0yZjBqamZI?oc=5",
-   "data": "2026-10-22T08:37:30+00:00"
+   "data": "2026-10-22T08:40:30+00:00"
   },
   {
    "titulo": "Mega-Sena: quanto R$ 200 milhões rendem todo mês na poupança e no Tesouro",
@@ -35,10 +65,10 @@
    "data": "2026-10-22T08:19:49+00:00"
   },
   {
-   "titulo": "Mega-Sena: quanto rendem R$ 200 milhões na poupança, Tesouro Direto ou CDB",
-   "fonte": "CNN Brasil",
-   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQU2RBZkstX2pnN3B5ZmtQSDNIVGFha2VxTkt0aHV6RWc2Z2twcGpXQy1lRE0xYktBWnBFeEJMSktTMkFYa3NGemNmUkR4blZEQmdKWHA5aFNFWmxEM2FRblAwRDlRTXhUOHRvUjlqbTBqbVpiME1xeUdEZkhIc005NVFrU2xzd0VqVUR6YUk1eHJaU2lyell5eExWQUlnN2E5cnA5S2JIZEIyb2JIdnZ5LUdzNWVBVHlFRnUzb0tuUWpEYTF1SnpKVTgtX2lSWGJN?oc=5",
-   "data": "2026-10-22T08:05:17+00:00"
+   "titulo": "Ibovespa cede com eleições no radar",
+   "fonte": "Valor Econômico",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPYXl3NVpWa3RuYUpQbkpYRXNkOU5xT2ZnZUkwTEpFb1dPSEN6SGh2bkJfM0FfdlJCdS1TUnRpSXdOanV0alN6akdfNGctb2lfUmViTFNoWU1rcUZZZ1BNNkVFeUpRVXZrZVZxRXNHVmE1b1ZOMktScjNJVVV5SGtiWkpYRm9Eb000dndvRmRRVEpBR25rMWpjeDNkZXc1U0NSOFpYMTNVdw?oc=5",
+   "data": "2026-10-22T08:03:46+00:00"
   },
   {
    "titulo": "IPCA+ ou prefixado? Como investir no Tesouro Direto às vésperas do 2º turno",
@@ -57,36 +87,6 @@
    "fonte": "Euronews.com",
    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNRnZaSEhLdXBKVWJLSlN1bGZma3BVaF9NRWZoUFlCYTdsYlZhbzVSdVlGUUptcm5NSExUY3EyTFBvQXJyMnFsN1NPUlN1QkZFT09aRUR3ZnczUlJPMzg3UFNnZTdZdHZBcjRLZVh2akp6ZmpUV194ZXY2VGdxZFIyN3AyTU54SklHZzJCQnh3Sjk2ZmZ4YWZka2RVNGs?oc=5",
    "data": "2026-10-22T07:55:55+00:00"
-  },
-  {
-   "titulo": "Ibovespa enfrenta novo teste com duas pesquisas eleitorais na reta final do segundo turno",
-   "fonte": "Estadão",
-   "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQa1VDaXNqZ2FiZmlJZnRzTEFBZnUwdkRHVDJKbU9seE1hQno0aXQ0UlFDYWdMTVNMc1ZQWnh5NXN6emVFVVMyaS10Ql93QUUzSHlSMDR2QXBDMFpGYWsyTlU4bVY3OEUwSEFVdTBVUHRoV2QxV3V4dnVpaGNOTFpaQlpCR3ZrSngyQkREb0JqRTllVFNNSHdWV3RBbzBwZVpuZ1BXS2o2SlhyMFpmY1lnMGg0TTRJamhNSTlxMnNVSzRaM05ZTDE5ajVxcGVIXzViUFlVc0JfeDVoNmtNNnFnLWQ2a3JTdXB1VW9GLQ?oc=5",
-   "data": "2026-10-22T07:36:14+00:00"
-  },
-  {
-   "titulo": "Dólar fecha em alta a R$ 5,0272; Ibovespa cai 0,86% a 206.495 pontos",
-   "fonte": "brasilagro.com.br",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOaUlQNDVjMzJYV2EydGtHUDA1c0ZSZVZhVFNWakNCY1VVSkVSRzNPQlFqLTZsUnpycVlPb3NPZjRCaExNY3VyN01TZjJtdXpHUUtvMW1nTGtqUzRUWDFXVU0xOHVCNURRWENETURzSC05SWY4ZnluTUNVYlJyLTU1eHRxSWpoaXBrM1VXcGJUWjgySHpSMlltMmFyZW1fZ0ZSQmdPTl9xV0xvQQ?oc=5",
-   "data": "2026-10-22T07:35:26+00:00"
-  },
-  {
-   "titulo": "HICL Infrastructure busca aprovação de acionistas para mudanças na política de investimentos",
-   "fonte": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
-   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPNDRfZEw5VS1YcjRLV0JHdUVqQllnRFVrT21XQzFpdFAtb2taMXZsOHUwN1hydVp3Um5BTENvTTU4M3pQbVdZekxNRjBMUmpZb290MC1GaHV6aXBFTFg1UENpYk5kWnAtZ2hZckM4aHh3VVpwNjVnVVdNRzQ3bHJ2MUNDMHlnZDRTSXExOFVPZGI1OWlRTFJQOXlXNmZidFFkWG5VX3MwOEFFSVNIZC1CLXk3VFlEQjZVajFoTWxKQi1CelQ4b2ZMZnRxNlVOMUdBMGlCNlotT3F2X2JEQnFRSjR3?oc=5",
-   "data": "2026-10-22T06:07:00+00:00"
-  },
-  {
-   "titulo": "Moedas asiáticas mistas enquanto dólar recua para mínima de 3 semanas",
-   "fonte": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNMDRsZzlZNHVSbDJFN0o1VnlhUmtQMUZhLUZsOS1vQzR5NE5GbERtbkYxdm1LcGhtVUNtZXFHUnI3aVZXTGVmT3ZSQkpTNHBkRklmN2prUnBzOTUwZUEtYm9HblFtZ1pUQTU2ekF2ZjhENWhmRm1Qa2I4dUF1QXZ6XzIxU2wyUzdQb0dBel9HcWxYWlJabWhhS2YwWkQ2cDQ4c3RKRGVLTkpLc2ZFeXhEaktyLVpSQ0ludUE?oc=5",
-   "data": "2026-10-22T05:11:00+00:00"
-  },
-  {
-   "titulo": "Salário médio no agronegócio brasileiro subiu 3,7% acima da inflação em comparação a 2025",
-   "fonte": "Sapicuá",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNSTlDQVZMR0tncXlObjlfLVlxdG41TUNpWktYcDhoZS11Y0hYNndTdWhvUUNMU1NfX3BMLXNFdGVKRWphNFNkVG8tSWw2NG80cDNmdWNmenF6UW9CNHBoMURBWEZQLVFjYlQ2NUw0SkFVUU84WWFuYktzQjhkeHhFZ2xDTk4yeU5YaktUNUNhRXcyUTJWaW0xSVlEVWRocVNQSjRCbmVkQ0V3VW9DUklaclJn?oc=5",
-   "data": "2026-10-22T03:41:55+00:00"
   }
  ]
 }
