@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-10-22T13:48:01+00:00",
+ "atualizado": "2026-10-22T14:39:22+00:00",
  "indicadores": {
   "selic": {
    "valor": 13.75,
@@ -17,76 +17,76 @@
  "cotacoes": {},
  "noticias": [
   {
-   "titulo": "Ibovespa abre em queda com petróleo em alta e expectativa por balanços",
-   "fonte": "trademap.com.br",
-   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5jV3h5b1lWdzZMemdETkp3cmV0Q1VWSW1yOWtXdkp4dGJJMFN1LTQtaDh0YUxnMWpzOHcwSm1Iem1DYmVNQkIxcE5EVmJUQ0liMDRqcV9EWG8?oc=5",
-   "data": "2026-10-22T13:44:22+00:00"
+   "titulo": "Tesouro Direto hoje: prefixados sobem até 0,16 ponto percentual",
+   "fonte": "EuQueroInvestir",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQb2xNNGVpRUR6WGhEU0N6d3I1T3FoUUg2SW1LUDgyNkVUcFJPZkpnOHR1ZVRLcTViN3R4UEhmU2ozLVZWOXpmYXhiMUZncDY0azB3dmxmTFB3Zk12dG1jVWpLQk8tRTJETlk4V2p3QmRGclhCa3liTlM0ckNxdVJmZGJaOUo4aXdFNFhjX0g5d1ZCZko2OE1iMU1kTThhVVJhbndFX29LWQ?oc=5",
+   "data": "2026-10-22T14:34:15+00:00"
   },
   {
-   "titulo": "Renda Fixa Hoje: confira as taxas de CDBs, LCIs e LCAs na XP nesta quinta-feira (22)",
+   "titulo": "Ibovespa em alta e dólar em R$ 5: é o momento de diversificar no exterior?",
+   "fonte": "Bora Investir",
+   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOaVJsNWZDMXY0R245ZFZWd2Fzb1NQd3hiSlQtVDBzdy0zMWJQeGhRZlEwb1BkNUh1YnZQWmtGRVZtNlFuVldUX05tZDRDbG9WdEhTRWxhVFo1SUktdVRiemhtMGl6S1FoZXVYejdfZGdGV2M5bnV1dUU2aFRqWHBWeE02S3VSd1BYWm1JMmNwYmxERlJjLWcxX3FfbW03ejZnQVZ0Q0dYYVdWYzZnc0QwR2hMY3Fra2ptaFBrbWI3Q3ZCNXRnaGFUR2hmNDJlazRXUFJlMlhRQ25aRzRWUnlz?oc=5",
+   "data": "2026-10-22T14:28:00+00:00"
+  },
+  {
+   "titulo": "SUS deixaria de receber R$ 30 bi por ano se gasto em saúde for corrigido só pela inflação, diz estudo",
+   "fonte": "O GLOBO",
+   "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOU0ZXQ2VfNnhPZllCRUFSeE1PelJGM1ZwTTlpZlVVUHpyOFpWZm8tUHVGejBCblJNRzZtaFZlN3ZhU0xpU0d4d2VCM3BkNktOUURqS3hRRXZENXlGbURvbkl4MUJqQ0hGTHNVbl82SmJaeUliNWRjS19laHNyT19iemg4MDBhQ3J5UnNjN25xZkU5aHF3VS1fS25SRTQ0R1dnc2JMQ3NCcXNaRTl5SkxxdENjWE1lSmJ5SGVnNFB5NWxGV1JKYnlJdVJOVXhjLWZLWmNEUmlOc2FnTERvdFZ4eFdTRjNUQ3g5UXQwVXNxa3c4ZFB00gGDAkFVX3lxTE5VbTZ3N2RabzlseEduVHRuY0otLTlQLS1tYnBXVXZxWVNycndvWTVGVUhMcUYtVDNKenVuMUtUQzMxS0lJX2Rlb2FJQkZUS2l4SjRTOTh6N2hSbFU3UGEwaHR1U21RcEdQbDhoY04yYlM0TU1uVWp2cWRlMEpOQnhUYnJBekV2MUw4dUllejNhMWhfSE5iWEY5ZEdvdDNweXgwMFVnRTNxeXk1NFdXMGJiMXVlQUh2N2VzVVdoV1hmdkE1Wm5SQXVkM2V5ZHBBZF8tNnZaRmtTTWNyVk9GS1RqUTlNYXg0UE9zLWZlUldHQjlYanp3NzdRMDVMRkRDOW9Qb3c?oc=5",
+   "data": "2026-10-22T14:27:00+00:00"
+  },
+  {
+   "titulo": "Prefeitura de Naviraí leva investimentos de quase 30 milhões para região do Jardim Paraíso",
+   "fonte": "Prefeitura de Naviraí",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNWFlZcVEwWjZlY0hQa3ZjUmJEY3d4STFqbXI1Y3dwZmdHRWM4elp3bTNQdWJ4ckhmRjlMb0tuRVZkYVB2cFBhUGtVTHlIMmItN3lSS1FIVGNlQXhlWTkwZkxVdnU5NGplNzhSSEJJOUZaR1JBTWM0NkJzN0d6c3E1ZDNIX25kWVhKNDczOTY4VGlDd2JlV0hoYUI4Y0pmSXY1bmxsTHpDV2lhTlJyc1BqN09CeHpOTGl6STl5eUxFc3I5WEE?oc=5",
+   "data": "2026-10-22T14:25:41+00:00"
+  },
+  {
+   "titulo": "Esquema de R$ 100 milhões em fraude em investimentos prometia 70% de retorno e deixou 10 mil vítimas",
+   "fonte": "ND Mais",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPc182c3JveTNuZGw3VEpyeU1seDJGeVZpVVYwb1E5Y0FSSWRidUgtTy16akNlLVlYbEpudkpxZExlMWRiV2FhaGVVdkRNUjA1bXI2dXlJOE1DdWVnT3pNVWNQTWxJenZweEhPam9OOUVFTjczbXpRcFhsRTk0aTlQMmZNY2JnQThSc3Y5eGkzS0FtVVdKZXdHdThVOHd1SldzeTNpMGRReEhzM0JyXzkyTVVPWVhQR2lqcUdzLWpJNTNkRVpFNlpZUVFZdw?oc=5",
+   "data": "2026-10-22T14:24:29+00:00"
+  },
+  {
+   "titulo": "Café cai 2,94% em Nova York, e dólar em alta limita pressão sobre preços no Brasil",
+   "fonte": "Portal do Agronegócio",
+   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPeHZJR2ZfX1ZZYXRWX1ZNVmwxYzRIUW12eEpvN2hjeUNhLUMybVI2N2ZnTEdVMmtJQTgycGZkR25peUVWYy1NYzZqMkhNbjNUOFYxZUItQTJmWjVXc09xbThYYmVjc0xpTjFvaTZnd3Z2cDdyLWU2d0FTZDBIWkxTNmJyQmp2TDRkZW5NRDdlYTZkbXZ4UW8tRVpXVVlpVVh6aklaa3RBdWpKWFNYcmNtNWlqcGVtNy1STlM5VGpSYW5PbGNIU0J1eElwZVJUWEIxemVIWFU0OUpqMnlGWVE?oc=5",
+   "data": "2026-10-22T14:21:00+00:00"
+  },
+  {
+   "titulo": "Ibovespa Hoje Ao Vivo: Bolsa cai 1% com balanços, eleições e exterior em foco",
    "fonte": "InfoMoney",
-   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5SYWhZeldJSGxidXFiTnN5Z3VwMmxDVUE1ZGVTYkJwVlZXTUZnU2hFUnNtZVZVS1BMRlU0Mm81cTc3cXF4YmphNU5LdU5wZVltQXM4SFJCZXRXZzZVYUl4MndDeXZZMk1uZVNBbVlXa3hTVi1wZXFZ0gF8QVVfeXFMTVJMOFA1RjRoWlFld1g4RHBpOVM4ZmZkVE9mZWJqOUxNakZLRzduODhhZHpGSGQxLXlxMlU0Y0JTXzVseHh0Mlp4M2Y0bzREMmo5dF81Uk85ZWVYXzZZY3laZXZTS3UwcGtKUm9tMTN2QWJweExZNVQ3MmF2cQ?oc=5",
-   "data": "2026-10-22T13:36:41+00:00"
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNRjQxcnZURllNYm1odGZpUF9yQXk3MHBZN2lCSGdqdlB3bDRHQUJraDlGN0otcHZRTHBaMklOVlgzUE82QnZUdmJQZ3RRbVA2NVQzZk1fX3BNRThqTVJ2cTBiYS1iLWFBQkUtd2xOd2FOcWd6UzVoejI3RHVYRFFCU1UweUpvR1hNcnlIdWUtaw?oc=5",
+   "data": "2026-10-22T14:19:48+00:00"
   },
   {
-   "titulo": "Como qualificar as decisões sobre investimentos públicos?",
-   "fonte": "WWF Brasil",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOR0tfbDdCQVlMREJ1TmxYVlZDaG9Cb2pUUXpmVVZ6WUY3TzdQZ3llOEdjX05pelpqc2wxUHlEMng5a1BpQ19wbFZXSktaNDh5bzdHUmo4Ums1UHJfbUdVRjR2OTNzRmtKZzVncWREYzZibVg2dnVteXFIOF9EQkhqSTUwcnJiQVk1MmZvZ2J1RnRGY0RvX3dMZkZnZjJRUms?oc=5",
-   "data": "2026-10-22T13:34:06+00:00"
+   "titulo": "Clima eleitoral faz Ibovespa recuar; Vale, bancos e Petrobras puxam perdas do dia",
+   "fonte": "Exame",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxONlJaa19lb3hORHF4YTVTdkV4aWNObjEwV3h3cWxwak9Na0hXWDFKNmZ1WlFYcXNLNDFaMUJDb1AxRW9xdEwtU29wd0VydVhvTWx3WnByRGRZelRQZ1RHVDV5Ry1SVExGQ1I0S1EwYmluQ0xTUkJfVDUtckdPR09ickxFeGhuV1hlMENRblhNSUdSaFFFb2NseVMyTmNsNVlzRlUxbzY3SzNWTzkxeE9Za0VGZ0Y?oc=5",
+   "data": "2026-10-22T14:17:09+00:00"
   },
   {
-   "titulo": "Ibovespa cai aos 205,5 mil pontos com Vale e bancos; Petrobras sobe",
-   "fonte": "BPMoney",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNZUxoSm1jV1JyVF9pX3RvYlpNVXlmUzg5aG5SMnVjby1BRjdQVVZxX0dGdTMxbEZqSl9nbktQU3phc1pXeFY2ZnZLVUtIRU9fZWRva21pLWhNb0RZU1FkOTVjUDNWaGxidWd2WFcxbG9MM09KUUszMEk1U3Fkdks0eWQ1WVZRNTJFVmZWM1hUOXBidEFaTlUyQTQxNDhibjA?oc=5",
-   "data": "2026-10-22T13:27:24+00:00"
+   "titulo": "Bolsa abre em queda e dólar em alta -",
+   "fonte": "Folha de Campo Grande -",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQUkJTalhsQkpRUXpia3ZtTVgwbjJQQmJOcUZtcFVfWVBCNmVEaENGeWF4cG1FWjdEUmtuaU83YTB3T3ZxZGc0N0RXUXJZLXhnRm8yS01UOFJRQ2dCekh2bjhrekVvejVIYU9mSEhoT0tETzRHQkNleHBwbjktMTU5ZUUybks?oc=5",
+   "data": "2026-10-22T14:05:50+00:00"
   },
   {
-   "titulo": "Inflação no México acelera em outubro e desafia trajetória do Banxico",
-   "fonte": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQTlFRLVEzT0ZuNFhqU3ZXdGRTUlYzRmpDa0RDOWg1Vm9ZLVRGdnluTDA4QVdZVVl0akJfU2t6b1pIbVRXTG9lb3NxVnlqNnlmSmZWUGZzb3Fsak1lTXF1VTNGMXZOVENmaDdDaV9TTUltNFdXMzFMZFA0d1EwcF9WTV9SVExudlJmTmVLTk9KU3pxZlBGclBtODctM2NDS1EwdHJQRTJMMDFuVmU4bC1vMjk2RFh0OC1zbENaZw?oc=5",
-   "data": "2026-10-22T13:26:00+00:00"
+   "titulo": "Dólar sobe perto de R$ 5,04 e Ibovespa cai com petróleo e Datafolha no radar",
+   "fonte": "Portal do Agronegócio",
+   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOOENMN29KS2I2ZWtaaEpTRXZUNDFuZ0dwckYwSXRGM0JBYS1xSzZmZlU5ZHB6LUpiNmpmUWQzLTZSVDl3YTVnYzFoYWt3c3UxXzNWVlQzMVlERTE4NFNiVl9NcGJ6NVBqVTNDNTBYRFB4Q1hvTV91UmNqZ3FadmtNdGpJZFhXbFZoMFJxcVg3WmRDMjJsSHFqMFh0Tm1LaGt6MFFjcWVJb1V1eVhyN2kwUEx5SkVVQUFPRVpUNzEzNktlTTlKYllmRUlUajI5Y0JJMVB5RFJWZENFeHhiS3d0R1Jaa1UzZw?oc=5",
+   "data": "2026-10-22T14:05:00+00:00"
   },
   {
-   "titulo": "China endurece regras para investimentos no exterior em meio a riscos geopolíticos",
-   "fonte": "UOL Economia",
-   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOaXo2dTNwQW5ndFkwSHBuYWk0bEtXZ1VjWmw3NmhaTHpLSkFJM0FiTTRzSU9HV2xSWnNDcEQ0NVhTSXJtQzhWT1pFeldmbVlGdnZ3TzFmN0x3RFNzdnFXbDYzdUtZNzNaQjhudk91bjdSZVYzdi00bnNSc1pfcTlXNkMtV3p3VC0zLTZCN3g3cGR5cy1GcXM4bzE0VXhOaGxJVDdtN2R4RVpFWHFRUjcxNjl4aU12clUwSnNrT1RZM29sci1reW5tQWU1Wmp2WkNSTVN6Y1daTVd4SEpMa3A4TzBuV1lGUQ?oc=5",
-   "data": "2026-10-22T13:22:00+00:00"
+   "titulo": "Crescimento à vista? As oportunidades que podem surgir na bolsa e na renda fixa após as eleições",
+   "fonte": "Seu Dinheiro",
+   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNY0dndWhXaUYtN3hZc04wRm40b1Z4SEs5WnFNYTlsZ3hZLWRRN0lIRXNQaktlbjBWQ3Bta21fQ0VXQm51TVNHZmw1WjBtV1YyTjhrOUxibXY3NGxDbG0xSk01cFNPUnJoRDJycnEzNjRNU3ZMNWNNSGpwVk40MGVHUlBxVHhmVV9iY1BUeFZvR2NHNnZJZXpyMTFHUWVPRjJiUUJFQTJTaDZZUGg1MkxLQTRLa0l1UWFsd3JERFF0dldBUlgxdTlobWNIUlpEVEtBbGtYbkt2TUs?oc=5",
+   "data": "2026-10-22T14:00:48+00:00"
   },
   {
-   "titulo": "Informações Financeiras",
-   "fonte": "Enfoque - Informações Financeiras",
-   "link": "https://news.google.com/rss/articles/CBMisgRBVV95cUxQcGtWNUtNN3p2SzJPMGpXMENFWVNqZFFHZ2tMZldhTXNmelRlbjZUcklJY3JleVh2b0pOMzZfMzlEQ2k1MEplTEVUQ00zbjRpdkI2ODdzVXAyQm0xZlRWdVZpU3JCRkQ0M2xMNy16XzhKc19zNFFhbEttOUs1dWhYYVRpUGNPcU9GcUdkZmoza1M2OHNaakl3WTEwZ3E2RDQ4aWZfaTFqSWpSeVdGMFBYUlhkNVZ5YkxVd0Y5NzB0RkJVZG03LUZBaVIwdVotTjQ4aXUyUU9OaE5nYUFQaF9sVUgydzhNeGY0azNDOXNqRUFuZ2ZDNnVCUGFjMHFQaVNKRzk2ZUdWaTlXb3dlaFhiV0lIN1BFbkp1X2UxRkNqZ0JlcHRpeVQ4MTlDR0VuWDdPRE9ZMTVSOVFTb0o1TExLQklNREhxc1JNak9jRzd0TlozbGhRN1FmUGg2S09CMnhJM2lHYnkwbnhNUmxWT0lyeHE0elA3VDl3VmVrTEdrUzhBeERYSXZobTdOWFdEVFp1Q1NPVzIyMDVqdDRwYzdLOVRwVkhEMUVtN2xtQVhaQ0w2U24zRkJJenh4czcyTDlWNE14b0drckhRUHFkaC1nWmQ4ckpJYmsxcEVnS1gza2dvZExJSVpVc0VId0dfeDZrVm9QblM0UUhvcEVFU05WanFqcVVfejVWWmNNUnRYZi1wUld4bGpNR1JpUVlGZEtNOEdoUjdEbjI5SFlXUW1vOHBB?oc=5",
-   "data": "2026-10-22T13:19:22+00:00"
-  },
-  {
-   "titulo": "Ibovespa Futuro cai com eleição, Bradesco e receios sobre IA no radar",
-   "fonte": "ISTOÉ DINHEIRO",
-   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1PZDlnblpTSWNhN2FWQnFrRFQ3QXp2Qmp0YkI0Zkp1UTJEZHJ6R0F1djlhd2pTRDcyUUJlSEJjMnJObWJYZEY2RXdDTUotMXA4SjFjM3dBTl9KUHZyek4wbDBkVGR4YlBPVTF2c2JDYjBaRkZ1NThuQjdB?oc=5",
-   "data": "2026-10-22T13:15:53+00:00"
-  },
-  {
-   "titulo": "Ibovespa hoje cai com pesquisa eleitoral e petróleo a US$ 112; dólar fica estável",
-   "fonte": "Estadão",
-   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPVWNXSURtYjFDR3NJaWdhWHBoRjdCT3hFR29DQzYweGRLVDFlaXRzX2Y5LXJmUjlRQUZSR24wTkNDSTlseVVWYm1Vd3ZwUl85Uk9tdk5faTdRLXp6ZU5NODVwOVlIWUZiV2NfVTVpYzZTcUVaMk55Y2xhVGJmMUsyMnFpQzRVbVM5ZEFndExSLXYybFh0dENoNTZzaVdET1JKZl9BVjFuVERVNXpXcXhhS2NWUzcyZU1GLXAzYTE2S2twNUI4aEFDN2pIY0FHbFBJQ2RZalJzY3lYR2t4cnZSSGV30gHnAUFVX3lxTE1JQ1pibGlaTExucGduNno1dVZiTlc5amlVQ3NMRGRPV3lXdC1HNEdwdU92bnZreFFiNjZwZkhuRXZqVTFwWGNjQnctOExOTEtKSUpRa2F2TmNCdi1OU1NiaFo2aVBMY1YxdDR0dVh5aE1IZ01xa0tickE4N2ZYdjlQbS1fRE1ZbXRYV3BHQnlZTjRlOTdaRmc5QlNNa2l0NHJpa3YzMTl6VWw1akJmd1dKNjIzUl9FRTBybko0TU5oamUzNm1DSGt3bkhvS2xTazFZNDNxaVd3blpTQVM0aDZ6MmFNanhKRQ?oc=5",
-   "data": "2026-10-22T13:15:02+00:00"
-  },
-  {
-   "titulo": "Ibovespa recua pressionado por Vale e bancos na abertura Por Reuters",
-   "fonte": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPVnNZeU5CS05FU1AyYmpiOEp2Z1JZS2l2QmN6MklGdEw0MHFDeVRLTHE5Y1owWTNkWW5sdjNESmhzZ3FpMjc0YVBxMTd2WkJmRk5Xb3YxNDV3NzZCYm5pSy05Yk1oQnRyVGRxdzEwMmFsSkpHRWd0c3FwQzRCc3hyMVJMVkhSNk5lTjlFTk1LNW1lVlFBUmd2ck5RQllGUUtScDF0RkdyYUltaHpScVotR2p3?oc=5",
-   "data": "2026-10-22T13:15:00+00:00"
-  },
-  {
-   "titulo": "AZTE3 sobe 0,8% e Ibovespa recua na abertura hoje",
-   "fonte": "Visno Invest",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQSVZTdVdfdnlPS1UzYXFSWG5XcjRHWnl2XzFEcTRTYndfYzB3M2dDbFJEVjJ1dzVmOVliS1FyeEFBNWVXb21IM0Iwa1ZOZk9NN08xT1ltVW00NERjcmN4bi0xLUJVSWFJWk5YSFBKVkwxRU1aMGMtc1J3NUdOVndaR2VsMjV0TzZNYTJtLUlB?oc=5",
-   "data": "2026-10-22T13:15:00+00:00"
-  },
-  {
-   "titulo": "Tempo real: Ibovespa cai com pesquisas eleitorais e piora do humor externo; dólar sobe",
-   "fonte": "Money Times",
-   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE8wb2RUUFBaT0t2anpfQ05BMF92bk9ZZkg2dlhwaTZDaU0yTWtZVEE2Sk1reHZGRnl5UUJRbDNYRG1MY1lCenBHOUpiQXdBRWpwbU5qbmFtZHZxXzRUV0VjdzJnQUlEQQ?oc=5",
-   "data": "2026-10-22T13:14:06+00:00"
+   "titulo": "PF desarticula quadrilha que oferecia investimentos falsos em SC",
+   "fonte": "TN Sul",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQeko0MTRhdEs2bjZBMFdNeDFLUVZ6TlIxdjV5Q2FlbkFBRFBwQXMzb25JeHNQZWRTS0tUYXg1dTN6YnRRU3NLanJvak5zQXo0OWppTmE3b01kb21iTDNFUzNjRGstbVRoU2ZYcWc2YzVIU0UxRW5yd3JoeG9YWFBiYy13SHlCcXYxeWRpUEcxSHhfYmpaaDNtRGdR?oc=5",
+   "data": "2026-10-22T14:00:00+00:00"
   }
  ]
 }
