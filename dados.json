@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-10-22T22:33:37+00:00",
+ "atualizado": "2026-10-22T23:33:42+00:00",
  "indicadores": {
   "selic": {
    "valor": 13.75,
@@ -17,6 +17,36 @@
  "cotacoes": {},
  "noticias": [
   {
+   "titulo": "Ibovespa cai com Vale e dólar sobe em dia de aversão ao risco e cautela eleitoral",
+   "fonte": "TradingView",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9uaTRFZDJwYzJUejFpTm5lUzJ4QXp0R0h6YTFpdk4wR2Z1Ml9aVWZyX3h6dXkzRlI4dFlFVndEY3I5VTJWT19pcU5TMkd0d3JsYnROSWxZdlNtMUUyVXJkYjJ5ZDRFRlBld0xZQkM2ODVrUk1QYzIw?oc=5",
+   "data": "2026-10-22T23:25:06+00:00"
+  },
+  {
+   "titulo": "IBOVESPA fecha hoje com queda de 1,15%",
+   "fonte": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOc2JzWUhFa1BLMEZzaDZWMFFLWFZCTXJxWDEyMmZ5YmdENGVhdDNDckZZRjNhVk5ZSVdWQmFobkRoMk5HbkJIUlZ6eEI5XzRmeC1pckx0c205V3Z2cUItVTlaQ05FRC1lSXd6N3RYRXJlR1V3ZXUzNV8wZmh4YVh1V3lVYl81NzA?oc=5",
+   "data": "2026-10-22T23:06:00+00:00"
+  },
+  {
+   "titulo": "Dólar à vista fecha em alta de 0,22%, a R$ 5,0384, com exterior ruim e eleição no radar",
+   "fonte": "EuQueroInvestir",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9CakFtSGlkZk9XanBUcXhIQ0swdm82X0oyc0RMYnBTTTFyX1lOVEx1WlRsUFZfVXlwOWhvZmg5LVFMemtEdW85VGJWV3R3dE1seDhIUzY1bGRRWWJxaVBTWDBrQ3puZS01RlhDYkNPWGFrNTY2Y09DVDk0aHhTdw?oc=5",
+   "data": "2026-10-22T23:04:43+00:00"
+  },
+  {
+   "titulo": "Secretário de Habitação de Fortaleza diz que reeleição de Lula é essencial para manter investimentos no setor",
+   "fonte": "OpiniãoCE",
+   "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNWGtQRko2Z0x0cElFbmVERlVZQThyTHRjQ1czdlNVMFpzbXhCRk9mblBVSmt1MElmVU13eDBJTkMxMWNPOXRhcnNXRmRoNmtESXg4TEdWSHBWZVZtOFZtTmRWMHgySnNHV3AxTWlZUFFlZzQ4SzI0Qy1wNUtVN3VEZ3VDSHpRYTBzZXlxUjB6OFNrM09ZNzFEVXhnQ3dqTTFwakxpYUNfc2Y1RThva3VIcW54YW5kZkVPenZobndYTElHYnk3R18zQ19Ec3pIRWs3WjI2U3o4Wk9ic0VOSEJMMWd3enJGbmlRT1ByaUlYQVc?oc=5",
+   "data": "2026-10-22T22:57:48+00:00"
+  },
+  {
+   "titulo": "O que são juros futuros e como eles afetam seu bolso",
+   "fonte": "Folha de S.Paulo",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNb3k4SWxQZXhNek5BSjExRW1jVFZwcll4ZHFmbXdUVW9VWmhqLVNFOHJBbWdWbk5IZ0pmeUw3QU9YdzZwWDV4SFc0cWJHX0hfMGdQNExLOUpFdHBfaFJXdzBVZTdWUDhaNWFxNjBzSUpPeVJuYmUwQUNReG9tTUYzVUhjYUc2UzlEOFdmOTRXb3puTlRtUkZuLXJyUk96VjBHWXlSa2tEZ0NxLURjSVZsRg?oc=5",
+   "data": "2026-10-22T22:39:24+00:00"
+  },
+  {
    "titulo": "Dólar fecha em R$ 5,03; Bolsa cai 1,15% com receio do resultado da eleição de domingo",
    "fonte": "Rádio Pampa",
    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQcU5UMndfc1piaWowU2tRci1aS0RhVERTVFVWWWxZM3dmUnp5QS1fUnBjR3VucUVJbnFKeG5GRDYtdFNnY0w3ZWdDZ2J2MEI0WThEaExGMGpmaC1rNmFsUUM0aHFCRl9vSkFxRjN4RE4xOGxBdmtLWkk3RE5CbDd4YWMwVkFqUTltVF9HbjU3a0tHbG9FLURheWtyOTdXSXBOWkcxWlhGT3R0alVGc1lFcw?oc=5",
@@ -25,7 +55,7 @@
   {
    "titulo": "Sem Maduro, Venezuela deixa lista americana de restrições a investimentos",
    "fonte": "R7",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNYjA2bjNOTm5qVV9RX3pldmY4SnFhcTJVRHpRMndVMmxPV2M5UEVZZS1DaUhjVTY1Wkc2OUFUU1pxZ3c0dTZfNVoyc1dPbm00UW9aVDV2Z01xQkJnR2pHZms5V2l0T2h3Vkp3Y29YZG9zZ19zRGljRHpUaGYyT1Vqak1mZkpTaWstTEx3ZThhMWpfNTFmNEFRcnNEcm42Vlk5b3BoMnlyb21XRS14VFIwTF82TmQzOTcxUWtXRQ?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPVWdEZk80LXhUOERxVEFqelhNUHVZXzdHNXVucGx3S2lLS01vN2cyWnFWODA2RjVmOXBmTkREaml2eXFlOGlCc0l0TTFubG5IWHZQUloxSUFqNTRhNVhqa1JUX1dIdTctMzIwQld1MWZvT2w4T1ZTNTI4X0JTSGJYVEYtV2F4a3F6dU1PLTA2by1weWV2czh0d2I0d2dhNnhobGNDa2tUMXlQdWU2RXRtdmdBNkpHZw?oc=5",
    "data": "2026-10-22T22:04:42+00:00"
   },
   {
@@ -57,36 +87,6 @@
    "fonte": "BPMoney",
    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQQ2Nudk9nVjVmdFhkRnFmbUFtUzFxRjg5VGlkbWUtQ24yZ1hmNjRWSmdva0xFLV9uTGgtUkxUT3NNeHJRQWF0b24wWjBPVlJmT0VsNFoyWnEyUUk5SmdvWm9SWFB3SGZ0UjVydTJmTDQySmRZd05HN2Y1VWxYVWRDMnlMU2NXaEJnS29QM01CbGk?oc=5",
    "data": "2026-10-22T21:43:02+00:00"
-  },
-  {
-   "titulo": "Taxas dos DIs sobem com disputa eleitoral no Brasil e aversão global ao risco",
-   "fonte": "InfoMoney",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNUkdydkcycHdkYnRLMi1QUHRNQWZwNllSUjh2N05KRUFIVF81cDhsLVNYc2N6THBuWFB6dmVqdEpxaGVxcmVuWTZfaW8yNzcyOUZKVXFSS1E4dE9aUkYwT3Q5UGJuVDB6VERqeEJmVzZfMGhWdVJkUDdKckVBbVRxdG01dVlaelh4M240MXBfZmxqODN6MUZlaFVTVnFIREZGVmNLMFlfcTJoQmNlTUE0cmkyR2ozeHPSAbwBQVVfeXFMT1BmYUp2VnJWc3pzZ3BjaU0wUE1Lb1hmNEZzOHpTYWRuUHhxX0kxVVlKdFZtc1M3NXUyQ0NadmdUd1ZZX3NSaDk3YVZRNXZxaVYtbm43OXZrbjdHQUxIM0JRQXpPbDNCaEtUdUREbFpTNnVUVEtOeFBscDJCUDhVdnU3M0tkVGdRanl3MENaVFJsSUFXUUFVTWx4TDJiVTIzSkNFNko2YVh5UlpXRGo4V21PT2VrOTFlUS1pVkU?oc=5",
-   "data": "2026-10-22T21:21:39+00:00"
-  },
-  {
-   "titulo": "Ibovespa cai 1,15% com incerteza eleitoral e pressão externa; dólar sobe a R$ 5,03",
-   "fonte": "GPS Brasília",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNR3dGQmk4N25JZmsxbE5wcTJEcE1CT0k0clNLVUFXMkRqUjY1V1BEMGVVQmR0Q0JfRTZ2a2d6aTNXTlVNdzB1UFlDMGtNRnlfc29WZmFIU3dCdV9WM3BFY3NNTWJnQUdpQm9LV21FbjJCMlFhRUNwVU1kcF9jQV8wbTNsMjZSZzlSZ2MyME9BQnkzTk5LcWI0N0RDQm95Wm9ZdWNUbU9MWjY?oc=5",
-   "data": "2026-10-22T21:20:13+00:00"
-  },
-  {
-   "titulo": "Saúde destaca investimentos e promoção do acesso em evento Conecta TMC",
-   "fonte": "Prefeitura de São Paulo",
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNakVzTjc2QWdqcHJHcm9jNTlfeC1KYUVkRmYwX0l4SEdQSEtTNDBkSmdpZlJINlJ4ZjFnbHpGbWdjRWwzeTg5a0NFMHczaHk0cVpOSi0zVFZyZDkyem1aRk4yeTB5VUZnU2dZSkRSckxyNDA3OWNldzNwcVhleDRkNndmTnhrdDhqWVJmWTNjYzF2ZDJLQ3dUMWpSSWdFdXhrQXVYLVVCR3FhbXpCd2ZETkRXR0JMenhmVjZNMVE3dUNPek91?oc=5",
-   "data": "2026-10-22T21:20:09+00:00"
-  },
-  {
-   "titulo": "Ibovespa cai com aversão a risco global e cautela pré-segundo turno",
-   "fonte": "Jornal do Comércio",
-   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPeDE5bDFXX2o0UXZ5V1RMSGFFSHl0RGFYRzJmOWtvc0w3OUsxdTJjYzRHWDdWdUtqMURuMHZsdy05ekpQSmh0SVZPOVI4UFJrWUNOdXJtRlB5NDdZNUg4VXVIVEhzQXpzNnN4WGg2Z1luMFpXUU5IX3l3QXNXUklNd2oyNFgxdmJlUk9ibndJOFpGb29tMW1XckdOMGxpdG1mZFd1NUtlQWN4bldsSnV4RFIyVExNTHJUdlM3dmdtMi1GUUo0eDkzeGtB?oc=5",
-   "data": "2026-10-22T21:14:07+00:00"
-  },
-  {
-   "titulo": "Moedas Globais: dólar cai forte ante iene com petróleo, IA e protestos na Europa",
-   "fonte": "InfoMoney",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNTE1HYnEtQlpyNXNwenE0cDQwc2s1Zm0zLXE0bVhiekdGQTlUODFnWVduU0NuN20yRmJ4a0Y2Vm9oWXlqdFJLbjVhUlR6U2x6aDlnVko3VU1wYnNtbW9YR2tWM3BuNXUxUWNjRGdkTHdxZV9vbVJmV2tkallHOW1teXRxVGVGZGlja3NjSGxxcVJvT2U1ZzZrTkJNZkhsVm1Cb1Q5MXpoY052VmhzTFJxNWZOSW5vYllo0gG-AUFVX3lxTE03eG81RFdod1JkTGtXRzNYRi1JZkgwaWNsbTZTQlhYS3hBSXJ3dmZVd0pRY0FEUXBpQkZsYzhXblE3NjRBQUstb2drUzIxY2dmT01HbDFkN2hsRUY1azUxOEVGSkxVUXV1eWhzcTdZNjRZazZoNlVlWC11SGcyRGVrbHVjd0hYNWlzaGZ6MUVIeHlZbzlVbjZhYUxkbV9nUHNSRVlqS3JRTHRBdWpYVWJfYkF2MEZEM2V2RDcwQ2c?oc=5",
-   "data": "2026-10-22T21:13:31+00:00"
   }
  ]
 }
