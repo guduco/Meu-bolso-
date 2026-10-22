@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-10-22T11:37:25+00:00",
+ "atualizado": "2026-10-22T12:44:30+00:00",
  "indicadores": {
   "selic": {
    "valor": 13.75,
@@ -7,7 +7,7 @@
   },
   "cdi": {
    "valor": 13.65,
-   "data": "20/10/2026"
+   "data": "21/10/2026"
   },
   "ipca12m": {
    "valor": 4.58,
@@ -17,76 +17,76 @@
  "cotacoes": {},
  "noticias": [
   {
-   "titulo": "Setor privado deve liderar investimentos em infraestrutura na América Latina em 2027",
-   "fonte": "BNamericas",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNbnB0SGdOM1Q4c045OGN1UENLUEpBemktZXE1NU5pRThTc0pDYWVvZzlmY2dHbGRaS0x6Z0gwU05fNUlNbkkzbnBrYzNFeXFKeU1KdDFTcVN6cHE3OFlINnlaaHFvdTFVV1hyLWRLaFotQWtpM09Oa2xqb1Z5ekV1cWVKSW9fRlB6YVFYTzRvXzNCLVktemMxY1ZZRmJrTHE1MUY5bmRpRFhfNkpoNVVveEp1UUF2N0FTLVVhQkY3cw?oc=5",
-   "data": "2026-10-22T11:10:53+00:00"
+   "titulo": "Sustentabilidade já influencia negócios e investimentos",
+   "fonte": "RADAR DIGITAL BRASÍLIA",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOdkZCMDB0SVkwMWN3ZFRKLWhJWFVoTnJ2c0tMLVRHYWt0aDR4eTcwOXRtS0d0NFRwSWJScnhVMHZNSmJlaVlsekE3RjU3RXVjeUFSc25pY0ZRMFBJcjQ4Q2NWZFdnR1hQVWdXQTdudGMwUjJyUHd3Qzh3alhpMC11OXRrVWNPbjRlYThEemh2RllkeUczU2RHdWh1YTZMazc3RFlybGVpY05ZTjlVN1JJcUpfZUoyT0RqRURfX29RZXVYQU04?oc=5",
+   "data": "2026-10-22T12:42:44+00:00"
   },
   {
-   "titulo": "Datafolha, ferrovias, dólar, Ibovespa, mais agenda e pílulas da economia 22.10",
-   "fonte": "GZH",
-   "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxORFc2eGxEamFJZC14NjRiWlE1ZG5FTDV4M1NXYWdoZFZ3SVpENkNRamZNaTR5b250dXBoQUxGU1Z6RF9DUmJQclYtSE9LbnNQazVSNUNvMjk0YlBDTkZicDVEUmdMbzNUMUF2Q0kwZTk1eTZaZ0pmbXVDam9GdU8tS1BQQmNiVF93NmF5Nm96YVpJaEd4SmdPM29ENjhnWEhzdkJEc0Vpd1FhVHdrZ05xT254R00tVkZLbW1pQzhBa2lMcDd4aGxPaXBIQVFkcHl6TEc5QnM1SHJsVlZCeTNZY2E2ZGZXMFpCaXJ5T0Y1b01xTS1udHVlcTlsek1zX0RYQ21LdnFDUXI?oc=5",
-   "data": "2026-10-22T11:10:52+00:00"
+   "titulo": "Sebrae/SC apresenta investimentos de R$ 12 milhões e debate prioridades para a Serra catarinense",
+   "fonte": "bombabomba.com.br",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNb21sbXNOUkZZRTFBUXYzSHBmZ2ZOTjEzUjEwUHNVZFJWaW9KTkZfSWhwVHV1aHQ3WGxXMlBFOUR6d19UVE9haHZjeGxLZW42SEQ2cTlNT3c5M3AwMm5DWkx4MGFCZ3VPd2xUODJ2cnNDUHhRVk9qSGJobER6TWt4M2Y1NkdMVHBZVm5WLXB3eE5XamRFeU1tTjlDTU5XVGtwWkl3YTdNS1YtWnN6SHRwWjk3NGNpR01odEJtLXVJOA?oc=5",
+   "data": "2026-10-22T12:38:00+00:00"
   },
   {
-   "titulo": "REAL11: XP lança ETF com estratégia baseada na Selic e dólar",
-   "fonte": "Investidor10",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNVkdlNWtyX29QblVqeXpqcE9NYXhiWnFHYkpUbS1ldkV6dGVJWlJQb056ODZlVUcxdGhPS2U2NThlRmx5RVk4dWNMQ0pGX1BtSzVQcGNVWTJyVUVpa3FweEJfSGFxNXlxNGZuTzkzSUJNd1JDYVk2T0ctODZNY256eVRGX2RDNkp5Rlp1RDhpTkVCVGMzTFN5aHpQR21jWHFqMmNvOG82TdIBrAFBVV95cUxORkoyWTIzT1NiYlFXRVJtWGVNUU50VURuLVlBMjNGTUs2UFAyd0RXVDlBa2xZYTVBTU5kX0hjMjNkaFRlVU9iUGY5ai15UVNkeGxRaHNDV0JPVVhkTW1nRHd0bHF6Ym1tX0VqR05QMjAzRDBwdTViQlY2VjFpS1FBUzRFM21nV3BSc3BoeGZmdWotRGlwX21lV0ZmUjBBZUlpT240d1ZYWm1vOXRX?oc=5",
-   "data": "2026-10-22T11:05:12+00:00"
+   "titulo": "Sustentabilidade já influencia negócios e investimentos",
+   "fonte": "O GLOBO",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOQW9ZenFxN1N5a1VGTkdfY2tTVjdfeWJRUnJHT195MEQ5MHZpNmdiSlBtNWtZaW9LSHRpM0xRYUZ4ZDFzRTVjX0sxM3lKcXJzdGdCLVFLdUhfX3RCSUZ2eXYtX01TRFh2ZjJSYnYza1NrYS1MdFNNRTFXTVM3N2l5V05SNjJkaDNNXzgxSjZ6ckx3V2l0X3dRX0xJbDMxUnhoWk82ckNqNXcxaXV0SVpLMTcwQnVjcWdEZVBfSW1aWm5CUdIB0AFBVV95cUxNMUVlSGM1WEVPZjRKc25NX1EtVlFJVllxcE1wSWlMOWtoNC13akdCcE9YaWh4c290Q3Q0T2Z1bmdWY2ItdWE1TUM1dXM5N3hCMTJwR2hxS2R4VTJINXRQWlRMM2NaSHdBSWxnZ1dOSzQwSlBHZ1BqRDNabUplb3NvSk1XZUFnUW43QlRTWTA0LVRNMGszczVyMHZ4ekVjUldCZU5nX2E1VnczallRRUU0ejR0TGxxOEJzSF9WLTl1QTdmcUIwU2ZmT0NZS1dsbWdn?oc=5",
+   "data": "2026-10-22T12:35:43+00:00"
   },
   {
-   "titulo": "Ibovespa Hoje Ao Vivo: Confira o que movimenta Bolsa, Dólar e Juros nesta quinta",
-   "fonte": "InfoMoney",
-   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNRjQxcnZURllNYm1odGZpUF9yQXk3MHBZN2lCSGdqdlB3bDRHQUJraDlGN0otcHZRTHBaMklOVlgzUE82QnZUdmJQZ3RRbVA2NVQzZk1fX3BNRThqTVJ2cTBiYS1iLWFBQkUtd2xOd2FOcWd6UzVoejI3RHVYRFFCU1UweUpvR1hNcnlIdWUtaw?oc=5",
-   "data": "2026-10-22T11:00:56+00:00"
+   "titulo": "Dólar sobe a R$ 5,05 com aversão a risco global e expectativa por pesquisa eleitoral Datafolha",
+   "fonte": "BlockTrends",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBHc1BlQlplb1QzVzk5cm15T0RnYzgxMVZrbnp4Xy1FQ0s4UEp5aVFnNW84ZmM3RHJqbkg0aE9SMXEtN3VCN3ZVTWl5TG5ZT2R4YVpmbmtId2J6dXI0MHNlWTlZZkxLTjUzV3VCT05qb1N0eFNqN2RjeFFpOXg?oc=5",
+   "data": "2026-10-22T12:32:24+00:00"
   },
   {
-   "titulo": "Profissionais de tecnologia esperam mais investimentos em IA, mas veem risco para empregos",
-   "fonte": "Valor Econômico",
-   "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOb3p0Q0pqS3c0RGJ0VmM5dW5mVC1hTW94SEV5VVRDMTYxRU5VYzlQbEVOOVZHU1BBdFZmYUhDNU1IQnlTN3lxYzJ1VVgtTmJDdUZSN0lkRGtUaWJfYlY2TDlnSHdDMGtlRUp4Sy1zamVXNjJQNHBNSW1zUnlMTkpyMk9EQVdSU3FYTmd6ZGlSMW4yUXJLOGRSTEV1OVBZTVkwVUUzSWdFMDVLWHFrazdXOUJ3V1ItNVN5NnVQQzdQU1pIbHN0UUV0SGw4bXBKTl9GLVJfWDZyT1pEOGpqb3ktT3pPblM4cmRTMmN0U1I2NnRCbFhtWHcxUzRPMW4wc2dp0gGPAkFVX3lxTE5BY1NsVzJhVS1zVVpOcGZKeThya3lTOHBjOFJnaTV4QlB2bENDZDNwWkJoNHBERTZsTTBMUEt1THpCNXJHSmVoLUFQbWc5ZUhOekRFa1lvVlJYVVdma3UxUmwyclJ1WTBfM1B2NThHdEJRWWZsZldzLVdjZ0tqVHYzcEtWVnBTZzh1bUZmSjZha0hHM1liNzhSamZyckFFU1VpRVUtS3AyT1JBUWlrZjFZUllxeDdIa2dVYVRsWE5hbVQ4d2pvLVJqX3dlb2kyU3hVZUFCMFMxUXBLUzVFWDNIS2lvTVU3bUl6NGRtVkpSeEdIMV8tSnQ1eFUtdWNQQlprM096dUlIdEZFOTZjTm8?oc=5",
-   "data": "2026-10-22T11:00:00+00:00"
+   "titulo": "Ibovespa hoje: eleições e petróleo a US$ 112 ditam o ritmo dos mercados; dólar sobe a R$ 5,04",
+   "fonte": "Estadão",
+   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPVWNXSURtYjFDR3NJaWdhWHBoRjdCT3hFR29DQzYweGRLVDFlaXRzX2Y5LXJmUjlRQUZSR24wTkNDSTlseVVWYm1Vd3ZwUl85Uk9tdk5faTdRLXp6ZU5NODVwOVlIWUZiV2NfVTVpYzZTcUVaMk55Y2xhVGJmMUsyMnFpQzRVbVM5ZEFndExSLXYybFh0dENoNTZzaVdET1JKZl9BVjFuVERVNXpXcXhhS2NWUzcyZU1GLXAzYTE2S2twNUI4aEFDN2pIY0FHbFBJQ2RZalJzY3lYR2t4cnZSSGV30gHnAUFVX3lxTE1JQ1pibGlaTExucGduNno1dVZiTlc5amlVQ3NMRGRPV3lXdC1HNEdwdU92bnZreFFiNjZwZkhuRXZqVTFwWGNjQnctOExOTEtKSUpRa2F2TmNCdi1OU1NiaFo2aVBMY1YxdDR0dVh5aE1IZ01xa0tickE4N2ZYdjlQbS1fRE1ZbXRYV3BHQnlZTjRlOTdaRmc5QlNNa2l0NHJpa3YzMTl6VWw1akJmd1dKNjIzUl9FRTBybko0TU5oamUzNm1DSGt3bkhvS2xTazFZNDNxaVd3blpTQVM0aDZ6MmFNanhKRQ?oc=5",
+   "data": "2026-10-22T12:32:00+00:00"
   },
   {
-   "titulo": "Café com BPM: Datafolha, reunião do CMN e dados dos EUA movimentam o Ibovespa nesta quinta",
-   "fonte": "BPMoney",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPb0xMUkthckNMcUtjVDc0aEFvSDlLbWVOQ0dDeGF6NmVFSWI5aEJFTWs4MVZpazYtYTVRdHhfWVJoaGtuSC1CUzVtSGs2d3ZIakpSMjdHZ0lsVS1XR1hHS3BlTmJEN3JsT2JvSmgzWWVFdDdaQ29RaHg2am5DWkR3aVBfbXhvVWtiZDNXaWFrYUlZZ21HZklJZ0xSWFh2clN3dVg4a096aWc0TWJJeHJGbmRpYWVZMTlLYXJHMQ?oc=5",
-   "data": "2026-10-22T11:00:00+00:00"
+   "titulo": "Carrefour anuncia venda de 22 lojas ao Pátria Investimentos",
+   "fonte": "G1",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNaHZMOGhtcGx3MF8wSTZKVE1ISjJSTHNGa1N1bUVfM3lKYmZ3SFAxVnc5OHlOTTVtMkxVdkRlQ1dKQ1dWUjVhVHVBS3RCZGJ2V0FJRVFxSnM4UWlkN0JtdmtsOV9uUHhNWVR4TUQwbXVKTW5pYTYtbkZtaWRHMVpZSElzLWVvNHFSMlhWVUgwd3Z5cDE2eEUweU9B?oc=5",
+   "data": "2026-10-22T12:30:23+00:00"
   },
   {
-   "titulo": "Defesa Civil anuncia R$ 2 milhões em investimentos para municípios da Grande São Paulo durante treinamento da Operação El Niño",
-   "fonte": "www.agenciasp.sp.gov.br",
-   "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNV1pOLUp5T1JsZVgxeTYtY1QwT1B2aHJxdHNJV2VqV2dfVkxodHF3VDdqUlJoZDliV2toOUp4a0NLck1ldGZDcDVJMXBHRGRBbFhTUTcwcVNPMGNzQ05aWV9KUW1nQVVUSUNrellaM0Vkell2UmhGMlZZLURWSXZDMEhBc1NlYTRIMldKZVYwZk5UWVNhbzZpWEo2XzYwc2llUmNzcG1ieEdnOURHcXNfbXhUbzlBZzdzcUtQQ2pUcHUtU01rZFJqZTdna21MYnJ2cFdzNVZaYmQ3MmVnTExuV1RkUktyU2c1aXEtYlgtOFd6VzhqMHd5ZDlrY1g5M2p1?oc=5",
-   "data": "2026-10-22T10:40:00+00:00"
+   "titulo": "Orçamento de 2027 de Erechim prevê R$ 30 milhões em investimentos",
+   "fonte": "Jornal Bom Dia",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPbjlvUFh2LWtuMGpxUlh3Ujl3Z2ZxdV9oN3FIQnZLbmVvQl9hTlVSSGFTV1VzNWRXX1RxcER0aXU2MTZ2bVQtTzFZcTFLNi1TQUZaeDJOSl9fQ09aYVRydnRsd2lUTW1iTUt3b1Rvc0YwRnBMRThMTENTNGtCMEhZTWJJTDJqRGd3V1BmX3VBZFZ2U0wza19aazM1WDRlcGJOMVFrU25LNEd3RnowVVY4?oc=5",
+   "data": "2026-10-22T12:30:00+00:00"
   },
   {
-   "titulo": "DAY TRADE 22/10/2026 | Abertura de mercado e minicontratos",
-   "fonte": "XP Investimentos",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNbWNhT0VKYkRqX1FkNXA0dXFCX29jSnBXbGJ3bS1rdVdBNUxWZ0k5RVFCeDhiVjVQNDhuU3lYdVJxRnJJVGdidWlOa0Y1ZWdRTTlYd0J1YUpKTFFuY3lYWC1xbjU2YnhOdUdRUVpScFd2bDBZSXFvMlhxZ09jV1pYbEs1QlJ0bWcwZFlfeVJ4bHBFekRJOGZfLVBzNjZjTjNlRGhBd3A0cEtBbTQ2X0Z0RHVYNA?oc=5",
-   "data": "2026-10-22T10:35:41+00:00"
+   "titulo": "Agência de Comunicação - Termômetro Middle Market do ABC Brasil: empresas preservam caixa e recalibram investimentos no atual cenário econômico",
+   "fonte": "Estadão Blue Studio",
+   "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxPOGNmb3htR200Q2dacDFPV3RkWkVpcTh6Um95VWJ0Q1dRYzcwNWFiRkpPUVk0RUduOUtVQ1QwM2JDb0tpU1JydGV1SGRwdHl3VldJR0VYYVV6c3NBNkdoNnlMMlBjQTBwNDY2RTFnSnl0dHJUckE3RVNXSlY4b3UxV3l4aUFkTUxGM0t5ckFXU3NjV05xTTJpUUZHZXpkb2xDa2M2aE9PQlNnTi1ILUFJbUlUR0VVd1ZqclpfNDVpYTlsTjRocWdNMXNxQnJBdTNWNGFZUU5qSUwxUlROZjhRdDM1OHAtMmxfUXRXeUdZWUdseXhFOExUZlJTeElxSFRuSFZvckNCekU5MEFtRHBWY21ma0U?oc=5",
+   "data": "2026-10-22T12:26:34+00:00"
   },
   {
-   "titulo": "Bahia soma R$ 133,6 bilhões em investimentos sociais durante gestão Jerônimo Rodrigues",
-   "fonte": "Classe Politica",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNYm80ejlmV1huSXE3UmVwTHEyWWlRMTZnZV9GNEMwSjFIamk5OWtZbU0yaGR3Y1U1b3Y4ZTExcElOWThWZ1JUc3VIMzg0ZHU1R1dLd0RPNE14bHZBZzhCdEo5RlVOcEdVMWxuejkwZklpc2k2QURFRUdwYUdIMlpEQUhnSnZMZ0xZM3I1cTNSbHhnYUFqOGNDblAxWVBvcm14dnRLVlZhTTNYY1pUNXBGVDdUVjJ6a1Y1ckcxMVBLZw?oc=5",
-   "data": "2026-10-22T10:17:00+00:00"
+   "titulo": "Oportunidade! Abra a conta Nomad e ganhe até 30 mil pontos Azul Fidelidade",
+   "fonte": "Melhores Destinos",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPeTV3bGl4c0tiTkpTZWxMT2d4bVROQzJQLWd4bGdPVUcyX3RyRHZhRm9DT0pfMlpGQ3I0SURseTk5Qko5ZnVmZS1jVnVrWHVMQ2xDamVjMmtwajRPRGl0N01HR1lBLXlsX19RZWdkWVNaY1ZCbHpuQU9rUjJ1Q01IUlc3SVV3UQ?oc=5",
+   "data": "2026-10-22T12:26:00+00:00"
   },
   {
-   "titulo": "Mercado local reage a balanços e nova pesquisa Datafolha; Ibovespa em dólar cai nesta quinta-feira (22)",
-   "fonte": "Money Times",
-   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQVlBEelIyZWRmTjVzdk5tYVZfUUctOVZmeXZvZUd0cXUzS1ZpclNVRjhxNEhyNGJzaUpKSE1SOVNVX1JCQ3A1VEZRQVVvcUdNN2xYc3VmSlZuTkE4QS12cDg0TG85dms2ZHhuNTdCWGg2OTB0LWk3d0l5NmF6eW51aEt6UmJIWTI4OFF0bEZCUGpzNkd6bG1IMGpBaE9vNTRWV2VPNEViVWpENnpRaTRpZHNsVGxTM0NzNGlpNDdBZ3FOSDF0RmNQcGQtdXdyRTYwWmc?oc=5",
-   "data": "2026-10-22T10:17:00+00:00"
+   "titulo": "Governo Jerônimo soma R$ 133,6 bilhões em investimentos sociais na Bahia",
+   "fonte": "Panorama da Bahia",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQUzRrU3pmeEQ2bGhQdkNZRmZXdXM3UmRET216bzk1VHE3STVLQ0RjaERIVjRPa1hqWFJIM2RrLVFWcURnOG8teDYyUmtXdl8zSEFId3JiRlBtcmJQUVFza0pRaXdsVl9tbXlZT0ZDYlpFb185dFdCR1U0cTcxbEt4UnpYZDFERk00Qkg4Y3hkM09tNHg0NHdrSFFaeWlfeldCZE9Ceg?oc=5",
+   "data": "2026-10-22T12:24:00+00:00"
   },
   {
-   "titulo": "O transporte público depois das urnas: a agenda que precisa atravessar governos",
-   "fonte": "Diário do Comércio",
-   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOYVFkcDF0SzRMeTZMZjVuQy1odnNyaXFWVEFLWEZqRnVDUV93TGZManRZSGI2UjRmWmdMMU9QNS16OEx0YkFRaVNpX1dycEhvTE56VlhxbkNJOXpXcmw0SmJlTUh1ekdPSmszODF3UDF5OTRXYWFCNDN1WnFIZmozMTlKZ2IwX3M5b0xaX1RzbWNxaTg?oc=5",
-   "data": "2026-10-22T10:15:00+00:00"
+   "titulo": "A inflação na Nova Zelândia caiu para 3,7% no terceiro trimestre",
+   "fonte": "ADVFN",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPXzB5MzFTd01oRnI0ZVc5LXozRzNwS2hYM081S0xZalFSaXRZaWNuanJfUnlSX2U1SENsZGRNOVlkamFiczZBQ3VoTzJhQ3JSQXlDaWlLUHdTTm5JNXNsMFVsNkg1WWJrSXV2STYzSFRTbzhLZU9Sd1RITzZsZkwyRldpWkxiR3l1MWdDSGo4MlFiTDM5aF8tdU9iU0dPUnBt?oc=5",
+   "data": "2026-10-22T12:23:17+00:00"
   },
   {
-   "titulo": "Ganhar na loteria uma vez por mês? Veja quanto rende o prêmio de R$ 200 milhões da Mega-Sena acumulada",
-   "fonte": "Seu Dinheiro",
-   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNVHF5bW5ZN3pxNi1zU1lKMmJsU2lfTXZkb1VRYzdvLThZN2oxUzJVZmZfc0xXdU95aXFZZVNKUEtKSTJiclVyR2p1SVdCYU9nNzRROEhLSlhFaWpFeC1MZncxOW9RZUczUTlIS0ptb0NKNVg2SjI5TURFUExfQUFuem5EV0xQNzZiSzFPUnBUNkU3R05jMUhwMmdhZ0lSZFhVUnduRDV2d3lBV1A4b3lXN0tjZmRPTGhpVVRLQ0k4eVZOT05DU2JyVUt2YUlibzg?oc=5",
-   "data": "2026-10-22T10:14:00+00:00"
+   "titulo": "Dólar abre em alta, com avanço nos preços do petróleo e na reta final das eleições no Brasil",
+   "fonte": "Expressão Rondônia",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPUGNBYWVSbTNpaElNcjA2d2NXemZ0TnhKUGZzNmJyTXBfSlp1MlM3UHRHX1dDWC1pOHFiMVhqZUc5MFhUaDZvd1dfcXpfWkV5RnI2NXd2eURuN1NyN2c1SlROcGpPMlh1WVRjSlFGQ2hVWnZFaWVtVXZKRUMtMzRZdEJ4U1lzaGE1b2xrc3ZITE5JaG1qd0l4Y2dzeFVKTFJXUWgzTUQxZlBRYWpJdGd4OXZZck5JTl9PdjVTNmlNdWpSaXc?oc=5",
+   "data": "2026-10-22T12:22:18+00:00"
   }
  ]
 }
