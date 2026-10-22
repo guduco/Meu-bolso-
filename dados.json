@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-10-22T06:43:47+00:00",
+ "atualizado": "2026-10-22T07:48:07+00:00",
  "indicadores": {
   "selic": {
    "valor": 13.75,
@@ -16,6 +16,12 @@
  },
  "cotacoes": {},
  "noticias": [
+  {
+   "titulo": "Ibovespa enfrenta novo teste com duas pesquisas eleitorais na reta final do segundo turno",
+   "fonte": "Estadão",
+   "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQa1VDaXNqZ2FiZmlJZnRzTEFBZnUwdkRHVDJKbU9seE1hQno0aXQ0UlFDYWdMTVNMc1ZQWnh5NXN6emVFVVMyaS10Ql93QUUzSHlSMDR2QXBDMFpGYWsyTlU4bVY3OEUwSEFVdTBVUHRoV2QxV3V4dnVpaGNOTFpaQlpCR3ZrSngyQkREb0JqRTllVFNNSHdWV3RBbzBwZVpuZ1BXS2o2SlhyMFpmY1lnMGg0TTRJamhNSTlxMnNVSzRaM05ZTDE5ajVxcGVIXzViUFlVc0JfeDVoNmtNNnFnLWQ2a3JTdXB1VW9GLQ?oc=5",
+   "data": "2026-10-22T07:36:14+00:00"
+  },
   {
    "titulo": "HICL Infrastructure busca aprovação de acionistas para mudanças na política de investimentos",
    "fonte": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
@@ -47,12 +53,6 @@
    "data": "2026-10-22T03:20:00+00:00"
   },
   {
-   "titulo": "Município de Mairi recebe investimentos em infraestrutura, saúde e esporte",
-   "fonte": "Jornal da Mídia",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOOFZSVVF3VzBJUkhMc0RDRGpMcUFRc3BSY2FJVV9xVjA3TTlnRnZjdVMxWnJUT0hxYk9vNG1OYUFIS2hhNHRjUGZ6d2RwYjdVdldmV0gxRS0tT04tOFREdUhpZVBIS0ZzZ09mMEdKeENxNW4wM0xWTUdtaERxT1F3NmtIdW5fLVp0MWdrbDZYYmNaY2VITmUzSE9TaVFwaUpVR1VUZkhNeVVheUcyTjg4aVBxN0U5eVVjc3c?oc=5",
-   "data": "2026-10-22T03:05:28+00:00"
-  },
-  {
    "titulo": "Quanto rende o prêmio de R$ 200 milhões da Mega-Sena na poupança e em outras opções de renda fixa?",
    "fonte": "Valor Investe",
    "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOY2xDR0xKWFh5NnZ6TjdQMWJ6WlhnYzZQNE1IUTN5Wm1BOGlud2R2MHkwQlZKeFV6U3hMeWRfcVdWZ0I4WHJKUHYzdnRRanRRdUt6R2ZwaTdMRFBQbkhWVnFtRnI2ZzdSckJnTXlPemoyYlo3SnpiYWJKamI5elhNc2VfOW91dHAwSXRxeFNfbmc2SzZUR3NmNy04OTFpbzhTVXYyclZYazBLNDBvTFU1S1pmTnJlN0dwV1pKLVJjam9ISDlZbE1feWM0azh0ajZBUFlHVnBTenJabXVmbXBoWThEMm93RnJaRVc1VktGYzQxcktyUFd1OVd1YksxZWJQUkNzTXdJRdIBlgJBVV95cUxOYVQ2eC1MdTRMMUdTbXBlVHRWbkdpOF9FOV9ZS0hBUl95RklTX0huR0doajVjUlY4SW0tVDJETnltejBkYmFpYlZUdVRwUVFSaWpOcXhpaXhlREJubG9SVktFeFhXMUlRZjVrbUxJS3d2U2dqdWNtbVkyemJZVk16cEdpM3d6aW9mTWo5a3dwNGYyWTYwRUF6Und0NmMzeklqNnQzQzNnNzRjdHRSYlp2bU1DeXFhZkRhdWU1NGlTUzZLQkN4UHlWWHBzbUd0STkzcXo0WVRjYnVJSS1VbWFPUmw0TzBXSkVURmVXWWJralVZS3hub2NSNzgzTEdmR1ZLNUxmcnE2RXJjak1WZTRObHo4ZkZCUQ?oc=5",
@@ -71,6 +71,12 @@
    "data": "2026-10-22T02:43:22+00:00"
   },
   {
+   "titulo": "Nikkei do Japão recua, com ações de chips sob pressão devido à cautela com investimentos em IA",
+   "fonte": "TradingView",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBlRTJud18wVDdibzh6RTBPdk9ZWXY4dHVEY2tveTRIWjB2R2djVnNSVG1LZE8yRmE0LTZHMEVNbUM4cnZTLU5xanYyOG5CQ2ZrZ29neDBpT096S0pjSDNSanNjYXBaQ0JBNkYxaUJLbHZnLXJYelNv?oc=5",
+   "data": "2026-10-22T02:17:00+00:00"
+  },
+  {
    "titulo": "Queda das passagens no IPCA não reflete cenário real do segmento aéreo",
    "fonte": "FecomercioSP",
    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPTzA3ckJ6TnRibGNSM05oMXNQRUlFOTZZRmxESmIyd2xqTmNDbnphc2VXSVd4MkMwOFl2dkoxdkVkTjUxXzBOUUk5d3hPMDRseFBfV3gtbGUyRWliV1BCX0JzNExsam80VlJ1cnRtc05kS2JJTF9nanJFSmNxTy0tY1hMVGh0bDA0M1BXQzRvT2hVaVM1MzVURDZpcFp6cEpDSVhVR3BmWQ?oc=5",
@@ -81,12 +87,6 @@
    "fonte": "Brasil 61",
    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPaE1lMEJOUnQxc1lQQmdmLThad3J5azIwNkE0MEFKcFk4dmNjaDFabF9UZnhyNWVDRTBMQTlQUk1XM1FVVUx0NU4tZDM1Ry1CTHBXMUxHQzNRS2lpQTBObnBCbzFxUXkyaTJyS1dNUm1mRnluQ2UyN3Zpakc3OVZha3VlSmszOUpydk03V21XeU5TVGc2T0ZlWtIBmAFBVV95cUxPaE1lMEJOUnQxc1lQQmdmLThad3J5azIwNkE0MEFKcFk4dmNjaDFabF9UZnhyNWVDRTBMQTlQUk1XM1FVVUx0NU4tZDM1Ry1CTHBXMUxHQzNRS2lpQTBObnBCbzFxUXkyaTJyS1dNUm1mRnluQ2UyN3Zpakc3OVZha3VlSmszOUpydk03V21XeU5TVGc2T0ZlWg?oc=5",
    "data": "2026-10-22T01:49:41+00:00"
-  },
-  {
-   "titulo": "Dólar fecha em leve alta após pesquisa eleitoral reduzir diferença entre Flávio Bolsonaro e Lula",
-   "fonte": "Brasil 61",
-   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNWlo3R0xVOF96R1ZXWmNnbXo1eVJVZThMc1lVWU42ejU2NV9MQk9ySHlmUENXR3JqalREYWVGcmxEalhSN2NhX1pKNmlwTE5KYVl5MlJjcU5rbVZVQlg1dExjcE1INVB5N1pqV1N6cFpLeE1SaXh6ODExWTNBNUlSNE5UVXJIdEtSdlhaM3pSQ2t1RVFObnhjcEp6MVBLY2ZNcHRWSU9tcWxBTi1EZWRjb3RzdUxDVl9KR1lLUmh3R0dURTdYZnN2SmxuenQxQmRr0gHQAUFVX3lxTE1aWjdHTFU4X3pHVldaY2dtejV5UlVlOExzWVVZTjZ6NTY1X0xCT3JIeWZQQ1dHcmpqVERhZUZybERqWFI3Y2FfWko2aXBMTkphWXkyUmNxTmttVlVCWDV0TGNwTUg1UHk3WmpXU3pwWkt4TVJpeHo4MTFZM0E1SVI0TlRVckh0S1J2WFozelJDa3VFUU5ueGNwSnoxUEtjZk1wdFZJT21xbEFOLURlZGNvdHN1TENWX0pHWUtSaHdHR1RFN1hmc3ZKbG56dDFCZGs?oc=5",
-   "data": "2026-10-22T01:48:52+00:00"
   }
  ]
 }
