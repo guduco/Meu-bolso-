@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-10-22T07:48:07+00:00",
+ "atualizado": "2026-10-22T08:42:39+00:00",
  "indicadores": {
   "selic": {
    "valor": 13.75,
@@ -17,10 +17,58 @@
  "cotacoes": {},
  "noticias": [
   {
+   "titulo": "PagBank Investimentos: IA nos investimentos: 5 cuidados antes de confiar na resposta da máquina",
+   "fonte": "UOL Economia",
+   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNbzZoQkFJUkpmVU9qNmt1SFk4SV9XbDc3eVRHRjlMRmlmbllwYmJ5S21oQzh2RG5YdUtXaDhJMERGLTc5amwyaTlWUWQxN2dvZ0hIT3g1ZmJXLXVxOF9CTkRVaXBOTURweXlfbnJPamtwSVNySXJTLVlneDIwOUJVUGw3d0pTODlid01UT085eWFOWkVHdUs0ck0tSm5qcXVzaEI0T09mbENfQXpEMHNnSXFqYjR0eEhXMTlPRzVYNDJFVHVXWEE3RGNaQUJDZGF6N2NVRy0yZjBqamZI?oc=5",
+   "data": "2026-10-22T08:37:30+00:00"
+  },
+  {
+   "titulo": "Mega-Sena: quanto R$ 200 milhões rendem todo mês na poupança e no Tesouro",
+   "fonte": "UOL Economia",
+   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOTk9qRVdlWFE3T3NoSndvLTMwNUltV0IwTGdYX1Nad1pRNHp5cWN1YlA1eHp6LWpWYXZERUdmQ1FIdzF0cmp5UmJ5QmNmS0RRVnl5NDYySkV0ZUswbTFmYmx3NEFaRGotbzNKXy1nN2w2RDE0NDR6RWRGa2R2NEN6Q1RlQXlwbXlBZEcwbDFMTDBtZ0JWWDBSc254NXNGWWwtYkQxbWJzSWlEZDdRTXBjRUN0WElqNjFSYWZkRVAxV3g3X2ZBV2tHUGl2VU1xZWoyUFE?oc=5",
+   "data": "2026-10-22T08:30:00+00:00"
+  },
+  {
+   "titulo": "Meta dispara 5% com investimentos em IA a impulsionar receitas",
+   "fonte": "Euronews.com",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNdTlzNTdxZk1tbk9zai13SHg4UzhzdUhZcll0cTJPeHg2R2N0N2FOc2pHbFVMVEU4Y2ZMU0Z6cEJBR1VoNFJ6SkIzaE5tVTVkN0tlUVpadkRmTHEzZjM1dVBIYTRoQTZBQ1JMcTZKNHF4R2dSVWJEcDNtaDdEMjZranhUdGJOYk0tVWFLZ0pZZUJZWUh6ZnROZWlWOVo?oc=5",
+   "data": "2026-10-22T08:19:49+00:00"
+  },
+  {
+   "titulo": "Mega-Sena: quanto rendem R$ 200 milhões na poupança, Tesouro Direto ou CDB",
+   "fonte": "CNN Brasil",
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQU2RBZkstX2pnN3B5ZmtQSDNIVGFha2VxTkt0aHV6RWc2Z2twcGpXQy1lRE0xYktBWnBFeEJMSktTMkFYa3NGemNmUkR4blZEQmdKWHA5aFNFWmxEM2FRblAwRDlRTXhUOHRvUjlqbTBqbVpiME1xeUdEZkhIc005NVFrU2xzd0VqVUR6YUk1eHJaU2lyell5eExWQUlnN2E5cnA5S2JIZEIyb2JIdnZ5LUdzNWVBVHlFRnUzb0tuUWpEYTF1SnpKVTgtX2lSWGJN?oc=5",
+   "data": "2026-10-22T08:05:17+00:00"
+  },
+  {
+   "titulo": "IPCA+ ou prefixado? Como investir no Tesouro Direto às vésperas do 2º turno",
+   "fonte": "InfoMoney",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZHlIaWhYMXROM3YtSDdEd2xJMWlxYWdjVE9Gd0RUQlgzRGljRFFlVHhLX0RPQldPWWhFbjQ1czZNbzBOVGdzb2htZHV5cUQ5THp5SFlSWlo1QWtFYnphb1BNZUcwQUxVLW8wWmt3Ml9YaTAyU1A5RVN2NEpqcG9jckFFQXR0QTlyQTIxZHFuMGpQSnk1TlNvN2l4RG5IbFBLRTRDQ1J3TmZiN1ZXUFJHV21ZOGRERnk30gG-AUFVX3lxTFA0NG1Nd1BqT1YwaEdWUGNfdTlnOGZSbFFVSkhRdzNfRy1tU1p6UlJCcDBwVmlETXppc2ctZlpxbXFDaEF6dUdORmR2SXBxZkVuU3V6MmZaR0wzVVZBUmYyakd1RFhBLWd5cTlHN3hzUjd1R0JZSWtCY1RxNEN5RHZSNmZ4VnpTdGt2am0xYUpuNUZrbFBPZkI0VHVna0xVdm40amZ4X2lWaHVCMzdoMHZxWFNreC1BczhINHh2UUE?oc=5",
+   "data": "2026-10-22T08:00:00+00:00"
+  },
+  {
+   "titulo": "Energia mais barata deve frear prévia da inflação em outubro, apontam projeções",
+   "fonte": "InfoMoney",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPeHp6U1hjMGkxVGxtWHpQclNPdmN2T0lUN3BCVWVTZmg1cmd3UHhFSHNsUHJNcjdXWU1mOUFsWjJjSWg3aDRLQjhBOWdZLWppem5UU29Vdlkxc1Q4enFDdW1MR0xqY3ZSNTJGQm9QaHhieHk5UFE4VWd6bm5aN200SklxV0FOUdIBiwFBVV95cUxPenpGUFJDUGI2MWF2WVdub3pGTm5XZE54QS1hWWtLTGZmd3NpZzBRY083TlpHWTd5VDdPNnFBWVBIQ0p3bkFtbU1nS0VidGp4VnVtdENLbjRTRS1kSERSaW5jVkVtVUJOVEJXcWVOMGlFTWZaSUl5TDJ6NXY4dDg4anFfc1p2SmdKWms4?oc=5",
+   "data": "2026-10-22T08:00:00+00:00"
+  },
+  {
+   "titulo": "Europa: uma taxa de juro, três realidades de inflação desiguais",
+   "fonte": "Euronews.com",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNRnZaSEhLdXBKVWJLSlN1bGZma3BVaF9NRWZoUFlCYTdsYlZhbzVSdVlGUUptcm5NSExUY3EyTFBvQXJyMnFsN1NPUlN1QkZFT09aRUR3ZnczUlJPMzg3UFNnZTdZdHZBcjRLZVh2akp6ZmpUV194ZXY2VGdxZFIyN3AyTU54SklHZzJCQnh3Sjk2ZmZ4YWZka2RVNGs?oc=5",
+   "data": "2026-10-22T07:55:55+00:00"
+  },
+  {
    "titulo": "Ibovespa enfrenta novo teste com duas pesquisas eleitorais na reta final do segundo turno",
    "fonte": "Estadão",
    "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQa1VDaXNqZ2FiZmlJZnRzTEFBZnUwdkRHVDJKbU9seE1hQno0aXQ0UlFDYWdMTVNMc1ZQWnh5NXN6emVFVVMyaS10Ql93QUUzSHlSMDR2QXBDMFpGYWsyTlU4bVY3OEUwSEFVdTBVUHRoV2QxV3V4dnVpaGNOTFpaQlpCR3ZrSngyQkREb0JqRTllVFNNSHdWV3RBbzBwZVpuZ1BXS2o2SlhyMFpmY1lnMGg0TTRJamhNSTlxMnNVSzRaM05ZTDE5ajVxcGVIXzViUFlVc0JfeDVoNmtNNnFnLWQ2a3JTdXB1VW9GLQ?oc=5",
    "data": "2026-10-22T07:36:14+00:00"
+  },
+  {
+   "titulo": "Dólar fecha em alta a R$ 5,0272; Ibovespa cai 0,86% a 206.495 pontos",
+   "fonte": "brasilagro.com.br",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOaUlQNDVjMzJYV2EydGtHUDA1c0ZSZVZhVFNWakNCY1VVSkVSRzNPQlFqLTZsUnpycVlPb3NPZjRCaExNY3VyN01TZjJtdXpHUUtvMW1nTGtqUzRUWDFXVU0xOHVCNURRWENETURzSC05SWY4ZnluTUNVYlJyLTU1eHRxSWpoaXBrM1VXcGJUWjgySHpSMlltMmFyZW1fZ0ZSQmdPTl9xV0xvQQ?oc=5",
+   "data": "2026-10-22T07:35:26+00:00"
   },
   {
    "titulo": "HICL Infrastructure busca aprovação de acionistas para mudanças na política de investimentos",
@@ -39,54 +87,6 @@
    "fonte": "Sapicuá",
    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNSTlDQVZMR0tncXlObjlfLVlxdG41TUNpWktYcDhoZS11Y0hYNndTdWhvUUNMU1NfX3BMLXNFdGVKRWphNFNkVG8tSWw2NG80cDNmdWNmenF6UW9CNHBoMURBWEZQLVFjYlQ2NUw0SkFVUU84WWFuYktzQjhkeHhFZ2xDTk4yeU5YaktUNUNhRXcyUTJWaW0xSVlEVWRocVNQSjRCbmVkQ0V3VW9DUklaclJn?oc=5",
    "data": "2026-10-22T03:41:55+00:00"
-  },
-  {
-   "titulo": "Economia azul abre novas oportunidades para energia renovável, investimentos e desenvolvimento industrial…",
-   "fonte": "Portal Revista Kdea 360",
-   "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPOU1KX18tZHAtTTBTcWtTVnR3MlQ4dHBFdVdUdVU3eGx1VFVIaHJJOHl3WTdBRFFpRTVCZk92QnhKeUlWUVJzZGUzbGZaQ0o0RTBxa210aDBjX25SRW1GcnhmUDIwczZKdTBWRHdwS0t2ODYzdWJVeFQzdlcxcUk1YWdrR01EZW1RYno0STY5VE9aY0EwbV9LM0U0VmNtWWRHR252dy1sakQtVTI0Q3BPR3R2WXFWNnA2cEVCY0ZoUExsa0R5cUF4NDVOblB2aG9fSm94MTNVd1MwWG9XNk5rdHJUMzdreThSWlN5RnB5NEI?oc=5",
-   "data": "2026-10-22T03:29:19+00:00"
-  },
-  {
-   "titulo": "Segurança jurídica e conexões atraem investimentos para a capital paulista",
-   "fonte": "Metrópoles",
-   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1zTm1nT0xKWC1MQnlrMDZXZ1RveVBPSktXdmRjazdVQ3pTWWZBRzkyZWxEZWdYcmVzYlNyRGZHVVp6X0w5VTRjdkNwNjJ0TjZqRXIyaVRBbUItaWhZSm5WYnR5eERDNk96OF91b2tORVBMaUlZZkNN?oc=5",
-   "data": "2026-10-22T03:20:00+00:00"
-  },
-  {
-   "titulo": "Quanto rende o prêmio de R$ 200 milhões da Mega-Sena na poupança e em outras opções de renda fixa?",
-   "fonte": "Valor Investe",
-   "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOY2xDR0xKWFh5NnZ6TjdQMWJ6WlhnYzZQNE1IUTN5Wm1BOGlud2R2MHkwQlZKeFV6U3hMeWRfcVdWZ0I4WHJKUHYzdnRRanRRdUt6R2ZwaTdMRFBQbkhWVnFtRnI2ZzdSckJnTXlPemoyYlo3SnpiYWJKamI5elhNc2VfOW91dHAwSXRxeFNfbmc2SzZUR3NmNy04OTFpbzhTVXYyclZYazBLNDBvTFU1S1pmTnJlN0dwV1pKLVJjam9ISDlZbE1feWM0azh0ajZBUFlHVnBTenJabXVmbXBoWThEMm93RnJaRVc1VktGYzQxcktyUFd1OVd1YksxZWJQUkNzTXdJRdIBlgJBVV95cUxOYVQ2eC1MdTRMMUdTbXBlVHRWbkdpOF9FOV9ZS0hBUl95RklTX0huR0doajVjUlY4SW0tVDJETnltejBkYmFpYlZUdVRwUVFSaWpOcXhpaXhlREJubG9SVktFeFhXMUlRZjVrbUxJS3d2U2dqdWNtbVkyemJZVk16cEdpM3d6aW9mTWo5a3dwNGYyWTYwRUF6Und0NmMzeklqNnQzQzNnNzRjdHRSYlp2bU1DeXFhZkRhdWU1NGlTUzZLQkN4UHlWWHBzbUd0STkzcXo0WVRjYnVJSS1VbWFPUmw0TzBXSkVURmVXWWJralVZS3hub2NSNzgzTEdmR1ZLNUxmcnE2RXJjak1WZTRObHo4ZkZCUQ?oc=5",
-   "data": "2026-10-22T03:00:00+00:00"
-  },
-  {
-   "titulo": "Inflação na Nova Zelândia desacelera mais que o esperado no 3º tri",
-   "fonte": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPTHZRbkVVajlTZm5qV2dRWXNQOEU5MUt3aDBMaEhBWFJTLU80eXp2Z2ZFc0dNbnFzNDdpU0dSMnVfeHF5SUlTVmVlcHBDOTVCNG12Z1dBSGtMZEdYdHd2cVlzdThUT1dfdk5aSXlLZVRJYVo3bEk4Q19wRXU1aXEzdjh5Z18zbXcyYk4zMEFEWWtsYlV0UFVWM2lPUWxwNHNyTGdsdUxnX1Q4ZE5mdXlvRW40eUxiQlBvWXRpV212QjgzQQ?oc=5",
-   "data": "2026-10-22T02:54:00+00:00"
-  },
-  {
-   "titulo": "Disputa eleitoral acirrada eleva busca por proteção cambial e derruba Ibovespa",
-   "fonte": "Brasil Inovador",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQWDAxSUM1cVBNM0ZvVWxyTGJWeG5TaGVlcnFtZlhZWGRMOGdQblpZMERTYjJxekRUMTRoOVZQR195M24xN2F4NFhIRnRkSTNZTmlxUzAxTUtjNXAzZmduLUpyd1M2bUt3YXdHbjVlZEx1aW9RT0JLX0VkVmZwa1VGLU1HRXZiaHhxTGFzUFdrbFBYanVCMGdET09JTDNOVDlnZ1VLbV9qUlgwX3NZTWc?oc=5",
-   "data": "2026-10-22T02:43:22+00:00"
-  },
-  {
-   "titulo": "Nikkei do Japão recua, com ações de chips sob pressão devido à cautela com investimentos em IA",
-   "fonte": "TradingView",
-   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBlRTJud18wVDdibzh6RTBPdk9ZWXY4dHVEY2tveTRIWjB2R2djVnNSVG1LZE8yRmE0LTZHMEVNbUM4cnZTLU5xanYyOG5CQ2ZrZ29neDBpT096S0pjSDNSanNjYXBaQ0JBNkYxaUJLbHZnLXJYelNv?oc=5",
-   "data": "2026-10-22T02:17:00+00:00"
-  },
-  {
-   "titulo": "Queda das passagens no IPCA não reflete cenário real do segmento aéreo",
-   "fonte": "FecomercioSP",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPTzA3ckJ6TnRibGNSM05oMXNQRUlFOTZZRmxESmIyd2xqTmNDbnphc2VXSVd4MkMwOFl2dkoxdkVkTjUxXzBOUUk5d3hPMDRseFBfV3gtbGUyRWliV1BCX0JzNExsam80VlJ1cnRtc05kS2JJTF9nanJFSmNxTy0tY1hMVGh0bDA0M1BXQzRvT2hVaVM1MzVURDZpcFp6cEpDSVhVR3BmWQ?oc=5",
-   "data": "2026-10-22T02:12:27+00:00"
-  },
-  {
-   "titulo": "Ibovespa recua 0,92% e encerra o dia aos 206.379 pontos",
-   "fonte": "Brasil 61",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPaE1lMEJOUnQxc1lQQmdmLThad3J5azIwNkE0MEFKcFk4dmNjaDFabF9UZnhyNWVDRTBMQTlQUk1XM1FVVUx0NU4tZDM1Ry1CTHBXMUxHQzNRS2lpQTBObnBCbzFxUXkyaTJyS1dNUm1mRnluQ2UyN3Zpakc3OVZha3VlSmszOUpydk03V21XeU5TVGc2T0ZlWtIBmAFBVV95cUxPaE1lMEJOUnQxc1lQQmdmLThad3J5azIwNkE0MEFKcFk4dmNjaDFabF9UZnhyNWVDRTBMQTlQUk1XM1FVVUx0NU4tZDM1Ry1CTHBXMUxHQzNRS2lpQTBObnBCbzFxUXkyaTJyS1dNUm1mRnluQ2UyN3Zpakc3OVZha3VlSmszOUpydk03V21XeU5TVGc2T0ZlWg?oc=5",
-   "data": "2026-10-22T01:49:41+00:00"
   }
  ]
 }
