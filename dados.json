@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-10-22T10:36:53+00:00",
+ "atualizado": "2026-10-22T11:37:25+00:00",
  "indicadores": {
   "selic": {
    "valor": 13.75,
@@ -17,10 +17,52 @@
  "cotacoes": {},
  "noticias": [
   {
-   "titulo": "Revisar e atualizar a lista de projetos de atração de investimentos para o período de 2026 a 2030.",
-   "fonte": "Vietnam.vn",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNMWNYcHB3cnhEa2FhOElZMVY1anBHYmNxOWxEaEpQU3ZwN2dONHVjTUw0b0xCbnRnc3lZLXJNbnFNVU9YQ3hWcmFoYkE4dk45Qlg0U2gwb2xPSHBvWWdjbXJkMVl1R2ZrbEwyRVI0N0xnVDBYeDNEWTc5SThMejlsUVdkYWdLd1RmeXpKb1gxeVZzdV90RXhBSWFoelotUDJXU1U0Ug?oc=5",
-   "data": "2026-10-22T10:22:54+00:00"
+   "titulo": "Setor privado deve liderar investimentos em infraestrutura na América Latina em 2027",
+   "fonte": "BNamericas",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNbnB0SGdOM1Q4c045OGN1UENLUEpBemktZXE1NU5pRThTc0pDYWVvZzlmY2dHbGRaS0x6Z0gwU05fNUlNbkkzbnBrYzNFeXFKeU1KdDFTcVN6cHE3OFlINnlaaHFvdTFVV1hyLWRLaFotQWtpM09Oa2xqb1Z5ekV1cWVKSW9fRlB6YVFYTzRvXzNCLVktemMxY1ZZRmJrTHE1MUY5bmRpRFhfNkpoNVVveEp1UUF2N0FTLVVhQkY3cw?oc=5",
+   "data": "2026-10-22T11:10:53+00:00"
+  },
+  {
+   "titulo": "Datafolha, ferrovias, dólar, Ibovespa, mais agenda e pílulas da economia 22.10",
+   "fonte": "GZH",
+   "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxORFc2eGxEamFJZC14NjRiWlE1ZG5FTDV4M1NXYWdoZFZ3SVpENkNRamZNaTR5b250dXBoQUxGU1Z6RF9DUmJQclYtSE9LbnNQazVSNUNvMjk0YlBDTkZicDVEUmdMbzNUMUF2Q0kwZTk1eTZaZ0pmbXVDam9GdU8tS1BQQmNiVF93NmF5Nm96YVpJaEd4SmdPM29ENjhnWEhzdkJEc0Vpd1FhVHdrZ05xT254R00tVkZLbW1pQzhBa2lMcDd4aGxPaXBIQVFkcHl6TEc5QnM1SHJsVlZCeTNZY2E2ZGZXMFpCaXJ5T0Y1b01xTS1udHVlcTlsek1zX0RYQ21LdnFDUXI?oc=5",
+   "data": "2026-10-22T11:10:52+00:00"
+  },
+  {
+   "titulo": "REAL11: XP lança ETF com estratégia baseada na Selic e dólar",
+   "fonte": "Investidor10",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNVkdlNWtyX29QblVqeXpqcE9NYXhiWnFHYkpUbS1ldkV6dGVJWlJQb056ODZlVUcxdGhPS2U2NThlRmx5RVk4dWNMQ0pGX1BtSzVQcGNVWTJyVUVpa3FweEJfSGFxNXlxNGZuTzkzSUJNd1JDYVk2T0ctODZNY256eVRGX2RDNkp5Rlp1RDhpTkVCVGMzTFN5aHpQR21jWHFqMmNvOG82TdIBrAFBVV95cUxORkoyWTIzT1NiYlFXRVJtWGVNUU50VURuLVlBMjNGTUs2UFAyd0RXVDlBa2xZYTVBTU5kX0hjMjNkaFRlVU9iUGY5ai15UVNkeGxRaHNDV0JPVVhkTW1nRHd0bHF6Ym1tX0VqR05QMjAzRDBwdTViQlY2VjFpS1FBUzRFM21nV3BSc3BoeGZmdWotRGlwX21lV0ZmUjBBZUlpT240d1ZYWm1vOXRX?oc=5",
+   "data": "2026-10-22T11:05:12+00:00"
+  },
+  {
+   "titulo": "Ibovespa Hoje Ao Vivo: Confira o que movimenta Bolsa, Dólar e Juros nesta quinta",
+   "fonte": "InfoMoney",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNRjQxcnZURllNYm1odGZpUF9yQXk3MHBZN2lCSGdqdlB3bDRHQUJraDlGN0otcHZRTHBaMklOVlgzUE82QnZUdmJQZ3RRbVA2NVQzZk1fX3BNRThqTVJ2cTBiYS1iLWFBQkUtd2xOd2FOcWd6UzVoejI3RHVYRFFCU1UweUpvR1hNcnlIdWUtaw?oc=5",
+   "data": "2026-10-22T11:00:56+00:00"
+  },
+  {
+   "titulo": "Profissionais de tecnologia esperam mais investimentos em IA, mas veem risco para empregos",
+   "fonte": "Valor Econômico",
+   "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOb3p0Q0pqS3c0RGJ0VmM5dW5mVC1hTW94SEV5VVRDMTYxRU5VYzlQbEVOOVZHU1BBdFZmYUhDNU1IQnlTN3lxYzJ1VVgtTmJDdUZSN0lkRGtUaWJfYlY2TDlnSHdDMGtlRUp4Sy1zamVXNjJQNHBNSW1zUnlMTkpyMk9EQVdSU3FYTmd6ZGlSMW4yUXJLOGRSTEV1OVBZTVkwVUUzSWdFMDVLWHFrazdXOUJ3V1ItNVN5NnVQQzdQU1pIbHN0UUV0SGw4bXBKTl9GLVJfWDZyT1pEOGpqb3ktT3pPblM4cmRTMmN0U1I2NnRCbFhtWHcxUzRPMW4wc2dp0gGPAkFVX3lxTE5BY1NsVzJhVS1zVVpOcGZKeThya3lTOHBjOFJnaTV4QlB2bENDZDNwWkJoNHBERTZsTTBMUEt1THpCNXJHSmVoLUFQbWc5ZUhOekRFa1lvVlJYVVdma3UxUmwyclJ1WTBfM1B2NThHdEJRWWZsZldzLVdjZ0tqVHYzcEtWVnBTZzh1bUZmSjZha0hHM1liNzhSamZyckFFU1VpRVUtS3AyT1JBUWlrZjFZUllxeDdIa2dVYVRsWE5hbVQ4d2pvLVJqX3dlb2kyU3hVZUFCMFMxUXBLUzVFWDNIS2lvTVU3bUl6NGRtVkpSeEdIMV8tSnQ1eFUtdWNQQlprM096dUlIdEZFOTZjTm8?oc=5",
+   "data": "2026-10-22T11:00:00+00:00"
+  },
+  {
+   "titulo": "Café com BPM: Datafolha, reunião do CMN e dados dos EUA movimentam o Ibovespa nesta quinta",
+   "fonte": "BPMoney",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPb0xMUkthckNMcUtjVDc0aEFvSDlLbWVOQ0dDeGF6NmVFSWI5aEJFTWs4MVZpazYtYTVRdHhfWVJoaGtuSC1CUzVtSGs2d3ZIakpSMjdHZ0lsVS1XR1hHS3BlTmJEN3JsT2JvSmgzWWVFdDdaQ29RaHg2am5DWkR3aVBfbXhvVWtiZDNXaWFrYUlZZ21HZklJZ0xSWFh2clN3dVg4a096aWc0TWJJeHJGbmRpYWVZMTlLYXJHMQ?oc=5",
+   "data": "2026-10-22T11:00:00+00:00"
+  },
+  {
+   "titulo": "Defesa Civil anuncia R$ 2 milhões em investimentos para municípios da Grande São Paulo durante treinamento da Operação El Niño",
+   "fonte": "www.agenciasp.sp.gov.br",
+   "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNV1pOLUp5T1JsZVgxeTYtY1QwT1B2aHJxdHNJV2VqV2dfVkxodHF3VDdqUlJoZDliV2toOUp4a0NLck1ldGZDcDVJMXBHRGRBbFhTUTcwcVNPMGNzQ05aWV9KUW1nQVVUSUNrellaM0Vkell2UmhGMlZZLURWSXZDMEhBc1NlYTRIMldKZVYwZk5UWVNhbzZpWEo2XzYwc2llUmNzcG1ieEdnOURHcXNfbXhUbzlBZzdzcUtQQ2pUcHUtU01rZFJqZTdna21MYnJ2cFdzNVZaYmQ3MmVnTExuV1RkUktyU2c1aXEtYlgtOFd6VzhqMHd5ZDlrY1g5M2p1?oc=5",
+   "data": "2026-10-22T10:40:00+00:00"
+  },
+  {
+   "titulo": "DAY TRADE 22/10/2026 | Abertura de mercado e minicontratos",
+   "fonte": "XP Investimentos",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNbWNhT0VKYkRqX1FkNXA0dXFCX29jSnBXbGJ3bS1rdVdBNUxWZ0k5RVFCeDhiVjVQNDhuU3lYdVJxRnJJVGdidWlOa0Y1ZWdRTTlYd0J1YUpKTFFuY3lYWC1xbjU2YnhOdUdRUVpScFd2bDBZSXFvMlhxZ09jV1pYbEs1QlJ0bWcwZFlfeVJ4bHBFekRJOGZfLVBzNjZjTjNlRGhBd3A0cEtBbTQ2X0Z0RHVYNA?oc=5",
+   "data": "2026-10-22T10:35:41+00:00"
   },
   {
    "titulo": "Bahia soma R$ 133,6 bilhões em investimentos sociais durante gestão Jerônimo Rodrigues",
@@ -45,48 +87,6 @@
    "fonte": "Seu Dinheiro",
    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNVHF5bW5ZN3pxNi1zU1lKMmJsU2lfTXZkb1VRYzdvLThZN2oxUzJVZmZfc0xXdU95aXFZZVNKUEtKSTJiclVyR2p1SVdCYU9nNzRROEhLSlhFaWpFeC1MZncxOW9RZUczUTlIS0ptb0NKNVg2SjI5TURFUExfQUFuem5EV0xQNzZiSzFPUnBUNkU3R05jMUhwMmdhZ0lSZFhVUnduRDV2d3lBV1A4b3lXN0tjZmRPTGhpVVRLQ0k4eVZOT05DU2JyVUt2YUlibzg?oc=5",
    "data": "2026-10-22T10:14:00+00:00"
-  },
-  {
-   "titulo": "Minidólar (WDOX26): veja suportes e resistências para esta quinta-feira",
-   "fonte": "InfoMoney",
-   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQSkdLSXd0V241MkM1WV9kMUl1d0ZvcjNDd0RLMUVTOVJJYm1yY3FpY091anlzSGVzekFXczVZVks5eWlwd0NPMUtnOFNTUHNyMDZ6Z0NkNnRJUVh3TG13Yk0zNVpqZ2VGMkM0T1U3aEVadzRZakxmTWdSWTJfTHhra25tSGF5MVc5TTh3VNIBkwFBVV95cUxQTl9PUFRKYnNHSlUwamJtcW83N3hZcWY1NzlRMmFESVh6WlBUTWJXazE0bkY0OXlHWW1QMUFOMm9qSFVPaGdqd1NsTE9EUkxUVTU1OURJcGF6ZzR2MXM3d1Q0OThTeGZFbmdZMUhGcU1IdG00U2R4STBHaEVzTndpMDlHNjAyQ3l4Qm95NUo1Q1Q5M1U?oc=5",
-   "data": "2026-10-22T10:11:00+00:00"
-  },
-  {
-   "titulo": "Ibovespa bate recorde após 1º turno, mas 8 ações caem; veja quais e por quê",
-   "fonte": "Exame",
-   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOcXRmTU1lYV81eEQ4VkVtRDhHc0pSUWZhZTZzeC1Gc1lFYU1KM0JVUld0ajRBeDNRMmNBVXZfaG1vNy1IeENvcEFaNFBsM0Z3YWFlQU1kSFBMb0VRYm9JTk1QR3F6ajNiVldXUVZMai1hWjJxWWktMTg3NDlGMU4xZmFR?oc=5",
-   "data": "2026-10-22T10:08:23+00:00"
-  },
-  {
-   "titulo": "Portos perdem investimentos no Brasil com defasagem na análise de projetos, alertam executivas",
-   "fonte": "A Tribuna",
-   "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPRXpFbjd1b3hHdHRHNnRzVWZjTXh5alhwSmRyTmFBajMtUF8yTjNmcEVpdFlST2JleTkzelVRSGdHU0pYUi1SazE5UWNDd0swenNWUEU3WVZvd3lsZzJ4SkFZck5sV0dhQkJsbUk1QnRDdTZRNlRFSHMyWEx1c1kwYUZqb2Z4Vlcwa3VmdXBIYl9KRHhSazlMdks4THVvMVFtUG9Ga3llVlJhc042eUZtc29oOUNUbXZiMldLdGU2R0hRSm1mMUhtWV9tNFBxVDdrdGsxUXZ2QWI1Qkp1ZzBpb0htRnUwNER4QXNVeg?oc=5",
-   "data": "2026-10-22T10:06:00+00:00"
-  },
-  {
-   "titulo": "Day Trade hoje (22): Ibovespa recua; veja os próximos suportes e resistências",
-   "fonte": "InfoMoney",
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxObUwxekFac1FfZEJ1bHNEaDBOVXN3RlRSREdJY1dpQ19vNDRzclQ1YkRMWFh4OVhhTmM5dzkzRGlzVFptLS1qYUV2bWJpT1VvUkNQOGJGeUZJdnFoX3RuSEtCSW8wVHBQV2dvbFBDTlpLUjdScHlMRnlhS0hwVWkzQnpyV0YtT3dh0gGOAUFVX3lxTE43SGxEZUdQOFpoRjV4Z2d3YnJGQmttWlNpODdVSEduaWlXZXZkMWJCMGEzREFZRk5nSmFhUlpqTENYc0Ixa1p5RDdPWTdWOXNvbTltX1VEYWZfanJCUXdfMmd0alpxLXRjRnMyOU5JZDZYbkp2LWkxWmVXQUtOYW4xZG1SblNvTlBfZ21aYmc?oc=5",
-   "data": "2026-10-22T10:03:00+00:00"
-  },
-  {
-   "titulo": "PagBank Investimentos: IA nos investimentos: 5 cuidados antes de confiar na resposta da máquina",
-   "fonte": "UOL Economia",
-   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNbzZoQkFJUkpmVU9qNmt1SFk4SV9XbDc3eVRHRjlMRmlmbllwYmJ5S21oQzh2RG5YdUtXaDhJMERGLTc5amwyaTlWUWQxN2dvZ0hIT3g1ZmJXLXVxOF9CTkRVaXBOTURweXlfbnJPamtwSVNySXJTLVlneDIwOUJVUGw3d0pTODlid01UT085eWFOWkVHdUs0ck0tSm5qcXVzaEI0T09mbENfQXpEMHNnSXFqYjR0eEhXMTlPRzVYNDJFVHVXWEE3RGNaQUJDZGF6N2NVRy0yZjBqamZI?oc=5",
-   "data": "2026-10-22T10:02:44+00:00"
-  },
-  {
-   "titulo": "Ibovespa B3 recua 0,86%, com eleição no radar, e dólar vai a R$ 5,02",
-   "fonte": "Rádio Guaíba",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOYVFUb3BfazhoNjJmZEdQR09lRDdMMUtOakEtQ1dXNDJQR3ZmazU5TVdhZjhGR1JPckpUMVpMZ19OMlBLRkd3eHpUSFd3Y3I5MEN3eFNCTlByMzFkSmowZDlhUzdFd2RraVdWbzB4MEZsbWJJbG0teEpsTjdzMzVlTlFhREpiZ2hobUhpS2Fn?oc=5",
-   "data": "2026-10-22T10:00:00+00:00"
-  },
-  {
-   "titulo": "Dólar sobe a R$ 5,027 e Bolsa cai com pesquisa",
-   "fonte": "Acia Araçatuba",
-   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1nM1FoRlAzWTQxWllaUEpaTVVBVWV6ajVzWWJiMVNDd1ozSEF5Wlg4aHQxNjlVVFJVX3VQcnhRWVlDaFdyWERfcjNxaXFWNXVBa1d6ZDItYUFiME9JYWpWbWhsd1lDOE0?oc=5",
-   "data": "2026-10-22T09:34:48+00:00"
   }
  ]
 }
