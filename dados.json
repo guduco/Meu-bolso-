@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-10-23T03:36:08+00:00",
+ "atualizado": "2026-10-23T04:35:36+00:00",
  "indicadores": {
   "selic": {
    "valor": 13.75,
@@ -16,6 +16,12 @@
  },
  "cotacoes": {},
  "noticias": [
+  {
+   "titulo": "EUA propõem regras mais rígidas para investimentos em tecnologia chinesa",
+   "fonte": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPMDJKWkJQNk5hamF3MnJWVkFSWk9Kak90NHNCU3k5YWFkY2MwSkpTNUNxN2huY3hXV01hQlVlNW1nc28ydk1GRVNETnhJTjZFTjJkSkZvZ3B2Q2h6QVlWRGxPb0tQTGw5cExqTmtfdmtud2NTeE5jcE1vbERSN3NyNG4tVVFoLXVKQ3liUnIyei1tLXkzZWJSeFc0NnNxQkw1bmo5aExJc0tiLW9jelpQc3I3UjVfWWtQZ1dGZEtzNndSLUZxZXNKcXdEZ1hYZw?oc=5",
+   "data": "2026-10-23T03:41:00+00:00"
+  },
   {
    "titulo": "Tendências 23/10/2026 | das principais ações da Bolsa",
    "fonte": "XP Investimentos",
@@ -41,10 +47,22 @@
    "data": "2026-10-23T01:13:58+00:00"
   },
   {
+   "titulo": "OpenAI, a startup que criou o ChatGPT, já vale mais de US$ 1 trilhão antes de IPO",
+   "fonte": "Investidor10",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNQlJVd09fUll0Nl9yX0lPcjVjNGlSLUkwX2NMaXVpLXEtaWxsbHZhaEY0RXF5dks5MmYxdTFDZl95V0FDRUhJLVVvcVRPaFlDVG9oS0tSNkluUzdWRmluOXhaRXdWMGtpM0Q2TWhQTmVsS1MzNFBCRUY4OHEzTnNjUUZQamJETVZ4cTBHX3BzcWh6TDNKcGVMY085ZnF4dGdNc05rTGNuanhlRTl0b3ZjZmV4TDFCNEVXWVBWNjVfd2FzVElyT2fSAcYBQVVfeXFMTUJSVXdPX1JZdDZfcl9JT3I1YzRpUi1JMF9jTGl1aS1xLWlsbGx2YWhGNEVxeXZLOTJmMXUxQ2ZfeVdBQ0VISS1Vb3FUT2hZQ1RvaEtLUjZJblM3VkZpbjl4WkV3VjBraTNENk1oUE5lbEtTMzRQQkVGODhxM05zY1FGUGpiRE1WeHEwR19wc3FoekwzSnBlTGNPOWZxeHRnTXNOa0xjbmp4ZUU5dG92Y2ZleEwxQjRFV1lQVjY1X3dhc1RJck9n?oc=5",
+   "data": "2026-10-23T00:57:00+00:00"
+  },
+  {
    "titulo": "Taesa (TAEE11) paga R$ 23,6 milhões em renda fixa acima da Selic; veja simulação",
    "fonte": "Investidor10",
    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNRVZVcTVNd3lBLWluSEU0eF9vZnBDWm4wM2pCbmFMZDQzZ1FnX0JzbThQNkJmZURmU2toV3piN1ZYMGc1V0lOckFUaXJibTBhMU1VSjl1M0twaWZQU01lbGFyWTk3RmVoV2hUbmpsVE1SNlpxaDNMWkpIcjJCOUVVSzJNbGFoSDdIWUF2dlNkU3pwV194TWRnaTdFVTJlcTVpMUJlWVI1MnRWUnF3aUZNNGsyeGlCZ012S2xYWWFSS1JGZHfSAcMBQVVfeXFMTUVWVXE1TXd5QS1pbkhFNHhfb2ZwQ1puMDNqQm5hTGQ0M2dRZ19Cc204UDZCZmVEZlNraFd6YjdWWDBnNVdJTnJBVGlyYm0wYTFNVUo5dTNLcGlmUFNNZWxhclk5N0ZlaFdoVG5qbFRNUjZacWgzTFpKSHIyQjlFVUsyTWxhaEg3SFlBdnZTZFN6cFdfeE1kZ2k3RVUyZXE1aTFCZVlSNTJ0VlJxd2lGTTRrMnhpQmdNdktsWFlhUktSRmR3?oc=5",
    "data": "2026-10-23T00:16:00+00:00"
+  },
+  {
+   "titulo": "Dólar fecha com leve alta; Bolsa cai mais de 1% com eleição e exterior",
+   "fonte": "UOL Economia",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQUlBMcVZDckpNdGVSM2VEdUxCbFJhSlBYWjdZdTExTlBKRjVmWTNnSHRYdEVwQy1SVjlBdkJmR20wVnE0REZ6WkwtdVNxdXZLZVlmdTRhNURlNFhPVHZBS2ZTOVR5WDJRZkw4bGlYZ0xIRXV5bFlqcVpCeW1RVzRvMThwNktJTEhOQkN5eXpKTDBWN3VHZkFKM2M1aGwzYTliZ1lKMlRNbFhuanFzMjhKMV9mcncwdWM4WVNlYmkwX0k?oc=5",
+   "data": "2026-10-23T00:10:22+00:00"
   },
   {
    "titulo": "Ibovespa recua 1,15% com queda da Vale e cenário externo negativo",
@@ -69,24 +87,6 @@
    "fonte": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
    "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPWlQ0N3VqTlNfNmUyQ0lOanRuYm5SLU9CZ1BNeF9HWEpjMTBOckFuaWNSaXVtcVp5RWw5MkFaTzhuRll3dzJYZ1R6QlVYS0VteVRUcmZ3V2ZCOVhYZHN5eC1Pc3Njc3JlWG1SWndNNWVZUWxEbV9xTVZ5ZjVWNUJlb3VUYng2Q25kOHdnUUNrQkIwZWhGa0F4M285M1lBTUs4RXVPUzYwLUhYQmNYTGxYYUJQcllaUlh2VDVJU0tzX2F0UnJRRXRRRFVhZjJYRXhJbXc?oc=5",
    "data": "2026-10-22T23:49:00+00:00"
-  },
-  {
-   "titulo": "Aquino promete buscar recursos com fundo de investimentos se eleito no Inter: \"Fluxo de caixa mais aliviado\"",
-   "fonte": "GZH",
-   "link": "https://news.google.com/rss/articles/CBMipgJBVV95cUxOS2Y3VWp2aEx3RXNpd3NCVzJDUzFrLUdhbXdCam9OTElLVm9xT182bmJWak1aMmVBVGFuMndySkJNTVQzRTdQNmRtanZOX0dmS1VlNkFneGl0VkF6LWQtVzRtdHF3WTFNcmdSYnF3bjNwbTU3ZnpjUkt2eGtHXzhfME1pQ2puUjEtVXpVaU9iX19faFNWQlowUVVYV0lORkNIcFZURm9RS0ZkUWgwNVc4YkFBVWo4NU00TjRHYzZ2cjg3cnp1dVZCN01Pa3d5clRnZUZLTkpuUFAzcmxaT2g1SVZVekxvaHE4Uk1EMDE1S0h2ZmtkWmVZSHhKbzNWOU5lUWtldlBmUXdNWWRUWVdGVS1Nc3pTTWgtSHFJZXZjUFFIT1VXa3c?oc=5",
-   "data": "2026-10-22T23:39:27+00:00"
-  },
-  {
-   "titulo": "Análise: Newcastle, petróleo e eleições precificam mercado financeiro",
-   "fonte": "CNN Brasil",
-   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPNEtGeFA1S3c5X2YzaDQ3eFk2Ty1WeDJEZ0xoUWE0aXBGb3NWNV9LbHVvdVZZaXhXOGY2eUtqRm9XTDNOaFdYM1pIenZic3pyZ1BDOGloNEN6bWRyZDM4Vmt4V2VWaHRERVlxNjYyNFJDX3lpQ2djZWYycmVoeTEzdHZ3OGZOTzZ5Y0VPWF9QRnFHOW5fWG42cnUxMVhrSUtGbnZQc0ZmbTF2QzdPdUlmWHFpUml1VDVqQlhncGYwY0JBbVRBTTd1WnF6ZUZyc1ZSR0hndw?oc=5",
-   "data": "2026-10-22T23:32:29+00:00"
-  },
-  {
-   "titulo": "Dólar sobe 0,23% e fecha cotado a R$ 5,04",
-   "fonte": "Brasil 61",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1KOGNORDhjSU5hYkZaVC12QlNvRnA2X3I3bThGbUlPc1RXVTFEaWF3cUt1Tkw1cTdNMlZFV05paERPblZnQTIySmMzbi1rVHNWd1hnenhMQXVfdzM2UGM0SGVodUhLSHBlYXhJM25sNW40dXNzc2MxWlBsckF5UzTSAYQBQVVfeXFMTk94eTNOeENFWWlfYXI0NU56b2VfRENaVEd0MGNOaEpmM3dVbEs4b19OUG9UaEE2d2pWakd5bTRBTUcyS0llMmlnb215WXhCbGpjQnlUM05ETEhYUWozNmFMNC02NjJWZmRPVWYyVGZiTG5UR1E2aEJmZHRzSHJYNUZzYXEz?oc=5",
-   "data": "2026-10-22T23:30:00+00:00"
   }
  ]
 }
