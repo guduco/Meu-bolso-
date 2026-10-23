@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-10-23T08:38:46+00:00",
+ "atualizado": "2026-10-23T09:36:54+00:00",
  "indicadores": {
   "selic": {
    "valor": 13.75,
@@ -16,6 +16,48 @@
  },
  "cotacoes": {},
  "noticias": [
+  {
+   "titulo": "Agenda econômica: o que pode mexer com a Bolsa e o dólar nesta sexta-feira (23)",
+   "fonte": "Money Times",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNb09GSy0tVDA5ZlFtaE9DM0hkTUJJeDgwUGgxa1RVY0s3TXdiYXZjUVY5cHlqOTNRdmE3WjE4RzAzWTVaUnJXNG95eENES19BOU5qSVZSYktabllkOTk1bTBnT1ZpVXBfOFpjdHM3Y1FjbHRUUG1VX1JwNUl0MGNHZzdRaEs4RjYxcjdpcS0ybVRyUGs?oc=5",
+   "data": "2026-10-23T09:30:00+00:00"
+  },
+  {
+   "titulo": "Eleições, debate na Globo, IPCA-15 e mais destaques desta sexta",
+   "fonte": "InfoMoney",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQRHp4OXRZdmI2RXd6S3dBTkpfaWR6MEs5S0NSLVVFUFBQd01CT196dzV3WUhzWGZoLUVWbDFRWTEzaWRIM3QxOGp4N2Q0RE81Y2RwbkplN1hZU1FlaFhTcE50d0pPU3dUcms5bnNzS1VVVGxQZWV1bHlxSm9GbXVBem01RU96SVQtVDRKU9IBkgFBVV95cUxPNXNSWlVvWGNJVlVfWWszeEVHMjl6dzhWVkVCWVp5ZmNVY3JWdjg3c2U4bmthQ0NKeFFueHdGOGJHZ0lZcjNJd2lJanlsR1UtNmlmM0VodHBHVHdYaUg4a0ZUUjVUcFNhQjNGVEZXc3hMMjZrVE1Zal9icXBTcFFWbWt4MzlEelFjUTEtSEtZNUUxQQ?oc=5",
+   "data": "2026-10-23T09:20:48+00:00"
+  },
+  {
+   "titulo": "Expectativas de inflação na zona do euro sobem para 3,1%",
+   "fonte": "Valor Econômico",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOdG9vcHQtQzQ1ZEE1ZUswa2dXNjdScVVJai1NVDZaZWRTSjZVMHY4VVlSN2VOb3pyZG9wcnc0bEk4ZWFRTzhBNXBkLUlQTmx2MllVRXF6VHJmQ1hsU01vVVM4ckJ4Zk1meDR3NnE0NVBsUjgtZ3dLTXBxVEMtY1NYY3ZjMGdia1FkRFU5dnowTUhFMTE0MGxoTkhYS3FmMjZPU3VmaktlclltZml6eWpqaVNRTEc0R0JSWDJSMU91eFNNSF820gHTAUFVX3lxTFBqNUVkRzFseTA3VU40N3hIb2lYemNVeWFtTHRmNDQwZ1hzQ0FFdkpkR3FBUGZicERMOVZ5MklqWDVLSE1iQUxaUHZSQWFXanNDNms5eEhhMzc0U0pRS1ZIWlltN3h3UzBaeExYTHJKNE9DOGRmMEh5dW9NZGlIOHo3Uml3dlVnMGE1U3hZUTRJZ0U3UXN6Yml5RnpCbWpoTW1ReVhFVC1KNGRVRmFqM05hWUF5TV9xX0FjbDctT3dqTDNYZmg5VnMwRFJzWmYyQjFfcGc?oc=5",
+   "data": "2026-10-23T09:17:26+00:00"
+  },
+  {
+   "titulo": "Saiba quais indicadores e balanços saem nesta 6ª feira",
+   "fonte": "Poder360",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQdGxiNDVwTkNkbE5YbWlGMlNwcm1OdVZGRXlubDM5TkpockFFUWQ1dkNVLUVNNHdPRzhIY1dTZ3FJWGxqQU1rT1B3RFQ0RkFUQXdTQUlBN0ZsazVkZXNsVjMtZVlkVlo1MF9ZZmVnTEk5T19pWDNkYjR2RTdtTnI3dGZ1SG5fdkJIRGlmbHhMMlpZS2NOOGYtcWpxRnR3S2F6VU9N?oc=5",
+   "data": "2026-10-23T09:04:30+00:00"
+  },
+  {
+   "titulo": "O que aconteceu com a Bolsa e dólar após o segundo turno, nas últimas eleições?",
+   "fonte": "InfoMoney",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNOUxxXzZEdnByNDNmWGJWYnZSbUdDbkxVUlJZeURGM1hfY2tKODNWcnVCVW0tdVgwZ2hVd2JrTnRjN1V2RWR4TWg4OF9nQ3VESC1HV0FkZ1RuMFc4SW9FNFJCV3hLRDkxOXhvUkkwTGVYYTdpSWh0QUZtVldoOVVfY1lDeFpYSTlEOG5INTdUemI4TmkzbUVVT1R3S2FYb0JDbFVSczVPTEtQaXlXWHdwOTBXSEg5VmvSAbwBQVVfeXFMTWt0TjdublNmV1FRTG9WX0MtZDBwMmdNTkVGRTFkdUh5d25Ja1NzNGZWcHEwUnJZT19WWFR0MmdldTNTSk94QjRzNEdyY2xqWTB5UWR0Q0hGQWF0QTI4cVA0dmdpaHpNUDc0T0JsNjRCU1Q3ZS1qbjJZYnctYzRQTzFGZnBkQ0dNaU1NYXhhbkpDTmdKZEN3REZ5Tld4NGlqQm5PdVFTT0xqVXB0V2N3TFFqaFFRWDYzSEQzalU?oc=5",
+   "data": "2026-10-23T09:00:00+00:00"
+  },
+  {
+   "titulo": "Tempo real: Ibovespa acompanha IPCA-15 às vésperas do 2º turno",
+   "fonte": "Money Times",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0yemU3VmxiN3hzcnljTUE3MEFXTVVhc3ZjT3RSRWE5MXJfMkNkOU9IbUtxbk4wc183Rl81X0lTUmNKSkFlcTB6S0NkQnlvQlBtYzJHMU10b2xWSjRkLXJzeEYzSjFlWW9xcUNIQw?oc=5",
+   "data": "2026-10-23T09:00:00+00:00"
+  },
+  {
+   "titulo": "HSBC lança stablecoin atrelada ao dólar de Hong Kong para pagamentos de varejo",
+   "fonte": "TradingView",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBfSVJMRmZGMXhTTVJZenV5UlFZaHI3Ti1LVTY0R01zYXFjUWNxZWloeE11MEJXU29YeTBxa0luU1V6N01zRm12dVo3d0N4UGtvQ1FzdGpiTHNSN3JNQmVUdGhLYzNCdmtsMTlfYzhrSQ?oc=5",
+   "data": "2026-10-23T08:47:34+00:00"
+  },
   {
    "titulo": "Últimas pesquisas antes do 2° turno, debate na Globo e IPCA-15: o que move os mercados",
    "fonte": "Exame",
@@ -45,48 +87,6 @@
    "fonte": "Estadão",
    "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNbWRLcmZ2RzBUTHhFOW4yN19ZQkRzMVlCUnRMSkh3RG5weXVNYUpkUkhZWW9VMHhXNlQ4R0k1SGc5UlNHc2FoWFdEdHdsOEx5X2h2UVM1WC03OHhGWG1WZHlzVDBUSVluY3YxNU03bG43VS1BTWxmd29CNGhSUlI2SGZJSjdiOVJ1OTd6cWJRQ0RGYTFKTGdDVzNhRktFemhhenMxRC1fSjh1NjhvMm43VGt1bzlTbEpWN1pNWXh0NFRldzhYWW1yY3lVS2ZQdjQ0M3Jfd3haNmlJd0NBV1pDa21jelVva0FsdDQ0?oc=5",
    "data": "2026-10-23T07:30:44+00:00"
-  },
-  {
-   "titulo": "Tomate desafia padrão histórico de preços e surpreende na inflação de 2026",
-   "fonte": "CNN Brasil",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNb3pFUHA3dFM1R3c5TGNBYUNMSmxoVG4tcTBUc2lCTEZ3aDJQWEw3Y1AxcWt2bE5NNFpmb3NJZzZuZ3ZnTDlKN2wzeUNja2Z5ODVvNVVwQmlYOVpPdGVaM0ctQW4temlFMmR1aU1FdlFYYWZSNEEzbDBGaERYMHFmSk9XZXdxeXdKRmFNTUdfelpXRmdJakZoc25COFFqR2pMUThITXN6N1lXSHhCMmc?oc=5",
-   "data": "2026-10-23T07:30:10+00:00"
-  },
-  {
-   "titulo": "'Avisa o chefe, por favor' Do CDB de 140% do CDI ao gabinete de Lula: o caminho do dinheiro no escândalo do Master",
-   "fonte": "Ultima Hora Online",
-   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOQ256cDVhTmcwWFFzemU4NWU3Q2w3bWlfVUk4YU5Zc29YbFZGOS16dUNDd1RSMmQ3bksxMmplT2ZaTnMzS25fcUlMLVRtTHpTczlwellKc1NRa0psR0NBS1dSbHdlOXE2bTNpaVUxLTRPbFVUMjEtLWZjcE5mb0szQms3YVRGNURoZnBhLXBZcGZMbTZNNzJ1Z2NCaHN1eThNcENIdndhVUkzeEpFUWRUaVJZN2ExVng3VGtVNU1oU3U3b0ZnQk9wcVdmRjFSbmd3ZEtXNUhONkpzUXNhZmI4RFBwVFRQTUhv?oc=5",
-   "data": "2026-10-23T04:51:06+00:00"
-  },
-  {
-   "titulo": "Por que a inflação pode ser a ruína de Trump com as eleições de meio de mandato",
-   "fonte": "Bloomberg Línea Brasil",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOb3Q3QjRJTDVYbExDOWNXOTVoMkJZajlwR1Nhbzczd1hLZkpOOXVhaTAzaDllX1RhT0JoS2hYanJvMU9vTFJNQ2NWNzBneG1xOXV0NnFPUTdUdlEwc1FYLTBha29XdXpYbUpzVkZuU2pOUmE3VGZXZUNuNEZNZHNpQWU0QXJZTFgxRnhtd2dvbmsyZDgwbHNmbWhGenVWbWFHdTR0VkI2ajVPTzZEc0kxLThVUFQySXhzMlYwQWtqQ0d2RWPSAdcBQVVfeXFMTmdXUmNCUUxQUUt5RmgwdDR5WkF2MG5LZXNyRU90VWJHN2lNc1VyalJlUWlTODI3UjQteFh4Vmc1ckFjdlZNelAyQTRLeGo5a1RfMGdTelBMUllkbVByTDVXUnFaRnBDRmkxdjgtcG9JMFBNdlFEN0FTVXlIYWYyMk82WTdKMjZiOFdIY1U4SEs3NVBURlBfbWFCd3B1dW81NGN4STlRbE1RVlhaU0k3QUo3X21pNy1iajFqbHVsUDdzeC1kUzI0MlIxUi1rdF9iY2hiODdkOVU?oc=5",
-   "data": "2026-10-23T03:56:02+00:00"
-  },
-  {
-   "titulo": "EUA propõem regras mais rígidas para investimentos em tecnologia chinesa",
-   "fonte": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
-   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPMDJKWkJQNk5hamF3MnJWVkFSWk9Kak90NHNCU3k5YWFkY2MwSkpTNUNxN2huY3hXV01hQlVlNW1nc28ydk1GRVNETnhJTjZFTjJkSkZvZ3B2Q2h6QVlWRGxPb0tQTGw5cExqTmtfdmtud2NTeE5jcE1vbERSN3NyNG4tVVFoLXVKQ3liUnIyei1tLXkzZWJSeFc0NnNxQkw1bmo5aExJc0tiLW9jelpQc3I3UjVfWWtQZ1dGZEtzNndSLUZxZXNKcXdEZ1hYZw?oc=5",
-   "data": "2026-10-23T03:41:00+00:00"
-  },
-  {
-   "titulo": "Tendências 23/10/2026 | das principais ações da Bolsa",
-   "fonte": "XP Investimentos",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPLVc0X3VOdE1qeDBEWDlhTDB3NWxFVnA1QmF0Si1Hd2lqeTlhcnM3WVFxVnFMb3h1XzF2SjdTTHg2b0twbXFDckFKa1NqWjFWcnAzSjNOd1hOY3NHcnR3d0NNU09iZUZMNTJvcGhNY2IxREZOZEsycU5meVJPeWVnRWJvRHZfb205SUNMbnlkUlQ2VUU5M2ZUOENFT0g4U1RMSTZ0U1VGUEwzbUxK?oc=5",
-   "data": "2026-10-23T03:08:38+00:00"
-  },
-  {
-   "titulo": "Clientes relatam perdas milionárias após plataforma de investimentos sair do ar; polícia apura suspeita de pirâmide no RS",
-   "fonte": "G1",
-   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNM0FhLVFna1FGaHJ6WWFtaTV3NzNpLV9zazFPQS1CSHVhbGNFd3pxWUVmc1VXZGdfWjItcE04WUs5UUR0YklBQmtfY2thZThGVnlXTnJGWG5RdklHMzJOa2RZYUR0ZUt3QmlnSHpvakQ0UHZlTEE3SDl6ODYtRGVTTHE0cTVMZ0FMUDNwUmxpT1N0VFM5Q0hXdzBqWGRLd1M1T2R0MXFyb0xkclpwcFNaZ1loX2NIc0lZMVhvN25tZmViODNUc0FzdVA3SkdnTW9fUy1ZLWVPY9IB5gFBVV95cUxNdzF4dXBuS0JKZURIWG04YUEtVTVQQnowdnJtVElKdlA0VC1rWEEwVURfYmxXRnhLUFRrS0VvMmVLVTlGS3B6RnhwX085RGNtU2lGaHh4QU43Qk9mSnhwRkFXVFF3TGU0b01LWEFPeU1KRDBta1lHMG1PSC1wdXU3RXpkcnJPWWtRaFJpVVhnZm8wQ2F4NU1zMlNtaHJQa0tDSTFTWVN0Y1FTQ2xjTjdZTlFzVmFTZTF0eDl4LUNYQ3ViX21MLV9STzQtNjJQWWZ3amVGd293bTFhMF9UYWNLVEZQM2tLUQ?oc=5",
-   "data": "2026-10-23T03:00:00+00:00"
-  },
-  {
-   "titulo": "Anunciados investimentos e ações emergenciais para melhorar o tráfego nas rodovias do Vale do Ivinhema",
-   "fonte": "viamorena",
-   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOV1d6cno4NnRJTVpVTXNsc21GR1M1MUhKbU12VDJ2dnMxMWo5V0sxcVFEMlg1M0dKaWxKMnZ3M3o5dHBGcXNRMHNFTnQ1RGhqQVlIQTNnNElVZ0pXWGNBQkw2bmpjZkx6N1JtVlJQZnoxN1drU2VKRVByVjVUU0QzbllvSWRQaXlIMVdDanFnaW8xdndtTWY4WkVOLVlIOUV1WXh0WVdnLW90YlRsXzdZYl9tN3pmWFFjeUNrcmxPMEE1RGx5SE1mXzJ4NlAtQmtZM3NTQWZNMUhlY2xENE81LWpB?oc=5",
-   "data": "2026-10-23T02:49:44+00:00"
   }
  ]
 }
