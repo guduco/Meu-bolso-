@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-10-23T00:47:48+00:00",
+ "atualizado": "2026-10-23T01:42:32+00:00",
  "indicadores": {
   "selic": {
    "valor": 13.75,
@@ -17,10 +17,28 @@
  "cotacoes": {},
  "noticias": [
   {
+   "titulo": "Dólar avança a R$ 5,038 e Ibovespa recua antes do segundo turno",
+   "fonte": "Vero Notícias",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOZ2VzU1N1MkM5UTRSNG5JRnNxbWplclNvU1ZqRk5pcEtPZksyNVN2MGw2aFQ4ekdOSHlxSTUtWi1vVWJVZk1GbmNTbmpqUWFwekdhaGFtOXRUeXBIdzFjZVl4SndWT3FkaHZYMmN5TnQ1S3pLTFhsVUVmOTFyT3F2WnRoZVJVbTZqOGgwRmhTOF9QWEhINGJSNVg0alc?oc=5",
+   "data": "2026-10-23T01:15:00+00:00"
+  },
+  {
+   "titulo": "FIFA anuncia Mundial de Clubes Feminino em 2028 e amplia investimentos na modalidade",
+   "fonte": "Radio Grenal",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxONzR4Rm1zVmdkMU9SZEZtZlNrMEw4VWFYZ0pVNHVINWZPd09OMHd3cXBsU0lYZlp3T1JoNGlYdm42YnRpVmlBaUFNaDkxSk1QRDJIcEVGenZoOUl4TnlOQ3U0UVNfdW03RFlvbzJ0amFtY3pRZ2syYWlOY3BuOUxPTkp1REMzR2lfYmFlTEhQTG9ETXQ4cmQ5R3Zub2dXQndXb0Nqa0xPTWptMGFiaFc1Ry1MblMtclk?oc=5",
+   "data": "2026-10-23T01:13:58+00:00"
+  },
+  {
    "titulo": "Mesa Redonda Ministerial Debate Mobilização de Investimentos em Ecologia para uma Economia Mundial Resiliente e Inclusiva",
    "fonte": "RADAR DIGITAL BRASÍLIA",
    "link": "https://news.google.com/rss/articles/CBMinAJBVV95cUxQenNUbjdHY1hSX0EwVnNFcFY2eVpVekpqVmdFXzJnU0hsRnM5Y3dxVDJxSXA0d0lULTR2bjdpbGd0VERpbVFYNXh4eHdWYnpMR3lqeDByeU5VR2VxdldBNEctTng1Mk9INWR4d1IyLVVNamJraGtIdllZQ3hsR1VIOWdPUUNhNkZqTUxhNlR4Mkw4OTFqRHJfb01TMkstT08tTFZGX1pQUlRKeDIyV3J0enk2YzNJSC1jMHdiZXo4bC1rb2ZUaWdydm81cC1ERHBuSjdDaVpUTHpiNUVEMGhhbUg2T2s2Wlk0NHVZSmdqa3oxQ1hUdjA3VFNIRFBXX2FJSF9GSVlqQkd0WUpsNXNwWVQ1OHN3QlRLODVaLQ?oc=5",
    "data": "2026-10-22T23:59:42+00:00"
+  },
+  {
+   "titulo": "Tesouro dos EUA suspende restrições a investimentos ligados à Venezuela",
+   "fonte": "CNN Brasil",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNQ1hHeXBaTVc0TWlpY1d2ajhWTnptNjJxM002MXk0QlFia0ZWaEZ3Y2tXcW5UMm92aFhrbkwwYnNVRHZDcE5ZRkJCck8wV0hDNjZTcERDeVRidXppLUphOFBGSDZiSk5GSDV3akhjODlxZVJ6OGVZa3FITkw5LWxEOTBLZS1mdmpmcDFFNGhPRFVrMGVDYmpVUmV5RzZNMEJpM2FxeTVzbk5iVjI1d1NGdlJrWk9MVXlRM05EaEdIVl9lb295dXJkam1n?oc=5",
+   "data": "2026-10-22T23:52:55+00:00"
   },
   {
    "titulo": "Inflação do Japão atinge maior nível em 9 meses e supera meta do banco central",
@@ -47,6 +65,12 @@
    "data": "2026-10-22T23:25:06+00:00"
   },
   {
+   "titulo": "Dólar fecha em alta a R$ 5,0383 e Ibovespa cai 1,15%",
+   "fonte": "Campo Grande News",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQM29XS3NfdW41dW1pU09KOWlKbUR2MGtWMGtXZGtGWGE5eW14ZElKRDRoak03SWZNTWM5cElmZ05ocjE4WFRWTTFTSVFrLS1vNHBGek5RQ0NQV00tb1FBUW9tc2d0LW1jV2puckN6cmx1cnBlVUZSbUZvUl9ycVFuS3NXbGNxUXRrSWhud3JmQm1jZGR0SkJUcmtTVU5QRG40M01OSkJlT3lBQ1NWMmfSAa4BQVVfeXFMTXdoSlZQUzd2Tk80M1ktdnFzSDdkZXRfbnM2NkJrYmRvaFMwWEFiWERqTXYwdTVuOXFaVlNYRGNXdG56djU1ejBGZkFYV0xaUDRxX0E4UElMQXJpaGpELVJUXzByZHZ6NUZ2NHZZdXBKZm5lYk1USTMtU0I3R3BscEU3eXBXTGtUd2lxNnNLak9YX3FwRERrRkpsRnUxbWtNYUFPdjQwcmFOeWpGdVd3?oc=5",
+   "data": "2026-10-22T23:19:00+00:00"
+  },
+  {
    "titulo": "Ibovespa perde mais de 2 mil pontos; Vale (VALE3) despenca 4% e bancos ampliam queda",
    "fonte": "Suno - Investimentos Inteligentes",
    "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQX1QwTHZqNXNHaXNIMDZNYjdCSzdEWHdrdzVyZXE2VW5CRm9xamZWNmU4azItWFd3RU5DVjRkZ3E1ZHJYVFFMZ0xPZm9uQzBac2twZDAtdHhxazhXS3ZMTHVTQXUydDhqYzFjSlpya09iTHlBT19BZDdRdW0zMFd1aE5n0gGHAUFVX3lxTE1VcFJZZV9GRWtWc3lkTzM0QWY5aGRhZnVwQUpzNmNoc1N3b1lhZUJDNzVLbERLT2dKN2JYV3l6SmpNOXZzMTItQzZTQWZxQWtOdWJyT2FMOTFDTVpUUVFjUUpHb0hPVVVrMDZ0eGY0Mk01UXAtdXg2ZzNKUWt6R0JILVlLd3Bwaw?oc=5",
@@ -63,30 +87,6 @@
    "fonte": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOc2JzWUhFa1BLMEZzaDZWMFFLWFZCTXJxWDEyMmZ5YmdENGVhdDNDckZZRjNhVk5ZSVdWQmFobkRoMk5HbkJIUlZ6eEI5XzRmeC1pckx0c205V3Z2cUItVTlaQ05FRC1lSXd6N3RYRXJlR1V3ZXUzNV8wZmh4YVh1V3lVYl81NzA?oc=5",
    "data": "2026-10-22T23:06:00+00:00"
-  },
-  {
-   "titulo": "Dólar à vista fecha em alta de 0,22%, a R$ 5,0384, com exterior ruim e eleição no radar",
-   "fonte": "EuQueroInvestir",
-   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9CakFtSGlkZk9XanBUcXhIQ0swdm82X0oyc0RMYnBTTTFyX1lOVEx1WlRsUFZfVXlwOWhvZmg5LVFMemtEdW85VGJWV3R3dE1seDhIUzY1bGRRWWJxaVBTWDBrQ3puZS01RlhDYkNPWGFrNTY2Y09DVDk0aHhTdw?oc=5",
-   "data": "2026-10-22T23:04:43+00:00"
-  },
-  {
-   "titulo": "Secretário de Habitação de Fortaleza diz que reeleição de Lula é essencial para manter investimentos no setor",
-   "fonte": "OpiniãoCE",
-   "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNWGtQRko2Z0x0cElFbmVERlVZQThyTHRjQ1czdlNVMFpzbXhCRk9mblBVSmt1MElmVU13eDBJTkMxMWNPOXRhcnNXRmRoNmtESXg4TEdWSHBWZVZtOFZtTmRWMHgySnNHV3AxTWlZUFFlZzQ4SzI0Qy1wNUtVN3VEZ3VDSHpRYTBzZXlxUjB6OFNrM09ZNzFEVXhnQ3dqTTFwakxpYUNfc2Y1RThva3VIcW54YW5kZkVPenZobndYTElHYnk3R18zQ19Ec3pIRWs3WjI2U3o4Wk9ic0VOSEJMMWd3enJGbmlRT1ByaUlYQVc?oc=5",
-   "data": "2026-10-22T22:57:48+00:00"
-  },
-  {
-   "titulo": "O que são juros futuros e como eles afetam seu bolso",
-   "fonte": "Folha de S.Paulo",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNb3k4SWxQZXhNek5BSjExRW1jVFZwcll4ZHFmbXdUVW9VWmhqLVNFOHJBbWdWbk5IZ0pmeUw3QU9YdzZwWDV4SFc0cWJHX0hfMGdQNExLOUpFdHBfaFJXdzBVZTdWUDhaNWFxNjBzSUpPeVJuYmUwQUNReG9tTUYzVUhjYUc2UzlEOFdmOTRXb3puTlRtUkZuLXJyUk96VjBHWXlSa2tEZ0NxLURjSVZsRg?oc=5",
-   "data": "2026-10-22T22:39:24+00:00"
-  },
-  {
-   "titulo": "Sem Maduro, Venezuela deixa lista americana de restrições a investimentos",
-   "fonte": "R7",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPVWdEZk80LXhUOERxVEFqelhNUHVZXzdHNXVucGx3S2lLS01vN2cyWnFWODA2RjVmOXBmTkREaml2eXFlOGlCc0l0TTFubG5IWHZQUloxSUFqNTRhNVhqa1JUX1dIdTctMzIwQld1MWZvT2w4T1ZTNTI4X0JTSGJYVEYtV2F4a3F6dU1PLTA2by1weWV2czh0d2I0d2dhNnhobGNDa2tUMXlQdWU2RXRtdmdBNkpHZw?oc=5",
-   "data": "2026-10-22T22:04:42+00:00"
   }
  ]
 }
