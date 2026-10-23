@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-10-23T01:42:32+00:00",
+ "atualizado": "2026-10-23T02:35:20+00:00",
  "indicadores": {
   "selic": {
    "valor": 13.75,
@@ -17,6 +17,12 @@
  "cotacoes": {},
  "noticias": [
   {
+   "titulo": "Tesouro dos EUA retira Venezuela da lista de países sujeitos a restrições de investimentos",
+   "fonte": "Folha de S.Paulo",
+   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNX1ZNdV9KY3hzQmtvWEIyUGFJa01pV0UyMjhFdHZEdzVWWWE3dnZCc1hiLVlkWWRlVFhUdDBGa29jbjNuYkxxNkF0YXZudWZqOUVxZUlRR3VQS3k0bXRvdmFIX09aVjhSUDJPVmdGYTFDQWdrdG9pTU9UWWcycEdIMkI3YkpJWmh4QUN6OVhSM25KYnd5bEVzMkh2Nm1qWGJPUWRRRDJacDYwT2xtSVRxNzF3REtZSnM2TGpETjQ2WDNaZ1NXMVY3a2FFMkZIbVF4TmNNSERmSk1fZw?oc=5",
+   "data": "2026-10-23T02:00:00+00:00"
+  },
+  {
    "titulo": "Dólar avança a R$ 5,038 e Ibovespa recua antes do segundo turno",
    "fonte": "Vero Notícias",
    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOZ2VzU1N1MkM5UTRSNG5JRnNxbWplclNvU1ZqRk5pcEtPZksyNVN2MGw2aFQ4ekdOSHlxSTUtWi1vVWJVZk1GbmNTbmpqUWFwekdhaGFtOXRUeXBIdzFjZVl4SndWT3FkaHZYMmN5TnQ1S3pLTFhsVUVmOTFyT3F2WnRoZVJVbTZqOGgwRmhTOF9QWEhINGJSNVg0alc?oc=5",
@@ -27,6 +33,18 @@
    "fonte": "Radio Grenal",
    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxONzR4Rm1zVmdkMU9SZEZtZlNrMEw4VWFYZ0pVNHVINWZPd09OMHd3cXBsU0lYZlp3T1JoNGlYdm42YnRpVmlBaUFNaDkxSk1QRDJIcEVGenZoOUl4TnlOQ3U0UVNfdW03RFlvbzJ0amFtY3pRZ2syYWlOY3BuOUxPTkp1REMzR2lfYmFlTEhQTG9ETXQ4cmQ5R3Zub2dXQndXb0Nqa0xPTWptMGFiaFc1Ry1MblMtclk?oc=5",
    "data": "2026-10-23T01:13:58+00:00"
+  },
+  {
+   "titulo": "Taesa (TAEE11) paga R$ 23,6 milhões em renda fixa acima da Selic; veja simulação",
+   "fonte": "Investidor10",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNRVZVcTVNd3lBLWluSEU0eF9vZnBDWm4wM2pCbmFMZDQzZ1FnX0JzbThQNkJmZURmU2toV3piN1ZYMGc1V0lOckFUaXJibTBhMU1VSjl1M0twaWZQU01lbGFyWTk3RmVoV2hUbmpsVE1SNlpxaDNMWkpIcjJCOUVVSzJNbGFoSDdIWUF2dlNkU3pwV194TWRnaTdFVTJlcTVpMUJlWVI1MnRWUnF3aUZNNGsyeGlCZ012S2xYWWFSS1JGZHfSAcMBQVVfeXFMTUVWVXE1TXd5QS1pbkhFNHhfb2ZwQ1puMDNqQm5hTGQ0M2dRZ19Cc204UDZCZmVEZlNraFd6YjdWWDBnNVdJTnJBVGlyYm0wYTFNVUo5dTNLcGlmUFNNZWxhclk5N0ZlaFdoVG5qbFRNUjZacWgzTFpKSHIyQjlFVUsyTWxhaEg3SFlBdnZTZFN6cFdfeE1kZ2k3RVUyZXE1aTFCZVlSNTJ0VlJxd2lGTTRrMnhpQmdNdktsWFlhUktSRmR3?oc=5",
+   "data": "2026-10-23T00:16:00+00:00"
+  },
+  {
+   "titulo": "Ibovespa recua 1,15% com queda da Vale e cenário externo negativo",
+   "fonte": "Brasil 61",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZ1RjNGJaaW1ySlRKYXNiRkpNaDRwaHlSaEMzemZCQlAzVFc0S0g1RHVtRXdrOGthUlp0d0FmSHZQSVA0bVRoNVo3VXdpRk9jckR6dnpzQnZWN3o0MC0yR3o0NGpXazVEY1BTSDFBMUpYVFlBX1FFWVFfQnM0U1dQX3F4TjFBQUZSa1FOX2pvX2NJRlRnSFNFYzJNOVB6TnY30gGmAUFVX3lxTE1leVJEQ0NiU1RyMWdFVVpXNzctU0VTcl9qbFBnZWJ0eFVKY3VvcUhWV2NxanlSbFlIbjhQYTRPV1R5YUdmb2RHSWlsd0Y1MktJdWxqekVlNmx3TFR6MU9jTHpxbWswN1A2cjdvczNfUkxJMnp4dEFlZzFEN0t6UFVSMWhNVXg1UlZJXzlZYnl2VHEwU2Q0QTh4MHdhWjR0QXo1Ul9UZUE?oc=5",
+   "data": "2026-10-23T00:00:00+00:00"
   },
   {
    "titulo": "Mesa Redonda Ministerial Debate Mobilização de Investimentos em Ecologia para uma Economia Mundial Resiliente e Inclusiva",
@@ -59,34 +77,16 @@
    "data": "2026-10-22T23:32:29+00:00"
   },
   {
+   "titulo": "Dólar sobe 0,23% e fecha cotado a R$ 5,04",
+   "fonte": "Brasil 61",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1KOGNORDhjSU5hYkZaVC12QlNvRnA2X3I3bThGbUlPc1RXVTFEaWF3cUt1Tkw1cTdNMlZFV05paERPblZnQTIySmMzbi1rVHNWd1hnenhMQXVfdzM2UGM0SGVodUhLSHBlYXhJM25sNW40dXNzc2MxWlBsckF5UzTSAYQBQVVfeXFMTk94eTNOeENFWWlfYXI0NU56b2VfRENaVEd0MGNOaEpmM3dVbEs4b19OUG9UaEE2d2pWakd5bTRBTUcyS0llMmlnb215WXhCbGpjQnlUM05ETEhYUWozNmFMNC02NjJWZmRPVWYyVGZiTG5UR1E2aEJmZHRzSHJYNUZzYXEz?oc=5",
+   "data": "2026-10-22T23:30:00+00:00"
+  },
+  {
    "titulo": "Ibovespa cai com Vale e dólar sobe em dia de aversão ao risco e cautela eleitoral",
    "fonte": "TradingView",
    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9uaTRFZDJwYzJUejFpTm5lUzJ4QXp0R0h6YTFpdk4wR2Z1Ml9aVWZyX3h6dXkzRlI4dFlFVndEY3I5VTJWT19pcU5TMkd0d3JsYnROSWxZdlNtMUUyVXJkYjJ5ZDRFRlBld0xZQkM2ODVrUk1QYzIw?oc=5",
    "data": "2026-10-22T23:25:06+00:00"
-  },
-  {
-   "titulo": "Dólar fecha em alta a R$ 5,0383 e Ibovespa cai 1,15%",
-   "fonte": "Campo Grande News",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQM29XS3NfdW41dW1pU09KOWlKbUR2MGtWMGtXZGtGWGE5eW14ZElKRDRoak03SWZNTWM5cElmZ05ocjE4WFRWTTFTSVFrLS1vNHBGek5RQ0NQV00tb1FBUW9tc2d0LW1jV2puckN6cmx1cnBlVUZSbUZvUl9ycVFuS3NXbGNxUXRrSWhud3JmQm1jZGR0SkJUcmtTVU5QRG40M01OSkJlT3lBQ1NWMmfSAa4BQVVfeXFMTXdoSlZQUzd2Tk80M1ktdnFzSDdkZXRfbnM2NkJrYmRvaFMwWEFiWERqTXYwdTVuOXFaVlNYRGNXdG56djU1ejBGZkFYV0xaUDRxX0E4UElMQXJpaGpELVJUXzByZHZ6NUZ2NHZZdXBKZm5lYk1USTMtU0I3R3BscEU3eXBXTGtUd2lxNnNLak9YX3FwRERrRkpsRnUxbWtNYUFPdjQwcmFOeWpGdVd3?oc=5",
-   "data": "2026-10-22T23:19:00+00:00"
-  },
-  {
-   "titulo": "Ibovespa perde mais de 2 mil pontos; Vale (VALE3) despenca 4% e bancos ampliam queda",
-   "fonte": "Suno - Investimentos Inteligentes",
-   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQX1QwTHZqNXNHaXNIMDZNYjdCSzdEWHdrdzVyZXE2VW5CRm9xamZWNmU4azItWFd3RU5DVjRkZ3E1ZHJYVFFMZ0xPZm9uQzBac2twZDAtdHhxazhXS3ZMTHVTQXUydDhqYzFjSlpya09iTHlBT19BZDdRdW0zMFd1aE5n0gGHAUFVX3lxTE1VcFJZZV9GRWtWc3lkTzM0QWY5aGRhZnVwQUpzNmNoc1N3b1lhZUJDNzVLbERLT2dKN2JYV3l6SmpNOXZzMTItQzZTQWZxQWtOdWJyT2FMOTFDTVpUUVFjUUpHb0hPVVVrMDZ0eGY0Mk01UXAtdXg2ZzNKUWt6R0JILVlLd3Bwaw?oc=5",
-   "data": "2026-10-22T23:15:04+00:00"
-  },
-  {
-   "titulo": "Dólar fecha com leve alta; Bolsa cai mais de 1% com eleição e exterior",
-   "fonte": "UOL Economia",
-   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQUlBMcVZDckpNdGVSM2VEdUxCbFJhSlBYWjdZdTExTlBKRjVmWTNnSHRYdEVwQy1SVjlBdkJmR20wVnE0REZ6WkwtdVNxdXZLZVlmdTRhNURlNFhPVHZBS2ZTOVR5WDJRZkw4bGlYZ0xIRXV5bFlqcVpCeW1RVzRvMThwNktJTEhOQkN5eXpKTDBWN3VHZkFKM2M1aGwzYTliZ1lKMlRNbFhuanFzMjhKMV9mcncwdWM4WVNlYmkwX0k?oc=5",
-   "data": "2026-10-22T23:13:26+00:00"
-  },
-  {
-   "titulo": "IBOVESPA fecha hoje com queda de 1,15%",
-   "fonte": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOc2JzWUhFa1BLMEZzaDZWMFFLWFZCTXJxWDEyMmZ5YmdENGVhdDNDckZZRjNhVk5ZSVdWQmFobkRoMk5HbkJIUlZ6eEI5XzRmeC1pckx0c205V3Z2cUItVTlaQ05FRC1lSXd6N3RYRXJlR1V3ZXUzNV8wZmh4YVh1V3lVYl81NzA?oc=5",
-   "data": "2026-10-22T23:06:00+00:00"
   }
  ]
 }
