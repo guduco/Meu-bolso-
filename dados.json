@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-10-23T04:35:36+00:00",
+ "atualizado": "2026-10-23T05:35:00+00:00",
  "indicadores": {
   "selic": {
    "valor": 13.75,
@@ -17,10 +17,28 @@
  "cotacoes": {},
  "noticias": [
   {
+   "titulo": "'Avisa o chefe, por favor' Do CDB de 140% do CDI ao gabinete de Lula: o caminho do dinheiro no escândalo do Master",
+   "fonte": "Ultima Hora Online",
+   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOQ256cDVhTmcwWFFzemU4NWU3Q2w3bWlfVUk4YU5Zc29YbFZGOS16dUNDd1RSMmQ3bksxMmplT2ZaTnMzS25fcUlMLVRtTHpTczlwellKc1NRa0psR0NBS1dSbHdlOXE2bTNpaVUxLTRPbFVUMjEtLWZjcE5mb0szQms3YVRGNURoZnBhLXBZcGZMbTZNNzJ1Z2NCaHN1eThNcENIdndhVUkzeEpFUWRUaVJZN2ExVng3VGtVNU1oU3U3b0ZnQk9wcVdmRjFSbmd3ZEtXNUhONkpzUXNhZmI4RFBwVFRQTUhv?oc=5",
+   "data": "2026-10-23T04:51:06+00:00"
+  },
+  {
+   "titulo": "Por que a inflação pode ser a ruína de Trump com as eleições de meio de mandato",
+   "fonte": "Bloomberg Línea Brasil",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOb3Q3QjRJTDVYbExDOWNXOTVoMkJZajlwR1Nhbzczd1hLZkpOOXVhaTAzaDllX1RhT0JoS2hYanJvMU9vTFJNQ2NWNzBneG1xOXV0NnFPUTdUdlEwc1FYLTBha29XdXpYbUpzVkZuU2pOUmE3VGZXZUNuNEZNZHNpQWU0QXJZTFgxRnhtd2dvbmsyZDgwbHNmbWhGenVWbWFHdTR0VkI2ajVPTzZEc0kxLThVUFQySXhzMlYwQWtqQ0d2RWPSAdcBQVVfeXFMTmdXUmNCUUxQUUt5RmgwdDR5WkF2MG5LZXNyRU90VWJHN2lNc1VyalJlUWlTODI3UjQteFh4Vmc1ckFjdlZNelAyQTRLeGo5a1RfMGdTelBMUllkbVByTDVXUnFaRnBDRmkxdjgtcG9JMFBNdlFEN0FTVXlIYWYyMk82WTdKMjZiOFdIY1U4SEs3NVBURlBfbWFCd3B1dW81NGN4STlRbE1RVlhaU0k3QUo3X21pNy1iajFqbHVsUDdzeC1kUzI0MlIxUi1rdF9iY2hiODdkOVU?oc=5",
+   "data": "2026-10-23T03:56:02+00:00"
+  },
+  {
    "titulo": "EUA propõem regras mais rígidas para investimentos em tecnologia chinesa",
    "fonte": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPMDJKWkJQNk5hamF3MnJWVkFSWk9Kak90NHNCU3k5YWFkY2MwSkpTNUNxN2huY3hXV01hQlVlNW1nc28ydk1GRVNETnhJTjZFTjJkSkZvZ3B2Q2h6QVlWRGxPb0tQTGw5cExqTmtfdmtud2NTeE5jcE1vbERSN3NyNG4tVVFoLXVKQ3liUnIyei1tLXkzZWJSeFc0NnNxQkw1bmo5aExJc0tiLW9jelpQc3I3UjVfWWtQZ1dGZEtzNndSLUZxZXNKcXdEZ1hYZw?oc=5",
    "data": "2026-10-23T03:41:00+00:00"
+  },
+  {
+   "titulo": "Clientes relatam perdas milionárias após plataforma de investimentos sair do ar",
+   "fonte": "G1",
+   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOWlN2RmJUb3ItUlNpMlE2d2M4TUdaZUR4eHE5bExPelhiNFRKdHN1Y1I1Vk1WOVJCWnRZT1Z4RnZYdmsyUHd1d2Qwdm1vTkFNcmI1ZWVRZGJoenZoUFZ6NEpMZG1yR3d4MDJHTG5fdHp6TGtQbzI3NnNYRXY1T0V1YTRyQTBLMVZVVzhlcUpDQWN1NGFmTGM3Ry1WQzNRVDdPa1hROFczLUdLckhsbzM4b0dsRGp2M25wYVhlMndvTUxBaTNwQXZlR3JIenQ5TkxvQVFnOWxTdUZEZ9IB6AFBVV95cUxNYXVGZDI1SU91Z2NJY0FjZkxsOGxUQXB4c1FlM29sOTR1MmRfemxlbEQzcmsyUFJoY1UzVXVQUmtXc3VQWFczVVA4Y0d4X0liRVM0LWFWVG9CWFF5WG1NQjdLR2kzQ0k5dlN1c21KdTFkSWs5cnZKTzlLYXdpX0Yyc1phcHBXajU0enp1UjhLT1FHV2tXV0hYZU9jNGV2UE1jRy1PREF3bVM3NjNlRlV5dzhrUFBZYU1OVF9WbEtGbVdHWW5jbFhDV1RnQ1NDZVB4NVRHLUt1SnR1NElvSDF3VlpDZXpMbDRT?oc=5",
+   "data": "2026-10-23T03:12:39+00:00"
   },
   {
    "titulo": "Tendências 23/10/2026 | das principais ações da Bolsa",
@@ -69,24 +87,6 @@
    "fonte": "Brasil 61",
    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZ1RjNGJaaW1ySlRKYXNiRkpNaDRwaHlSaEMzemZCQlAzVFc0S0g1RHVtRXdrOGthUlp0d0FmSHZQSVA0bVRoNVo3VXdpRk9jckR6dnpzQnZWN3o0MC0yR3o0NGpXazVEY1BTSDFBMUpYVFlBX1FFWVFfQnM0U1dQX3F4TjFBQUZSa1FOX2pvX2NJRlRnSFNFYzJNOVB6TnY30gGmAUFVX3lxTE1leVJEQ0NiU1RyMWdFVVpXNzctU0VTcl9qbFBnZWJ0eFVKY3VvcUhWV2NxanlSbFlIbjhQYTRPV1R5YUdmb2RHSWlsd0Y1MktJdWxqekVlNmx3TFR6MU9jTHpxbWswN1A2cjdvczNfUkxJMnp4dEFlZzFEN0t6UFVSMWhNVXg1UlZJXzlZYnl2VHEwU2Q0QTh4MHdhWjR0QXo1Ul9UZUE?oc=5",
    "data": "2026-10-23T00:00:00+00:00"
-  },
-  {
-   "titulo": "Mesa Redonda Ministerial Debate Mobilização de Investimentos em Ecologia para uma Economia Mundial Resiliente e Inclusiva",
-   "fonte": "RADAR DIGITAL BRASÍLIA",
-   "link": "https://news.google.com/rss/articles/CBMinAJBVV95cUxQenNUbjdHY1hSX0EwVnNFcFY2eVpVekpqVmdFXzJnU0hsRnM5Y3dxVDJxSXA0d0lULTR2bjdpbGd0VERpbVFYNXh4eHdWYnpMR3lqeDByeU5VR2VxdldBNEctTng1Mk9INWR4d1IyLVVNamJraGtIdllZQ3hsR1VIOWdPUUNhNkZqTUxhNlR4Mkw4OTFqRHJfb01TMkstT08tTFZGX1pQUlRKeDIyV3J0enk2YzNJSC1jMHdiZXo4bC1rb2ZUaWdydm81cC1ERHBuSjdDaVpUTHpiNUVEMGhhbUg2T2s2Wlk0NHVZSmdqa3oxQ1hUdjA3VFNIRFBXX2FJSF9GSVlqQkd0WUpsNXNwWVQ1OHN3QlRLODVaLQ?oc=5",
-   "data": "2026-10-22T23:59:42+00:00"
-  },
-  {
-   "titulo": "Tesouro dos EUA suspende restrições a investimentos ligados à Venezuela",
-   "fonte": "CNN Brasil",
-   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNQ1hHeXBaTVc0TWlpY1d2ajhWTnptNjJxM002MXk0QlFia0ZWaEZ3Y2tXcW5UMm92aFhrbkwwYnNVRHZDcE5ZRkJCck8wV0hDNjZTcERDeVRidXppLUphOFBGSDZiSk5GSDV3akhjODlxZVJ6OGVZa3FITkw5LWxEOTBLZS1mdmpmcDFFNGhPRFVrMGVDYmpVUmV5RzZNMEJpM2FxeTVzbk5iVjI1d1NGdlJrWk9MVXlRM05EaEdIVl9lb295dXJkam1n?oc=5",
-   "data": "2026-10-22T23:52:55+00:00"
-  },
-  {
-   "titulo": "Inflação do Japão atinge maior nível em 9 meses e supera meta do banco central",
-   "fonte": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
-   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPWlQ0N3VqTlNfNmUyQ0lOanRuYm5SLU9CZ1BNeF9HWEpjMTBOckFuaWNSaXVtcVp5RWw5MkFaTzhuRll3dzJYZ1R6QlVYS0VteVRUcmZ3V2ZCOVhYZHN5eC1Pc3Njc3JlWG1SWndNNWVZUWxEbV9xTVZ5ZjVWNUJlb3VUYng2Q25kOHdnUUNrQkIwZWhGa0F4M285M1lBTUs4RXVPUzYwLUhYQmNYTGxYYUJQcllaUlh2VDVJU0tzX2F0UnJRRXRRRFVhZjJYRXhJbXc?oc=5",
-   "data": "2026-10-22T23:49:00+00:00"
   }
  ]
 }
