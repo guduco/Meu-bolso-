@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-10-23T05:35:00+00:00",
+ "atualizado": "2026-10-23T06:43:15+00:00",
  "indicadores": {
   "selic": {
    "valor": 13.75,
@@ -47,10 +47,22 @@
    "data": "2026-10-23T03:08:38+00:00"
   },
   {
+   "titulo": "Dólar fecha em alta, com balanços corporativos e pesquisas eleitorais no foco; Ibovespa cai",
+   "fonte": "Expressão Rondônia",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPcWVLVl9PVDRveU50OXhFWWZPLUdvT2FmVnI4dm1tblRVYmZmN1pIb2ktV1BxenR3TktkbEpfVVdHQ2tQcUdqMFYzd1pXZllSOTRkTGRUWVJhNmRoeVJkeklvbHFfR0R2aEhzRnJTMUJGVXV0eVM2RjJ6QXFDTkQ0Y0dtSGRfb01nUEtZdWFmN1E4OHp1M3dXcGtySnRSMFRWYW81UVktaG03VHVKQ3RVT1IyVjktUjRkNFRiYjJDSVg?oc=5",
+   "data": "2026-10-23T02:36:11+00:00"
+  },
+  {
    "titulo": "Tesouro dos EUA retira Venezuela da lista de países sujeitos a restrições de investimentos",
    "fonte": "Folha de S.Paulo",
    "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNX1ZNdV9KY3hzQmtvWEIyUGFJa01pV0UyMjhFdHZEdzVWWWE3dnZCc1hiLVlkWWRlVFhUdDBGa29jbjNuYkxxNkF0YXZudWZqOUVxZUlRR3VQS3k0bXRvdmFIX09aVjhSUDJPVmdGYTFDQWdrdG9pTU9UWWcycEdIMkI3YkpJWmh4QUN6OVhSM25KYnd5bEVzMkh2Nm1qWGJPUWRRRDJacDYwT2xtSVRxNzF3REtZSnM2TGpETjQ2WDNaZ1NXMVY3a2FFMkZIbVF4TmNNSERmSk1fZw?oc=5",
    "data": "2026-10-23T02:00:00+00:00"
+  },
+  {
+   "titulo": "Tesouro propõe regras para ampliar as restrições a investimentos em tecnologia no exterior",
+   "fonte": "Unite.AI",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPTzdzVjdZX3h1UF9MQlB4bHBYZ3NTeU9LQkxTS185MXV6QmRxWFRVaktYdE5WZW4wVU15Q0dfOFF3ampNRG1YX0dQMi0zQVVFY21fenZ0RGg2cU0xNGZ5WWxQOVowRGxFU1dXZUdxSVBxSE5Wd2x4eklJdWZBZ2t5ZHNLWWIyU1RteVVGbk9qQlJzekU?oc=5",
+   "data": "2026-10-23T01:35:33+00:00"
   },
   {
    "titulo": "Dólar avança a R$ 5,038 e Ibovespa recua antes do segundo turno",
@@ -71,22 +83,10 @@
    "data": "2026-10-23T00:57:00+00:00"
   },
   {
-   "titulo": "Taesa (TAEE11) paga R$ 23,6 milhões em renda fixa acima da Selic; veja simulação",
-   "fonte": "Investidor10",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNRVZVcTVNd3lBLWluSEU0eF9vZnBDWm4wM2pCbmFMZDQzZ1FnX0JzbThQNkJmZURmU2toV3piN1ZYMGc1V0lOckFUaXJibTBhMU1VSjl1M0twaWZQU01lbGFyWTk3RmVoV2hUbmpsVE1SNlpxaDNMWkpIcjJCOUVVSzJNbGFoSDdIWUF2dlNkU3pwV194TWRnaTdFVTJlcTVpMUJlWVI1MnRWUnF3aUZNNGsyeGlCZ012S2xYWWFSS1JGZHfSAcMBQVVfeXFMTUVWVXE1TXd5QS1pbkhFNHhfb2ZwQ1puMDNqQm5hTGQ0M2dRZ19Cc204UDZCZmVEZlNraFd6YjdWWDBnNVdJTnJBVGlyYm0wYTFNVUo5dTNLcGlmUFNNZWxhclk5N0ZlaFdoVG5qbFRNUjZacWgzTFpKSHIyQjlFVUsyTWxhaEg3SFlBdnZTZFN6cFdfeE1kZ2k3RVUyZXE1aTFCZVlSNTJ0VlJxd2lGTTRrMnhpQmdNdktsWFlhUktSRmR3?oc=5",
-   "data": "2026-10-23T00:16:00+00:00"
-  },
-  {
-   "titulo": "Dólar fecha com leve alta; Bolsa cai mais de 1% com eleição e exterior",
-   "fonte": "UOL Economia",
-   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQUlBMcVZDckpNdGVSM2VEdUxCbFJhSlBYWjdZdTExTlBKRjVmWTNnSHRYdEVwQy1SVjlBdkJmR20wVnE0REZ6WkwtdVNxdXZLZVlmdTRhNURlNFhPVHZBS2ZTOVR5WDJRZkw4bGlYZ0xIRXV5bFlqcVpCeW1RVzRvMThwNktJTEhOQkN5eXpKTDBWN3VHZkFKM2M1aGwzYTliZ1lKMlRNbFhuanFzMjhKMV9mcncwdWM4WVNlYmkwX0k?oc=5",
-   "data": "2026-10-23T00:10:22+00:00"
-  },
-  {
-   "titulo": "Ibovespa recua 1,15% com queda da Vale e cenário externo negativo",
-   "fonte": "Brasil 61",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZ1RjNGJaaW1ySlRKYXNiRkpNaDRwaHlSaEMzemZCQlAzVFc0S0g1RHVtRXdrOGthUlp0d0FmSHZQSVA0bVRoNVo3VXdpRk9jckR6dnpzQnZWN3o0MC0yR3o0NGpXazVEY1BTSDFBMUpYVFlBX1FFWVFfQnM0U1dQX3F4TjFBQUZSa1FOX2pvX2NJRlRnSFNFYzJNOVB6TnY30gGmAUFVX3lxTE1leVJEQ0NiU1RyMWdFVVpXNzctU0VTcl9qbFBnZWJ0eFVKY3VvcUhWV2NxanlSbFlIbjhQYTRPV1R5YUdmb2RHSWlsd0Y1MktJdWxqekVlNmx3TFR6MU9jTHpxbWswN1A2cjdvczNfUkxJMnp4dEFlZzFEN0t6UFVSMWhNVXg1UlZJXzlZYnl2VHEwU2Q0QTh4MHdhWjR0QXo1Ul9UZUE?oc=5",
-   "data": "2026-10-23T00:00:00+00:00"
+   "titulo": "Aquino promete buscar recursos com fundo de investimentos se eleito no Inter: \"Fluxo de caixa mais aliviado\"",
+   "fonte": "GZH",
+   "link": "https://news.google.com/rss/articles/CBMipgJBVV95cUxOS2Y3VWp2aEx3RXNpd3NCVzJDUzFrLUdhbXdCam9OTElLVm9xT182bmJWak1aMmVBVGFuMndySkJNTVQzRTdQNmRtanZOX0dmS1VlNkFneGl0VkF6LWQtVzRtdHF3WTFNcmdSYnF3bjNwbTU3ZnpjUkt2eGtHXzhfME1pQ2puUjEtVXpVaU9iX19faFNWQlowUVVYV0lORkNIcFZURm9RS0ZkUWgwNVc4YkFBVWo4NU00TjRHYzZ2cjg3cnp1dVZCN01Pa3d5clRnZUZLTkpuUFAzcmxaT2g1SVZVekxvaHE4Uk1EMDE1S0h2ZmtkWmVZSHhKbzNWOU5lUWtldlBmUXdNWWRUWVdGVS1Nc3pTTWgtSHFJZXZjUFFIT1VXa3c?oc=5",
+   "data": "2026-10-23T00:18:31+00:00"
   }
  ]
 }
