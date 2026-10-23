@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-10-23T02:35:20+00:00",
+ "atualizado": "2026-10-23T03:36:08+00:00",
  "indicadores": {
   "selic": {
    "valor": 13.75,
@@ -16,6 +16,12 @@
  },
  "cotacoes": {},
  "noticias": [
+  {
+   "titulo": "Tendências 23/10/2026 | das principais ações da Bolsa",
+   "fonte": "XP Investimentos",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPLVc0X3VOdE1qeDBEWDlhTDB3NWxFVnA1QmF0Si1Hd2lqeTlhcnM3WVFxVnFMb3h1XzF2SjdTTHg2b0twbXFDckFKa1NqWjFWcnAzSjNOd1hOY3NHcnR3d0NNU09iZUZMNTJvcGhNY2IxREZOZEsycU5meVJPeWVnRWJvRHZfb205SUNMbnlkUlQ2VUU5M2ZUOENFT0g4U1RMSTZ0U1VGUEwzbUxK?oc=5",
+   "data": "2026-10-23T03:08:38+00:00"
+  },
   {
    "titulo": "Tesouro dos EUA retira Venezuela da lista de países sujeitos a restrições de investimentos",
    "fonte": "Folha de S.Paulo",
@@ -81,12 +87,6 @@
    "fonte": "Brasil 61",
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1KOGNORDhjSU5hYkZaVC12QlNvRnA2X3I3bThGbUlPc1RXVTFEaWF3cUt1Tkw1cTdNMlZFV05paERPblZnQTIySmMzbi1rVHNWd1hnenhMQXVfdzM2UGM0SGVodUhLSHBlYXhJM25sNW40dXNzc2MxWlBsckF5UzTSAYQBQVVfeXFMTk94eTNOeENFWWlfYXI0NU56b2VfRENaVEd0MGNOaEpmM3dVbEs4b19OUG9UaEE2d2pWakd5bTRBTUcyS0llMmlnb215WXhCbGpjQnlUM05ETEhYUWozNmFMNC02NjJWZmRPVWYyVGZiTG5UR1E2aEJmZHRzSHJYNUZzYXEz?oc=5",
    "data": "2026-10-22T23:30:00+00:00"
-  },
-  {
-   "titulo": "Ibovespa cai com Vale e dólar sobe em dia de aversão ao risco e cautela eleitoral",
-   "fonte": "TradingView",
-   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9uaTRFZDJwYzJUejFpTm5lUzJ4QXp0R0h6YTFpdk4wR2Z1Ml9aVWZyX3h6dXkzRlI4dFlFVndEY3I5VTJWT19pcU5TMkd0d3JsYnROSWxZdlNtMUUyVXJkYjJ5ZDRFRlBld0xZQkM2ODVrUk1QYzIw?oc=5",
-   "data": "2026-10-22T23:25:06+00:00"
   }
  ]
 }
