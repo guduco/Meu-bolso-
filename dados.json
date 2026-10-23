@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-10-23T22:34:12+00:00",
+ "atualizado": "2026-10-23T23:32:02+00:00",
  "indicadores": {
   "selic": {
    "valor": 13.75,
@@ -16,6 +16,42 @@
  },
  "cotacoes": {},
  "noticias": [
+  {
+   "titulo": "Dólar cai a R$ 4,993 antes do segundo turno e fecha semana com recuo de 1,58%",
+   "fonte": "A Crítica de Campo Grande",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNbFRjM0tCVnNYbUlMWGxmRUp5cUpqMjh6V1dqSWhJSl82ZllLdTBGeE1ZOFNlRlExbnhJdlVKNkVHcnphMEF4TldKU24xM3N3czljNzRzTVhMYVlraXNSa2VvRWhqMFpvcUVnc0dRSkhrZ25NYkJGNUZGdk9pU2JQcVpla19pS0h0OEZfUTZ0VV92OWNvMWNpTk9WNFh5Z3dNcFVmM2JWTQ?oc=5",
+   "data": "2026-10-23T23:20:00+00:00"
+  },
+  {
+   "titulo": "O combate ao tráfico nos portos exige investimentos além dos terminais",
+   "fonte": "Estadão",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNMTIyMHc2ODRTZFRiM0I1Nk1aYWFPZENYWlNwRkFPNUFBYXZyVU9LbjdpMkdzZmNTY3huTnNKWWJ5Z25DNHFNbUlzc0VXV1BhcXk0UVV0M2hhMGtzMXZhaEJic0NscEhxZXlsTllXNkJnX1JnZWVyRjBiN0lPalFBeFBaZktNbS1FeW1yWlhyNElKU1hMS1Z5a0FPcS1wbXNYbUtYaDA4dzVmLWVYQ3lkLXI1NkNmVWVvWkJHcm1TVWx1Y1I1TWRpZdIBzgFBVV95cUxOVE5YTExxaU1CZ25FaHZ4RW5oNmwtOTJYMzNxWno3ZC1pbE4tTTNwbjVnMm5vdzl3ampSa2d5SUJyeVNlSW1zU2VPdzVMM3NPbnBDM19WMXFzMEJKeUNOWFAxZ2QtUTg0LWl1Slg1S1hodEhvUlBEdkM0VkQ3UzFJaW5oY2tfY3JwRXF2cnhDWUtEUHd2aVRiemZVOW83Y3hwemRJWDV2SzhOdGZKMFZRaFJ6WW1faUIyeWd2bDZ0X0ZCZlJlWjh5UWtiZVk2dw?oc=5",
+   "data": "2026-10-23T23:00:00+00:00"
+  },
+  {
+   "titulo": "Dólar fecha a R$ 4,98 nesta sexta-feira (23) antes do segundo turno das eleições",
+   "fonte": "Brasil 61",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQUnZBZlludTRJYWh6bGhBVnE3Rnl6RGVpaU0weE10YlFvM3QzQVNwYXRCUTJjWTVyQ1ZwMUNqMDlsTlNDT2ZZVUdBSkc5d3NNX2NRdzVIbmhNUS1DUy1wMXBBUS1OMUlCWEpRaHQwMHplVjlWXzVIczU4TWg5SGZBUE9BUTZneV82c3BUMlI5WlA3YjlGYWJycFF5aGV5dEZBS0EwVHVwU2xnQUU1ekRXUVpB0gG3AUFVX3lxTE5uUzdreTMtOGRGSUxETm9tdF9lX3FFcmRLQVNmT3BwOVNacXFnME1hcXFZOUU5ZUVSYWdqWVItNmZTX203OWFNNFZvb0NzNFNpajNMUmM0cmVhQjZ3aTNpTVc3X3h5bm1GMVJ6QjktUWg2cFVIUUctXzA3Mmh5Vk53YlNPNjdwOFNack9xUDNoaXkyc1lUSnlwOXdDSlJGUEhfVVBzazR0WnFhakFmcHo5N3g1VUJPQQ?oc=5",
+   "data": "2026-10-23T23:00:00+00:00"
+  },
+  {
+   "titulo": "Após caso do Banco Master e perdas do FGC, Banco Central propõe mudar regra para ganhos de plataformas de investimentos",
+   "fonte": "O GLOBO",
+   "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNWXVXNEJnM3ZmaWIwQVlHU00tUzU5SW82RElGTWk2LW9FU2I5S1NRYWkwLVlEQXphUThXeWRLc2lFZHh1eHRkYkdoUnB5Y2d6dnBGakZPbzNPSFZSNkxYNkdCc1BmeFQybld3LW9IS2lIck1DYUt6OU12ck1wQ2NNeDVJd3k3Y0huUXVwd0VPQ3VPcXU2R2dUeTdydE9zVGZDb1JDQnVWemo1QzVQd1NJNWxWSlI3YlBDSkxfN1VnbUtfelJEcUU3TnUzdHppc1pXUWU4a1ZqaHhic2xDTzZHaUFDNFY3THFPM3BQbWE0NjJrYnRfT0hhZktBTGppa1dpaTJfME83a3jSAZcCQVVfeXFMTU53SWd2NjJrb0E5WnotSHM5M2V2WWVESE5jQjlWM1ByU29kN1J6RERKWmJIZlNVTXpPb3ZzTWdFMGpGRExUTm5NTW1oZ2NpclVHVVZIZzJjRDhxWkN6VWZtSGhhLU1DUXhNMGVhSVBMcktpWm01OUEtNHVmRGZrVm8ydG5MWFZtMkdiZE42RGxiYVZEQkcwSURMN2FaeHRUTGU3U3otdWc3Ni03cUtvTTFtNXVUX01ycVYzQk5GZ3U5UkZveDNTT2dVVk1CMnVUU01vRS1yWjlBSmFzOTlfX1RLdmFMb2dHSG9UaEkyazBJVkp4b0gtaHd5aEdGNVZNajljZXFVQTZmdGkzMEQwR25oSHJKMkVJ?oc=5",
+   "data": "2026-10-23T22:56:42+00:00"
+  },
+  {
+   "titulo": "A Semana na Renda Fixa (19/10/26 a 23/10/26)",
+   "fonte": "XP Investimentos",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQb0RpaDFFTjNIclpBcG85clBGeXlsaHN5NUhqSFBlVmxEdEhMQ084Nzg1MVdrSFlfelpIVU13LUJBNXpjcTktblRwcl92MVZjM3djV0lKWWtMbERza3gyLU5FdG1VSmJDbklOWmZRcUVIOXBlaWdsaEdPQVV4S2M1cnZnaS05cTBLWGxPS01tNlFQeGF4VTJpOElR?oc=5",
+   "data": "2026-10-23T22:35:30+00:00"
+  },
+  {
+   "titulo": "Ibovespa fecha em alta de 0,76% antes do segundo turno das eleições",
+   "fonte": "Brasil 61",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNR2ZhZXRjTE1zVURtMUVuajFFakRaOTcxT0VSbGZtNVE2S2VWdVgwbEtYandCNWNpbHRvSjdXYTdqVHNFd25xcUFrQ0RrcWVRczJaZjVOVHBoV19lcGllalNnTi1rZlhyY0s4RzB2bkNyY3VhUEFKaFljNm9aQTMtWWJ6OXY4VFlZZVVaR0pQOTF4Y3R5YjNMLS1KbThBaDVvYlVJ0gGoAUFVX3lxTE5VZWstZk9kNGZlUXl6NG5rc05pTjdOYTltcUtlTEZKdFlvTjd1N2F6Yl9HOVV0VVRLbUpNaU1xZENzUXFIQzFFWFIxSUdzVXpyZDJxYVlXMU5XZWVBa09kMjBtOGRwendfQlpuNlFMdUMyWWtFVFJJX1c5X3E0SjhWV1FUS25jS2ZFY1FQMTNfRGtCa2loS1BITW82STVCTXJHY1FmU09PbA?oc=5",
+   "data": "2026-10-23T22:30:00+00:00"
+  },
   {
    "titulo": "Ibovespa fecha hoje com alta de 0,47%",
    "fonte": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
@@ -51,42 +87,6 @@
    "fonte": "Exame",
    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPNENtR0ViT3FwYUdUdHZ5NjJLU2REb2doVmNvVDFsSngxeFpUZElUZnRWV2dJN3RUTGx2T1ZOMnRyUlNtb1djNmdxNUdVRy16UW5IU3lOLVQ4ZjByMUh6T3BIaS1VdF8tTWVIQzE0Y3lUVE5uNDFSNjhEeDdSNGNnR3Z4d2ZmYTFLemkxUjZtWmxnQlFFeTlLOHNodHN1R3NsNlN5eWcyRWZaWFNvRlgybElXUTQ?oc=5",
    "data": "2026-10-23T21:46:43+00:00"
-  },
-  {
-   "titulo": "José Paulo Kupfer: IPCA-15 de outubro 'normal' mantém previsão de inflação acima de 5% em 2026",
-   "fonte": "UOL Economia",
-   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxObTFrWm81WGNjT21zbTkxTWdGeHcyajJVZEFXeXFBa1dydDRwMEQyZVdxZU1IY0V6WFIycWFQM2ZyNVJEeVVTYU9sc1BxYXdIOFJ1OXdMeGVkSlpoZFh5QkFmYmM2YzRPWHNzM1hwUTVtbV9QQU5wSFpvLTBqYmdyalNTVlRjR3NWVVk0VmVZVkhXVEFNNUZJM3BSSnJBSlN1VnA2SUZTQlVEZVpLNmpod29FSHo5bWFzMS0xN0JnUGgybHFkVXNRM28yS3pGVlltQWpWN2s0TQ?oc=5",
-   "data": "2026-10-23T21:46:01+00:00"
-  },
-  {
-   "titulo": "Calendário de divulgação dos balanços do 3º trimestre das empresas do Ibovespa B3",
-   "fonte": "Bora Investir",
-   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQVURfeVVGU3ctbG9OQjg0RldId3p6VE02U0x0YmJ4ajMzZnd2dF9vYzVIVnNLUmtoRFJaeHItQ19SS2NxRjJ0b0l6aGEzSHJwLUkxX29FckRsS18tZnpJdmh6SGtEMTZfVV9FSDlUSTg3ZUcySUZwZUVNU2RDQTR5REZiOGtTQ3Z2MjlSYkZKbmdaaFJUYi1FUVd1OUQ4R2pHeERJNjFWY096WVEzb1NpejlMVE93NmVaREVsSElpNHlFdW1QRlpYUlcycw?oc=5",
-   "data": "2026-10-23T21:45:00+00:00"
-  },
-  {
-   "titulo": "Ibovespa fecha em alta de 0,47% e dólar comercial recua 0,92%",
-   "fonte": "Canal Rural",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPLXk3N1lvQkF1MERSOENaRS1MWmcwYVdtM1FJaGZZLW5jYnRobTV0VU4tdW1jUjVkbVRBOWxoRHVjNWRKcjhBRW5PNDBNYjh2VlUxX0tZbkFtWEFOTC1jUGl5TWFtNE5PR2tOWnk2VkN0a19JQzV5UjJ2clJvYzVrNFpVblZ2QWVpVlBJakZjUVkxUjBTLUZwc3Z1VU1Xdw?oc=5",
-   "data": "2026-10-23T21:44:04+00:00"
-  },
-  {
-   "titulo": "Ibovespa e dólar hoje: reta final do 2º turno, petróleo e defasagem do diesel",
-   "fonte": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
-   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPQjJVSUhGN0t5NnRnMjQxSWdKOWpVMExycFkzeFJfdnRhaWhqSjFJdDFyWGpfZ0RaVlhSLXQyV3d2VGFvM0RiVmxsQTYxZFRaVkt4YWRFbHBBZXlhYWxDVlJWZ1VjYkhDczlHTWUtRm05MWJ5SlZGQUpkSWtvd2NTU25zNVZpNXNRZHUtcGs5MVdGZGRIZlVvWjFZS2J0TzY1TU9vcExlSGE5a0Q0emluUnp2VE4welhudWJxOUVGZS1tRTh6eUFvWFpzMA?oc=5",
-   "data": "2026-10-23T21:31:00+00:00"
-  },
-  {
-   "titulo": "BestBuy cresce 31% no Nordeste e amplia investimentos em tecnologia e capacitação",
-   "fonte": "Mercado e Eventos",
-   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQdlpCUF9rQTRfUEdHZjBPcWV2T0IwTkV6d1U1TXBjeWRsT2FUeEpXZFZvTjlSWmd2SjRqb3p2eEp0d2ZzWEowb2REa19ZbHJndUxhTzJnWERkWlZjQ3RDNFdWZW5oMEtvWE1BdTZJNVdpdW5BWmtWRkU1ckpzOHJ4Umt3WW1zRlRncGtQSjhXYTRaQUR6Y2VrMmVWdW1rbVBidHlfWkwwZF9qTzZqNzU0VHY5OFJESTVlVDJxRzZUV3pfT0J5VTItdXRRUTVtUQ?oc=5",
-   "data": "2026-10-23T21:22:20+00:00"
-  },
-  {
-   "titulo": "Moedas Globais: dólar sobe por tensão em geopolítica e à espera de reunião do Fed",
-   "fonte": "InfoMoney",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNSTV3MzJfQVFCdWltVEtGQlZBbTNLMDVFRmlVNnpZVFRwSDVoLUJzRTd4RVJITndzemtvSFNyTlJuSkRpRHNiYkF4Q0RxQlM0a0FSd2phcXFlZ1JYRUtkVUttbjFCQjRJWWFFc0x4ZS1LRGhqNnZyWlVHaVpEckF0bTIzME8zNVZWOU1DUTFNU2VfQk1hMHZMa0MydnNqeUV5bUJPQURad2EtdFBFSVN5bUNTZjg1OTRvZDdz0gHAAUFVX3lxTE91OXo3bVNWS2ptMS1XeXNWbzFNNTA0UjgtbTdfbk5DSFpSMlZvcEtOWXB0R1V6YUYwWkMxT1JZTWFHTFZ2Sk9QUVl5YWdrM1Yxd18zOXByZVRoVmU3VjZPeV9wUmdKTF96aHlaNUpCNGxBVXV0N084aktHcFQ5ZWVKODVQTlV5Sk1DempPWDcwR09LZmhiNHRjaExYVnU5Q2o4eGwxVXg4YWJsY0ZieVlQWldOX2w1WWY0TWNRQ0d0dA?oc=5",
-   "data": "2026-10-23T21:15:28+00:00"
   }
  ]
 }
