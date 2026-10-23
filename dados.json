@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-10-23T12:41:31+00:00",
+ "atualizado": "2026-10-23T13:43:54+00:00",
  "indicadores": {
   "selic": {
    "valor": 13.75,
@@ -17,76 +17,76 @@
  "cotacoes": {},
  "noticias": [
   {
-   "titulo": "IPCA-15 desacelera em outubro, mas inflação em 12 meses sobe para 4,62%",
-   "fonte": "EuQueroInvestir",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPQkFYdW9fekZibDA0bUhUXzBSc29YRGlXdkg1LVc4WTN0VW85MENud2JuWG1FaFpMYk13Rm9mbE5xNUZHUU5sajlCOW9tZlBTUmpsZ0dhaUhfLWt5bllOcTA2Zm5BVFYyYm4zMmNzcGl5TjZJZ2VMZWxNTVBhaE5CUTNYZXpQN2dnZUF1MnJRMGRSTmxRZGFUZU0tem9SZmRwTHROUTF2Uk8?oc=5",
-   "data": "2026-10-23T12:39:19+00:00"
+   "titulo": "IPCA-15 sobe 0,32% em outubro, abaixo da projeção de mercado",
+   "fonte": "trademap.com.br",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA1eUwwZ2tUS29jdHllTUZTbEN1N3JXLV94cDFnSzgxNml6MjRIY1E5Rk91d2JTRldJWFZBWU1FM2ZrX2Q3bVBLNTV3RWEyZUVQU0x2elpzamc?oc=5",
+   "data": "2026-10-23T13:32:48+00:00"
   },
   {
-   "titulo": "IPCA-15 Tem Alta de 0,32% em Outubro; Resultado Fica Abaixo do Esperado",
-   "fonte": "Forbes Brasil",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQMmtGMjk0a1BPSjRFYUFnblZxLVlZUVVoWnNWdW9sSXpBOTU0bXZFd2NHMnI1elhQd0ZXMTI2RHh3NUZYbGxTVWRVb2lOemVDSWZzVTZLTVdIb190RDdrc3RxUU81X1owd1o5RjVFX2VidlNIaHNTNlFKdFdhUGFhYnlBVngzQ0NwWjJsRmRNYmpSVEIweFg3aWF1eWZ2NHBvWkNjNFc5Z1A?oc=5",
-   "data": "2026-10-23T12:38:55+00:00"
+   "titulo": "Prévia da inflação oficial do Brasil recua para 0,32% em outubro",
+   "fonte": "Rádio Pampa",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQT09vbmhZTTJmY0VEalR2Wm5rWG1nQVZHMTBKcTA4Qm1ORlJkSDF5ckpRU3lmM3hDZVRmX254bFB0R18zVkcxQ0h1VGVTSndzUGlQZHlDWXh6VUp2c3pFWW1qS2hVSVpZUG1IUWJCWjh1TzZGOUJacFprb0ZOY3JrTGd5Z0pWb05VcnBNS1BTOVE3cGpRdVg0NTkzYw?oc=5",
+   "data": "2026-10-23T13:31:22+00:00"
   },
   {
-   "titulo": "Alimentos sobem 1% no IPCA-15; legumes acumulam alta de 33% no varejo",
-   "fonte": "CNN Brasil",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNQ2dyS1ZJUDFTWDBTRV9PdFJYdUkxTjEyVTkwUGYteHFLd2tfQWgtVzFraFJmZXRnR0FaT0hiTGNnOWIwTFFOMkJQQTloQnAxdWpQdkR6WWhFcFNIZllKMlFhcGpwQzZwZ2trYVNrZFNQZXZndUVqd05OWVBTbnV0RVFBcHlpQUtVcFlaSE44U3E0RE9fS2tWTW1TTHFWV3V3TFk0?oc=5",
-   "data": "2026-10-23T12:35:33+00:00"
+   "titulo": "Informações Financeiras",
+   "fonte": "Enfoque - Informações Financeiras",
+   "link": "https://news.google.com/rss/articles/CBMiywRBVV95cUxPTENXa3JDaWtfX2xHVjNpX0sybTVZZGNwNUZGdHQwS0NtcDRiOVJQc3Y4RkdaT01tOGZQRnlBZEs5OGdKeERuTEdvd0w3bTBpbkVtOFQ2dGZmd2QxRDg1TlZza2hyemt0aGt3bi00N01KZFRPWnRMM3VLa0ZfZkhTSFY5THFyMDNhcHJHN0ZFT3FuMFVXZ28zUnBoOXFRZUk3X1JBVEFhRXBOTl9MSXVjV1NOUXhSdTFFVF9PUVAtWk5tWDZ6WG55ZVhqMW9PeXNOb2xXYmExV2Nqb3Y0a2F0RVB0akhfa1Z5dkoyN0NlaXFxaEJZcXdQNTRjQTdOR3Z1TW0xeDRDNWlPT1BqeEVBNFRxblJqTEY2aC16QV9xR1NpSUJZVVJ2SnZvRFgxWEdIQlZGY0hadm9xOTdvR2hzOGZCWXlzTW81Ri1tTC11TWNwRnQ3aUpoQzdLNUI1aEhTSy1hT2pQTXpNdTkwWm1CU2s2cFliSW0zX2xEQ29xRGZfbWc1aG5uLTg1aFVrQkdqS2hXQzNuNHZUeThobnV5WE05SXcyb3k5a3lMMTRiT3VKMTUxczFBbzctdWZzUm9aWjZOU2N5TEdhbzRzTl9FR1dlaDY4LVQyUGQwbEFvQkpyYm9BQU9EOUdlM0U4VGxEWXJ2ZGJ4RTZOVTQ3dHpVRkxnTXF3VS1oZlh5blFncXg4UWZzZllkV3FPV2JDUXJ0ajVjX2pkelkzb0dkejdVLWxLUjhFdVVKUENZQnV5QTUwWE1ZU09uX2doWQ?oc=5",
+   "data": "2026-10-23T13:25:46+00:00"
   },
   {
-   "titulo": "IPCA-15 sobe 0,32% em outubro, informa IBGE",
-   "fonte": "Canal Rural",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNLXlJZlFKSnFBTlpPR0p4emJDd2pQa2JkTXQ0Rmt0SGd3OEVaUEZFNmpfRnkxSFZEVmZONFZKUzJjU0t6Y2xWRUY5OHdOZl96REpidmFzWWlPNEZmYm9vMkFxcWVnWlV5dUhGa05walI3dlB4NUp1NWJSdVhEdldUR2M0ZUJETzg?oc=5",
-   "data": "2026-10-23T12:33:25+00:00"
+   "titulo": "Subiu o sarrafo da luta política",
+   "fonte": "correiodobrasil.com.br",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBEV3Q1VmdLQWZMQXpkcEJMZGV6NXlmbXdJTzVYNGdMeVFLX2JXdzZfWlc4NnRPcXJMTWhib2dKaVpMa1U2cVBULWU1eFdRa2xyX3RHcklTRDBDbGVMeW9DLUtuVHN4OHFCUXQyYg?oc=5",
+   "data": "2026-10-23T13:25:08+00:00"
   },
   {
-   "titulo": "Ibovespa futuro sobe e EWZ cai em Nova York no último pregão antes do 2º turno",
-   "fonte": "Exame",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNMUx5d1NQaDFMclFIRFZvU3Vnc2prYnM3MFhWd3VXeGJta1A1Uml6UW1ITTlONGg4dmp1VEcwUERWdWtfcDNzUmVZMVZ0cTBfTGl3ZTRPYU1haEsweEw5MWd1eGMyV2ZRa1dXUHRXQ2xLd05vbWRQdWNaVG5nbkVHQTVXZDFXOXpoNUdTTzdvY0tySUU1cnM2V2p4X1RTVTBWdlRrcmRva1BpVmhNZlZCcU03aw?oc=5",
-   "data": "2026-10-23T12:32:46+00:00"
+   "titulo": "Dólar canadense se mantém perto da máxima de um mês com perspectivas de juros",
+   "fonte": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQLUh2dGQ5N0VPemp0azhwSHdVVm81eE5DM2JaRVZhelJ3OTZYV2NMR0h4SXVla2JWLWcyZWV6ZHFNcWZVVDloVFg1MlF3b21VOTdDNEZCY3A1RGx3MFNIdWluY1VQcVVnRXluZE1GWVFqWFRTV2tIZ2hXYkNHY05EdkUtQmJDX1Y1UTJzSHhkallpeVQ5WFY0S1ZGZnBhMnZieFlYTFBSZDFGQlF1LXpwSm95QW9tY3ZFYmotZmh6amFsOFdMWXdWN1B0dk0zUQ?oc=5",
+   "data": "2026-10-23T13:20:00+00:00"
   },
   {
-   "titulo": "Dólar oscila perto da estabilidade em último pregão antes do segundo turno, com Datafolha no radar",
-   "fonte": "Folha de S.Paulo",
-   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNaWxXWkJ4ZWwwOVQxZ2l5Q01nd1UwNFROVGxCZFFmMWhxcG01NHduQWlRQzIyYVBXNkpzVE5tWW9ENkN1WV90REJfS1lueDk5UnF0Y1RzbE5rV0dRYUtYWFZSLV9tMjgzM2JZOGpzalJGOC14dkhpeDhZWWRhZWxlOWFwVE1tZy1HcV8zdWNqcnhzdlM0Skp2LTFiM1VvUVpZRlNyWnZEVlpXbURySXhVc0ptT3dSTjJybDZ6cHNqV295aTNqYW5saUEtbzdWVlcxSXhicDMxc2kzUnVjVDF2RXVSQQ?oc=5",
-   "data": "2026-10-23T12:31:00+00:00"
+   "titulo": "Ibovespa oscila pouco na abertura com expectativa para eleição; Bradesco recua Por Reuters",
+   "fonte": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOanltdk1JTUhYNVNTaGRfYVV3MzhQbHk5N1h2T3lHeEdROWJ0dG85X1hCRnRZWlZKT2I1RFNSMjE2bVB3X01hekRLRmpnT1c0SzZ0ajRjNXJaNWFVVU1QOEI5RWdJc3I5OTJhTTNfMWJCTzNoV0VnMFhyU3RBaG54c3phajJVWFZ3dGZ4LWhSVXUxTXVFalRxdkNDa3p5M1p0OEJBOGZMSVczZXB6WEhuMDFCUmZrT2JUU3d1aTNNdzlXVXpI?oc=5",
+   "data": "2026-10-23T13:17:00+00:00"
   },
   {
-   "titulo": "IPCA-15 sobe 0,32% em outubro ante alta de 0,70% em setembro, revela IBGE",
-   "fonte": "Jornal de Brasília",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOR2trYktmamdKM1hFSWMxOGgzMHdzaGRKUVRyZ0JQWG9VbF9VUzB5RUtqY1lWZVJtLVpJaWllOXJDNUhkdE9XcGlEdFpTc055NFNzV3o4NEFZTVBPR2Y0YUQwU0hWZ2R5NktnZjJXLWt1VHJWSGlyTmQxVnBTUzJiZkJ2Ynd4NllNWGJOTGZ1aVJEZEMxT1BUWEpuamhqczNFbGJFVTNTNkFzQkNiR3NLYll4bS12c1l4N3JZ?oc=5",
-   "data": "2026-10-23T12:30:23+00:00"
-  },
-  {
-   "titulo": "Prévia da inflação é de 0,32% em outubro, aponta IBGE",
-   "fonte": "Correio do Povo",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNSXRaRzBJSjVsT3VCSV8tVzlJMGFIc1RwM2NodkJZaFFNLWpKcEt1Wmd3VFFqT3QxRVVLMktsZmhhZFlzVDUyT0kwb0ZINFpsb3NLTUNpb2llQWgtTHJ4NHpsSEsxbU5PMDJPYlRpWW56SUwtYzQzWWJjbHdlM3RhZVVRbzlpSE4wRzJxdTdlemdLUHhjeEtMd3ViWDV4RF8zQzdzYUZsbDZDNkUtYjRjYndVcTZSNEk?oc=5",
-   "data": "2026-10-23T12:29:33+00:00"
-  },
-  {
-   "titulo": "IPCA desacelera para 0,32% em outubro, mas alimentos ficam mais caros",
-   "fonte": "VEJA",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQY0tfeHJKOFJMUHI4Q2NybW9NdVFhZDV3cW5fNFVfR3VXM3FNRzh0UEY0SDdZX1pPNFlKUHp0VDVJYlAxWUxSTUVjTjZwMWJ6RU9vMFRWbU9BZFJ0eng5V2RnbDNuMnRwTGQyUTFlWXVWVmk5dzZlcXExTnl6NXVTUGNNQzYxam4ySEVvd0FpbEJjZzdCMFlFNjl4M05XeXNJX3ZYdg?oc=5",
-   "data": "2026-10-23T12:28:12+00:00"
-  },
-  {
-   "titulo": "Abertura | Dados de inflação, alta do petróleo e eleição ficam no radar do mercado",
-   "fonte": "InvesTalk",
-   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9LVDg1cDViRFdfU015TWFhWVFfeFk3WW16YkFGTi1CZmRLcEZCZDJodlg4ODRNcWVrNzl4N0djR0p5SC00empsSUdYTHh4eWFUQ2stRnNtdHEtem1fS3VjcUx2dmtjSG51b2I4cWNPNkY2SmVkWmc?oc=5",
-   "data": "2026-10-23T12:26:00+00:00"
-  },
-  {
-   "titulo": "Dólar hoje tem leve alta após Datafolha indicar empate entre Lula e Flávio",
+   "titulo": "Renda Fixa Hoje: confira as taxas de CDBs, LCIs e LCAs na XP nesta sexta-feira (23)",
    "fonte": "InfoMoney",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOWUpnLWV1MTB3TUJ1Vy1CRWRESkRfLXZvdllLeV9ENXktYUZaczlNLS1YUEZubWRYSmxCM3VENFUxM040NnVESmVQMlN6UHFEdFdMY3FEcnNCRFkydHZsTHl5VVowbVUxVl8wdDg2eTJTcjBoRGpkV3NJT1lHRGFnOFppam9ILWswMzdNdk1HbHQ1T29IMzBjdW1FMWnSAaIBQVVfeXFMTnppUWdlc0VLdmMtSnlPQ2ZqLVpvcDdFaE9NcUJkRzNCMkFTRE9NUkdGWE1OeG52aEhLSW5nUWIwUUhRR0NuU3hjWGphS1JKWE5OTFhocVM4enRmNS1Ya0NPYmplUEg4R2JpZm5NaXQ1bVpDQTJLUFdNTk9TU3E0OFE3dnYtNHJsc2ZjbHpIY25fMUtrRnBaa2dSck5rTVIybzdR?oc=5",
-   "data": "2026-10-23T12:24:47+00:00"
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBJZTViOXVXTnB6UjZQN096U3ZyZ3h3QmZ1dVpENWVWdFhsSTBQNUdXZ3pVSTF2Z2ppMl9yR1B5NVFYcW8tVHI4YnVFQ3NZb3FiblpiWThjX25HSlo2eUNOOW5Henl5UkVPY1lrRi01VHJWNVRqVFJz0gF8QVVfeXFMTnFoNkhDLVVrRnpZSjVvTlJCTUZiSWNCajN5QXA2cXpSc1B5S2FFRjRTcjZmdkRhR3Q1UC1va0JucFBaY05HTS0tUGx2ZEdaakVMNnU3bUZlSFlPLWNrWklSWmlubHN2akRjNmJJYkNzNFY2eF9xbUl3bTAxdA?oc=5",
+   "data": "2026-10-23T13:16:08+00:00"
   },
   {
-   "titulo": "Prévia da inflação no Brasil e economia dos EUA são destaques hoje",
-   "fonte": "UOL Economia",
-   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQZmZ3WjQ4bkhkUG43TWhxb0lVYnpHOXBiM2Q4Z3BtU2NNM05jTVltSzhwSDhpTHJ4VHFMTm1oM3hQVVZhYndyQXhOQjlnSUxwcGdXRjdYZ1l0Y0ZJUEMtRnRpZUdzNXViZnFuUENRVEc0Y1lZYmloV09kVmVkRnlPdk4yR3V2cGJQUG9jcnlfM0JYV0U3QXFqQ0s0czRxMTBIMHk5T1E3ck9icWZJVmFRWnA0YlVJMUU0RHhzaE1HYjdmSlc4TDRJODlSQmZJNVU0MDlv?oc=5",
-   "data": "2026-10-23T12:24:17+00:00"
+   "titulo": "Daae e conselho debatem investimentos em saneamento básico em Araraquara",
+   "fonte": "Araraquara News",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQMEwzMy0zUWh0NlVqbFNURURoOUNacXhULXdRVl9MLTQyaEZ1UHJsRG5EV3V1N0VSYXFscE04ZHRxSjVtWjZJOXd6ekpnZzh1c0p1YVcxVmRWdy1uVjhkQlppOEZBekdvT0JZOFVGNTJmelRvdWxqMDBMTGE0bER0UU83YzR4U0pvQnI4dUVaeVZSRlpUWmN3U1U5eURDT0ZKSV8wYVo5N0NlbFcyc1dlZFZNZW4?oc=5",
+   "data": "2026-10-23T13:12:00+00:00"
+  },
+  {
+   "titulo": "Inflação de serviço intensivo em trabalho tem pico em 9 anos e mantém IPCA acima da meta",
+   "fonte": "Estadão",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQRU1WY0w2QkN2d3N6YXQ4WHFkZXI2V2tNNktxaXNQb1RjTEFVajhsZ0xHX3JDcUExMjZRNkxJTUxZZTlhRDhSZ2g5SlU0RXB2Nzd0bkd3QmtSZTlRempfZ2F3TVJOVTFjZTE3VFNJdWVvamdBSk5jdDRqd3hvRDZKWUdpTThZYUVMRWpJM3dwZ2pEajdHc0lzdmM5by03RjAxUEdB?oc=5",
+   "data": "2026-10-23T13:10:57+00:00"
+  },
+  {
+   "titulo": "Vai operar antes da eleição? 7 cuidados para evitar erros na Bolsa",
+   "fonte": "InfoMoney",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPU0ZLRHc2SGpsVTMxbXoyRkd1RmxPMFFMeGFmR3ViTzhEUnkyN0I0eU5JOFNMUWVxQl9lc3JycHNKd1dFQXhqTUlYZzMxS0hZM0dLd0tfOWVhRWl2ZlNJWnp6OU4xbEpzTkZtZHlmdDEtaVJJWXctTEJMdm9xM0dndGxtZ2dTQXZsQnNyTUVDVUdCdTlm0gGaAUFVX3lxTE1RbDlGajFKUE5JcDlKMVVQcVlpQjlRUG41c2xfNWJDUVM2Y0ZRc2tsWF84TzJnSzZPRnk2TG1Ob09wbVBqbS1kVG1lUFhaSnpCMHczZC14bGlZSnVlX3piWTJnVHVscy1mSTgySkhseG1kSmFMNGJqSnNSRjhSeElrTU5SaWxvbUN3OThzYjhIT3hKaW0zeHRfb3c?oc=5",
+   "data": "2026-10-23T13:10:23+00:00"
+  },
+  {
+   "titulo": "IPCA-15: inflação de alimentos mais do que dobra e puxa índice para cima",
+   "fonte": "Metrópoles",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPbUZMNlhaNTdJcGRjT205SlVVWkZhVXZRNzdnOE5GUEhkd2xub1JNODYwN25xQ01CVkVUbHlLa0xYQkpOY1Q3RXRsdE10YTVpczZrdzdFMDVqYXhMbFVVb09IUzdWNlRJS21kTC00cktOVTBqNE56bGNVblV1cXlBUVZwa1ViNXdmWlk2NXVBZTNTU2RYX013NElYelo1STdDVXNmSEpUb0M?oc=5",
+   "data": "2026-10-23T12:59:00+00:00"
+  },
+  {
+   "titulo": "Dólar sobe com cautela eleitoral e avanço do petróleo",
+   "fonte": "Canal Rural",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOS0RIM1J6cWZ4MjVHT2NIVEtQUWxLVndQb2s3Q3daNXlBVER0bFRLTDJQS1FlSDVfSHIwekNZMFNSWDhuV2RBWkFRY3NyTldfLUxVQVlxdl9PM1UyakViYURKUkVuRzh0Y0M4NFY1V2tFV3FnSDVOMF8xOThXNVhQbmQxNTdtRzNWN1RBVzZmM2dETG42RmJRMA?oc=5",
+   "data": "2026-10-23T12:58:30+00:00"
   }
  ]
 }
