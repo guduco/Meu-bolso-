@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-10-24T20:31:40+00:00",
+ "atualizado": "2026-10-24T21:31:36+00:00",
  "indicadores": {
   "selic": {
    "valor": 13.75,
@@ -16,6 +16,12 @@
  },
  "cotacoes": {},
  "noticias": [
+  {
+   "titulo": "Opinião - De Grão em Grão: É possível ficar milionário investindo apenas em renda fixa?",
+   "fonte": "Folha de S.Paulo",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPbDRYWVN6b0d0b2xRX3l5UkZXN241Y0NSSTFJVk1Gb0JuOEMzSkkxYzJFTXM2al9IU3BVVTFzSGJtV01VQXVjaVlEdE1XMWQtQl8zeFhCXzFoWlRINmdXaTdFSnZyUmVFQmFYQmg2MGtRbG9PNm5lSVFyV1B6aUdPeFI5TW11eEhVUGRZQm5OdU9TUENlRXBRSnNwenV0cE5ueEozWDdlYkNSNGxDeGpMY2Y5U1VWT0FLNWtTXzBVNFB6cGM?oc=5",
+   "data": "2026-10-24T21:00:00+00:00"
+  },
   {
    "titulo": "Buracos negros, em velocidade máxima, podem se dividir em dois",
    "fonte": "Jornal Correio do Brasil",
@@ -41,6 +47,12 @@
    "data": "2026-10-24T18:50:00+00:00"
   },
   {
+   "titulo": "CSN tomba mais de 5% e lidera perdas do Ibovespa hoje; veja maiores altas e baixas",
+   "fonte": "Estadão",
+   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQdkQyYzJyTVNCc29SSFRMb3FuOWpPcVhDVVZxQnA5N2g2czVjcnZ4TDVVMnFtWDRHa2twNGQxc0NHR3hYRlJPVkxFYk50QmFzYXFWRFVzbVlPQ3dTdDNkR2hjVWZlRGhva3J2N3JjaVlBZVhwbFc3dFNXOWZ0Nk5qbUhIbDExSk9yTHB5X3ZrUjFYWUg2N19RMDJHRzZjd1FoNTZXbjhoRDVRM3VQMktCbjAyZXlSd1RQc2x3RXc5RHNVNlRNQnpCaFpNYlRFWU1jRGJTWDVUUjIycDB6enN4ZndB?oc=5",
+   "data": "2026-10-24T18:44:50+00:00"
+  },
+  {
    "titulo": "Lula e Flávio concordam em mínimo acima da inflação e em mais 6 temas",
    "fonte": "Poder360",
    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQQjk1M1ZHcm9HVU00c1pSTW10cnJiUWRGekVidUFfMXhGRFZ0RS1wdnFKRTVYeWtZOVZoTlVFYTZ6TVloYVlkRjlZYlJBejdpMkJ1STBiSE9sQ1NmMFZaSXgxbFF0WkpMQWdQYUVZM0JrZ3UxV3lsVkNreWgwdjhGR2JweWN5OHlsV1FrTjk1VGFQcTF2NHRmcFk5b3RyaFdlbUhEZHRaNkotQTBlSE5ZRlZFQmR4Mk1TMGc?oc=5",
@@ -59,6 +71,12 @@
    "data": "2026-10-24T17:49:42+00:00"
   },
   {
+   "titulo": "Taxas de juros encerram sessão em baixa com trade eleitoral e IPCA-15 abaixo do previsto",
+   "fonte": "Midiamax",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNN1pWcXRoUC1XZnRQU2RuSTZnSHlUWjZaSXdkdGM0MmtwQ0c1X3YxcVBMY0xaWHRldnQ5MjMzNGU2cVFOdWxoQmU1Tkh5RG5vVkFfU1llRl9nTkduekxrclFaY2ZaUTAxSmdoVEZaT2JJWGVRN091cURzQWotbmxXb2NGVWZmOE9yWm5fMF9jbjNqRllkSEJhWmRuUnV4Y1RvbE9uWUVUYlN0RFg0RG5UZDNJTmZOeFlfck5RQzV3dw?oc=5",
+   "data": "2026-10-24T17:48:00+00:00"
+  },
+  {
    "titulo": "Flávio defende Zona Franca em último debate e promete novos investimentos para o Amazonas",
    "fonte": "Portal - Rios de Notícias",
    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNenJMLThHYU8yNFZXZW1kWUo0Y2ZvcW1VVXRFZlc2R2VTSTQ2NFFuS29hcEpSS3BGVUw2TTJZdHBCaEhreVR4eHJGLWM5dmxMWXdndXpvd2gxeXd2VDdVeEZMUFJIMm5HNzRRQ3VjNksxT3ZVNDg4alN6cEhkaGNjcjVCeGxITFJSZ0YxNmhHbUVLckJmUjgyVUdLS2o1N2tLUjBRcXdFSkt1TTZFMjJzVVZ3YmpMWGNwOGNNQldEaGxRQQ?oc=5",
@@ -69,24 +87,6 @@
    "fonte": "News BA",
    "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQZkRNZVFHYlc3dDJYLUFFX3E4d2VjZ2ZPVDFobXlqcWgzSHZVckR4eFhsWWRYTllORk5BLXhLNDlNczZUT1VkaGpUSlBFZjVMVFRodEp5dGZsRldkeGpmdmNKdDF5eFVUQWlXSGdCVkpNc3pMOGdXYkNHeUxCVWRVbDBfLW9NQ1NLZzI3SDBOM0pMZnhLZzFoa0p0eHRpa0ZEVTc2dW1YejY0T1phY0dYb3M3bHRRd2I3d2lNR0lNR2VYODU4SFpJbk9Va3FJbTh5V0tvQUx3V1FnMUZTeGxSYw?oc=5",
    "data": "2026-10-24T16:38:09+00:00"
-  },
-  {
-   "titulo": "[VÍDEO] \"SE CORRER O IMPOSTO PEGA, SE FICAR A INFLAÇÃO COME\": Padre faz paródia sobre situação econômica do Brasil e viraliza com mais de 1 milhão de visualizações",
-   "fonte": "Blog do BG",
-   "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxOVmF0dUZRQkN3QnRaZjF1bm1CYmExbjJwNTZUV0NEUjVwRGQwT1k4Q3pTRV9jRlVacE5rM3VpcjVuSmxkTmFkay1FMWZiU0ZKbTI0cGN0NkNnYTg0RnJnb2dUVFAzd2FmVFVQNlY2WGpaTFlnaWV6eDhVNlplTmlIZEVtRXJpZE9nMTB0ZFV0cEF3MVlwczV5R0s2Q0IwTy0tdHhINjVKeFdZcTNjMEF6QnJmaWJaMHNDMjhlekZnVllIa3RBMkhQY0UxOVpOTDFmVUJyX0ctdVoxR2pvZFZ1MjBQazVXalhYYXZjLU9pVkNqOU5SOVpQVDF3dlJhdnQ0a29nQTdHZ3NFcmdFanpNa2hvNGI?oc=5",
-   "data": "2026-10-24T15:57:51+00:00"
-  },
-  {
-   "titulo": "Porto de Santana, no Amapá, terá investimentos de R$ 150,2 milhões",
-   "fonte": "ConectAmapa",
-   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOdzJCUExoSkRRdHZzNm53R1BrbnZ4WV9lVDJqbm5pQTVKRlhjbWtoS09fQTBwZXh3dVgwNXJpcmQ3aEVZb1U4bnFhNlZfbDBJQ2JUQUpqT1NnQUxvSjRvanZsOTVjZVlQSlBVRzBYZWJTODRIYVdjVWFhV2dnNE01WER4NXpDdmhuUGhMdFJSZEo?oc=5",
-   "data": "2026-10-24T15:56:03+00:00"
-  },
-  {
-   "titulo": "Eleições 2026: cobertura da imprensa estrangeira destaca economia e investimentos",
-   "fonte": "Folha PE",
-   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNTndQdF9ucTBTNUZ6T1Y2Z1NIb1hJMzc3b2N3TUdCQUwxNTc2aDdOZmpBWnlOZWwzMkp3dHBhc19ySmxrVEhXRndYMHBTWThBMXZJVVg4N1YzTnExVXNnVGVXZTB3WmFTUGR1MnAyNm40bU5TQnZFSkFwaUR6SFlvMzEzTXlQWS04UnpZ0gGLAUFVX3lxTE1Od1B0X25xMFM1RnpPVjZnU0hvWEkzNzdvY3dNR0JBTDE1NzZoN05makFaeU5lbDMySnd0cGFzX3JKbGtUSFdGd1gwcFNZOEExdklVWDg3VjNOcTFVc2dUZVdlMHdaYVNQZHUycDI2bjRtTlNCdkVKQXBpRHpIWW8zMTNNeVBZLThSelk?oc=5",
-   "data": "2026-10-24T15:53:19+00:00"
   }
  ]
 }
