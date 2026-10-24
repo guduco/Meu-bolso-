@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-10-24T02:33:34+00:00",
+ "atualizado": "2026-10-24T03:34:09+00:00",
  "indicadores": {
   "selic": {
    "valor": 13.75,
@@ -17,10 +17,34 @@
  "cotacoes": {},
  "noticias": [
   {
+   "titulo": "Flávio mente sobre preços e omite disparada dos alimentos sob Bolsonaro",
+   "fonte": "vermelho.org.br",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOaE1VaEo1S2xjd0UyUWw5Nkg2YWdlckNkMUhCS3d5b3hCMWFCX05zV0RtZ2Z2TFdDT05HZDBDU2hybml1aEtGREhjTnFHMDA5TzBfLWlxMEptSVNwZVRrUHlyaWRMbjJyWjNVNk42N0RoTFpGRXBEQXpKbUZIQlRTQmRidkMwdlF5N19MZWZGc2Jxa1NxdmkyekkzYWF3Z0NnYm1PeDBQNGJhejQ?oc=5",
+   "data": "2026-10-24T03:12:00+00:00"
+  },
+  {
+   "titulo": "DECISÃO 2026: Lula diz que Flávio Bolsonaro fará tesouraço no SUS; senador promete investimentos",
+   "fonte": "Times Brasil | CNBC",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxObFVVbEV6RTJEM0V0TFJWV0hZNFVrQUZIVGh6TDJOZkNqYkRoeGlXcjJMYTk4VWdKenB3Rk9qNlk5T0ZJZTRuT01Zem4wc3VZWEVael9UeTM0MmJ6clRaejRUbWQwVjdTNVB1Q1dTRkNnQ3BfTkgtTGVfOGp4enhMMjhra0FuTWNwOWJFSHZOQmU4cmlUMk93bXJQVWNqRllIYXdNTXdTZWVsX0Q3S0U5Z3lRYTZSMVItc0R6U01DZFVSN3plTTVlRg?oc=5",
+   "data": "2026-10-24T02:32:00+00:00"
+  },
+  {
+   "titulo": "Dólar cai 0,90% e fecha a R$ 4,99 antes do segundo turno",
+   "fonte": "Vero Notícias",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNRGNNbUlpU0R5dER6ZllwZERxN0ItTFEwNF9IeENaMDZ5ZGU4SFg4RFQwNnQxNXctQXl6OXNRNVdhXzVwX1pCczhNcVFPejY2VGgwRVZrQXlWRU1WbWl2Z25MVFNNTVdlaXlRY2g3bDRYU2xzazNCdWRjVGxkd1BwN3pwN29TdUY0a2lhUlJOSGc?oc=5",
+   "data": "2026-10-24T02:30:00+00:00"
+  },
+  {
    "titulo": "Lula e Flávio prometem mais investimentos em infraestrutura no debate da Globo",
    "fonte": "Jornal do Comércio",
    "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOdlNmTFZpREtuTnFiZFFsai1JWVc0b3lVR2x6ODdqNTFCV0sxZWhxWFpkZWRkdWtVVTA4UXE0eUNOTHNkRG41MFlPQ1NSdlhTLXNkMXp1NXF3NGI0RkpYVjRDby1kYklndlh4QjU3YVA5eHlpU0J3UjBpQjJPODItdk1PN2thSnJKOXpGWm5kQjFxX2I2N1YyT2Y4cmRnOW5jVkpmOU5VRFpkbzR1am41ZEszWDFqSFU5MEh6cG9ITmlLb0JuazRyVDBOalRzQTBvWHpYc3UxT3o?oc=5",
    "data": "2026-10-24T02:16:22+00:00"
+  },
+  {
+   "titulo": "Lula diz que Flávio Bolsonaro fará tesouraço no SUS; senador promete investimentos",
+   "fonte": "Tribuna do Sertão",
+   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOdDRiZE0xbERxYmxMSzdWWGItcVNyV21IQWtXVmV2U1oyUEx5NjVlTHpETEVDTkF4YmZ3WjktVnd6dHA5NERoZFB5cm01UndKSFhncXJUaGxxWVJwVHZreVJQSWEzaHBKRmdnYlVjd3F0bTdBRE5rek53VXZpVmhrb3VCeFFvcXB4bmE4aEk0R21QTUpfVzlCaU5sXzFGVE1TSUhzU3VOdXBTZTRTMTZYQi1iZlVWM1NxelEwLUkyQ3RCUkpOVHRDYjVGYVJqT1RWazhkOE16WDJDZHZT?oc=5",
+   "data": "2026-10-24T02:16:00+00:00"
   },
   {
    "titulo": "Prévia da inflação de outubro cai para 0,32%, aponta IBGE",
@@ -41,52 +65,28 @@
    "data": "2026-10-24T01:56:20+00:00"
   },
   {
+   "titulo": "A trajetória da dívida pública, além dos números de Lula e Bolsonaro",
+   "fonte": "O GLOBO",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQcm53am5kOTY4Nmx6QTVaWkF0M1dHR1UyY3hRZ2ZIdFFXdHBBcWdhQ3hlM3Z2RFBXOFFCcVMwQlJVVzdnak9rN19iSlJZZ293MGdZb3kzRE1MbkQzZThTTEJqNmZDWGd0X1dHeVZjWS1tLVBxdnNubkpZYzhyalJMS1NaTjRrOVNlT2tYaXNaeWF5Z1dNZmZlNV8wWEYzbU1NREo0OFdSelpLbzBuNDZvT3ZLbTJUenhEVjBtM1NxS2diUG1XNjJONlpfQdIB2gFBVV95cUxQVWV4Ty1TcVBfVUlXZHVVdE5LLUNMenlOc2NrYVNCZDRkM0hUUDhsT1cwblk1dWdYUWR3VWVaY0JqUVNlT2RIanFpVF9Ga2JDNmM4ZWl6XzczTzdLYmFfOHJjaXp3UTlNbUhWME1qMlA1WmdxNW5oYVEwcnNFWlVrcmlKREdXN3VCaHJCdDA0X05lTmM2WXllS2RUWTM3VEFVWnE1Vkp5LS1EU1dDTDVqVnRJeGFNVDRFZU4tZENYblJVRDRVT21Wd0FnNk9fU1hWVU5iR0tSNkVQdw?oc=5",
+   "data": "2026-10-24T01:53:19+00:00"
+  },
+  {
    "titulo": "China troca megaprojetos por investimentos seletivos na América Latina sob pressão de Trump",
    "fonte": "A Crítica de Campo Grande",
    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOM09DUzhiZjg5QWJRZmZCSklXcnUzaHd4c3NSUlB5bnZuQ3FkcWc1V01wVzJwS3ZUMDc0MmVMRDdYdG5CLUJlNGt0bzhrZkNWOVlwLVk2VTB3NGtCekFYRjlwSUhBYkZETjh1TEZ1R0RVblJ6TEtNbG1Xc1RWLTlzUVliTE13Y0F3eHMzcGhjaDhEaEZBRHVrM0FlMWJpcUdNc1ZhcGE5aTJ3ZjFQX09fdF91UWFUNUhTT19pdVVPQ2oweXNYd1E?oc=5",
    "data": "2026-10-24T01:45:00+00:00"
   },
   {
+   "titulo": "Debate: Flávio Bolsonaro promete reajustar salário mínimo acima da inflação",
+   "fonte": "Metrópoles",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNcU9nc3FDVzJ3cVVKY1NDVmhQOExBVHlsVlpWd0gtTlNnZ05yaWRyY3BEQkdQUnkyXzhlWTB3TF9sZmFOZXVDdUJZV2Z0dnBELVNaLU9YNkhpS3UzQzFsRmh1MnBtM3MxdzhtTzA2TDdEQ29RUFp3OGxoTE1Db2NPbFh4WUR4UjlVRDh4QzNORU1RU0s2QVVMeU9KUlVqS3VreGdiWUtIUUVoZm1l?oc=5",
+   "data": "2026-10-24T01:36:00+00:00"
+  },
+  {
    "titulo": "Lula defende investimentos no agronegócio e expansão de exportações",
    "fonte": "Correio Braziliense",
    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQRldLUWpoazE4R1dvdU0yWUxVY3FSbmxMaFlPWHZ2UG5YTl81azFSR3BLQ1dEb0luN2ZWZlFPcEJfZC1JRXJ4UnNnN19IdjRBVTYzWUl4S19OdjYyYnF5X0FmVVl6SkQ4NnIxUVJlMmJ0andETmdGM2VmSFhpbWdRZi1HaHNpQS1FOFBrUDdhQjVSSkg3dEEyRTFtQkRfRHRWN3IweEI0bWJGOWtkSVFQY2tsWHIza2todEJ6LXBxNmpaTnczMUp4eHFfQV9HRGZW0gHWAUFVX3lxTE5mMFJJcElUOEhtazZ5YTlSX3JGYjZmblhCczZkN0Fjc1BUV0JwYndDb292NXdmQmdRN1pPWHFGWnNTMXZwdmhXOFpFdmdlOTZRSnVscTRKUWpRTWlBTjBtN2hxNDRyZWpNXzRrR3lCempBWGtCNUNVaTVCbWlha3V1eFl5bHBlVUZ2M1ZRbDd4M0J6dm9BRGhheEw1LUQ2bWJ3U20xenNOclB3MlFxZnlnWllXdDh0WFdPeEstSUV0aXFyUGdIMWM5bV80WkdPMEhtSDNUdXc?oc=5",
    "data": "2026-10-24T01:30:00+00:00"
-  },
-  {
-   "titulo": "Sem os aumentos acima da inflação garantidos pelos governos do PT, o salário mínimo seria de apenas R$ 900. Essa valorização faz a diferença na vida de milhões de brasileiros. Enquanto eles seguem o modelo de Milei, nosso compromisso é continuar a",
-   "fonte": "X",
-   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1IVkZQcWVyaS1XWGhOODBhODlxOTVQeExVT3dRYUdZeHhIdHVEYUVLUllNeFlIazUtcDJ0cjFHRklnSTRoRlFmYk1XT1AtVUx1V2tXTVdfdG5yNWZSTEdsTkdjRGk4cVpVNkM4Sw?oc=5",
-   "data": "2026-10-24T01:24:35+00:00"
-  },
-  {
-   "titulo": "Lula defende valor do mínimo; Flávio fala em reajuste acima da inflação",
-   "fonte": "CNN Brasil",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQdHE5bHBhZkFkX2MzcnZLbURyaHdVQTRYenBhNE51RlhsNTBtTmZxazlpVVhKVk55WWs3a29WMVJWemJNcGhydm83Zk9EWFFCZExLYk9NRk5GeHI4T0JiS3EyZTlGV3FOZkNkZUc2SWRaaHhmWTJXQXRMS21XSlRJN3VBYjBhWENKOVQxVUhVbmRJeHc3dHdMZ25URzhnbDRhWl9fNGZvZ2pKTi1fblE?oc=5",
-   "data": "2026-10-24T01:21:19+00:00"
-  },
-  {
-   "titulo": "Quem investiu mais em infraestrutura: Lula ou Bolsonaro?",
-   "fonte": "Revista Fórum",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQdHdhWlE1dnJ5el8tQnl6Q0xEZWIxdVctbW5ZYW5ldnZoaFpiRXhQaDlDdWM3cEdhSDRFNm9YZTJKcW1VQkNhMnJ6M29BUnUyc3N5NEdVczJEUm9zMkp0YkhaLTRLU2V1SFFiT09TUkl4Sy1sZmtUank4WVB4bUtOMkRxTXh4RHR3NTVBSHFYLUhMSGFBeDlLY2dqdGpnOEVxTTNaRlNzenlQc081?oc=5",
-   "data": "2026-10-24T01:10:52+00:00"
-  },
-  {
-   "titulo": "Flávio Bolsonaro propõe pedágio zero para motociclistas e investimentos em ferrovias",
-   "fonte": "Portal VV8",
-   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQWjA3U2cxTlpjUVFvRWZsQmttUjA4VWFZR1dOMTVBUWZkTV8wY3ZVdkhZajIzanZiT3h0WXRrMm1ISThzMGhfMFpTWnZSOWZGeDNNRkhlQ3NXNVBqMEFxQXZud0VXN0lfVGxzaUZfR2Iya0tta2dWRy00ZUp5VnMwTl9sNEFKS2kyOXVHSE9DSUdHSk9zcWFtV2JLaHIybVZDZjNmdDVWZVEteDZLbEtoZlVoNm9tNlcxU2lWXzVZRVc?oc=5",
-   "data": "2026-10-24T01:10:09+00:00"
-  },
-  {
-   "titulo": "Lula ou Bolsonaro: veja o comparativo do investimento em infraestrutura",
-   "fonte": "Revista Fórum",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZTQycEpmNERUXzgybklkWHU0eEtqSG54UTZYMDZ3eENGRkIzOVU3azJtNzFTUzFpSlhwaTFvTjBlYUFoSHU3LUg2VXFxd0YwX0lpaWxzMC1QSjBvX01ta2JDMk1ZcXJaNlUxa1ZaOTk1RjQ1YmNaZ3AzRXJDR0ktQWJodTdHZ3NsQTdXUDZ1a3ZCY2NvaTU2OWVJczhDT0xESWViZWREeUtUSkU2?oc=5",
-   "data": "2026-10-24T01:04:18+00:00"
-  },
-  {
-   "titulo": "Lula x Flávio Bolsonaro: o que cada um falam sobre juros, inflação e o preço dos alimentos",
-   "fonte": "Exame",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOUnR4WUV1WnZ0MzdNTjA4VlRQN0F1ZTgzSld4RWpDVmlXVkdCdWpKU0J4Z2dPWEROeWV5amlzajcwOEl1LTNjSG80alo2Wm41c3dtQWZrazF4cW1SaURMNFNFM3hUT3ZWbGxFVFE0VEFzMUlSRkRIbEF6dlQ4Q2otR0RfMU04aHEtbUF3c1QzaENGMW5rTFdzVEplYTNxUENiUXlfYnJibnZzMThic3N1UG5YbXY?oc=5",
-   "data": "2026-10-24T00:03:25+00:00"
   }
  ]
 }
