@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-10-24T07:38:00+00:00",
+ "atualizado": "2026-10-24T08:34:29+00:00",
  "indicadores": {
   "selic": {
    "valor": 13.75,
@@ -16,6 +16,30 @@
  },
  "cotacoes": {},
  "noticias": [
+  {
+   "titulo": "Mega-Sena: quanto R$ 230 milhões rendem todo mês na poupança e no Tesouro",
+   "fonte": "UOL Economia",
+   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOcWRBS3I3VlVBWDVpZUhkbkl4QmhzOGF2SjdkakVDd09DdG5qbEJEeGRTNDFpalVLU2xxNnFCaEJLcDVkbUFlRjBBaFFSRzYwYm83aC1CSzl0bE9KdERwZ0xZTTFrS2JQT0lwN2xVS0tTdmNVMVlPOVJ4OGRiVUlOZnBTVFYzVVItdFhEbnBpNWEwYy1SWDJCSkhyemFTWWprYjYzcXZRbVR4V2ZPVTFlV2d0YXZsWVM0TExWSWc0TlJuOFVaZ1hZU1NmdUFCRkVVcFE?oc=5",
+   "data": "2026-10-24T08:30:00+00:00"
+  },
+  {
+   "titulo": "Ibovespa em alta, dólar em queda: a reação do mercado entre 1º e 2º turno da eleição",
+   "fonte": "InfoMoney",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOVVVZSHBvS2RxbjVDVDBEQV9lX0FlVkFlTkNFUU95c1dTQnN1aG5qM2RoMUlDN2Vmb21ELWNONElRbHpXS2d3cTdqbjUxRGlwNGk5bnlhZkZjYVhDd3NtNW02OEFCN3g2S1hYdWtUMEFiVFBqNlVUZWVwYTY1M245NUFLSXZrbU03aHVlRXdNWTgyTmdINFNUTVo1UEYxMmtsNWJRWkhjTTE5UEY2dFQ1Qy1xQi1sLUJ3MU0wcEFB0gHDAUFVX3lxTFBUV3hoUHpJXzdaczVGa3JId1J3LU9NQXl4UndRWjAxWS1VVG9Oc0Jrc1V1VjdnNFcxV09DdUwwTjZxYjlCZ1ZMcDJnczJZcE9GSTJGUE1EaG13azExV1ZSWEowVVg3bmlfUDdqbzRIYnF6NXdkYjN6MlhJY1d6ZXF4ZWlLMTNGbDg2SG9JSUxqc3UyNUdnYnE0NEZBMUUwMDZPTHVjUHVNZXFsOXJXMktBb1lpWEV6RHlvaXJZNWg2d1lfVQ?oc=5",
+   "data": "2026-10-24T08:00:00+00:00"
+  },
+  {
+   "titulo": "Prévia da inflação oficial do Brasil recua para 0,32% em outubro",
+   "fonte": "Jornal O Sul",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOWVRTUlEycDN1Y0RXTmo3ZExOWVE5T1JTY19fYzQxVjNCcmRBdV9WbUloR0poeFFOTVEwY3o1N093bzJWRGpCVWdvNGZzQ0tjdXltdGZxLWlHdE80S0d3SDA3QXA2c0JjcjV0NHBLbDVpWU9Salg1eUh0b3h0SUVOaDJnZEJCT0Z2RDBqU3hleEV6MUnSAZgBQVVfeXFMTWJ2QnV0aFNlMWJ6VGdWLXozVmZWazU5bklyd2haUmFFemxnbGpMeHBHN3pqYUxNWjRFQXlwbFpyYUhmMUQ3SzRONHJ1TzQ2Q0t2X3c5M0hRU3NTaWs1ekhrdU1GdXFsbWhrOU1XNDExcHBWMnFPRHNwRTh6V2wxTU5EWl8xV2h2LTh1VW0wWnZYN1ZSRl8wQUo?oc=5",
+   "data": "2026-10-24T07:18:45+00:00"
+  },
+  {
+   "titulo": "Incerteza sobre propostas de candidatos freia euforia do mercado",
+   "fonte": "O GLOBO",
+   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNNlJ1cldnVzI0YmRHbXV5MGUwdUhROEVvcEtTU1dTX0JvZU55dzNqWmtrY1dKbENCTnBHeDFVMjROak9KRUlld0htRkxfcVR4MWlDQmNrVHFIOVNScjdBOXpDVFZRQWx2MFdwcTNIT3BkTVVORXlDRzVtc3JKLVVWWnUwTjVIT2tTMUlRaUhrUEpXTUVTUU1KQlp4VUZ2ajhSa1hBUHQ4SEtkM05JNHgwTnBIOHZzN3NKT0pfSUN2eWNSUW5wUURVU04xaC10d2FnMndBZTZ3TUZKZ1HSAdsBQVVfeXFMTTZSdXJXZ1cyNGJkR211eTBlMHVIUThFb3BLU1NXU19Cb2VOeXczalpra2NXSmxDQk5wR3gxVTI0TmpPSkVJZXdIbUZMX3FUeDFpQ0Jja1RxSDlTUnI3QTl6Q1RWUUFsdjBXcHEzSE9wZE1VTkV5Q0c1bXNySi1VVlp1ME41SE9rUzFJUWlIa1BKV01FU1FNSkJaeFVGdmo4UmtYQVB0OEhLZDNOSTR4ME5wSDh2czdzSk9KX0lDdnljUlFucFFEVVNOMWgtdHdhZzJ3QWU2d01GSmdR?oc=5",
+   "data": "2026-10-24T07:00:00+00:00"
+  },
   {
    "titulo": "IPCA-15 de outubro desacelera mais que o esperado",
    "fonte": "Acia Araçatuba",
@@ -63,30 +87,6 @@
    "fonte": "Vero Notícias",
    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNRGNNbUlpU0R5dER6ZllwZERxN0ItTFEwNF9IeENaMDZ5ZGU4SFg4RFQwNnQxNXctQXl6OXNRNVdhXzVwX1pCczhNcVFPejY2VGgwRVZrQXlWRU1WbWl2Z25MVFNNTVdlaXlRY2g3bDRYU2xzazNCdWRjVGxkd1BwN3pwN29TdUY0a2lhUlJOSGc?oc=5",
    "data": "2026-10-24T02:30:00+00:00"
-  },
-  {
-   "titulo": "Ibovespa sobe com alocações visando eleição de Flávio, mas cai na semana",
-   "fonte": "Jornal do Comércio",
-   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOQ09oRkUwRTVSMWktUDl1ejFqcFJfZEpWNXY5NGJRVG5YV1BGS3NmUk1aWVdnSnBrbTNMVE5ZV0JnRkNhRFA1c3o3d0E4TG5jN2VMU0JWZ3F0Z0J0Y2lKbTVTNHZlZnJxTndlNUpTR2s2VS10ZV96R2tNMGw1VFQ5UTBkMk41UFF5ZTNhemE4U3VmVEtTcmFuLXBySGU5cU5MckZpWXdqZUpHdldsUjhTZ0UwM0REeGtINVFqT1d5Q3hrZFQxS1I5ekhJblhJeE0?oc=5",
-   "data": "2026-10-24T02:21:22+00:00"
-  },
-  {
-   "titulo": "Lula e Flávio prometem mais investimentos em infraestrutura no debate da Globo",
-   "fonte": "Jornal do Comércio",
-   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOdlNmTFZpREtuTnFiZFFsai1JWVc0b3lVR2x6ODdqNTFCV0sxZWhxWFpkZWRkdWtVVTA4UXE0eUNOTHNkRG41MFlPQ1NSdlhTLXNkMXp1NXF3NGI0RkpYVjRDby1kYklndlh4QjU3YVA5eHlpU0J3UjBpQjJPODItdk1PN2thSnJKOXpGWm5kQjFxX2I2N1YyT2Y4cmRnOW5jVkpmOU5VRFpkbzR1am41ZEszWDFqSFU5MEh6cG9ITmlLb0JuazRyVDBOalRzQTBvWHpYc3UxT3o?oc=5",
-   "data": "2026-10-24T02:16:22+00:00"
-  },
-  {
-   "titulo": "Lula diz que Flávio Bolsonaro fará tesouraço no SUS; senador promete investimentos",
-   "fonte": "Tribuna do Sertão",
-   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOdDRiZE0xbERxYmxMSzdWWGItcVNyV21IQWtXVmV2U1oyUEx5NjVlTHpETEVDTkF4YmZ3WjktVnd6dHA5NERoZFB5cm01UndKSFhncXJUaGxxWVJwVHZreVJQSWEzaHBKRmdnYlVjd3F0bTdBRE5rek53VXZpVmhrb3VCeFFvcXB4bmE4aEk0R21QTUpfVzlCaU5sXzFGVE1TSUhzU3VOdXBTZTRTMTZYQi1iZlVWM1NxelEwLUkyQ3RCUkpOVHRDYjVGYVJqT1RWazhkOE16WDJDZHZT?oc=5",
-   "data": "2026-10-24T02:16:00+00:00"
-  },
-  {
-   "titulo": "Prévia da inflação de outubro cai para 0,32%, aponta IBGE",
-   "fonte": "Acia Araçatuba",
-   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE40c3VKZHZpR2hFTUJtM1FoTjBwSXZ1aU5KbklHQUwybFB5Q2pmNFktUDZoSm5ENDc1WjFNa0FuUDNEVWQ3Z2dXOTlvQjNQdlBoUnZtSWJTYVI2YlREWXdEVklWUEp0T21IZlpDZV9hZU14N21RaHhYdjVmckU0Zw?oc=5",
-   "data": "2026-10-24T02:04:58+00:00"
   }
  ]
 }
