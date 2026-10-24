@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-10-24T03:34:09+00:00",
+ "atualizado": "2026-10-24T04:33:25+00:00",
  "indicadores": {
   "selic": {
    "valor": 13.75,
@@ -17,8 +17,14 @@
  "cotacoes": {},
  "noticias": [
   {
+   "titulo": "Galípolo é “muito inteligente” e até ele é contra Selic alta, diz Lula",
+   "fonte": "Poder360",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPdXFJUmloeDVhNkd6aDFLTU9kNHJLMktwcXZvMmE2OUJ5MFY4ZC1BV3FMZlI2bFZZNUNsSlRYQV8zVXRma0xPMVhEbjNKZDJORWY4SFBLWGFNZ0N5TFlYYUFyU2otNHg4OU0xOEppZ2E5VDFlbDZTX1cxTTJVdzA4TDdsZ2pnZFh0dE5vd3lXb1lac1BLd2JpeTRYMC1JYUllQ1lmXzd5Q3R1Zl94WEt1Q1FwU0tYYTg?oc=5",
+   "data": "2026-10-24T03:54:36+00:00"
+  },
+  {
    "titulo": "Flávio mente sobre preços e omite disparada dos alimentos sob Bolsonaro",
-   "fonte": "vermelho.org.br",
+   "fonte": "Vermelho",
    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOaE1VaEo1S2xjd0UyUWw5Nkg2YWdlckNkMUhCS3d5b3hCMWFCX05zV0RtZ2Z2TFdDT05HZDBDU2hybml1aEtGREhjTnFHMDA5TzBfLWlxMEptSVNwZVRrUHlyaWRMbjJyWjNVNk42N0RoTFpGRXBEQXpKbUZIQlRTQmRidkMwdlF5N19MZWZGc2Jxa1NxdmkyekkzYWF3Z0NnYm1PeDBQNGJhejQ?oc=5",
    "data": "2026-10-24T03:12:00+00:00"
   },
@@ -42,8 +48,8 @@
   },
   {
    "titulo": "Lula diz que Flávio Bolsonaro fará tesouraço no SUS; senador promete investimentos",
-   "fonte": "Tribuna do Sertão",
-   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOdDRiZE0xbERxYmxMSzdWWGItcVNyV21IQWtXVmV2U1oyUEx5NjVlTHpETEVDTkF4YmZ3WjktVnd6dHA5NERoZFB5cm01UndKSFhncXJUaGxxWVJwVHZreVJQSWEzaHBKRmdnYlVjd3F0bTdBRE5rek53VXZpVmhrb3VCeFFvcXB4bmE4aEk0R21QTUpfVzlCaU5sXzFGVE1TSUhzU3VOdXBTZTRTMTZYQi1iZlVWM1NxelEwLUkyQ3RCUkpOVHRDYjVGYVJqT1RWazhkOE16WDJDZHZT?oc=5",
+   "fonte": "UOL Notícias",
+   "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOTE0tTWxDeXFOT2N0UFc5azVLMWw1OW4tM1ZaX3JfTkxROUNFemlCZkdkMHBrRWFSbE9jVlZ0OUpfeDB5LTl6cHNsZHh1SXhDNVFXSlZvWEtCN2Y0dmFObE5sQmJiUnBMcU5vbm9tQmZSSWJMS0g2RkNzWU01S3BMRVE3a2RYczU5V3hrbk9vVnF4M25GTENLWDdtUm9sVnI2M0w1VWlFWlBmMFAtdkJIbE9Jc2tOS2VuVjlJYkJOSnFUdGJ6THF4ZHdNX0dOOTBZRGItYzBaY0pwUGVjZG84SmFFa2xCRXBqSDBXOQ?oc=5",
    "data": "2026-10-24T02:16:00+00:00"
   },
   {
@@ -81,12 +87,6 @@
    "fonte": "Metrópoles",
    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNcU9nc3FDVzJ3cVVKY1NDVmhQOExBVHlsVlpWd0gtTlNnZ05yaWRyY3BEQkdQUnkyXzhlWTB3TF9sZmFOZXVDdUJZV2Z0dnBELVNaLU9YNkhpS3UzQzFsRmh1MnBtM3MxdzhtTzA2TDdEQ29RUFp3OGxoTE1Db2NPbFh4WUR4UjlVRDh4QzNORU1RU0s2QVVMeU9KUlVqS3VreGdiWUtIUUVoZm1l?oc=5",
    "data": "2026-10-24T01:36:00+00:00"
-  },
-  {
-   "titulo": "Lula defende investimentos no agronegócio e expansão de exportações",
-   "fonte": "Correio Braziliense",
-   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQRldLUWpoazE4R1dvdU0yWUxVY3FSbmxMaFlPWHZ2UG5YTl81azFSR3BLQ1dEb0luN2ZWZlFPcEJfZC1JRXJ4UnNnN19IdjRBVTYzWUl4S19OdjYyYnF5X0FmVVl6SkQ4NnIxUVJlMmJ0andETmdGM2VmSFhpbWdRZi1HaHNpQS1FOFBrUDdhQjVSSkg3dEEyRTFtQkRfRHRWN3IweEI0bWJGOWtkSVFQY2tsWHIza2todEJ6LXBxNmpaTnczMUp4eHFfQV9HRGZW0gHWAUFVX3lxTE5mMFJJcElUOEhtazZ5YTlSX3JGYjZmblhCczZkN0Fjc1BUV0JwYndDb292NXdmQmdRN1pPWHFGWnNTMXZwdmhXOFpFdmdlOTZRSnVscTRKUWpRTWlBTjBtN2hxNDRyZWpNXzRrR3lCempBWGtCNUNVaTVCbWlha3V1eFl5bHBlVUZ2M1ZRbDd4M0J6dm9BRGhheEw1LUQ2bWJ3U20xenNOclB3MlFxZnlnWllXdDh0WFdPeEstSUV0aXFyUGdIMWM5bV80WkdPMEhtSDNUdXc?oc=5",
-   "data": "2026-10-24T01:30:00+00:00"
   }
  ]
 }
