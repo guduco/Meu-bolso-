@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-10-24T15:32:34+00:00",
+ "atualizado": "2026-10-24T16:33:20+00:00",
  "indicadores": {
   "selic": {
    "valor": 13.75,
@@ -17,6 +17,48 @@
  "cotacoes": {},
  "noticias": [
   {
+   "titulo": "Manaus 357 anos: Governo do Amazonas amplia investimentos em saúde, inclusão social e qualidade de vida",
+   "fonte": "Radar Amazônico",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQcTRJdVVyRWJvT3BzN0x6RHhiRm9WYUlTNUN4bzhBZ1pvXzhkUkZvQ3p0dkZZaTJRTmRvWTVMU0dLMnhwd0FkSmVvM2FUaEdPVTBpZWc5cE8yUzBVLXRhOFh5RUhBblNXcjVJanJZR1Q2bjU4Xy1GU3RwY1VvRVZWSWx3QjdraVFPc1I4djFQOUxhQ0hJSHlCMzRsdWxhUkZUUjktTGhjYnNOZmJZcEUwTjhGMDBBX2k4c2UxbDFpU29LY19nY1Z4N3RFUUc?oc=5",
+   "data": "2026-10-24T15:52:20+00:00"
+  },
+  {
+   "titulo": "Bolsa sobe com perspectiva de vitória de Flávio e dólar fecha abaixo de R$ 5 antes do 2º turno",
+   "fonte": "Blog do BG",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNQmJBVTM5WklsRTBmbDdqUlQ5X0ZOLXZhQnJOWXZhLWR0UFB3TE45LUJCbnFFUU9xMjl5cjBkdkVDMm1CcDRFUFBRTVF6ZzlPYVN1ZzdEMGNFMm95NEJyWVIwaTNMWHZQc3UtZWdmcExiNTRXcWZ4SWlfSlBfR3lkR2FELWxLcUxQeHdGazlqTXE3RXo1TDNYNC1kOE9ROENTZGVXbjV2TXFTZG9fUXczdVhKVXBBc3ZXbzc0YVF0NA?oc=5",
+   "data": "2026-10-24T15:47:52+00:00"
+  },
+  {
+   "titulo": "Deputado federal eleito Daniel Alencar convoca militância e exalta investimentos em saúde",
+   "fonte": "Política ao Ponto",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNTzdZT2VKT1Z4bkQ2R05lbFFBSTF0Mjh3RjFscTNRb3dMb1NtdWxmRTNxRzRaajVNX0VPZUhTeW1QNDhYYzlKdWtnNkNVenlVTUFZUE1WR1U4MWduV1YwWUNBTndOZUQyTm1HNFRFX1hpOXEwNDJ2ZjFlVFp2T09SLXc0dmFsYXJZZE12eVZyUkFNSEFFNkFVYURzQVVxOEJuR0Y0Tl9nLTZ0Z3lzVDlOck81cXJNeDZVVHJjTXBB?oc=5",
+   "data": "2026-10-24T15:28:21+00:00"
+  },
+  {
+   "titulo": "Aos 357 anos, Manaus recebe investimentos do Governo em saúde, inclusão social e qualidade de vida",
+   "fonte": "Portal do Marcos Santos",
+   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPZUZ5OGh4cVdHanA4aHNDdERBLXpGRndydjJCZjFob2hIMkFrMmx6UWtMS3pxUFRoV2lmaHNwX3pOUmtUbk0wYUdYYWhmWWYyQWtMUjhqVXVLMW1KLV9BT2hOVksyRUVJRTVoN25qdi1aQU54MXhfRERJY0h5cmpMTjQ4UUlEQjdaUUd2TTEzbDlpUkxBVWtKNDdFa0xjZ3o1MnVfV21Kd2trbW1ULTZxZnRVc3ZXZTlPcHB4THg5bHBveFRuSDhDUWlQTlBXNjVCRHE2N2VzQlhQeFQ2cTlJ?oc=5",
+   "data": "2026-10-24T15:22:11+00:00"
+  },
+  {
+   "titulo": "Lula mobiliza multidão em Copacabana em ato pela reeleição",
+   "fonte": "Jornal Correio do Brasil",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOX092TGZGM08yVFpOSTRyemlhcjVGVExPMkgtdXFQaUhKN0FRTzJwUHB4R1E2MENDZGRyQS0wTzdndXJ4R2QtWGZiTHFVYjctN21tdFZUU1p3cFdpMm9PY1R4VzZ1aEJZeFZBdzNoLWlsbXBVVnR6eUh0YnFQSHNKdnlaaGdLNjA?oc=5",
+   "data": "2026-10-24T15:03:25+00:00"
+  },
+  {
+   "titulo": "Mega-Sena sorteia R$ 230 milhões neste sábado; prêmio pode render quase R$ 2 milhões por mês",
+   "fonte": "TV Nova Nordeste",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPSF90YnpmMERpMU83TXgzNEJWTUJMV1hZUTFzLWRGbFhvZVo2RWZxczRzUFhPc2ZOWUtHcEVJeDk1c1htMjZpYmlDOW90VXVtSDBLQ0xoN1hxRTZIbGhjWWZQZXM0YTFNTVg0S3Z3QmhDWmc0VGdJc1ZsdzQ4OC1PbXQ0NkJsN0g2M1ppYkVWM3Q4R0oxRnJ5eVB5QnRTcmtkT2FBX2YyVGZFTDdfRThHbG9WNU5tYVFFQmN2WDdXb0RHWHlZ?oc=5",
+   "data": "2026-10-24T14:56:00+00:00"
+  },
+  {
+   "titulo": "Carteira recomendada: 5 ações para bater o Ibovespa (IBOV) no curto prazo, segundo a Terra",
+   "fonte": "Money Times",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPeGN0MDlRZjRNZm1ya0pxQ1BVaTFBQ0kxX21pdjVjUzBJUXVhU1l1aG13SHl1SHprUEs5X3IzbWdZa0gtWkVIRENKRU4xdUJVT0pwNktJLWdPaUx5elgxNkxScXZZWEgtM0xFblBNRUgzaE9JYW9kODNSTW1QTm9wc0xJYkRTN1FhWTJNdl9semtBeG9MSjUycUhpYWNhaDJSVHlQb3VFUFZxMENWcllOZDhDRzN4QTcxNEpmV2szOA?oc=5",
+   "data": "2026-10-24T14:50:00+00:00"
+  },
+  {
    "titulo": "Expectativa dos consumidores para inflação da zona do euro para 2027 sobe",
    "fonte": "CNN Brasil",
    "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNR1FtY1BNMFRReHZlaUpyTTV5YXdJVkd6RmtrZ09yOWhzdGlUUDNRenR4ZUdqSmRKam1PX0k4eExwcFZKZEwzeWFjV1VRSTNDOHRURFZxS0pKQzFCTDIwMlFSRFh3a000TGtQY1M3NERMa0FGRkRzekZGX0hRZzBqWjR1MzZfV0l2SFVLNnQ1UWVDdV9aZkVHeEx4TTI0VzlGRV9CUVBVV0xCZFMwTFpoTDRoTHgxaWE4eThBbk9WZ19zckV4MHVMNXdZNHY?oc=5",
@@ -32,7 +74,7 @@
    "titulo": "Eleições 2026: dólar pode cair mais? Líderes avaliam riscos para o Brasil após as urnas",
    "fonte": "BeInCrypto",
    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQdV9HWkZ6cFpnMy1HVzBKVFBsYmtEQlNwZ2g1V0pQRWdub1RFekdOYU15QjVXRE5vdkZNZzEyQ216N0t5Zjhhd1NXX0NTZERnbTZyQVNNWFA2YmwwZ2FuZmcwd1FHWmp4WWhKOWJEeFhUY3NmNlBRUy1Wd2NTOThPN0V2MG5ONXBUdmV3S2tJSHgzbWdoZlgzX1NWa3F1OFV6WHF6eXVVTkNrcXBVeWpFZHln?oc=5",
-   "data": "2026-10-24T13:55:38+00:00"
+   "data": "2026-10-24T13:54:56+00:00"
   },
   {
    "titulo": "Imprensa estrangeira destaca economia, investimentos e agronegócio na eleição de 2026",
@@ -45,48 +87,6 @@
    "fonte": "Jornal O Fluminense",
    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9MaXVaRzZFY3hhWEdBalloQWVockNsbS1QaUMtdzlDdVlpWGQ4ZlVhcDVFOWJjTlFrRFc1OTlfbXFsWXZYdmtZYnR0SXhYemNXWlpFME5hQ2cyQm1lZHBfTHZkMGdNdllIamhPcg?oc=5",
    "data": "2026-10-24T13:41:00+00:00"
-  },
-  {
-   "titulo": "Vports prepara revisão da concessão e novos investimentos em 2027",
-   "fonte": "Vitória News",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNbXI1a0ZteWl0akdINjVIWEhDTE44clQ0TmpmUUNmNW8yWTNGLWx1Zm00WmJDczY4WXUzWFA3V09jSWNHZjZFMkk5NzFKaG5RZmtlUkdrMFFKekpIaFBhZjVWTWtwQU1IY1dpMWdjcnZaNFc2TFAxU3FVd3lOZ1EyazROSnJTNzRGcjZnYUdqLUxzYzZ2alc4?oc=5",
-   "data": "2026-10-24T13:40:31+00:00"
-  },
-  {
-   "titulo": "GO-020 se consolida como novo polo de investimentos e valorização imobiliária em Goiânia; entenda os motivos",
-   "fonte": "Jornal Opção",
-   "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQV3JlRjk1dVdSQTJxbWpZbGZCRjQ1ZWRkcHJkTkhsU3BCaTljaWVWRWR6cEYtU29OMnhSNG02UTV5RDJPaWYxQ2d0X2lLLTBRUWxMbW5ERjVXcUluOFhzS2pTWERmQS1nUHJLWXROYi1JX1hEd2tsTG94dHl1VEhyV3NUU0dJLXZUR19ZLS1FR2luX055V3JJNVdpWm5CbGZTLUNDcjNhVmxqNmJDbmliQk1wU2ZsalROUVdJZGRlSWRUN1ZnMmNZWS1qVVZfNEJFU2JRNEpsZElreS1BVE5Yc3ZrSVV6cTlkNVQ0ZW9OTjhVaU5GX1E?oc=5",
-   "data": "2026-10-24T13:34:00+00:00"
-  },
-  {
-   "titulo": "Eleições e investimentos: mercado reage ao resultado das urnas; veja o calendário econômico",
-   "fonte": "Estadão",
-   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOdlBEYzlaUC1Db0FXYVpXN0ZvMEdkdFo4emZmbnRtcVQzRW44eEVQLTg2Zk9TWm1icmtqOVhWZWNlWkZ6RGJyTDVKMDRUNTZKR3ZyY0U4bXJlaTJxcmxvclpPZUNDSS1QRmEtVy1oajFlLTMtWGJxdVRabk9WTWljQkhwYjUxU1BmTnZBeFZ1cGs5b0Y0Zmp4TGlGaDNqUkU4SlpIemloc0N3VmJMdndkOTU5MkxLOW5MOTNITkZsZ0dfaU9jX080Xzl2Ny16RXdpOEpZbUhsbFpkUG9oLXJualZn0gHnAUFVX3lxTE1NVmhNVTdSWEEtQUpjWFlPalA1Tkd5SVFJTll6elRzOXJwY3VLYWdvcWg4ekloMlpYcEtSX3ZLbDZMUE90YTVDQUtjUVBSZVFhVjBsS3VpQlVQMDFtcHFVR1FzWDZaSEp4YllHa2xCdU8xcnVuSG1RcV9hWVF2c3BPZUFHUGowTnVVSmY1bHB2T0ZiRTMzQjhMbkkzS01lTFQ2dVBTTHlhMFRpSnhmNjM3Smg0elZZaFRiYjVXUHhQM21FS0d3ZXZfQVRvUEJoV2l1cTNvMWhzLWpZdEpFUld0RGF6azM4bw?oc=5",
-   "data": "2026-10-24T13:26:51+00:00"
-  },
-  {
-   "titulo": "Eleições 2026: cobertura da imprensa estrangeira destaca economia e investimentos",
-   "fonte": "Terra",
-   "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOQ3lFcjR6dUpkQWZ3Y1R4WEE0YjYwV0VTSmg5ajFhUVNBdHBDc2hMMmFDTXBBcFRPOXhBT3hYMm1oQnN4eVZ2VktaMEZBTHZiNm5fcERaNHBPdlJpN2FscU9zS0M2ekhMU3VSa1VTc3VFTjNVRjBacld2cVdrQmlOVzNfaGRmMDdieGM3QkhjRjllRl9XbWd0MFE0c2hmdGJucGowNDF2aWJoOU4tZ05qN3FSclZwT1NDT092MDk2YzdKaHg5WGMxUlc4YWFTSlhqS1lKbnlqaHB5TEV6WlB5OFZiME16bEJ2RHdlSjRSQm50bUJRZnZxcmdqb01Idw?oc=5",
-   "data": "2026-10-24T13:13:00+00:00"
-  },
-  {
-   "titulo": "FCO aprova R$ 100,1 milhões em investimentos para 33 municípios de MS",
-   "fonte": "MS Todo dia",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPQVZQN0E0NWRZV2hkR3lQYWxiRzJRb1pueFM2bXFiY2ZKUE5kbDI5UW9oT2RuaHlhYm12VjU3ZHlNZklSNUFncFVTZzBFdUMtdExsM29SRjR6RkVBcUlraEdLVGw1aTRsN182LS1mazl1QmhiaHprdmpYZ1R2MFhRbklwLUhwd0hWWmU2SWhQX21ZYnI4QWlyZ1E5YXVKS3NhUEV3Wmp5dXIwMVgx?oc=5",
-   "data": "2026-10-24T12:49:11+00:00"
-  },
-  {
-   "titulo": "Lucas Reis cita investimentos de Lula na Bahia e critica Flávio Bolsonaro: \"Não consegue citar uma obra no Nordeste\"",
-   "fonte": "Política ao Ponto",
-   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPTE4xbUZqN1dQcmpFdWg4cVZIM04zaVVQcjBOenJIMVZCZmQ5d21xck5MUURLa3BLVEhQcjB6NDhaejhSX1pFWU8wWjFqVmp0VDlFZ2VVekcxUnBrRHNhdHJGLXQ3bjR5Z2ZQdlcyNlJQZC1rZ0NTMExkak5LZGZ5R0VaUF82VW41ZGRqUWFQMGpJS0dXN2ZSRTI5UlE1QW4wSl9TT05nOGpkdjRkRlhRLUp0Um9KU0JVd3NrV2VobHZXdTE5bzZSVDV0TEdDZWs3bEVVMkJkYXFUV2tmLUE?oc=5",
-   "data": "2026-10-24T12:48:15+00:00"
-  },
-  {
-   "titulo": "Preço dos alimentos sobe 0,88% no IPCA-15; tomate e cebola lideram altas",
-   "fonte": "TVBV ONLINE",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOU2V3V0hqdmswU2pjeTRlMnJOTmtGWTUxQ3pYZlFIMmJIQV8zT3paSzVLaWhSVG5lb1d0bW85SXJpZU4xd1hKLTJ6VnpKajhPSWYxVkJYQ1BPX2o0dXVxNm1sUW9VekxBRjBaeU04Z1htUlZNWl93b0ZtS1QtZmJlMS1DSTlWMWJUSnliWDdjbFZEc2p3WmVxRHZn?oc=5",
-   "data": "2026-10-24T12:45:56+00:00"
   }
  ]
 }
