@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-10-24T05:33:40+00:00",
+ "atualizado": "2026-10-24T06:39:01+00:00",
  "indicadores": {
   "selic": {
    "valor": 13.75,
@@ -16,6 +16,18 @@
  },
  "cotacoes": {},
  "noticias": [
+  {
+   "titulo": "IPCA-15 de outubro desacelera mais que o esperado",
+   "fonte": "Acia Araçatuba",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBNWmFzQ0pKZS1PZmVubVJDOG1vZkxwVjBKeC11WENPTE9HQmZnOG1tQ09XanpyWXVRVzg3NjRWbDVXRVR4NWZXZnZvb2NFNG1mWEw4aWRKX0lGSG4wVEZiaXNVWUFzSG93M1ctMmszTTJuQU1weGo2azV3?oc=5",
+   "data": "2026-10-24T06:20:41+00:00"
+  },
+  {
+   "titulo": "Ibovespa atinge 204 mil pontos hoje",
+   "fonte": "Acia Araçatuba",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE92TzJGR0V0d2NDbDVueXd6XzdJYjFIMnd5R2ZaTEdiNnJrckZWczM3bHdFbDVBR3pUOUdoZVBDU0JVMl81X2F1MXlFQWtoYVMxbGdidkdtR0xBWjYxNXlSTlVlZHNxYml5Z2c?oc=5",
+   "data": "2026-10-24T06:20:40+00:00"
+  },
   {
    "titulo": "Último pregão antes do 2º turno: Bolsa sobre 0,47% e dólar cai",
    "fonte": "O POVO",
@@ -53,6 +65,12 @@
    "data": "2026-10-24T02:30:00+00:00"
   },
   {
+   "titulo": "Ibovespa sobe com alocações visando eleição de Flávio, mas cai na semana",
+   "fonte": "Jornal do Comércio",
+   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOQ09oRkUwRTVSMWktUDl1ejFqcFJfZEpWNXY5NGJRVG5YV1BGS3NmUk1aWVdnSnBrbTNMVE5ZV0JnRkNhRFA1c3o3d0E4TG5jN2VMU0JWZ3F0Z0J0Y2lKbTVTNHZlZnJxTndlNUpTR2s2VS10ZV96R2tNMGw1VFQ5UTBkMk41UFF5ZTNhemE4U3VmVEtTcmFuLXBySGU5cU5MckZpWXdqZUpHdldsUjhTZ0UwM0REeGtINVFqT1d5Q3hrZFQxS1I5ekhJblhJeE0?oc=5",
+   "data": "2026-10-24T02:21:22+00:00"
+  },
+  {
    "titulo": "Lula e Flávio prometem mais investimentos em infraestrutura no debate da Globo",
    "fonte": "Jornal do Comércio",
    "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOdlNmTFZpREtuTnFiZFFsai1JWVc0b3lVR2x6ODdqNTFCV0sxZWhxWFpkZWRkdWtVVTA4UXE0eUNOTHNkRG41MFlPQ1NSdlhTLXNkMXp1NXF3NGI0RkpYVjRDby1kYklndlh4QjU3YVA5eHlpU0J3UjBpQjJPODItdk1PN2thSnJKOXpGWm5kQjFxX2I2N1YyT2Y4cmRnOW5jVkpmOU5VRFpkbzR1am41ZEszWDFqSFU5MEh6cG9ITmlLb0JuazRyVDBOalRzQTBvWHpYc3UxT3o?oc=5",
@@ -60,8 +78,8 @@
   },
   {
    "titulo": "Lula diz que Flávio Bolsonaro fará tesouraço no SUS; senador promete investimentos",
-   "fonte": "UOL Notícias",
-   "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOTE0tTWxDeXFOT2N0UFc5azVLMWw1OW4tM1ZaX3JfTkxROUNFemlCZkdkMHBrRWFSbE9jVlZ0OUpfeDB5LTl6cHNsZHh1SXhDNVFXSlZvWEtCN2Y0dmFObE5sQmJiUnBMcU5vbm9tQmZSSWJMS0g2RkNzWU01S3BMRVE3a2RYczU5V3hrbk9vVnF4M25GTENLWDdtUm9sVnI2M0w1VWlFWlBmMFAtdkJIbE9Jc2tOS2VuVjlJYkJOSnFUdGJ6THF4ZHdNX0dOOTBZRGItYzBaY0pwUGVjZG84SmFFa2xCRXBqSDBXOQ?oc=5",
+   "fonte": "Tribuna do Sertão",
+   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOdDRiZE0xbERxYmxMSzdWWGItcVNyV21IQWtXVmV2U1oyUEx5NjVlTHpETEVDTkF4YmZ3WjktVnd6dHA5NERoZFB5cm01UndKSFhncXJUaGxxWVJwVHZreVJQSWEzaHBKRmdnYlVjd3F0bTdBRE5rek53VXZpVmhrb3VCeFFvcXB4bmE4aEk0R21QTUpfVzlCaU5sXzFGVE1TSUhzU3VOdXBTZTRTMTZYQi1iZlVWM1NxelEwLUkyQ3RCUkpOVHRDYjVGYVJqT1RWazhkOE16WDJDZHZT?oc=5",
    "data": "2026-10-24T02:16:00+00:00"
   },
   {
@@ -69,24 +87,6 @@
    "fonte": "Acia Araçatuba",
    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE40c3VKZHZpR2hFTUJtM1FoTjBwSXZ1aU5KbklHQUwybFB5Q2pmNFktUDZoSm5ENDc1WjFNa0FuUDNEVWQ3Z2dXOTlvQjNQdlBoUnZtSWJTYVI2YlREWXdEVklWUEp0T21IZlpDZV9hZU14N21RaHhYdjVmckU0Zw?oc=5",
    "data": "2026-10-24T02:04:58+00:00"
-  },
-  {
-   "titulo": "Euforia de investidores com Flávio Bolsonaro dá lugar a cautela às vésperas do 2º turno",
-   "fonte": "Folha de S.Paulo",
-   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxONTJKSTNTcmZ2U0hZNldkNk5UQWcweVJHS0s5N0tPdU4xVU16YkxsaG1XdFI3VDhuSGN5MzRjUzk5aGpoNTU2M0dTVTR0UlVwR0QtYzdCdTNkVHJNQk5tcDNSTW9Qdnp5OHBNajlmTXRiZ2w0ekJ0Tmd0TXR1N2ZJb1p3YVhJSDBYaEpzaENQUlZGclpwRXljYzg1M0FBTUlmZDlLdkNhcXN5NVk5a3V2cmcwTlpsMGVVUHBxQmI2TzdNNE1jZDk2dHZ2bDJvV0MzbDM5UGl3?oc=5",
-   "data": "2026-10-24T02:00:00+00:00"
-  },
-  {
-   "titulo": "Flávio Bolsonaro afirma que pretende reajustar salário mínimo acima da inflação",
-   "fonte": "Portal VV8",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOUnI4LWZndWZEU0cwcGtZLTdtb1ZJaDI4LVR4cFQ1bUVMSzZOQ0xPei13ZHdTdVo2OFU1aThmVnVpR1lRYjdiQkwxQXZPRlBsdTNBVWJyTEFZYkRXdjVWeUl4MlZlY0N5aGpvMFpwMU4zR1k2U0Z1dGpydmxYV1hpRjFXb2JlQk9Ya3pnQlQ2TUtIOUxxTUtHelhWQkR1UzIxVndjT3BOa21hNEZFbnVmTUs3a0xXY2pnOEE?oc=5",
-   "data": "2026-10-24T01:56:20+00:00"
-  },
-  {
-   "titulo": "A trajetória da dívida pública, além dos números de Lula e Bolsonaro",
-   "fonte": "O GLOBO",
-   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQcm53am5kOTY4Nmx6QTVaWkF0M1dHR1UyY3hRZ2ZIdFFXdHBBcWdhQ3hlM3Z2RFBXOFFCcVMwQlJVVzdnak9rN19iSlJZZ293MGdZb3kzRE1MbkQzZThTTEJqNmZDWGd0X1dHeVZjWS1tLVBxdnNubkpZYzhyalJMS1NaTjRrOVNlT2tYaXNaeWF5Z1dNZmZlNV8wWEYzbU1NREo0OFdSelpLbzBuNDZvT3ZLbTJUenhEVjBtM1NxS2diUG1XNjJONlpfQdIB2gFBVV95cUxQVWV4Ty1TcVBfVUlXZHVVdE5LLUNMenlOc2NrYVNCZDRkM0hUUDhsT1cwblk1dWdYUWR3VWVaY0JqUVNlT2RIanFpVF9Ga2JDNmM4ZWl6XzczTzdLYmFfOHJjaXp3UTlNbUhWME1qMlA1WmdxNW5oYVEwcnNFWlVrcmlKREdXN3VCaHJCdDA0X05lTmM2WXllS2RUWTM3VEFVWnE1Vkp5LS1EU1dDTDVqVnRJeGFNVDRFZU4tZENYblJVRDRVT21Wd0FnNk9fU1hWVU5iR0tSNkVQdw?oc=5",
-   "data": "2026-10-24T01:53:19+00:00"
   }
  ]
 }
