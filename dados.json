@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-10-24T01:43:58+00:00",
+ "atualizado": "2026-10-24T02:33:34+00:00",
  "indicadores": {
   "selic": {
    "valor": 13.75,
@@ -16,6 +16,42 @@
  },
  "cotacoes": {},
  "noticias": [
+  {
+   "titulo": "Lula e Flávio prometem mais investimentos em infraestrutura no debate da Globo",
+   "fonte": "Jornal do Comércio",
+   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOdlNmTFZpREtuTnFiZFFsai1JWVc0b3lVR2x6ODdqNTFCV0sxZWhxWFpkZWRkdWtVVTA4UXE0eUNOTHNkRG41MFlPQ1NSdlhTLXNkMXp1NXF3NGI0RkpYVjRDby1kYklndlh4QjU3YVA5eHlpU0J3UjBpQjJPODItdk1PN2thSnJKOXpGWm5kQjFxX2I2N1YyT2Y4cmRnOW5jVkpmOU5VRFpkbzR1am41ZEszWDFqSFU5MEh6cG9ITmlLb0JuazRyVDBOalRzQTBvWHpYc3UxT3o?oc=5",
+   "data": "2026-10-24T02:16:22+00:00"
+  },
+  {
+   "titulo": "Prévia da inflação de outubro cai para 0,32%, aponta IBGE",
+   "fonte": "Acia Araçatuba",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE40c3VKZHZpR2hFTUJtM1FoTjBwSXZ1aU5KbklHQUwybFB5Q2pmNFktUDZoSm5ENDc1WjFNa0FuUDNEVWQ3Z2dXOTlvQjNQdlBoUnZtSWJTYVI2YlREWXdEVklWUEp0T21IZlpDZV9hZU14N21RaHhYdjVmckU0Zw?oc=5",
+   "data": "2026-10-24T02:04:58+00:00"
+  },
+  {
+   "titulo": "Euforia de investidores com Flávio Bolsonaro dá lugar a cautela às vésperas do 2º turno",
+   "fonte": "Folha de S.Paulo",
+   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxONTJKSTNTcmZ2U0hZNldkNk5UQWcweVJHS0s5N0tPdU4xVU16YkxsaG1XdFI3VDhuSGN5MzRjUzk5aGpoNTU2M0dTVTR0UlVwR0QtYzdCdTNkVHJNQk5tcDNSTW9Qdnp5OHBNajlmTXRiZ2w0ekJ0Tmd0TXR1N2ZJb1p3YVhJSDBYaEpzaENQUlZGclpwRXljYzg1M0FBTUlmZDlLdkNhcXN5NVk5a3V2cmcwTlpsMGVVUHBxQmI2TzdNNE1jZDk2dHZ2bDJvV0MzbDM5UGl3?oc=5",
+   "data": "2026-10-24T02:00:00+00:00"
+  },
+  {
+   "titulo": "Flávio Bolsonaro afirma que pretende reajustar salário mínimo acima da inflação",
+   "fonte": "Portal VV8",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOUnI4LWZndWZEU0cwcGtZLTdtb1ZJaDI4LVR4cFQ1bUVMSzZOQ0xPei13ZHdTdVo2OFU1aThmVnVpR1lRYjdiQkwxQXZPRlBsdTNBVWJyTEFZYkRXdjVWeUl4MlZlY0N5aGpvMFpwMU4zR1k2U0Z1dGpydmxYV1hpRjFXb2JlQk9Ya3pnQlQ2TUtIOUxxTUtHelhWQkR1UzIxVndjT3BOa21hNEZFbnVmTUs3a0xXY2pnOEE?oc=5",
+   "data": "2026-10-24T01:56:20+00:00"
+  },
+  {
+   "titulo": "China troca megaprojetos por investimentos seletivos na América Latina sob pressão de Trump",
+   "fonte": "A Crítica de Campo Grande",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOM09DUzhiZjg5QWJRZmZCSklXcnUzaHd4c3NSUlB5bnZuQ3FkcWc1V01wVzJwS3ZUMDc0MmVMRDdYdG5CLUJlNGt0bzhrZkNWOVlwLVk2VTB3NGtCekFYRjlwSUhBYkZETjh1TEZ1R0RVblJ6TEtNbG1Xc1RWLTlzUVliTE13Y0F3eHMzcGhjaDhEaEZBRHVrM0FlMWJpcUdNc1ZhcGE5aTJ3ZjFQX09fdF91UWFUNUhTT19pdVVPQ2oweXNYd1E?oc=5",
+   "data": "2026-10-24T01:45:00+00:00"
+  },
+  {
+   "titulo": "Lula defende investimentos no agronegócio e expansão de exportações",
+   "fonte": "Correio Braziliense",
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQRldLUWpoazE4R1dvdU0yWUxVY3FSbmxMaFlPWHZ2UG5YTl81azFSR3BLQ1dEb0luN2ZWZlFPcEJfZC1JRXJ4UnNnN19IdjRBVTYzWUl4S19OdjYyYnF5X0FmVVl6SkQ4NnIxUVJlMmJ0andETmdGM2VmSFhpbWdRZi1HaHNpQS1FOFBrUDdhQjVSSkg3dEEyRTFtQkRfRHRWN3IweEI0bWJGOWtkSVFQY2tsWHIza2todEJ6LXBxNmpaTnczMUp4eHFfQV9HRGZW0gHWAUFVX3lxTE5mMFJJcElUOEhtazZ5YTlSX3JGYjZmblhCczZkN0Fjc1BUV0JwYndDb292NXdmQmdRN1pPWHFGWnNTMXZwdmhXOFpFdmdlOTZRSnVscTRKUWpRTWlBTjBtN2hxNDRyZWpNXzRrR3lCempBWGtCNUNVaTVCbWlha3V1eFl5bHBlVUZ2M1ZRbDd4M0J6dm9BRGhheEw1LUQ2bWJ3U20xenNOclB3MlFxZnlnWllXdDh0WFdPeEstSUV0aXFyUGdIMWM5bV80WkdPMEhtSDNUdXc?oc=5",
+   "data": "2026-10-24T01:30:00+00:00"
+  },
   {
    "titulo": "Sem os aumentos acima da inflação garantidos pelos governos do PT, o salário mínimo seria de apenas R$ 900. Essa valorização faz a diferença na vida de milhões de brasileiros. Enquanto eles seguem o modelo de Milei, nosso compromisso é continuar a",
    "fonte": "X",
@@ -51,42 +87,6 @@
    "fonte": "Exame",
    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOUnR4WUV1WnZ0MzdNTjA4VlRQN0F1ZTgzSld4RWpDVmlXVkdCdWpKU0J4Z2dPWEROeWV5amlzajcwOEl1LTNjSG80alo2Wm41c3dtQWZrazF4cW1SaURMNFNFM3hUT3ZWbGxFVFE0VEFzMUlSRkRIbEF6dlQ4Q2otR0RfMU04aHEtbUF3c1QzaENGMW5rTFdzVEplYTNxUENiUXlfYnJibnZzMThic3N1UG5YbXY?oc=5",
    "data": "2026-10-24T00:03:25+00:00"
-  },
-  {
-   "titulo": "Venezuela amplia acordos de energia e prevê bilhões em investimentos no setor petrolífero",
-   "fonte": "Portal Viu",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQT19pRERZVzZkVWRyVEdxS210SzAtNFNPZ3EtTU9rTWxzbGFIakFXUXB1WWVyaUlwMW1sOVlUN3lwVG9XNUxaWWtyRkM2OUdmQ19jaHo2QzlHM0poRDBiZWdtU2Y3UTZrVDZ2TEJzUk1pT1BEVTlyZENrb0laVUZSTkFQRlVoUFBoU1duTFhrakhuVF9LZ0x2Z1RWc3I2RVd5SU5Cck9ielF4OXlJV0hGMVU5cHlYaHdCcUpKU3ppM1NfQQ?oc=5",
-   "data": "2026-10-23T23:32:30+00:00"
-  },
-  {
-   "titulo": "Governo Federal e Estado ampliam investimentos na saúde do Sudoeste baiano",
-   "fonte": "ba.gov.br",
-   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQOFhFNGNyaDFKd3BHSUZpb09kb3Mwem10bEROTkJwRGN2Q3NVYW1WY2dzRWtJeHlnekloSFB6SWJ0NXlYeW9XN3B5S1lPT19PbzFVZzFsSC1xUnN3M3pHTWRXZ2NKZU0tVl9mZFlCTkpLSWFTNTJEeDkzWllWel9ldXM2TW9EUGNQNWowTG9mQk85RmYtSTJENjIwOUdwRW40bVdyd1pXSFc0YkE2Nng5VnUzTDNoWnpIYWhVNFBoYWVad1J0X1d1ZXZGSmI?oc=5",
-   "data": "2026-10-23T23:24:08+00:00"
-  },
-  {
-   "titulo": "Dólar: como a vitória de Flávio ou Lula pode impactar o câmbio, segundo analistas",
-   "fonte": "Bloomberg Línea Brasil",
-   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNODJRcEZqSXpyaDQ3YzdfdFZKSWEydHB2WFZ0MDdQQXFjZ2dwSUE4LXNrMTBKTThqNXFLSm1jLWlpLWRIMi1USW1PM3cybm5xMk9jTG5zT1ctY052bEhKaDhoNzl4VS1KVEZ1N01Ia283ZDBybzYwd1N4MlU4WnFWUk0tMjFkWVhQOTlJNEdLZVRidjFHcl91R1FFVTFXNTMwejRSN2JpSDAxbkNmb1hWOGJPNnl1VGN4Wnl3akZqclrSAdQBQVVfeXFMTUFCZ1pWN1R1RVJqRVJSWEhpemd1WjVLVk9KaEE5SDRrOVZtdGpsRWY3bk94aWhrM0dLSUU4MVlLRFNZQzBZUGNfdTEwUGxMZWdmZWZvZjQxMDNkcl9RaHc5aDQ1NFRKYXlKSC1jd1hrOWt1QVJsNHF6eUp2a09lN3BQT1FnYUxScGFvODcwZWF2XzVtaldBb0ItWC15Z3NpYVNGaHdoZXR4WHNyUk9vSzJ2bVF4NlZsdG9LM0hBQWdqN05TQzd0SUpkYWxxMVYwd2R1SFc?oc=5",
-   "data": "2026-10-23T23:21:17+00:00"
-  },
-  {
-   "titulo": "Prévia da inflação: IPCA-15 sobe 0,32% em outubro e acumula 4,62% em 12 meses",
-   "fonte": "Jornal do Brasil",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPdlNvVXk0U3hBN2RKdnhHR1IyTC1UNXMzNm5KMnhsVzYxdlg3b1Q3TXNVZDJUMUpqcWk1VXA2LWE0aFFMVXJTYVJ6TEZIR3ZON3J4QkJaZlhHVE1pTjZzb1dOdDg3MmhxRGFkM2NxVVFOSldhcU0xMGp2MDVQMUlDaElpOEhqTDVsQTU0dkZjN1c1Vk5SOGFHeWFRdlhveUdGbHpyZTltUWNVTUExNDNIenFEdEpac005LTZMR21ieFVFQdIBxwFBVV95cUxQZG4yQjdWOXNMNFJFRFhfOEtpT1FUdnVUVUstbjMteEpXaDNSU2pDSjhoejZMOVVjZjVOT3ZTN2d2T2dWTThYazU4N3FVN2pTTkxGMk5Icy1JOGozVS1wYnhUbDdHSU9hMmdYY25yVjlLUVB5OVZyaWRyN2FKeVNHRzAyR21CQ2JTSVp1R1VWNGRsUzA2bzZxYjRWLXZDUXBfNXdtTXZVT0x1OFpWZVd4UHk4aVdNdjJsMjc5Wm03RFdWV1BROUZF?oc=5",
-   "data": "2026-10-23T23:12:00+00:00"
-  },
-  {
-   "titulo": "Dólar fecha a R$ 4,993 antes do 2º turno; Ibovespa sobe 0,47%",
-   "fonte": "Campo Grande News",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOZHNocGJwUXNwVGc3TjAzX29JNkdjXzN2N2RVZjVvMUtVZXRZMmtkRzJUMDdNVXhheWYtRVBGWEtGTzFOYnVBYTNnSVQzdjl0Nm8tLU91TDVwX211TnBEN2xwZ09HLThyZnZCTHZaSlc1bG1mR29BN3pqamJPNWowdGFYYV8zczg5Rm1rUS1qT1VnLURKUmFSR1ktdWZIYnNWMDMyRmZSbktyaVBX0gGsAUFVX3lxTE4xdU1PY0pPMWJoZWJOdGNsMi1ROTZTSlY4cmU5cXY5eXlIeGNSam8zS0R1NEt1SF8zaVZMd3NFOHBQZUJ0YjZKQUJRZW5ndms0Vm1RRDVVZXNuWnQ1d09PTzV1Ti1QLU4yN2lXQk5saVZOR2llc0s1VFFvSFBsNnhkUlJXcGRic3dhVHo0Q05GUE8wT1RRZzNrS3h0VEtlT3VfYTlxSGRkSl94enQ?oc=5",
-   "data": "2026-10-23T23:10:00+00:00"
-  },
-  {
-   "titulo": "O combate ao tráfico nos portos exige investimentos além dos terminais",
-   "fonte": "Estadão",
-   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNMTIyMHc2ODRTZFRiM0I1Nk1aYWFPZENYWlNwRkFPNUFBYXZyVU9LbjdpMkdzZmNTY3huTnNKWWJ5Z25DNHFNbUlzc0VXV1BhcXk0UVV0M2hhMGtzMXZhaEJic0NscEhxZXlsTllXNkJnX1JnZWVyRjBiN0lPalFBeFBaZktNbS1FeW1yWlhyNElKU1hMS1Z5a0FPcS1wbXNYbUtYaDA4dzVmLWVYQ3lkLXI1NkNmVWVvWkJHcm1TVWx1Y1I1TWRpZdIBzgFBVV95cUxOVE5YTExxaU1CZ25FaHZ4RW5oNmwtOTJYMzNxWno3ZC1pbE4tTTNwbjVnMm5vdzl3ampSa2d5SUJyeVNlSW1zU2VPdzVMM3NPbnBDM19WMXFzMEJKeUNOWFAxZ2QtUTg0LWl1Slg1S1hodEhvUlBEdkM0VkQ3UzFJaW5oY2tfY3JwRXF2cnhDWUtEUHd2aVRiemZVOW83Y3hwemRJWDV2SzhOdGZKMFZRaFJ6WW1faUIyeWd2bDZ0X0ZCZlJlWjh5UWtiZVk2dw?oc=5",
-   "data": "2026-10-23T23:00:00+00:00"
   }
  ]
 }
