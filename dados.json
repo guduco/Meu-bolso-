@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-10-24T04:33:25+00:00",
+ "atualizado": "2026-10-24T05:33:40+00:00",
  "indicadores": {
   "selic": {
    "valor": 13.75,
@@ -16,6 +16,18 @@
  },
  "cotacoes": {},
  "noticias": [
+  {
+   "titulo": "Último pregão antes do 2º turno: Bolsa sobre 0,47% e dólar cai",
+   "fonte": "O POVO",
+   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPQ3hIbGFKdGFXZEZoeFNMMzZrV21rLUxad3RCb1NqWHkyMjNqdDRib2RrSHQzNFJGcml3VzVGMkV2SjJ5LWNiV2ZDQmR5QkJVRWE0cjN2NFFLMkRQLWsxTFVESENvalFneFhKdFppc2lVUXUxeWdPSUJxUTdwTnVMcHZRamJEV2NwZ2dYaXBCVHBjREN5b1VSYkhRTFdETXFSa0hyaGpxQXE5cWJJMGlPalAwcHpPaDhLMUMzTnN5OHRLUjZIOWpzVjJFcTAzUllxU3c?oc=5",
+   "data": "2026-10-24T04:15:00+00:00"
+  },
+  {
+   "titulo": "Prévia da inflação na Grande Fortaleza cai a 0,19%, 2ª menor taxa do País",
+   "fonte": "O POVO",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxORnNrSGZwekVaTnZHbEMxNmJwdlI3ZllFTjZhMnlpc3kwN1d3WHdTSU5aOXp4Z2ZPTjVWU1Z3V3luaGpMSW14dGpYckxqR1g0V19MbV9mdk9UVXhoQXNuZFdWcTRWREJCVy1qcTQ1b3BGWGpUR3UtUjl2SVdmei1pTGNydjZUWUpyR3JVX24zYWFWeE1hbl9TVUVUOUVzSjNzOHhtS3d0NGVnU1M3S2VYYm5BMkROeDRhQ0xBWlIzUDhqei13Vmc?oc=5",
+   "data": "2026-10-24T04:15:00+00:00"
+  },
   {
    "titulo": "Galípolo é “muito inteligente” e até ele é contra Selic alta, diz Lula",
    "fonte": "Poder360",
@@ -75,18 +87,6 @@
    "fonte": "O GLOBO",
    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQcm53am5kOTY4Nmx6QTVaWkF0M1dHR1UyY3hRZ2ZIdFFXdHBBcWdhQ3hlM3Z2RFBXOFFCcVMwQlJVVzdnak9rN19iSlJZZ293MGdZb3kzRE1MbkQzZThTTEJqNmZDWGd0X1dHeVZjWS1tLVBxdnNubkpZYzhyalJMS1NaTjRrOVNlT2tYaXNaeWF5Z1dNZmZlNV8wWEYzbU1NREo0OFdSelpLbzBuNDZvT3ZLbTJUenhEVjBtM1NxS2diUG1XNjJONlpfQdIB2gFBVV95cUxQVWV4Ty1TcVBfVUlXZHVVdE5LLUNMenlOc2NrYVNCZDRkM0hUUDhsT1cwblk1dWdYUWR3VWVaY0JqUVNlT2RIanFpVF9Ga2JDNmM4ZWl6XzczTzdLYmFfOHJjaXp3UTlNbUhWME1qMlA1WmdxNW5oYVEwcnNFWlVrcmlKREdXN3VCaHJCdDA0X05lTmM2WXllS2RUWTM3VEFVWnE1Vkp5LS1EU1dDTDVqVnRJeGFNVDRFZU4tZENYblJVRDRVT21Wd0FnNk9fU1hWVU5iR0tSNkVQdw?oc=5",
    "data": "2026-10-24T01:53:19+00:00"
-  },
-  {
-   "titulo": "China troca megaprojetos por investimentos seletivos na América Latina sob pressão de Trump",
-   "fonte": "A Crítica de Campo Grande",
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOM09DUzhiZjg5QWJRZmZCSklXcnUzaHd4c3NSUlB5bnZuQ3FkcWc1V01wVzJwS3ZUMDc0MmVMRDdYdG5CLUJlNGt0bzhrZkNWOVlwLVk2VTB3NGtCekFYRjlwSUhBYkZETjh1TEZ1R0RVblJ6TEtNbG1Xc1RWLTlzUVliTE13Y0F3eHMzcGhjaDhEaEZBRHVrM0FlMWJpcUdNc1ZhcGE5aTJ3ZjFQX09fdF91UWFUNUhTT19pdVVPQ2oweXNYd1E?oc=5",
-   "data": "2026-10-24T01:45:00+00:00"
-  },
-  {
-   "titulo": "Debate: Flávio Bolsonaro promete reajustar salário mínimo acima da inflação",
-   "fonte": "Metrópoles",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNcU9nc3FDVzJ3cVVKY1NDVmhQOExBVHlsVlpWd0gtTlNnZ05yaWRyY3BEQkdQUnkyXzhlWTB3TF9sZmFOZXVDdUJZV2Z0dnBELVNaLU9YNkhpS3UzQzFsRmh1MnBtM3MxdzhtTzA2TDdEQ29RUFp3OGxoTE1Db2NPbFh4WUR4UjlVRDh4QzNORU1RU0s2QVVMeU9KUlVqS3VreGdiWUtIUUVoZm1l?oc=5",
-   "data": "2026-10-24T01:36:00+00:00"
   }
  ]
 }
