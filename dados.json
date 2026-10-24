@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-10-24T17:31:08+00:00",
+ "atualizado": "2026-10-24T18:34:18+00:00",
  "indicadores": {
   "selic": {
    "valor": 13.75,
@@ -16,6 +16,36 @@
  },
  "cotacoes": {},
  "noticias": [
+  {
+   "titulo": "Lula e Flávio concordam em mínimo acima da inflação e em mais 6 temas",
+   "fonte": "Poder360",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQQjk1M1ZHcm9HVU00c1pSTW10cnJiUWRGekVidUFfMXhGRFZ0RS1wdnFKRTVYeWtZOVZoTlVFYTZ6TVloYVlkRjlZYlJBejdpMkJ1STBiSE9sQ1NmMFZaSXgxbFF0WkpMQWdQYUVZM0JrZ3UxV3lsVkNreWgwdjhGR2JweWN5OHlsV1FrTjk1VGFQcTF2NHRmcFk5b3RyaFdlbUhEZHRaNkotQTBlSE5ZRlZFQmR4Mk1TMGc?oc=5",
+   "data": "2026-10-24T18:22:46+00:00"
+  },
+  {
+   "titulo": "Personalidades do cinema mundial declaram apoio à candidatura de Lula",
+   "fonte": "Jornal Correio do Brasil",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNeFVMdGRhSWZIMWhORHhsR0VNaVVUTnlEeUdSTkc3TDF0UXBJcVRKX2JWWlM4ZFhCWkEzaXhHT0FMdllzWHUyaGl2elpsbFUzTjJ0QjFPeEF1M2NtNFMxX0w0M0o2MWxrem5pc1Q4SndxYXR1TlNrNzk1ZFBXS25nS3dvSHNfc01yOENkdEk5TmM3SnRYN2l6NThn?oc=5",
+   "data": "2026-10-24T18:16:56+00:00"
+  },
+  {
+   "titulo": "INFLAÇÃO DESACELERA NA RMS, MAS ITENS ESSENCIAIS SEGUEM PRESSIONANDO O ORÇAMENTO, AVALIA ECONOMISTA",
+   "fonte": "Bahia Econômica",
+   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPd1ZWNnQ3QlRudzFONFQyaGVrWTRmd1RXMHBhWTNnMjhnQTVPdTgyekN1OTdMOXd1YUVnMEZIWTJnSmtBdXFmR0pRUlE1dlZyRWpBcDlKYzF1UUpEZ2VhUGVESTRxX3FLa0NaOHhyWFRnNGp0S3BSNUVTSmtXaURlVElNTTFvZFpuYmYwd2VpbE1LOV9ZaVgzQUZLbzc4eFVmcGtzSXJFTkxFQko1MjE2TDhkTkhabmM3VnlRVlJuOWJ1amczSVI2SXJGdnIwWFR0Unh6c050VkJjVVJraDRxdDFaVXItY3lLd3c?oc=5",
+   "data": "2026-10-24T17:53:52+00:00"
+  },
+  {
+   "titulo": "Militante critica propaganda sobre nordeste e destaca inves",
+   "fonte": "Blog Milton Figueiredo",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPT2dqam4xdy1uWVZFQzZUX2hGSzN1VkhQbTV2UG5CVUJLQU1CeDFxRkNEdG9STXRya2g3b1hjLVRyLXVEUVVubkVnWi1aU2RtWGZqVlNqQ2NZcWhBT0Z0RG8zME9BN3Focng4VmNiS1o0RjlxYk1NNEFWUE1ndzBnNXQ5WHhyWk93SXF0eEdSbVVkQzZaeUtwRVkyRHBVVlRLT2psMDYtQ3FyVEhuUXJ1OXFmaVBiUG5uV3JpTlV2S0xHZG02MVRXVg?oc=5",
+   "data": "2026-10-24T17:49:42+00:00"
+  },
+  {
+   "titulo": "Janones promove transmissão nas redes por 24 horas, até as eleições",
+   "fonte": "correiodobrasil.com.br",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQTEJINzBsVmFhbmJZZUZCRWRDdV9EMDNTSWZ3QS0yeEJwVUVjcXR1MVVHNV9yYmJTU2J3bFgxeG1QMzRQWUlHbE9yQWp0ZTluSnVReDl6R29yRjdpX0R2bl9TaXZNM1RfSGNPcDAySDVjNEZUYTRRSmR5Z081M0xsN3ZPTnEzM2oyWTZfOA?oc=5",
+   "data": "2026-10-24T17:29:46+00:00"
+  },
   {
    "titulo": "Luciano Pinheiro reforça campanha por Lula em Euclides da Cunha e defende continuidade dos investimentos na Bahia",
    "fonte": "News BA",
@@ -57,36 +87,6 @@
    "fonte": "Acia Araçatuba",
    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQVXV4T3VlSHhlLU9MZ3NwOUsxdm1DOUJJVjVoT0QyZDJFbjdwWkdfU1Z6YmNweXhCb2hEVVZDS29CR3ZBVG84dnpVbk5oMUVZOUtHTDZ5cGdMN082a005blppZXhyVzY1WUJ2MW5fRGpNSXVGUGVZTU9ERENfQWNkMkhnNA?oc=5",
    "data": "2026-10-24T15:05:25+00:00"
-  },
-  {
-   "titulo": "Lula mobiliza multidão em Copacabana em ato pela reeleição",
-   "fonte": "Jornal Correio do Brasil",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOX092TGZGM08yVFpOSTRyemlhcjVGVExPMkgtdXFQaUhKN0FRTzJwUHB4R1E2MENDZGRyQS0wTzdndXJ4R2QtWGZiTHFVYjctN21tdFZUU1p3cFdpMm9PY1R4VzZ1aEJZeFZBdzNoLWlsbXBVVnR6eUh0YnFQSHNKdnlaaGdLNjA?oc=5",
-   "data": "2026-10-24T15:03:25+00:00"
-  },
-  {
-   "titulo": "Mega-Sena sorteia R$ 230 milhões neste sábado; prêmio pode render quase R$ 2 milhões por mês",
-   "fonte": "TV Nova Nordeste",
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPSF90YnpmMERpMU83TXgzNEJWTUJMV1hZUTFzLWRGbFhvZVo2RWZxczRzUFhPc2ZOWUtHcEVJeDk1c1htMjZpYmlDOW90VXVtSDBLQ0xoN1hxRTZIbGhjWWZQZXM0YTFNTVg0S3Z3QmhDWmc0VGdJc1ZsdzQ4OC1PbXQ0NkJsN0g2M1ppYkVWM3Q4R0oxRnJ5eVB5QnRTcmtkT2FBX2YyVGZFTDdfRThHbG9WNU5tYVFFQmN2WDdXb0RHWHlZ?oc=5",
-   "data": "2026-10-24T14:56:00+00:00"
-  },
-  {
-   "titulo": "Carteira recomendada: 5 ações para bater o Ibovespa (IBOV) no curto prazo, segundo a Terra",
-   "fonte": "Money Times",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPeGN0MDlRZjRNZm1ya0pxQ1BVaTFBQ0kxX21pdjVjUzBJUXVhU1l1aG13SHl1SHprUEs5X3IzbWdZa0gtWkVIRENKRU4xdUJVT0pwNktJLWdPaUx5elgxNkxScXZZWEgtM0xFblBNRUgzaE9JYW9kODNSTW1QTm9wc0xJYkRTN1FhWTJNdl9semtBeG9MSjUycUhpYWNhaDJSVHlQb3VFUFZxMENWcllOZDhDRzN4QTcxNEpmV2szOA?oc=5",
-   "data": "2026-10-24T14:50:00+00:00"
-  },
-  {
-   "titulo": "Copacol celebra 63 anos com investimentos de R$ 1 bilhão e reconhecimento nacional",
-   "fonte": "Jornal Pitoco",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOR3lLM1pLOUpYTzFBUm01dmo3aWtnRjVwaE1hUnhOSnd1aVp4M2lOUWplVXRRMlJlTjBpS3FvV0tZajMxT2J5aVY3RkFsQWpjbWI1V0N5UzJSUTFjVHhzbTdxVDJDN19Uck1VNC04Z1dlNlhILXFoMDNyMnZ4VGJGRWRiWk9CR1FFVjdNd0xKMk53SHh5a1o5YVhZRlVrc2o2TUh4TlZYaGY3STFoUXhj?oc=5",
-   "data": "2026-10-24T14:48:55+00:00"
-  },
-  {
-   "titulo": "Expectativa dos consumidores para inflação da zona do euro para 2027 sobe",
-   "fonte": "CNN Brasil",
-   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNR1FtY1BNMFRReHZlaUpyTTV5YXdJVkd6RmtrZ09yOWhzdGlUUDNRenR4ZUdqSmRKam1PX0k4eExwcFZKZEwzeWFjV1VRSTNDOHRURFZxS0pKQzFCTDIwMlFSRFh3a000TGtQY1M3NERMa0FGRkRzekZGX0hRZzBqWjR1MzZfV0l2SFVLNnQ1UWVDdV9aZkVHeEx4TTI0VzlGRV9CUVBVV0xCZFMwTFpoTDRoTHgxaWE4eThBbk9WZ19zckV4MHVMNXdZNHY?oc=5",
-   "data": "2026-10-24T14:20:49+00:00"
   }
  ]
 }
