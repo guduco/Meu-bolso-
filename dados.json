@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-10-24T12:39:00+00:00",
+ "atualizado": "2026-10-24T13:34:09+00:00",
  "indicadores": {
   "selic": {
    "valor": 13.75,
@@ -16,6 +16,36 @@
  },
  "cotacoes": {},
  "noticias": [
+  {
+   "titulo": "Eleições 2026: cobertura da imprensa estrangeira destaca economia e investimentos",
+   "fonte": "Terra",
+   "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOQ3lFcjR6dUpkQWZ3Y1R4WEE0YjYwV0VTSmg5ajFhUVNBdHBDc2hMMmFDTXBBcFRPOXhBT3hYMm1oQnN4eVZ2VktaMEZBTHZiNm5fcERaNHBPdlJpN2FscU9zS0M2ekhMU3VSa1VTc3VFTjNVRjBacld2cVdrQmlOVzNfaGRmMDdieGM3QkhjRjllRl9XbWd0MFE0c2hmdGJucGowNDF2aWJoOU4tZ05qN3FSclZwT1NDT092MDk2YzdKaHg5WGMxUlc4YWFTSlhqS1lKbnlqaHB5TEV6WlB5OFZiME16bEJ2RHdlSjRSQm50bUJRZnZxcmdqb01Idw?oc=5",
+   "data": "2026-10-24T13:13:00+00:00"
+  },
+  {
+   "titulo": "FCO aprova R$ 100,1 milhões em investimentos para 33 municípios de MS",
+   "fonte": "MS Todo dia",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPQVZQN0E0NWRZV2hkR3lQYWxiRzJRb1pueFM2bXFiY2ZKUE5kbDI5UW9oT2RuaHlhYm12VjU3ZHlNZklSNUFncFVTZzBFdUMtdExsM29SRjR6RkVBcUlraEdLVGw1aTRsN182LS1mazl1QmhiaHprdmpYZ1R2MFhRbklwLUhwd0hWWmU2SWhQX21ZYnI4QWlyZ1E5YXVKS3NhUEV3Wmp5dXIwMVgx?oc=5",
+   "data": "2026-10-24T12:49:11+00:00"
+  },
+  {
+   "titulo": "Preço dos alimentos sobe 0,88% no IPCA-15; tomate e cebola lideram altas",
+   "fonte": "TVBV ONLINE",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOU2V3V0hqdmswU2pjeTRlMnJOTmtGWTUxQ3pYZlFIMmJIQV8zT3paSzVLaWhSVG5lb1d0bW85SXJpZU4xd1hKLTJ6VnpKajhPSWYxVkJYQ1BPX2o0dXVxNm1sUW9VekxBRjBaeU04Z1htUlZNWl93b0ZtS1QtZmJlMS1DSTlWMWJUSnliWDdjbFZEc2p3WmVxRHZn?oc=5",
+   "data": "2026-10-24T12:45:56+00:00"
+  },
+  {
+   "titulo": "Investimentos e inteligência: Polícia Civil mira faccionados foragidos em outros Estados e países",
+   "fonte": "tvcbrasil.com.br",
+   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOSnItUHFRQXBETWZRLUR0cWpoX0c1SklJYmlGZUN3TlZRZW9VdGt6cmlKSEo0bFdjZHFMeFdFYlYzaU1XVHBvclYzUDNaR19RdVhqUE5SSTRDU1dzZElXb2t6QzdFV0FUNW5HbzZheFU4YlAyN19NcnZrd1dDUWhsUlJoR2ZZcGpZZHNWRzdQcEFHQThuaGdPbklMM2JPdkRhYlBpQkcxem11OXRJRVBNNXlMUl9Td3JRejRLY18yTHlJN0hSQ3hmVXNwcEI3ME1aOF92NjdR?oc=5",
+   "data": "2026-10-24T12:39:00+00:00"
+  },
+  {
+   "titulo": "MK Open: torneio de tênis une esporte, networking e mercado financeiro em Salvador",
+   "fonte": "BPMoney",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPMlNVSWstTHRNcUxuRHNXeU5JSENXZF94UGdEbG91ZnFmNk5qUG5WZ3Y1eGNaUDdyODdPUTVySDZCcTlqemVmNHpvRTJGZjhubmpDN3BSU0U3blV1MV9rZGNIVVhrazV2MmFzUWJsY2ZNSThWWGVPaWxnRHVZOF9McGg1dm1PSElrcFlCOGZseS1xY2VBdFgwVDczbnpKY203dkNtZmZPVDY3bjdkN0N2N1pocw?oc=5",
+   "data": "2026-10-24T12:30:00+00:00"
+  },
   {
    "titulo": "Tendências 26/10/2026 | das principais ações da Bolsa",
    "fonte": "XP Investimentos",
@@ -57,36 +87,6 @@
    "fonte": "Política ao Ponto",
    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOZDVZVURnMWZiSE9TLTJoWU5palpWT0pVODBhUDBuWlRUTUZPbE9zcU5jemtGdmxEcEU4YXUzWTBwYnNOaW9Cc3MyU3ZRYlF0Vk1EQm5nZjdHeVZBVjc3OXhiWDRPaFlVV2VuWXlZNEZPYUdqNlVBS25EMElZQ3NnSno1LTZ6YmctTlVtNm9RcHl6clRqNHdETHBMWHZMYl9JQ3dFNld0RHZHX0ttZWswQnJCV1hTalk?oc=5",
    "data": "2026-10-24T11:23:01+00:00"
-  },
-  {
-   "titulo": "Corrida da IA multiplica investimentos em data centers no mundo e abre oportunidade ao Brasil",
-   "fonte": "VEJA",
-   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOR1NRSlhmRjNZLXpVRG42OW45WXBITXpMZUlQNzFYazNodFlLaXp5ZERBME5sanpDS2l3X3hUc0R4UXptNm5hLWJ6ajJudzNkS1VCTWtLVFFzb2lPN1dqNktCZmh4YTgzZXBLRHFEZVE1Q3h6Ty1JYVUxTW9MS1JZYTllYzR4TGFpUmpaY1hqNXVxMWZ1Qk45SHVuMUpOb2ZCSjlNbDVlbXhYNkFuYTdmYnJNRmJxaC1RWExpVTJEUWh2RE5DTWJDWQ?oc=5",
-   "data": "2026-10-24T11:00:13+00:00"
-  },
-  {
-   "titulo": "Renda fixa pode dar prejuízo? Especialista da XP explica os riscos",
-   "fonte": "InfoMoney",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOSTJXOHVTcFFTQndkcXdqWUtiZ05KV1pDa0l0ejRWRjZXTWtpNmNTYmtNb3I4Sl9sc2FkWlg4WEJyTThUemEtV3ZTUVdURE9TVkFSaEVoOEpwQ3NHUTZfc05GU1JfZFhJRWpXcHZ0Vm9LWENsMDB6WlVGMHV0TTJJckVZdjY0dnBNd1NPcFlUa0d6VlpTR2ZjSWpqZFNUSzZKdlpZc05R0gGrAUFVX3lxTE1Rd2lOZkMwbncybllvV3ZkYkNrZ1l4VUdvUjJ4MkxjdnJ0Yzl1SVN6cVoyeU9YUnhaMDcwUllVbGZCQ0l2bVdidG5pNWh0WDJoTWRWdFN6eGFGaWtBOUJEb1VXeWZPN0JYY3R2N21qVUlJMGZTTlc3aTlZOGtnQUJXdDlNNWw2aERoeWlfTndSVW1ZY2s0QjNTNm14NW1PMjNRQ0lqOTZONzNNdw?oc=5",
-   "data": "2026-10-24T11:00:00+00:00"
-  },
-  {
-   "titulo": "Dólar cai abaixo de R$ 5 e Bolsa sobe antes da eleição",
-   "fonte": "Acia Araçatuba",
-   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE11bjJ0bFQwTkE0SWRYcUlHZGhYbUxKRFRlcm5kaEVhVURmNHlQUDdPTTVPYlZlQm0wYzVPb0tkU0pVMUkyOEFsMGRFVTNoYjZMeGxVd0d0OHNRaVNUVnRVZ3ZYQ01CazdaYkNyQjJIUkZpMl8xa3h0VThPWGU?oc=5",
-   "data": "2026-10-24T10:35:32+00:00"
-  },
-  {
-   "titulo": "IPCA-15 de outubro mantém inflação acima de 5% em 2026",
-   "fonte": "Acia Araçatuba",
-   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOVFNUVUZ0NHNZV1A3b1N0RTFjNDF2cEtUOTBZNVJJMVBhanpWSnVCZUJXMGFGVFdjNE1ZaFFfSTJkSjdwVWM2MDNnamhoQlJ0bGVBRG9xUkN6Z25yM1pRUGk2aDA3WHFhSEwtM0VNQ0w3RlZWbWEzVXg5aWNiUFBHWUV3?oc=5",
-   "data": "2026-10-24T10:35:30+00:00"
-  },
-  {
-   "titulo": "Dólar cai quase 1%, a R$ 4,98, com eleições",
-   "fonte": "Acia Araçatuba",
-   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9FdC0tVkEyaE5fQzZVM0p3NnM1Wm1rUndRT2RIWnBUcmJ6NGxmOTdtTEdVWDl6enpGeDFxNWVBTHFaMi0yQ1AtOHZLMkNydTBLbVB3ZmJ6cFhTVEE5TVQza2FJcw?oc=5",
-   "data": "2026-10-24T10:35:30+00:00"
   }
  ]
 }
