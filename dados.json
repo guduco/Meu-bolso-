@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-10-24T11:33:03+00:00",
+ "atualizado": "2026-10-24T12:39:00+00:00",
  "indicadores": {
   "selic": {
    "valor": 13.75,
@@ -16,6 +16,36 @@
  },
  "cotacoes": {},
  "noticias": [
+  {
+   "titulo": "Tendências 26/10/2026 | das principais ações da Bolsa",
+   "fonte": "XP Investimentos",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQM3VSUkxmWTQtZzhZc3NSZ0NKaGtuU2t6QmtXX3dvTERvbW1EMkNOVzVkeWpocGNPS3otOHhvNmV5SldfdzdkdXdVQTlxRDN2WnVjRGN0RDBfU0hNbXpSUmRiQjVUSTVGX2ZXTTcxeDBBczBUdmx6Y19xQmUyTmt1U3owTklMSWVHYXY3d1BNVlRlY3dDb09TaWJBUmF4VG1KZVlZQjV6M05HeEps?oc=5",
+   "data": "2026-10-24T12:27:33+00:00"
+  },
+  {
+   "titulo": "Eleições no Brasil: Lula defende legado e Flávio aposta na segurança em último debate marcado por acusações",
+   "fonte": "Plataforma Media",
+   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOY25HVHh4WWFIZWNVcDFmVG1pOE10UHUxMDA2SE1TMG5EVjRiWDFpamI0MEtVWkpZSHhPZVNEUjNmNlh5T2kwdG1WLXVoNVF6OGMzSUVfM2Z6a0l4b0VseFZSV3FlUlRSS2ZNRTFDeEJOcWItRzRuRi1KZ1hlQzZWRUtyaXFRUF9keXZKZXlrSEZJWTRmdGtadVFWbEtqSmhFMjBoNmU2cFZmM19XbUVlMTZtTmRmR3VVZUVvRTAyaXJwczlFZkVOSVNrNl82SGpwV3E2ZEVDUUlLS2xhbmtqSk85V1g?oc=5",
+   "data": "2026-10-24T12:24:33+00:00"
+  },
+  {
+   "titulo": "IPCA-15 sobe 0,32% em outubro, puxado pela alta dos alimentos",
+   "fonte": "Expressão Rondônia",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQRktpSkVIandYanZfNUIyR3l6U3VUQU5IS3hTazBSQ3h4S283cHhzckV2V3FoOGRiUUhON2FRaFc4WHZndDdQSTlwR05nSThObl9IT09OUzZrZURSSVYxZTJIb25TWWtaT09DdEJmMlZ6bFJmQWxxd3NvVU0tN0J5N3hmSkhVZUtXTl9RS01SdHk1VXZaME13?oc=5",
+   "data": "2026-10-24T12:09:12+00:00"
+  },
+  {
+   "titulo": "Mega-Sena: quanto rendem R$ 230 milhões na poupança, Tesouro Direto ou CDB",
+   "fonte": "CNN Brasil",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNQU1VZ05VVDljQVJ5bGQ1OGhrOVdJUFBqTndPa1BKLXF6TzEzenNMV25mdEcwMmVHX0FuUFdWOWItaHp3MVFPcVJBbXdzOHhFcWJPaElyZFNsbERMczVXZUdzZmJ1VEk3amNJZG9YQTR0TS02NkhxRFBKZzRpd0tHWi01M1RhdHkxbE1tNHNkUFBvZ19SZ3p3bjVENXRXQmpFSGJTVTBtWXBYbjNvM3ZpclFIcmE0SVppTXBNclNUZVV0LU9FREc1UHJ5MldoUQ?oc=5",
+   "data": "2026-10-24T12:00:13+00:00"
+  },
+  {
+   "titulo": "Adolfo Loyola destaca investimentos do governo da Bahia em Luís Eduardo Magalhães: \"O governador Jerônimo Rodrigues é presente\"",
+   "fonte": "Classe Politica",
+   "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOVUNqajYzX0paZjdFZExoRUlndzQ3SFJUWVQ4R0FxZE5ST3lNOGVyYkFrTHduS090YlIydW96X0tsNi1mVHg5STlrb0hvZDJzMV9fNFhIVEdGRjZrOWlBLU9kVU1RUzBPSWQyaW8ybkhPTG4tb0Zob0hKc3ZNbmV3YVJUZmMzTi13RFcxVHYtWVY2WW9kdHpRUEptQno4eXh1Zi1aM204UjZVcmtzbl9GM3lyUEFSeTFybGhjMEFVSHlwVWdnR3hNbFQ3Z3JpUmJPd2ZEbnZPc0lGRURpdFBvTlRjaTN5RXlXS1lnT1MtM3RuUjFw?oc=5",
+   "data": "2026-10-24T11:27:00+00:00"
+  },
   {
    "titulo": "Por que a taxa de juro Selic virou assunto de eleição",
    "fonte": "GZH",
@@ -57,36 +87,6 @@
    "fonte": "Acia Araçatuba",
    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9FdC0tVkEyaE5fQzZVM0p3NnM1Wm1rUndRT2RIWnBUcmJ6NGxmOTdtTEdVWDl6enpGeDFxNWVBTHFaMi0yQ1AtOHZLMkNydTBLbVB3ZmJ6cFhTVEE5TVQza2FJcw?oc=5",
    "data": "2026-10-24T10:35:30+00:00"
-  },
-  {
-   "titulo": "Magazine Luiza (MGLU3) salta 14%, enquanto WEG (WEGE3) é a pior ação da semana; veja o que rolou no Ibovespa",
-   "fonte": "Money Times",
-   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9QeUE4cDBRejhYaDNSTHE0QXVISks3MTdKS0pVZlVTakNTSGpVY2c2X2hTLUhNakpaQ1pDZG1oQWgzNThPZ25XOXkxVG50LTBVdG9pSnU0SENRMFExNzExUGZ6UU5vaWRvT2dsQlJEazdZaTlTR0pBMw?oc=5",
-   "data": "2026-10-24T10:20:00+00:00"
-  },
-  {
-   "titulo": "Ceará envia lideranças regionais à China para buscar investimentos e inovação",
-   "fonte": "OpiniãoCE",
-   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNRXZYMDB3UFRmQ3ZBX01ocjRjWVk5cE52dUREUnNOekl4SkRjRV85RHRPSHQydXNZNVBWUzRpQnVDcXlPTW5TOUNLekpXdk8xalVUckpUMTRxV2RGQlBzUk5udlBuQjFNOEFBclhJS3lrYnVoZzdubkJFaWM5eWxJc1YxM29JLUR3bjI5YXFxZ0NQWmN0c00waFhLUzVGRTEyck9uQnNVNFFnVTBNRmxvM2hxOXhtWGpCb0dKdTlYcTBpRGc2MFU5bUxxMA?oc=5",
-   "data": "2026-10-24T10:04:35+00:00"
-  },
-  {
-   "titulo": "Debate sobre estatais vai além das privatizações: próximo governo terá de analisar venda de ativos e investimentos",
-   "fonte": "O GLOBO",
-   "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOMlplZ0NBUW9GOGpYZWRMMjc5ZnlyUmMxV2hRUExTS2tYYjZCcWdSVlhudVN0MU5OMVNOa3llRm5mZ2lVaUhKa2xrRzBVTXl3VjhxVUpweHRMenVvamV2dldwbExHSHFjVDM0M2R0STM2em5JdG9meFZHekhiNjhJN1NPbGQ3WXAyaWRqZzBLNlFwQWN4WTlwcjlwX3dtaTdPRjF3d0JKeGdQUHJGc043OVlMcXdoTEhLQ3l1U0I0QkR3V0NPQXhpUGpnTU0wZ1R4WVk4ZzZvVkgzNjU1MVNxRF93VzRlMER2MG45U1dCWklJaDJiMGpaMUp6cHViMmJ4eVHSAZACQVVfeXFMT1o0bWRCUUM4Z1E5bFBndWp5TzhmcDB5NVNiNXlRZjFPc3RIYmIzX1RZMElacGJPeEdDMW1DeVBONTlBdkZtODdackZvQlRTdFBrdS1jdkpZSEN5TXppRmR6SkJRTW1teEJ4UkFLRjJmLW1IM1NnaERHbXR4THotamNKcWxKRXZTQkhnVlhQR2dVVERzZlhBeDl6dkVsWlpxUktnTy1nLU9vY0FyQU5hMHA5cGNkQ2xaUldnc05PRW9QT0pUX3R0ZkNHMG13SGl0RnRsVWt3OUtfV1VMclVNYkc4cXJUWDRkQXJUX0FfZ1RNcnNUNVExOWtqWXJhNkhyaEt3Vl9jXzB5bWM4RGs1QVg?oc=5",
-   "data": "2026-10-24T10:00:28+00:00"
-  },
-  {
-   "titulo": "Mais de R$ 1,5 milhão na poupança: veja quanto rendem os R$ 230 milhões da Mega-Sena nas melhores opções de renda fixa",
-   "fonte": "Seu Dinheiro",
-   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPQXYyVDljWEs1QTdYUUtUT3Z1OUNodFl0WnFzdzBlaHFyVnl1aTJJR1ZYM2pOOFhBRGg3TXljRlltOHdfdXdVZjJYSlBqX1M4Y0NrXzd2ZzFBY1hqODJ2THhFVGFiLW9jcnJidy1Id2dESlYybnBCMGVCVHFRdjdJUGVsTHFhSmVsYWFzd0NXTHlXd1BDWEw5NnNuLTFUbVhMaEg3TGpLOWlWZEtaUE1mSGhIZjFlZkwzS1ZnbmROV2NXX1hIZzBYMV9GbFV3bDhPSkxXVmt6MmV0NnM?oc=5",
-   "data": "2026-10-24T09:54:00+00:00"
-  },
-  {
-   "titulo": "Mega-Sena: quanto R$ 230 milhões rendem todo mês na poupança e no Tesouro",
-   "fonte": "UOL Economia",
-   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOcWRBS3I3VlVBWDVpZUhkbkl4QmhzOGF2SjdkakVDd09DdG5qbEJEeGRTNDFpalVLU2xxNnFCaEJLcDVkbUFlRjBBaFFSRzYwYm83aC1CSzl0bE9KdERwZ0xZTTFrS2JQT0lwN2xVS0tTdmNVMVlPOVJ4OGRiVUlOZnBTVFYzVVItdFhEbnBpNWEwYy1SWDJCSkhyemFTWWprYjYzcXZRbVR4V2ZPVTFlV2d0YXZsWVM0TExWSWc0TlJuOFVaZ1hZU1NmdUFCRkVVcFE?oc=5",
-   "data": "2026-10-24T08:30:00+00:00"
   }
  ]
 }
