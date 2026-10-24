@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-10-24T00:50:34+00:00",
+ "atualizado": "2026-10-24T01:43:58+00:00",
  "indicadores": {
   "selic": {
    "valor": 13.75,
@@ -17,10 +17,46 @@
  "cotacoes": {},
  "noticias": [
   {
+   "titulo": "Sem os aumentos acima da inflação garantidos pelos governos do PT, o salário mínimo seria de apenas R$ 900. Essa valorização faz a diferença na vida de milhões de brasileiros. Enquanto eles seguem o modelo de Milei, nosso compromisso é continuar a",
+   "fonte": "X",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1IVkZQcWVyaS1XWGhOODBhODlxOTVQeExVT3dRYUdZeHhIdHVEYUVLUllNeFlIazUtcDJ0cjFHRklnSTRoRlFmYk1XT1AtVUx1V2tXTVdfdG5yNWZSTEdsTkdjRGk4cVpVNkM4Sw?oc=5",
+   "data": "2026-10-24T01:24:35+00:00"
+  },
+  {
+   "titulo": "Lula defende valor do mínimo; Flávio fala em reajuste acima da inflação",
+   "fonte": "CNN Brasil",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQdHE5bHBhZkFkX2MzcnZLbURyaHdVQTRYenBhNE51RlhsNTBtTmZxazlpVVhKVk55WWs3a29WMVJWemJNcGhydm83Zk9EWFFCZExLYk9NRk5GeHI4T0JiS3EyZTlGV3FOZkNkZUc2SWRaaHhmWTJXQXRMS21XSlRJN3VBYjBhWENKOVQxVUhVbmRJeHc3dHdMZ25URzhnbDRhWl9fNGZvZ2pKTi1fblE?oc=5",
+   "data": "2026-10-24T01:21:19+00:00"
+  },
+  {
+   "titulo": "Quem investiu mais em infraestrutura: Lula ou Bolsonaro?",
+   "fonte": "Revista Fórum",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQdHdhWlE1dnJ5el8tQnl6Q0xEZWIxdVctbW5ZYW5ldnZoaFpiRXhQaDlDdWM3cEdhSDRFNm9YZTJKcW1VQkNhMnJ6M29BUnUyc3N5NEdVczJEUm9zMkp0YkhaLTRLU2V1SFFiT09TUkl4Sy1sZmtUank4WVB4bUtOMkRxTXh4RHR3NTVBSHFYLUhMSGFBeDlLY2dqdGpnOEVxTTNaRlNzenlQc081?oc=5",
+   "data": "2026-10-24T01:10:52+00:00"
+  },
+  {
+   "titulo": "Flávio Bolsonaro propõe pedágio zero para motociclistas e investimentos em ferrovias",
+   "fonte": "Portal VV8",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQWjA3U2cxTlpjUVFvRWZsQmttUjA4VWFZR1dOMTVBUWZkTV8wY3ZVdkhZajIzanZiT3h0WXRrMm1ISThzMGhfMFpTWnZSOWZGeDNNRkhlQ3NXNVBqMEFxQXZud0VXN0lfVGxzaUZfR2Iya0tta2dWRy00ZUp5VnMwTl9sNEFKS2kyOXVHSE9DSUdHSk9zcWFtV2JLaHIybVZDZjNmdDVWZVEteDZLbEtoZlVoNm9tNlcxU2lWXzVZRVc?oc=5",
+   "data": "2026-10-24T01:10:09+00:00"
+  },
+  {
+   "titulo": "Lula ou Bolsonaro: veja o comparativo do investimento em infraestrutura",
+   "fonte": "Revista Fórum",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZTQycEpmNERUXzgybklkWHU0eEtqSG54UTZYMDZ3eENGRkIzOVU3azJtNzFTUzFpSlhwaTFvTjBlYUFoSHU3LUg2VXFxd0YwX0lpaWxzMC1QSjBvX01ta2JDMk1ZcXJaNlUxa1ZaOTk1RjQ1YmNaZ3AzRXJDR0ktQWJodTdHZ3NsQTdXUDZ1a3ZCY2NvaTU2OWVJczhDT0xESWViZWREeUtUSkU2?oc=5",
+   "data": "2026-10-24T01:04:18+00:00"
+  },
+  {
    "titulo": "Lula x Flávio Bolsonaro: o que cada um falam sobre juros, inflação e o preço dos alimentos",
    "fonte": "Exame",
    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOUnR4WUV1WnZ0MzdNTjA4VlRQN0F1ZTgzSld4RWpDVmlXVkdCdWpKU0J4Z2dPWEROeWV5amlzajcwOEl1LTNjSG80alo2Wm41c3dtQWZrazF4cW1SaURMNFNFM3hUT3ZWbGxFVFE0VEFzMUlSRkRIbEF6dlQ4Q2otR0RfMU04aHEtbUF3c1QzaENGMW5rTFdzVEplYTNxUENiUXlfYnJibnZzMThic3N1UG5YbXY?oc=5",
    "data": "2026-10-24T00:03:25+00:00"
+  },
+  {
+   "titulo": "Venezuela amplia acordos de energia e prevê bilhões em investimentos no setor petrolífero",
+   "fonte": "Portal Viu",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQT19pRERZVzZkVWRyVEdxS210SzAtNFNPZ3EtTU9rTWxzbGFIakFXUXB1WWVyaUlwMW1sOVlUN3lwVG9XNUxaWWtyRkM2OUdmQ19jaHo2QzlHM0poRDBiZWdtU2Y3UTZrVDZ2TEJzUk1pT1BEVTlyZENrb0laVUZSTkFQRlVoUFBoU1duTFhrakhuVF9LZ0x2Z1RWc3I2RVd5SU5Cck9ielF4OXlJV0hGMVU5cHlYaHdCcUpKU3ppM1NfQQ?oc=5",
+   "data": "2026-10-23T23:32:30+00:00"
   },
   {
    "titulo": "Governo Federal e Estado ampliam investimentos na saúde do Sudoeste baiano",
@@ -29,10 +65,10 @@
    "data": "2026-10-23T23:24:08+00:00"
   },
   {
-   "titulo": "Dólar cai a R$ 4,993 antes do segundo turno e fecha semana com recuo de 1,58%",
-   "fonte": "A Crítica de Campo Grande",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNbFRjM0tCVnNYbUlMWGxmRUp5cUpqMjh6V1dqSWhJSl82ZllLdTBGeE1ZOFNlRlExbnhJdlVKNkVHcnphMEF4TldKU24xM3N3czljNzRzTVhMYVlraXNSa2VvRWhqMFpvcUVnc0dRSkhrZ25NYkJGNUZGdk9pU2JQcVpla19pS0h0OEZfUTZ0VV92OWNvMWNpTk9WNFh5Z3dNcFVmM2JWTQ?oc=5",
-   "data": "2026-10-23T23:20:00+00:00"
+   "titulo": "Dólar: como a vitória de Flávio ou Lula pode impactar o câmbio, segundo analistas",
+   "fonte": "Bloomberg Línea Brasil",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNODJRcEZqSXpyaDQ3YzdfdFZKSWEydHB2WFZ0MDdQQXFjZ2dwSUE4LXNrMTBKTThqNXFLSm1jLWlpLWRIMi1USW1PM3cybm5xMk9jTG5zT1ctY052bEhKaDhoNzl4VS1KVEZ1N01Ia283ZDBybzYwd1N4MlU4WnFWUk0tMjFkWVhQOTlJNEdLZVRidjFHcl91R1FFVTFXNTMwejRSN2JpSDAxbkNmb1hWOGJPNnl1VGN4Wnl3akZqclrSAdQBQVVfeXFMTUFCZ1pWN1R1RVJqRVJSWEhpemd1WjVLVk9KaEE5SDRrOVZtdGpsRWY3bk94aWhrM0dLSUU4MVlLRFNZQzBZUGNfdTEwUGxMZWdmZWZvZjQxMDNkcl9RaHc5aDQ1NFRKYXlKSC1jd1hrOWt1QVJsNHF6eUp2a09lN3BQT1FnYUxScGFvODcwZWF2XzVtaldBb0ItWC15Z3NpYVNGaHdoZXR4WHNyUk9vSzJ2bVF4NlZsdG9LM0hBQWdqN05TQzd0SUpkYWxxMVYwd2R1SFc?oc=5",
+   "data": "2026-10-23T23:21:17+00:00"
   },
   {
    "titulo": "Prévia da inflação: IPCA-15 sobe 0,32% em outubro e acumula 4,62% em 12 meses",
@@ -41,52 +77,16 @@
    "data": "2026-10-23T23:12:00+00:00"
   },
   {
+   "titulo": "Dólar fecha a R$ 4,993 antes do 2º turno; Ibovespa sobe 0,47%",
+   "fonte": "Campo Grande News",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOZHNocGJwUXNwVGc3TjAzX29JNkdjXzN2N2RVZjVvMUtVZXRZMmtkRzJUMDdNVXhheWYtRVBGWEtGTzFOYnVBYTNnSVQzdjl0Nm8tLU91TDVwX211TnBEN2xwZ09HLThyZnZCTHZaSlc1bG1mR29BN3pqamJPNWowdGFYYV8zczg5Rm1rUS1qT1VnLURKUmFSR1ktdWZIYnNWMDMyRmZSbktyaVBX0gGsAUFVX3lxTE4xdU1PY0pPMWJoZWJOdGNsMi1ROTZTSlY4cmU5cXY5eXlIeGNSam8zS0R1NEt1SF8zaVZMd3NFOHBQZUJ0YjZKQUJRZW5ndms0Vm1RRDVVZXNuWnQ1d09PTzV1Ti1QLU4yN2lXQk5saVZOR2llc0s1VFFvSFBsNnhkUlJXcGRic3dhVHo0Q05GUE8wT1RRZzNrS3h0VEtlT3VfYTlxSGRkSl94enQ?oc=5",
+   "data": "2026-10-23T23:10:00+00:00"
+  },
+  {
    "titulo": "O combate ao tráfico nos portos exige investimentos além dos terminais",
    "fonte": "Estadão",
    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNMTIyMHc2ODRTZFRiM0I1Nk1aYWFPZENYWlNwRkFPNUFBYXZyVU9LbjdpMkdzZmNTY3huTnNKWWJ5Z25DNHFNbUlzc0VXV1BhcXk0UVV0M2hhMGtzMXZhaEJic0NscEhxZXlsTllXNkJnX1JnZWVyRjBiN0lPalFBeFBaZktNbS1FeW1yWlhyNElKU1hMS1Z5a0FPcS1wbXNYbUtYaDA4dzVmLWVYQ3lkLXI1NkNmVWVvWkJHcm1TVWx1Y1I1TWRpZdIBzgFBVV95cUxOVE5YTExxaU1CZ25FaHZ4RW5oNmwtOTJYMzNxWno3ZC1pbE4tTTNwbjVnMm5vdzl3ampSa2d5SUJyeVNlSW1zU2VPdzVMM3NPbnBDM19WMXFzMEJKeUNOWFAxZ2QtUTg0LWl1Slg1S1hodEhvUlBEdkM0VkQ3UzFJaW5oY2tfY3JwRXF2cnhDWUtEUHd2aVRiemZVOW83Y3hwemRJWDV2SzhOdGZKMFZRaFJ6WW1faUIyeWd2bDZ0X0ZCZlJlWjh5UWtiZVk2dw?oc=5",
    "data": "2026-10-23T23:00:00+00:00"
-  },
-  {
-   "titulo": "Dólar fecha a R$ 4,98 nesta sexta-feira (23) antes do segundo turno das eleições",
-   "fonte": "Brasil 61",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQUnZBZlludTRJYWh6bGhBVnE3Rnl6RGVpaU0weE10YlFvM3QzQVNwYXRCUTJjWTVyQ1ZwMUNqMDlsTlNDT2ZZVUdBSkc5d3NNX2NRdzVIbmhNUS1DUy1wMXBBUS1OMUlCWEpRaHQwMHplVjlWXzVIczU4TWg5SGZBUE9BUTZneV82c3BUMlI5WlA3YjlGYWJycFF5aGV5dEZBS0EwVHVwU2xnQUU1ekRXUVpB0gG3AUFVX3lxTE5uUzdreTMtOGRGSUxETm9tdF9lX3FFcmRLQVNmT3BwOVNacXFnME1hcXFZOUU5ZUVSYWdqWVItNmZTX203OWFNNFZvb0NzNFNpajNMUmM0cmVhQjZ3aTNpTVc3X3h5bm1GMVJ6QjktUWg2cFVIUUctXzA3Mmh5Vk53YlNPNjdwOFNack9xUDNoaXkyc1lUSnlwOXdDSlJGUEhfVVBzazR0WnFhakFmcHo5N3g1VUJPQQ?oc=5",
-   "data": "2026-10-23T23:00:00+00:00"
-  },
-  {
-   "titulo": "Após caso do Banco Master e perdas do FGC, Banco Central propõe mudar regra para ganhos de plataformas de investimentos",
-   "fonte": "O GLOBO",
-   "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNWXVXNEJnM3ZmaWIwQVlHU00tUzU5SW82RElGTWk2LW9FU2I5S1NRYWkwLVlEQXphUThXeWRLc2lFZHh1eHRkYkdoUnB5Y2d6dnBGakZPbzNPSFZSNkxYNkdCc1BmeFQybld3LW9IS2lIck1DYUt6OU12ck1wQ2NNeDVJd3k3Y0huUXVwd0VPQ3VPcXU2R2dUeTdydE9zVGZDb1JDQnVWemo1QzVQd1NJNWxWSlI3YlBDSkxfN1VnbUtfelJEcUU3TnUzdHppc1pXUWU4a1ZqaHhic2xDTzZHaUFDNFY3THFPM3BQbWE0NjJrYnRfT0hhZktBTGppa1dpaTJfME83a3jSAZcCQVVfeXFMTU53SWd2NjJrb0E5WnotSHM5M2V2WWVESE5jQjlWM1ByU29kN1J6RERKWmJIZlNVTXpPb3ZzTWdFMGpGRExUTm5NTW1oZ2NpclVHVVZIZzJjRDhxWkN6VWZtSGhhLU1DUXhNMGVhSVBMcktpWm01OUEtNHVmRGZrVm8ydG5MWFZtMkdiZE42RGxiYVZEQkcwSURMN2FaeHRUTGU3U3otdWc3Ni03cUtvTTFtNXVUX01ycVYzQk5GZ3U5UkZveDNTT2dVVk1CMnVUU01vRS1yWjlBSmFzOTlfX1RLdmFMb2dHSG9UaEkyazBJVkp4b0gtaHd5aEdGNVZNajljZXFVQTZmdGkzMEQwR25oSHJKMkVJ?oc=5",
-   "data": "2026-10-23T22:56:42+00:00"
-  },
-  {
-   "titulo": "IA gera pânico e dinheiro acaba nos títulos do governo dos EUA; entenda",
-   "fonte": "Investidor10",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZHk4REJDcjJ6R1M3VFRNVFNvbmVYMnVQZWFhSTFoQnFTaEtJS1B1b1BabzM4N3VObHZMcUZoT1BCZUE3NFA4ZmRxbzFXcUZVQ2ZwekRCUGtfRHYzSWxCdmhvZjZHdmlLX0ZlejUyVEpFWXQ2WkIwSnRYMVVGbEdhdnpzYW1MbDdUZllBRlNCUkhhc2RTWGQ4TlNNOVFFbVpqc2QzQUtjcFNNX0NOTUx2eDE2VmY1M05PVEhJ0gG7AUFVX3lxTE9keThEQkNyMnpHUzdUVE1UU29uZVgydVBlYWFJMWhCcVNoS0lLUHVvUFpvMzg3dU5sdkxxRmhPUEJlQTc0UDhmZHFvMVdxRlVDZnB6REJQa19EdjNJbEJ2aG9mNkd2aUtfRmV6NTJUSkVZdDZaQjBKdFgxVUZsR2F2enNhbUxsN1RmWUFGU0JSSGFzZFNYZDhOU005UUVtWmpzZDNBS2NwU01fQ05NTHZ4MTZWZjUzTk9USEk?oc=5",
-   "data": "2026-10-23T22:45:00+00:00"
-  },
-  {
-   "titulo": "A Semana na Renda Fixa (19/10/26 a 23/10/26)",
-   "fonte": "XP Investimentos",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQb0RpaDFFTjNIclpBcG85clBGeXlsaHN5NUhqSFBlVmxEdEhMQ084Nzg1MVdrSFlfelpIVU13LUJBNXpjcTktblRwcl92MVZjM3djV0lKWWtMbERza3gyLU5FdG1VSmJDbklOWmZRcUVIOXBlaWdsaEdPQVV4S2M1cnZnaS05cTBLWGxPS01tNlFQeGF4VTJpOElR?oc=5",
-   "data": "2026-10-23T22:35:30+00:00"
-  },
-  {
-   "titulo": "Ibovespa fecha em alta de 0,76% antes do segundo turno das eleições",
-   "fonte": "Brasil 61",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNR2ZhZXRjTE1zVURtMUVuajFFakRaOTcxT0VSbGZtNVE2S2VWdVgwbEtYandCNWNpbHRvSjdXYTdqVHNFd25xcUFrQ0RrcWVRczJaZjVOVHBoV19lcGllalNnTi1rZlhyY0s4RzB2bkNyY3VhUEFKaFljNm9aQTMtWWJ6OXY4VFlZZVVaR0pQOTF4Y3R5YjNMLS1KbThBaDVvYlVJ0gGoAUFVX3lxTE5VZWstZk9kNGZlUXl6NG5rc05pTjdOYTltcUtlTEZKdFlvTjd1N2F6Yl9HOVV0VVRLbUpNaU1xZENzUXFIQzFFWFIxSUdzVXpyZDJxYVlXMU5XZWVBa09kMjBtOGRwendfQlpuNlFMdUMyWWtFVFJJX1c5X3E0SjhWV1FUS25jS2ZFY1FQMTNfRGtCa2loS1BITW82STVCTXJHY1FmU09PbA?oc=5",
-   "data": "2026-10-23T22:30:00+00:00"
-  },
-  {
-   "titulo": "Eleições e mercado financeiro: assessor de investimentos deve priorizar estratégia de longo prazo em cenário de volatilidade",
-   "fonte": "Valor Econômico",
-   "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxOQjJzYVlUQVpEZGpPUDRvWV9EeWNsdk1reDljZjNwbVJfLTMxVF90dTdHOTRVX2VYc0RVMW5EM2FXREpVVFZyZGpGbmgzb0RZQWptYm9uVDE3YnhoTWpSTVhsMV8ydy1ERDNiNTJ1ZEVZODE2Qi15VVBsTXZTRmd3X3FNY0ZSdThYWTJNbzdDOHRULXpFSzB1TEVNVHRMQ3lvYWV3RGVJT3hodlVRSTJzWVk4TVNzNGR4aGIwSkp0XzNBS1IwNjU2cE9KcU9Bb1Z3Z2l1cGxVcWpFLUV2dUowZ1lOakVnUEdNdEN4SWgzOVJoWko3RldyeVM0bWNwRmhTeGx5OXZWeURnVE5qZXRrUHhsYVhQel9LVUp1dlNZakZpOFnSAbICQVVfeXFMTVBlc1o0UkR5N2YzSEtoLUVxM19oYmRoUkl1ZVNMV3h2NmIyR2l0UjhjcmxVUDVVQVUzRG9paURHci1qNWxMYkZRa0VXV1doZFBsZUxUd0ttc3pmM09lMUowWDlmUnZLRm9FXy1nZTZOQXJZQ0N3ZldvVFYzTllJWDNRYTV3ZXl2WC1NZ2VWTFhoRmJEN1Y1YU9jYXE0X0tld2ZqejdHRkhNYnUyVWg2eTJIOHU0QmVJTDZCNXY1bUY0WnJWem45dDBXdzM2QW1Vd1g0VnNJcVlITEFOX2F3RUFfLVJLenlXTFl1OWxsUHZUd2VmeGgzTFR5ZERBOXJXYzFqbW1fYjVWSnAtYkhmVHRZMnlHQlFHRDFrSHlOLWhMeFNPMDNfWVEwajhtcnhVZDVB?oc=5",
-   "data": "2026-10-23T22:11:28+00:00"
-  },
-  {
-   "titulo": "Ibovespa, dólar hoje, TASA4, BBAS3, CYRE3, JSLG3, RAPT4 e mais: Giro de Gráficos",
-   "fonte": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQX1pyTXBGTjFUQWw0ZlF6Yy1UR21PQjRTYTl0S2dsQkVWcWI2LVlxU2tqdDBoTmRYMl94cDFObUVNRENJTm0xLWctNjlDdFprUGFVekJJQW9OTUgwazhXdHJLTkZnOWJkRlplYzVUSVh2X0dfQnBDSVFscUhhemVtRE9GaUd4ZTRGZVNnNmQxRW80VmZybEFYOUkxN0FMQm9aSDEzcDVsSWpuUHBScGhxOE5ZTmRYSVBw?oc=5",
-   "data": "2026-10-23T22:11:00+00:00"
   }
  ]
 }
