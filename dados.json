@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-10-24T16:33:20+00:00",
+ "atualizado": "2026-10-24T17:31:08+00:00",
  "indicadores": {
   "selic": {
    "valor": 13.75,
@@ -16,6 +16,18 @@
  },
  "cotacoes": {},
  "noticias": [
+  {
+   "titulo": "Luciano Pinheiro reforça campanha por Lula em Euclides da Cunha e defende continuidade dos investimentos na Bahia",
+   "fonte": "News BA",
+   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQZkRNZVFHYlc3dDJYLUFFX3E4d2VjZ2ZPVDFobXlqcWgzSHZVckR4eFhsWWRYTllORk5BLXhLNDlNczZUT1VkaGpUSlBFZjVMVFRodEp5dGZsRldkeGpmdmNKdDF5eFVUQWlXSGdCVkpNc3pMOGdXYkNHeUxCVWRVbDBfLW9NQ1NLZzI3SDBOM0pMZnhLZzFoa0p0eHRpa0ZEVTc2dW1YejY0T1phY0dYb3M3bHRRd2I3d2lNR0lNR2VYODU4SFpJbk9Va3FJbTh5V0tvQUx3V1FnMUZTeGxSYw?oc=5",
+   "data": "2026-10-24T16:38:25+00:00"
+  },
+  {
+   "titulo": "Porto de Santana, no Amapá, terá investimentos de R$ 150,2 milhões",
+   "fonte": "ConectAmapa",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOdzJCUExoSkRRdHZzNm53R1BrbnZ4WV9lVDJqbm5pQTVKRlhjbWtoS09fQTBwZXh3dVgwNXJpcmQ3aEVZb1U4bnFhNlZfbDBJQ2JUQUpqT1NnQUxvSjRvanZsOTVjZVlQSlBVRzBYZWJTODRIYVdjVWFhV2dnNE01WER4NXpDdmhuUGhMdFJSZEo?oc=5",
+   "data": "2026-10-24T15:56:03+00:00"
+  },
   {
    "titulo": "Manaus 357 anos: Governo do Amazonas amplia investimentos em saúde, inclusão social e qualidade de vida",
    "fonte": "Radar Amazônico",
@@ -41,6 +53,12 @@
    "data": "2026-10-24T15:22:11+00:00"
   },
   {
+   "titulo": "Eleição movimenta Ibovespa e dólar a dois dias do 2º turno",
+   "fonte": "Acia Araçatuba",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQVXV4T3VlSHhlLU9MZ3NwOUsxdm1DOUJJVjVoT0QyZDJFbjdwWkdfU1Z6YmNweXhCb2hEVVZDS29CR3ZBVG84dnpVbk5oMUVZOUtHTDZ5cGdMN082a005blppZXhyVzY1WUJ2MW5fRGpNSXVGUGVZTU9ERENfQWNkMkhnNA?oc=5",
+   "data": "2026-10-24T15:05:25+00:00"
+  },
+  {
    "titulo": "Lula mobiliza multidão em Copacabana em ato pela reeleição",
    "fonte": "Jornal Correio do Brasil",
    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOX092TGZGM08yVFpOSTRyemlhcjVGVExPMkgtdXFQaUhKN0FRTzJwUHB4R1E2MENDZGRyQS0wTzdndXJ4R2QtWGZiTHFVYjctN21tdFZUU1p3cFdpMm9PY1R4VzZ1aEJZeFZBdzNoLWlsbXBVVnR6eUh0YnFQSHNKdnlaaGdLNjA?oc=5",
@@ -59,34 +77,16 @@
    "data": "2026-10-24T14:50:00+00:00"
   },
   {
+   "titulo": "Copacol celebra 63 anos com investimentos de R$ 1 bilhão e reconhecimento nacional",
+   "fonte": "Jornal Pitoco",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOR3lLM1pLOUpYTzFBUm01dmo3aWtnRjVwaE1hUnhOSnd1aVp4M2lOUWplVXRRMlJlTjBpS3FvV0tZajMxT2J5aVY3RkFsQWpjbWI1V0N5UzJSUTFjVHhzbTdxVDJDN19Uck1VNC04Z1dlNlhILXFoMDNyMnZ4VGJGRWRiWk9CR1FFVjdNd0xKMk53SHh5a1o5YVhZRlVrc2o2TUh4TlZYaGY3STFoUXhj?oc=5",
+   "data": "2026-10-24T14:48:55+00:00"
+  },
+  {
    "titulo": "Expectativa dos consumidores para inflação da zona do euro para 2027 sobe",
    "fonte": "CNN Brasil",
    "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNR1FtY1BNMFRReHZlaUpyTTV5YXdJVkd6RmtrZ09yOWhzdGlUUDNRenR4ZUdqSmRKam1PX0k4eExwcFZKZEwzeWFjV1VRSTNDOHRURFZxS0pKQzFCTDIwMlFSRFh3a000TGtQY1M3NERMa0FGRkRzekZGX0hRZzBqWjR1MzZfV0l2SFVLNnQ1UWVDdV9aZkVHeEx4TTI0VzlGRV9CUVBVV0xCZFMwTFpoTDRoTHgxaWE4eThBbk9WZ19zckV4MHVMNXdZNHY?oc=5",
    "data": "2026-10-24T14:20:49+00:00"
-  },
-  {
-   "titulo": "Daniel Vilela celebra 93 anos de Goiânia com investimentos para o futuro",
-   "fonte": "Notícia Toda Hora",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPajRHc1h5dWJuanZ2VlhJYkxkS085ZjN6OTgwMDMtRS1xMUdqX2dRWnFaWlA2c19FWnN0QzhuRG45dWx3QWhZOW0zZ1hpT1lPLUU0Q0lHNjYwZVh4bkEzYTJHRWc0cUwwaGQtdGViUGZFSEpxV2RkYnZYbXY1cjluNnVwZEt1aDlGcU5TWmYya1FQU0FBZkFvZF9YMHNlRDVZWUR1WmgtWQ?oc=5",
-   "data": "2026-10-24T14:09:00+00:00"
-  },
-  {
-   "titulo": "Eleições 2026: dólar pode cair mais? Líderes avaliam riscos para o Brasil após as urnas",
-   "fonte": "BeInCrypto",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQdV9HWkZ6cFpnMy1HVzBKVFBsYmtEQlNwZ2g1V0pQRWdub1RFekdOYU15QjVXRE5vdkZNZzEyQ216N0t5Zjhhd1NXX0NTZERnbTZyQVNNWFA2YmwwZ2FuZmcwd1FHWmp4WWhKOWJEeFhUY3NmNlBRUy1Wd2NTOThPN0V2MG5ONXBUdmV3S2tJSHgzbWdoZlgzX1NWa3F1OFV6WHF6eXVVTkNrcXBVeWpFZHln?oc=5",
-   "data": "2026-10-24T13:54:56+00:00"
-  },
-  {
-   "titulo": "Imprensa estrangeira destaca economia, investimentos e agronegócio na eleição de 2026",
-   "fonte": "Canal Rural",
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNdk1WdWkyb0hXVHFnQjItVnIxbUVKS3NfRFZ2MmxsRFFuSk5vU1hpbENyTzVORW1lNGlkRmwycU9DZkQ1VkpfMWVhaWthbjRIQWthZ0ZlNFRDa29MeW0tTEtOMm0xU2FKX2labzljUWRCMUJicGNjeTFWbFNSVUstYWRzYVBvbTdKWlc0akplMV9YVmEwTzQxaWRfVndqZzlaY1E0V1JPMFRGU1BfVnRDMjRmb1l2bVc4Ry1DcGRtMUU1VHdf?oc=5",
-   "data": "2026-10-24T13:49:54+00:00"
-  },
-  {
-   "titulo": "IPCA-15 desacelera a 0,32%; alimentos sobem",
-   "fonte": "Jornal O Fluminense",
-   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9MaXVaRzZFY3hhWEdBalloQWVockNsbS1QaUMtdzlDdVlpWGQ4ZlVhcDVFOWJjTlFrRFc1OTlfbXFsWXZYdmtZYnR0SXhYemNXWlpFME5hQ2cyQm1lZHBfTHZkMGdNdllIamhPcg?oc=5",
-   "data": "2026-10-24T13:41:00+00:00"
   }
  ]
 }
