@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-10-23T23:32:02+00:00",
+ "atualizado": "2026-10-24T00:50:34+00:00",
  "indicadores": {
   "selic": {
    "valor": 13.75,
@@ -17,10 +17,28 @@
  "cotacoes": {},
  "noticias": [
   {
+   "titulo": "Lula x Flávio Bolsonaro: o que cada um falam sobre juros, inflação e o preço dos alimentos",
+   "fonte": "Exame",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOUnR4WUV1WnZ0MzdNTjA4VlRQN0F1ZTgzSld4RWpDVmlXVkdCdWpKU0J4Z2dPWEROeWV5amlzajcwOEl1LTNjSG80alo2Wm41c3dtQWZrazF4cW1SaURMNFNFM3hUT3ZWbGxFVFE0VEFzMUlSRkRIbEF6dlQ4Q2otR0RfMU04aHEtbUF3c1QzaENGMW5rTFdzVEplYTNxUENiUXlfYnJibnZzMThic3N1UG5YbXY?oc=5",
+   "data": "2026-10-24T00:03:25+00:00"
+  },
+  {
+   "titulo": "Governo Federal e Estado ampliam investimentos na saúde do Sudoeste baiano",
+   "fonte": "ba.gov.br",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQOFhFNGNyaDFKd3BHSUZpb09kb3Mwem10bEROTkJwRGN2Q3NVYW1WY2dzRWtJeHlnekloSFB6SWJ0NXlYeW9XN3B5S1lPT19PbzFVZzFsSC1xUnN3M3pHTWRXZ2NKZU0tVl9mZFlCTkpLSWFTNTJEeDkzWllWel9ldXM2TW9EUGNQNWowTG9mQk85RmYtSTJENjIwOUdwRW40bVdyd1pXSFc0YkE2Nng5VnUzTDNoWnpIYWhVNFBoYWVad1J0X1d1ZXZGSmI?oc=5",
+   "data": "2026-10-23T23:24:08+00:00"
+  },
+  {
    "titulo": "Dólar cai a R$ 4,993 antes do segundo turno e fecha semana com recuo de 1,58%",
    "fonte": "A Crítica de Campo Grande",
    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNbFRjM0tCVnNYbUlMWGxmRUp5cUpqMjh6V1dqSWhJSl82ZllLdTBGeE1ZOFNlRlExbnhJdlVKNkVHcnphMEF4TldKU24xM3N3czljNzRzTVhMYVlraXNSa2VvRWhqMFpvcUVnc0dRSkhrZ25NYkJGNUZGdk9pU2JQcVpla19pS0h0OEZfUTZ0VV92OWNvMWNpTk9WNFh5Z3dNcFVmM2JWTQ?oc=5",
    "data": "2026-10-23T23:20:00+00:00"
+  },
+  {
+   "titulo": "Prévia da inflação: IPCA-15 sobe 0,32% em outubro e acumula 4,62% em 12 meses",
+   "fonte": "Jornal do Brasil",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPdlNvVXk0U3hBN2RKdnhHR1IyTC1UNXMzNm5KMnhsVzYxdlg3b1Q3TXNVZDJUMUpqcWk1VXA2LWE0aFFMVXJTYVJ6TEZIR3ZON3J4QkJaZlhHVE1pTjZzb1dOdDg3MmhxRGFkM2NxVVFOSldhcU0xMGp2MDVQMUlDaElpOEhqTDVsQTU0dkZjN1c1Vk5SOGFHeWFRdlhveUdGbHpyZTltUWNVTUExNDNIenFEdEpac005LTZMR21ieFVFQdIBxwFBVV95cUxQZG4yQjdWOXNMNFJFRFhfOEtpT1FUdnVUVUstbjMteEpXaDNSU2pDSjhoejZMOVVjZjVOT3ZTN2d2T2dWTThYazU4N3FVN2pTTkxGMk5Icy1JOGozVS1wYnhUbDdHSU9hMmdYY25yVjlLUVB5OVZyaWRyN2FKeVNHRzAyR21CQ2JTSVp1R1VWNGRsUzA2bzZxYjRWLXZDUXBfNXdtTXZVT0x1OFpWZVd4UHk4aVdNdjJsMjc5Wm03RFdWV1BROUZF?oc=5",
+   "data": "2026-10-23T23:12:00+00:00"
   },
   {
    "titulo": "O combate ao tráfico nos portos exige investimentos além dos terminais",
@@ -41,6 +59,12 @@
    "data": "2026-10-23T22:56:42+00:00"
   },
   {
+   "titulo": "IA gera pânico e dinheiro acaba nos títulos do governo dos EUA; entenda",
+   "fonte": "Investidor10",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZHk4REJDcjJ6R1M3VFRNVFNvbmVYMnVQZWFhSTFoQnFTaEtJS1B1b1BabzM4N3VObHZMcUZoT1BCZUE3NFA4ZmRxbzFXcUZVQ2ZwekRCUGtfRHYzSWxCdmhvZjZHdmlLX0ZlejUyVEpFWXQ2WkIwSnRYMVVGbEdhdnpzYW1MbDdUZllBRlNCUkhhc2RTWGQ4TlNNOVFFbVpqc2QzQUtjcFNNX0NOTUx2eDE2VmY1M05PVEhJ0gG7AUFVX3lxTE9keThEQkNyMnpHUzdUVE1UU29uZVgydVBlYWFJMWhCcVNoS0lLUHVvUFpvMzg3dU5sdkxxRmhPUEJlQTc0UDhmZHFvMVdxRlVDZnB6REJQa19EdjNJbEJ2aG9mNkd2aUtfRmV6NTJUSkVZdDZaQjBKdFgxVUZsR2F2enNhbUxsN1RmWUFGU0JSSGFzZFNYZDhOU005UUVtWmpzZDNBS2NwU01fQ05NTHZ4MTZWZjUzTk9USEk?oc=5",
+   "data": "2026-10-23T22:45:00+00:00"
+  },
+  {
    "titulo": "A Semana na Renda Fixa (19/10/26 a 23/10/26)",
    "fonte": "XP Investimentos",
    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQb0RpaDFFTjNIclpBcG85clBGeXlsaHN5NUhqSFBlVmxEdEhMQ084Nzg1MVdrSFlfelpIVU13LUJBNXpjcTktblRwcl92MVZjM3djV0lKWWtMbERza3gyLU5FdG1VSmJDbklOWmZRcUVIOXBlaWdsaEdPQVV4S2M1cnZnaS05cTBLWGxPS01tNlFQeGF4VTJpOElR?oc=5",
@@ -53,40 +77,16 @@
    "data": "2026-10-23T22:30:00+00:00"
   },
   {
-   "titulo": "Ibovespa fecha hoje com alta de 0,47%",
+   "titulo": "Eleições e mercado financeiro: assessor de investimentos deve priorizar estratégia de longo prazo em cenário de volatilidade",
+   "fonte": "Valor Econômico",
+   "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxOQjJzYVlUQVpEZGpPUDRvWV9EeWNsdk1reDljZjNwbVJfLTMxVF90dTdHOTRVX2VYc0RVMW5EM2FXREpVVFZyZGpGbmgzb0RZQWptYm9uVDE3YnhoTWpSTVhsMV8ydy1ERDNiNTJ1ZEVZODE2Qi15VVBsTXZTRmd3X3FNY0ZSdThYWTJNbzdDOHRULXpFSzB1TEVNVHRMQ3lvYWV3RGVJT3hodlVRSTJzWVk4TVNzNGR4aGIwSkp0XzNBS1IwNjU2cE9KcU9Bb1Z3Z2l1cGxVcWpFLUV2dUowZ1lOakVnUEdNdEN4SWgzOVJoWko3RldyeVM0bWNwRmhTeGx5OXZWeURnVE5qZXRrUHhsYVhQel9LVUp1dlNZakZpOFnSAbICQVVfeXFMTVBlc1o0UkR5N2YzSEtoLUVxM19oYmRoUkl1ZVNMV3h2NmIyR2l0UjhjcmxVUDVVQVUzRG9paURHci1qNWxMYkZRa0VXV1doZFBsZUxUd0ttc3pmM09lMUowWDlmUnZLRm9FXy1nZTZOQXJZQ0N3ZldvVFYzTllJWDNRYTV3ZXl2WC1NZ2VWTFhoRmJEN1Y1YU9jYXE0X0tld2ZqejdHRkhNYnUyVWg2eTJIOHU0QmVJTDZCNXY1bUY0WnJWem45dDBXdzM2QW1Vd1g0VnNJcVlITEFOX2F3RUFfLVJLenlXTFl1OWxsUHZUd2VmeGgzTFR5ZERBOXJXYzFqbW1fYjVWSnAtYkhmVHRZMnlHQlFHRDFrSHlOLWhMeFNPMDNfWVEwajhtcnhVZDVB?oc=5",
+   "data": "2026-10-23T22:11:28+00:00"
+  },
+  {
+   "titulo": "Ibovespa, dólar hoje, TASA4, BBAS3, CYRE3, JSLG3, RAPT4 e mais: Giro de Gráficos",
    "fonte": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
-   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPNUtMSU4wOVRLb0EzN0RyUE9HWmotamcteFR4UTViSHhtaG9BbzluUHJiVWhSWTR4eWJRR051X1RnNHFaZGljUUJuZWFGQml4dzJkNURyb2V1NVlveWtxaXZ3Z1pia3F3MTQtd2hZalFPYVFoWVRwRlpUSDhZcmE1QnNZNE9TQQ?oc=5",
-   "data": "2026-10-23T22:08:00+00:00"
-  },
-  {
-   "titulo": "Gasolina sobe no IPCA-15: O que pode mudar no preço após a eleição?",
-   "fonte": "CNN Brasil",
-   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxObU9Oc2dOS1lSaFpoUmZ1ZThOQzl6Y1JmOVVtczNJNDdLZVh4ak5kQlpUcXlSMWxHN3ZTSzBVLVRNU0poakdkYko5d2Z6dndKaVpNRFpYd0FnX3AzVU03RDlmbWpQVzloa0QydVNlenF5c0YtM0NUOHRGU0gySkQtdFN5MVFfMWx4ZEJqbC1qTjBLZFltN3JoNWxLclpsOTZVaXhGZmZ3N29oUDk5OTVLa3NIbkNJUnhDT2J3R3dVQUVpZXdCS1RtMGJZd2F6OGhpa1lCU2RkaFVDbmF5Nm13?oc=5",
-   "data": "2026-10-23T22:06:41+00:00"
-  },
-  {
-   "titulo": "Ibovespa perde força antes do segundo turno: empate técnico deixa mercado sem direção",
-   "fonte": "Estadão",
-   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPNnpDcldZb0xQSEJHUVNkZlE5eWtwaW9NbEQwUU9LWUg2SnlHa0JhXzJkRlNmSnk2dEgwSHRDSHFTQnlTd25mamUtWGFMQ21LdTljMmhsRllhTTZFOTM1S2NQOF91NzNjSmNRNnpGekhQYTBuMXlBSVFVb2ZnZ09GS0ZudHRybG1rOG1fbmxNYUpXUzhzQ3dZZ3ZIbUZrSlR1dXpwYlIzbTZNMU9ER0dHRUt6SVR0amFqU3AwZENQZTFTQ1JfYWFraXNLU3NMQzY4U0JObW9FbUhpRFlUMXQ2U1BOdXpZdw?oc=5",
-   "data": "2026-10-23T22:02:16+00:00"
-  },
-  {
-   "titulo": "Dólar fecha abaixo de R$ 5 e recua 1,58% na semana",
-   "fonte": "Agência Brasil",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSXNwX3J1R2VEeHFkMkxOMGh3cy12RzNQUDFFWS1zSDhadVB2SjRoUHJ2VEZtY1FPUWJLU1VtWUJhZXJLMkEwVXlhMUZsd01BUjVTSmp5ZE9kSC0wRTR2UF82TGd2YkRidkcxQ2p6cF93LVplNmRuRFVZUVg0WmtTZS1xdUJpUDlHdGxLa195eHYxWXNZNFFmQXB3OWlVeEZPYzYyM2dFa3c?oc=5",
-   "data": "2026-10-23T22:02:00+00:00"
-  },
-  {
-   "titulo": "Clientes, convidados e amigos da SVN Investimentos (@svninvestimentos) participaram, nesta sexta-feira (23), de mais uma edição do MK Open Tênis Salvador, realizado no Clube Bahiano de Tênis (@cbtoficial_1916), no bairro da Graça. Idealizado há qua",
-   "fonte": "Instagram",
-   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE81VWx6N04zOERHYllTQnFCdkkzODUzNkJfcVRDUXZCaUZBaDA3c2xQRnVmRENfbzRZSlRRcVpDTVI3cEtFV3NxdHhfNnNFbmFKLUE?oc=5",
-   "data": "2026-10-23T22:00:08+00:00"
-  },
-  {
-   "titulo": "Ibovespa subiu 7% entre 1º e 2º turno da eleição; veja as ações que mais ganharam",
-   "fonte": "Exame",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPNENtR0ViT3FwYUdUdHZ5NjJLU2REb2doVmNvVDFsSngxeFpUZElUZnRWV2dJN3RUTGx2T1ZOMnRyUlNtb1djNmdxNUdVRy16UW5IU3lOLVQ4ZjByMUh6T3BIaS1VdF8tTWVIQzE0Y3lUVE5uNDFSNjhEeDdSNGNnR3Z4d2ZmYTFLemkxUjZtWmxnQlFFeTlLOHNodHN1R3NsNlN5eWcyRWZaWFNvRlgybElXUTQ?oc=5",
-   "data": "2026-10-23T21:46:43+00:00"
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQX1pyTXBGTjFUQWw0ZlF6Yy1UR21PQjRTYTl0S2dsQkVWcWI2LVlxU2tqdDBoTmRYMl94cDFObUVNRENJTm0xLWctNjlDdFprUGFVekJJQW9OTUgwazhXdHJLTkZnOWJkRlplYzVUSVh2X0dfQnBDSVFscUhhemVtRE9GaUd4ZTRGZVNnNmQxRW80VmZybEFYOUkxN0FMQm9aSDEzcDVsSWpuUHBScGhxOE5ZTmRYSVBw?oc=5",
+   "data": "2026-10-23T22:11:00+00:00"
   }
  ]
 }
