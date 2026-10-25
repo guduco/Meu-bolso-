@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-10-25T22:28:26+00:00",
+ "atualizado": "2026-10-25T23:28:50+00:00",
  "indicadores": {
   "selic": {
    "valor": 13.75,
@@ -17,6 +17,24 @@
  "cotacoes": {},
  "noticias": [
   {
+   "titulo": "Gasolina e diesel sobem bem acima da inflação. E depois da eleição?",
+   "fonte": "GZH",
+   "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNbHlIazRDUXNlLVg1V0tyTEQ1V1pWc2lKTDVtc1dGZXBSYmxSNExZWmwyWTlucHhZbEMxdUhmNnRDVWpHSURnOUxLQTdEd1VNVHg1RkJJSWQwX0FpMlpKRExfVC1KTmVzUUtuM0x5TXZRRFVDVkdNdnp5b080cDJUUGl5V1lYWUx2SGc5Nl9jZy1wUmtNVVB6WC1BbmhtUkdzU0huQVVjTVl0Sk82WmVtV0VubEhsSV9lRTRHWTctcnZqVUZ6aW5jaEtUcGk4ZnowRWNrNEIwMGVZTDdYeHhSQUM2N1NoNGluRi0yYm1VMGZ2ZmhpMUFRd2pCRmI?oc=5",
+   "data": "2026-10-25T23:10:54+00:00"
+  },
+  {
+   "titulo": "Redes hoteleiras avaliam investimentos e expansão na Síria",
+   "fonte": "Radio Shiga",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNWVpUZUU3LThTLTB2ZVJkUzdnY2QwbWVBTG5pdHJtcVZESnhlazE2Z0NkekNiSkl4SC1KTDMzbXpxTlJyYnllaUNwUmlBNmlXTC1nNmJsaXFmM1Qtcml6NF9QS1FUVlVkazBDOTNLcE4tcDU3elQyRkp5M0hycFVrRHZ4dUNMYUp3a2w4YlFxSHQ4XzljMm9wag?oc=5",
+   "data": "2026-10-25T23:00:27+00:00"
+  },
+  {
+   "titulo": "Real se desvaloriza com apuração presidencial acirrada - 25/10/2026 - Economia",
+   "fonte": "Folha de S.Paulo",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNNFRTczVVRlFNQzNydmtfZWt2VWNUak0tTXpWVjJlT2E2Rk4yeFFTdE5YMTNUQXhtQWE0T2w2bkk0Nk5zTlc3MkstTlJzUFdHdF9FVFR3eXhySXNoY0ZOLUp3ckdtZFFXUFFTQWJnTUJYWDN1aGtpU1ozUVNwZ3YzLXlNTW1aQ1ZpRVplVHVmbUptRjJXbmVfODllN2N6MjNFZ2F2SEQtWjhWdw?oc=5",
+   "data": "2026-10-25T22:57:00+00:00"
+  },
+  {
    "titulo": "No Parque da Cebola, prefeito de Ituporanga comenta eleições e projeta investimentos para o Alto Vale",
    "fonte": "Rádio Sintonia FM",
    "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOby1EVGhFRDd1RzM2R3ZMcjFwTmEwbEc1dFd4eFk3ZE9YbTRPVHVpRFVzOWhaLVVBWWowVDNNM2lMckZBQnVfVGlDQUpRcFU0aUk4VWxlRnllNmw0NkdQYk4yMlU3RFZJeUUtTXNHVXV3OEU2OVdCUEhNZ3hNSFZsSm5uLW9mQnJfQ3pBT2N3RXZRNmM1WGZhYlE1SXphbV82bjVpRWFsTWxVUFV5MTBBU2tnem4xdUl3Z3k0SjFOZkV6YUZyN2xzSVItSGZsV0RoZEhUR3AtNVpyXzAxdUtROQ?oc=5",
@@ -24,7 +42,7 @@
   },
   {
    "titulo": "Ucrânia sofre pesadas derrotas no campo de batalha, aponta analista",
-   "fonte": "correiodobrasil.com.br",
+   "fonte": "Jornal Correio do Brasil",
    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPdTdZeFJaU2pvMDZsUTNTMVZIbVhOWWJBd1g1d3NOckttYjdValRXYy0wQ3pQLWkzbElZdy0zdTIwZGxyZHpOUWpNVmN3M1RJdElBMnpta00zbjJlZkg2cC0xb1pjbHJNbG1yRFV1VFI1RGVya0ViS0dFNnVoNWJrQnNTa1M1TkVLZENHSXowcnF0SV84SDh2Yg?oc=5",
    "data": "2026-10-25T22:17:45+00:00"
   },
@@ -69,24 +87,6 @@
    "fonte": "Estadão",
    "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPRkt1OG1Gbm5tRVE1WXVlTVY5QjRQbjNoU3JnTkxYOFZMQ01semJFYjNoR1F0QVdNa1k5YXZxOXJNcklIRWU1eTZHbDFvY2FkcFVZMHpvd2c0V2lwZVVnSm1UNVpuSnd1WWlqLWNhLWl4dGxYbFR3VE1kT0t2QW41ZUtMZExNUlRrT0JkbXNnaVAtYlNkZ1ZNZ0hxczh4TjZ6NEY0Tl92eFhXSnBjUHVXM3JtMzVNQURqREN1aXBXY0xQNFdWeVZhakJ5a0haQjd0Y0ZuSlZTQ2ctYTg4cUlTTE1nMWFjMkppWmpSTEFXYUZGS1U?oc=5",
    "data": "2026-10-25T21:11:14+00:00"
-  },
-  {
-   "titulo": "Lula denuncia ‘roubalheira’ nas eleições, com a retenção de ônibus",
-   "fonte": "Jornal Correio do Brasil",
-   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQTmRNU1hxUlNkYm1ZOFNCaWtHYjlPaXk5RHp1WmNnWnRwWEo5ZXVBXzBHR09zUDkxMm9PZWsyRGxWbnF3MTBPaDlYYWNwcEJYaTZIbEJsNHFUa3FCVTNLOUc2ZHBneGEzV0VMOGxreGtvaXdFUTFHQ0NtbjFCMmdreUdmQUo5a2tsVFR3?oc=5",
-   "data": "2026-10-25T21:00:59+00:00"
-  },
-  {
-   "titulo": "Opinião - De Grão em Grão: Como ganhar dinheiro na renda fixa mesmo com empresas quebrando?",
-   "fonte": "Folha de S.Paulo",
-   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNcGZWRTFRNzFndlU2My1uVmhuRVZKRko5N0s5a2JfUG1EZGVYZG90ZUdsdnBYRzkwd25yNUlNUUdOZ1NBSjhneVFIVzNYTFBkUDNTbFk0ODVmQzFKSy1TMTE4UElnR2tvZG9oaF9CNVprMlY3Z0Y5bkdpVmFLVFQ2MmtOby0zdFZSWXpGdkNLTjNPTTU4TXJsMm16dWVPY2pkeE44UEpVbDhUZHYyUGJWUVRrV2JrRk5VZWNUb2hGUnhxWGt0Ym80MQ?oc=5",
-   "data": "2026-10-25T21:00:00+00:00"
-  },
-  {
-   "titulo": "A Malásia poderia atrair US$ 50 bilhões em investimentos em IA e tecnologia.",
-   "fonte": "Vietnam.vn",
-   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPOUlrcTN4TTd3Y3FQSHh1bm9wWmVIc3B1NTVjenV2ZVFody1YQnpHNEttV2ZqSlc2elBFZHNidVNPWmdjdlRZeWhXNEFWYWRpbF9RMnJaLXhVMFpHaXRSTW41S2U0WXNldmpzdGgxNTR3MURfWVdZa0g4cDJyTmY2OFN4OEN4dE1xUXlBeVRaaw?oc=5",
-   "data": "2026-10-25T20:59:54+00:00"
   }
  ]
 }
