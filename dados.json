@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-10-25T20:30:50+00:00",
+ "atualizado": "2026-10-25T21:31:12+00:00",
  "indicadores": {
   "selic": {
    "valor": 13.75,
@@ -17,10 +17,58 @@
  "cotacoes": {},
  "noticias": [
   {
+   "titulo": "Lula denuncia ‘roubalheira’ nas eleições, com a retenção de ônibus",
+   "fonte": "correiodobrasil.com.br",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQTmRNU1hxUlNkYm1ZOFNCaWtHYjlPaXk5RHp1WmNnWnRwWEo5ZXVBXzBHR09zUDkxMm9PZWsyRGxWbnF3MTBPaDlYYWNwcEJYaTZIbEJsNHFUa3FCVTNLOUc2ZHBneGEzV0VMOGxreGtvaXdFUTFHQ0NtbjFCMmdreUdmQUo5a2tsVFR3?oc=5",
+   "data": "2026-10-25T21:00:59+00:00"
+  },
+  {
+   "titulo": "Opinião - De Grão em Grão: Como ganhar dinheiro na renda fixa mesmo com empresas quebrando?",
+   "fonte": "Folha de S.Paulo",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNcGZWRTFRNzFndlU2My1uVmhuRVZKRko5N0s5a2JfUG1EZGVYZG90ZUdsdnBYRzkwd25yNUlNUUdOZ1NBSjhneVFIVzNYTFBkUDNTbFk0ODVmQzFKSy1TMTE4UElnR2tvZG9oaF9CNVprMlY3Z0Y5bkdpVmFLVFQ2MmtOby0zdFZSWXpGdkNLTjNPTTU4TXJsMm16dWVPY2pkeE44UEpVbDhUZHYyUGJWUVRrV2JrRk5VZWNUb2hGUnhxWGt0Ym80MQ?oc=5",
+   "data": "2026-10-25T21:00:00+00:00"
+  },
+  {
+   "titulo": "A Malásia poderia atrair US$ 50 bilhões em investimentos em IA e tecnologia.",
+   "fonte": "Vietnam.vn",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPOUlrcTN4TTd3Y3FQSHh1bm9wWmVIc3B1NTVjenV2ZVFody1YQnpHNEttV2ZqSlc2elBFZHNidVNPWmdjdlRZeWhXNEFWYWRpbF9RMnJaLXhVMFpHaXRSTW41S2U0WXNldmpzdGgxNTR3MURfWVdZa0g4cDJyTmY2OFN4OEN4dE1xUXlBeVRaaw?oc=5",
+   "data": "2026-10-25T20:59:54+00:00"
+  },
+  {
+   "titulo": "Lula (PT) – Presidente | Eleições 2026",
+   "fonte": "Folha BV",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOSEFRSkd5THRwUmZHMWFOR3NCSVNGTkc2ZXVPOGdwYVhvRnpOOTFJak5vczE5VkUzOC1RbU9HdXE4c3o5bjhXUkgtVGVWeGtLYU5meC1QX0dhSnZrOGRyTjFrZmxjUXV3VTg0SGVfd3dmalN5QWZoZ0Q5M3BsMmxnN3dRVTM3dXBDWVdFbzFiaC1wT2RQTUFj?oc=5",
+   "data": "2026-10-25T20:34:10+00:00"
+  },
+  {
+   "titulo": "A moeda que não nos pertence: o que Murray Rothbard ensina sobre a inflação, o Estado e a liberdade",
+   "fonte": "Instituto Liberal",
+   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNWjI1WTV0alZ5Z0IySHRENnBROU1JM1VucExSRm5OTFpKQS1Rd3RfdGtIMlZWQlQyR1doM0VpaGprSVJHZUJjMTlNQndPNGFCa1lLWDB4aDV6d1lDN3IzbGR3WGV1YWFTU1dzdS14amxfNHRwUVlGVkh2ZzB5Z1VCVHRhM184VmlRZzdYYmJXQWw2YVI3Z2YtdVJEcFFqd0MyYV8wYTBVWjgxcjQyWHcyUENXVlNLNl9kcm9KWE9TV3lYdG5zN2QtZi1SYlpvcVFOYXdSVko3THEyOXM?oc=5",
+   "data": "2026-10-25T20:30:28+00:00"
+  },
+  {
+   "titulo": "CSN tomba mais de 5% e lidera perdas do Ibovespa hoje; veja maiores altas e baixas",
+   "fonte": "Estadão",
+   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQdkQyYzJyTVNCc29SSFRMb3FuOWpPcVhDVVZxQnA5N2g2czVjcnZ4TDVVMnFtWDRHa2twNGQxc0NHR3hYRlJPVkxFYk50QmFzYXFWRFVzbVlPQ3dTdDNkR2hjVWZlRGhva3J2N3JjaVlBZVhwbFc3dFNXOWZ0Nk5qbUhIbDExSk9yTHB5X3ZrUjFYWUg2N19RMDJHRzZjd1FoNTZXbjhoRDVRM3VQMktCbjAyZXlSd1RQc2x3RXc5RHNVNlRNQnpCaFpNYlRFWU1jRGJTWDVUUjIycDB6enN4ZndB?oc=5",
+   "data": "2026-10-25T20:29:34+00:00"
+  },
+  {
    "titulo": "Empresas do agro podem reduzir impostos com investimentos",
    "fonte": "RADAR DIGITAL BRASÍLIA",
    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNTzdHUHFVNUFjSW1UTlNsYnNwRFJLMzhPaHhFRUVlUXhqM1kza216NXhZeHdRdnpFNXpIdEllYlo3TUtQaGlETHBKVElNTEJ1cVItUEE4VTVfeWI2aFA2MHZhVmtXWDRsdGNnUWhzUjEtNzBEVlF2MkNUeTVON0toUFFOc21yUGlOVk1GUWRpbjAwYzRkRVN4RGJlSlZvM1loa1hMUHBZVE10Zw?oc=5",
    "data": "2026-10-25T20:04:23+00:00"
+  },
+  {
+   "titulo": "JBS Terminais supera 800 mil TEUs em dois anos no Porto de Itajaí e investimentos chegam a quase R$ 250 milhões - JBS Brasil",
+   "fonte": "Andravirtual",
+   "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQN3VwVmZUeWdXWWZMUm9kMi1zZ0JiRmU1a1R3bVV5Y3h4MXcyQjgwYklMS1VLVUhmVlJqQVN1cHFJUUMyUl81ZlVvYlExVnI4NUhfNm1SenQyQk1Tc0VxLVpTSTdrNnZLRk5HXzZjaXNqRE14UHJrNEZXSXRLUTcxOGFfM1dEWnFJN1p0N09iT0V5QjZXVTZYWUx1R0h0cWQ4T0JIU0NzaHhUdzhoakFZbkF1WlBDb2R3akZHWjdaellpR2MtdzNUZXJ0d1pYT3dlekYxMGJXOHJvSllpR3pnVFNHTEQtWGQtVUVRV25BMW9JcjkxOUNsXw?oc=5",
+   "data": "2026-10-25T18:35:00+00:00"
+  },
+  {
+   "titulo": "Cupons de Merge a Tank dobram preços virtuais e escancaram ciclo de inflação no Roblox",
+   "fonte": "Rádio Geek",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9MMkJ5SG5OQnlrRlNCWFVtekcyeGRSbE5LRmFWRTVuYk9UcHhaM0xBUmRKd2NoUEhyX2pXV2VtMmE1WGZvd29YejZlM3lycG1NckZyeGdiLUhxYVRVWWRIUGJVOFJFTFFhMDUxbjdwWXo?oc=5",
+   "data": "2026-10-25T18:26:27+00:00"
   },
   {
    "titulo": "Prévia da inflação de outubro no Brasil é menor, com queda de preços de água e luz",
@@ -39,54 +87,6 @@
    "fonte": "ABC Repórter",
    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNOWZKM1J0LU9rLS1OVWtaZGZzYlJGOWNMVi1sSzBYbDFScW9QVmp3S1E2eXpFTEFWdDdzVS1wZVA2WGVYX0VzUnpOelo5LVV3TUNWZzRZVEttNkV6bHdUeDh3dE5ZSmx2SDd4UmU1Smk2UXZVblRVZmZxd2VldXFzNTZfWXdLQ2ZHWm52MlFtWmFFa2tTV01SbWM3Zkthb2o1V1UyWTN3cWZHS3o0N0lpVko1RXo?oc=5",
    "data": "2026-10-25T18:08:37+00:00"
-  },
-  {
-   "titulo": "Léo Bezerra afirma que disputa presidencial não pode comprometer investimentos para JP e frisa: \"Estou onde sempre estive\"",
-   "fonte": "Blog do Ninja",
-   "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNb3VBTHc2X0NfMUkxRXZlUVhUdVZaY0x6a19LUE5sRmZiNkN1b3JKUXE1VmJpV2xYejl3aHFWVXFBOEZEYkF6dVJscEZWSy1CTjZKUm9mLUJLWmtkMEhCdGdlOV9QSE9qdmhoLTRNT3lwWlR0ZXZBTnJSb2VGbXV3RnJlMVFDcTBNU3FNRUVROG85aExybGxKcHEwWkl5VEhUbXlSYzVYaE9EY0t5ODJOMnJTUERzdnZlQ2NmLWZJSjQ4b1ZhcFl4VkZwbmdFM21INGFOVEdEREdORkxVSF9pd0VXV3ZQZ3VKUGJaUFI4WQ?oc=5",
-   "data": "2026-10-25T18:03:47+00:00"
-  },
-  {
-   "titulo": "Dólar fecha abaixo de R$ 5 e recua 1,58% na semana",
-   "fonte": "Jornal Impresso Brasil",
-   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQVDRzeTV1VkJVT2tHcTk3NERwWXRhLWt2YzdYa2ZkTXhENzVjaWxXSEtTY2JHZ0hoTzZ6b3BsS3Bid2xfLWMyME1RTVFVMFZEWmxkMkczbFowdlBWM2pIc0pTZ3JEOVF2M2NONmFBOWZ2LWJfS3puTnhrTFJNTzVvTlI2NHV0c3hRMVJDSg?oc=5",
-   "data": "2026-10-25T17:50:00+00:00"
-  },
-  {
-   "titulo": "Daniel Chapo defende maior acesso das mulheres ao financiamento e aos grandes investimentos em Moçambique",
-   "fonte": "Forbes África Lusofona",
-   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPNWU2MzdtSGUwODZQOTg0MXdvVHJXekVodlZzaGRQTVp3cjJKZDBrOXhhdy1BYTg2ZVhGZjZfOWNib2psY2N1UWF2RWJsQzNxd1ltZFQxVWdtMnpCNDFnc0VvQUZwYW1RWFc1TkZWczIxZlZjaFpXNThaTkRtWlU4bEVoUEhZX2ZfMEljQVJILU9SZkVfZmd5alhEb29fMzEwYkpZREh6R2J2RlNFamFiR3AxVm40ZnJJNHNfMF9MQ3p0a0d4N093MVFJR0c3Q1lxQ2xBMDlB?oc=5",
-   "data": "2026-10-25T17:48:45+00:00"
-  },
-  {
-   "titulo": "Flávio tem patrimônio 71% maior que o de Lula: Veja os investimentos de cada um",
-   "fonte": "Investidor10",
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPM3RXTERsdGtTeUhOYXFCS05aUm96NThxTC1IM0ZLWHVOMmJiSHdaQ0hSZmdxVTdQeWU4T0tPcWNhUE9yUDJ4UWg1eTNXSHhoQkJxbjRVMkZOdExVTmFYZmU1Z1Y5enRybVV2anBGU2FVSVhfd29pZnZxbTRlclNBYlhiYWIxbl9MeUpyMUItbGN0Uk52eVE3VVRVWWlOQXp2SEJJbVkwb25oQXVqY3RidXBxT0pFOG1PNG9MN3pfYXh3bC1M0gHEAUFVX3lxTE8zdFdMRGx0a1N5SE5hcUJLTlpSb3o1OHFMLUgzRktYdU4yYmJId1pDSFJmZ3FVN1B5ZThPS09xY2FQT3JQMnhRaDV5M1dIeGhCQnFuNFUyRk50TFVOYVhmZTVnVjl6dHJtVXZqcEZTYVVJWF93b2lmdnFtNGVyU0FiWGJhYjFuX0x5SnIxQi1sY3RSTnZ5UTdVVFVZaU5BenZIQkltWTBvbmhBdWpjdGJ1cHFPSkU4bU80b0w3el9heHdsLUw?oc=5",
-   "data": "2026-10-25T17:27:49+00:00"
-  },
-  {
-   "titulo": "Pátio Araras deverá impulsionar economia local com geração de empregos, renda e novos investimentos em Araras, SP",
-   "fonte": "Repórter Beto Ribeiro",
-   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNREEtZUtuWk1uT1pKNl9kQmh3aEMzNUpjMTNTUXh5V0E1QnpBRlBxbmtUU3ctdGlMMXpxeXU5T0htNFU3UmY5ODRrcFlLNFh1S3JOS1NtZHhWekpPeDRPUHZXZm5PM0Y2YzI4Q1ZndXFRcTRIT01HV043X3RDeWg4MU5PVXNWRXlieXZVWHdJdUQzT28xLTI0VVZaS1pERkx5UVVoeF9YTkJNdWRPSjlMaFJBOG5EcDJVQ2x4c0s2QnZJNU92cVpVTWdNTDFXLTZELVlIZS1Udk9ydjk1SnY1bw?oc=5",
-   "data": "2026-10-25T16:54:16+00:00"
-  },
-  {
-   "titulo": "MK Open: torneio de tênis une esporte, networking e mercado financeiro em Salvador",
-   "fonte": "BPMoney",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOVXJnQ2EybGhuVmJRUXZ4cjVMQkIzTW5qcTFFcEJPOHdUUHV6dG9tT1NDYXN2WE9YeEtiVS1jbER6b3c1ZFpLUGdkNVhySFR0blUxcUxQaFdVeGFsQ2RkTXFZbTFrQi1fV2ZsdTJEU2tGZmNISHk1QUVuZkpWR0YxUGoxUnlSSklqM0tHUTZuQTZlYjRocDNTN1V4NWkzZmhVYlhmejVhc3JvYTczajBuZVFB?oc=5",
-   "data": "2026-10-25T16:42:27+00:00"
-  },
-  {
-   "titulo": "Nicoletti projeta vitória de Flávio Bolsonaro e promete defender investimentos para Roraima no Senado",
-   "fonte": "Folha BV",
-   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQSGNMek5mWWllaWdyMHB1WXlfWU5xc3BqOEhUOExTZUVMVXlJZXF2dHhKOXFlZTZOZDlLeThybkJ6NWZHdzdERE95X2oxX3BLSDEzUWhrQ2ZyS2xjV2J4ZHpZLTBCQ1NQWnIwaTZERDVJQWJSd1FPQUJZNjJ5QjJVSjE3N0g1U05wLTNsd1phcUFwSTFPLUJrSzlfWGpDMGZsYTY1NjFieldhNm5UWWR2WHZSSDlRUDk3d2JjcU1zOG5UQ1A1aVBxd29pRlhleWNKTUREaA?oc=5",
-   "data": "2026-10-25T16:32:23+00:00"
-  },
-  {
-   "titulo": "Surpresa estrondosa: o Al-Nassr às portas de uma transformação histórica por decisão do Fundo de Investimentos!",
-   "fonte": "Goal.com",
-   "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNNHZXVnpDdkU0T0JTWGFudE5sbjk4RnVnYVY3cnZDYlg0ZlFhSXFCNXpPTGVjSm9jOXlVbGVSb2wtLWRWWWFfdG1rMHg3eTRhYTBuYURaX0MzRWtUbU1Ua3FLSXlxU2s0ckRIRGdONVBPU3dQQ1NOb3djVTdSQmwxOUdfdHlmSFN3ZkpaeU9JUk9DMXBobWc3NE1zaXY0MHl6ODB4SWtSLTNUNnJKQW0za2JZOXFsaTFxN0NiYlM2RVFCbnlxeEt2LUtQNEVwajRCWHMxMmRUaVNxU0FDUm9UQlR4NmRIVEtKenBMa2xTaGo4WElLTElTc3lWYw?oc=5",
-   "data": "2026-10-25T16:23:21+00:00"
   }
  ]
 }
