@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-10-25T10:32:38+00:00",
+ "atualizado": "2026-10-25T11:32:15+00:00",
  "indicadores": {
   "selic": {
    "valor": 13.75,
@@ -17,10 +17,28 @@
  "cotacoes": {},
  "noticias": [
   {
+   "titulo": "Inflação dos alimentos sobe em outubro; veja o que encareceu",
+   "fonte": "IstoÉ",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE85a3RTVl9KckJhQlFzY3dwbWFtNjV0OWJvY2dzaDJRYjVHNUthbDBmQjN1Y2VxLThpYzV5M1JyS0RTTEc2YXN3S0VBTkZKZVpDSUY2bGZwamZ6bExKYmE2M29VdVdMcUJ3VzFrag?oc=5",
+   "data": "2026-10-25T11:06:08+00:00"
+  },
+  {
+   "titulo": "Veja a cotação do dólar e grãos deste domingo (25)",
+   "fonte": "Correio do Lago",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZVR1dk5Jb0lhb0lzanlib1oxMHVrQlZZRXNQbVpBdmp5dmprMDNDVzkyR25VOWxWbWE5UjdSN1Y2MXpncFVBMDJGVnVMMGVMOGdDRVV6YUtBOFotYnI5WHU3NjZwMmxUX3E0NEg5WVBXZDJ1eHJOclVzZFhfdHVCajRUdDA1a21FSndhMEVZeUFVQ0xNLWtvclAyTUJwQQ?oc=5",
+   "data": "2026-10-25T10:50:40+00:00"
+  },
+  {
    "titulo": "Juros, inflação e contas públicas: por que 2027 pode ser difícil para o Brasil",
    "fonte": "Folha Vitória",
    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQbFRIbndEQ1F1NVJzdlhhcWFqWWtsUm9IcEtjQzF5ajM5STRvRHFoNU02WHhRdDdCX3JLS1llXzU2ZHREaGJvLVdpUXRxTEF2dng0OUpxRXRZUjNFWVljSTNWYlVKSU9IaWZjSUlwNlhUSkJnb0dWNTB5WUQ4Y2x4MmRkWXVpQTFsWVMwd0NoODZ0aFkwd3RkZ3lLS09MUmhvZ041UlJfWE9aU2FtX2JmVkRqUDlmZGlremc?oc=5",
    "data": "2026-10-25T10:00:00+00:00"
+  },
+  {
+   "titulo": "Dragon Ball volta a discutir poder absoluto — e o novo ranking de força revela a inflação que ameaça a próxima fase da série",
+   "fonte": "Rádio Geek",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNZ1d5emhON201Vjk3bWp4czVveVEyOU5PMDllU1d3VmdGc3lYRFRyRmRsU1FqTzZtX3NKenRJUWl2bXhGc21kOGNnNTVIbktrWGcycndYdndMN3ZzcnhDVGZjdVdPdXZ0VC1SM0cwS080WnVlT0VhY2RKZUtZeFduSVkyZXNmQU5kRkNicGd5MmhqT2c?oc=5",
+   "data": "2026-10-25T09:41:13+00:00"
   },
   {
    "titulo": "Senadora eleita Carol De Toni propõe revisão do pacto federativo e da reforma tributária",
@@ -69,24 +87,6 @@
    "fonte": "Estadão",
    "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPem55RkhxWEM2T0p5OVhvSE5tM0hWRjZyMkJhc3VjMzdVbWR6V3RLZFVCbXBOOHE2YmliTDY5Z1ZPaWdNVGdGbll4X2JsUDkxWWVIbjB4dDhMYVdYZnhURnQ2QVFpcEZmVHhXUHc0cmFZdUhMRVJJTnVwMzdyN3ZscHJTMTRIODl5a1lCcHlSMHRMVHJ0QWVfN21nUm0zME5yV0ZINDdIaWRjMnJ3MFl3dUxTYjZZUUJ1T3B6WlRaWEdwR2pabjUzbmh1QTdYR2UzUGc?oc=5",
    "data": "2026-10-25T07:08:35+00:00"
-  },
-  {
-   "titulo": "Planos de Lula e Flávio podem mudar investimentos em Alagoas; veja",
-   "fonte": "Jornal Extra Alagoas",
-   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOYmpIRklDT0ZtY21JQTNBdnhoY0RwSHBaZG56Wk43eTJJWkx3SWh4OWdaWTJ5RVJ4aGlkdmVLbWVrY2lnV21vdWtFMzViTHFVQjVhSnpfOTZPY2JCaWJwbENXSlBGOHYwUkd6UU9NTGxsdnV0VVdMY0JwS3dQZmt5N1VNUzNzWDYwSlVVRldTbk5mT0NkTDBsWFY3NC1FRTFuY3hYdWRnTGxnNEJIQUpQQVBxQVVzcEdHeTJxaU16cVk4UFFXN1N1NG13cw?oc=5",
-   "data": "2026-10-25T07:00:00+00:00"
-  },
-  {
-   "titulo": "Hapvida tomba mais de 8% e lidera perdas do Ibovespa hoje; veja maiores altas e baixas",
-   "fonte": "Estadão",
-   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQbktjRnFKN1VOM3FNQVRfVEtrLWw0LWRJNkxJaVVhZlhwQXpPN3RrR0lFMG1GcUIwc2lITlFBb3ZOOE91amZ3Wk5WZlk2Uzl2aXoyVS0tamx5Wk9GUURGYU41OW0zU3VkVDNqTHJzUDNTeWcxeGlaWVlhTjFyT3ZSY3RnWkJ3SU52bmRTenBwelN1cEhFeWZVMGdRYjR3a01yTFBYSGo4RzZsRU5sQXNtbHRpckM4TnVhcGwtc3lLd1dqclhzR1dMMnc2THdHRDBOeEhJSFpGM0dJTWc?oc=5",
-   "data": "2026-10-25T06:46:37+00:00"
-  },
-  {
-   "titulo": "Defesa Civil do Estado anuncia investimentos para a região central em treinamento em São Carlos",
-   "fonte": "Radio Sanca Web TV",
-   "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQME1kOGZyT1JvRXBnTHdnc2pyaHEtdUtIYkc3eWRCb2c5Qi0yaktBREllOFpOdUVVLVRpcTBFQ3RKeVBBSU9ZZ29ESlVGeE1TcThxd0RQOXhMRlNNNmQwNDkxTWdheVZQVG1ILTZHMXMwMjNrZnhjRUMxZ0xTR2piejVJMk5fZWNzN3hhYTVmSW9aeXFWMTdQX2NUTTRXRWQ4SGpBdHh6ZEd5NlV6ck93d21BdE5uTEVRcTl3VFdFNlJoZnJLbU1FbU95d2ZfdC1TeXJlN3pDU2xYVkU3S1ZOTG8yTWFQMmM?oc=5",
-   "data": "2026-10-25T06:43:03+00:00"
   }
  ]
 }
