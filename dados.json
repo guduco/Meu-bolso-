@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-10-25T21:31:12+00:00",
+ "atualizado": "2026-10-25T22:28:26+00:00",
  "indicadores": {
   "selic": {
    "valor": 13.75,
@@ -17,8 +17,62 @@
  "cotacoes": {},
  "noticias": [
   {
-   "titulo": "Lula denuncia ‘roubalheira’ nas eleições, com a retenção de ônibus",
+   "titulo": "No Parque da Cebola, prefeito de Ituporanga comenta eleições e projeta investimentos para o Alto Vale",
+   "fonte": "Rádio Sintonia FM",
+   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOby1EVGhFRDd1RzM2R3ZMcjFwTmEwbEc1dFd4eFk3ZE9YbTRPVHVpRFVzOWhaLVVBWWowVDNNM2lMckZBQnVfVGlDQUpRcFU0aUk4VWxlRnllNmw0NkdQYk4yMlU3RFZJeUUtTXNHVXV3OEU2OVdCUEhNZ3hNSFZsSm5uLW9mQnJfQ3pBT2N3RXZRNmM1WGZhYlE1SXphbV82bjVpRWFsTWxVUFV5MTBBU2tnem4xdUl3Z3k0SjFOZkV6YUZyN2xzSVItSGZsV0RoZEhUR3AtNVpyXzAxdUtROQ?oc=5",
+   "data": "2026-10-25T22:20:55+00:00"
+  },
+  {
+   "titulo": "Ucrânia sofre pesadas derrotas no campo de batalha, aponta analista",
    "fonte": "correiodobrasil.com.br",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPdTdZeFJaU2pvMDZsUTNTMVZIbVhOWWJBd1g1d3NOckttYjdValRXYy0wQ3pQLWkzbElZdy0zdTIwZGxyZHpOUWpNVmN3M1RJdElBMnpta00zbjJlZkg2cC0xb1pjbHJNbG1yRFV1VFI1RGVya0ViS0dFNnVoNWJrQnNTa1M1TkVLZENHSXowcnF0SV84SDh2Yg?oc=5",
+   "data": "2026-10-25T22:17:45+00:00"
+  },
+  {
+   "titulo": "Eleitor viaja 1,5 mil quilômetros para votar na eleição brasileira",
+   "fonte": "Jornal Correio do Brasil",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQUWpwQm9wOXhkamt5MXpjejRsbnF5cHZCdWFZWldNQlBOMmUtM3hlVmFsX1VuVEpOTTBiX0NkOVh4Z2FYeE1RV09JQ2RpdDRLWmF3djdJNl8yT0pMSTlDZmVTR2d5TzR5NnFNdEJUNlZZZmxvSDhrQUZkcm5YT3RGOHViUGttbFo4T1lWOEVXNmY4b2Nu?oc=5",
+   "data": "2026-10-25T22:10:06+00:00"
+  },
+  {
+   "titulo": "Quanto custaria um Fiat Linea hoje, com a inflação?",
+   "fonte": "Canaltech",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQWV9iQ19NcVRJUTN3WkZNRjBzMlpwdjl6RXFwMFhIZ0RCdEY0QkUxaVFjc1JuZnlfUnBXeGt1MVZDdzlyUEgzcWh3OTFTN0lqOHVXZDVsQnRhMDE0UzZSX09XTVJIdGIwbmZlbHFIV2h4ZFhSMFh4Z2hYQ2FiMWJrN2F2SzZrV3otUHc?oc=5",
+   "data": "2026-10-25T22:03:00+00:00"
+  },
+  {
+   "titulo": "Eleitores de Lula são alvo de atentados por radicais da ultradireita",
+   "fonte": "Jornal Correio do Brasil",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPU0hQZ0Fuc1ZXVEFERUFrRmUzNEZxc2E5TzBDSGVLTFRjbFdLNFAzZEZqdHIyU0hKQmpPYUZwOVg0MDB2eXZkaW9RNzBERVdBdFpQOS1kbFZET2JNUEZ4UW42TUdLSFF1dVZGNTNDdnZCRl92OGhDc21PaUFTZXhudS1WcGtYVk1YTTNETmk2UVg2Zw?oc=5",
+   "data": "2026-10-25T22:01:47+00:00"
+  },
+  {
+   "titulo": "Bolsa, dólar e juros: como a incerteza na apuração afeta os mercados, segundo Matheus Spiess",
+   "fonte": "Seu Dinheiro",
+   "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPa3FNMDFpZ0F2M09WRzlaUm01OFpXNHgzTzRCejdnWmtreGFYU2pMT1pXNFVOX29zRXlza2dvMlVhYk82UFZsbzA2NzhIRjZ2VFdYMXZvY2lkWmNjeTd0ZVN2WXpGOUNPeFlPTHFvSjktZGM2cnFiMUI3MGFnRmNfOEU0V2FwTmY0UVBqM0pUY0Z2NGE5UEN6SWNHQkpIYndtNkxLR0RDTG5LUEw1QzlZaEx6MWNlcFVSYm1PdTFHcERXNWRTOXZaNnlFTW5mZkZPUkx4S0dUbHppbUY5VnZsZ041RUFrZ0hGU1J5ZFBTOG8?oc=5",
+   "data": "2026-10-25T21:56:31+00:00"
+  },
+  {
+   "titulo": "Janones convoca ‘Exército de Lula’ para combater a abstenção eleitoral",
+   "fonte": "Jornal Correio do Brasil",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOcS16dE9XS19uU0dISk1vN056ckIwNVV2clU5OGQ2ZXoycC1yZ1RaYXNINjMxdjZXM09qN2o4VmdnUUxHNDlDUng5eldRSXRtRHAyaDNZN2ZRWWFGSnlSR0ZWX3Jjb1JHT05tQW11TWgwdDdLYTRpdXFJMHVwV2QxVTBpNFRrSjBJNkRvVTZ4R0lobmlxV1E?oc=5",
+   "data": "2026-10-25T21:52:07+00:00"
+  },
+  {
+   "titulo": "IBOVESPA: 250 mil pontos é possível? O cenário pós-eleições",
+   "fonte": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPdUpiWUZIZUlRSHZZNzkzOHk3S1ZYNVBOaXRDSTVLa1YycmhJX01SdnBjNUUyaVo5eGxxRDZYRk1GcXhGUlhlZk10d2I4Xy12Y2pYbjBvR3RTX3ZTbkpadTVBMWlvWkVzbG1CWFlDRGlXdDJxZnNrVmVDbHg5ZUcxY0pCcVUxM2phcE16dVFaaGo2aFFhbUd2NE1vWDRFc09zd2c?oc=5",
+   "data": "2026-10-25T21:48:00+00:00"
+  },
+  {
+   "titulo": "CSN inverte sinal, salta mais de 12% e lidera ganhos do Ibovespa hoje; veja maiores altas e baixas",
+   "fonte": "Estadão",
+   "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPRkt1OG1Gbm5tRVE1WXVlTVY5QjRQbjNoU3JnTkxYOFZMQ01semJFYjNoR1F0QVdNa1k5YXZxOXJNcklIRWU1eTZHbDFvY2FkcFVZMHpvd2c0V2lwZVVnSm1UNVpuSnd1WWlqLWNhLWl4dGxYbFR3VE1kT0t2QW41ZUtMZExNUlRrT0JkbXNnaVAtYlNkZ1ZNZ0hxczh4TjZ6NEY0Tl92eFhXSnBjUHVXM3JtMzVNQURqREN1aXBXY0xQNFdWeVZhakJ5a0haQjd0Y0ZuSlZTQ2ctYTg4cUlTTE1nMWFjMkppWmpSTEFXYUZGS1U?oc=5",
+   "data": "2026-10-25T21:11:14+00:00"
+  },
+  {
+   "titulo": "Lula denuncia ‘roubalheira’ nas eleições, com a retenção de ônibus",
+   "fonte": "Jornal Correio do Brasil",
    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQTmRNU1hxUlNkYm1ZOFNCaWtHYjlPaXk5RHp1WmNnWnRwWEo5ZXVBXzBHR09zUDkxMm9PZWsyRGxWbnF3MTBPaDlYYWNwcEJYaTZIbEJsNHFUa3FCVTNLOUc2ZHBneGEzV0VMOGxreGtvaXdFUTFHQ0NtbjFCMmdreUdmQUo5a2tsVFR3?oc=5",
    "data": "2026-10-25T21:00:59+00:00"
   },
@@ -33,60 +87,6 @@
    "fonte": "Vietnam.vn",
    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPOUlrcTN4TTd3Y3FQSHh1bm9wWmVIc3B1NTVjenV2ZVFody1YQnpHNEttV2ZqSlc2elBFZHNidVNPWmdjdlRZeWhXNEFWYWRpbF9RMnJaLXhVMFpHaXRSTW41S2U0WXNldmpzdGgxNTR3MURfWVdZa0g4cDJyTmY2OFN4OEN4dE1xUXlBeVRaaw?oc=5",
    "data": "2026-10-25T20:59:54+00:00"
-  },
-  {
-   "titulo": "Lula (PT) – Presidente | Eleições 2026",
-   "fonte": "Folha BV",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOSEFRSkd5THRwUmZHMWFOR3NCSVNGTkc2ZXVPOGdwYVhvRnpOOTFJak5vczE5VkUzOC1RbU9HdXE4c3o5bjhXUkgtVGVWeGtLYU5meC1QX0dhSnZrOGRyTjFrZmxjUXV3VTg0SGVfd3dmalN5QWZoZ0Q5M3BsMmxnN3dRVTM3dXBDWVdFbzFiaC1wT2RQTUFj?oc=5",
-   "data": "2026-10-25T20:34:10+00:00"
-  },
-  {
-   "titulo": "A moeda que não nos pertence: o que Murray Rothbard ensina sobre a inflação, o Estado e a liberdade",
-   "fonte": "Instituto Liberal",
-   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNWjI1WTV0alZ5Z0IySHRENnBROU1JM1VucExSRm5OTFpKQS1Rd3RfdGtIMlZWQlQyR1doM0VpaGprSVJHZUJjMTlNQndPNGFCa1lLWDB4aDV6d1lDN3IzbGR3WGV1YWFTU1dzdS14amxfNHRwUVlGVkh2ZzB5Z1VCVHRhM184VmlRZzdYYmJXQWw2YVI3Z2YtdVJEcFFqd0MyYV8wYTBVWjgxcjQyWHcyUENXVlNLNl9kcm9KWE9TV3lYdG5zN2QtZi1SYlpvcVFOYXdSVko3THEyOXM?oc=5",
-   "data": "2026-10-25T20:30:28+00:00"
-  },
-  {
-   "titulo": "CSN tomba mais de 5% e lidera perdas do Ibovespa hoje; veja maiores altas e baixas",
-   "fonte": "Estadão",
-   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQdkQyYzJyTVNCc29SSFRMb3FuOWpPcVhDVVZxQnA5N2g2czVjcnZ4TDVVMnFtWDRHa2twNGQxc0NHR3hYRlJPVkxFYk50QmFzYXFWRFVzbVlPQ3dTdDNkR2hjVWZlRGhva3J2N3JjaVlBZVhwbFc3dFNXOWZ0Nk5qbUhIbDExSk9yTHB5X3ZrUjFYWUg2N19RMDJHRzZjd1FoNTZXbjhoRDVRM3VQMktCbjAyZXlSd1RQc2x3RXc5RHNVNlRNQnpCaFpNYlRFWU1jRGJTWDVUUjIycDB6enN4ZndB?oc=5",
-   "data": "2026-10-25T20:29:34+00:00"
-  },
-  {
-   "titulo": "Empresas do agro podem reduzir impostos com investimentos",
-   "fonte": "RADAR DIGITAL BRASÍLIA",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNTzdHUHFVNUFjSW1UTlNsYnNwRFJLMzhPaHhFRUVlUXhqM1kza216NXhZeHdRdnpFNXpIdEllYlo3TUtQaGlETHBKVElNTEJ1cVItUEE4VTVfeWI2aFA2MHZhVmtXWDRsdGNnUWhzUjEtNzBEVlF2MkNUeTVON0toUFFOc21yUGlOVk1GUWRpbjAwYzRkRVN4RGJlSlZvM1loa1hMUHBZVE10Zw?oc=5",
-   "data": "2026-10-25T20:04:23+00:00"
-  },
-  {
-   "titulo": "JBS Terminais supera 800 mil TEUs em dois anos no Porto de Itajaí e investimentos chegam a quase R$ 250 milhões - JBS Brasil",
-   "fonte": "Andravirtual",
-   "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQN3VwVmZUeWdXWWZMUm9kMi1zZ0JiRmU1a1R3bVV5Y3h4MXcyQjgwYklMS1VLVUhmVlJqQVN1cHFJUUMyUl81ZlVvYlExVnI4NUhfNm1SenQyQk1Tc0VxLVpTSTdrNnZLRk5HXzZjaXNqRE14UHJrNEZXSXRLUTcxOGFfM1dEWnFJN1p0N09iT0V5QjZXVTZYWUx1R0h0cWQ4T0JIU0NzaHhUdzhoakFZbkF1WlBDb2R3akZHWjdaellpR2MtdzNUZXJ0d1pYT3dlekYxMGJXOHJvSllpR3pnVFNHTEQtWGQtVUVRV25BMW9JcjkxOUNsXw?oc=5",
-   "data": "2026-10-25T18:35:00+00:00"
-  },
-  {
-   "titulo": "Cupons de Merge a Tank dobram preços virtuais e escancaram ciclo de inflação no Roblox",
-   "fonte": "Rádio Geek",
-   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9MMkJ5SG5OQnlrRlNCWFVtekcyeGRSbE5LRmFWRTVuYk9UcHhaM0xBUmRKd2NoUEhyX2pXV2VtMmE1WGZvd29YejZlM3lycG1NckZyeGdiLUhxYVRVWWRIUGJVOFJFTFFhMDUxbjdwWXo?oc=5",
-   "data": "2026-10-25T18:26:27+00:00"
-  },
-  {
-   "titulo": "Prévia da inflação de outubro no Brasil é menor, com queda de preços de água e luz",
-   "fonte": "Porto Alegre 24 Horas",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQOTlFcG0tdFlpYWdjRW5vZ1FBQ0ZqWkdGU3g0RURZNUpHU1Y5Ql94MXc3bGRkYWN4YndrRW5VS1duQkVweFJQbTFTSWFTMkdBc0h0RTZNcEdNdmsyREJfUV90SE5GZGlzR3JIY3Z0bEJ1WmNsWXR4MjBoSTNpLU03bENxSHZRcXN3SXF2ZWJvOERCYUc0WU00UFpHcGtaWFNaUG4tRDVYRzFCdFVtQnNsWkw1cVBCdFNSVVFQd1JuMnoxVTA?oc=5",
-   "data": "2026-10-25T18:22:15+00:00"
-  },
-  {
-   "titulo": "DAY TRADE 26/10/2026 | Abertura de mercado e minicontratos",
-   "fonte": "XP Investimentos",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOaW1YREV3MmRCajZVMVF0dmFpb1owVXVUeEtiZEN2Wk5obmlnTzJwNC1ZaTQ4YlFnUFkxemhmWm8zRVQ0RzB0NEd5Y3l6WUhiSVBOTDZ2alZScmNmdXJnbXpJMklkUVBrNG5zYURITDNBbXVXUnV4Z3FmS1NaX29FOWEtQUtpQ2ViTml2VzN6RmRkczg3VkRRZGd2TG5Vdm9ZWGpIRllmMFU5WkxOT0M3bVk5SQ?oc=5",
-   "data": "2026-10-25T18:09:57+00:00"
-  },
-  {
-   "titulo": "Mauá reforça potencial para negócios e investimentos na Feira do Empreendedor 2026",
-   "fonte": "ABC Repórter",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNOWZKM1J0LU9rLS1OVWtaZGZzYlJGOWNMVi1sSzBYbDFScW9QVmp3S1E2eXpFTEFWdDdzVS1wZVA2WGVYX0VzUnpOelo5LVV3TUNWZzRZVEttNkV6bHdUeDh3dE5ZSmx2SDd4UmU1Smk2UXZVblRVZmZxd2VldXFzNTZfWXdLQ2ZHWm52MlFtWmFFa2tTV01SbWM3Zkthb2o1V1UyWTN3cWZHS3o0N0lpVko1RXo?oc=5",
-   "data": "2026-10-25T18:08:37+00:00"
   }
  ]
 }
