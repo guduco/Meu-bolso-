@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-10-25T14:31:50+00:00",
+ "atualizado": "2026-10-25T15:32:43+00:00",
  "indicadores": {
   "selic": {
    "valor": 13.75,
@@ -16,6 +16,24 @@
  },
  "cotacoes": {},
  "noticias": [
+  {
+   "titulo": "Decisão de juros nos EUA, dados de emprego no Brasil; confira o que agita os mercados esta semana",
+   "fonte": "Money Times",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQeGR3MS1QbGdyZVE5c3NpX1JoRHA0YnJsS1lxU05DRlNVSGo3TUNqTXdCbk43RTFaTkZVdXVDV3RXbHRYU2xRRDJHUTBvUVBydUF4WFBCTnN5aEJtNDM0ZUVpSU1SZEExSV9OSXFTLW5EcHU3eGpzSExybWRJLTJrUGE4OXBfeHhhNnZobzB6RV9OdWhTNnQ0UmdjM3VkbmctdWdxYWdkaThpVkpTX19PbFQ3VF9SS1FPQmFobjRXWlJGVFBDckFOZjhUZw?oc=5",
+   "data": "2026-10-25T14:50:00+00:00"
+  },
+  {
+   "titulo": "Zequinha Lima vota em Cruzeiro do Sul e cobra investimentos para o Juruá",
+   "fonte": "Juruá Online",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPaVp3TUN1V3hhV19BVFdGcXhUeGs5ZE9tUllnQlU1SVpnRHlqSUVxc1VOVzlzZ1l4OE5QZTR5aENGNmVUTWFVUlVLd1hqTjZXRTVMekZqRGV5eFBCbWFrU1VUSG1xY0h5cEM4WXRMLXJ0MkdJY3BwWElhVUV1NnVHd1k4ZVQzcGtyOEVGX1pVLXJZU2hzYWdWTm5LcDlDTHB2dVE?oc=5",
+   "data": "2026-10-25T14:48:40+00:00"
+  },
+  {
+   "titulo": "Eleições 2026: dólar pode superar R$ 5,20 e Ibovespa cair abaixo de 180 mil pontos, diz economista",
+   "fonte": "BPMoney",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNbjhwb0RXUVdyeTRuNDEtSnRkVzhvNGpjWUpzWEFZTUp5dlQwTWlDN3dJa1VfS2ZHYWdzSWdXdEFxMXFadkZ1TUZydFpkRnNmSXN2RkJKWkFYLU9wTmJQV2VTVmdzNVdjeXBleW53MEFGWHo1NEdKb1ZRcFhvNGkxMEk3SXhIMHlsWExIV3hOcjlwR0htRjJpRGw4Ui13cHMzT0NkbV9QdGxDSS1BS0VoZ2syWGJlWVNKc1lCQktibVdRZy1q?oc=5",
+   "data": "2026-10-25T14:36:48+00:00"
+  },
   {
    "titulo": "Seu CDB não vai às urnas, mas o Tesouro IPCA+ pode sentir o resultado das eleições; entenda",
    "fonte": "Terra",
@@ -59,12 +77,6 @@
    "data": "2026-10-25T12:25:51+00:00"
   },
   {
-   "titulo": "Margem de vitória e aceitação do resultado: o que pode influenciar o mercado após a eleição, segundo Goldman Sachs",
-   "fonte": "Money Times",
-   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQR05ZeHIxZjlnbURpUC1LdnYwcE5RX2VJNUlNSHpZdDNDOXpxTGN3TDVoSEJJMGZuY0VlcHZ1V1FMcXp1TXZrRENRSmVmTTlCMkJkbmpQMzBlVHNpNGZxOWl5Z2lpaVdVbTN5c0dmM3hjREl1TnNIaXFRWFNaTGpvMGNlT3NrUWxkcVRtemdGNUNFTklsbmJucUtQWEFmbzdVQnJBZThsQzdNTE5wS0ZXV1pQNlEzWFBCMWc5c1lXMkRxVXhqdEVhcWpNNW9xY251aU5xZGtidWVwVzJBRE5vSEoza0w?oc=5",
-   "data": "2026-10-25T12:07:00+00:00"
-  },
-  {
    "titulo": "O combate ao tráfico nos portos exige investimentos além dos terminais",
    "fonte": "Estadão",
    "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOOXBsZXl3Q0lHd1hNaUZoUF9OaFA3QzhrZkNzc2ZncENnOFlJUnh5a3JuUWhIWjBxZVI3bW9tRGlURFpqbEhBV0E4Qm5EY1NTUnJxZlFLVlh1a0Y5MzAzeXBQcVkyd1lva3JlUWpUaDRsMjlranVSWjFZN3E5X0MxNlpRWGZONUs5MVN4WTBDNXhTT3dJMGJRNHhYaGkzdFpsZnRWNFhNUDJMYXo4SVpYMWc3RWpjbmlSSzI4QzFjN3VIT2NCT3F1R1lsNHR6UlVnT0I0?oc=5",
@@ -75,18 +87,6 @@
    "fonte": "Rádio Geek",
    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNZ1d5emhON201Vjk3bWp4czVveVEyOU5PMDllU1d3VmdGc3lYRFRyRmRsU1FqTzZtX3NKenRJUWl2bXhGc21kOGNnNTVIbktrWGcycndYdndMN3ZzcnhDVGZjdVdPdXZ0VC1SM0cwS080WnVlT0VhY2RKZUtZeFduSVkyZXNmQU5kRkNicGd5MmhqT2c?oc=5",
    "data": "2026-10-25T11:41:12+00:00"
-  },
-  {
-   "titulo": "Códigos-relâmpago de Sword Hunter provocam inflação de pets e reescrevem a curva de poder no Roblox",
-   "fonte": "Rádio Geek",
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQNElBOHduamtHQjlnOHN2Y2FVQVZMRHRRQjhyRFNTRWhHdTJLWEM0NzlMRzNvODBncWZnVER0bnhEM1JSbHBOZjZoSGh5RHJZMVBJaFRlWTQxMUJhNzBPR3hKbXBiX09yWDhWOTY1RElyclNxZV9mQTg1QUR3Q3VKUXM0S09oQ2tm?oc=5",
-   "data": "2026-10-25T11:41:12+00:00"
-  },
-  {
-   "titulo": "Investimentos em drenagem e pavimentação contribuem para o desenvolvimento de 29 bairros",
-   "fonte": "Prefeitura de Campo Grande",
-   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNTzNjaDZOSkdwWTlKOXJ1d043NERkN0tRTTZQQkl6Q3V5dldfaWNaekQ4LXVfX3FYeHdqbVdVcW5xYTJWSUY2bWF6UzNMUVZzMnBCX19qdmZ3cllfVEktcWJCMFI5ZW8wa25fbXE4N3l2RlVkdElrQUdUNDVKVjRFUndObjVtdGFfbGZKRUF1MDRRN2tGOUpfWlc5elVJU1hWVzZQUEVHQjFpTklnNmJlUmtzbEFnR0ZBVzBsaUQ1SnNqYWxPcjkwazlZWkJqMmNKaE1hNnJvQWFydw?oc=5",
-   "data": "2026-10-25T11:13:00+00:00"
   }
  ]
 }
