@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-10-25T01:34:07+00:00",
+ "atualizado": "2026-10-25T02:34:18+00:00",
  "indicadores": {
   "selic": {
    "valor": 13.75,
@@ -16,6 +16,24 @@
  },
  "cotacoes": {},
  "noticias": [
+  {
+   "titulo": "FIFA anuncia Mundial de Clubes Feminino em 2028 e amplia investimentos na modalidade",
+   "fonte": "Radio Grenal",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxONzR4Rm1zVmdkMU9SZEZtZlNrMEw4VWFYZ0pVNHVINWZPd09OMHd3cXBsU0lYZlp3T1JoNGlYdm42YnRpVmlBaUFNaDkxSk1QRDJIcEVGenZoOUl4TnlOQ3U0UVNfdW03RFlvbzJ0amFtY3pRZ2syYWlOY3BuOUxPTkp1REMzR2lfYmFlTEhQTG9ETXQ4cmQ5R3Zub2dXQndXb0Nqa0xPTWptMGFiaFc1Ry1MblMtclk?oc=5",
+   "data": "2026-10-25T02:01:50+00:00"
+  },
+  {
+   "titulo": "ISAE4: receita dispara 21%, mas queda de 32% no lucro acende alerta sobre dividendos",
+   "fonte": "O Petróleo",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxONFFOcElwMjJGYnRvcm9DeF8tV3pUUEs0SFBpbFQ4TE1PbDNjRXFuanAxU1N0V2gtcV9iaEZoTlpNYjlFYTdha1kyVGw5eXlxLVBoOGNpS05IeTdpb1hhNktaSGYyU2NjaFMwM1R3WTk5WGotbEE4OG8ya243dG5qOUZwM29IbmFLcnpSeEJTREpmTGVpTElya1RCSWxIMUpBS0Z2Tmtxc1ZEQQ?oc=5",
+   "data": "2026-10-25T01:55:50+00:00"
+  },
+  {
+   "titulo": "Lulz diz que se não fosse o governo do PT, o salário mínimo estaria em R$ 900",
+   "fonte": "Jornal O Sul",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNYVBRdHhsWEQzU2txNlUzZTlOWmRCQkRlQzV5aWFxOGJWWTJzZGJwd0lsdEk1ZW4xRFE2anNZMUpiOUtqV09ETWVPZGNpTUV2VFozbFg0QTJmLWt4Z1BVTHpkUkcxUnNRNy1GSFczZGQ3YUZfUmpWWWRRUFpYMTdBNFA4Um5RU1JUVXVIV3p5NmNjSkpZcm9Pb1dmLTB2STV0azRRT9IBpAFBVV95cUxNYVBRdHhsWEQzU2txNlUzZTlOWmRCQkRlQzV5aWFxOGJWWTJzZGJwd0lsdEk1ZW4xRFE2anNZMUpiOUtqV09ETWVPZGNpTUV2VFozbFg0QTJmLWt4Z1BVTHpkUkcxUnNRNy1GSFczZGQ3YUZfUmpWWWRRUFpYMTdBNFA4Um5RU1JUVXVIV3p5NmNjSkpZcm9Pb1dmLTB2STV0azRRTw?oc=5",
+   "data": "2026-10-25T01:01:58+00:00"
+  },
   {
    "titulo": "Vitória de Lula na eleição pode derrubar Bolsa em mais de 5%",
    "fonte": "Times Brasil | CNBC",
@@ -47,46 +65,28 @@
    "data": "2026-10-24T23:53:36+00:00"
   },
   {
+   "titulo": "A Bolsa brasileira acumula alta de 15,3% desde a confirmação das candidaturas de Lula e Flávio Bolsonaro à Presidência, em agosto, enquanto o dólar recuou 2% no período",
+   "fonte": "Jornal O Sul",
+   "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxOZzJaSWlNbEJpMFRMeEJGc2VTT1VFbTlXbUQ0TkVDY2NEV0NUYTZCdDdkb1FHWFRjTVBZeXNxYS1tQ3VlbkZWczFUMDdkb1FoT0VjT1drTTJubHM5alhTd3FXUUJwRlBiRUlVZ0lEQ0Y2Sy1kXzZCN1RHWkFnY3FhZ1d1QWdza1NEeEFQU2dJc2pQLVlCSFlqUWNBWjVUQnA3MGh4M3dXMUl2MTBrbUFqLWZxQTZEV1FuRXRVZ2dqQXdZSFpZVmRlQnJtMS1SbmVBV090eVJkRVVhNUpkR0FkWXhxcElTc1BRWC1lbnNHSkZ0SUZ1eDR4Wm9lb2FpcURqNjNhRUprOFVkd3pNOEJLZHo0OWpKT1d60gGYAkFVX3lxTE5nMlpJaU1sQmkwVEx4QkZzZVNPVUVtOVdtRDRORUNjY0RXQ1RhNkJ0N2RvUUdYVGNNUFl5c3FhLW1DdWVuRlZzMVQwN2RvUWhPRWNPV2tNMm5sczlqWFN3cVdRQnBGUGJFSVVnSURDRjZLLWRfNkI3VEdaQWdjcWFnV3VBZ3NrU0R4QVBTZ0lzalAtWUJIWWpRY0FaNVRCcDcwaHgzd1cxSXYxMGttQWotZnFBNkRXUW5FdFVnZ2pBd1lIWllWZGVCcm0xLVJuZUFXT3R5UmRFVWE1SmRHQWRZeHFwSVNzUFFYLWVuc0dKRnRJRnV4NHhab2VvYWlxRGo2M2FFSms4VWR3ek04QktkejQ5akpPV3o?oc=5",
+   "data": "2026-10-24T23:44:28+00:00"
+  },
+  {
+   "titulo": "Salário mínimo acima da inflação: o que Lula e Flávio Bolsonaro prometeram no debate?",
+   "fonte": "vtvnews.com.br",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOT19BR2dBRGdCdGxzTzlyWW9BMXRUbVVkWEw1ckI2dkt1SXhLazlibm04QTVDQUxqdDczRHBzT25ZTHBGcGY3b280cktfQlRmQS12eTlDbHRqb25uVnA2VmNoUUFTWW9WekhwVkpYY2FvRkJ2TjdzcHQtRFIxWlNYek5oV3ZwSHk0RW1sWS1NbW50TVJTa25neWhXNTY?oc=5",
+   "data": "2026-10-24T23:15:00+00:00"
+  },
+  {
    "titulo": "Preço dos alimentos sobe 0,88% no IPCA-15; tomate e cebola lideram altas",
    "fonte": "TVBV ONLINE",
    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOU2V3V0hqdmswU2pjeTRlMnJOTmtGWTUxQ3pYZlFIMmJIQV8zT3paSzVLaWhSVG5lb1d0bW85SXJpZU4xd1hKLTJ6VnpKajhPSWYxVkJYQ1BPX2o0dXVxNm1sUW9VekxBRjBaeU04Z1htUlZNWl93b0ZtS1QtZmJlMS1DSTlWMWJUSnliWDdjbFZEc2p3WmVxRHZn?oc=5",
    "data": "2026-10-24T22:19:22+00:00"
   },
   {
-   "titulo": "Blackhole Rush repete “tempestade de cupons” e acende alerta de inflação em cadeia no Roblox",
-   "fonte": "Rádio Geek",
-   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBFU0w3VmdCWGxfT3N3NFVIN203eC1ucnJnaklEcVR6RlN6cmRYV0FYaE1XNTNFSThGLWVzNGxYaVlBaHItSEJEdHVyd2hjVVFnTWxNS0RWZnA0VTc5RUp3VEQ5SWtCN1VpbnNSYkh2N2RJeVBP?oc=5",
-   "data": "2026-10-24T21:26:01+00:00"
-  },
-  {
-   "titulo": "Opinião - De Grão em Grão: É possível ficar milionário investindo apenas em renda fixa?",
-   "fonte": "Folha de S.Paulo",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPbDRYWVN6b0d0b2xRX3l5UkZXN241Y0NSSTFJVk1Gb0JuOEMzSkkxYzJFTXM2al9IU3BVVTFzSGJtV01VQXVjaVlEdE1XMWQtQl8zeFhCXzFoWlRINmdXaTdFSnZyUmVFQmFYQmg2MGtRbG9PNm5lSVFyV1B6aUdPeFI5TW11eEhVUGRZQm5OdU9TUENlRXBRSnNwenV0cE5ueEozWDdlYkNSNGxDeGpMY2Y5U1VWT0FLNWtTXzBVNFB6cGM?oc=5",
-   "data": "2026-10-24T21:00:00+00:00"
-  },
-  {
-   "titulo": "Montanha de códigos em Re:AOPG injeta gemas grátis e ameaça disparar inflação no anime-hit do Roblox",
-   "fonte": "Rádio Geek",
-   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBsZHBxWHBZZXFSNUI1bC1QWkxSUXZHYkVZc0hncExhRzBBYThldjNKVkZDQjR5LTEyUHc5b0ZTZUhXWE1CaUpBR3JTa0l2SHpOWGRxby00Y1V6YjBxcGV6ZzRIbDdIcnI4QmsxSTdheHhVYnM?oc=5",
-   "data": "2026-10-24T20:56:02+00:00"
-  },
-  {
-   "titulo": "Economia da zona do euro desacelera em outubro sob pressão da inflação",
-   "fonte": "Midiamax",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPTldZc1B0UUtXeXhaQlJBOEhBWlhmaVBxcWZDaVhiV2NFVV9YM0xCSG15d0Q5OGNSYXpLVnhMdDk1Rms2WEhxY1B4S0FvOWJnZUFEX2NUOUdVYnN3ckR0MXllZkZVZmRUS0FaZC14RTFRandVSzJmS1FwTkpaUDVkLTZLT25Ua2xiZ2JmaWdpNkRTRWR4djBRRlhNYXRZc2dIV2dERjVUN3VrdGc?oc=5",
-   "data": "2026-10-24T20:45:00+00:00"
-  },
-  {
-   "titulo": "Prévia da inflação cai para 0,32%, mas alimentos sobem 1,01% dentro de casa",
-   "fonte": "Acre Agora",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxONmkyUWEtYUFpS3hNQnFiNlpVai1PQ3BlNjk2LU1rMk5mQkJqMFEyX0RGVFBuMFR0VDRua1BjQi1IemhLaW50aUVma2FXLW51eGtVY2J5Vm5WVVZjZ1FWNDhrNGlzMFoyNU1fVmZWOWl1VlVuX1hzMDB6T2hjR2gxcUs0LVA5dnZ5b1JMV0hZOW1UNE9STWFFZmRTanRqMi1TLW93YVBYSdIBpwFBVV95cUxONmkyUWEtYUFpS3hNQnFiNlpVai1PQ3BlNjk2LU1rMk5mQkJqMFEyX0RGVFBuMFR0VDRua1BjQi1IemhLaW50aUVma2FXLW51eGtVY2J5Vm5WVVZjZ1FWNDhrNGlzMFoyNU1fVmZWOWl1VlVuX1hzMDB6T2hjR2gxcUs0LVA5dnZ5b1JMV0hZOW1UNE9STWFFZmRTanRqMi1TLW93YVBYSQ?oc=5",
-   "data": "2026-10-24T20:16:18+00:00"
-  },
-  {
-   "titulo": "Buracos negros, em velocidade máxima, podem se dividir em dois",
-   "fonte": "Jornal Correio do Brasil",
-   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPREhPUDN3MFVNc2FaNWpuMnh1SkZ0QkI4Ul9TdG1ZSEtsTTY3Y0FvMGtBTmRSVmZxQ1dLLS05amhTcjRCQ0VPNVprQU51V29SNElHSi1EeFUtSGkwMzdORE9FNWpaNmV3SlJ4R1FOWFNCMmR3ZWJRSzFKc1VtYXRlU3A2SG4tLXdoc3l3cA?oc=5",
-   "data": "2026-10-24T19:52:08+00:00"
+   "titulo": "Goiânia tem a maior inflação acumulada dos últimos cinco anos, aponta IBGE",
+   "fonte": "Portal 6",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPOHJYZTJ5R2hhWVdqUER5dmV3aENsTHhralYzSWE5NXdON2RnMXAyRVBrQ19wWU5kUzVHM2VFczlEMkRxelB3c3FyZHNQbkZqd0RpN3U1NE1FR2JYZjROenF1alZpeU4yVXFBQ3dQTGc1Z0VtR2JEY19lZUdHNmc0YWwwMmMzb05aM3BWTlFueXFqeDhMcWF2azhKLW52eDJtczUwLUVsMWY3ZUZm?oc=5",
+   "data": "2026-10-24T21:36:30+00:00"
   }
  ]
 }
