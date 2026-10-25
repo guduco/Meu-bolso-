@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-10-25T11:32:15+00:00",
+ "atualizado": "2026-10-25T12:38:36+00:00",
  "indicadores": {
   "selic": {
    "valor": 13.75,
@@ -17,6 +17,30 @@
  "cotacoes": {},
  "noticias": [
   {
+   "titulo": "O dólar continua dominante, mas a infraestrutura financeira global está mudando",
+   "fonte": "Portal Diário do Aço",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQTWgydmd1UWszUmRMWXpESEJlSDJ4aDBfS3B5RUFzbExzVW10Mk92N0JYOHFtUTY4TlNXUnZfMkEzQk9WdjR2dFpBZFhTR2N2c25yRmJhb0FtMU9TT0NPNWFpUEJnbDVreHlHOUFsNGt1bmpRZGtHY05nT1czdm5XS3ZXS0ZOOWo4RThLX2hBYkFVOFN4Skt2ZDN1UEZ2alUwZXVwdk5ETVg2aFlVUGhYV3haZkhIRDNWQW1PeHdkX1E2Zw?oc=5",
+   "data": "2026-10-25T12:36:00+00:00"
+  },
+  {
+   "titulo": "Cotação do dólar: PTAX fecha em R$ 5,0377; mercado à vista encerrou perto de R$ 4,99 antes do 2º turno",
+   "fonte": "boca.com.br",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBjMi1BTkczeHdEUlA5VTJsbDhNMHp4Rm5OYlR5U3RacHl6TXAtdktxZnZpMFcwMkFrd0ktYmtyQzF4ZHZrVW9QNE5rOHdvcjBNaE5BeVl2VWhhcV85NFVCV2I0aWt1aTdpVURJU0hCS0trZw?oc=5",
+   "data": "2026-10-25T12:33:50+00:00"
+  },
+  {
+   "titulo": "Margem de vitória e aceitação do resultado: o que pode influenciar o mercado após a eleição, segundo Goldman Sachs",
+   "fonte": "Money Times",
+   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQR05ZeHIxZjlnbURpUC1LdnYwcE5RX2VJNUlNSHpZdDNDOXpxTGN3TDVoSEJJMGZuY0VlcHZ1V1FMcXp1TXZrRENRSmVmTTlCMkJkbmpQMzBlVHNpNGZxOWl5Z2lpaVdVbTN5c0dmM3hjREl1TnNIaXFRWFNaTGpvMGNlT3NrUWxkcVRtemdGNUNFTklsbmJucUtQWEFmbzdVQnJBZThsQzdNTE5wS0ZXV1pQNlEzWFBCMWc5c1lXMkRxVXhqdEVhcWpNNW9xY251aU5xZGtidWVwVzJBRE5vSEoza0w?oc=5",
+   "data": "2026-10-25T12:07:00+00:00"
+  },
+  {
+   "titulo": "Investimentos em drenagem e pavimentação contribuem para o desenvolvimento de 29 bairros",
+   "fonte": "Prefeitura de Campo Grande",
+   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNTzNjaDZOSkdwWTlKOXJ1d043NERkN0tRTTZQQkl6Q3V5dldfaWNaekQ4LXVfX3FYeHdqbVdVcW5xYTJWSUY2bWF6UzNMUVZzMnBCX19qdmZ3cllfVEktcWJCMFI5ZW8wa25fbXE4N3l2RlVkdElrQUdUNDVKVjRFUndObjVtdGFfbGZKRUF1MDRRN2tGOUpfWlc5elVJU1hWVzZQUEVHQjFpTklnNmJlUmtzbEFnR0ZBVzBsaUQ1SnNqYWxPcjkwazlZWkJqMmNKaE1hNnJvQWFydw?oc=5",
+   "data": "2026-10-25T11:13:00+00:00"
+  },
+  {
    "titulo": "Inflação dos alimentos sobe em outubro; veja o que encareceu",
    "fonte": "IstoÉ",
    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE85a3RTVl9KckJhQlFzY3dwbWFtNjV0OWJvY2dzaDJRYjVHNUthbDBmQjN1Y2VxLThpYzV5M1JyS0RTTEc2YXN3S0VBTkZKZVpDSUY2bGZwamZ6bExKYmE2M29VdVdMcUJ3VzFrag?oc=5",
@@ -25,8 +49,14 @@
   {
    "titulo": "Veja a cotação do dólar e grãos deste domingo (25)",
    "fonte": "Correio do Lago",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZVR1dk5Jb0lhb0lzanlib1oxMHVrQlZZRXNQbVpBdmp5dmprMDNDVzkyR25VOWxWbWE5UjdSN1Y2MXpncFVBMDJGVnVMMGVMOGdDRVV6YUtBOFotYnI5WHU3NjZwMmxUX3E0NEg5WVBXZDJ1eHJOclVzZFhfdHVCajRUdDA1a21FSndhMEVZeUFVQ0xNLWtvclAyTUJwQQ?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOdVlfR1JSWlhxOHczekRNcjUwRkFtd196Tkhzak1GYnpzUFEtbm1lendmMlVXR2N0TzBLNE5Kd2lxVlM1LUV5WWMzZS1HdElYYjJnekpTWV9SdWhoNjk3Wi1fQzVDbmV5RXlma2pLbnBzWWRna2FjYmd3Uk1RUnpXUWZYNjlOVWhLajFuTTFzTG5NTjFhNUNHbmNKNDA?oc=5",
    "data": "2026-10-25T10:50:40+00:00"
+  },
+  {
+   "titulo": "Códigos-relâmpago transformam Drill for Anime em laboratório de inflação dentro do Roblox",
+   "fonte": "Rádio Geek",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPVnRROFA3RVpRcl8zQm9KUWc3a0k2SU1EMFpZSTVuWEQzRWhnYmFKX3A2NWZYbzlCRk5PNDVURWZ3a21HdzZQWkdtZlEzOEtNY3UyM2tfbDlTbk1uNGhWRGV0Mm9TOWxOVkdJWjh4ZE1WZ2luQlUzU3RxWC1LcWFUcVdfd19fUzUzVnM0bzBuWUlvTFM5THM0YmlnLWYxQ2w0LXc?oc=5",
+   "data": "2026-10-25T10:26:58+00:00"
   },
   {
    "titulo": "Juros, inflação e contas públicas: por que 2027 pode ser difícil para o Brasil",
@@ -57,36 +87,6 @@
    "fonte": "Cointribune",
    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNS1pVXzA0Y2ZtNEJWZ2g1TTBwRFBhakw5MjFaQmpudC1OZUxrVnFTWnFpbm9icmtjd19adThVdTVQSGlHaEFKbG5Nd3ItdmJZdjh6RE95eDdiQXBmcTNyS2g0c2hWM3RiNUlvdERzMTUycFRSOG1QZDc2NFZoZUtoRWdRT2FfakNpOGxDZnMxZUltelpQcEJmcHBoQWhPdw?oc=5",
    "data": "2026-10-25T08:15:00+00:00"
-  },
-  {
-   "titulo": "Príncipe herdeiro de Abu Dhabi analisa projetos e investimentos estratégicos dos Emirados Árabes Unidos na Grécia",
-   "fonte": "Diplomacia Business",
-   "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQU0tFenA4V0tYRVFWMTVaaGVva1NzOVhsajJKU1dsWVdNT25QQWkxREtiSFdvVmNVdmQyTlp2eklLMXRGcDhHZFRQaExVa015NmVKTlBfcmpQaWVKZlB5SjM2b3lqbi1NWFVRc3k2WEJ4ZDR2ckxZNG5vLW1vTUJJRWxZdE8xQlJUaDYtdEEzdU1tNG5ZZVZWZDBHakhlM0JkSlJuZHhKTVlHdzRFcjZpajk1Y1E5VW5mSERMelg4RDgtNVNfUnJoZEU1OF91RGZjQ3BYbDNrbEN2dk4yV2JGU1VVSHFsaHRIeTlfNg?oc=5",
-   "data": "2026-10-25T08:08:16+00:00"
-  },
-  {
-   "titulo": "Previsão do ouro: os touros resistem à cruz da morte e à alta do petróleo?",
-   "fonte": "TradingView",
-   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE84OGVHRElVWXBCY3BCQjVLV1E3U3dLMDRhaHNNcTc5ejhSN19SVFNqaDAxTWR5dE1rWkY1a1lBTTMtcWFtM0haY2hzdkRkX1RjT2hGbEoxcGh0UFR6R28td2pScmRzQQ?oc=5",
-   "data": "2026-10-25T08:02:26+00:00"
-  },
-  {
-   "titulo": "Ibovespa hoje sobe na contramão do exterior no último pregão antes do segundo turno das eleições",
-   "fonte": "Estadão",
-   "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNbWRLcmZ2RzBUTHhFOW4yN19ZQkRzMVlCUnRMSkh3RG5weXVNYUpkUkhZWW9VMHhXNlQ4R0k1SGc5UlNHc2FoWFdEdHdsOEx5X2h2UVM1WC03OHhGWG1WZHlzVDBUSVluY3YxNU03bG43VS1BTWxmd29CNGhSUlI2SGZJSjdiOVJ1OTd6cWJRQ0RGYTFKTGdDVzNhRktFemhhenMxRC1fSjh1NjhvMm43VGt1bzlTbEpWN1pNWXh0NFRldzhYWW1yY3lVS2ZQdjQ0M3Jfd3haNmlJd0NBV1pDa21jelVva0FsdDQ0?oc=5",
-   "data": "2026-10-25T07:19:28+00:00"
-  },
-  {
-   "titulo": "Magazine Luiza salta 15% e lidera ganhos do Ibovespa hoje; veja maiores altas e baixas",
-   "fonte": "Estadão",
-   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOTUc4YndVZXNteTNiRDJXZzYtOXZDcnhJcGdZN1hrd3lfMlBfdkFjckJ3NWRaTnRiUllibFFWRE1pblc3bFRhVG1rR0ppazNGanV1U2tpLVFoUW0xRENRYzZJOWlpemhJUkxDSDZ0aERSTEoyR2hfSE00bTVGYjlqNmlQS1g5X3h0UXZYS3J6eVNHM3JidEY2THpqR052dVJjYWthSUtTdlVqVUs0Wm1WcVdfTDV2elVJbVE5cEJLNEVGWUpqeTN3R2d1NzQ4bE4zZFdQRks0TEVIcF9ERDRsTjdia2ptNTNm?oc=5",
-   "data": "2026-10-25T07:18:34+00:00"
-  },
-  {
-   "titulo": "Ranking da Bolsa: 10 índices superam o Ibovespa no 3º trimestre; confira",
-   "fonte": "Estadão",
-   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPem55RkhxWEM2T0p5OVhvSE5tM0hWRjZyMkJhc3VjMzdVbWR6V3RLZFVCbXBOOHE2YmliTDY5Z1ZPaWdNVGdGbll4X2JsUDkxWWVIbjB4dDhMYVdYZnhURnQ2QVFpcEZmVHhXUHc0cmFZdUhMRVJJTnVwMzdyN3ZscHJTMTRIODl5a1lCcHlSMHRMVHJ0QWVfN21nUm0zME5yV0ZINDdIaWRjMnJ3MFl3dUxTYjZZUUJ1T3B6WlRaWEdwR2pabjUzbmh1QTdYR2UzUGc?oc=5",
-   "data": "2026-10-25T07:08:35+00:00"
   }
  ]
 }
