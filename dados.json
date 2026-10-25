@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-10-25T08:34:31+00:00",
+ "atualizado": "2026-10-25T09:34:21+00:00",
  "indicadores": {
   "selic": {
    "valor": 13.75,
@@ -17,16 +17,40 @@
  "cotacoes": {},
  "noticias": [
   {
+   "titulo": "Belo Horizonte e Espanha debatem parcerias para atração de investimentos e cooperação internacional",
+   "fonte": "Diplomacia Business",
+   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNeVFCdGNNRkdCcnZJT2NZdk5TclNuZ3pqZmdaRW41bUEybVpmX21iek02U005c1BPZExZWEhKNk1iR0NwOVdVSFhYSHF5NnFVWFBySmJEVU5oNlVtVDhLZVBNWXB4SHZmdkdReUNjbG5YOXpBd1pYSFpXdlk1bWtFQXVFdkVWQTZ3T01ad3hWLWZBVXhZY1hfbDJYb3RQTEVUbHczYnJ4UjRQV0NCdC1xOEhPYkQyX0Z6cjVyTUNmSGdwaTY3TnhIeFlhbVktMlJleHhreDNEVVVZQQ?oc=5",
+   "data": "2026-10-25T09:03:19+00:00"
+  },
+  {
    "titulo": "Príncipe herdeiro de Abu Dhabi analisa projetos e investimentos estratégicos dos Emirados Árabes Unidos na Grécia",
    "fonte": "Diplomacia Business",
    "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQU0tFenA4V0tYRVFWMTVaaGVva1NzOVhsajJKU1dsWVdNT25QQWkxREtiSFdvVmNVdmQyTlp2eklLMXRGcDhHZFRQaExVa015NmVKTlBfcmpQaWVKZlB5SjM2b3lqbi1NWFVRc3k2WEJ4ZDR2ckxZNG5vLW1vTUJJRWxZdE8xQlJUaDYtdEEzdU1tNG5ZZVZWZDBHakhlM0JkSlJuZHhKTVlHdzRFcjZpajk1Y1E5VW5mSERMelg4RDgtNVNfUnJoZEU1OF91RGZjQ3BYbDNrbEN2dk4yV2JGU1VVSHFsaHRIeTlfNg?oc=5",
    "data": "2026-10-25T08:08:16+00:00"
   },
   {
+   "titulo": "Ibovespa hoje sobe na contramão do exterior no último pregão antes do segundo turno das eleições",
+   "fonte": "Estadão",
+   "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNbWRLcmZ2RzBUTHhFOW4yN19ZQkRzMVlCUnRMSkh3RG5weXVNYUpkUkhZWW9VMHhXNlQ4R0k1SGc5UlNHc2FoWFdEdHdsOEx5X2h2UVM1WC03OHhGWG1WZHlzVDBUSVluY3YxNU03bG43VS1BTWxmd29CNGhSUlI2SGZJSjdiOVJ1OTd6cWJRQ0RGYTFKTGdDVzNhRktFemhhenMxRC1fSjh1NjhvMm43VGt1bzlTbEpWN1pNWXh0NFRldzhYWW1yY3lVS2ZQdjQ0M3Jfd3haNmlJd0NBV1pDa21jelVva0FsdDQ0?oc=5",
+   "data": "2026-10-25T07:19:28+00:00"
+  },
+  {
+   "titulo": "Ranking da Bolsa: 10 índices superam o Ibovespa no 3º trimestre; confira",
+   "fonte": "Estadão",
+   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPem55RkhxWEM2T0p5OVhvSE5tM0hWRjZyMkJhc3VjMzdVbWR6V3RLZFVCbXBOOHE2YmliTDY5Z1ZPaWdNVGdGbll4X2JsUDkxWWVIbjB4dDhMYVdYZnhURnQ2QVFpcEZmVHhXUHc0cmFZdUhMRVJJTnVwMzdyN3ZscHJTMTRIODl5a1lCcHlSMHRMVHJ0QWVfN21nUm0zME5yV0ZINDdIaWRjMnJ3MFl3dUxTYjZZUUJ1T3B6WlRaWEdwR2pabjUzbmh1QTdYR2UzUGc?oc=5",
+   "data": "2026-10-25T07:08:35+00:00"
+  },
+  {
    "titulo": "Planos de Lula e Flávio podem mudar investimentos em Alagoas; veja",
    "fonte": "Jornal Extra Alagoas",
    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOYmpIRklDT0ZtY21JQTNBdnhoY0RwSHBaZG56Wk43eTJJWkx3SWh4OWdaWTJ5RVJ4aGlkdmVLbWVrY2lnV21vdWtFMzViTHFVQjVhSnpfOTZPY2JCaWJwbENXSlBGOHYwUkd6UU9NTGxsdnV0VVdMY0JwS3dQZmt5N1VNUzNzWDYwSlVVRldTbk5mT0NkTDBsWFY3NC1FRTFuY3hYdWRnTGxnNEJIQUpQQVBxQVVzcEdHeTJxaU16cVk4UFFXN1N1NG13cw?oc=5",
    "data": "2026-10-25T07:00:00+00:00"
+  },
+  {
+   "titulo": "Hapvida tomba mais de 8% e lidera perdas do Ibovespa hoje; veja maiores altas e baixas",
+   "fonte": "Estadão",
+   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQbktjRnFKN1VOM3FNQVRfVEtrLWw0LWRJNkxJaVVhZlhwQXpPN3RrR0lFMG1GcUIwc2lITlFBb3ZOOE91amZ3Wk5WZlk2Uzl2aXoyVS0tamx5Wk9GUURGYU41OW0zU3VkVDNqTHJzUDNTeWcxeGlaWVlhTjFyT3ZSY3RnWkJ3SU52bmRTenBwelN1cEhFeWZVMGdRYjR3a01yTFBYSGo4RzZsRU5sQXNtbHRpckM4TnVhcGwtc3lLd1dqclhzR1dMMnc2THdHRDBOeEhJSFpGM0dJTWc?oc=5",
+   "data": "2026-10-25T06:46:37+00:00"
   },
   {
    "titulo": "Ibovespa hoje cai mais de 1% com pesquisa eleitoral e petróleo a US$ 113; Vale recua 4%",
@@ -47,6 +71,12 @@
    "data": "2026-10-25T04:07:00+00:00"
   },
   {
+   "titulo": "Para garantir que cada dólar de investimento público produza o valor pretendido.",
+   "fonte": "Vietnam.vn",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE96TmxjdExadFBVX2dFcDNzMm5iSENqanV6RExlb0NadFZ3a3JCVnVoWG53UFJ4T2lSTGJCSXpNNzhZVFQtZmtjTm9iUHlLZC1tT015VkxaWTlQV3lWdkVzTzNEajM2VTZXN0UwdTNIdjBidWVIQlptTVJ3?oc=5",
+   "data": "2026-10-25T03:44:17+00:00"
+  },
+  {
    "titulo": "IPCA-15 desacelera a 0,32% em outubro e fica abaixo das projeções; alimentos pressionam",
    "fonte": "Radio Sanca Web TV",
    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNT1NQTExVbUVJV3N6TjV6OXVOY0ZBYmVZWGtPbWhUeWowY04tclA4ZlRFbUpQcVVER2Jaam9xNVhxMEZLOEpYYzNmWEJRTTZKekQzT2M5OWFiaW5WQ2ZZU3hfbFJYTWN1emFwMjFndm9VZm1OSTI2cWx2MThQQUtlcDNYckpfNTFsSFlKYmtoY3I5eFoyZUlVdEVPcmhGeDhKandSeFpneUJMd3gyNnR2UktqSlkxcGVxeS13UGRzWVhUU1Q3dkhYNjVHYw?oc=5",
@@ -57,36 +87,6 @@
    "fonte": "Estado de Minas",
    "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOV2ktT3JHSlRtRFRaQU5ZNVJUbVNFWmMyblpLcU85RlljZjlBLXpqb2I4SElGdF9VTjFaeU1mWGowZzJ5M3JxTjllT1pXQ1BwMzVmaFdydllxS1pZdllmZnVSMzJrZXg2bVdEM2paM3ZveE9JYm5lNTlpWm93UE4xMW4wUjJkTWExblhad3Nfc08zcGhGMnVmOFM1Q0VubExCVVM3MS1kQ05LeEpBdjl0anRBaWdlemVpRGdzVmstZDhvLUNaNEZnSTZpYUoxUGYtSG1KZXNMSnN6MlA1X2fSAd4BQVVfeXFMTldpLU9yR0pUbURUWkFOWTVSVG1TRVpjMm5aS3FPOUZZY2Y5QS16am9iOEhJRnRfVU4xWnlNZlhqMGcyeTNycU45ZU9aV0NQcDM1ZmhXcnZZcUtaWXZZZmZ1UjMya2V4Nm1XRDNqWjN2b3hPSWJuZTU5aVpvd1BOMTFuMFIyZE1hMW5YWndzX3NPM3BoRjJ1ZjhTNUNFbmxMQlVTNzEtZENOS3hKQXY5dGp0QWlnZXplaURnc1ZrLWQ4by1DWjRGZ0k2aWFKMVBmLUhtSmVzTEpzejJQNV9n?oc=5",
    "data": "2026-10-25T03:04:00+00:00"
-  },
-  {
-   "titulo": "Serviço Autônomo de Água e Esgoto de Caxias intensifica investimentos em redes, poços e sistemas para reforçar o abastecimento no período mais quente do ano",
-   "fonte": "Prefeitura Municipal de Caxias",
-   "link": "https://news.google.com/rss/articles/CBMinAJBVV95cUxQZEFxelhjTVRWZF9tNmg0bi02WDNyRXBJWE40d1RobWh3S1RqazlHMmFMR2c5UWRYSElFOFQ4b0lMcDNicDEybUhGeUF5RWRKQnZoTEZXYlZrOWtmdzczZ3d5ZEJUZl83RFdKVjRTWGkyMW1ud0VMQlF4dzRFWW9qbDlhelNuUFU4Wnd2aURGa3d4dlcxWGQ4aUVyekhiM3VTeU91aEJXejhuSVJ3N0JQTkpmYUVING9mNG9jTUtwdFhqLWozV2QxMFZmRC1xUnBHSERYYUhVbUpPOFFwMzhKT1JIbnFrckwtR3JpYThXdmY3eDU1VS10TkE5ZHVIZXFOTExQTWRNZHZIeVpmLV9NeC1WMnQ5NkhKUHluOA?oc=5",
-   "data": "2026-10-25T02:35:13+00:00"
-  },
-  {
-   "titulo": "FIFA anuncia Mundial de Clubes Feminino em 2028 e amplia investimentos na modalidade",
-   "fonte": "Radio Grenal",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxONzR4Rm1zVmdkMU9SZEZtZlNrMEw4VWFYZ0pVNHVINWZPd09OMHd3cXBsU0lYZlp3T1JoNGlYdm42YnRpVmlBaUFNaDkxSk1QRDJIcEVGenZoOUl4TnlOQ3U0UVNfdW03RFlvbzJ0amFtY3pRZ2syYWlOY3BuOUxPTkp1REMzR2lfYmFlTEhQTG9ETXQ4cmQ5R3Zub2dXQndXb0Nqa0xPTWptMGFiaFc1Ry1MblMtclk?oc=5",
-   "data": "2026-10-25T02:01:50+00:00"
-  },
-  {
-   "titulo": "ISAE4: receita dispara 21%, mas queda de 32% no lucro acende alerta sobre dividendos",
-   "fonte": "O Petróleo",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxONFFOcElwMjJGYnRvcm9DeF8tV3pUUEs0SFBpbFQ4TE1PbDNjRXFuanAxU1N0V2gtcV9iaEZoTlpNYjlFYTdha1kyVGw5eXlxLVBoOGNpS05IeTdpb1hhNktaSGYyU2NjaFMwM1R3WTk5WGotbEE4OG8ya243dG5qOUZwM29IbmFLcnpSeEJTREpmTGVpTElya1RCSWxIMUpBS0Z2Tmtxc1ZEQQ?oc=5",
-   "data": "2026-10-25T01:55:50+00:00"
-  },
-  {
-   "titulo": "Análise | Inflação virou assunto menor na campanha",
-   "fonte": "Estadão",
-   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOV29LZm5nd1c4S01MakNCQ2JZQzVaWEF3RE80YW41czM1ckhheEZKOS0zY0EydUU3R1hDX2RPXzBFYzRGb2tNaEJ0MmhCc3BrRlIxRlFsdjUyNGcyRFY0YUtjRk1hNTJXVWU5NnBrUHdMeFh2MjNSWThNN1NVbXdvQ0dR?oc=5",
-   "data": "2026-10-25T01:31:35+00:00"
-  },
-  {
-   "titulo": "Lulz diz que se não fosse o governo do PT, o salário mínimo estaria em R$ 900",
-   "fonte": "Jornal O Sul",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNYVBRdHhsWEQzU2txNlUzZTlOWmRCQkRlQzV5aWFxOGJWWTJzZGJwd0lsdEk1ZW4xRFE2anNZMUpiOUtqV09ETWVPZGNpTUV2VFozbFg0QTJmLWt4Z1BVTHpkUkcxUnNRNy1GSFczZGQ3YUZfUmpWWWRRUFpYMTdBNFA4Um5RU1JUVXVIV3p5NmNjSkpZcm9Pb1dmLTB2STV0azRRT9IBpAFBVV95cUxNYVBRdHhsWEQzU2txNlUzZTlOWmRCQkRlQzV5aWFxOGJWWTJzZGJwd0lsdEk1ZW4xRFE2anNZMUpiOUtqV09ETWVPZGNpTUV2VFozbFg0QTJmLWt4Z1BVTHpkUkcxUnNRNy1GSFczZGQ3YUZfUmpWWWRRUFpYMTdBNFA4Um5RU1JUVXVIV3p5NmNjSkpZcm9Pb1dmLTB2STV0azRRTw?oc=5",
-   "data": "2026-10-25T01:01:58+00:00"
   }
  ]
 }
