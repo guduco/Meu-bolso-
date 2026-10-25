@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-10-25T09:34:21+00:00",
+ "atualizado": "2026-10-25T10:32:38+00:00",
  "indicadores": {
   "selic": {
    "valor": 13.75,
@@ -17,10 +17,28 @@
  "cotacoes": {},
  "noticias": [
   {
+   "titulo": "Juros, inflação e contas públicas: por que 2027 pode ser difícil para o Brasil",
+   "fonte": "Folha Vitória",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQbFRIbndEQ1F1NVJzdlhhcWFqWWtsUm9IcEtjQzF5ajM5STRvRHFoNU02WHhRdDdCX3JLS1llXzU2ZHREaGJvLVdpUXRxTEF2dng0OUpxRXRZUjNFWVljSTNWYlVKSU9IaWZjSUlwNlhUSkJnb0dWNTB5WUQ4Y2x4MmRkWXVpQTFsWVMwd0NoODZ0aFkwd3RkZ3lLS09MUmhvZ041UlJfWE9aU2FtX2JmVkRqUDlmZGlremc?oc=5",
+   "data": "2026-10-25T10:00:00+00:00"
+  },
+  {
+   "titulo": "Senadora eleita Carol De Toni propõe revisão do pacto federativo e da reforma tributária",
+   "fonte": "Portal VV8",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQaGJuVDNmQVJiN0s5MnFKYkdJNk9qQVBXY2p1MWFTMTNRVDdwODMwYlZ3VXlWTmlBbnF5R1JWTVpQQ18yUXNaZFZ5cWh6MUN4ekZjN3pnMDdHWUt6bjJaS0RlUHNLTFdrNDV4dWJBbmxRdWxPazF5aU9uTGc1VGF5U2FEZ3lPUnBHNG44UzBITEdWaU9jUDlWN2o4UUhxTnpwbDdFYWFRU3ozQjR6MmVHbVBLRWMwdjdMWFFVdFlfWWR5UDFuUkE?oc=5",
+   "data": "2026-10-25T09:34:13+00:00"
+  },
+  {
    "titulo": "Belo Horizonte e Espanha debatem parcerias para atração de investimentos e cooperação internacional",
    "fonte": "Diplomacia Business",
    "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNeVFCdGNNRkdCcnZJT2NZdk5TclNuZ3pqZmdaRW41bUEybVpmX21iek02U005c1BPZExZWEhKNk1iR0NwOVdVSFhYSHF5NnFVWFBySmJEVU5oNlVtVDhLZVBNWXB4SHZmdkdReUNjbG5YOXpBd1pYSFpXdlk1bWtFQXVFdkVWQTZ3T01ad3hWLWZBVXhZY1hfbDJYb3RQTEVUbHczYnJ4UjRQV0NCdC1xOEhPYkQyX0Z6cjVyTUNmSGdwaTY3TnhIeFlhbVktMlJleHhreDNEVVVZQQ?oc=5",
    "data": "2026-10-25T09:03:19+00:00"
+  },
+  {
+   "titulo": "XRP supera 8,24 milhões de endereços, mas segue abaixo de US$ 1,40",
+   "fonte": "Cointribune",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNS1pVXzA0Y2ZtNEJWZ2g1TTBwRFBhakw5MjFaQmpudC1OZUxrVnFTWnFpbm9icmtjd19adThVdTVQSGlHaEFKbG5Nd3ItdmJZdjh6RE95eDdiQXBmcTNyS2g0c2hWM3RiNUlvdERzMTUycFRSOG1QZDc2NFZoZUtoRWdRT2FfakNpOGxDZnMxZUltelpQcEJmcHBoQWhPdw?oc=5",
+   "data": "2026-10-25T08:15:00+00:00"
   },
   {
    "titulo": "Príncipe herdeiro de Abu Dhabi analisa projetos e investimentos estratégicos dos Emirados Árabes Unidos na Grécia",
@@ -29,10 +47,22 @@
    "data": "2026-10-25T08:08:16+00:00"
   },
   {
+   "titulo": "Previsão do ouro: os touros resistem à cruz da morte e à alta do petróleo?",
+   "fonte": "TradingView",
+   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE84OGVHRElVWXBCY3BCQjVLV1E3U3dLMDRhaHNNcTc5ejhSN19SVFNqaDAxTWR5dE1rWkY1a1lBTTMtcWFtM0haY2hzdkRkX1RjT2hGbEoxcGh0UFR6R28td2pScmRzQQ?oc=5",
+   "data": "2026-10-25T08:02:26+00:00"
+  },
+  {
    "titulo": "Ibovespa hoje sobe na contramão do exterior no último pregão antes do segundo turno das eleições",
    "fonte": "Estadão",
    "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNbWRLcmZ2RzBUTHhFOW4yN19ZQkRzMVlCUnRMSkh3RG5weXVNYUpkUkhZWW9VMHhXNlQ4R0k1SGc5UlNHc2FoWFdEdHdsOEx5X2h2UVM1WC03OHhGWG1WZHlzVDBUSVluY3YxNU03bG43VS1BTWxmd29CNGhSUlI2SGZJSjdiOVJ1OTd6cWJRQ0RGYTFKTGdDVzNhRktFemhhenMxRC1fSjh1NjhvMm43VGt1bzlTbEpWN1pNWXh0NFRldzhYWW1yY3lVS2ZQdjQ0M3Jfd3haNmlJd0NBV1pDa21jelVva0FsdDQ0?oc=5",
    "data": "2026-10-25T07:19:28+00:00"
+  },
+  {
+   "titulo": "Magazine Luiza salta 15% e lidera ganhos do Ibovespa hoje; veja maiores altas e baixas",
+   "fonte": "Estadão",
+   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOTUc4YndVZXNteTNiRDJXZzYtOXZDcnhJcGdZN1hrd3lfMlBfdkFjckJ3NWRaTnRiUllibFFWRE1pblc3bFRhVG1rR0ppazNGanV1U2tpLVFoUW0xRENRYzZJOWlpemhJUkxDSDZ0aERSTEoyR2hfSE00bTVGYjlqNmlQS1g5X3h0UXZYS3J6eVNHM3JidEY2THpqR052dVJjYWthSUtTdlVqVUs0Wm1WcVdfTDV2elVJbVE5cEJLNEVGWUpqeTN3R2d1NzQ4bE4zZFdQRks0TEVIcF9ERDRsTjdia2ptNTNm?oc=5",
+   "data": "2026-10-25T07:18:34+00:00"
   },
   {
    "titulo": "Ranking da Bolsa: 10 índices superam o Ibovespa no 3º trimestre; confira",
@@ -53,40 +83,10 @@
    "data": "2026-10-25T06:46:37+00:00"
   },
   {
-   "titulo": "Ibovespa hoje cai mais de 1% com pesquisa eleitoral e petróleo a US$ 113; Vale recua 4%",
-   "fonte": "Estadão",
-   "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQa1VDaXNqZ2FiZmlJZnRzTEFBZnUwdkRHVDJKbU9seE1hQno0aXQ0UlFDYWdMTVNMc1ZQWnh5NXN6emVFVVMyaS10Ql93QUUzSHlSMDR2QXBDMFpGYWsyTlU4bVY3OEUwSEFVdTBVUHRoV2QxV3V4dnVpaGNOTFpaQlpCR3ZrSngyQkREb0JqRTllVFNNSHdWV3RBbzBwZVpuZ1BXS2o2SlhyMFpmY1lnMGg0TTRJamhNSTlxMnNVSzRaM05ZTDE5ajVxcGVIXzViUFlVc0JfeDVoNmtNNnFnLWQ2a3JTdXB1VW9GLQ?oc=5",
-   "data": "2026-10-25T06:38:17+00:00"
-  },
-  {
-   "titulo": "Ibovespa sobe 6,9% e dólar cai 4,4% entre os dois turnos da eleição",
-   "fonte": "TV Sim Brasil",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPTWV3amdMV1VqUWVlVXRhRkRILUlMODQ3QW5zbWFIbjFnN2toTHlUSVVtN0Q0MzFGLXllZFZhU0lGWC0yNHpnalNGTVJKMi1taWp2MDdFazNpN1ZZOGpKd1d6X0NPQ196Mkk0aV9PTmx3RVBKU2Z3dUxzalVQTGpUUGNWZER2TS1obGhDMjJ0eFhEUjF6OHB1RmNpTnp2cnNoSGdtbUt5djJ4ZFhqQ0xKaw?oc=5",
-   "data": "2026-10-25T05:43:34+00:00"
-  },
-  {
-   "titulo": "Obama critica Trump sobre inflação enquanto democratas disputam vaga no Senado de Michigan",
-   "fonte": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
-   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNdWFraWtTWm9hbXphY0QtbG5XcEFrMXlzbndJV0RrS1Z4cVZBX2JmaVJ6b0tfbjRwTTZUUWlmVlZzTWRTa3BOSnJaeGRRYzdOdWdRYnZOaWNySGc5MFFYRWc1RFA5TTdGUWdMSVREVzJkM3pBRG9TSnY0b0k4OWVCdHFlVC1xYlFja2t5YV9BeFNBdlltTUYzTGhQeHV4Y3dSR3Q5Y0xaOXk1VGpGSHlEQlRzOXVJeHhfMTRLd2owdjl1X3Y2aHRfSVE3WGJST19fQWNwbGt4MjE?oc=5",
-   "data": "2026-10-25T04:07:00+00:00"
-  },
-  {
-   "titulo": "Para garantir que cada dólar de investimento público produza o valor pretendido.",
-   "fonte": "Vietnam.vn",
-   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE96TmxjdExadFBVX2dFcDNzMm5iSENqanV6RExlb0NadFZ3a3JCVnVoWG53UFJ4T2lSTGJCSXpNNzhZVFQtZmtjTm9iUHlLZC1tT015VkxaWTlQV3lWdkVzTzNEajM2VTZXN0UwdTNIdjBidWVIQlptTVJ3?oc=5",
-   "data": "2026-10-25T03:44:17+00:00"
-  },
-  {
-   "titulo": "IPCA-15 desacelera a 0,32% em outubro e fica abaixo das projeções; alimentos pressionam",
+   "titulo": "Defesa Civil do Estado anuncia investimentos para a região central em treinamento em São Carlos",
    "fonte": "Radio Sanca Web TV",
-   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNT1NQTExVbUVJV3N6TjV6OXVOY0ZBYmVZWGtPbWhUeWowY04tclA4ZlRFbUpQcVVER2Jaam9xNVhxMEZLOEpYYzNmWEJRTTZKekQzT2M5OWFiaW5WQ2ZZU3hfbFJYTWN1emFwMjFndm9VZm1OSTI2cWx2MThQQUtlcDNYckpfNTFsSFlKYmtoY3I5eFoyZUlVdEVPcmhGeDhKandSeFpneUJMd3gyNnR2UktqSlkxcGVxeS13UGRzWVhUU1Q3dkhYNjVHYw?oc=5",
-   "data": "2026-10-25T03:43:35+00:00"
-  },
-  {
-   "titulo": "Brasil elege presidente sem debater a economia e quem vencer terá de cortar gasto",
-   "fonte": "Estado de Minas",
-   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOV2ktT3JHSlRtRFRaQU5ZNVJUbVNFWmMyblpLcU85RlljZjlBLXpqb2I4SElGdF9VTjFaeU1mWGowZzJ5M3JxTjllT1pXQ1BwMzVmaFdydllxS1pZdllmZnVSMzJrZXg2bVdEM2paM3ZveE9JYm5lNTlpWm93UE4xMW4wUjJkTWExblhad3Nfc08zcGhGMnVmOFM1Q0VubExCVVM3MS1kQ05LeEpBdjl0anRBaWdlemVpRGdzVmstZDhvLUNaNEZnSTZpYUoxUGYtSG1KZXNMSnN6MlA1X2fSAd4BQVVfeXFMTldpLU9yR0pUbURUWkFOWTVSVG1TRVpjMm5aS3FPOUZZY2Y5QS16am9iOEhJRnRfVU4xWnlNZlhqMGcyeTNycU45ZU9aV0NQcDM1ZmhXcnZZcUtaWXZZZmZ1UjMya2V4Nm1XRDNqWjN2b3hPSWJuZTU5aVpvd1BOMTFuMFIyZE1hMW5YWndzX3NPM3BoRjJ1ZjhTNUNFbmxMQlVTNzEtZENOS3hKQXY5dGp0QWlnZXplaURnc1ZrLWQ4by1DWjRGZ0k2aWFKMVBmLUhtSmVzTEpzejJQNV9n?oc=5",
-   "data": "2026-10-25T03:04:00+00:00"
+   "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQME1kOGZyT1JvRXBnTHdnc2pyaHEtdUtIYkc3eWRCb2c5Qi0yaktBREllOFpOdUVVLVRpcTBFQ3RKeVBBSU9ZZ29ESlVGeE1TcThxd0RQOXhMRlNNNmQwNDkxTWdheVZQVG1ILTZHMXMwMjNrZnhjRUMxZ0xTR2piejVJMk5fZWNzN3hhYTVmSW9aeXFWMTdQX2NUTTRXRWQ4SGpBdHh6ZEd5NlV6ck93d21BdE5uTEVRcTl3VFdFNlJoZnJLbU1FbU95d2ZfdC1TeXJlN3pDU2xYVkU3S1ZOTG8yTWFQMmM?oc=5",
+   "data": "2026-10-25T06:43:03+00:00"
   }
  ]
 }
