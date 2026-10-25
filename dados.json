@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-10-25T00:42:16+00:00",
+ "atualizado": "2026-10-25T01:34:07+00:00",
  "indicadores": {
   "selic": {
    "valor": 13.75,
@@ -17,16 +17,40 @@
  "cotacoes": {},
  "noticias": [
   {
+   "titulo": "Vitória de Lula na eleição pode derrubar Bolsa em mais de 5%",
+   "fonte": "Times Brasil | CNBC",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOZUdHbE1pN0h1Z3pZRnRnOXNlX0JCQzRUWFFqRlV1NEpZLTBLTDNVRmFFNUp2VTNoaDZob0k4U25EUHp0bVU4OUFDZU4yc2hWQ3V1YzVzZnUzeU02MkJCeXlvb3J2MC1jSUhUd0ZZNEd0eW5BdnlpY01kWW1XTW04TGoxbkJwTHJtQzhJ?oc=5",
+   "data": "2026-10-25T00:53:00+00:00"
+  },
+  {
+   "titulo": "China exige que os EUA suspendam a expansão das restrições a investimentos em tecnologias sensíveis",
+   "fonte": "Tribuna do Sertão",
+   "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPV1dKcnNTM0FRSkx4MkxIb2o4U0s2cHpIN0haR29DWkY2R3RwcDR2QVRQVThGWl94ZWczWFBkRG5Id1ppRDVfeDRqdG5JcWhvV05VMVFyeGRTV1lhSUVtWFoxclZidjVHRWJRSVkySnZkRUhJRzdSQ204T0ZKY3dBMDBBamdQY01rSTltbjNyMG1GaUN5VTlJVkNsWEZaUkU4RjZjbUt4SnVWWU92c2UzTFFUX2h0dUt4N3lQT2Y0Y2NBcjhIRlhYUGRFbW9Qa2hYYXVMc2JwY3JVZ3U5bnQxMlYzcWFXYVNzeXc0OW93eTk?oc=5",
+   "data": "2026-10-25T00:38:42+00:00"
+  },
+  {
    "titulo": "Apesar de alta dos alimentos, prévia da inflação desacelera de acordo com o IPCA-15",
-   "fonte": "Rádio Pampa",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOaUZneWlscTR6QnMwQ0ctRjVteTVSU1NiT1ZTM0pkQlNNUVF2LTJUbXdrVW90R290QkZYeWVOcDFIVm5jNDN0N05RbjR1bXlMSF9qYmN6X29kMW5VQlEtTWpZQUJOZ0gxcVpmRXlTWVVHVFJkZXVwYzRoaXdhMzB5NUNyTEJCRkFNX2ctdUNEN0p1QTRZbmtMOTJWVlpLOV9UaTFMOXo0WFo3VWJQUE1DbXJjVQ?oc=5",
-   "data": "2026-10-25T00:33:15+00:00"
+   "fonte": "Jornal O Sul",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNdDNaYWZSUGdRQlFrUkxUejAwOUdfblBvekhuMFVzRExwSl9vQmtDaUNhcl9jMFJIa0JPLV9mUVg4OTVyazhDcmVhN0hER29KeEw5aEhJZEpYUVZMWUtoaUw5anBJZldPSmlYenlHWUgzZUY0cnFoSE9GVXZRVXByblM0alJUcEZGR0pGMmtFRmJiOEFaMjZxQkdpUDF6X095QmE5M0dPb0x6a0F5bmlDetIBsAFBVV95cUxNdDNaYWZSUGdRQlFrUkxUejAwOUdfblBvekhuMFVzRExwSl9vQmtDaUNhcl9jMFJIa0JPLV9mUVg4OTVyazhDcmVhN0hER29KeEw5aEhJZEpYUVZMWUtoaUw5anBJZldPSmlYenlHWUgzZUY0cnFoSE9GVXZRVXByblM0alJUcEZGR0pGMmtFRmJiOEFaMjZxQkdpUDF6X095QmE5M0dPb0x6a0F5bmlDeg?oc=5",
+   "data": "2026-10-25T00:08:44+00:00"
+  },
+  {
+   "titulo": "Estrangeiro põe R$ 21 bi na Bolsa brasileira na véspera do 2º turno",
+   "fonte": "TV Sim Brasil",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOYXVOTUdEWEVfOGlFLVFLQ3pGZFY4RWdoNzE2SWlJOXJRTzF6UExCTlVFTmxQeFVqVHV4QTVlM0hXazc2b2h1Y1FwZWhpZE9LVlItelJ0V3l3QVN0YW1jVk1WMEk2WFJtbGh2OUJlNl9NYTFCTGNsZWpZbEhfOExTU1RFTUpUcV93SVQ3UmhjWjZyWGFwTUNNM2ZCcXJOVzlDbWxaa2x6OUFvYVdDR1dKWjhOX3VoWGc0OC1qYUpR?oc=5",
+   "data": "2026-10-25T00:00:00+00:00"
   },
   {
    "titulo": "Novo governo, El Niño, investimentos: economista da EQI fala sobre eleição e risco fiscal",
    "fonte": "NSC Total",
    "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOeUZ6YTBqZ1pRVzVVSVlyYWloMEs1WEthdmtDVm5LczFtUDBiUk1wSWtTUV82dFpxbGNRWDk3bjJTdzZRVmRXenA4S3RTazhsT0s2QjFReFN1SmtLODFTZ3JCSXdxcjlUX3g1NHZNWmlBUmhuM1ZwT29OR3N3cGVzUWZ0NzJ6T2RfR25iSzRrYW10RFNhNVNBaTJLdW1aZjF5UjZNYWNOemdhWXZUbURKT0dCVjRKR2dJTUI5VXQ1RVcyU1pxNGtSZWdpd0JXSl9kc1JlQkh5VE8?oc=5",
    "data": "2026-10-24T23:53:36+00:00"
+  },
+  {
+   "titulo": "Preço dos alimentos sobe 0,88% no IPCA-15; tomate e cebola lideram altas",
+   "fonte": "TVBV ONLINE",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOU2V3V0hqdmswU2pjeTRlMnJOTmtGWTUxQ3pYZlFIMmJIQV8zT3paSzVLaWhSVG5lb1d0bW85SXJpZU4xd1hKLTJ6VnpKajhPSWYxVkJYQ1BPX2o0dXVxNm1sUW9VekxBRjBaeU04Z1htUlZNWl93b0ZtS1QtZmJlMS1DSTlWMWJUSnliWDdjbFZEc2p3WmVxRHZn?oc=5",
+   "data": "2026-10-24T22:19:22+00:00"
   },
   {
    "titulo": "Blackhole Rush repete “tempestade de cupons” e acende alerta de inflação em cadeia no Roblox",
@@ -63,30 +87,6 @@
    "fonte": "Jornal Correio do Brasil",
    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPREhPUDN3MFVNc2FaNWpuMnh1SkZ0QkI4Ul9TdG1ZSEtsTTY3Y0FvMGtBTmRSVmZxQ1dLLS05amhTcjRCQ0VPNVprQU51V29SNElHSi1EeFUtSGkwMzdORE9FNWpaNmV3SlJ4R1FOWFNCMmR3ZWJRSzFKc1VtYXRlU3A2SG4tLXdoc3l3cA?oc=5",
    "data": "2026-10-24T19:52:08+00:00"
-  },
-  {
-   "titulo": "Futuro em jogo: investidores da Netflix miram resultados financeiros",
-   "fonte": "Jornal Correio do Brasil",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQc2ViSWpKdEFGVkptazJ2REprUkhEeUlmZEZIdEtyMFpMSlJRVzcxMVE1U0F4c2JkQmVCaldMc3U0dmhxU1pIb2RYbXlhRUhCLVU1RUxERjhIUU9ZS2tnZ3V2ZUlVSUE3SlFTS054SWdnck1DQ01SSTBpb05PcTFyTThELWZPdzBZOWVWdUNtaVZPZDc5T1JpXzZR?oc=5",
-   "data": "2026-10-24T19:33:24+00:00"
-  },
-  {
-   "titulo": "Como funciona a reação do mercado: o que deve acontecer com o dólar na segunda-feira após a eleição",
-   "fonte": "Gazeta de São Paulo",
-   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPZ0ZXdHdUMG1MQVhkZGtKNjNlakQwQWpxN09iVTQ2aThSMXEzd0JLdl9zS2hPbFB2dkdTQ20wc24wQzJ2QVgzWFpxblJWejRFM1RuRUZaMjZTN3JhcVpVNXhoRHJPNlhTUEhwR3RHV0dQamdQZE5iQXYzUV9laFZQMkJkejJwc01GbUlDb3Y5cU1xZGVLRW8wU05TVlhuQzZlVmFocWp2LTB2UzJ4YkxmSE85cllZb3NGZFg0aFFBSEJtX0FSV05tMDl6VFhWQXQ1WkE?oc=5",
-   "data": "2026-10-24T19:30:00+00:00"
-  },
-  {
-   "titulo": "O El Niño que pode bagunçar colheitas, inflação e carteiras pelo mundo",
-   "fonte": "InfoMoney",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOUXJFUkwxMVVJMjBnMHpFNjhLVlE0VHJuWTFyeUMxeTk4c2IxY2kyUnJkN3lOaGp6bmNkNlh3UGhLalN1QzZCb1c0dEpRRnF4ZEVIaE1ueTFSQTJwVTh2M3NuMzZJR01RQU91TVFpcHNxdmNZOXZ6YUs3eE9BNmFiSWJqZWJnem5jXzh1N2xwaTNpSmdFZEFuQlBMM3I3QkVfLXg1dzlNRXdWaHF20gGyAUFVX3lxTE0zakRUbWh3NER2cHhXMjQ5b2ZBSUZKRFF3WGU2ZzdMSnVtcjFtcU9ZVWVvYk5TSmo3TkhEZkROOElZTFd4WGNoWTlZVHRXN3FISnY4LXJ3ODNKVUdkSlJtS29nWk0yRWd0STFTZmdWS1JRSDVxRjNnVVRwTlBlRVQ3NEJ1cVp0MFF0eTlRWnZPUGdDd29zN1ROcU1BRVVGM3dicFVlOVZBbTA4a1RwZUZadWc?oc=5",
-   "data": "2026-10-24T19:22:38+00:00"
-  },
-  {
-   "titulo": "Arapiraca completa 102 anos com inaugurações e novos investimentos em serviços públicos",
-   "fonte": "Tribuna do Sertão",
-   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNT0twcGpkZTJjdlVLVy02cklxR2JyeEdwZmNTazZHTzhrakpfdWpaaS1kdkYxaThHOG9JUWhKRHF5d0ZZMmh2aHl0ZHVJMWh6VVVJSFczYWJ0QlJDcTJ1TldrbGpMU2d3SmtOX1JQYXZlYWcxTzJxQnRXVkZKUlE3WmRBbGFtcjZCZE9mWm5DdDVkTl9xcEd5TFF5dDRaSkRhZUN6MnRtS0U2NzhLRThBOERrU1NnMl9tUGVyZFg4bFlTNXNqMnR3TlBHUHFJNnZqZGMtVG1OWU9JTlhORkxYTzBWdw?oc=5",
-   "data": "2026-10-24T18:56:00+00:00"
   }
  ]
 }
