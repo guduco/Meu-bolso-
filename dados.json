@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-10-25T19:30:03+00:00",
+ "atualizado": "2026-10-25T20:30:50+00:00",
  "indicadores": {
   "selic": {
    "valor": 13.75,
@@ -17,16 +17,34 @@
  "cotacoes": {},
  "noticias": [
   {
+   "titulo": "Empresas do agro podem reduzir impostos com investimentos",
+   "fonte": "RADAR DIGITAL BRASÍLIA",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNTzdHUHFVNUFjSW1UTlNsYnNwRFJLMzhPaHhFRUVlUXhqM1kza216NXhZeHdRdnpFNXpIdEllYlo3TUtQaGlETHBKVElNTEJ1cVItUEE4VTVfeWI2aFA2MHZhVmtXWDRsdGNnUWhzUjEtNzBEVlF2MkNUeTVON0toUFFOc21yUGlOVk1GUWRpbjAwYzRkRVN4RGJlSlZvM1loa1hMUHBZVE10Zw?oc=5",
+   "data": "2026-10-25T20:04:23+00:00"
+  },
+  {
    "titulo": "Prévia da inflação de outubro no Brasil é menor, com queda de preços de água e luz",
    "fonte": "Porto Alegre 24 Horas",
    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQOTlFcG0tdFlpYWdjRW5vZ1FBQ0ZqWkdGU3g0RURZNUpHU1Y5Ql94MXc3bGRkYWN4YndrRW5VS1duQkVweFJQbTFTSWFTMkdBc0h0RTZNcEdNdmsyREJfUV90SE5GZGlzR3JIY3Z0bEJ1WmNsWXR4MjBoSTNpLU03bENxSHZRcXN3SXF2ZWJvOERCYUc0WU00UFpHcGtaWFNaUG4tRDVYRzFCdFVtQnNsWkw1cVBCdFNSVVFQd1JuMnoxVTA?oc=5",
    "data": "2026-10-25T18:22:15+00:00"
   },
   {
+   "titulo": "DAY TRADE 26/10/2026 | Abertura de mercado e minicontratos",
+   "fonte": "XP Investimentos",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOaW1YREV3MmRCajZVMVF0dmFpb1owVXVUeEtiZEN2Wk5obmlnTzJwNC1ZaTQ4YlFnUFkxemhmWm8zRVQ0RzB0NEd5Y3l6WUhiSVBOTDZ2alZScmNmdXJnbXpJMklkUVBrNG5zYURITDNBbXVXUnV4Z3FmS1NaX29FOWEtQUtpQ2ViTml2VzN6RmRkczg3VkRRZGd2TG5Vdm9ZWGpIRllmMFU5WkxOT0M3bVk5SQ?oc=5",
+   "data": "2026-10-25T18:09:57+00:00"
+  },
+  {
    "titulo": "Mauá reforça potencial para negócios e investimentos na Feira do Empreendedor 2026",
    "fonte": "ABC Repórter",
    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNOWZKM1J0LU9rLS1OVWtaZGZzYlJGOWNMVi1sSzBYbDFScW9QVmp3S1E2eXpFTEFWdDdzVS1wZVA2WGVYX0VzUnpOelo5LVV3TUNWZzRZVEttNkV6bHdUeDh3dE5ZSmx2SDd4UmU1Smk2UXZVblRVZmZxd2VldXFzNTZfWXdLQ2ZHWm52MlFtWmFFa2tTV01SbWM3Zkthb2o1V1UyWTN3cWZHS3o0N0lpVko1RXo?oc=5",
    "data": "2026-10-25T18:08:37+00:00"
+  },
+  {
+   "titulo": "Léo Bezerra afirma que disputa presidencial não pode comprometer investimentos para JP e frisa: \"Estou onde sempre estive\"",
+   "fonte": "Blog do Ninja",
+   "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNb3VBTHc2X0NfMUkxRXZlUVhUdVZaY0x6a19LUE5sRmZiNkN1b3JKUXE1VmJpV2xYejl3aHFWVXFBOEZEYkF6dVJscEZWSy1CTjZKUm9mLUJLWmtkMEhCdGdlOV9QSE9qdmhoLTRNT3lwWlR0ZXZBTnJSb2VGbXV3RnJlMVFDcTBNU3FNRUVROG85aExybGxKcHEwWkl5VEhUbXlSYzVYaE9EY0t5ODJOMnJTUERzdnZlQ2NmLWZJSjQ4b1ZhcFl4VkZwbmdFM21INGFOVEdEREdORkxVSF9pd0VXV3ZQZ3VKUGJaUFI4WQ?oc=5",
+   "data": "2026-10-25T18:03:47+00:00"
   },
   {
    "titulo": "Dólar fecha abaixo de R$ 5 e recua 1,58% na semana",
@@ -43,7 +61,7 @@
   {
    "titulo": "Flávio tem patrimônio 71% maior que o de Lula: Veja os investimentos de cada um",
    "fonte": "Investidor10",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNREdfQmFpaG1iY2huNXR3TFZYbDVLU0FLV1NyQmlnaUw0cl9nSW9KWEtPdzZPeXJwanR4SVZUVTBsM0NET2xZTU5VOHc4QTBIeldER09ZYnR3UnZFWDhGSmtwMVptUFdNeGg0QmMwSVd5UHNlRF9XdlRkR2JtSGpwVTg5Z3VXUnZPSk1tSzgwU25qNC1YOWZNSGhwVjZwdnlIamd6UzJLOU5xLUw1cWRib2oxMkYxMjN4YThOYzhid9IBxAFBVV95cUxPM3RXTERsdGtTeUhOYXFCS05aUm96NThxTC1IM0ZLWHVOMmJiSHdaQ0hSZmdxVTdQeWU4T0tPcWNhUE9yUDJ4UWg1eTNXSHhoQkJxbjRVMkZOdExVTmFYZmU1Z1Y5enRybVV2anBGU2FVSVhfd29pZnZxbTRlclNBYlhiYWIxbl9MeUpyMUItbGN0Uk52eVE3VVRVWWlOQXp2SEJJbVkwb25oQXVqY3RidXBxT0pFOG1PNG9MN3pfYXh3bC1M?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPM3RXTERsdGtTeUhOYXFCS05aUm96NThxTC1IM0ZLWHVOMmJiSHdaQ0hSZmdxVTdQeWU4T0tPcWNhUE9yUDJ4UWg1eTNXSHhoQkJxbjRVMkZOdExVTmFYZmU1Z1Y5enRybVV2anBGU2FVSVhfd29pZnZxbTRlclNBYlhiYWIxbl9MeUpyMUItbGN0Uk52eVE3VVRVWWlOQXp2SEJJbVkwb25oQXVqY3RidXBxT0pFOG1PNG9MN3pfYXh3bC1M0gHEAUFVX3lxTE8zdFdMRGx0a1N5SE5hcUJLTlpSb3o1OHFMLUgzRktYdU4yYmJId1pDSFJmZ3FVN1B5ZThPS09xY2FQT3JQMnhRaDV5M1dIeGhCQnFuNFUyRk50TFVOYVhmZTVnVjl6dHJtVXZqcEZTYVVJWF93b2lmdnFtNGVyU0FiWGJhYjFuX0x5SnIxQi1sY3RSTnZ5UTdVVFVZaU5BenZIQkltWTBvbmhBdWpjdGJ1cHFPSkU4bU80b0w3el9heHdsLUw?oc=5",
    "data": "2026-10-25T17:27:49+00:00"
   },
   {
@@ -69,24 +87,6 @@
    "fonte": "Goal.com",
    "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNNHZXVnpDdkU0T0JTWGFudE5sbjk4RnVnYVY3cnZDYlg0ZlFhSXFCNXpPTGVjSm9jOXlVbGVSb2wtLWRWWWFfdG1rMHg3eTRhYTBuYURaX0MzRWtUbU1Ua3FLSXlxU2s0ckRIRGdONVBPU3dQQ1NOb3djVTdSQmwxOUdfdHlmSFN3ZkpaeU9JUk9DMXBobWc3NE1zaXY0MHl6ODB4SWtSLTNUNnJKQW0za2JZOXFsaTFxN0NiYlM2RVFCbnlxeEt2LUtQNEVwajRCWHMxMmRUaVNxU0FDUm9UQlR4NmRIVEtKenBMa2xTaGo4WElLTElTc3lWYw?oc=5",
    "data": "2026-10-25T16:23:21+00:00"
-  },
-  {
-   "titulo": "XP alerta para risco de queda em 17 ações após alta do Ibovespa; Magalu e Renner estão na lista",
-   "fonte": "Estadão",
-   "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOQkdXWkxjVDVGZF91YTd0WUgwN283ZzNsVTQ2R19NcnVla0puTGQzY2ExLS00WkxfMzZ1STBkN1NZdHFuTGE0SFpyODV4U2xOVDFQcEdaUDhTbFJzMWI5OXJEN3pEQjhnQ2tqUzlzQTJQS2hPVl9UdGttV01idUxIYzk3NHFQZDZJUUVXZmtNNFF4aFAtSUJKWG54SVVFSk42TDUxZlY0SjUxa3A1OF9Bc1dDYVZYVnVNLTkwcHA2VWxkYVBtY2RWdHpDSVNWakJlV3FHRDl2NExMd1I0N205THZfcjM1Y1hvU0xJYmtMRmZDN00?oc=5",
-   "data": "2026-10-25T15:53:34+00:00"
-  },
-  {
-   "titulo": "IPCA cai 0,32% em agosto, impulsionado pela queda na energia elétrica",
-   "fonte": "Agência Brasil",
-   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE54Y1hGSXU2SktYSDFaS01DTllOMFVwTG9URDdqNkhwbVdybmt0RDJ2WnRoOWViNllGUDl4cVgzanNVdndGTG02X3pCUV9PWERzQ2pMbHc0SmpydUcx?oc=5",
-   "data": "2026-10-25T15:14:00+00:00"
-  },
-  {
-   "titulo": "Decisão de juros nos EUA, dados de emprego no Brasil; confira o que agita os mercados esta semana",
-   "fonte": "Money Times",
-   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQeGR3MS1QbGdyZVE5c3NpX1JoRHA0YnJsS1lxU05DRlNVSGo3TUNqTXdCbk43RTFaTkZVdXVDV3RXbHRYU2xRRDJHUTBvUVBydUF4WFBCTnN5aEJtNDM0ZUVpSU1SZEExSV9OSXFTLW5EcHU3eGpzSExybWRJLTJrUGE4OXBfeHhhNnZobzB6RV9OdWhTNnQ0UmdjM3VkbmctdWdxYWdkaThpVkpTX19PbFQ3VF9SS1FPQmFobjRXWlJGVFBDckFOZjhUZw?oc=5",
-   "data": "2026-10-25T14:50:00+00:00"
   }
  ]
 }
