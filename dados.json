@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-10-24T23:27:54+00:00",
+ "atualizado": "2026-10-25T00:42:16+00:00",
  "indicadores": {
   "selic": {
    "valor": 13.75,
@@ -17,6 +17,24 @@
  "cotacoes": {},
  "noticias": [
   {
+   "titulo": "Apesar de alta dos alimentos, prévia da inflação desacelera de acordo com o IPCA-15",
+   "fonte": "Rádio Pampa",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOaUZneWlscTR6QnMwQ0ctRjVteTVSU1NiT1ZTM0pkQlNNUVF2LTJUbXdrVW90R290QkZYeWVOcDFIVm5jNDN0N05RbjR1bXlMSF9qYmN6X29kMW5VQlEtTWpZQUJOZ0gxcVpmRXlTWVVHVFJkZXVwYzRoaXdhMzB5NUNyTEJCRkFNX2ctdUNEN0p1QTRZbmtMOTJWVlpLOV9UaTFMOXo0WFo3VWJQUE1DbXJjVQ?oc=5",
+   "data": "2026-10-25T00:33:15+00:00"
+  },
+  {
+   "titulo": "Novo governo, El Niño, investimentos: economista da EQI fala sobre eleição e risco fiscal",
+   "fonte": "NSC Total",
+   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOeUZ6YTBqZ1pRVzVVSVlyYWloMEs1WEthdmtDVm5LczFtUDBiUk1wSWtTUV82dFpxbGNRWDk3bjJTdzZRVmRXenA4S3RTazhsT0s2QjFReFN1SmtLODFTZ3JCSXdxcjlUX3g1NHZNWmlBUmhuM1ZwT29OR3N3cGVzUWZ0NzJ6T2RfR25iSzRrYW10RFNhNVNBaTJLdW1aZjF5UjZNYWNOemdhWXZUbURKT0dCVjRKR2dJTUI5VXQ1RVcyU1pxNGtSZWdpd0JXSl9kc1JlQkh5VE8?oc=5",
+   "data": "2026-10-24T23:53:36+00:00"
+  },
+  {
+   "titulo": "Blackhole Rush repete “tempestade de cupons” e acende alerta de inflação em cadeia no Roblox",
+   "fonte": "Rádio Geek",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBFU0w3VmdCWGxfT3N3NFVIN203eC1ucnJnaklEcVR6RlN6cmRYV0FYaE1XNTNFSThGLWVzNGxYaVlBaHItSEJEdHVyd2hjVVFnTWxNS0RWZnA0VTc5RUp3VEQ5SWtCN1VpbnNSYkh2N2RJeVBP?oc=5",
+   "data": "2026-10-24T21:26:01+00:00"
+  },
+  {
    "titulo": "Opinião - De Grão em Grão: É possível ficar milionário investindo apenas em renda fixa?",
    "fonte": "Folha de S.Paulo",
    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPbDRYWVN6b0d0b2xRX3l5UkZXN241Y0NSSTFJVk1Gb0JuOEMzSkkxYzJFTXM2al9IU3BVVTFzSGJtV01VQXVjaVlEdE1XMWQtQl8zeFhCXzFoWlRINmdXaTdFSnZyUmVFQmFYQmg2MGtRbG9PNm5lSVFyV1B6aUdPeFI5TW11eEhVUGRZQm5OdU9TUENlRXBRSnNwenV0cE5ueEozWDdlYkNSNGxDeGpMY2Y5U1VWT0FLNWtTXzBVNFB6cGM?oc=5",
@@ -27,6 +45,12 @@
    "fonte": "Rádio Geek",
    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBsZHBxWHBZZXFSNUI1bC1QWkxSUXZHYkVZc0hncExhRzBBYThldjNKVkZDQjR5LTEyUHc5b0ZTZUhXWE1CaUpBR3JTa0l2SHpOWGRxby00Y1V6YjBxcGV6ZzRIbDdIcnI4QmsxSTdheHhVYnM?oc=5",
    "data": "2026-10-24T20:56:02+00:00"
+  },
+  {
+   "titulo": "Economia da zona do euro desacelera em outubro sob pressão da inflação",
+   "fonte": "Midiamax",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPTldZc1B0UUtXeXhaQlJBOEhBWlhmaVBxcWZDaVhiV2NFVV9YM0xCSG15d0Q5OGNSYXpLVnhMdDk1Rms2WEhxY1B4S0FvOWJnZUFEX2NUOUdVYnN3ckR0MXllZkZVZmRUS0FaZC14RTFRandVSzJmS1FwTkpaUDVkLTZLT25Ua2xiZ2JmaWdpNkRTRWR4djBRRlhNYXRZc2dIV2dERjVUN3VrdGc?oc=5",
+   "data": "2026-10-24T20:45:00+00:00"
   },
   {
    "titulo": "Prévia da inflação cai para 0,32%, mas alimentos sobem 1,01% dentro de casa",
@@ -41,6 +65,12 @@
    "data": "2026-10-24T19:52:08+00:00"
   },
   {
+   "titulo": "Futuro em jogo: investidores da Netflix miram resultados financeiros",
+   "fonte": "Jornal Correio do Brasil",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQc2ViSWpKdEFGVkptazJ2REprUkhEeUlmZEZIdEtyMFpMSlJRVzcxMVE1U0F4c2JkQmVCaldMc3U0dmhxU1pIb2RYbXlhRUhCLVU1RUxERjhIUU9ZS2tnZ3V2ZUlVSUE3SlFTS054SWdnck1DQ01SSTBpb05PcTFyTThELWZPdzBZOWVWdUNtaVZPZDc5T1JpXzZR?oc=5",
+   "data": "2026-10-24T19:33:24+00:00"
+  },
+  {
    "titulo": "Como funciona a reação do mercado: o que deve acontecer com o dólar na segunda-feira após a eleição",
    "fonte": "Gazeta de São Paulo",
    "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPZ0ZXdHdUMG1MQVhkZGtKNjNlakQwQWpxN09iVTQ2aThSMXEzd0JLdl9zS2hPbFB2dkdTQ20wc24wQzJ2QVgzWFpxblJWejRFM1RuRUZaMjZTN3JhcVpVNXhoRHJPNlhTUEhwR3RHV0dQamdQZE5iQXYzUV9laFZQMkJkejJwc01GbUlDb3Y5cU1xZGVLRW8wU05TVlhuQzZlVmFocWp2LTB2UzJ4YkxmSE85cllZb3NGZFg0aFFBSEJtX0FSV05tMDl6VFhWQXQ1WkE?oc=5",
@@ -53,40 +83,10 @@
    "data": "2026-10-24T19:22:38+00:00"
   },
   {
-   "titulo": "Preços do diesel igualando os da gasolina pela primeira vez refletem inflação energética na América Latina e no Caribe",
-   "fonte": "plantaonews.com.br",
-   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOS1cxLUM1N3Q0cHdlV3d1ODNxMXRZV3J4cmV0Z1BTbkdQTEo4cDNfanlJU3E1MmFGUjExZWExaVdxZEZvQ2JrNXdoR0tzWXZrS0J0bVNLeDEwR2p6ZWRfSlcxQmJleHZBUVFyZVB2dkxYekVaZkdYblAwN1Z1WVJobFRadDdmT1pvN1lIR0VKbUwwVHBwNUljeWFUZEQ0SUlReG1fQ3YySWVMSElpVlJrcjFMX1pSZFhGdFFDOG1mQU05Y2tRNlAySE9DUlpVUC1YMGduVDI3c3ROUk5lZzhr?oc=5",
-   "data": "2026-10-24T18:50:00+00:00"
-  },
-  {
-   "titulo": "CSN tomba mais de 5% e lidera perdas do Ibovespa hoje; veja maiores altas e baixas",
-   "fonte": "Estadão",
-   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQdkQyYzJyTVNCc29SSFRMb3FuOWpPcVhDVVZxQnA5N2g2czVjcnZ4TDVVMnFtWDRHa2twNGQxc0NHR3hYRlJPVkxFYk50QmFzYXFWRFVzbVlPQ3dTdDNkR2hjVWZlRGhva3J2N3JjaVlBZVhwbFc3dFNXOWZ0Nk5qbUhIbDExSk9yTHB5X3ZrUjFYWUg2N19RMDJHRzZjd1FoNTZXbjhoRDVRM3VQMktCbjAyZXlSd1RQc2x3RXc5RHNVNlRNQnpCaFpNYlRFWU1jRGJTWDVUUjIycDB6enN4ZndB?oc=5",
-   "data": "2026-10-24T18:44:50+00:00"
-  },
-  {
-   "titulo": "Bolsa sobe com perspectiva de vitória de Flávio e dólar fecha abaixo de R$ 5 antes do 2º turno",
-   "fonte": "Blog do BG",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNQmJBVTM5WklsRTBmbDdqUlQ5X0ZOLXZhQnJOWXZhLWR0UFB3TE45LUJCbnFFUU9xMjl5cjBkdkVDMm1CcDRFUFBRTVF6ZzlPYVN1ZzdEMGNFMm95NEJyWVIwaTNMWHZQc3UtZWdmcExiNTRXcWZ4SWlfSlBfR3lkR2FELWxLcUxQeHdGazlqTXE3RXo1TDNYNC1kOE9ROENTZGVXbjV2TXFTZG9fUXczdVhKVXBBc3ZXbzc0YVF0NA?oc=5",
-   "data": "2026-10-24T18:43:08+00:00"
-  },
-  {
-   "titulo": "Lula e Flávio concordam em mínimo acima da inflação e em mais 6 temas",
-   "fonte": "Poder360",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQQjk1M1ZHcm9HVU00c1pSTW10cnJiUWRGekVidUFfMXhGRFZ0RS1wdnFKRTVYeWtZOVZoTlVFYTZ6TVloYVlkRjlZYlJBejdpMkJ1STBiSE9sQ1NmMFZaSXgxbFF0WkpMQWdQYUVZM0JrZ3UxV3lsVkNreWgwdjhGR2JweWN5OHlsV1FrTjk1VGFQcTF2NHRmcFk5b3RyaFdlbUhEZHRaNkotQTBlSE5ZRlZFQmR4Mk1TMGc?oc=5",
-   "data": "2026-10-24T18:22:46+00:00"
-  },
-  {
-   "titulo": "INFLAÇÃO DESACELERA NA RMS, MAS ITENS ESSENCIAIS SEGUEM PRESSIONANDO O ORÇAMENTO, AVALIA ECONOMISTA",
-   "fonte": "Bahia Econômica",
-   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPd1ZWNnQ3QlRudzFONFQyaGVrWTRmd1RXMHBhWTNnMjhnQTVPdTgyekN1OTdMOXd1YUVnMEZIWTJnSmtBdXFmR0pRUlE1dlZyRWpBcDlKYzF1UUpEZ2VhUGVESTRxX3FLa0NaOHhyWFRnNGp0S3BSNUVTSmtXaURlVElNTTFvZFpuYmYwd2VpbE1LOV9ZaVgzQUZLbzc4eFVmcGtzSXJFTkxFQko1MjE2TDhkTkhabmM3VnlRVlJuOWJ1amczSVI2SXJGdnIwWFR0Unh6c050VkJjVVJraDRxdDFaVXItY3lLd3c?oc=5",
-   "data": "2026-10-24T17:53:52+00:00"
-  },
-  {
-   "titulo": "Militante critica propaganda sobre nordeste e destaca inves",
-   "fonte": "Blog Milton Figueiredo",
-   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPT2dqam4xdy1uWVZFQzZUX2hGSzN1VkhQbTV2UG5CVUJLQU1CeDFxRkNEdG9STXRya2g3b1hjLVRyLXVEUVVubkVnWi1aU2RtWGZqVlNqQ2NZcWhBT0Z0RG8zME9BN3Focng4VmNiS1o0RjlxYk1NNEFWUE1ndzBnNXQ5WHhyWk93SXF0eEdSbVVkQzZaeUtwRVkyRHBVVlRLT2psMDYtQ3FyVEhuUXJ1OXFmaVBiUG5uV3JpTlV2S0xHZG02MVRXVg?oc=5",
-   "data": "2026-10-24T17:49:42+00:00"
+   "titulo": "Arapiraca completa 102 anos com inaugurações e novos investimentos em serviços públicos",
+   "fonte": "Tribuna do Sertão",
+   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNT0twcGpkZTJjdlVLVy02cklxR2JyeEdwZmNTazZHTzhrakpfdWpaaS1kdkYxaThHOG9JUWhKRHF5d0ZZMmh2aHl0ZHVJMWh6VVVJSFczYWJ0QlJDcTJ1TldrbGpMU2d3SmtOX1JQYXZlYWcxTzJxQnRXVkZKUlE3WmRBbGFtcjZCZE9mWm5DdDVkTl9xcEd5TFF5dDRaSkRhZUN6MnRtS0U2NzhLRThBOERrU1NnMl9tUGVyZFg4bFlTNXNqMnR3TlBHUHFJNnZqZGMtVG1OWU9JTlhORkxYTzBWdw?oc=5",
+   "data": "2026-10-24T18:56:00+00:00"
   }
  ]
 }
