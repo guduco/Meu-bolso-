@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-10-25T12:38:36+00:00",
+ "atualizado": "2026-10-25T13:34:40+00:00",
  "indicadores": {
   "selic": {
    "valor": 13.75,
@@ -16,6 +16,12 @@
  },
  "cotacoes": {},
  "noticias": [
+  {
+   "titulo": "\"Dólar e bolsa: por que muitas vezes caminham em direções opostas?\" - Por Fabiano Mapurunga",
+   "fonte": "Blog do Eliomar",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNNHFtUlQwcjlYWXdwSm9XeW1tNE5qZTJsdk9tejJlQjRkM0tDYnFBbmlqemFhbng0QlU1b1g2T3VDX3I4QTh1ZEdvX2Rtbjg1dUI4Y0VUNnl1bXVRN21aRlR3V0FZN0RVeXVDMXZzbjJXWkRVZmdpQU5CZkhDRFZQbXlHRURZX0JaaUlHbUlGNnNsZXd0aGo1Sk9ueTdINDFNdk9qVEtCXzdWRXRlRTlvY2F3?oc=5",
+   "data": "2026-10-25T13:00:30+00:00"
+  },
   {
    "titulo": "O dólar continua dominante, mas a infraestrutura financeira global está mudando",
    "fonte": "Portal Diário do Aço",
@@ -35,10 +41,28 @@
    "data": "2026-10-25T12:07:00+00:00"
   },
   {
+   "titulo": "O combate ao tráfico nos portos exige investimentos além dos terminais",
+   "fonte": "Estadão",
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOOXBsZXl3Q0lHd1hNaUZoUF9OaFA3QzhrZkNzc2ZncENnOFlJUnh5a3JuUWhIWjBxZVI3bW9tRGlURFpqbEhBV0E4Qm5EY1NTUnJxZlFLVlh1a0Y5MzAzeXBQcVkyd1lva3JlUWpUaDRsMjlranVSWjFZN3E5X0MxNlpRWGZONUs5MVN4WTBDNXhTT3dJMGJRNHhYaGkzdFpsZnRWNFhNUDJMYXo4SVpYMWc3RWpjbmlSSzI4QzFjN3VIT2NCT3F1R1lsNHR6UlVnT0I0?oc=5",
+   "data": "2026-10-25T11:42:00+00:00"
+  },
+  {
+   "titulo": "Códigos-relâmpago de Sword Hunter provocam inflação de pets e reescrevem a curva de poder no Roblox",
+   "fonte": "Rádio Geek",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQNElBOHduamtHQjlnOHN2Y2FVQVZMRHRRQjhyRFNTRWhHdTJLWEM0NzlMRzNvODBncWZnVER0bnhEM1JSbHBOZjZoSGh5RHJZMVBJaFRlWTQxMUJhNzBPR3hKbXBiX09yWDhWOTY1RElyclNxZV9mQTg1QUR3Q3VKUXM0S09oQ2tm?oc=5",
+   "data": "2026-10-25T11:41:12+00:00"
+  },
+  {
    "titulo": "Investimentos em drenagem e pavimentação contribuem para o desenvolvimento de 29 bairros",
    "fonte": "Prefeitura de Campo Grande",
    "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNTzNjaDZOSkdwWTlKOXJ1d043NERkN0tRTTZQQkl6Q3V5dldfaWNaekQ4LXVfX3FYeHdqbVdVcW5xYTJWSUY2bWF6UzNMUVZzMnBCX19qdmZ3cllfVEktcWJCMFI5ZW8wa25fbXE4N3l2RlVkdElrQUdUNDVKVjRFUndObjVtdGFfbGZKRUF1MDRRN2tGOUpfWlc5elVJU1hWVzZQUEVHQjFpTklnNmJlUmtzbEFnR0ZBVzBsaUQ1SnNqYWxPcjkwazlZWkJqMmNKaE1hNnJvQWFydw?oc=5",
    "data": "2026-10-25T11:13:00+00:00"
+  },
+  {
+   "titulo": "X Money chega ao curtir, toque longo envia 1 dólar",
+   "fonte": "Pasquale Pillitteri",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPbVFVWnVlUkdpV3FwNXMwbzFTNjM0d2dvYmlOakVnUjhmZmh1Vk5ZbnVHLWpjTGRjS3U4WEhYQTdJdjlqcWh3aThRRU1oSHFMSnBkUkVqRjlIWVp1MWlhaW8xcUpFTnZERVRmZjJWYUZFLUUtMmVmUmtORERNeU1iY0NZdy0?oc=5",
+   "data": "2026-10-25T11:10:49+00:00"
   },
   {
    "titulo": "Inflação dos alimentos sobe em outubro; veja o que encareceu",
@@ -53,40 +77,16 @@
    "data": "2026-10-25T10:50:40+00:00"
   },
   {
+   "titulo": "Ibovespa hoje cai quase 1% com pesquisa eleitoral da Quaest; dólar sobe a R$ 5,02",
+   "fonte": "Estadão",
+   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNd2hqQVNpMnZhU050TnpQcU5DdEZQSHZfQmFzVnlrcG9TYW43OVp6SVRiYnkyeTBZbjlaMHJmOTg1QUl0SG5IQXBVUXctQkNCQjZXcVptMFlzOE8xTUVyVl82N0VsZjAzSGdQRjJpUkNseUphZWJNNEhnXzA0ZmFzbWpmVXUyMWQ5LXpwejNYR1pwLXlSUWt2N2NaWHF2dGZQMGtSTERuNllYd3NwLXRsWUJDa2hqdW9wcG9LYm1UTW11WVR3U29YYmVRcHdhY0lraXdSMlRQV3RNclpTcE0w?oc=5",
+   "data": "2026-10-25T10:46:47+00:00"
+  },
+  {
    "titulo": "Códigos-relâmpago transformam Drill for Anime em laboratório de inflação dentro do Roblox",
    "fonte": "Rádio Geek",
    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPVnRROFA3RVpRcl8zQm9KUWc3a0k2SU1EMFpZSTVuWEQzRWhnYmFKX3A2NWZYbzlCRk5PNDVURWZ3a21HdzZQWkdtZlEzOEtNY3UyM2tfbDlTbk1uNGhWRGV0Mm9TOWxOVkdJWjh4ZE1WZ2luQlUzU3RxWC1LcWFUcVdfd19fUzUzVnM0bzBuWUlvTFM5THM0YmlnLWYxQ2w0LXc?oc=5",
    "data": "2026-10-25T10:26:58+00:00"
-  },
-  {
-   "titulo": "Juros, inflação e contas públicas: por que 2027 pode ser difícil para o Brasil",
-   "fonte": "Folha Vitória",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQbFRIbndEQ1F1NVJzdlhhcWFqWWtsUm9IcEtjQzF5ajM5STRvRHFoNU02WHhRdDdCX3JLS1llXzU2ZHREaGJvLVdpUXRxTEF2dng0OUpxRXRZUjNFWVljSTNWYlVKSU9IaWZjSUlwNlhUSkJnb0dWNTB5WUQ4Y2x4MmRkWXVpQTFsWVMwd0NoODZ0aFkwd3RkZ3lLS09MUmhvZ041UlJfWE9aU2FtX2JmVkRqUDlmZGlremc?oc=5",
-   "data": "2026-10-25T10:00:00+00:00"
-  },
-  {
-   "titulo": "Dragon Ball volta a discutir poder absoluto — e o novo ranking de força revela a inflação que ameaça a próxima fase da série",
-   "fonte": "Rádio Geek",
-   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNZ1d5emhON201Vjk3bWp4czVveVEyOU5PMDllU1d3VmdGc3lYRFRyRmRsU1FqTzZtX3NKenRJUWl2bXhGc21kOGNnNTVIbktrWGcycndYdndMN3ZzcnhDVGZjdVdPdXZ0VC1SM0cwS080WnVlT0VhY2RKZUtZeFduSVkyZXNmQU5kRkNicGd5MmhqT2c?oc=5",
-   "data": "2026-10-25T09:41:13+00:00"
-  },
-  {
-   "titulo": "Senadora eleita Carol De Toni propõe revisão do pacto federativo e da reforma tributária",
-   "fonte": "Portal VV8",
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQaGJuVDNmQVJiN0s5MnFKYkdJNk9qQVBXY2p1MWFTMTNRVDdwODMwYlZ3VXlWTmlBbnF5R1JWTVpQQ18yUXNaZFZ5cWh6MUN4ekZjN3pnMDdHWUt6bjJaS0RlUHNLTFdrNDV4dWJBbmxRdWxPazF5aU9uTGc1VGF5U2FEZ3lPUnBHNG44UzBITEdWaU9jUDlWN2o4UUhxTnpwbDdFYWFRU3ozQjR6MmVHbVBLRWMwdjdMWFFVdFlfWWR5UDFuUkE?oc=5",
-   "data": "2026-10-25T09:34:13+00:00"
-  },
-  {
-   "titulo": "Belo Horizonte e Espanha debatem parcerias para atração de investimentos e cooperação internacional",
-   "fonte": "Diplomacia Business",
-   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNeVFCdGNNRkdCcnZJT2NZdk5TclNuZ3pqZmdaRW41bUEybVpmX21iek02U005c1BPZExZWEhKNk1iR0NwOVdVSFhYSHF5NnFVWFBySmJEVU5oNlVtVDhLZVBNWXB4SHZmdkdReUNjbG5YOXpBd1pYSFpXdlk1bWtFQXVFdkVWQTZ3T01ad3hWLWZBVXhZY1hfbDJYb3RQTEVUbHczYnJ4UjRQV0NCdC1xOEhPYkQyX0Z6cjVyTUNmSGdwaTY3TnhIeFlhbVktMlJleHhreDNEVVVZQQ?oc=5",
-   "data": "2026-10-25T09:03:19+00:00"
-  },
-  {
-   "titulo": "XRP supera 8,24 milhões de endereços, mas segue abaixo de US$ 1,40",
-   "fonte": "Cointribune",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNS1pVXzA0Y2ZtNEJWZ2g1TTBwRFBhakw5MjFaQmpudC1OZUxrVnFTWnFpbm9icmtjd19adThVdTVQSGlHaEFKbG5Nd3ItdmJZdjh6RE95eDdiQXBmcTNyS2g0c2hWM3RiNUlvdERzMTUycFRSOG1QZDc2NFZoZUtoRWdRT2FfakNpOGxDZnMxZUltelpQcEJmcHBoQWhPdw?oc=5",
-   "data": "2026-10-25T08:15:00+00:00"
   }
  ]
 }
