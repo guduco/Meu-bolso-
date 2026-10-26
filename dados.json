@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-10-26T05:38:30+00:00",
+ "atualizado": "2026-10-26T06:47:42+00:00",
  "indicadores": {
   "selic": {
    "valor": 13.75,
@@ -16,6 +16,18 @@
  },
  "cotacoes": {},
  "noticias": [
+  {
+   "titulo": "Dólar cai a R$ 4,99 e Ibovespa sobe antes do 2º turno das eleições",
+   "fonte": "brasilagro.com.br",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOTFpRVVV0cXZaRW5lWUpUT1BRWUdaV0tId1E5a0tneTFITFkwMEFsRWo0SXEwMFFVV01PQjhaaC03ZEJfaFM1LU5MT1NGZmJubDN0cmhFdWtTUlVUazJnbzd3cFF3MllDZktfam4wR0JVbkluOTRqcm10dDdDbXM4Yll0cFNLd01HM1RVLUxXZW1BYXd3cWh1YkdmdE1fWkNEcW41VlB3V09OSms?oc=5",
+   "data": "2026-10-26T05:50:10+00:00"
+  },
+  {
+   "titulo": "Homem perde mais de ¥31 milhões após participar de falso curso de investimentos",
+   "fonte": "Portal Mie",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNbGxEWE5maURDYVBQbXlkc21mcEpkcjh5WUpCbC1OUkdQdzZlSnh5Z3kyNDdNbzA1UzBscGxLa0R1dWJOZmROU3V5R0g1RENfcHhsV0FRZ21HRjJyUVAxVG10UUNFSVZsZTRYckViOGJOV29obS10ZDJPMDJYbndoTm0wWXpNSTlJUFBQNERsZUFUaHBHR2ZRS0x3YTgxMkZTTU5YS0xjb3d5bFFTU2h4VnVGTHZ6RWZ4aWJ0VHgxUmZKNTQy?oc=5",
+   "data": "2026-10-26T05:47:59+00:00"
+  },
   {
    "titulo": "Taxa de câmbio do dólar hoje, 26 de outubro: a quantidade de dólares nos bancos subiu ligeiramente; qual a diferença entre comprar e vender dólares no mercado paralelo?",
    "fonte": "Vietnam.vn",
@@ -65,28 +77,16 @@
    "data": "2026-10-26T03:42:56+00:00"
   },
   {
-   "titulo": "Eleições: Dólar Sobe a R$ 5,60 e ETFs do Brasil Caem 19% no Pré-mercado",
-   "fonte": "Forbes Brasil",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPR3hhTmVLSVd6WnI0VmZnbVhYRHRnakVIVXROdXd2ZkxDLVNGNklkdHhPblpiM1ZlRXVQTnZpempkdU9BVDRrOHJxeFRqOGN4Sng2ZENGaFp4eTJ6bVZ2RUh3LVZtWE5YVjhpRWdnSl9pVkYxUzV6S2djakZ3UGM5TVctallheHZ2MWJhS2VfdUtOczFDMXNnODVMWFVwRmdVYWt1SGNIUnZjdUkxR3VBXw?oc=5",
-   "data": "2026-10-26T03:20:35+00:00"
+   "titulo": "Real registra forte desvalorização no mercado internacional após reeleição de Lula",
+   "fonte": "WH3",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQamtMeVZBZjN5UkJTMFAySm01RS1zbkdaMUZIYlJxUUxkZjA4LUVoZy1Ja3h1NndWaVc0LU5HZ19vVzNxTHp5Q3JlcjRzYThjZEpraUxiZDFtM1djZ1N4YlN3ZUt0VGEtbUxHa2NTNDVZLVlHZFNIcURWQmFaOFhlSGd2anJTaHJiZGx6QlRWSEE2bDZ0bU9NWWM2YVZjMjV1MEFXN3hyaURRaWRGS1VtdUJOM21pLXBBN2drOTVR?oc=5",
+   "data": "2026-10-26T03:30:00+00:00"
   },
   {
-   "titulo": "IPCA-15 desacelera para 0,32% em outubro, mas inflação em 12 meses chega a 4,62% e supera o teto da meta",
-   "fonte": "Conexão Marília",
-   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNVUtYUDNCQV9xZG41MWs2eGxVWTdBQXBMVGdoWEd5RUx2Z3h0ZkMycmFTcElGc3paY2o2UmQtNkRpTDFPcXJOaVNpM0pXYV9YZXdGbjVaM0pOWTJWUzBvLThZcmVGMzlQQXVSVU81Q0FwOHRfc19TeUdCLXJjUmQ5NjdkVzBUOWg1TjRiXzVYZXR2Rkh5S19lUllBYnlmcTJOR2FYR0UxbGpManFOalBzX3d4amgxb2xKa3hPQlVXcHhQZHA1ZTFXbDFNclNmdFBPVGlya082TGk?oc=5",
-   "data": "2026-10-26T03:08:29+00:00"
-  },
-  {
-   "titulo": "Real desvaloriza 10% no mercado futuro com reeleição de Lula",
-   "fonte": "Poder360",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNRTZBYVltVExsNzZvMVh2djJXUWtmSHkzZUlQREYzVGtkWTgwYThxWkNZdy0tN0JES2Ixckp4QjhXTDh1d3VZLW9DN1FBVGtOTlU5ZlJ5N0ljQUhyMXN0cTRpdlo4YWpMV19NQWdmbVoyc0tPT3lNc2pFWGlmQ0FQT1QxNHBIYzlXMXhaS2h5d1d0QmoyYVBPaHZGXzlSS3ZiX19FV3h3?oc=5",
-   "data": "2026-10-26T03:08:23+00:00"
-  },
-  {
-   "titulo": "Reeleição de Lula coloca comércio e investimentos com o Japão em foco",
-   "fonte": "Portal Mie",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPNFVvTGhpNWVGcHFRU0lkWjFRbldMOExrYzNraTJXajY4MVVEWGZ0ZHpnWE9XLXFaVUhXR2M1eENnTG9mMEs2YTZzTkFSNld5cWZCbHdNMHNDTTNfd0M4dDlyNmdxOFdzS0tTNjBxcVcyUl92VXhBNkI3VVpEYjJJRC1HU2YwUXRfSmVfaHI0eks5VG9WeGtBSFQwNVZJWno0MWxuTkh4U0hvREctY2pDaw?oc=5",
-   "data": "2026-10-26T03:03:53+00:00"
+   "titulo": "O Ministério da Construção solicitou a liberação urgente de verbas públicas para investimentos.",
+   "fonte": "Vietnam.vn",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQTVJ0N0NtT2stZXRIQmdzM00xQi1YNExMTEhxUDVkSV82bnNRTTNPelF1NklKMGRVNHFvcEJpOXpWZWVCY0NCSHd3T3MxTnJwSlZXUlpPLVNXemltR0oxQ3pDVnNWUmt4VnVWYUhOUTQtUGVLSlpGU251TVdpVmtUTUlsYlFCR09vRmxV?oc=5",
+   "data": "2026-10-26T03:29:56+00:00"
   }
  ]
 }
