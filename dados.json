@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-10-26T11:45:55+00:00",
+ "atualizado": "2026-10-26T14:48:18+00:00",
  "indicadores": {
   "selic": {
    "valor": 13.75,
@@ -7,7 +7,7 @@
   },
   "cdi": {
    "valor": 13.65,
-   "data": "22/10/2026"
+   "data": "23/10/2026"
   },
   "ipca12m": {
    "valor": 4.58,
@@ -17,76 +17,76 @@
  "cotacoes": {},
  "noticias": [
   {
-   "titulo": "Focus: mercado reduz estimativas para inflação e PIB em 2026",
-   "fonte": "Revista Oeste",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPOHQ4STc4LU9za2dwYzdZYWl4QlF3U3RNTG55dzA2eEVIMF9qZVM2amlsT2F2ay1oYVhvd2lyTHZfSlk1WHY2dEZSaF9JcmRka0hIVUVGYXdnbTFHYVB2SjE1U1hFeWRLM1lVOGUtcWEtcVgwdndxdjJubVNkSE56RUNXNVR6NUxyZ3Q3UmxkdGdCbklzX0M3NWtB?oc=5",
-   "data": "2026-10-26T11:39:35+00:00"
+   "titulo": "Tesouro cancela leilões de títulos prefixados e atrelados à inflação previstos para esta semana",
+   "fonte": "Folha de S.Paulo",
+   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNRC1DOE9IVFlsR2JjanM3YVNKWmYtU3FSLTRkbDZQaFhvMlFqcjdlYUFjWVVGekkyWjNaZHoxWUM3VENrRDZoUjBBcVlYUE9BSm41U3NpazYwWElac2Zyb0hNc2RoWTRSZV9KWUZZd2hzR201OTdQLTctVGp3Qno1MmdiNGlfVDZXcTRnUW5kc0doVnkyWlA3dUlxemkxU2JSajhlVmM0VUZWeEZ4ODdmMnFRdVJIN3BKcHZvd3kwMlVwRzZQYlJTcFBXNTRHbVNWc2VYLVRBVnpHMVFKbmdJXw?oc=5",
+   "data": "2026-10-26T14:43:00+00:00"
   },
   {
-   "titulo": "Mercado se prepara para reagir à reeleição de Lula, e dólar, Bolsa e juros entram no radar nesta segunda; entenda o que pode mudar",
-   "fonte": "ND Mais",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQYUZBWGF5eTRmTUVveldTd281RHhOSmN3SDVpaXRiaEZ3NGpxRGYtcFZIZkFnRG5yb21NN0lvOU9MdjFuZDFUSG9acGZUcEVqd0V0VjljSlYxRnlMVUhNbVBpWUVyaWVJYnBVVlUyMUd2bXItejZFNUlYajNWbG5BZTBNX2VONkY1bDc4SUtWN0ZxQQ?oc=5",
-   "data": "2026-10-26T11:38:52+00:00"
+   "titulo": "Prefeitura projeta R$ 1,03 bilhão em investimentos e apresenta superávit no 2º quadrimestre de 2026",
+   "fonte": "Diário de Goiás",
+   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQTGtLck9tem0wUEZRWjNDU0pEZi13c0pqYnoyajF3S2dPaEliQ2lqOGlIaHJQRlc1eEtTNHlHZ2x0SEpnWDd1a09FMjVwQktTRmViUjFUVTRsOGNWUlBfVDU3VG9QVGhDa0U2aVpMSUVOb2FSX1RVTGtNSkZUYk9ORlJ1dENlLS1LMFB1Y2V2bFNWcmJLd3ZEYXNCejZhTnBsLUR6VDQ4S0N4TEJ2Rk0wRkRiREc3eWYyOU1Mem51Zl8wRjlnbVRBRjBuR3g1LWs?oc=5",
+   "data": "2026-10-26T14:42:57+00:00"
   },
   {
-   "titulo": "Economistas cortam inflação e Selic em novas projeções; veja o Focus desta segunda-feira (26)",
-   "fonte": "Money Times",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQV1dUeXk3NmpoY1N5czNVdWlsQWUxc2l3ZXNaVE1rWWtIaGFCMi1PQy1lampGMVlxME5RdnJzMmdmVFJabFNQUWZXekxwZzJKbm12QjB3LTN5QjVGWWpwdFQzQWdvbXQ3MFliYld4a2Z0XzZqSUhWb1plWTRfbFVIbFRzM0JGUGRzbHY4dnpBUlFuSTQzRmFhVzFGdEtQbE4tQkZKTklkSFppcllUS21RQzQtWnF1eURTV0tXdUJn?oc=5",
-   "data": "2026-10-26T11:38:00+00:00"
+   "titulo": "B3 altera limites de oscilação dos contratos futuros de Ibovespa",
+   "fonte": "Monitor Mercantil",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOdmJVcTB6dzlVWXdXODM1WHhRTmV4aHpRYll6Y2JaQnE3MFdncy1pXzItdzhIOURRSGdmTzdmTUlvc1hHUUJoZkNmTnhmZUZxTUptTVN6U1R1VVJhX3RwM3Zybld1NmNDWU1XYTNKSDNab3NfZVc5WWVNQU1uU3JmbXFiX0RtWTNoemxJZEowbGZGbmFpWmNvTkpJUDNNdw?oc=5",
+   "data": "2026-10-26T14:38:51+00:00"
   },
   {
-   "titulo": "Dólar deve disparar 6% e bolsa deve ter 'circuit breaker' em reação à vitória de Lula, diz tesoureiro da Travelex Bank",
-   "fonte": "Money Times",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPTDg2b1Bsak9lYnBwWXNSdHc4X0Q0a1B1YXlfRXpuNVRETDJFZzFtWEJOaG5qbWFNRngwZTR6YzNoSEpidFdKZ0RaaUxzUkxzaGFCTGNTNFRGbWR6MHZEd0x6Vk9JQXo3ZHVxUU1WTDlKZ0MyVzg3d2pFWUhCTGVJM1U4VWQ3bHJjdDdwT0EwSXplYjhyMnB5WjVfc21yY1lCWk1UNjhfbjRnaHA3ZlB4T2RrM1hWT0Vr?oc=5",
-   "data": "2026-10-26T11:36:00+00:00"
+   "titulo": "Mercado vê fim do corte de juros e discute possível alta da Selic",
+   "fonte": "CNN Brasil",
+   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQMzhGcXRvZ2RQeExBMlBJaTVFS2pfZDhkOFU2ZmFrZGREb2VzUnlkUXUyTGcyUHpqZ3JJWUVGZ2JxX01KS2lYcnN4QWtRQmF5eHNrbkxFNHdlZ0lIWW1XZC1rSEYzUS1FM0UwSUR3ZE1zZWVoRTdOczZveWpid09EWlNLbVRFRm9ybEYxbnVVSE0zSHlCYkhvNm9Ca1AwdjRjVF9SNmh0dkxneEYxZllDcktURFFmSUx1TnRFeFJhaXA4a2t1M2FYTEhISFluV0JGdVpWenlSOVNPdE9F?oc=5",
+   "data": "2026-10-26T14:38:47+00:00"
   },
   {
-   "titulo": "Reação no Exterior antecipa dia turbulento para dólar, juros e bolsa de valores",
-   "fonte": "GZH",
-   "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNWUpqUEVIdjlkM2lkWHcxUXYxTEpiSklJQkNzVzhYUDREX3N6NFlKRUw3R3BaZ01XQWRsZ0xTci03ZjIwWEJZWDN2dDhGSHpaMEx0SmkxUks0Y2JCQ3pjcmxJTUVEUW1VT1FzQWdMR3BxQ1V1YVdDSGYySEZkRXQ3bi1RYlVGZTBQcTMtcTVKRkdlSC1mNm5IU3NycmQxT3VUeTJydEt6cjM4OUo5TmV5LWJDRzh3SVY1cTVvbEZOOFIzdzNHdVV3XzVaRU5PRU5FaTJMNlJfZWVqdThUOXJoOVBBRGlzX2VVT3JtU2ktc0VDT0pFWGRZdTFsdFBBSzg2T2NZUGJyVEp1NWh5TWc?oc=5",
-   "data": "2026-10-26T11:35:57+00:00"
+   "titulo": "Bolsa tomba 16% depois de acionar circuit breaker",
+   "fonte": "Poder360",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOTlR4dmpiVzNNRDFoTlZoWHhHbU9Jd1BiRlAyd3RGX2JNRlR1Vkw0cmVkaGRMZm50Qjc2YkU0amdZaDdmdVpRLTNNejEwRUpEMzBTUnRnM2ZWMDZJaTY1S3pHQ0ZzcTk4TlhwQTRscl9xdXdjMXE2SzNndWh3eVRkd3lVY1FvcC1LMmg5YkFvSkhNdUZOV1hN?oc=5",
+   "data": "2026-10-26T14:37:30+00:00"
   },
   {
-   "titulo": "Mercado financeiro baixa estimativa de inflação e de alta do PIB neste ano",
-   "fonte": "G1",
-   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOZmdFek1aeHliTW1SUHdUVzhkcDl1X1RVbVNqWmprSVVOcVppZ1dZS2I3T3JhTmI2SnVfZ2dnUGR6cVVMUGJHQmxkTHVsM0NPQlZDbm1kc1FkX0I4SG9mSmt4cnhMRXBIYlVLNm1adlU2bUdEMVFBakJOX0pNbnI1dVFaV2ZhYWJJV3BWLVJURU1adUUyakY4ZDdwZjBIcGQyOXFSOVJveXdCWlZGM1ZoNVd3Z3RwRHlUWnp6aHNOSl9za1Z0eFFPV9IB1wFBVV95cUxNWXBFQjdNZnQzdDdfTWplQVltWThsb3BvZUxBYXVTa2hFUTNnWWR2MXRoRXR1ai1zMm54emJmRWZna29mSHA5UTdCMTJFNE1Kc0xVS3hxMllzVXc4cm5uaGNNQXp6OE1BRm1BdlQ4VGswSktHbGNpY21ZSEcwc1pGMjFCaUdQZkUyUURPVzNqVXBoaWVCMnN0dmZkTUNWamhNM3gzcTJyYlhEN1ZYUENZYUp0Y2gzVlhfaUZfTmVFRG85dE8ydkhHWjVveDVBZ2dvUE5pMllCSQ?oc=5",
-   "data": "2026-10-26T11:34:42+00:00"
+   "titulo": "Dólar hoje sobe 8,65% e supera R$ 5,40 após reeleição de Lula",
+   "fonte": "ISTOÉ DINHEIRO",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1DT3B4eW5MTHBmRFdVOExkZWtoUGR6LVBQVjZIV0xTTHlMVF9wV3JxNjJkLWxlcnFPSEF4MjNrRlV5TzZpa3ZGZ1FXZ2NiamhTQXBTZG1QY3ZDOE1tQXdIVlZtTkxNbFhyY053Rkh1OW9aYk9naWc?oc=5",
+   "data": "2026-10-26T14:28:32+00:00"
   },
   {
-   "titulo": "Ibovespa deve cair 20% e dólar ir a R$ 5,50 nos próximos dias, diz JPMorgan",
-   "fonte": "Investidor10",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQcEFua2g0S3BzY1ZJMEk0T3VBbkhXaTd5WUZCNmtSWXM2X3E4cDVzQUlFdkd1R1JjamV1MnY2M1lQZnRENGRXbGJacDJMaV9mRDZjSU12eFNXYk1vVWdod2pWcTcyanlYTjNxaDJ2NkI4MVhrRVRWSFlyXzZJRWcwYXdvLVQ1amU4ZEpFVjd1dlNxYW9waXBNVVByVFNuR0ZZWkdMcm5DOEF3WFNoTnZ2RHZEZG1fR3BL0gG-AUFVX3lxTE9KQ01RZEtMbXZPSHRZZE5CekhGRENlZWlac3pSdmFZdUt6X2g5MXNYMk9kNVB1YXhfdTRXMmN1NzJiZnNvdFZ6LTlEQ0d0ZEgta0JSNWFlVk8wU2tBc3B1Q1VDME1jaW0zMGdmYzhudkhadW1SbUlUXzlMbzJVcDB0bzZXVE1kZmViS0tsVWN0dUl4WVVkRTB5WVJqLWdPdEdiRXdLLVNQV3ZSY1dBOE5GdDZQaFlBUW8xODdFd3c?oc=5",
-   "data": "2026-10-26T11:34:00+00:00"
+   "titulo": "Dólar hoje dispara 12% e supera R$ 5,60 após vitória de Lula; mercado teme risco fiscal",
+   "fonte": "Estadão",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxObXVkQVJKOW1BU09lUERuV0NLa1lvZENCdlFXSUlHWV9OeXFRYXFWeWF4eUlDMWpSZjBNWWdFY0tHY2pHMGZNZjlZeE5rM2xld3JBLU1SYjBlc25yMVZEdnRmQUhjbE03Nlh0TEFhdHFlU2FmTEh4X1VqX1BEUGdQM3NmdHhmQklHa2FxU1Z1Z2RqODVvX1l0czVLbDQtaXNQd3k4eDJBS1JnRUF3Tkg4WlFtTzAtR1Z0NS01RklBNEdzMnhM0gHKAUFVX3lxTE1kUTFKaVc0NG8wbjdUTlRSRVNDTm94R0dtU0toT3FuUVlnM1I0RjZRWEVCTTNuVml1SjZVUC1mVURoTXIzWWR0d1ZfbWRzTWpTSHRhRlFMVGNGVFE4VWpNeUNqQU00WjYycE5KSnMwbUl2V2FOd0hWUmF1cTdIbVE3VmhuVEdrdWJSbG14RHpRemd6SXpvdnlHUlZXZUhtZG81SXcwSGFNNG9IcC03a3JiLUtKaW5wN01iYVJhWjVabFNvSFc2UDF4Zmc?oc=5",
+   "data": "2026-10-26T14:28:16+00:00"
   },
   {
-   "titulo": "B3 amplia limite de queda do Ibovespa futuro para 15% após resultado eleitoral",
-   "fonte": "Valor Econômico",
-   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPVXJZc3NERERuTHVUZkM4UzFRMWtPa1dhZTR4N25EV202T2s5NnNyeDdJaFhXaGhPdU1iQ01MaHFpXzY5ZUxQcS1RQ0xuODczblFKaXEySGFRYXRhdmdqSXpqWXpRSGVCTXBPa25Wc1Y0UWRfNTF4Wnp5NjF3UDY5YXZiOUJzSFRxOEtSTlhHa0NkVzJLcVUzU3pRZXpmY01WUnNaZXRGcFRHQ0lVNHZUOWRhNlFTVnRpc0tMdmNuTjZxZ1Ftck15b1pGUXF5aFI3cXJvUm5RYzNDRnFNTVlERHpoTTNSRUhU0gH3AUFVX3lxTE5hNC13b1k3M3NlWFhMX2FWYlZibERtMEpsLXktbGFvUnE0ZUxEcXBKRWJ6MXNGMDFQVEpZZ3VNM1hPSzlRRVFqU183bmpTd1dpbWJ1cld6cklEX0NsU2ozY0xzTGdtMFYtcndkeUIxMmxOajFJeHl3d19hV2JkVnVqWkJfN0xxNnFjVXhYZkd3WExPaWpQTlJVdDJaZnhEbTNTWENfSjhlczVlaHMyZEttcEVvTmxvOHhFVjVxRFZTNHJBOUU0N1FJRlQxaDNNLU4yVzJtMW90RDNJMFVWYzlFWFZqTjVzcVlDYzVKMjlKT1pwenQ3T2s?oc=5",
-   "data": "2026-10-26T11:32:26+00:00"
+   "titulo": "Brasil lidera ranking de Turismo na América Latina, mas cai no global; veja análise",
+   "fonte": "Panrotas",
+   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQYzc5WWtjT1Ita3pOeUdaX1lpT29KZUdQeEZOTDd6UVZjSG5mVFd3MW9PZHdBdGItSmVKM2dBZkhNY0hhT1RfTjZmYlV5d2FpS3ZVbU1vMUNrclp4N1Y1WGhmVXd1enE1aUVGeHJlMGEwXy1NM0R0SmNPUGRVMkxnRlVYUWlOdm4wN09sRnM3Rk4wTmV5TklCMkxaeGJrSmtSMm8tODR1bUpjX2dDeV9OeFp6c2RON2hRUWhYeHJ1YjNtbHRDX3JRMVhDc29Yd3RzMHprazlnNnNTd1lHaGI0?oc=5",
+   "data": "2026-10-26T14:27:00+00:00"
   },
   {
-   "titulo": "News XPress: 26/10/2026",
-   "fonte": "XP Investimentos",
-   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1MYjR3TWljTHJqVkRwWVUwbXVoNjVOalRaeTlBdzB4R28xLVBMS2hPRktTM0hFaU9BcVFUdnJuWjg4V3lxejZIbERUbWNKaXBjT3BiMlgxN2FYTjVYajk4NmQ1MW1WdTdkUzIzUWJn?oc=5",
-   "data": "2026-10-26T11:32:14+00:00"
+   "titulo": "Ibovespa cai 16,88%, a 170.461,14 pontos, após a abertura",
+   "fonte": "InvesTalk",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPd1lJZlV6d3VuQjFRZWRjQmM1RV93eEVZQnpCMktTS3dONVNYSGg3a3pVZDFBOWhTT2UybzN6RVg5TWhqUGwxYzRzVk5pTUxQSWxOeGxKS0RnblcxWHN0UkVsdWlraWRseHhLOU42N2tQYlJUVFJ5a0tpWlVZWFdfaEZLX0N3N3NQUzh6VFFZOEV5aXJMN1FMVzRleGNweTQ?oc=5",
+   "data": "2026-10-26T14:27:00+00:00"
   },
   {
-   "titulo": "Focus: mercado reduz projeções para dólar e PIB de 2026 e vê Selic a 11,75% em 2027",
+   "titulo": "Lula vence, Ibovespa despenca 10%: por que a Bolsa reagiu assim às eleições?",
+   "fonte": "Suno - Investimentos Inteligentes",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOQVYtNHA3Qk5oaW1LYzVMWlVDWUlJcHpTMlpPTzB2TGZ6eVNRRHZMQXRVUVRIUV9reWsxZEY4R1RRXzVHazVneTBNVHctbGZqa3Z0WnlaU0Y5LXRWV1JhM2ZJSXVTY3MyVVNqT05nQjBxd19WSUhXdjcwajVnZ1BDWXhiblBkTWg1aEVsTzJ0d9IBlAFBVV95cUxPVXBhQ0JhT1JHZ0Z5Z245Nmx0VkJoeUR1WFdhbEtGN01DZ2FRQWI0NG16b0tqSTZVb21fc25zcDBnRE0xVFFMUlExX3J1UkxEVUhFZ2dWOUpnM3R3X1FNamVsTFcwVjFTaVc0WHJkSlNTQ214M1RFbzBzR0lwNGtYd1FYOUJFM1pkLTcxdUphdGlUN3Ix?oc=5",
+   "data": "2026-10-26T14:26:22+00:00"
+  },
+  {
+   "titulo": "Lula terá desafio fiscal pela frente, e inflação pode chegar a 6%, diz XP",
    "fonte": "InfoMoney",
-   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE4yOE5SbjdqVUNkNjFJNmlOT2RqbmlCODJ6QzlEelVYeEQwcFlXNmdSMW1tYXNzVUdZNUZzbWtNSkNrRmpPRlJqekpzVnE1OWZLQm5TaTE2aXlnclZ1ZjA1Z2x3c0RNbUhkRTNham1Vck1vMDJXUnNES211UdIBgAFBVV95cUxQYmpXS2hVMS03VWlFRm1lc3ZsRkp3ZEhBNHZRYzlEQVNjcTlBU25QcG5wcXRSakFYLTRUUnZxT25RUjZCQ1RmVU5vS242UDBVblFPWFI2UWxvMVdoODV3RENKWGZpS0FobnE5czBlUERvQzhjNF9DQlJiQU13QUpQQQ?oc=5",
-   "data": "2026-10-26T11:31:59+00:00"
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZnFzVjd5dUhpWU1wVDU1UU53T1hQMmdOVWs5d0xjZlBzQkgtMVRFZjNxODNHWlFocjEwRWhKdm02Rnc3TWN6ZFZ2SnBVdTNMV1otNE5DUFp3OXJjdU40eFQtRjlvZEFDcG16bUMwOUs2NklzUVgtdnF2a0RsNTl0X3ItcXZJR1ExUS11U0pKZDc2QXJENFhZV1kwN1NPNi15QWJGcnJYY3pySXhwcDdmUGkzMEzSAboBQVVfeXFMUFVhaFdIWlZwODlYVGtSZUJOR2dkZmtYSjlUYkJXM0QyTVRjS3k1RkJKU3JTMFpKVEl3bGhNQkJQRFhUdks4REM0a3k2dW1fNlE0ZHhNVjVmd2p4eUtnTXVJLV9uenFpYnhuSHJyT0F1Z3hqSlh1S0I2eTJrNTFKMng1Y3Rhb1Z1eVpEUU9kQUxzNExWN19EWEdaV0Q1SEpOUHJYT3R6OU1pV0RLd00tb05RNGZDQllRTUJn?oc=5",
+   "data": "2026-10-26T14:22:02+00:00"
   },
   {
-   "titulo": "Artur Rodrigues: Farialimers lamentam vitória de Lula: \"Comprar dólar é o que resta\"",
-   "fonte": "UOL Notícias",
-   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPOWZ5RUV1R0FJT0RmQ2dHUEVMWGc3emk5dTRKbjFQT2JSQjAzUmxUdGZ2Zlp5cDNraE0wam9SSC1FWUZ6NUQ0SGRmeWtyY19PeHVONHpjRGptVGpBQ1p6VWhfejZxdkkzTlFsekxGY19HMzltYmQtRS13MS04TzU4YTROMGFHOWpRNC1BOVg1U0tDb2RWZTZsZHR2U2d1dXgtTkdZbUdHWWY5eWR5VkJORkNxSEgwT2x6ajNIZTVNZXN2ZVFMbjdBR05Caw?oc=5",
-   "data": "2026-10-26T11:31:48+00:00"
-  },
-  {
-   "titulo": "Nunca antes: bolsa, dólar e juros reagem à reeleição de Lula com circuit-breaker no radar dos investidores",
-   "fonte": "Seu Dinheiro",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPZGZEX1hZMmFvSGJVcTV5bjZmYmZHSjlUSWNYa2ZOemRWZkJJX19zTWRKcnNVakhSTFdBa0w4TG5zaGJNdVBFaEd2ak80UkRsR3VFZkI2eWVjdURQbzZwZnJtVkduM1hGcUtsc0stUDQxUjJtczFhX1VVQTZZcXVUOFBTTzBjbE12OXFTWnZFOVBiV2VmUjNST3F5c2IxaXJOMThHZzQ1LVZpZmo3ZE81aFZmNmE2dTVRVy1hZzZMS2Y0UQ?oc=5",
-   "data": "2026-10-26T11:21:10+00:00"
+   "titulo": "Ações de exportadoras operam na contramão e sobem na bolsa com a ajuda do dólar",
+   "fonte": "Valor Econômico",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPeldTeWNyS3A5VFlySjhCYmxTXzAwam5UeG5SR0xqMnZQTU51X0lzYUp6X0FXbXZaeTBsNGZfWHAzNHhON3A3SXd4Mi14bjBSdWd2eU53c2VUdVZjLTg5V3FmUVppTnRmQ1ZWOXpZMnZmVWtRbkx2aWZPVEVQVDBpOEVPN1JQdEl2djdzQVlTTnZmU1ZWQTlnbUNQMExRZ2hEMW1PQXc4VTdUay0wN2Q4TGxVQ1B3WVlvUXBDSHQ2UmFnZWhsZGplX0k2WWdjUdIB3AFBVV95cUxQcjR0bkk5UG91OWlVa2FUZ0E0dmxxQ1lHMTI2VEItaXdTWjVScFNENEpXZzY4azljdmQyMlJEdnU0NWtWOURCR3hfNThMWTVLVGRWSklIa2ZrRGpUQ0dLY0EydUYwWGJVQ0dhQ0lCUmtFYVlITFc4MzlNZ0NtbVZoVnNyOWNqUEg2amlNZHI1OXhLbkNscGIyajM5cDRzOVVtTXFjYy1LZml1T1dYdkt1Ykw2VnJFUnM5SVRjdlZXTVJkZ0UxMVdIYU9PNm51R0RzdERDcnByTGIwQVFI?oc=5",
+   "data": "2026-10-26T14:20:01+00:00"
   }
  ]
 }
