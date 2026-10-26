@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-10-26T06:47:42+00:00",
+ "atualizado": "2026-10-26T07:53:50+00:00",
  "indicadores": {
   "selic": {
    "valor": 13.75,
@@ -17,6 +17,24 @@
  "cotacoes": {},
  "noticias": [
   {
+   "titulo": "Ibovespa hoje: fim das eleições abre nova disputa no mercado; o que está em jogo?",
+   "fonte": "Estadão",
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNNm1GTjRzX3dVNVNnSUozbjV3ZHJKRWkwNXQydEp6dEE4eHAwV21NbW5xS201NWRLSnY0ZTAzdmFDdTI5YXVzWHVoRzNBTXZUdkRfdlNSSnFEUUlyeWxQUnl1Q0ZhU2FYRFY1ZXpiNXNGajhZYjFfdG9PZVdxSlVhbEJiSlpQbzZ4YXFZN3ZBUWdFSDNKd2k5U0V2d0FDeHhEZldHQnJOM291Mnl1YnY4ZmhpMEY3TGFEZXhFZnhOZmo4YUxMY0dPLU9JektmTzNyaDl30gHYAUFVX3lxTE90NWZqTG42dVhCWE5MVkg3d1lNeHdjckdRQ3llTnFLa3FfU3Z0Y2ZiS2VhNmJRbUNHWXBMdmN2ZmhhcndnUWllekxnb1FjcVVuVHBIYXNueWxiVWdJeVF4cjV6ZEtOX29PSlNyQXFFYUhkY0YzeGdvSmduY0hMWG1iZFJnei1jWlh5T0ZSVUUyWTdXWFlSb1U2bngxUjd6STFTV0pCeVlqR3lqNG9kWEJLSGhpN0ZmQS1HOUVPcEx1UllBUUNIUzBFTFd2VnNzZ1V2UU8xaUFidA?oc=5",
+   "data": "2026-10-26T07:30:00+00:00"
+  },
+  {
+   "titulo": "Mercado mais caro? Inflação de alimentos volta a subir e tem sinais de alta",
+   "fonte": "Metrópoles",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQbXJCc18yNFMtLUJyQ1VYVjRJSGNQZ09yVGNKNFBiaVkteE5nM3k0VFpDT1lFZ3d0cHRnRW5IY1Q4Tk5vSEhCQ2Y0TmxMSG9tbUpwZzByVGo1ZkVJVGpOZW8wOExLWjE3cmpVc251eVJMTnBMa3o4NkVUNC14azlfa1h6NHdMV0RUa002QVRiSXEtZGhCM012WWFhd3VnQkxpS2c0bWV2SXdHckE1?oc=5",
+   "data": "2026-10-26T07:30:00+00:00"
+  },
+  {
+   "titulo": "Porque cai o euro face ao dólar?",
+   "fonte": "Jornal Económico",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5JR3lpeXZUVXp2TFZ3aVJwNlJtdHp6cF91SGZlOGpLX1BkaHFaTUNhekQ4c3JoSDlrUDBqN3hDdnI2dlNLUUVXcVNqdnJZYnpqYmFXQ3BvaFU4Z2FDRDlOVW5UakkwRVhUSW5QNFZUR3dULXJMeVc0ZVI2YTFZdw?oc=5",
+   "data": "2026-10-26T07:00:00+00:00"
+  },
+  {
    "titulo": "Dólar cai a R$ 4,99 e Ibovespa sobe antes do 2º turno das eleições",
    "fonte": "brasilagro.com.br",
    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOTFpRVVV0cXZaRW5lWUpUT1BRWUdaV0tId1E5a0tneTFITFkwMEFsRWo0SXEwMFFVV01PQjhaaC03ZEJfaFM1LU5MT1NGZmJubDN0cmhFdWtTUlVUazJnbzd3cFF3MllDZktfam4wR0JVbkluOTRqcm10dDdDbXM4Yll0cFNLd01HM1RVLUxXZW1BYXd3cWh1YkdmdE1fWkNEcW41VlB3V09OSms?oc=5",
@@ -27,6 +45,12 @@
    "fonte": "Portal Mie",
    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNbGxEWE5maURDYVBQbXlkc21mcEpkcjh5WUpCbC1OUkdQdzZlSnh5Z3kyNDdNbzA1UzBscGxLa0R1dWJOZmROU3V5R0g1RENfcHhsV0FRZ21HRjJyUVAxVG10UUNFSVZsZTRYckViOGJOV29obS10ZDJPMDJYbndoTm0wWXpNSTlJUFBQNERsZUFUaHBHR2ZRS0x3YTgxMkZTTU5YS0xjb3d5bFFTU2h4VnVGTHZ6RWZ4aWJ0VHgxUmZKNTQy?oc=5",
    "data": "2026-10-26T05:47:59+00:00"
+  },
+  {
+   "titulo": "Ibovespa hoje cai quase 1% com pesquisa eleitoral da Quaest; dólar sobe a R$ 5,02",
+   "fonte": "Estadão",
+   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNd2hqQVNpMnZhU050TnpQcU5DdEZQSHZfQmFzVnlrcG9TYW43OVp6SVRiYnkyeTBZbjlaMHJmOTg1QUl0SG5IQXBVUXctQkNCQjZXcVptMFlzOE8xTUVyVl82N0VsZjAzSGdQRjJpUkNseUphZWJNNEhnXzA0ZmFzbWpmVXUyMWQ5LXpwejNYR1pwLXlSUWt2N2NaWHF2dGZQMGtSTERuNllYd3NwLXRsWUJDa2hqdW9wcG9LYm1UTW11WVR3U29YYmVRcHdhY0lraXdSMlRQV3RNclpTcE0w?oc=5",
+   "data": "2026-10-26T05:23:45+00:00"
   },
   {
    "titulo": "Taxa de câmbio do dólar hoje, 26 de outubro: a quantidade de dólares nos bancos subiu ligeiramente; qual a diferença entre comprar e vender dólares no mercado paralelo?",
@@ -63,30 +87,6 @@
    "fonte": "Valor Econômico",
    "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQMUlYVXEyUnNJR1dmN0NCNW1KQWJ0MXhZYmVfWVVuOXZhUmRraEYxeE5wWmtaWG9ZTy1lNk1lWmVVbC1QQ1NqUXQtWlVsOENSLUw5YUdHRnV4SDU4UHpQdm4zdElqWEpNZ1hWb3RCbkQ3WXBpX0lMT0t5SC01aFJDdnpnTkoyVDFrTzRNalgyMmlLcm42TnpIdGlMcnhOc000TGJsa3g5aFNMRlIyNTF2eWtudWZ3SWNobEdleWlJNXVSOTZXSUZEOVk2TmZwanZlTTd6cWtGdm8xcVBRb0HSAewBQVVfeXFMUFlFaUc1TnBNLXhrNldORkpsQk9yOXZSNjkwY294VDlmeC1VYWhfMGdQVlVwTGN4NVFNVzU0ajBVbWZuY0owTlRqMWlBU1JZQ1NIYmRUWVJBMW9vcVVOVmJobk9lcEVOa0xRLXd0UW5jaXBzTlR3UUNKR2taTXl0Mk1kYmRqVmFOV1psQzZuWHhLYUZCbk5ib3VOQ08zbjFWU0ZjeUdkdkNfWWZ5aUZleEE0TXFYSHA2X3dxUFdDSjZIcVB3RENoMV9OZHVqSU5ESHEtQlgwS2x0TFc4ZlhSRUFvb2xoNDIxdFRmbXg?oc=5",
    "data": "2026-10-26T03:53:50+00:00"
-  },
-  {
-   "titulo": "Dólar futuro sobe 10% e fundo brasileiro no Japão cai 13% após reeleição de Lula - Portal IN - Pompeu Vasconcelos",
-   "fonte": "Balada IN",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPYm1tUnFNNmxvTXZ4dDZEd0dod3QyZmJDc09EeVo4N3k4N1k5S0lpd25XYVFyZkgyRXlXSUE2SXlfYUdvLWxhQTBuREZvN1VSV29xalBua3MxZkgzZXRzRkcyMlV6aTF3djg3WnZIZ28yRG5hNkFELTQwdzNWNEtHcWFMV056SVZobTUzNkpDZno2QjhpOHRLNlc2UHZXMXdwUUZNaTQxUmZIRTJfNjVuZVZ5VlR4dlE?oc=5",
-   "data": "2026-10-26T03:49:00+00:00"
-  },
-  {
-   "titulo": "Análise: Lula terá desafio de reconquistar confiança do mercado",
-   "fonte": "CNN Brasil",
-   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNSVhQZDNTMlM0QXpaZWhFREV0Y3l2TW5UcGJVOUxBUEFEZ2ctclIwZmZodkhuOS0xM2JkNm5lNDRWQllVX1BCUVVqcTBURk9mMGtreldsOFU0YWpDaDVacG0yNUVPclYzMDZ4R0FHWTRCZFpQRDdKY3B0cWFtQXBYZDdCeHcxT0p0b0RsZGZzWWJJY253MzlzcVRrWkc1dUkxVVp3UDlVcU8xcGRSeDNNU3A4QTNHN2pRT3RyUkFLdkJCOG1scnhBNU5uQzJRNHhG?oc=5",
-   "data": "2026-10-26T03:42:56+00:00"
-  },
-  {
-   "titulo": "Real registra forte desvalorização no mercado internacional após reeleição de Lula",
-   "fonte": "WH3",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQamtMeVZBZjN5UkJTMFAySm01RS1zbkdaMUZIYlJxUUxkZjA4LUVoZy1Ja3h1NndWaVc0LU5HZ19vVzNxTHp5Q3JlcjRzYThjZEpraUxiZDFtM1djZ1N4YlN3ZUt0VGEtbUxHa2NTNDVZLVlHZFNIcURWQmFaOFhlSGd2anJTaHJiZGx6QlRWSEE2bDZ0bU9NWWM2YVZjMjV1MEFXN3hyaURRaWRGS1VtdUJOM21pLXBBN2drOTVR?oc=5",
-   "data": "2026-10-26T03:30:00+00:00"
-  },
-  {
-   "titulo": "O Ministério da Construção solicitou a liberação urgente de verbas públicas para investimentos.",
-   "fonte": "Vietnam.vn",
-   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQTVJ0N0NtT2stZXRIQmdzM00xQi1YNExMTEhxUDVkSV82bnNRTTNPelF1NklKMGRVNHFvcEJpOXpWZWVCY0NCSHd3T3MxTnJwSlZXUlpPLVNXemltR0oxQ3pDVnNWUmt4VnVWYUhOUTQtUGVLSlpGU251TVdpVmtUTUlsYlFCR09vRmxV?oc=5",
-   "data": "2026-10-26T03:29:56+00:00"
   }
  ]
 }
