@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-10-26T07:53:50+00:00",
+ "atualizado": "2026-10-26T08:47:41+00:00",
  "indicadores": {
   "selic": {
    "valor": 13.75,
@@ -17,10 +17,52 @@
  "cotacoes": {},
  "noticias": [
   {
+   "titulo": "Artur Rodrigues: Farialimers lamentam vitória de Lula: \"Comprar dólar é o que resta\"",
+   "fonte": "UOL Notícias",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPOWZ5RUV1R0FJT0RmQ2dHUEVMWGc3emk5dTRKbjFQT2JSQjAzUmxUdGZ2Zlp5cDNraE0wam9SSC1FWUZ6NUQ0SGRmeWtyY19PeHVONHpjRGptVGpBQ1p6VWhfejZxdkkzTlFsekxGY19HMzltYmQtRS13MS04TzU4YTROMGFHOWpRNC1BOVg1U0tDb2RWZTZsZHR2U2d1dXgtTkdZbUdHWWY5eWR5VkJORkNxSEgwT2x6ajNIZTVNZXN2ZVFMbjdBR05Caw?oc=5",
+   "data": "2026-10-26T08:34:01+00:00"
+  },
+  {
+   "titulo": "Saiba quanto rende o prêmio de R$ 102 milhões da Mega-Sena acumulada se investido na poupança, CDB, LCI e Tesouro Direto",
+   "fonte": "Gazeta de São Paulo",
+   "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNUzdPems4dzc3MHFPWU5kSnROQl93WVlZU19ubTN2STFPRVFvRG8yRjdQSW5DRDl2NG15NDliMHBfZFR3RG8zX2F5X0tsRld0NC1KaHNwR3kwNm1UQmI0VzRHRHBlMzhjeFotNUVNaHpqTlFyem10RjY5QW1wWlp1NmZKVXVPY0JackswOF8zWVQwUFRGUnpTR1Y5d3NZQnJBSjdnaUI2bm9KMEZNeENHbUlBR0xFNWVMa2xrby1reVJMRmhWRDlEWl8tYWx1NHZ0cG1YWnZ1Wmg0RmJXZTJFSlVqRUItekV0WVZ1RlB3?oc=5",
+   "data": "2026-10-26T08:30:00+00:00"
+  },
+  {
+   "titulo": "Tesouro Direto se prepara para forte alta nas taxas e suspensões após vitória de Lula",
+   "fonte": "InfoMoney",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOYm9RVWxkSWV5dHZxWEszY1AyUmZJQ19lbko2cVBaMWNWMHVhdXBXRU4xaWVhdTV2TThnVGRzbldkWU9TdzZFalFKdDdwbHhxRDZOVmRyWnRCRWpJclZFcWVEdWNKTlhyUURlV0NYdnNGYXYtX0Z3UmxjRmpOeExIREJxOFVBUVRUdVgxenBsRVPSAZYBQVVfeXFMTkNHTW8yVGdsSjJIcUlnZGQ2UHJlOVUzT01hWUo4V3BrdktnUExxRTJ2eVIwc3JKaUVmMm12eFQ0UFUyQUpTWWdXbTBLc2RPMHB6VzlEN0lVUjlJVDZ5Mjk4UlBmSUJ6d3NUUllMTEZ6UzdJNldtRVJPREhUQ1NzcXZCVGVibnlPdnJITDB6VkZUMDR0R1Fn?oc=5",
+   "data": "2026-10-26T08:12:04+00:00"
+  },
+  {
+   "titulo": "Onde investir na renda fixa com Lula reeleito: Tesouro Selic, prefixado ou IPCA+?",
+   "fonte": "Exame",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9uczVLa29GcEQ4NnNPdktySkJXTFVrWmxkekVFRG5OTk9Dek50bEg3aU9mT0ZwSnJ5V1pWRUxFc1ZTVUFWaGdWZks5ZUdTbkF3azNBc1ZxTUUyTzhWaXloUTdjbVdJaUlQN3N0SGRPZkFiYTl0Rkh2YU44bG5LUQ?oc=5",
+   "data": "2026-10-26T08:03:14+00:00"
+  },
+  {
+   "titulo": "Kalshi planeja lançar futuros de inflação nos EUA",
+   "fonte": "Valor Econômico",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOYkdyWnIxQ2JpQVRaQld4U19EZmU5ZlNXZjc2b0N3U3FvVzU2WHFZNTZZRDRmYU83M0EtZ2hUYXJUVXViNzZRWWtUUGRUeV9SeFpWbTdOcjF4bWFJal9pemF0NXNpbncxR3U0amc5TmlVTHp1bUJvLTI2ek1heUtnZnBVbkU2a2YzOTBVX0pYYlFHSDFNWW5udVBiNjIwTnpTSTloaXdWdUttSTDSAboBQVVfeXFMT1NuQk9XaHAwU1J2NV9qUTRoZlNqMXBuTGlYd3RtUGJ1dXh6TmdtWEhkNTZ1S3JaNzRlbXp4NXdsb2NfSjZNVmdTWHU1eHNIbkNaRi1xN2JISURQWDRUTi1Ham5BSkRPM0tJOENJem9QNUdfNGtMM3FHN3cwVGgwbm9yLTY4dE12aGZBS0t3c3NlRHBXUzNVTUFnem1FaGI3WFpGMGphLUZqckdRQmxFd1c2b25HRzdaZEN3?oc=5",
+   "data": "2026-10-26T08:00:01+00:00"
+  },
+  {
+   "titulo": "Setores econômicos cobram previsibilidade e investimentos",
+   "fonte": "Tribuna do Norte",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQUTNiTzFMdkIteHNzOUkwOWstUjdNYnpHOXpQN2ZscmNuem1qSE5xYmNQNWxjcEE4VG9nQUc2YTc1dmVXNzdJc2pUa2Fld2ZQVVUtSkYxZURYczFvaDVKN2NITlNPZTZ3NzUwWmwzMFhtQUxEVGRncG94TVZDMFhSRDNKREtSXzQ0ZVBrZTZoNjRnd1F0SVh1cTRiX0tDOXJSQ0xqaWFSMHNZS1BCOGc?oc=5",
+   "data": "2026-10-26T08:00:00+00:00"
+  },
+  {
+   "titulo": "Gestora de R$ 100 bi reduz risco no crédito privado, zera exposição à saúde e vê força em FIDCs",
+   "fonte": "Estadão",
+   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOQzBiNlNRRXZZOFBoZDVtLTZuLUtSQmZ3SHppWjE0T2tta1NxY3I4a1o1ZEZJaVEyVDdKTm5oMmh2eDdaa1ZwQ2Zmc0tHUnlJbjJQZms2Tl9aaktvSGd2bTZzQnpORkM3cVk4S0RuaFFhMmk1OWEtd0Via1VJNzNhM2puaVBSZGpzdG5YdzMxUzVpTUlWSjZhQ3Y3Z2doU2pMMmFQWEhZOHg3cjVINGl2elVCNFpZQ2h6bDVYb3loTFkyOXF1VFJZdm9QN2pvaXdhay1CdFZIYnQyaFdTMXRRVWlFWk55TV9ITmfSAe8BQVVfeXFMUGtza1pteUluMXlBTHp4ekxVSVhSY00zYUd2UENKY1FCbngyM1NmSmNFcC1pdHdUMERTblprMUx0NFRWWDMyLTVZNm5ZRFhsbjhrTUxKS0Z4SE9tSlMyOE1fcGVQb0x2ZHpwY3ZEbkR3aHUyaDUzVjhFNHVTaWxaSEhrakRsc2psNVlkRGlFcFJUSUhsR2EzSGp5bHIwZWhWT1NYYUhUZWJBZ1F6bkY3OFRnakRHc3N4Q3FaTVRHQUxMdEs2X1RNSzI4QzlRNXZQdzZrZWUyRXYxWGxnV3lDRVBoUnZFSTh4UTBrWV90Tms?oc=5",
+   "data": "2026-10-26T08:00:00+00:00"
+  },
+  {
    "titulo": "Ibovespa hoje: fim das eleições abre nova disputa no mercado; o que está em jogo?",
    "fonte": "Estadão",
-   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNNm1GTjRzX3dVNVNnSUozbjV3ZHJKRWkwNXQydEp6dEE4eHAwV21NbW5xS201NWRLSnY0ZTAzdmFDdTI5YXVzWHVoRzNBTXZUdkRfdlNSSnFEUUlyeWxQUnl1Q0ZhU2FYRFY1ZXpiNXNGajhZYjFfdG9PZVdxSlVhbEJiSlpQbzZ4YXFZN3ZBUWdFSDNKd2k5U0V2d0FDeHhEZldHQnJOM291Mnl1YnY4ZmhpMEY3TGFEZXhFZnhOZmo4YUxMY0dPLU9JektmTzNyaDl30gHYAUFVX3lxTE90NWZqTG42dVhCWE5MVkg3d1lNeHdjckdRQ3llTnFLa3FfU3Z0Y2ZiS2VhNmJRbUNHWXBMdmN2ZmhhcndnUWllekxnb1FjcVVuVHBIYXNueWxiVWdJeVF4cjV6ZEtOX29PSlNyQXFFYUhkY0YzeGdvSmduY0hMWG1iZFJnei1jWlh5T0ZSVUUyWTdXWFlSb1U2bngxUjd6STFTV0pCeVlqR3lqNG9kWEJLSGhpN0ZmQS1HOUVPcEx1UllBUUNIUzBFTFd2VnNzZ1V2UU8xaUFidA?oc=5",
-   "data": "2026-10-26T07:30:00+00:00"
+   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOVHN4bVhnbkx0dm9vREI4SE1UTUlZNnpHcGI5ZVp3Z0ZJbVJmYWdHaWw0TXJlVjhBam1zMjQwUV9EZ2dEUU13LWM4cTJ3VU12N2ljM3UyaDdhT1ZEWlRJaDdxeDFQWDl6RndBRXNIdG00Y0l5MDlYWnhqYVU2cjY0Z1lNZmRpUHo0Ul9RZDhDN0hfUnZnM2Y4S1N0THVOVUVpaUVxMWZ4MnQ5Y1ZMVHlQS2xZbmt2U19LV0V3b1Y4THVFLVhaZ1JpOE1nVS0zb3AyNG05RHBfa0F2QjF1a0E?oc=5",
+   "data": "2026-10-26T07:38:43+00:00"
   },
   {
    "titulo": "Mercado mais caro? Inflação de alimentos volta a subir e tem sinais de alta",
@@ -29,64 +71,22 @@
    "data": "2026-10-26T07:30:00+00:00"
   },
   {
-   "titulo": "Porque cai o euro face ao dólar?",
-   "fonte": "Jornal Económico",
-   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5JR3lpeXZUVXp2TFZ3aVJwNlJtdHp6cF91SGZlOGpLX1BkaHFaTUNhekQ4c3JoSDlrUDBqN3hDdnI2dlNLUUVXcVNqdnJZYnpqYmFXQ3BvaFU4Z2FDRDlOVW5UakkwRVhUSW5QNFZUR3dULXJMeVc0ZVI2YTFZdw?oc=5",
-   "data": "2026-10-26T07:00:00+00:00"
+   "titulo": "Ouro retoma US$ 4.000 com dólar fraco e atenções voltadas ao FOMC",
+   "fonte": "Mitrade",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNS0NKbUg3V3VUYjFFME04T1RaOGMxNlNWUnZlUXo3NDluN0xYOWJHY1hkYmZzYzB2cTFhVk5DYUdlWDhJbDQ3TFYyQWd5bC00aGJacHhUSThOWDBhajB0QjdyV1hnRVhnU0pzb0lvOWYtM0h6cGZ1QTAtdFlnU2x1a09faW4yQ2NlMl9MOWdtd1hHWnpx?oc=5",
+   "data": "2026-10-26T07:15:26+00:00"
+  },
+  {
+   "titulo": "IFI projeta que cumprimento da meta fiscal de 2027 pode exigir corte de R$ 35,7 bilhões",
+   "fonte": "Brasil 61",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOMUlNcExrcmV1b05fRUVnU2ExMEVpTkp5OF9Jcm9IUG8yTFRKRHdLSllVb2JCaWNobFRmTWZwd2ljbVAyOXFsalFBYU40RkMwbURtRTU5dTNIVkVybnQ2YVM5b3JfcDYzcmxGR0VLcUVWUHp5U3pCaEZpX1phWTYxYVlENXNYSGlGZHJsZFFlTTVhVThKTlhMOVNiN2Jmb2dWRU5kdzRmZHl3ZTFSdWVSX1dDQ2lXVVNPd01mRWVn0gHDAUFVX3lxTE1PNS1yTkN2VHZFZmIxd1pYVGg3SnlXUVpRNi1vY1R3RENUbGVORnp2amlGdXFSSmFET0pEc1REVnhZSGROT1l3TTNaNmxHb1ltNXNad3dxS09GT3h1cGlhS1EtUXRfN1lWTzZnVHJiM090alZ3V3FSSHpoLS1QUkZ2Y1VUSWhUMl80ZERhdlpDS0hrZW8zY2JPSU04X1pGWnAzeFZmbVVtcHVYZnhob0lLZmV6djBxWFdRd1ZsenFvSTFXUQ?oc=5",
+   "data": "2026-10-26T07:15:00+00:00"
   },
   {
    "titulo": "Dólar cai a R$ 4,99 e Ibovespa sobe antes do 2º turno das eleições",
    "fonte": "brasilagro.com.br",
    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOTFpRVVV0cXZaRW5lWUpUT1BRWUdaV0tId1E5a0tneTFITFkwMEFsRWo0SXEwMFFVV01PQjhaaC03ZEJfaFM1LU5MT1NGZmJubDN0cmhFdWtTUlVUazJnbzd3cFF3MllDZktfam4wR0JVbkluOTRqcm10dDdDbXM4Yll0cFNLd01HM1RVLUxXZW1BYXd3cWh1YkdmdE1fWkNEcW41VlB3V09OSms?oc=5",
    "data": "2026-10-26T05:50:10+00:00"
-  },
-  {
-   "titulo": "Homem perde mais de ¥31 milhões após participar de falso curso de investimentos",
-   "fonte": "Portal Mie",
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNbGxEWE5maURDYVBQbXlkc21mcEpkcjh5WUpCbC1OUkdQdzZlSnh5Z3kyNDdNbzA1UzBscGxLa0R1dWJOZmROU3V5R0g1RENfcHhsV0FRZ21HRjJyUVAxVG10UUNFSVZsZTRYckViOGJOV29obS10ZDJPMDJYbndoTm0wWXpNSTlJUFBQNERsZUFUaHBHR2ZRS0x3YTgxMkZTTU5YS0xjb3d5bFFTU2h4VnVGTHZ6RWZ4aWJ0VHgxUmZKNTQy?oc=5",
-   "data": "2026-10-26T05:47:59+00:00"
-  },
-  {
-   "titulo": "Ibovespa hoje cai quase 1% com pesquisa eleitoral da Quaest; dólar sobe a R$ 5,02",
-   "fonte": "Estadão",
-   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNd2hqQVNpMnZhU050TnpQcU5DdEZQSHZfQmFzVnlrcG9TYW43OVp6SVRiYnkyeTBZbjlaMHJmOTg1QUl0SG5IQXBVUXctQkNCQjZXcVptMFlzOE8xTUVyVl82N0VsZjAzSGdQRjJpUkNseUphZWJNNEhnXzA0ZmFzbWpmVXUyMWQ5LXpwejNYR1pwLXlSUWt2N2NaWHF2dGZQMGtSTERuNllYd3NwLXRsWUJDa2hqdW9wcG9LYm1UTW11WVR3U29YYmVRcHdhY0lraXdSMlRQV3RNclpTcE0w?oc=5",
-   "data": "2026-10-26T05:23:45+00:00"
-  },
-  {
-   "titulo": "Taxa de câmbio do dólar hoje, 26 de outubro: a quantidade de dólares nos bancos subiu ligeiramente; qual a diferença entre comprar e vender dólares no mercado paralelo?",
-   "fonte": "Vietnam.vn",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOOE5FOV8yN3dqSVRHRVZBT2NSZ09GWFFYenl2Mmk4bXdBS1h6YWh4NmZrYkUxcmVFVUZ6N1hpU3A3TzE3NXJCNU5pMkVYTEh4c0FYc212ZVFMY01CMFYzN3U4aEw2Wm5BVW5TSWZEVFBKbi0yeDV4NkhrSUd3ZmNCT2taeGJsTnJSc1FTQTdGTzJrRGRnTW5pbld3c0p2bzktYThHUXJqMkpncE44MUhzUDdTVjFqRmh5STVDY2JOa3RVT2s?oc=5",
-   "data": "2026-10-26T05:07:46+00:00"
-  },
-  {
-   "titulo": "Moedas asiáticas estáveis, iuane em alta de 4 anos; dólar recua antes de semana repleta de bancos centrais",
-   "fonte": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
-   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPZzlEWkY2OGFtbngtbDk5WFRvbHFfVF83QWFFYlgxemIzbldKMXhyWUpVdWNxaEhvUXVXeHl2ZVk0NzVNQzZYZWdncXFudDlPZWZXeWVuRW1lR253MjY3VWtTMDdnN2l3UUd2bmlTZmRMSVY0aFk2MzBPa0JYc0gyZmh1RlNBRDJnblY5RzdJcmRJeVQ2dUhpbjBuTk9Iajk0S2dEWEYwRDNzRnJITUpDSHJYVDJ0MGhwUmZwdmhmWE9VOTVZLXYyZFJ0NUVoejVQMUVnckszNEh1M3JzWVhjM25RY0t1eThI?oc=5",
-   "data": "2026-10-26T04:43:00+00:00"
-  },
-  {
-   "titulo": "Corrida da IA deve elevar investimentos globais em data centers a US$ 2,1 trilhões até 2028",
-   "fonte": "Balada IN",
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPSUpRM0VmSHJVcmJGVV9PcklKTGFWaG8ydFViNVl6SzBLb3g0NHQ5OXBEcVRzOEt1WE9lejJtcnNLV0ZGaUFXcWsyenVta2tMU1ljdTlTUUFCT2ZQdWhBNW9DbHh3b3N1bElZSVJva1YzWTBNdE9CQk5XLXRLbHBHVUdqS2ZyU1RGX1owN29LZ0Z4emVCTmtBVDR0aGVRLXBsLW1KTmF2ZXUzQmJmNWFLZmxyRW1tM1ctRnhKTVQ3QVY3WnNQYUE?oc=5",
-   "data": "2026-10-26T04:26:00+00:00"
-  },
-  {
-   "titulo": "Reeleição de Lula provoca reação nos mercados e dólar futuro se aproxima de R$ 5,50",
-   "fonte": "Real News",
-   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBfMjI4WTFtaFNjQkpIMlZaUTI2OVk3UGtMc1p0akZsSlJPbkpfcDZwUkpDS3BoUkx1WVl1OWI2bmhFYi0xaUllWllxQnlwREN2OHRqM0V5LUxhQjlzV24yQUUtbW8tVlAxaGNEMTQzTEFIMzFyVmc?oc=5",
-   "data": "2026-10-26T04:23:14+00:00"
-  },
-  {
-   "titulo": "Mercado financeiro já precificou a eleição? Veja o que esperar de ações, dólar e Tesouro hoje",
-   "fonte": "Estadão",
-   "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNdlRHLXl0T01SVFBuUjBES1puZmVGOHlETjd4enVIZnFSUEFPY194bzdnZUtxb1gwUmlCYUljSWhkZmR2UklzNnJIbDFTckZOcUNmZ2FrOTVyci1pVDQzU1l1MTZQWUYtUHdJUXVYdE5XbEpKV1dBV1lDb3hzbjRsOC02WnJ0ZmRBbmtSRWdZX1dZZmNMcTlkUEpxUmFpOE5MS1ZfVnJKbk95M2JHcmxEX1pmQU5lWXQyX3V4eWxGdmFJVl9udFJVWVp4RnB5YzRKOXR6UEdLZEVYZmZZVFVETGoxbXlSWDctSEZkcVdxQQ?oc=5",
-   "data": "2026-10-26T04:00:05+00:00"
-  },
-  {
-   "titulo": "Em discurso na Avenida Paulista, Lula exalta soberania e promete investimentos na educação",
-   "fonte": "Valor Econômico",
-   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQMUlYVXEyUnNJR1dmN0NCNW1KQWJ0MXhZYmVfWVVuOXZhUmRraEYxeE5wWmtaWG9ZTy1lNk1lWmVVbC1QQ1NqUXQtWlVsOENSLUw5YUdHRnV4SDU4UHpQdm4zdElqWEpNZ1hWb3RCbkQ3WXBpX0lMT0t5SC01aFJDdnpnTkoyVDFrTzRNalgyMmlLcm42TnpIdGlMcnhOc000TGJsa3g5aFNMRlIyNTF2eWtudWZ3SWNobEdleWlJNXVSOTZXSUZEOVk2TmZwanZlTTd6cWtGdm8xcVBRb0HSAewBQVVfeXFMUFlFaUc1TnBNLXhrNldORkpsQk9yOXZSNjkwY294VDlmeC1VYWhfMGdQVlVwTGN4NVFNVzU0ajBVbWZuY0owTlRqMWlBU1JZQ1NIYmRUWVJBMW9vcVVOVmJobk9lcEVOa0xRLXd0UW5jaXBzTlR3UUNKR2taTXl0Mk1kYmRqVmFOV1psQzZuWHhLYUZCbk5ib3VOQ08zbjFWU0ZjeUdkdkNfWWZ5aUZleEE0TXFYSHA2X3dxUFdDSjZIcVB3RENoMV9OZHVqSU5ESHEtQlgwS2x0TFc4ZlhSRUFvb2xoNDIxdFRmbXg?oc=5",
-   "data": "2026-10-26T03:53:50+00:00"
   }
  ]
 }
