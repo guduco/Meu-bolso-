@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-10-26T02:37:59+00:00",
+ "atualizado": "2026-10-26T03:37:43+00:00",
  "indicadores": {
   "selic": {
    "valor": 13.75,
@@ -16,6 +16,48 @@
  },
  "cotacoes": {},
  "noticias": [
+  {
+   "titulo": "Real registra forte desvalorização no mercado internacional após reeleição de Lula",
+   "fonte": "WH3",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQamtMeVZBZjN5UkJTMFAySm01RS1zbkdaMUZIYlJxUUxkZjA4LUVoZy1Ja3h1NndWaVc0LU5HZ19vVzNxTHp5Q3JlcjRzYThjZEpraUxiZDFtM1djZ1N4YlN3ZUt0VGEtbUxHa2NTNDVZLVlHZFNIcURWQmFaOFhlSGd2anJTaHJiZGx6QlRWSEE2bDZ0bU9NWWM2YVZjMjV1MEFXN3hyaURRaWRGS1VtdUJOM21pLXBBN2drOTVR?oc=5",
+   "data": "2026-10-26T03:30:00+00:00"
+  },
+  {
+   "titulo": "Eleições: Dólar Sobe a R$ 5,60 e ETFs do Brasil Caem 19% no Pré-mercado",
+   "fonte": "Forbes Brasil",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPR3hhTmVLSVd6WnI0VmZnbVhYRHRnakVIVXROdXd2ZkxDLVNGNklkdHhPblpiM1ZlRXVQTnZpempkdU9BVDRrOHJxeFRqOGN4Sng2ZENGaFp4eTJ6bVZ2RUh3LVZtWE5YVjhpRWdnSl9pVkYxUzV6S2djakZ3UGM5TVctallheHZ2MWJhS2VfdUtOczFDMXNnODVMWFVwRmdVYWt1SGNIUnZjdUkxR3VBXw?oc=5",
+   "data": "2026-10-26T03:20:35+00:00"
+  },
+  {
+   "titulo": "IPCA-15 desacelera para 0,32% em outubro, mas inflação em 12 meses chega a 4,62% e supera o teto da meta",
+   "fonte": "Conexão Marília",
+   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNVUtYUDNCQV9xZG41MWs2eGxVWTdBQXBMVGdoWEd5RUx2Z3h0ZkMycmFTcElGc3paY2o2UmQtNkRpTDFPcXJOaVNpM0pXYV9YZXdGbjVaM0pOWTJWUzBvLThZcmVGMzlQQXVSVU81Q0FwOHRfc19TeUdCLXJjUmQ5NjdkVzBUOWg1TjRiXzVYZXR2Rkh5S19lUllBYnlmcTJOR2FYR0UxbGpManFOalBzX3d4amgxb2xKa3hPQlVXcHhQZHA1ZTFXbDFNclNmdFBPVGlya082TGk?oc=5",
+   "data": "2026-10-26T03:08:29+00:00"
+  },
+  {
+   "titulo": "Reeleição de Lula coloca comércio e investimentos com o Japão em foco",
+   "fonte": "Portal Mie",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPNFVvTGhpNWVGcHFRU0lkWjFRbldMOExrYzNraTJXajY4MVVEWGZ0ZHpnWE9XLXFaVUhXR2M1eENnTG9mMEs2YTZzTkFSNld5cWZCbHdNMHNDTTNfd0M4dDlyNmdxOFdzS0tTNjBxcVcyUl92VXhBNkI3VVpEYjJJRC1HU2YwUXRfSmVfaHI0eks5VG9WeGtBSFQwNVZJWno0MWxuTkh4U0hvREctY2pDaw?oc=5",
+   "data": "2026-10-26T03:03:53+00:00"
+  },
+  {
+   "titulo": "Lula precisará dar forte guinada na economia para evitar que disparada do dólar vire uma recessão",
+   "fonte": "Estadão",
+   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOV0FYUTRkcUotWERfSVNWVFBrclN1VmdNamdGck0zZXZySEVUOS1yN3RyOGNOd293N001Q1o3WnAxcGVSQWdIZ2ZucTYyU2RsOUFPQWRIR3RBT0lvN25WS3VRM3pGQzZBU2NmMFV2VjlocGxnZTdFUHBVY091UGVMTFRxMHhrQlQ1SHJrbWo2R3BsOWlLVU9iZV9uQzJiLUdoLTZvSE1IU0lxQXZDcXpncU5tUjBJNXVWRk0tRkFoTE13RzZ6Skh2ejN3YTVDMzV5R2NURVhHMjEyRjJjXzNPLXRn0gHnAUFVX3lxTE4ySV95SEhrRW5SQ1JmTFp3cXBWOW93a29BZkIxMFU4b000ODUwalVMcWRQUVAzWDVjby1NTXBJVm5DVmo3RGt5akdsdlJ1c1lheDF5WXZER1BJV0dmbmZuZlY1c0dvYV9jcm56MlM4NjhyQ1ZTMU83SlFMMXJIdkcxbldUSUlfYnZGa2lONWR2NnpjYlpKb3FqXzhXOHlkRjM1U0t6dzhZclhvYTZwY25DbThTZHQ4a3pxbXZLeDNWazFxQlJORXJCYmpkM1NrNkkyVGNObkN2S09JWW14d0hNelpUT3otNA?oc=5",
+   "data": "2026-10-26T02:50:54+00:00"
+  },
+  {
+   "titulo": "Bolsa vai devolver tudo e mais um pouco, diz CEO da Armor Capital, com vitória de Lula",
+   "fonte": "Exame",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQa2xyaFVJMEMzdzlaVnFNd2k1RGk5ZjlkN3ozdHdUUGUwUFpnS0M3T2VWN0h5LTNnRWFLcjlUQ1BjcEJzb0ExaHVrdXZwaWloRm1BaHRPRTNJenhGQ1ljZi1nV2dfLVRQSzMwSzV0OHlEY09TdUVPX2JYOHUzbmU0d1d3T0F3MkswTXhHZHVSdVd4MlFUb3F2ckVYUG9wWUlLeWdqbk52Y1BfN3hKZ3g3LWk0elVpTG5EMTFv?oc=5",
+   "data": "2026-10-26T02:47:59+00:00"
+  },
+  {
+   "titulo": "Dólar futuro chega a R$ 5,50 após vitória de Lula nas eleições; fundo ETF do Ibovespa ecua 11%",
+   "fonte": "Terra",
+   "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxOeHNMRVY3aUZwRVVoYmdWcENHcTgyR3JNRURCVEwwX3FJTDZpSVprOV9hbjNwcGdKNDI2eUpud0loYzlscWYzZUtKR293Tmp2M0FLRDI5WmRUU0VieDVLcHNEeVJiYVNWNzB4UjN3TWN1dS1vcjVVNXY2Z1RTcGUydEhOZVVqTF9zUTY4VmVCSXVMVTFDcktydk5HSUVWd3VYVVRQc3lHd3BzNWJiU0cyanlzZ2hFTVJSWTc0aUluYTJtUU1uT0hPaFJ0TGNYdnh4Z1hqLXFXbENvV3hMemZvVzFoWFJTS0tDRFVORWRjVm9GM1QyM19FQ1N4VmlxRzhka09NZURaZTUxVGc?oc=5",
+   "data": "2026-10-26T02:45:00+00:00"
+  },
   {
    "titulo": "MP que proíbe apostas no Brasil põe segurança jurídica de investimentos em xeque",
    "fonte": "BNLData",
@@ -45,48 +87,6 @@
    "fonte": "Revista Investidor Institucional",
    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPSVp6VENLYUZydi16dm5WZWlnbFNZOVJLUEo1M1NsRnNjTHE3a1FvU1N2cnpIcU91VjZCTzczTERYeUFtX0tQd3BBQVprTG1GbWJQbDg5X3N1TXkwRUozQUlGOGFlaFFNR3FMQm11QjRGcGV5YTBJOU1NSlNraUxJXy02S1ZobUFyeFE0Y2R0VGpoYzFESDNXcndlVkctZVM5TURBSW1uNVl3b0pPLVZqSHdkeDFHNjgwN3c?oc=5",
    "data": "2026-10-26T02:12:30+00:00"
-  },
-  {
-   "titulo": "USDT a R$ 5,42 após reeleição de Lula",
-   "fonte": "SpaceMoney",
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOU3FoeldqYVJIc2xsM09iamxRd0JmQTdZelhyb3F4Z1BHY19iWjZMQlFvRzJhakdTZzhkSFl2NXdFbUFIamczRjBLU3JBM216SHpBaUtTWGZEV19qUi1vNk1hVnlsdV9zcUpiTU1CcnoyU1FFUzlpOTQ1aFZaR3NVYkhtQUFxRzVY?oc=5",
-   "data": "2026-10-26T02:06:30+00:00"
-  },
-  {
-   "titulo": "Cuba: Província de Granma facilita expansão de investimentos de produtores de arroz vietnamitas.",
-   "fonte": "Vietnam.vn",
-   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPaEl2ZGtJTndVTXlkWXZ6YUdxNWl2MF9tUmRPd0ZZX3d5TUs1M1EwNzVkbUpfblpZSFljMnlaQ0VZM01xQk9HUnNSbnBOVC1vN3ZNbTMxQWNOd0U0a08wMjFKUlNlRm1ZdEtpb0UwREZBM1lRZjd4WXdMVkdpQ3RDMkItakxKS2N3ZTZ3cWRNSUZWTVVReFk3SkdOa3g3b1RfNXNZWWZISjFwbDVEZXdMTkhBODVFNExIcEFTb3V0VlE?oc=5",
-   "data": "2026-10-26T02:05:46+00:00"
-  },
-  {
-   "titulo": "SOBRETUDO A Bolsa cai, o dólar dispara e Lula começa o novo mandato sob pressão. O recado do mercado vai além da eleição",
-   "fonte": "rdmonline.com.br",
-   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxONnVQUXo4c2ZkVjhJMFlxbDNyY3lBSUdzQUluWXFLWDJwb0sxZnNvYVp4U19XSEY3UTBnSnhMT29RcnJCQ1RtcHMwZHE4RldVR24zcTFEWUVZa0M2bm9OVC00RGNrODRocTRkcmd1VWJfYjYwRzlwT0lZbllqN2tCb0RaSFdSeE0ycDctU1hoNkxhbllZNGhkcjE5S05zLTI2dUxBbmU5MXdhNnhUajR5TUxvQjlqb3lwcGN3MGc3aXpzdVRuMkI2RmUza2diTXdUQ0pUNHFvQWE3Y01s?oc=5",
-   "data": "2026-10-26T02:03:00+00:00"
-  },
-  {
-   "titulo": "Dez ações concentram mais da metade do Ibovespa; veja o que isso significa para o investidor",
-   "fonte": "Folha de S.Paulo",
-   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNLW1WU1hyYXNWRnpySTBjTUkyNUhxcXVkWmRfTzFUXzYxbG9lcE5PaVNiQzVqel81RVhUc0EzRXg1YkNMY0llOUtWQlJQOG1zaTdmQjZ5UTIwVW43Y25MSEE5R3Z0M21UYkUzUXplUTlITVhJRTZ4dlJtY1pHTVV6Skg2Q0VQRnBzZFI4R1lZMGhsSmNMcHJadGJ1cVFyUXpIN2VuaFdMMS1yOGp4Mmc4eEgxd3dxdUlHUGpQVzVyUFJtaEt5Q1lsTjRRXzV1NXlNaThqQjJmUnJBQlk?oc=5",
-   "data": "2026-10-26T02:00:00+00:00"
-  },
-  {
-   "titulo": "Vitória de Lula derruba ETF brasileiro no exterior",
-   "fonte": "SpaceMoney",
-   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNTEl2cXpvdmN0ZHhiWXk0MjZFSHZ5aEdLR3VuTlpCdkJYREp2Q3JwVUxaeC1URUdFV3E4R2F2dWI2MWFlbmQzZWRnb0tUZ0s3blFYM0VYME5nRU9la3VHNHl0VmVoRDBPOGFPQ0lEMEpNbGNuVWQ2TzFOX2tSSm43dEcxcXBLZVJSXzY0?oc=5",
-   "data": "2026-10-26T01:59:41+00:00"
-  },
-  {
-   "titulo": "Mercado espera dia de “sangria” após reeleição de Lula",
-   "fonte": "Poder360",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOV080MmlmQ3JDbGhMZGhSejRLTHZKZ1IzbzMtY2Y3U0xMTEZJcERUY29rM3Yzcm1VMHM1SzZ1T3c4eXF2VG9XX0xoaV9XUGFQZUI5RHdRdzRxSFhFclZXd2JvOEdjWm8yeU1nZ1VQTGJkUzkyTEVkcUxvUjg5R1NHeWhtRWF0OFlTa2hWYjIxYWVZVi1ELTVyeEQyYzE?oc=5",
-   "data": "2026-10-26T01:58:34+00:00"
-  },
-  {
-   "titulo": "Ibovespa desaba 19% no exterior após vitória de Lula; PETR4 afunda, dólar dispara",
-   "fonte": "Guia do Investidor",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPQzJZSHVoVnd5QTY5c294OGFLMWFNb1FrNW1fZFRSZURsVDBTR3IyR2hBbFFXMWJlYUEyRmdLZWFONHNmUkRPbTVmX1Uwa2RGTEpMVlJ1OXFjV1NySFhMUWNQU0JRUFBIcEpUS0lxYndyZFEyRDBDYkVHUnRxU2FCa19PWHR1Qzhhbk9LV3lENkhtb2d1MkNmcUtNU1BwMGV5QTJWQS1tY1NSbjhsd2IzNGJKeEZzZVRTTE13?oc=5",
-   "data": "2026-10-26T01:55:04+00:00"
   }
  ]
 }
