@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-10-27T16:50:11+00:00",
+ "atualizado": "2026-10-27T17:47:06+00:00",
  "indicadores": {
   "selic": {
    "valor": 13.75,
@@ -17,76 +17,76 @@
  "cotacoes": {},
  "noticias": [
   {
+   "titulo": "Data Expert: Monitor semanal de Preço de Paridade de Importação da Petrobras (27/10/2026)",
+   "fonte": "XP Investimentos",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOdkE5ZzBrY0JVZVhOdjBFc2QtaXRoQnJMdWxOeDZFTUVmRVJvLVZSSUpqX0J3YjBoUVVRVlRveTFSWHA4dlByYjdYMzU5dG5NcmY0NHFvMXZHSmtCYUpjMzFxVTFZeUZUcXM3MXI5bXR4UUx4bXN1RVNZbThIWWYzbmp6QnZLNTBzNmljOHZtQUx6UzI1Z2hpZU1RdlpZNlA1MGJpWGc1R0N2ZlNocG5OeVBPbjBiVy1HTXJ6S3RHemd1QkloWkdpbUladF9HZw?oc=5",
+   "data": "2026-10-27T17:45:11+00:00"
+  },
+  {
+   "titulo": "Gabinete de Cláudia de Jesus recebe vereador Dãozinho para tratar de melhorias e investimentos em Teixeirópolis",
+   "fonte": "Assembleia Legislativa do Estado de Rondônia",
+   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNYWZGTlZPWGNRSUxnb2lEWE9vVFZpOGpjdHFfeGNiaUptUmJ2UUx4STk2bU1YSWNCR21qTHIxQVJZRThDX2VITDBQU0QzTnFXRkVwLXpYaHZTMU04Q25OMnlPZi1vemRsZXd6X2F3THhuNUJnd1Jhck5GdjZaNmlCc253c0dZMmg4MGVQdW5pNTVOdTl5MEFlLWVBRm9FcGF4VERXcmh3YkdDcU5mdTVhR1d0QXdpWjkwWlBnalZvU1JqR3FIR2RGMDliS3RYZV9saUs2YXpYMXNyZw?oc=5",
+   "data": "2026-10-27T17:37:00+00:00"
+  },
+  {
+   "titulo": "Goldman e JPMorgan veem mercados mais estáveis pela frente, mas melhora só após medidas fiscais",
+   "fonte": "InvestNews",
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxObWNCS3ZfYUlQbEFyRVEyckJTN3NTb3ByVE10Mk5rTGJ6RGk5bzlQdTdWZDZZMk1vaF9UNDk5bWNNX0pWMlZfVHVIZENjZllWTjlvbnNaX1ZZTGZ4eVVIWlQxeVNIRnlBb01jR0h0QkhuQlpfaU1hcGhCaGFGRVFSbmNMZVEtQi1sNnVTOFpiWXVqdmYycDNJQ2xfR05oQUJ6dFQzdUNwRzBSZzlMRjhQNm55R2didVA3Qm5VbGc4RENKZjhXYi1mUXFwV1Z3SHE40gHWAUFVX3lxTE9qd3R1M2ROWWFrR2k1eGgzb1JlYnRBQ3ZsNWgtUUpsX1MwT3ZYT1ZGbmpITnc0TExIekhIVHFxMUdOb0xWWjRmanMtNGlMY1E0bldEODVrWllfUktUZnZUWGRBNEVrWEJFM2NDaUhzM1hkOXRNWFNDM2VDWDcxb09PekdNX2h6TXhYWW94bjJnamFJMnMxWFpodzVDWkxyME5rdkxUQVMwUElXMTgtdXFfcDRlOGQ0UjFVZWVsZXMzak84d1VwUWRobUlCNllnbmhmV1BMckE?oc=5",
+   "data": "2026-10-27T17:31:16+00:00"
+  },
+  {
+   "titulo": "ISPs responderam por 57% dos investimentos em banda larga no 4º tri de 2025",
+   "fonte": "TeleSíntese",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNWlNkaXpuYmp0VVNxM2wxUXpYaWMzUXh4d2JBbGhPc1l4LTlYSVpjYnZxaFVJOG5Ddl9GcGl3TFd0MDQ1dDdmRGptdjhEdWduOEJtYjhGeGRkaklIc01sYXlFLW90SG5HcTdPMEEzaUt6SW9pVkJvV0hqRFNsNlQ2RTZ3bUZVTl81M0EyMG9oX0NzYUlRdENUa2N1VFhNVjha?oc=5",
+   "data": "2026-10-27T17:30:56+00:00"
+  },
+  {
+   "titulo": "Citi passa a recomendar Mercado Livre como compra, mas vê risco em investimentos para manter liderança",
+   "fonte": "Seu Dinheiro",
+   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxORzJ4dnl1X1ozZXk4T0UtamRtT2xtbUUzZ3RiUkVEbWdUVjVWckRxbDA2enREd2F2U3hJdHlvaXJkSXBKZVJaakk5RkJKcmhheHlEdVI3cVpBRW1wSjVWNV94SzlrOElpM3VmQXlSWl82S2Q4MGZTUGZSYi0ySkZCMEVuWGd6cTREcUdfV1cydHhhNXdnN3NpcXlFbWlwSER3Q3Q4V2tQU25uOWdobE11WWFIM19BWjJnYWpwN3pDU1Q0VzE2SHRXRjUwamc1ZjFKd1VSQ0lrbUoyUjF0VU1hWGZfZw?oc=5",
+   "data": "2026-10-27T17:22:00+00:00"
+  },
+  {
+   "titulo": "Ibovespa opera com volatilidade nesta terça-feira (27) após queda de quase 14% na véspera",
+   "fonte": "CBN Caruaru",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOZFdscVJHSnZXWEVIeXE0MjdXa1NnUk1PRDhnaS1yYlBXVGxsSVNlSUoyZy12ODVaeG9tTTNZNFYycHlZblJVVjVmY3NXZFFza2VHYU92cXh6OXF6VTJTaXFMNE93SnNZR0FSWU5ZOGQ4clR6d2g4bVctOUZKaHgxaF9HSkYybXFMWjNkZU5aQnZSbjZuV1pzSU9ha2dyaERVc0Zid0xQT0RpeWNSOUU1bVJTNzFzZUlLWlhNd1V3?oc=5",
+   "data": "2026-10-27T17:14:13+00:00"
+  },
+  {
+   "titulo": "Por que a Vale ficou fora das apostas pós-eleição do UBS, mesmo com o dólar em alta",
+   "fonte": "Exame",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQeXg1dVR5SmlYYVBWSnJNdUtsN2RSUkRBM3B5akU1TDNFRlZNOExwZGhHR2xzaUtlY1QyT0dwWlhjUUdTaW1ON0NUdENtWTNEUWxGNDVmcnNfS3oyLVp4MWpqX2Q1eE1VMGhCOTNWRGZzdFdnWXJtZ2ptR0VnNlphWXZZZWE3bWl3Q0ZzWXdpRDdnNlZTRTlPRTA0SW1TZ2ZGT0Z1YjROb1BMdjhxdHA1M1E3cEFmR3FH?oc=5",
+   "data": "2026-10-27T17:04:11+00:00"
+  },
+  {
+   "titulo": "Suzano (SUZB3) sobe com dólar alto, mas o que esperar das ações daqui para frente?",
+   "fonte": "InfoMoney",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQRUlYeHpPTzl6dFpvblVyVHJERGVCRndDbmJ3aldlLWJFdG5oZWJaUUZIdjRWTlZKZmZtenliZE9tVzlhM1o5bURlQnk5aVRXVHRwOGJDTDBQRk1NektOaTJ3YkRKMk15ZFpPMkpsSzUxaTF0ejZPSUZIbFk2WEN5cEhsSFlzVjh2ZUtrYkNPUVNReGlnbWhUV3NnOVRpTzVKb2pnSDVLd092ZHF3czhweXBKald6b1Fj0gG-AUFVX3lxTFBUSlhmOTEzMVRObzR2NlpCOUxmZjBVWGZ0eUlGYWVPTmlGZGFOTzZHaW1WSDJOSW5rSTRCMEVzZGR2S0FlUzhFajZ1NTdMdVdTWkNiU2xaNXhiZzJQUnY1d1ZWWTJ6bWpOUGVxeUJ5QnFxdWUzc1phTWZyLTZHQkYzZWY4akxQOFB0TjFsOFNjalZlQXhzc3MyZ3VNQ1VUV1FmN1dlLXlQSWdzQlI0dlhQMnR4TXhjM3paTEh1Umc?oc=5",
+   "data": "2026-10-27T17:00:00+00:00"
+  },
+  {
+   "titulo": "Ibovespa e dólar hoje: bolsa fica volátil e moeda recua abaixo de R$ 5,40",
+   "fonte": "Valor Investe",
+   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNSG15dEVRR3poam16NkZhUEg4QnpwSWp3VkFscUYxZmF6VklocVBRYmRLTUZGS0ZCd2czbUJGNWNJQWI3OGNmUjNOSnNodUlKcUdpYTRoZl9xZTJRd2ZMRHA1QjVabXgwRTVpbktiVml2V3RELVR6aTlDNlQ1UER1UFRYNDktSzJ1dVBSbTlRMjB2dkJtNWVOd3cxaTJHektsb2ktRGtfT1lId0otRjJQdjE2cjFlYWVkQVFHSlViSkcydWpnM3RESUphb0FXQmwtaUtNLVBmONIB5gFBVV95cUxNcmxweURiTE9RTTFmYzl6VW5UZjNXNkJZeFdMLThIX1FUNUFNUjNQbkZKWHdLWEhScXZfNFVQYmxmQXh6V1VRSE1kdi1FQWw1bi04U1ZuaGhWRllBLTg1NTdTUnVTMVRSeDREWmJIVE8zU3FVUWFXclNXa2lZenBNRDdsc3VDSWhWcGRrQmJsT3MyTzJKN1k5ckloSGNHak5KRWZ0NjFiRk9sbEIzVUg3Y0dwZWtkN3V6WnNDRkRvejVVR0dORkhvUWJiZlJXa2lPVzFicFVSaVlhSGF1NW5VZGFQNk5lQQ?oc=5",
+   "data": "2026-10-27T16:57:25+00:00"
+  },
+  {
+   "titulo": "PF investiga investimentos do instituto de previdência dos servidores de São Roque-SP no Banco Master",
+   "fonte": "G1",
+   "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNbWJxV2Q4aHJMQXROWXQ3X0c3aVpOU3Q2WWtYeVl1bTVLOFd2UEdhOXZIWTBENVZ5WGQxRUdHQVZMR1Exa1pHUlpYdTVHUDMyamFVTXhiX2pVVDEtUXZmN1VIMGtsOUYtaGV2Vk4zejg3aWJ3ZTU5amNwVS1iX3c0ZDJkYzRSd3BIampHaDlFMUp1UXpjT0RLY1o4ZXVHMkZyVzBzRjlfMTRKTTFnOGVITmh5WnI3dGNfTEtMd2VsaTBRWUtxd2RlUGdUTXV5aWVwcXc3ZFBZeUN1LWY4WmRGd3ptbkNUNjkxVkRJ0gH6AUFVX3lxTE5iWmU5eXJ1N1JscUlpUnJhV1BZNV9mSzNFdmZpeU1CMnZPQ0FFU1BicU15ZEYyUVduNW9iZHhxQlJleE9MZmR3Qk0waFdNVXdyaF9XNklJUlhnSEFhMHBLX21uZE9Gb3IyU3YzdjJIbmRyUVVOdmlqc051ZEZPOGlGZ1puYWlpWF9odXp4UFpnS25BMVc3c2o4blVwa2J2NW9aLWd2c3p6cjU4cU5BbGxNejZOU1E5VmZRRWliVDBzN1hGRXVFNjhBXzN5YWx3eHZObzFiM0Q4MjI2blUtUXBOZzlCU3Ezb1NTMDdQOVNGV3JiNS1PV3pXOGc?oc=5",
+   "data": "2026-10-27T16:53:29+00:00"
+  },
+  {
+   "titulo": "Petróleo pressiona inflação e pode levar Fed a elevar juros",
+   "fonte": "Agrolink",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPTi10cy1lcms0ZHJ5SlBPOHI4UXdXd2U0bXN3Uy1CT0lfZkg5cUE2c25Lc3dpY1NpNWRkU0piUWZqeHk1cnN4TmxqU0ptQ1VWbmlvSHpkaUJLM1NsdjIzSXNuTXBDZkg0QTR3TTBUSXFsa0NlTFp2UURDa0xuaDFBclJ6WFAxQjQ4QjE3MGQtX0hLcDZCaldxeEpJT3lvZXJaYlh1YXktWUpzQU90?oc=5",
+   "data": "2026-10-27T16:52:00+00:00"
+  },
+  {
    "titulo": "Petróleo em alta e inflação resistente complicam o caminho dos juros no Brasil e nos Estados Unidos",
    "fonte": "Gente Seguradora",
    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNZ0R3UVVsWmVLeEs2NkwySkN6eGdQeU1MQ0tpX1BXbzJzT1B4ekhrZzItQlBXR3E4S05lcW5OWTRJWXdtdEltRlRLS0FWMGpBall0WV9JaFFkSHh1R3VLb2ZTRWw5MFpqSXNhNXRsTlJScFhKOUw3YTh1eEhjZjU5TWh4UGRDQUZ6eE5zWkN6bzdPTlNRd3J2QlczajYzWXJEY2RFTnFIaTRIaFhSei1ONy1lbHNzMUM4WlQ5R01Wa2YyT18wZ2U1Y0k2VQ?oc=5",
    "data": "2026-10-27T16:42:54+00:00"
-  },
-  {
-   "titulo": "Leilões de transmissão de 2027 no Brasil podem atrair mais de R$40 bilhões em investimentos",
-   "fonte": "BNamericas",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPVmUtOVpqSGhNcnNKLU9lLW1pY2tCTk00aG5NVjl0b2EtNlYtbmdweENvTE9peU1zV1RUaVdBX2xfREFMM3N3Q2EtZXdTZklGWHhHZkVVbjFmWFBfWm1jNUk4eWFPaWt3aEJYWWxZeFJHRWZOZm1pZWhYd0lLRHlWU2QxckxqbHkta2c3dUc0UENGY0F5T1pkRFdDQzZtWl9RcEpoa3doZDA1dTVQODJibTRmNVdzNFJ1QkE?oc=5",
-   "data": "2026-10-27T16:35:57+00:00"
-  },
-  {
-   "titulo": "Tesouro Direto hoje: prefixados recuam após disparada e 2032 cai a 15,01%",
-   "fonte": "EuQueroInvestir",
-   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQYnBGd1BnaW52SDVDTTFCY0VXdmktaE1hbEx5eDJOQUVrVDNGYm1rTUNYcnUtN09ZUHA1VDZONE5iWnV1SmlhUGJjLTg0azFZZXFIdHlGeVMyeEROZWJNTE0xN2xSb1Z0azJsbDd5TGMwRmhZOXpBbEFpTEl6eE94SktjbDhVSnJEdFBVQkRoaw?oc=5",
-   "data": "2026-10-27T16:35:09+00:00"
-  },
-  {
-   "titulo": "Indústria goiana defende regras claras para impulsionar investimentos em bioenergia",
-   "fonte": "Zelo - Portal de Noticias",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOWnlhYTQ4eHJ3b0d1WDk0Y0pNQlI2Q3Bpd3ZsRm9JVlR5VUJLRE1lMzhzeFFKTlh1aldFcjVhOERCTU5oR3FGZEo5OU50SDNaZUsxdTBjejBiOTc3VENYbXhWRjRFd2dRN1E1eHI3dnVlRTJJUm81N2R5Q2xYZUkzNGNvRlNiV3ZLNjB0cmdZT3FhN2VyUGMzRW1JS1k0OElqVmpESlBfMUFsekRHenVyaA?oc=5",
-   "data": "2026-10-27T16:32:00+00:00"
-  },
-  {
-   "titulo": "Resumão diário #2206: Xi Jinping, da China, parabeniza Lula por reeleição; Ibovespa opera em baixa após abrir em leve alta; dólar cai a R$ 5,30; Gases de efeito estufa batem recorde e agravam aquecimento global, diz ONU",
-   "fonte": "G1",
-   "link": "https://news.google.com/rss/articles/CBMijwNBVV95cUxOd3NoWDZZajA2YlBqMHVYeTJmTHYzUGpZMV8zUEh4VDdmaXdGZHg1bk53VVdyZFEyQkx4cldXR19ldGR3RWM4cHBEQW9VWEJFcGd4cFVUZUUwZUYtZEQyMEdaa0IwbUpLN3ZxWk5xZE4zZkRYS0JRN1dvS0pEWnpOenMyMFIwVmtybk9tc3J0TkJUdmNWOEdMR1lFdjJJcDZ6dzU3Q0EtamJRV0pOZ2VqUTdaNlRKQjE3dFhSTGNwci1IbW5mR3FHV3Y5aFFNb2RsX1dfbU9KZnFWYkcxcDlicEdVWnphZjdYOFlYTi1SZTNqeTgyVm9WbjNxTXE1aGhjUnNBOXI3Nk02bWNoLWMzeHJnbTQ3UDk1RWdabU1jbDdFTUs2SnBIMWlPSm9GdEVjZHYxUUxKNVZ3bk4wXzV4V2VIVm56SVNfMVZ0M3JvbS12THhDZ0ozaHA0UGdHRkpPY2tpWWQzdVZ6UGIwZDUxcHhrbElDcmcwaWk4WktJQ29waFQ4U3p5SGR2SzBpVGvSAZ4DQVVfeXFMTjk0NkNKNTN5bEg0ejZxZWE0dFVOUHJKelRndFFWTUlXTzdSMTRNbmI2RUFaYlFPaHRtbkFidHNQU1g1eEVxX1k1emM3Skt2R2EySlFUUlV5d3ZfS3RDX0g2SnhfM0Z6RENOa1JxTmlma1pRc3hSblNjazhsWUkzYkRvcE9HQ1ZVZV9XWHdvMnMzTVdhM1l5aDRKZTdBRlZKOV9fcVk3Y1pHRkY1X1ItajVSb0ZVbjZiVmtBUk9jeldtcWc5cC1vU0JvMWR0RDV5U2JVMFZiT1JhMlpNWWdsSHpwUmRycmZoY0dCc0pfcUtsOGdYcldheFkyb3pwTDhGNFBIYXFvblJraW9QNXgzbk9rU1p3Y1hsLW1Xak1oXzgwN29LQnpGYzFVZUdMdmlFZlVMS1gyc1VWMjhKUXdEc1duMmZmRkhJaEJnWEVJbGFfT05jNVVtZFNFekdabnhyMldTOVlDeWs5Z3VTdWRQNk01aUdkWmRHQVVUbndaQ0ZZZnJ5XzItSFJET1c5alBaZjliYUR1VWl6T1ViZUp3?oc=5",
-   "data": "2026-10-27T16:29:31+00:00"
-  },
-  {
-   "titulo": "Educação de Araxá avança com investimentos em infraestrutura, modernização das escolas e melhorias na qualidade do ensino",
-   "fonte": "Prefeitura de Araxá",
-   "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQR1ZReWpmdF93Ul9ud0NkNC1LYnhGZ1ZOUF9FYUMwYVRfTll4TWdnMVFwcUZraHg1SzBlSmI1RmpNc2FOY1lHR05jRTFiNEZEU3RETlVIcFllenNnakxFVkRlTElpSU4xYkpPcS1yakx0ODhDakJNRWNlUmswWExVUTFrcGNPVXZaOFRHUlQxWjkzc3ByUnZqOGlyOFFWZGpZTElsRzJNWkNxV0p0R0FIeGhzN2ZxbVl4N3F4OUJsYjFTVVU1MGloVG1fQy14WEMxa0VqZGhnN1draGJheXBHYk41VmtLR3hTQmRWdjR3?oc=5",
-   "data": "2026-10-27T16:28:00+00:00"
-  },
-  {
-   "titulo": "ÁUDIO: Bahia participa de agenda internacional para atrair investimentos para o setor mineral",
-   "fonte": "ba.gov.br",
-   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPWjc0czdxd2dpb1lhTDUwWDFXX1BZMU55LWE1Uk9PSlBxZEQ5M0ZEREo5WmtLdXpDTVk2MkxLZmRNS1E5R0RJTzFoUUhWdEJ5c3NYb0pOUDJmblZOTkozSG81eW5fT2xURkVFRWlJS1gxa1hwRFRjZUpPLVEzYkticTUzWUdJRmVnaTRWOGVlVF95c1JTczF6bndOQU5XUkpzVE5GY3J0TzlUWXdiR0lxUHVxc1pBOU5nY2JseXhKZDFPWG00VUNWaQ?oc=5",
-   "data": "2026-10-27T16:23:10+00:00"
-  },
-  {
-   "titulo": "Mercado financeiro apostava em Flavio, e reage com nervosismo à vitória de Lula",
-   "fonte": "Correio Braziliense",
-   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPS2FkaXllQkZtbVhkQmM5YVIyRHdfMmNJbWZxR2pXYUdhR21TSW5oeFZfWUtHVWFzOS05VVhYM2RXYTU3TVFyczZiYVBHclVkZmFXN2xnSW9vMWFiSG5qVXlMcVJfZ3VnYl9wTlJuZFVlbzBYOThqY2VrcGVzZHg0UTFpeEVpUVVReG55X0FpMXdjb0NlTjVxNkdyTHM1bHpwNGFEcHhiZUt6N3V0c2lIZzRTTkkwcUZTNnk5eXgzZDN4UzhpSzNkTHhEQWVPZTYxRVhnSW1HOUo?oc=5",
-   "data": "2026-10-27T16:18:27+00:00"
-  },
-  {
-   "titulo": "Gerdau ganha proteção contra dólar alto com operação nos EUA, dizem bancos",
-   "fonte": "UOL Economia",
-   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPdEkyeHRfTW5kblFWTUQzWVZaMVE3NUVDYllSS3lCVkVtbDhSOEI5RjNxVzlDLW50TXpSTlhsNmVOQmZRYVRGeER2T1BTeUIteEh2QjFaZFFhUkIyakpPX25Jcm9CcWZpc2pTZ3hWUEhjMHJJbkxjcGJibGNqanZEREJnNmFSS0FySzVOWUZlYUdtZXJRamlkUjlRMzNiMzNYV3Q0M21Wb09zZE00dUNuWV9yYnNUbVI4a0lNTkFhbkFpV3dYOWhyOC05M2dyZw?oc=5",
-   "data": "2026-10-27T16:17:52+00:00"
-  },
-  {
-   "titulo": "BC só vai atuar no câmbio em caso de disfuncionalidade do mercado, diz Galípolo após alta do dólar",
-   "fonte": "Folha de S.Paulo",
-   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPWGRBanVmN3VzTXZWb29HaTBQWEN6dU1renpnWFAzSUJ1blJKVFpJM0cyYmdEZkdSQndIRGwxQWIxc2l3UEZJY2JlYkkyT2c3TmdwcVR2V2NEVlhGd0k4cEpJQ0FLTVZXVVJaUTU2T3pyWFpqdzhfVnAwMFdWcHBxXy1FQWhjQW83Si02RkZzWVNFYTB2eDNWb2hDWjhsWDhSS1FuUkxYRkxPa1U4WmtCNXJzX3BnUWZUbDRLRE84eHJBSUlBZm9FeFNrNkxPckQ0YWZOUkZUeXVVQ1lFak9CbEdNMA?oc=5",
-   "data": "2026-10-27T16:11:00+00:00"
-  },
-  {
-   "titulo": "Suzano (SUZB3) ou Klabin (KLBN11): qual ação pode ganhar mais com dólar em alta?",
-   "fonte": "InfoMoney",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOZXVLd3o0Vi1DcmtocDBJSjRlSHdsQ2o5b1UxS2NPYVF3eHo0X0p0MWNsUzhLcHhBZTZXeDR3N3doSEFyUmo1cXdwMDRpRVJPS1F5WHI1cU1hZXFma0tiY21JclFack9HdnNORGhKNC0xeklKY1hzLUhFWlFrX3Z0S1luaFBobkZuQ3kxRll1YVBrcmNEZ3ZZ0gGcAUFVX3lxTFBCTWM1MmpBNjNBaTQ5NUVHZzV2VGJ2SDA3TEJvbDZiaDdXRGtoSEpSVEZQdnNhdEdlb2daa1VqcUxyQVlnMlU0UUdjWllFb3doakt1UWwzTUMtU19mTldTaEk0T3JWdmJ5WGNaRFZ2ekUxNElReUVxbkJPWm5CdWRiQ0Fqek1aRzB1aDd5cW9BSXYzZm1EbVo0ZFRnZQ?oc=5",
-   "data": "2026-10-27T16:09:54+00:00"
-  },
-  {
-   "titulo": "Tesouro trava pela 2ª vez após eleição, mas juros recuam; Prefixado 2032 ainda paga 15%",
-   "fonte": "Estadão",
-   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPQmE1OS0xTVVDZEVkanBIQmxrWHVIcUZmaXh5UEVZdnVBQ3FvU3ExaHdoRUJiMDdHWTVuMUM4U3ljWGtJRjJ6WnlFLUNSRTVxN3hXbW42b2JLMjF2bjFEdWdNRWFJUUE5cE5zeWVQOU8yS1AzallVbkU1elQ2S1IxZk1na01sbWpJVWRUX3ZpZmJ1T1QtaHp6d0NSUVYyMkt6UjJpbWdtMEdIaWlGb0p4dnNkcDlrN3ZVaDI2UFhORVBoSDRwcVhLbzdKMXMtRXJCdzQ3X1lJN1kwcy1rZXQ1VlVvWERJbHA30gHuAUFVX3lxTFBpTmFYMnhpeGlVNWlQZWo1NmFrMHJRMmtTRlYwT0UyWU1BVGNYVHlSRktnRl82SDlEWTJUNW01N0tBZFo3b2hrejZVX0wzWlJpWmU3X0tCY2VKajJGSUJKQURhaW1DN094dGdvTkg5NTRXanRKSWVKU3d6eXV6eWZmZGhEc1NxNjFKRi15SThTTWgzbVpDVGJXWU14a3J3SmRNcEFLY0tPU3VydWVoNXZCcEdRcUZJeFM4bU5kQTE3dmJBQ1gxOGR4NGdkNDcydEJ5UXhkUkNvUVhBVlFKTnJIZXk2LXl2QkdyVlF6Tnc?oc=5",
-   "data": "2026-10-27T16:07:00+00:00"
   }
  ]
 }
