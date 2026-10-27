@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-10-27T00:46:35+00:00",
+ "atualizado": "2026-10-27T01:45:51+00:00",
  "indicadores": {
   "selic": {
    "valor": 13.75,
@@ -16,6 +16,18 @@
  },
  "cotacoes": {},
  "noticias": [
+  {
+   "titulo": "Arthur Henrique lamenta derrota de Flávio Bolsonaro e defende investimentos para Roraima",
+   "fonte": "Roraima 1",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOVnRNZF9VUzJhZGRaYmJERzh6YUhhZlVvdE4yclk0dGM3c1dPRmNnWXdPbTdtdVg4MHZMRlZ3aTQyVzJfczBWYkZEVGpDellJMFNvemdmUkc5MW1VVjEyM2l5bHJxTE1FcWpoX2trUFY0NWxBbGxQTnM3SXA2ZEEwa1Via3JBUlVtTjFmaGFldWFCWWJKQy1McVZLRDJza0l4czhMc3A3OVNwZ3dqLUp5dWc3bw?oc=5",
+   "data": "2026-10-27T01:09:11+00:00"
+  },
+  {
+   "titulo": "Virada histórica de Lula aciona ‘circuit breaker’ e Ibovespa tem maior queda desde 2020",
+   "fonte": "Valor Investe",
+   "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxNSHJIaUx2UFdwTEFyR3dSS0RqM3pDSW9VN05MdmpIbl9obHg0U0FrQ1FZa29oWnFsYlR6SHB5ZFFpUHR1cGVIemxJQXpMT2dyMnBEM1U2M21MUEhpMll0OUR4clZudTg4UWZ5Qk1IdHRmV01qQ096OGVHNnRrcS03UExmLVZ0MVBYcGtzMTdPLURUR2FJbUdGZ3hVd1BybWZVcnFhdmlYaDA4Mk5kOVY3Z21PTjhESE5PM205QWZSdmJ2MTROMzltVWdUQ3JuMFY2a2pxVGw3a3RDOUFFX0xfRVdrY0JvS3hIMmJsYU9BMFFmRzQxSG1iU0VrX0dhTktFWHFXUFdJWEw0cWtzTG1Z0gGeAkFVX3lxTE00Sk9tQ0gtZHNEOFdIS0JBMHVhNGY2SVRTaTR5T0FjTUdMSm5QWkJQTDY5QXNkeFp2OS1RRkNwaGt5TVU2Q19tV1dieUlOYjl3UEI1Znc2NjZQWVprMFhaWlpwQzNvbDFvekp6bkpjR2JHdnhBSzlWYXYzRExQUTFDQW5lTm5VbFpuWjNyOW5XRTFuaWdSMEpzSHloRzEtSEVSZndCaGZzZjNKUEZTSDdScEkwbEhGeTBYUWszOWlxLU1SMGVJdHo1SHRQZzkybWg3OWxLNl9LdnRsdnZ1ZG5NZ2RLS2t5dVEwRGl4cGxmR2dpdWQxa1dfbjBMVk1SYzlWT2hoTnRQSEJxamh2QlJjS1k4U29DSkR6NDk5OHc?oc=5",
+   "data": "2026-10-27T00:49:11+00:00"
+  },
   {
    "titulo": "Fernanda Rocha vê proteção nos pós-fixados e oportunidades na Bolsa após fim das eleições",
    "fonte": "Times Brasil | CNBC",
@@ -39,6 +51,12 @@
    "fonte": "CNN Brasil",
    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNUjA1d3oxcU9QV1BpNUVfb05aVzhwLVBEMk5pbFRvbjA4YnRWVjhZYmxoQ0lYcnZzckFZMkRuMFJCc3FLaGZTZlY5aVkwYnMtX1ZhOUIwYWYwajdOZEFGb18wTW5LVWZ2SVEwZ0JGdEM3cGJvSVZHWGloY0RvSVJsNTQ2UFg2NmoxYUNsakdSWDJQWDdYeW43a1JZZUh6T2wyMmN0TklpQ202aHJOeGc?oc=5",
    "data": "2026-10-26T23:51:20+00:00"
+  },
+  {
+   "titulo": "Porto de Santana, no Amapá, terá investimentos de R$ 150,2 milhões para obras de modernização",
+   "fonte": "DatamarNews",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPWTlDVzY4eEN2ZkRYYlQ3ejhRU0NscGJEVFlWcWJVQkpaNmhPMGwyU1RXc2pLN0VuX25SM09YZzAyZVZqV29zNVJQaWdlZXFPRUhoQVdYRVdialJsaXJ6NFdQLTQyTDVKRlFaclNuc2h3aTYzU2lxRTM1cTc1V0k5cFk3MEpVa0t0RGxsdUUwVDdzaFJ0NjFoT1J4aUxYRVQ0a0haNVAzSkpkNTF4OUdRYTIzdUZCYWRqTEZrMWROeFl2Y29S?oc=5",
+   "data": "2026-10-26T23:42:23+00:00"
   },
   {
    "titulo": "Dólar sobe e Bolsa cai mesmo diante de melhora nas contas externas",
@@ -69,24 +87,6 @@
    "fonte": "Campo Grande News",
    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNQXBMRFJuWHBjc3NZLVZ1ZVlxX1FtVDJpWTFsN1hCRWJRSlp5eFEwQnFhOTBQTlFadWUzenlkdFRLSGhBRWdjUkZOQ3Z4LVZzZjNHV3NwMmZMYjVLVmM4c25XTEZLSC1UTGQ4VjF1OVdlZjVFOG9nellXakdOTlB1M2FCT0VmRFNLU0t5VnRqSXJ2YkV2R1JPNVdmdlh6LUN3RnJJc1Vn0gGmAUFVX3lxTE9MQTRUaVNxLWRfT2ZiVDFvbWxTclBLdlB5YWFzTldOblhFWFNHTWluaWM2djVmSldxNjZZbGVON1hPTTZUQzk4SHI1R0VQWXlpUFJCYkYtUU1QaTVqWnBQemZxeGFwRW1oUDVsakNuNGtvV0xQeHF0cUJVNjBpR1lobDBYdVJBR0lITG15NjBZdTJEOEhINGNrTnR5eFVObW5qOU1kRFE?oc=5",
    "data": "2026-10-26T23:10:00+00:00"
-  },
-  {
-   "titulo": "Dólar registra maior alta desde 1999 e Bolsa despenca 13,43% após vitória de Lula",
-   "fonte": "Vero Notícias",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOMHR2aGhwWTZMT0c2VHdkMWZobnYwMjdnYi1NLU5XSE1yWkFBeEVhZVhLeGhST01iVUJWOWZPNE9HcGpCaloyeUlUYjRnWXR3cDJtdEd2a1RvWVlRcGN3ZmZjSmNPVE9lZW93SFZRd1dJZ3lfVzlseUctNndVTS1IZmF1bzNZUU43dzc4MDY0NmUxai1Ienprd0lvLUcwTkJPYlByVHIxSksyaHdPR2d5cEtzU04?oc=5",
-   "data": "2026-10-26T22:49:09+00:00"
-  },
-  {
-   "titulo": "Brazil Windpower 2026 debate a competitividade das energias renováveis e novos investimentos",
-   "fonte": "Balada IN",
-   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPWXVOUld2ZVJZd2JDU1NJUG54UWxEMm1lSU1FSURfTjFqZm0wNUN6cXdGSFVKQVFObGo2cG85VG9jQWJEV0V0OXB5ajJsdmhDWXJkTWhGb0YxM2tQbkVhZnh0UUl5UHN3OXhQRVp2THFBdHpYX01FdFVHWjhkUjNLbVpqWG42M2JUaXVER2NoajVXc3pGbWFxclRqV0U5eWhJQUsxdWxQNXZsdVZjaWs0Ni1ZODRxYjk4MVk0YUhsRm5DTTVOZ1VPTDRn?oc=5",
-   "data": "2026-10-26T22:47:00+00:00"
-  },
-  {
-   "titulo": "Investimentos em infraestrutura e operação sustentam expansão do transporte rodoviário diante das novas demandas dos portos",
-   "fonte": "Jornal do comércio do ceará",
-   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOYzJFTWY5c1dna0ZUbEFtZ25GZmNyR0VuV3c2TnU1R0FLTjZSQ1pfVXVOMXRSdXJjTzk5VkliY1liVFhuN3h3NTVvN1Y5QTJ2blJEd185XzFqOHRacEdvWG4zMjYzN01DZzF5MHJYamhtSXltQTUxbHBINnRzNjNNV1hramRPd29yUUh5dlR0T1FMVmh3YXlYbTdYZndoQmg2em95M2J2cmFYUzFTR25JRUlvWlJPUENBLVFFOTNhcUFRbFU2VFJtSmZVcmpYVmJ1MXZlTHZXQWxhSGpR?oc=5",
-   "data": "2026-10-26T22:46:06+00:00"
   }
  ]
 }
