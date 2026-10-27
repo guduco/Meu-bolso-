@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-10-27T02:35:51+00:00",
+ "atualizado": "2026-10-27T03:37:45+00:00",
  "indicadores": {
   "selic": {
    "valor": 13.75,
@@ -17,6 +17,36 @@
  "cotacoes": {},
  "noticias": [
   {
+   "titulo": "Ibovespa cai quase 14% pós-eleição; veja maiores altas e baixas",
+   "fonte": "InvestNews",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOeFFyNkc0OGtFV0FJSWpTakFFam9nYm5QQ2FPVEVpVDJkUU5qMUtxN20zOFlmMTgxU1Q1ZllaaVVXTG9WZFIwc2R4RDh4MXhxdkZwYUY1ZFdNd1FGMTdFZk9MUWVSc2tmRUdxbEg5U3FudE15Um1sdF9IQlJWV1FpWlNfcDk0TlJJckh4QWxIRVFUb0tyeGdkOGNaR1VUdnIxTzc4empMU2hiMmloZHpRUnJ3MnlHX0VFOTJv0gG7AUFVX3lxTE54UXI2RzQ4a0VXQUlJalNqQUVqb2diblBDYU9URWlUMmRRTmoxS3E3bTM4WWYxODFTVDVmWVppVVdMb1ZkUjBzZHhEOHgxeHF2RnBhRjVkV013UUYxN0VmT0xRZVJza2ZFR3FsSDlTcW50TXlSbWx0X0hCUlZXUWlaU19wOTROUklySHhBbEhFUVRvS3J4Z2Q4Y1pHVVR2cjFPNzh6akxTaGIyaWhkelFScncyeUdfRUU5Mm8?oc=5",
+   "data": "2026-10-27T03:08:57+00:00"
+  },
+  {
+   "titulo": "É hora de comprar ações? Veja o que avaliar após o tombo do Ibovespa",
+   "fonte": "G1",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQNG1ta2pZZ3JHUkZ4MUZfSFh6cFI4bkU5N3pXLXZXOG9lYlNhQ3JXTDNpS25nMzdjekJlRG8xTGI0NnlCVHpScldKWlNuRjlBdDZ4Yk04SzJRczFILW01MHU4MU1rRnRuT1I5ZjVHUnN5LU54a0RIeG54SUp3Z0p4WWU3b2dDbElmeXdhaW95X05Pbmd3YUZ2QW1OYmctS3dmeGdTRTFKNGJMcUs2U2Jj0gG-AUFVX3lxTE56bUtJTkxwTDVpVkVFZlFHSVlsODVuVlFZenBtb3M4bDB1SEJjOTlyNFg4Zl9NZklHRUJvcnVCUUc5OXN2elV6d2FUX1dmYmdsWHZNMy02MnZodTdrSmRoN1dNR1NKdkwydkJxS0VwUVFfSnRfMEVFcWZkeVIxLXlueUU1RFdXc3JWeGxETzI5S012Z3p3SjNNd0lPbW9rVFBnSmxueUc5bERtZ3c4QVVzZ1I2T1VxS2J4MzZDUmc?oc=5",
+   "data": "2026-10-27T03:00:02+00:00"
+  },
+  {
+   "titulo": "Com disparada do dólar e queda da Bolsa, mercado cobra de Lula o ajuste fiscal",
+   "fonte": "O GLOBO",
+   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNMnR2eTB2Tm9oRm1pZl9HX2RRN3ptc0drNjVsRHpDaXQwTVU0bzA1TXdOd3h5YWtZdGtRaFRWWU8tV25aWlBsUDlMMGctaFZKRWZiWUc4NVptNzVqQXVfYVB5SVBweDVET2tsRzZIS1BaUWx4UHF4NHVGb1lKVGgxWngwZm9pTmNQQmw1dEdUSE9qVGZ2VUVhYnFKdEFzUHpGeVk3V1dJcUFaSWZ3Z2FuTDZmTW1DZzlqR3ZCU3ZobDRteXlzemNMQ1NXQjlxYVA2TTVLaDRYRmVoVTducGfSAewBQVVfeXFMTjktOEJ3TTBIc1pYc3RBMEhLVHpLbkhkMlU4V3ViR09KNjhtQXlrUHNkZ0F1cEktU1pMbVhqeWR1bGxmWjQ0ZVFiXzdVSV9XaUdUUlZpbGt4Q19ZZjVCNHROREE4d1I1N1g4Qkt6RzU3aWxtYlk2cWpRdlZ5SXFfYjBua20waVNxR0d1aHVjb25OSHB1cTdZTGVRUVd1dkdPRi02SVgzVXFKUzMxVWJxOVZmY0RpRzk2c2xjbnR5amJJNmlrY2lVU043Z3JTUEotNWhmcnhvdTNrVE1KbDZacFZvSzlCQ2JwMHYwLXU?oc=5",
+   "data": "2026-10-27T03:00:00+00:00"
+  },
+  {
+   "titulo": "Ibovespa cai 13,88% e dólar salta a R$ 5,40 após a reeleição Lula",
+   "fonte": "Vero Notícias",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxORlN6MEhuYlVjSDFOYjF1UVl5Y1JJTzQ2YklqcFlybTMwcE9JWXBvRVhBdzRtenA0eEFVdjdIRjQtQ3BkYW0wZExkRFZSWTRjZjdKbGp1azBISzNGNEhBRUVUSVplSEFzLWVrd2g5anhsQWluSXRKeU1XWEwtVXNZbEZLajJHZ3FLempPSzZYLTJydkRhbjlrLXdNN1Q?oc=5",
+   "data": "2026-10-27T02:45:00+00:00"
+  },
+  {
+   "titulo": "Mercado financeiro reage à vitória de Lula com queda da bolsa de valores e alta do dólar",
+   "fonte": "G1",
+   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOUHJUemtzTG5YX3pyRUZHaE8tT2ZqNEQzaHZ6T3VVNjBVTEwyZE9BVUlXblEwNHJKaDR2WkV5cTRxVlJLRjltWWo0TnhIMnBfUjNNUmwzY09vci1EQlk2TFAzbmRuYVRzTVdoQjVfRmdKbkdHQWxPR0pxVFBkWDJOYndPWm8tQ3J2SWFENGluekFXcjZLeXZZbXRxZjkwX2VJbnVHNG41S2Q3VGJRY0JDUmhsYW9zT19Nd0hEUXdNd2xZaHhJWmFlejV0clZkNGRzT013OGZPWFJobjhnR0I1bmlfMVHSAfMBQVVfeXFMTnZTd3dKaldkbHlYZWkyTEE1VERmQmk1cWd5Szl3S0xhUXpjZDRHMDVtQTNPLVJOQmI3Q0ZabVFnajlKc0oyVU5QR3VoMVN6Z2VOS2JDQVJPYjhfS3lzU1RsSmV1SEd5N0MyVEhBNnotMXplMTByaXlSbUN5anRKX1dVN25XbHdUYktaSTVLcTRES0p5UDNKRW5WRjNseEpQWmhvTE5sVUc0d0ZoTHBkb2FPV3hfOVIzN0RTMmdHWjBkdXR2VW5BTzhoeDJfNXZFSHl3V1dIbU9vb2pWRngxSUNlNkhiUm84LWxfVmw1QWZHZ0dV?oc=5",
+   "data": "2026-10-27T02:37:19+00:00"
+  },
+  {
    "titulo": "Produção de petróleo cai 17,8% e exige novos investimentos no RN",
    "fonte": "Tribuna do Norte",
    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQRzg1NXE0dW10VGt3MkRDX0x6bGhWcHhhRU1RTGhJT3d0d2habHNhNTlEcElYbmNOY1k2VHM5NE1XUlJZYWpIVWRYWDE2eXRjUm9tVmo4LVQyT3paVjlxX3dkX2VKWjhsWTM1TXFQZUNyN0xFZHZVX2tSOVBHSDlQS3RQLTk2RUFzU1VtbmxLS1owVGR0XzBVaFNSU3VUOUpzX3NfSw?oc=5",
@@ -29,10 +59,10 @@
    "data": "2026-10-27T02:05:10+00:00"
   },
   {
-   "titulo": "Dólar chega a R$ 5,60 e Bolsa despenca após reeleição de Lula",
-   "fonte": "GDia",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOanVlcnlhQ0dxZVdDMDljbGJJQ3l4WV9VeHBWTzduLTZGTWE3cnBueHRNSUc1MGkxcFY5Z1pxMWk1cV90SmJNdGtJZHpPU2hwUF82bVl3SXFVamFkMUtUVjI4UVU1OHZ3c1ZsMG9vY0FyLTh3anlQalZ1N2Y1QmlWeUgwTklsQ3dUckJJMTQ4OFJYaWxWR1lXOQ?oc=5",
-   "data": "2026-10-27T01:32:00+00:00"
+   "titulo": "Contas de Goiânia têm saldo positivo, mas investimentos em educação ficam abaixo do mínimo",
+   "fonte": "G1",
+   "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQWFAzWk1YZmEzZlBrblVPWlkzRzBTSVVNdlh5ZlQ4UWNxMjZxeEFDVThhLUhzTExkTXYzZ2oydWZWQUM2SlZtcVg5UEZlM3BBZkxhYjBKS3BmMm9aQm15WWs2UUZSYWVxOTRYYk00UU8xaEtOUGYwRjdtdmpUd0VDQnJWTnRzcHdyLUlLSGF6SjNKUGRkdDJWVGgwZjBmaUp1UHVWUEFVQkUzbC1MY19yNXk1SHZOYWVxQ2FuOW9FaWNCZ3A5VVN4d2ozY3BOZ0NpMmxJWDdaTzNGXzRrcFd5czlWWE1XM1VqVk4zZ2s3aVnSAf8BQVVfeXFMTUF1Z1k0c25hTzU4b2g1eHV3M0Y2d3RKa1FlQURuVDdVRUZ5N2l2NUJJam1oQ2Uxa29YRl9tOHBMVllQMWkzRDNSR3Y4QXVyTWs5dDFCRS1NRjA2VXBxRUhJVHl6ckxqV09FRW94ZXZ3NlpEY2pKVE4yMDd2QkdXTmdSMEpveW9pWkZxNTR5UEVYNS1udzk3cEptTGtFcVpNQ0pDLTktak45eTBHSHNtb1RhMlY1ZjZBczhRbTc3TUtnNUQtY0tTUkh3MmlnOVdVaGRyZ0FsaWs0aXl3WFJ4LUZsaWdqZEYtVUpFb0NYb2Z2V2xUcEhTVVZ6RTVjMTJB?oc=5",
+   "data": "2026-10-27T01:30:45+00:00"
   },
   {
    "titulo": "Por que a vitória de Lula fez a Bolsa despencar e o dólar disparar? Entenda a reação do mercado financeiro",
@@ -57,36 +87,6 @@
    "fonte": "UOL Economia",
    "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNWHVSM2NIWFpPXzVsVFR2d1l4Z3FZNmh1Z0VlQ1ZlLUNpand2Vjg4N0RsVVFMUVdmWlY3aVJkSjNZY3dLVDk2UC1sQkJJTnJUMTBJVDBXaVVOaDd2NGctckYySUs5ODgzdVpYWW5ISmlBRVdaRzVuRFlrUmFqckl5LXotMVJhTWFRQ3hqLUp1Mkl5cWtlUEJpbjZPR21FOUZvWUhyMlI5OTdoZGNlQ1RYMHQyOXgwMzhHd0hjWXJsMzFUS05XZUx4eFFXcEZJVXhRYnF6SQ?oc=5",
    "data": "2026-10-27T00:14:44+00:00"
-  },
-  {
-   "titulo": "Fernanda Rocha vê proteção nos pós-fixados e oportunidades na Bolsa após fim das eleições",
-   "fonte": "Times Brasil | CNBC",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQZmYwbHdZZlAxMUhmaDJrYmN2SkVGSEVyQkYxczJHTVpEM3o4ZUdvZjB3aHB0ZzRnbzVaU2stanB2bFlqT1BMcFJjS3NsNFkzWDg4eWVla1pXVlFaQjBFQ0hBbDJYX0pjeVFSZFF0MkdjbFU4c2pycWtud0JLX2NPTC1PUTlPLUtva3otWV96N1pnY0FoR0c2bEFPaGE4Zy1uby1TYQ?oc=5",
-   "data": "2026-10-27T00:03:00+00:00"
-  },
-  {
-   "titulo": "Tendências 27/10/2026 | das principais ações da Bolsa",
-   "fonte": "XP Investimentos",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPWGtMQ3dZblBFMHZQZ2JkVWNhVlkwQVYyUm9CeGJOSjk1OTZ2dXE1SVE1QmhFNTdnNlJSbHNuaUlOTWRTY2FIWUhsU3F6cE05U3ZIaXByY0dsbW15VmZfRHk3ZlRlSUJpempGN1VpRHhVa0dBZkhFSzBzVXZkdGR3QldibW55cUN1SUV2SjRDMTV0UnNPMzRodXJtUmxKcXhZUTN4MzR5RXQ4M0k4?oc=5",
-   "data": "2026-10-26T23:58:43+00:00"
-  },
-  {
-   "titulo": "Opinião - Políticas e Justiça: Desenvolvimento territorial na transição energética",
-   "fonte": "Folha de S.Paulo",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOOV9md1ZyU0hHa2x6SjhIZmxuM04tcGpIUjNUcHYtZ3VlbjJSUkdpelR4Z0VhY1VZZ1FTTXJBaWpWQUpWRV9KZXB0QmI3Y2hvOFh2ODl2R1NZM24wckFqWjZ3eFV2MENuZTFTY1VaS1pGMEo0UXZCTE5oYThuNXpoUWIta2NoZ2JWRmtVMXBlVlN0dWdpTnlzTjU1eXJSV2NsM0FMS2dCUExSOF9IY1ZHbFJiRVZsMDQ2UDZ5SXJB?oc=5",
-   "data": "2026-10-26T23:57:00+00:00"
-  },
-  {
-   "titulo": "Dólar dispara a R$ 5,40 e tem maior alta diária em 23 anos",
-   "fonte": "CNN Brasil",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNUjA1d3oxcU9QV1BpNUVfb05aVzhwLVBEMk5pbFRvbjA4YnRWVjhZYmxoQ0lYcnZzckFZMkRuMFJCc3FLaGZTZlY5aVkwYnMtX1ZhOUIwYWYwajdOZEFGb18wTW5LVWZ2SVEwZ0JGdEM3cGJvSVZHWGloY0RvSVJsNTQ2UFg2NmoxYUNsakdSWDJQWDdYeW43a1JZZUh6T2wyMmN0TklpQ202aHJOeGc?oc=5",
-   "data": "2026-10-26T23:51:20+00:00"
-  },
-  {
-   "titulo": "Porto de Santana, no Amapá, terá investimentos de R$ 150,2 milhões para obras de modernização",
-   "fonte": "DatamarNews",
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPWTlDVzY4eEN2ZkRYYlQ3ejhRU0NscGJEVFlWcWJVQkpaNmhPMGwyU1RXc2pLN0VuX25SM09YZzAyZVZqV29zNVJQaWdlZXFPRUhoQVdYRVdialJsaXJ6NFdQLTQyTDVKRlFaclNuc2h3aTYzU2lxRTM1cTc1V0k5cFk3MEpVa0t0RGxsdUUwVDdzaFJ0NjFoT1J4aUxYRVQ0a0haNVAzSkpkNTF4OUdRYTIzdUZCYWRqTEZrMWROeFl2Y29S?oc=5",
-   "data": "2026-10-26T23:42:23+00:00"
   }
  ]
 }
