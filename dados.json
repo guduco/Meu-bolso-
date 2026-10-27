@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-10-27T17:47:06+00:00",
+ "atualizado": "2026-10-27T18:46:01+00:00",
  "indicadores": {
   "selic": {
    "valor": 13.75,
@@ -17,10 +17,64 @@
  "cotacoes": {},
  "noticias": [
   {
+   "titulo": "Analistas veem inflação pressionada por alimentos",
+   "fonte": "Agrolink",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNZzI4ZVlmbzFfdzl6aXRvQUFaRUJxYlUyUVVfTG1FTHF4bDltb2xOM29mc0Vmcm1MWXlHa0NMZ0I0ZUVUTzJpbnJkX1JRTWFoUUF0aG1oVlRqZVhSaWdxLVhqaE1zYWZLSUgxUXdnclJMb0hXSTlDYkdsdmN1MmVNUEMwNlVxNHY0bGxTdGtQYmFFQm9zRzVJdm54ZnZ1Qnc?oc=5",
+   "data": "2026-10-27T18:20:00+00:00"
+  },
+  {
+   "titulo": "Mega-Sena: quanto rendem R$ 305 milhões na poupança, Tesouro Direto ou CDB",
+   "fonte": "CNN Brasil",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNT1V2NVRpOE9sR3pSUkZMZXBxbWVZbmNlSVVhcHNNdFh4c3MwbzdRMFpPSk0zN0ZfVlBDNTZJenBXZ3B0TWJTMzhDSVk4MmM3Nm81enhySGgtMHg5Y3RpUnVZUDNnQzhkTUFwLU9Qb2MwR2FMR19lM3VvRDhmRVFxbnVUVklRWlY3N3RhbUQ4aDdPcWc0ZW1HQkRYMFdBRUV6UnVyTlY5b3U2Q1pWbnNqbWFEYlR1ajlidGJSZEFmdDFtTUZYSmI4UVg3WGZ6Zw?oc=5",
+   "data": "2026-10-27T18:11:28+00:00"
+  },
+  {
+   "titulo": "O aumento no preço de alguns alimentos tem impacto direto na alta da inflação, em Sergipe",
+   "fonte": "A8SE",
+   "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNbmItbDIydG9KTE1VYUppRlJpbjEtNU9KeWJJVkVscG04NGQ4SENMR0lieEVEbXkxTU95S3BuLV95ZTlzeHp1UGVjUmNBbDhLdl9QckRiQ2JsR2VwVnBKX05ZcnRnRkd6djJ4TWFuSEg4UnNuN3VvZEVrbms3ZkxqYzMwVi1ySUdVS3NEbzVMQ3dIT0RMamNmMXh3MTNVQV9UYl9iYV9ZZG1XNEFDMVViNVR2TV9JZkZCbV9xR1FfclRET1JjOU5idXNRTnlzM1ZfWGR2LU9DVHVwTTgyMmRNTmp0dlJKRVdNVnA3dg?oc=5",
+   "data": "2026-10-27T18:09:00+00:00"
+  },
+  {
+   "titulo": "Informações Financeiras",
+   "fonte": "Enfoque - Informações Financeiras",
+   "link": "https://news.google.com/rss/articles/CBMijARBVV95cUxNT0lyOFNDYXNEX1VCd1hQR1dFbC1vbTR0LUJiLXozendNSzNYNnNnYkJIbk5nNkJJeU5rSklMOThDZFhpakxWekVCR0s0RUt2T0llM0lxVmRzQTJfcEZYWk9fM25FQTNoMXBEUEFyTm4wSThlWTFKeXZDc0hIMDVfRkt1SHhfcURTMlZhSU9PdzhZNm1jaEQ3eTFTZnlLaEh6T3d0R25JOVFzZHV5b2d4SjhLOFRQZENSSWdCYkRiVE1RTnlNSkJxeW1UNGZXOVFZbTBEN1VVLVB5S2syRzJvSTB1R3pXWkdHRVMxUk1fNkZFd3FzV29LTHhUZHV5b21GSDNqa2JkV3RteVJOaUxUdVZqcEp6VVlXcGVPSlhIZ0JheFJQUVNqY25tY1E3dlFtVWI4MlF0eDF0cFhVRUcxeE5IdGV3LU1UbjBZQW1pY0xMVVNxU242bXJ1THFENUN4OTF1bzNMRGE0bDFQbUR4VXlBYUZuTHJ4aWJQQVZEMklYTWJObWVqZE53MDBHZnJLakp5cEpBblJicXF2VnBVV3pWeWg5NnFrb1l1a2VVMWlpTzhwcWNEdlhqLXVscEdOLU83MWNUUTNtcHp4c0paTVktV0p0dFRUTVRkUE5xbzFnaDlSSnF4Q0RMNGFlM0NjeXN5T0JqTmNKcjBLWUEtVExiT3A2VEw0LXNjMA?oc=5",
+   "data": "2026-10-27T18:03:31+00:00"
+  },
+  {
+   "titulo": "Tesouro Direto: veja como investir após as eleições com guia gratuito",
+   "fonte": "InfoMoney",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNb0U3RlFjaVZ3ekpTcER3Q2VKQjFzTUdZRUpyZE5LVF9naXhTS21FRzVpMnJQUWdxSXR5SmhKeTJKSW5oOGlRODAyMnh4LXpsa09PRU5ESERVUWNfQ3BNTjR6VFhyVllpX3hJVWttaVBWYU5XRkVhY2htemFyOTNxUVdTMHdMZ0dER0ZWN2JFT1dXU1VfTDBQVVJTbnJhU2JVU0ppZV9yOFo0NHFJM2RTbWRKM0jSAboBQVVfeXFMUC0wNTFGekNqSDVZT2RtRFFFY3B5czdIdFN2RG56RV9ydVpCbTFSSE0zMmkyOTQtNHNnZk5vc0F3cmZIUm5NWXlBR0IzRkpuNjhfbDFxV0xQb0ZyVnREV2s4SS1ZQWJvbkFSdVhrd0c3WUVlNW9Rd3V6TE45N3RLdEdILU5kUG1HenJaa0tTMVB4Nk9EM3dWSDhVdDNieVB4NVhNM2tEUUFMcjhmYnV6MjRpeXY1bHJEaUlB?oc=5",
+   "data": "2026-10-27T18:00:00+00:00"
+  },
+  {
+   "titulo": "DÉBORA RÉGIS DEFENDE DIÁLOGO COM LULA E BUSCA INVESTIMENTOS PARA LAURO DE FREITAS",
+   "fonte": "Bahia Econômica",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPWm9QaEZzVllHYVRQV1hoRkVyYzZCT1BjSWNQSmpoZ0Uta0ZycEd6RkRNX3h4T2FZSlV0R3cwWG1pc2dBUm81RnRBZWJXUnU0ZTNvX3p3VllTaUQ2VGJQQjg3d0lSU05tMlRzN1JMcXNQaWp6U0dVblNRclNKRVk0c3JCMnppNnZEaS1LQzFDZUNUYzVtc3hqbkp5clhlc2ZkeXNrNW9NUDlBZHBnMDBpc1BNRFhwUVNoa2h6VmotMF9rVHQ1MUE?oc=5",
+   "data": "2026-10-27T17:57:54+00:00"
+  },
+  {
+   "titulo": "Após 'ressaca eleitoral', dólar recua abaixo de R$ 5,40 e Bolsa opera estável",
+   "fonte": "O GLOBO",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOekxia1Jxd2FTbDQwa2xuM0VPNXlUWUtDUGI4clpxQTEzQnNNM05tMjRPRWpIRGJ3TW1ZNFd6TlZ4TG1zd0hpQlZ3MnpNUzJGYmVUb0w2M1R0RjVMMkhWNnNaYUh3X0FVdmwwblVQdXZ2UWJ5UEdRcFhPb3lyV2Vta1F0QkE3VTc3NmhVVlFSQmZsQno1TXBhZ3hGOGVURWkta1hMS3dsTzBDb1lhb2w1d0dfS3VPTGpaaXo5bEVCSUZDOXAyVEHSAdQBQVVfeXFMUGsxWHhmTUdvN29GMVVHY21Ya0NpeXg1NUptdkU1aHdQSFJOSlQ1Q0pMdHRuX1FzWWVKZDNvcWotMS1WSHRyXzFuY1NaUXVVMXRRQ3hidklMNDJNdkFNcTVSNk45LU1hd1VqbmVFRy1UNDRKWEluTWxqOGx0SlpEaDF3SFAxQllOMXZzV2JZcEFIUHRJNzNxM2V2c2pQUlU4WDlFTFBTQ04zQTFzakpmcG5WSzc3NTRkTEY5RF9rR3k2UmFYVzl0c3Q3eFYwbmU2RGh3WTM?oc=5",
+   "data": "2026-10-27T17:52:36+00:00"
+  },
+  {
+   "titulo": "Monitor de posicionamento dos fundos macro | 27/10/2026",
+   "fonte": "XP Investimentos",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOalRRV29TYWV4TU0xRUstY0lvUF9RVWtBbG9OZXdkZEpsSHRpcGNmZzBZVVhYQmR3Zi1TdGhFMUlmOHZnWWh4emMzTWgzN2pIc1RmcU85RlEwbEhDMjAxaW54dGdjNTFTSzZILXEtMlVET05wQzV3ZHJTS0pBTDZDRnNwY2JaMjB5SWxlMWJ1eWNwNmZ0QnpPLWxvR2UtWHZxN0E?oc=5",
+   "data": "2026-10-27T17:50:54+00:00"
+  },
+  {
    "titulo": "Data Expert: Monitor semanal de Preço de Paridade de Importação da Petrobras (27/10/2026)",
    "fonte": "XP Investimentos",
    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOdkE5ZzBrY0JVZVhOdjBFc2QtaXRoQnJMdWxOeDZFTUVmRVJvLVZSSUpqX0J3YjBoUVVRVlRveTFSWHA4dlByYjdYMzU5dG5NcmY0NHFvMXZHSmtCYUpjMzFxVTFZeUZUcXM3MXI5bXR4UUx4bXN1RVNZbThIWWYzbmp6QnZLNTBzNmljOHZtQUx6UzI1Z2hpZU1RdlpZNlA1MGJpWGc1R0N2ZlNocG5OeVBPbjBiVy1HTXJ6S3RHemd1QkloWkdpbUladF9HZw?oc=5",
    "data": "2026-10-27T17:45:11+00:00"
+  },
+  {
+   "titulo": "Indústria capixaba espera que ES atraia empresas e faça novos investimentos",
+   "fonte": "Folha Vitória",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNSzFTbVNmOHNOVEtYUV95bEFCNUZLMDRaQmlIczd1Si15NVZjeVRRLTJRcW1DTk83dHBmZ0JUaVYwSUdHQ0tnTE1NVm9nNnpPdGdQSHZyNlI4cXl5eExueF83WkVNaHpndGdtWjI4TDI5X1RLU2pTQmtoUTN4QXZoclFicWZTaHg4Z2dnQ3AySzlRSW1NRlhaQzR2aDF1UElyRTNidzBzY3cxeERzZGxINW1pQXRZUE01?oc=5",
+   "data": "2026-10-27T17:43:00+00:00"
   },
   {
    "titulo": "Gabinete de Cláudia de Jesus recebe vereador Dãozinho para tratar de melhorias e investimentos em Teixeirópolis",
@@ -33,60 +87,6 @@
    "fonte": "InvestNews",
    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxObWNCS3ZfYUlQbEFyRVEyckJTN3NTb3ByVE10Mk5rTGJ6RGk5bzlQdTdWZDZZMk1vaF9UNDk5bWNNX0pWMlZfVHVIZENjZllWTjlvbnNaX1ZZTGZ4eVVIWlQxeVNIRnlBb01jR0h0QkhuQlpfaU1hcGhCaGFGRVFSbmNMZVEtQi1sNnVTOFpiWXVqdmYycDNJQ2xfR05oQUJ6dFQzdUNwRzBSZzlMRjhQNm55R2didVA3Qm5VbGc4RENKZjhXYi1mUXFwV1Z3SHE40gHWAUFVX3lxTE9qd3R1M2ROWWFrR2k1eGgzb1JlYnRBQ3ZsNWgtUUpsX1MwT3ZYT1ZGbmpITnc0TExIekhIVHFxMUdOb0xWWjRmanMtNGlMY1E0bldEODVrWllfUktUZnZUWGRBNEVrWEJFM2NDaUhzM1hkOXRNWFNDM2VDWDcxb09PekdNX2h6TXhYWW94bjJnamFJMnMxWFpodzVDWkxyME5rdkxUQVMwUElXMTgtdXFfcDRlOGQ0UjFVZWVsZXMzak84d1VwUWRobUlCNllnbmhmV1BMckE?oc=5",
    "data": "2026-10-27T17:31:16+00:00"
-  },
-  {
-   "titulo": "ISPs responderam por 57% dos investimentos em banda larga no 4º tri de 2025",
-   "fonte": "TeleSíntese",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNWlNkaXpuYmp0VVNxM2wxUXpYaWMzUXh4d2JBbGhPc1l4LTlYSVpjYnZxaFVJOG5Ddl9GcGl3TFd0MDQ1dDdmRGptdjhEdWduOEJtYjhGeGRkaklIc01sYXlFLW90SG5HcTdPMEEzaUt6SW9pVkJvV0hqRFNsNlQ2RTZ3bUZVTl81M0EyMG9oX0NzYUlRdENUa2N1VFhNVjha?oc=5",
-   "data": "2026-10-27T17:30:56+00:00"
-  },
-  {
-   "titulo": "Citi passa a recomendar Mercado Livre como compra, mas vê risco em investimentos para manter liderança",
-   "fonte": "Seu Dinheiro",
-   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxORzJ4dnl1X1ozZXk4T0UtamRtT2xtbUUzZ3RiUkVEbWdUVjVWckRxbDA2enREd2F2U3hJdHlvaXJkSXBKZVJaakk5RkJKcmhheHlEdVI3cVpBRW1wSjVWNV94SzlrOElpM3VmQXlSWl82S2Q4MGZTUGZSYi0ySkZCMEVuWGd6cTREcUdfV1cydHhhNXdnN3NpcXlFbWlwSER3Q3Q4V2tQU25uOWdobE11WWFIM19BWjJnYWpwN3pDU1Q0VzE2SHRXRjUwamc1ZjFKd1VSQ0lrbUoyUjF0VU1hWGZfZw?oc=5",
-   "data": "2026-10-27T17:22:00+00:00"
-  },
-  {
-   "titulo": "Ibovespa opera com volatilidade nesta terça-feira (27) após queda de quase 14% na véspera",
-   "fonte": "CBN Caruaru",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOZFdscVJHSnZXWEVIeXE0MjdXa1NnUk1PRDhnaS1yYlBXVGxsSVNlSUoyZy12ODVaeG9tTTNZNFYycHlZblJVVjVmY3NXZFFza2VHYU92cXh6OXF6VTJTaXFMNE93SnNZR0FSWU5ZOGQ4clR6d2g4bVctOUZKaHgxaF9HSkYybXFMWjNkZU5aQnZSbjZuV1pzSU9ha2dyaERVc0Zid0xQT0RpeWNSOUU1bVJTNzFzZUlLWlhNd1V3?oc=5",
-   "data": "2026-10-27T17:14:13+00:00"
-  },
-  {
-   "titulo": "Por que a Vale ficou fora das apostas pós-eleição do UBS, mesmo com o dólar em alta",
-   "fonte": "Exame",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQeXg1dVR5SmlYYVBWSnJNdUtsN2RSUkRBM3B5akU1TDNFRlZNOExwZGhHR2xzaUtlY1QyT0dwWlhjUUdTaW1ON0NUdENtWTNEUWxGNDVmcnNfS3oyLVp4MWpqX2Q1eE1VMGhCOTNWRGZzdFdnWXJtZ2ptR0VnNlphWXZZZWE3bWl3Q0ZzWXdpRDdnNlZTRTlPRTA0SW1TZ2ZGT0Z1YjROb1BMdjhxdHA1M1E3cEFmR3FH?oc=5",
-   "data": "2026-10-27T17:04:11+00:00"
-  },
-  {
-   "titulo": "Suzano (SUZB3) sobe com dólar alto, mas o que esperar das ações daqui para frente?",
-   "fonte": "InfoMoney",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQRUlYeHpPTzl6dFpvblVyVHJERGVCRndDbmJ3aldlLWJFdG5oZWJaUUZIdjRWTlZKZmZtenliZE9tVzlhM1o5bURlQnk5aVRXVHRwOGJDTDBQRk1NektOaTJ3YkRKMk15ZFpPMkpsSzUxaTF0ejZPSUZIbFk2WEN5cEhsSFlzVjh2ZUtrYkNPUVNReGlnbWhUV3NnOVRpTzVKb2pnSDVLd092ZHF3czhweXBKald6b1Fj0gG-AUFVX3lxTFBUSlhmOTEzMVRObzR2NlpCOUxmZjBVWGZ0eUlGYWVPTmlGZGFOTzZHaW1WSDJOSW5rSTRCMEVzZGR2S0FlUzhFajZ1NTdMdVdTWkNiU2xaNXhiZzJQUnY1d1ZWWTJ6bWpOUGVxeUJ5QnFxdWUzc1phTWZyLTZHQkYzZWY4akxQOFB0TjFsOFNjalZlQXhzc3MyZ3VNQ1VUV1FmN1dlLXlQSWdzQlI0dlhQMnR4TXhjM3paTEh1Umc?oc=5",
-   "data": "2026-10-27T17:00:00+00:00"
-  },
-  {
-   "titulo": "Ibovespa e dólar hoje: bolsa fica volátil e moeda recua abaixo de R$ 5,40",
-   "fonte": "Valor Investe",
-   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNSG15dEVRR3poam16NkZhUEg4QnpwSWp3VkFscUYxZmF6VklocVBRYmRLTUZGS0ZCd2czbUJGNWNJQWI3OGNmUjNOSnNodUlKcUdpYTRoZl9xZTJRd2ZMRHA1QjVabXgwRTVpbktiVml2V3RELVR6aTlDNlQ1UER1UFRYNDktSzJ1dVBSbTlRMjB2dkJtNWVOd3cxaTJHektsb2ktRGtfT1lId0otRjJQdjE2cjFlYWVkQVFHSlViSkcydWpnM3RESUphb0FXQmwtaUtNLVBmONIB5gFBVV95cUxNcmxweURiTE9RTTFmYzl6VW5UZjNXNkJZeFdMLThIX1FUNUFNUjNQbkZKWHdLWEhScXZfNFVQYmxmQXh6V1VRSE1kdi1FQWw1bi04U1ZuaGhWRllBLTg1NTdTUnVTMVRSeDREWmJIVE8zU3FVUWFXclNXa2lZenBNRDdsc3VDSWhWcGRrQmJsT3MyTzJKN1k5ckloSGNHak5KRWZ0NjFiRk9sbEIzVUg3Y0dwZWtkN3V6WnNDRkRvejVVR0dORkhvUWJiZlJXa2lPVzFicFVSaVlhSGF1NW5VZGFQNk5lQQ?oc=5",
-   "data": "2026-10-27T16:57:25+00:00"
-  },
-  {
-   "titulo": "PF investiga investimentos do instituto de previdência dos servidores de São Roque-SP no Banco Master",
-   "fonte": "G1",
-   "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNbWJxV2Q4aHJMQXROWXQ3X0c3aVpOU3Q2WWtYeVl1bTVLOFd2UEdhOXZIWTBENVZ5WGQxRUdHQVZMR1Exa1pHUlpYdTVHUDMyamFVTXhiX2pVVDEtUXZmN1VIMGtsOUYtaGV2Vk4zejg3aWJ3ZTU5amNwVS1iX3c0ZDJkYzRSd3BIampHaDlFMUp1UXpjT0RLY1o4ZXVHMkZyVzBzRjlfMTRKTTFnOGVITmh5WnI3dGNfTEtMd2VsaTBRWUtxd2RlUGdUTXV5aWVwcXc3ZFBZeUN1LWY4WmRGd3ptbkNUNjkxVkRJ0gH6AUFVX3lxTE5iWmU5eXJ1N1JscUlpUnJhV1BZNV9mSzNFdmZpeU1CMnZPQ0FFU1BicU15ZEYyUVduNW9iZHhxQlJleE9MZmR3Qk0waFdNVXdyaF9XNklJUlhnSEFhMHBLX21uZE9Gb3IyU3YzdjJIbmRyUVVOdmlqc051ZEZPOGlGZ1puYWlpWF9odXp4UFpnS25BMVc3c2o4blVwa2J2NW9aLWd2c3p6cjU4cU5BbGxNejZOU1E5VmZRRWliVDBzN1hGRXVFNjhBXzN5YWx3eHZObzFiM0Q4MjI2blUtUXBOZzlCU3Ezb1NTMDdQOVNGV3JiNS1PV3pXOGc?oc=5",
-   "data": "2026-10-27T16:53:29+00:00"
-  },
-  {
-   "titulo": "Petróleo pressiona inflação e pode levar Fed a elevar juros",
-   "fonte": "Agrolink",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPTi10cy1lcms0ZHJ5SlBPOHI4UXdXd2U0bXN3Uy1CT0lfZkg5cUE2c25Lc3dpY1NpNWRkU0piUWZqeHk1cnN4TmxqU0ptQ1VWbmlvSHpkaUJLM1NsdjIzSXNuTXBDZkg0QTR3TTBUSXFsa0NlTFp2UURDa0xuaDFBclJ6WFAxQjQ4QjE3MGQtX0hLcDZCaldxeEpJT3lvZXJaYlh1YXktWUpzQU90?oc=5",
-   "data": "2026-10-27T16:52:00+00:00"
-  },
-  {
-   "titulo": "Petróleo em alta e inflação resistente complicam o caminho dos juros no Brasil e nos Estados Unidos",
-   "fonte": "Gente Seguradora",
-   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNZ0R3UVVsWmVLeEs2NkwySkN6eGdQeU1MQ0tpX1BXbzJzT1B4ekhrZzItQlBXR3E4S05lcW5OWTRJWXdtdEltRlRLS0FWMGpBall0WV9JaFFkSHh1R3VLb2ZTRWw5MFpqSXNhNXRsTlJScFhKOUw3YTh1eEhjZjU5TWh4UGRDQUZ6eE5zWkN6bzdPTlNRd3J2QlczajYzWXJEY2RFTnFIaTRIaFhSei1ONy1lbHNzMUM4WlQ5R01Wa2YyT18wZ2U1Y0k2VQ?oc=5",
-   "data": "2026-10-27T16:42:54+00:00"
   }
  ]
 }
