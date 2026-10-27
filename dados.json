@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-10-27T03:37:45+00:00",
+ "atualizado": "2026-10-27T04:36:27+00:00",
  "indicadores": {
   "selic": {
    "valor": 13.75,
@@ -17,10 +17,16 @@
  "cotacoes": {},
  "noticias": [
   {
-   "titulo": "Ibovespa cai quase 14% pós-eleição; veja maiores altas e baixas",
-   "fonte": "InvestNews",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOeFFyNkc0OGtFV0FJSWpTakFFam9nYm5QQ2FPVEVpVDJkUU5qMUtxN20zOFlmMTgxU1Q1ZllaaVVXTG9WZFIwc2R4RDh4MXhxdkZwYUY1ZFdNd1FGMTdFZk9MUWVSc2tmRUdxbEg5U3FudE15Um1sdF9IQlJWV1FpWlNfcDk0TlJJckh4QWxIRVFUb0tyeGdkOGNaR1VUdnIxTzc4empMU2hiMmloZHpRUnJ3MnlHX0VFOTJv0gG7AUFVX3lxTE54UXI2RzQ4a0VXQUlJalNqQUVqb2diblBDYU9URWlUMmRRTmoxS3E3bTM4WWYxODFTVDVmWVppVVdMb1ZkUjBzZHhEOHgxeHF2RnBhRjVkV013UUYxN0VmT0xRZVJza2ZFR3FsSDlTcW50TXlSbWx0X0hCUlZXUWlaU19wOTROUklySHhBbEhFUVRvS3J4Z2Q4Y1pHVVR2cjFPNzh6akxTaGIyaWhkelFScncyeUdfRUU5Mm8?oc=5",
-   "data": "2026-10-27T03:08:57+00:00"
+   "titulo": "Ressaca eleitoral faz Ibovespa despencar 13% e real perder força",
+   "fonte": "O POVO+",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQaVJWZkJjRWNDMGdiSDc4Nm9KRWFYLTZydzEtemdxRXRXVDQ2NXZiU1dhM0JvN2xhajcyWFlxQWZzMzBvOFQ4MGpuczNFUXBXR053MEg4N1k2dlduYl90bXhQQkJnM2l4UlN5ZGRLd0dNSFRxUHdHcHQxZHAtY04zb1l5OGxfUldLQ1loUllOT1JXNGk4c0JTTkFlT0RsWERUU1lDNlB3TXNvRW0wQWxId1oxT0p0SkRydEhHZ1pB?oc=5",
+   "data": "2026-10-27T04:15:00+00:00"
+  },
+  {
+   "titulo": "CNT estima queda de 4% nos investimentos em transporte previstos para 2027",
+   "fonte": "Jornal do Comércio",
+   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNTGxnOGRQUTdLTDFhM2NjRk94MmVpeW9LMjFnOFBEUXZ3TW1mbHdwR2N6VmJUMmRkMUtFN2F1Uk95VnNfME03VHlmWnlqcDNtNldRcDV3UzBnNW8xd2RDZ0NQYTNSNFNZMEZjc0x1cWx2R1Z5LWo5S19LZzZDMGNULW56S1BQS3JJcHRHVk1hSEliVEphbHlCUmJvMXJ0UHlBMHVWUU83ZDUxTFlpUW00R2o2S3g0dGFQSm0yZm1ENVNNcmUwWW1seXpOVEQ3Rk9yUEFvYlk3eVJjQ1hNR05waERxcw?oc=5",
+   "data": "2026-10-27T04:01:33+00:00"
   },
   {
    "titulo": "É hora de comprar ações? Veja o que avaliar após o tombo do Ibovespa",
@@ -61,7 +67,7 @@
   {
    "titulo": "Contas de Goiânia têm saldo positivo, mas investimentos em educação ficam abaixo do mínimo",
    "fonte": "G1",
-   "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQWFAzWk1YZmEzZlBrblVPWlkzRzBTSVVNdlh5ZlQ4UWNxMjZxeEFDVThhLUhzTExkTXYzZ2oydWZWQUM2SlZtcVg5UEZlM3BBZkxhYjBKS3BmMm9aQm15WWs2UUZSYWVxOTRYYk00UU8xaEtOUGYwRjdtdmpUd0VDQnJWTnRzcHdyLUlLSGF6SjNKUGRkdDJWVGgwZjBmaUp1UHVWUEFVQkUzbC1MY19yNXk1SHZOYWVxQ2FuOW9FaWNCZ3A5VVN4d2ozY3BOZ0NpMmxJWDdaTzNGXzRrcFd5czlWWE1XM1VqVk4zZ2s3aVnSAf8BQVVfeXFMTUF1Z1k0c25hTzU4b2g1eHV3M0Y2d3RKa1FlQURuVDdVRUZ5N2l2NUJJam1oQ2Uxa29YRl9tOHBMVllQMWkzRDNSR3Y4QXVyTWs5dDFCRS1NRjA2VXBxRUhJVHl6ckxqV09FRW94ZXZ3NlpEY2pKVE4yMDd2QkdXTmdSMEpveW9pWkZxNTR5UEVYNS1udzk3cEptTGtFcVpNQ0pDLTktak45eTBHSHNtb1RhMlY1ZjZBczhRbTc3TUtnNUQtY0tTUkh3MmlnOVdVaGRyZ0FsaWs0aXl3WFJ4LUZsaWdqZEYtVUpFb0NYb2Z2V2xUcEhTVVZ6RTVjMTJB?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNQXVnWTRzbmFPNThvaDV4dXczRjZ3dEprUWVBRG5UN1VFRnk3aXY1QklqbWhDZTFrb1hGX204cExWWVAxaTNEM1JHdjhBdXJNazl0MUJFLU1GMDZVcHFFSElUeXpyTGpXT0VFb3hldnc2WkRjakpUTjIwN3ZCR1dOZ1IwSm95b2laRnE1NHlQRVg1LW53OTdwSm1Ma0VxWk1DSkMtOS1qTjl5MEdIc21vVGEyVjVmNkFzOFFtNzdNS2c1RC1jS1NSSHcyaWc5V1VoZHJnQWxpazRpeXdYUngtRmxpZ2pkRi1VSkVvQ1hvZnZXbFRwSFNVVnpFNWMxMkHSAf8BQVVfeXFMTUF1Z1k0c25hTzU4b2g1eHV3M0Y2d3RKa1FlQURuVDdVRUZ5N2l2NUJJam1oQ2Uxa29YRl9tOHBMVllQMWkzRDNSR3Y4QXVyTWs5dDFCRS1NRjA2VXBxRUhJVHl6ckxqV09FRW94ZXZ3NlpEY2pKVE4yMDd2QkdXTmdSMEpveW9pWkZxNTR5UEVYNS1udzk3cEptTGtFcVpNQ0pDLTktak45eTBHSHNtb1RhMlY1ZjZBczhRbTc3TUtnNUQtY0tTUkh3MmlnOVdVaGRyZ0FsaWs0aXl3WFJ4LUZsaWdqZEYtVUpFb0NYb2Z2V2xUcEhTVVZ6RTVjMTJB?oc=5",
    "data": "2026-10-27T01:30:45+00:00"
   },
   {
@@ -71,22 +77,16 @@
    "data": "2026-10-27T01:30:00+00:00"
   },
   {
+   "titulo": "Empresários recorrem às franquias para entrar em novos mercados",
+   "fonte": "Melhores Franquias Para 2026",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOMHotdEgzRTZoalZ0bUIyd1FhZlRYSm5HZUtyWlY2RE9NNlBhSU9YMlBLZXJFaVFyUkRUUkZDcklrTnd6aFgxMXAtaUF1bFdGMGUyTDRkZXVpdmZlNkZYSTJDSmw1OXdQbVI3enhmcDFmWmVtbDVWZmdEcjZmSmhQM3d2aFNOUWZRS0JjNnFzbHNTdHdlcElhYktsTDJwR3ZRVXRLSTFlM1lYS29WcmFPag?oc=5",
+   "data": "2026-10-27T01:25:53+00:00"
+  },
+  {
    "titulo": "Virada histórica de Lula aciona ‘circuit breaker’ e Ibovespa tem maior queda desde 2020",
    "fonte": "Valor Investe",
    "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxNSHJIaUx2UFdwTEFyR3dSS0RqM3pDSW9VN05MdmpIbl9obHg0U0FrQ1FZa29oWnFsYlR6SHB5ZFFpUHR1cGVIemxJQXpMT2dyMnBEM1U2M21MUEhpMll0OUR4clZudTg4UWZ5Qk1IdHRmV01qQ096OGVHNnRrcS03UExmLVZ0MVBYcGtzMTdPLURUR2FJbUdGZ3hVd1BybWZVcnFhdmlYaDA4Mk5kOVY3Z21PTjhESE5PM205QWZSdmJ2MTROMzltVWdUQ3JuMFY2a2pxVGw3a3RDOUFFX0xfRVdrY0JvS3hIMmJsYU9BMFFmRzQxSG1iU0VrX0dhTktFWHFXUFdJWEw0cWtzTG1Z0gGeAkFVX3lxTE00Sk9tQ0gtZHNEOFdIS0JBMHVhNGY2SVRTaTR5T0FjTUdMSm5QWkJQTDY5QXNkeFp2OS1RRkNwaGt5TVU2Q19tV1dieUlOYjl3UEI1Znc2NjZQWVprMFhaWlpwQzNvbDFvekp6bkpjR2JHdnhBSzlWYXYzRExQUTFDQW5lTm5VbFpuWjNyOW5XRTFuaWdSMEpzSHloRzEtSEVSZndCaGZzZjNKUEZTSDdScEkwbEhGeTBYUWszOWlxLU1SMGVJdHo1SHRQZzkybWg3OWxLNl9LdnRsdnZ1ZG5NZ2RLS2t5dVEwRGl4cGxmR2dpdWQxa1dfbjBMVk1SYzlWT2hoTnRQSEJxamh2QlJjS1k4U29DSkR6NDk5OHc?oc=5",
    "data": "2026-10-27T00:49:11+00:00"
-  },
-  {
-   "titulo": "Brasil recompra quase R$ 15 bilhões em dívida para aplacar renda fixa em Lula 4",
-   "fonte": "Investidor10",
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOczg5SFZmM1d1dEd6TWFhZHNNMVllRDl3bTJ0ejdLblBEU2E3ZktnNE1tUWxQMlJuM1lPM2RXQW5MMUZxMk4waF9mT2tXRE1JR09YY2hka3V1Y1RfZ2lvVE9QeXkzWkVDUDQtNWhsUHpIZVFXcTdibGJ3bXYtSnI1aVVod3Vsd3ZLZHdMeWhBaXBTQ25CTmJLalhCcThROE9maXBNWkNYVzRKOFJrQlpkTllId1JRUDA0clNfYXNKVmpGc3RXZHfSAcYBQVVfeXFMTnM4OUhWZjNXdXRHek1hYWRzTTFZZUQ5d20ydHo3S25QRFNhN2ZLZzRNbVFsUDJSbjNZTzNkV0FuTDFGcTJOMGhfZk9rV0RNSUdPWGNoZGt1dWNUX2dpb1RPUHl5M1pFQ1A0LTVobFB6SGVRV3E3Ymxid212LUpyNWlVaHd1bHd2S2R3THloQWlwU0NuQk5iS2pYQnE4UThPZmlwTVpDWFc0SjhSa0JaZE5ZSHdSUVAwNHJTX2FzSlZqRnN0V2R3?oc=5",
-   "data": "2026-10-27T00:21:00+00:00"
-  },
-  {
-   "titulo": "Com eleição, dólar tem maior alta desde 1999 e Ibovespa despenca 14%",
-   "fonte": "UOL Economia",
-   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNWHVSM2NIWFpPXzVsVFR2d1l4Z3FZNmh1Z0VlQ1ZlLUNpand2Vjg4N0RsVVFMUVdmWlY3aVJkSjNZY3dLVDk2UC1sQkJJTnJUMTBJVDBXaVVOaDd2NGctckYySUs5ODgzdVpYWW5ISmlBRVdaRzVuRFlrUmFqckl5LXotMVJhTWFRQ3hqLUp1Mkl5cWtlUEJpbjZPR21FOUZvWUhyMlI5OTdoZGNlQ1RYMHQyOXgwMzhHd0hjWXJsMzFUS05XZUx4eFFXcEZJVXhRYnF6SQ?oc=5",
-   "data": "2026-10-27T00:14:44+00:00"
   }
  ]
 }
