@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-10-27T06:44:45+00:00",
+ "atualizado": "2026-10-27T07:49:17+00:00",
  "indicadores": {
   "selic": {
    "valor": 13.75,
@@ -17,10 +17,16 @@
  "cotacoes": {},
  "noticias": [
   {
+   "titulo": "Ibovespa cai mais de 13% após 'circuit breaker' e dólar fecha a R$ 5,40",
+   "fonte": "brasilagro.com.br",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNNVhnd2dobTZPN1VZQ3FrQ3dEZk5QemxTTy15WDVXX1AwYmlpZmtVTENza2F2T0VWNEhXVTBjbEJMT1l0aWlSSjBiNW5OdkdnNXhIWDJvNW1veWtFcFRkVEh3TEp1OFprY005QUhoWC1pSHNfdTJhY2dCeEhyRkhiTUpScHMzYU9LRHNSd0s0ZlE2TzVoYzkyb2laMUJlODBxcFJxNy1yNkRQWU9VVEt3?oc=5",
+   "data": "2026-10-27T07:18:42+00:00"
+  },
+  {
    "titulo": "Cadu de Lula promete gestão desenvolvimentista e investimentos em infraestrutura no RN",
    "fonte": "Portal 96FM",
    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNV1h0aDJsV0F3WFhKYkdQcUY5V2Q5OVJTaXlQbnBHSy10TXlBSVJiN0NyNU9RdEVscG5KREdQSF8xcnFmS0JMcGFISU1RMXZtZG9BUFJaUkt5NlhIWmFJSFpBZ1hwR2paaTRUemtFRTZxYWZBYTFUZURzTXVkSlRaQVFhR0RqY0hCY2xIYUh6X3MwaW9TWTgyOTRjMUdxd3lLVGJnMERlTEViZW9wRkh5MVlKMGw?oc=5",
-   "data": "2026-10-27T06:32:55+00:00"
+   "data": "2026-10-27T06:50:42+00:00"
   },
   {
    "titulo": "Notícia no Seu Tempo: Após vitória de Lula, Bolsa cai quase 14% e dólar tem a maior alta em 27 anos",
@@ -81,12 +87,6 @@
    "fonte": "Brasil Inovador",
    "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNaEtUcklkeGx0cVlBUTIwYi1FcDNfVjdHWmtueUM0UnBXMzl1NFlYR1o1VjJvWktEWDFObEFGcFFXeVVqV2hiNUJGSGtkX2JZd0Q2d0VkQk94WkF0RGcyNGw2NmphcEhNSFQyaFJoNERaVm9Id2dkU0UtbWlNcUMxY3RyOWdpOXlhb000NlMweFE3Uzh3VDByM005WVRpWU1aVDVJNkFjSGdDclAzaW50STJEWld6dFo1ZkhHY01aRWpiYlNVaWpRWWp3elZNV0tMUEt3cmR0MkxocWcweG5jSWY2d1J3QWZj?oc=5",
    "data": "2026-10-27T02:05:10+00:00"
-  },
-  {
-   "titulo": "Por que a vitória de Lula fez a Bolsa despencar e o dólar disparar? Entenda a reação do mercado financeiro",
-   "fonte": "GZH",
-   "link": "https://news.google.com/rss/articles/CBMingJBVV95cUxQclhVd2RQUnFhUmhLdFVmcTJpSUduaVZZOTFJeDdMOE5hRDFRaHBiUE9VUXNzeUdiVkYwejVHWFFibFJSU09PRVc2WTRkWk53am5DNU84cHR3SmppRjNveWVyYS0xcFp2VmVCMFd2SGg4SDZiamhmNk1YNjFmalFUNHJybmpYWlJiNW9COEVVOTVEa1hUSTQzbGJ3MTVHOG1CVVpPeVRWeVpUbXpySTJPVjZoYUR4dEk0NjA0WFRNRTNseUM4b24xLVJYSHdTTjVtRFBKUFU3MWphZkY0aXRkMkZDY3pVUUNoNVBOVl9DNnh1eTNidlRGMkFNTDhtTHVaMW9jX2NFOURBUlFnQXJzNXBIaHBsby1TS3ZlWmxR?oc=5",
-   "data": "2026-10-27T01:44:40+00:00"
   }
  ]
 }
