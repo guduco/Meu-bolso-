@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-10-27T23:35:32+00:00",
+ "atualizado": "2026-10-28T00:56:41+00:00",
  "indicadores": {
   "selic": {
    "valor": 13.75,
@@ -17,10 +17,64 @@
  "cotacoes": {},
  "noticias": [
   {
+   "titulo": "Passado o período eleitoral, é esperado que fundamentos da economia voltem a direcionar decisões dos investidores",
+   "fonte": "G1",
+   "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxONVF0ZDQ1RnhjeW14SUtjTkhGczU4SHI0MmVZWDMtT0NmRzliQmlqR0s5c01Benk3WDJYNzVCeGdaQ25KbWluaUxaQ2JFS2NwSHBXNEYzMDYxMkkzOVd2UFJHSzIzYV8zaFFrWE1rdzVrTm0tVV8zdl9BT0hWNWJaQlNmY0RZN1hETEFvSUdrVkRpeGlPZXh3d3NFNWxkd0liUkp0d3lvX0dUQUtrd2tDT0JHVjFuQ25UYVdiWEFsNHAzZzluM0ItTkZMSC05LW05MWN0MDluNjhxMThsOUQxNVlJTmNFZi1WTG5BdmtjRmVGUVlLYUJ3VjdRLXBnbWF4dUVYRdIBkwJBVV95cUxNUDRXaTBRb012eVZoWFlNSTcwY2N6Y252OVlXekpRc19PSGRpY1dONzhlSl9TMlFJeEttOUxZd2VmX1dsT2sxWUlRZXNBbllyam8tSWRXMTQyZ0tGWlphRUYydjRSSFJ6bUo2dXNfVTVxZVVlajFVMzNDNlhZN0ZVZXV0SmZpS0tqczlOU3J6c19DSXFOQTdlaGVDSEFQdFJuT0ZlUlpKMWhPWE9qWU42ajBOVFllSVR5blU5cnU3TUhFM0FfU3FObWZTQzBuRTJnQnVsa1dyRWc1NlRZdEp1SmFNVHpBaUxWVG1Ralh3eVJCUGpwRWl5N3pET3RNS1A0NHlYS28xeG5kWHBSUERaVHE3QQ?oc=5",
+   "data": "2026-10-28T00:43:06+00:00"
+  },
+  {
+   "titulo": "ZPE Ceará amplia articulação global na Espanha e mira novos investimentos no Complexo do Pecém",
+   "fonte": "Balada IN",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOU2xEUFJPT08xOU50Y0NYVUMyVUpUWV9qU3JjTG94QzBvSmZQbnY1NnJ3a3Bsa1REdEVLSEhvbEs1TUlOQ1h6RjVOdVJidlg1cmh1d2xBeGtLbzVLeDVFTkV0Q2xGbkZzczFKQzNCSlhSZHJsTHBBN3E4SW00UzYweUhTMW00T3lwOUNQc002ZFo3LXNxZmtVaE9WdXdEN0hYcFowYXB0WlQzc0VFbTlVRFNwZVdVd21IbVpFRllzN202clJXcV92MkdsWDU?oc=5",
+   "data": "2026-10-28T00:04:00+00:00"
+  },
+  {
    "titulo": "DAY TRADE 28/10/2026 | Abertura de mercado e minicontratos",
    "fonte": "XP Investimentos",
    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPSHZ6Q20yQWd6SzB3eGZrcFRncW55OUR3S2l1WW93OUNTSWh5MktIVG5uT2pGdWhHX0J2dklaN0FhUkhTNmRIT3d4VjczVndydkQydzFrT2p1R3kzcWlMUUpJYnRoeUF4NDlpeHpUYXZWTEs0ZVhFbzFrdm1hYTRyaDhwaGlVX3hjcTFCYVJZd3VHRm5Nb1lndWZBbTRTNW9CNmlQSk5mc1pFNE9BZXBHLWJZaw?oc=5",
-   "data": "2026-10-27T23:24:23+00:00"
+   "data": "2026-10-27T23:58:15+00:00"
+  },
+  {
+   "titulo": "Economista defende equilíbrio fiscal e mais investimentos para impulsionar o Brasil",
+   "fonte": "Jornal Cruzeiro do Sul",
+   "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPYXVYWE5jT2R6TTBwTVJRbUplaGhVTVRnd1VVcExEdWRYczREV1ZZdHZ2MFA4Z3k4NzF3T3QzTHFSNDBUZkpMYWQ5a0xjRVZFeXRKYWdyYllOZW9qS0E4V1FyMXR0LTBFQlNLWkhEZGpzdHdGbEdmRmZUTWVUaGFkZ1RaWEdnUmdoZ0E5S3IxendWdHZ4WW1Zd0YyMFRhNDNNakpKdEtZbFhwbjJyY21DYnAyNnVyOTF2TjBJSzhwYUdYcWt0VmFmbHdheEQxRTdTbVY0NE5MWnJGVV96cU1CaTVvQlNON3VyOVFr0gHwAUFVX3lxTE03Zl9BdWZiV1dhZ2NFSV92TEY1YTh3WUFlMy1kY2lFcHdIWjJYNHdOWk03WVZGQWVxczdyeS1uQ3lyLS1CZ0JqTmtISGFlZU9ZWkVKMURDRG53WV9HMk9DNE10ZWRSNmJlSU00bW1mcVdTVkRxSWpHeERSZzhXYzdXRnFhejNpM0N1MHFkUTBCYkJoNVk0dTl4ZzE0ME1manh0N2tXVXF0TU9TNHZfUlA5VGdNQ2U4ajVzUmJOOVlQZXhlcUlmbWlVMkpiMTF6dEJvXzVtZnFmdDNDT0YtU1hsNmYzZUpKR252eUJOZmlXWg?oc=5",
+   "data": "2026-10-27T23:56:00+00:00"
+  },
+  {
+   "titulo": "Tesouro recompra R$ 17 bi em títulos e cancela leilão para conter alta dos juros",
+   "fonte": "Jornal de Brasília",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNdDRlMzN3TVlIR3otWDRERThDRjNEd2Z6cHc4OC04aVdOSWZpUWpwRHp3aEF1QWFxaklQcFN2UjFuWS1vMmpMcmRlR1JDZnN6MHU2WEQ2UHMtX2dZRno3ZEM0RkU4OEdsdzVIMURTOG4wR21tOEtTQkhwVXZtcEQ1LUVPWGtKN0pZeWdZUTEwb054TXcwbi1IVTRhajl3UXpKbTA3TUNqTVRmUVZDMHEta0t1Y0c3cnk1czRfaWl0RDhPcnRxZzUtWGJ3?oc=5",
+   "data": "2026-10-27T23:47:05+00:00"
+  },
+  {
+   "titulo": "Ibovespa tem queda modesta e dólar recua 1% em dia de acomodação",
+   "fonte": "TradingView",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1sTGpQSHNZSEJHTUlOckZHb3Q4LTlYZFI3VnpuaFFhRlN5R0tlTHQ4eDkzY0JvcWVoaTFIbTBsZ1NKYjMwaUF6TWlkemc4d1h5MG93X2hpbEkwS3RfREh3UHFjRjRvTWVPSGI3OGVERG1OUTdyMF9F?oc=5",
+   "data": "2026-10-27T23:39:52+00:00"
+  },
+  {
+   "titulo": "Petróleo e câmbio sugerem inflação mais elevada no Brasil, diz XP",
+   "fonte": "CNN Brasil",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOcnB6bDRaQ1hKS0lUeEtqaXhsb09zUDNDSVB3Y0xXMXk5NThod1NZYTYtMlc2RVNMZ2ZibGpPTEE3WGJyOFdQcjMwOVdBZ1hFenBPcWdKa281VjZWcHNDRndudGxhaWFyRHAxM1VMTW90dmRoRjBJSkF4MlVRclR6eGotT28ydDRGVnE4cElpN29TZloyYV94LU5pTzVtVkxyS29DTlcyZDItVWs4TFlfejBrNktNbUZ6c25hZ0tqbW0?oc=5",
+   "data": "2026-10-27T23:36:53+00:00"
+  },
+  {
+   "titulo": "Para onde devem ir os investimentos em defesa no 4º governo Lula?",
+   "fonte": "Tribuna do Sertão",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPcG9hYzRmTUwtbjhTbW90d2dMNUdOQmJycU9WZ0k2ZGN5TWxZNi12WkNMRDNLZ0pWa1FpNnF3a18zTWtHZU1GXzk0OFVsbFZibkIyVWFtOXNSMUR2SUNPMVJ5TDNOSDBzVXMtdU12WFRzakRjZU1nc0poVll0czVUUmNVa0JXTTlYTzNIa2VWOWhKY3pLREIyeFFrZmJKNms5VV84TmdpaGdQUWFpRm1zRlRoZmdScWdNQVp2VA?oc=5",
+   "data": "2026-10-27T23:35:44+00:00"
+  },
+  {
+   "titulo": "Dólar fecha em queda de 0,97% e encerra cotado a R$ 5,34",
+   "fonte": "Brasil 61",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQYjBsaFk5OHc5cnpYdjhqcnhqZk9qMDA5QldreE1tay1qdk83WV9jeUFJZnpnMExPWlBLNEVXMHZFcXJseVpJYk1jTHZhLWNLcll0UjJ0TUtSa0pxZzlJTldQNXdIbzBEZXVrbV9OWm1yTi0wejlXV3Z0Z1YwU09vb19sSnFCMVF2Q3RDSmFFVGxvRzjSAZgBQVVfeXFMTXFtSEF4T3B4UHpuQ2ZfMlQtRzdteWYzNFNuanlJWmI1Ul9oaE10OXhfLVQ3VDl3OFZ0aVJVVVhCWkFJcmtiN0JDY2hOLVh5THNITlFGQVk0RXpOVTlNME9RV0g5THNfSHNBM0hmOG5KUkkyUFhxQ1lWZlZFSkswMXpLNEY5bjBtX1o1WnlPM3ZNZVZuNk1RSWY?oc=5",
+   "data": "2026-10-27T23:30:00+00:00"
+  },
+  {
+   "titulo": "Coronel David reafirma oposição a Lula e defende investimentos na Saúde e rodovias de MS",
+   "fonte": "REDE BRASIL DE TELEVISÃO",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPb2lWZS1iTFBudDNzdUR2NDRzMC0tSXlQMEItYTYwRXNSTnlpTUJZRGNtYnF2S3ZEVjd2SXliTEs5Z1FGTzY5T0xuZXVXTFBOLThhLXVOSXU2UDVMY3MyRmpRUDR6T2NNYmVYampDcmhWcEk2V2JtNk1ObkZhbG02cDhQVW54QUdianl5RzFqNElmUXNRcE1mVDh6V3Z1TGgxeTdHT1E2eFBuZFNMN0R3SjFVVTg3TURTTVIxR1Jmcw?oc=5",
+   "data": "2026-10-27T23:17:35+00:00"
   },
   {
    "titulo": "Economista orienta produtores a aproveitar alta do dólar e fazer travas",
@@ -33,60 +87,6 @@
    "fonte": "Canal Rural",
    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPa09QOEllVUJCWnJha2ZkeGMzZzZxVFZZeDNFSXhvRzN2RWlwZWRCdWt1X2I3N1JtaTRsU0FVOVRCRkoyZG9KaW14Rl85OGJ6aUlES0xtdkdTa0RIYUtmMC1pRkIzWU5PVXRhUDloSHBPN0NsVlpjQ09PbVk4T1E4ZkJBeTZGdWJvR2M5bDdHVnRTSV9vX2hFSmFGNzFCZUU?oc=5",
    "data": "2026-10-27T23:15:10+00:00"
-  },
-  {
-   "titulo": "Eleições e alta do dólar impactam mercado do boi gordo, diz Datagro",
-   "fonte": "Canal Rural",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNaTNzR0tTaHZGMTlNVHo3azRHb3JVNGZKbEQwSXR2UkhzSE5XNlE2LVJEMzlwNy1Hb3pXRFl6Ylk1RlZWeExhTDlBUXNKTTZTZlRnOTVMTTBQeldDdzNYNTkzUXJqT3d0MTNKMHN6QVhRYWF1UGNFZ0t2VTVuSTAxYUhLd09YQWdFbW1LWWN0cVVEZVNyVzlGZG1qRDNzM1doOWpNS0JQTQ?oc=5",
-   "data": "2026-10-27T23:05:53+00:00"
-  },
-  {
-   "titulo": "Setor de energias renováveis espera retomada de investimentos em 2027 com novo governo Lula",
-   "fonte": "Vero Notícias",
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOR2lCNXN5dmt3ZjNSWElmTGpQQ2h5TTkzd1Y5REVQUFJoY3hld3ZNQVEwWS02R2R6LUZzajN4Z3M5MWdHYlVONXkxX0lLVFM3ajREWUxUaDEwUXpZcUdDdzRGc0JTNWQ4U2hGQzFCU0V5enFCSWVfMzJNeERSWXRadjc2cVBobHEzSHA3VUJSMWd4ODIxbTMxcWl6QnBJRGNIRHFxUmZFb0poeFVJZTJkRmM1a2pKdkoyZG9IT0tFOFVLZzFG?oc=5",
-   "data": "2026-10-27T22:56:37+00:00"
-  },
-  {
-   "titulo": "Dólar cai 1,07% após disparada, mas Ibovespa volta a recuar nesta terça-feira",
-   "fonte": "A Crítica de Campo Grande",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNY0hFVnZnanAyYU95Qk5odnlSNmlVZjhveEtsd1UtemJDSEJ6U0o5VFFMMWlMTlVYcnF3SXR0MWt2cllXMzZEbUhiRVIwaVVVdVRSbXJmc2NvdzRfX19kUlZXWS1TYnU5elliVUc0dDFodVk1enoyekVJYjhKSTBZY0U5Z2VqbXV0T0x5QXRnQktzVG5oZ1Z3VGJnYVV0ZXNyem5uTnRndWI?oc=5",
-   "data": "2026-10-27T22:50:00+00:00"
-  },
-  {
-   "titulo": "Renda fixa em promoção? Juros sobem após a eleição e XP vê oportunidade em títulos que agora estão mais baratos",
-   "fonte": "Seu Dinheiro",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNSDg5aEdDRXJyYXM2d0E3dzJMZ2VacktKQi1kUmllSnlWaHVwTTJFRkIwMmJ2a2gtTmJ3OEQxWXpYdDJlYU56WlF5V2hPUGlxMGQzLVhHYUxYbWZZdFBneTZJQWdkVFRvRFJmal8wbjVLMFNyc2J2NGRqTDM2SS1nbkdXN0VfZ0RtdXhsM3B3d0VmREpqMExrNzZsa05RbVFOd29Sb0Y1QjFUTHZuY1Y4ZzJuV2FqMXdFMmo1Zg?oc=5",
-   "data": "2026-10-27T22:45:00+00:00"
-  },
-  {
-   "titulo": "Hypera lucra R$ 523 milhões com ajuda da Selic menor e estreia de rival do Ozempic nas vendas",
-   "fonte": "Estadão",
-   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNaWZlYmpCdUpYRS1UcWZfUTQ5LTZPZV9GekhMMnhLSHY0YWszd2VGVmxwclFtWmJmakZfRE84UEV0anYzSDZFUXBKemxlR0J1UnBuRFN0S1Q4YjlyaHJ6bzZDbjdmRnIzeEp3V1pYd1NjcG16bk5QckE3anhnRlBpdC1hMFhCYnRRN0NkX3RSdjF5MXViVGE3SXBiWFJfYzVDblk4RE9uVWVoaERoTHVMOGtMQ3JHN3BmS3pMTnhlZmNiUDYzVUxTUXlpSUw2S3lPbkE4eWVtQkpTX1VOTWhfYjFtQ05hZ9IB6wFBVV95cUxQQW5VblJpaDhJQ0NYclJTVjRPaThjTUlmTWlqWFFaYUJZUVBUd3A3ZllsZF9haThVOFExU0J5X3RtNFRmZkxQSDRUbWJSa3N6RldkcERqcTRQYkNRWFFOSmhjODZseS00d2RTOW1lVmluUzY1dlFWYWxWb1N0YVlySjg3dUpUZi1wSzRnMEFDV3UyRFE5aVJuQjdfMWJCTmdFb0ZxWnNzYklTSTIzUFIwZmw3em9uQTh6c1Ezc1FRZDlNME5JMkZBSHEzTC1raVZGUkpUTG1OVVpYallycHdzMmFOaXVUUEZoU1NF?oc=5",
-   "data": "2026-10-27T22:41:08+00:00"
-  },
-  {
-   "titulo": "Pós-eleições: como proteger seus investimentos das oscilações",
-   "fonte": "Folha Vitória",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQUHAyNTlueXU4TVpyZDNZMWJsbzREaW5ST09VSlU2SjFXYThGWTRSMTk4a0tCOTJXQTdsTnJKZVBnSnVMN25lM2hiQVNQWktyZ1ZRWFpSRVFnajlWeXRGR3Zia0Rlc1RneXR6empqdXFiVGtPMmdnY2FFMHhTVTNvRlBQOTF6Nl9xSnpNajlCWU5fUmJWOEtLZWJROWlnTThzemVWbg?oc=5",
-   "data": "2026-10-27T22:39:14+00:00"
-  },
-  {
-   "titulo": "Juros compostos altos voltam à renda fixa e XP revela investimentos promissores",
-   "fonte": "Investidor10",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNZHgzRXBBYm1qZXJ3VWtRZzBJVUM5Z2dzcHRHVHZoQThDbVdGRjJqcXI0OExZZTl4dmE1Z0VPUlR4dTQycWZyYXJuT1VIbHFWZEtsbjdhMnlsT2VOTjE0Y0Fyem9aZ2J5bHlvX09USUdKZl84NUtNT3VBcWlDYjFSNE5vUXYwNlpVd1U1NkZGZE8xbVpZMGh4X0VTX0NpektSeWsyZ1VJcGVDNl9nSzB2d3YwckVsZm1JZEJCbk82YmxHUdIBxwFBVV95cUxPZF9OSmdFaFZVMXh0N0tQVV9FX1JrS0ZmdDZ5Nl9JLWNkLU1jOV9UaHlTV2R1ZG9GV25vNFlMVWhPSy1Id1ozNy1sN2NUUmpucHNoVG9qVnFXQ1JBTTdnV3p6ZVVxczFkMXlhb0hINDBuN2RmRVNEbnVpaGFhT1lIZWxzNjZNLVgtUmRNN09hRlJicHRNOXIweW43QnhWbHFfSko2R0tvclFMZDJaVDF6VFlJeGlHbDRKV20wYUl1djc5VDI3cGFR?oc=5",
-   "data": "2026-10-27T22:35:00+00:00"
-  },
-  {
-   "titulo": "São Carlos sedia treinamento da SP Sempre Alerta – Operação El Niño 2026/2027, com R$ 3,5 milhões em investimentos",
-   "fonte": "agenciasp.sp.gov.br",
-   "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQdlJheDBtaDJybW1UM09PZlZwR0xRb1BtMXJCcFFRX2E0bUk5WjVYY1hMUUlBT3RXaFhGU3d3TEhuQTdXeUNMTXVqcGhZY01HcnZQYVdQTnJwOFgyX2hxUWJ1WEhoNXFpZ3Z4U3FVdXZ5bGQ3VzFIRzVORXFsVm5DSkc5SzFVWENWenpZQXVzdHVDNFIyOERSVjJIclc3YklMaU1OWmM5bFNoRVBiQUZ3ekY0LUw0TklXNHE3T3hXSXNmTEN3ZUxldzMtQ01TWTVYMTBGM3FxeExZTjhpODBwbmVQTGVkdUlLN0lN?oc=5",
-   "data": "2026-10-27T22:11:29+00:00"
-  },
-  {
-   "titulo": "Rodovia Padre Manoel da Nóbrega recebe pacote de investimentos",
-   "fonte": "Portal ABC do ABC",
-   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9kc2VBQUsyMlVqWW9udG9qeV95RVFxX3R5NkdZdnJMYTlsOUFxUmU5T0ZDTTBhXzNWSHBDUzR2UWdva1J2S3ItTS1PZWxqdS1HRm9PZUZLTWdMM1BnZzFhN1dLaVgzLTdIYmJael9feE1IUUNGNGc?oc=5",
-   "data": "2026-10-27T21:59:44+00:00"
   }
  ]
 }
