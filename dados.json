@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-10-28T09:51:57+00:00",
+ "atualizado": "2026-10-28T10:48:19+00:00",
  "indicadores": {
   "selic": {
    "valor": 13.75,
@@ -17,16 +17,58 @@
  "cotacoes": {},
  "noticias": [
   {
+   "titulo": "Tarifas da cobrança eletrônica da CNL serão atualizadas pelo IPCA partir de 1º de novembro",
+   "fonte": "Concessionária Novo Litoral",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPQVBjNDFLQldRWDRNLVZabF9qQzhLb3BNMjFTMFVtdGVKTVB5QWJYM0Y0U2dZdWlSR3pJbzh2UW1DdjUyRXVDNU8wMmhvY2JnM2NxeU1xRHNja2o1akpMMkpwdTJ6d0tPeFRyY0xaZ19EbmNpeTNrU0IwSXF2MUYxejY4SlMyMWRkbnNOUmhXQmhrTXNWOWV0SHQ4WHRiNTRCVE94bXNOY2NRUXMyZmNNeEVwN1lsblRxeHEtN05KT2NTbFFhU2c?oc=5",
+   "data": "2026-10-28T10:44:25+00:00"
+  },
+  {
+   "titulo": "Agência de Comunicação - A RADIUS GLOBAL INFRASTRUCTURE INAUGURA NOVA FASE NOS INVESTIMENTOS EM INFRAESTRUTURA DIGITAL E INTEGRA A APWBRASIL À MARCA GLOBAL",
+   "fonte": "Estadão Blue Studio",
+   "link": "https://news.google.com/rss/articles/CBMipgJBVV95cUxQRUhXcWV2RWZ2Zl9KUEZSekxKMXRjVUo4eUE2ZnNrS1BRX2JSRlFSMnc5N2FhNXFrZ3BoN1BhUU1ETlN4TXRYbk9oR3hNcWtuNDZiMkd6RVVNamdXeElLQWJZd3VKakxqbGlYR3l5NkRZUW5KTkd4dWd3b1I3NGg3b3d5aUZTYTE4M05DdXhKeWczb19BSElnSHBJLUpkQW5aa3RDZVpSNnBoNlZxZlRXX3lZaFJMWktQZUQyZXNrUzJjQW1tZnVTNnk4T2wxVlAxZm1QbmJvSHJtSlZENVBkRTJoZVFoY0tYWVNCdzQ4NS1lLW9GaU9hWkN4WXZDd1hEZ0pGTVg2N2NBbTJpR25aMzI2VVBUYkVsNGtlM3kweHlfaGdVRHc?oc=5",
+   "data": "2026-10-28T10:41:15+00:00"
+  },
+  {
+   "titulo": "J.Macêdo, da marca Dona Benta, prepara novo ciclo de investimentos com foco em valor agregado",
+   "fonte": "AgFeed",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQU1NOVE5hZDhIVjRlWnRjbXlWdklYeVBzUlZXR2JWLXZ5TFBjRXlYZVhCVmFjVmlKTkxrN3c4RUp3T1plWDUwZk1mOURTelRXV3FsVWQ2a1Z0RUd1V09aU0hhYlhBV2NrSjZ1UmNjMFZhQ1lFMXJwTnlUXzRSZ3IwVnBkRVpicFNRWlN4MG56VncxdFNfeEw3a0pBVktFN2NuUTdkMnRDWXczVXliWjVBRmxxMGlGcmZXS19UeXEzSUg?oc=5",
+   "data": "2026-10-28T10:35:00+00:00"
+  },
+  {
+   "titulo": "7 ações para investir após tombo do Ibovespa , segundo o Itaú BBA",
+   "fonte": "Estadão",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOU3RoX0tZR21vczZRbFNFS044THJabFQ1NnRJNmJRQTdocXE2NVVFcWdHNUwzemF0b3lwWVdYdnpxQzVDMGJveXdaWTRQRXB6ME5NVmNNVGE1Zm82aDE5Qzg5RXBkYm96WmlQZUZETjh4a003RWVoX1lEZFFkMzluZ25rVWNLMkt4R0ROcFEtREh2R2tKaWFXb3BDLS1jMzI0a3haQVlsSzI1VWMxUEozLWl4Sl9YcVBSbkhTeGdhVWR1ZWpXU0ViSTl2RERQUdIB0wFBVV95cUxPcmYzUjExZEpTOVhIZGRmRnh4ZHRuQVlxdlNGNkk1TEpRT3haM2ZqYldUQXBJRHJfdzg5UDhFQ3JfUnpPdTVrOVpsWHhyVGtoWm5MMmZhVDc0d1JzeGFycElYYWF3SlhRVVFEb2hkc05hcmpHbTZrTzdqTVE0dkVwRnllLU42aWtNbkcwbU8wOEtkOEZnaUZYWEdKeEwwbjNXM2lwVEVQVnNWdXhkcElRd0k2S1otRkVnLWIzZmFIYWJiMDV4RXhFVC02SERfX01yQ0lN?oc=5",
+   "data": "2026-10-28T10:21:53+00:00"
+  },
+  {
+   "titulo": "Investidores aguardam decisão de juros do Fed e digerem fuga de Flávio Bolsonaro; Ibovespa em dólar sobe nesta quarta-feira (28)",
+   "fonte": "Money Times",
+   "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNZDJsaVBVNklHcU5uWF8waTVlNVJVTkNwQTB1UUZQa3JuZTUxR1Q1TGZTdHRiZnRLcTZUM2o0WWJPUmI5Q01pd0szd1pBUDlpUU03Y2JyZWdYQ2dTSmNMZ19jdjdCOUhiaHNYVmVwMVRuOU5QOXJkdTFYajczSmtFeElrWjNuOVB3bkg3VklhUHZ6TlhERk1LbmJhX2xGZ2U1S2MyV2g0dkh4RUVzYjRJZjBRLW1qTWZqbld6cmlPeHBsaFlPOEQzY1ZIY1BUZmFSRm5ycVB6VTh2R0NsU1l1al8xMXdZa3FabjBDQmk3bVJyZ1U?oc=5",
+   "data": "2026-10-28T10:14:00+00:00"
+  },
+  {
+   "titulo": "Day Trade hoje (28): Ibovespa cai após tombo histórico; e agora?",
+   "fonte": "InfoMoney",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPRm1iRGF2TEY1bW5hcFlYMWJvSjRnMnU4aHkxSlYzYmZuWnZ2X0ZDUVJtWV9WWnFBZ3pCTERzWjFsalBHekgxX3pUZ192Uk9DNVVKR3VTSTgtcGY0TU01OEM1WWhmYWlFTWtKSW1SdHY4Mkp0WGtPVHFUT1YxcGRRdkNtUkJsUHot?oc=5",
+   "data": "2026-10-28T10:03:00+00:00"
+  },
+  {
+   "titulo": "Após eleição, estrangeiro fez compra recorde de US$ 6,84 bi em dólar na B3",
+   "fonte": "InfoMoney",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNZE52WW1KcER3R283SENyZTJmbTZQQjJpeDNWYXRYalpPVzBDTUpLaTh5VVI0ZHIwRGo3RVVJTVl2eEZGamI2cU4xazM0OElBY0lza1R6a0dsUmhIdmlSRkJQWnp3aUphcnozZlU4ckVQVUhRUkY4WFdmRGM5cU1CbWpLX0VHSVlwOUNwMHVrRXTSAZYBQVVfeXFMUGk2UGNDTElSQVNQSVhzR3J4dVJzNDUzdWRWMmVveUozOVlEZWVvTGVoOXF0bEhPRXhvT1V6dEwzQlFTQ2M5emhaRmprbGNWOEg2NU5ydEJodkVPblYyNkNMWmRIMUpUb2JQamJSaExtYzRxdm9qeUVpWk1BZjdpNjVmYU5aemhqN1pxMDNkekFVbmdXRFdR?oc=5",
+   "data": "2026-10-28T10:01:00+00:00"
+  },
+  {
+   "titulo": "Galapagos lança quatro ETFs que mesclam renda fixa com ações e mais mercados",
+   "fonte": "Valor Investe",
+   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNRHFLM2E2dThaVlplNUJvVC1Cd1hYNHNOYmtBQnlCS2ptc1FnVEl4WWZscEVNR3pNYlMwNHRjY285dGkwSVBTdGpuZFpBWDR5alA3bmlwNU5DS0IxTVk5d1dNWDJBWHB4ZEg5dTg0aGEzY3BDZjVNSkg1aGhFSkZ6NkU3M0NQS20zUXQzWHR6REV5TU03QndyM1VpUUp0QkJCbVhRclNTSTBLNWFjVU5NaGJ2dGswaDBaRVR2OW4wTHNlODF0TEc0aWlMdXliRS0yaFozcFVMSWc5U2d2ZHJlN0x30gHwAUFVX3lxTE92Ym5nZlpYOUxlOEhLT3ZWWlJjbzJ4X0xHVldjSGZQSml1NEhRaHlPZE9HTEdhREpEOVpINUh1NUV0aVJQRWpGcXE3cHFzVXV6WHB2eTRGNTBHQ0p4dHR5RzNyTW1wM3NmQmlBQ1h4c09paEgwN2VNX1k5LWlSemxoR3hpRllVQlctZnVxZlI1OXl5N1B5b3Y5OVdJYjM0b0Q2NEhkTXVqV0lfSkpKOHJub2pnQTdMak9CaGNyRUlHc3Z5NE9DMG9ReXF2Z3VMeVRyYm54bG5Cek5IMXZ3QUE1U1kzSGk0d1VLdVF4YjlpTQ?oc=5",
+   "data": "2026-10-28T09:44:30+00:00"
+  },
+  {
    "titulo": "Agenda econômica: o que pode mexer com a Bolsa e o dólar nesta quarta-feira (28)",
    "fonte": "Money Times",
    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPRkw4U0NMX2dheWlNak0tLXhmUGU2QkxLNjhlQjJmTUdYOTRxWTR3dEM5OUpyaEpTdEVMUm1BM29DMllvdkNXSDZnZTNZWXZNVHl5cDBKSVM4X1MzYmNSUWxfVFVXclM0ZmsteW01NVhKTzJwSlpfWDVMdk80OGV3cURUS2c0WVM5dm5neElVRFcwUXZzaHJnOE1HdDRuTXZNcE9CcUg0NlRQSjBLb2Mw?oc=5",
    "data": "2026-10-28T09:30:00+00:00"
-  },
-  {
-   "titulo": "Mega-Sena: quanto rendem R$ 320 milhões na poupança, Tesouro Direto ou CDB",
-   "fonte": "Juruá 24 horas",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQLUtSYloxUWZnM1FVd1lmdTlhWVZCVndGa2xVTXZ5Z1J4UDF0VTJXU2UwMmFzbEpBV1ltNXljXy1CNHdjY1JyblFESVc4MXVwYUNiU0tZZVhwdmNrUlBVbmp3MnFDZVVQTVZ1dURaMXJCVi14Z1lwLTY4THhIdEkzVFg3QTA1anhTN09hT0JNelFwMnZyTkRKeEp0VU9CeXZhbHdzc1VnRQ?oc=5",
-   "data": "2026-10-28T09:11:46+00:00"
   },
   {
    "titulo": "Ibovespa cai e dólar recua após declarações de Lula",
@@ -45,48 +87,6 @@
    "fonte": "InfoMoney",
    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQQ1k4UElIQVZQLWdFYjd3UFVuQ1ZoLUQ5YWVIRWRrTmVmOF9ONXphbTQ2dzU1LWtKNkRmN19Ua21yRE5WM3NHb2tNNllVekJvYVM2RDRvMnZIajcyWkwzVzlDVU82bm5NZ3QxMG9VXzJIRFVBRURidm9iM1lsZUtrZmZBYlNWVlFXbXZVSm1wSS1lVEXSAZgBQVVfeXFMT0h4U0pndS1nYWVCVUhtXzVBbDNzZmg3NlJTYk40RGZyOWdvdFB4YlBJVk5xT0FlRFlPVnJFVk81eXVLSmcwSVlYMVQxRlFnN21LWWdlVF9scVBKcjJtQ2NRMnVpbk5KZUZvM0tvVjdVUFRZZ2FRSEh1TmZHV1piZlJGb3h4enIxV0pBMkpuaXRBRUhwRlpSdWg?oc=5",
    "data": "2026-10-28T09:00:00+00:00"
-  },
-  {
-   "titulo": "Goiás avança com 800 obras em andamento e investimentos de R$ 12,6 bilhões",
-   "fonte": "Jornal Opção",
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOZGttZzBvd3lpbFA5alVmRlZPT1dNek43NGFNUnRiYXk3Yng4aXY5WHd4MFh5TE9mc09TT2FBaWRqcVd1YURaQjlUOWw5dFA0S0VjRzJ4OWZXMXgwTWJQWWtwWWhBSGFtRkNsNE9QdW9KOU1oTzdZVXJBaW9HQ2FXd0dHdzRQbzFiaDVrZG4tMkNNQlF4eHBSZFpJYTZTOUFrLUpKV3FYTkF2aUIwRGVfcEVyV191ZmNBa2hyb1pMajZhSUVj?oc=5",
-   "data": "2026-10-28T09:00:00+00:00"
-  },
-  {
-   "titulo": "Paula Gama: Carros mais caros? Como disparada no dólar afeta preços nas concessionárias",
-   "fonte": "UOL",
-   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQazBmamQweWNfOXJJZ1ctcGk4R3N2TTJBR0JUVmRwc1lYb2c2Z2JaNnlUdGhfd0JUZzIzbWhPQnRKVmVWSGpYUWVTWG5LSzB0dkFSS2toXzhoTU95MjVJQXZxZGpyVGQzNVlJTDdQNXotVDFUMWlxOUdqM3llSk44NUozV1IxSlZCdjk4RWM0M1ZweElmSkRIamhUT0RXc1BfODZVbFNQR3ZZU19BZVlNVWNTUExyWkJTTGExNG1peGM3Si1iclcwQlpzVU5XTzA?oc=5",
-   "data": "2026-10-28T08:34:13+00:00"
-  },
-  {
-   "titulo": "Mega-Sena: quanto R$ 320 milhões rendem todo mês na poupança e no Tesouro",
-   "fonte": "UOL Economia",
-   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNbXZZT3JOX3Ata3NlSVp6bF9mRFJ6OEY4Yk1DX1pmVW1zV2twRlBYcUl2VjQyQ0x3TnpuSE5yWmdZUjl6QlRmYVNWZ0ZtWlZIVC0xRzhEUVBhTWFqU0RzakVubUlqRTdQLXhQa01rai1XOGhfMlMyTmhnaUZVYWlJTjlnTEhYa1hxdFg4aTBxbG01U2N2TFRXWDM2QVZpRDc1NkRFZUJvNmp1UVZfSWZLYVBodHoxLU5tRnFMNTMzN0VhSnhZRV9ScGRFSWd3T0lyajMxSExEVQ?oc=5",
-   "data": "2026-10-28T08:30:00+00:00"
-  },
-  {
-   "titulo": "SUS deixaria de receber R$ 30 bilhões por ano se gasto federal for corrigido só pela inflação",
-   "fonte": "Medicina S/A",
-   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4waDlDUWVJRDh0Y2tzcGZuVmNwTHVGc3dyMGZDTGJDdXhKUEpxOFVLVXV1WmRITGE2SWJ0eWM3QTJnWDhiZlRURC1aVjNGSFhGSHc?oc=5",
-   "data": "2026-10-28T08:15:48+00:00"
-  },
-  {
-   "titulo": "Ibovespa tem queda de 0,51% e dólar cede com correção",
-   "fonte": "Valor Econômico",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQU0JKdU45YXBQVzdSMDU3UEI0dWFhLWpGQUpOR2VBc3g0b3kwc19BVEE1N2pBZDloZmJxT041ZThFSm03eVUxbW9xY0lMVDNpeUVHMWpqUl9vUk1XTVA1U2pqV1FPUEtnZTNrNWlFX01va0ZhSFloRFd2NmFoWDRzdThWc2JUWlBPa3hoODJNWmh6UWpMUE8ydkFTaUI0T1JGQTg3R2x3eEFjRUpQRGtUb0dYa0FUbFJwZTcwYtIBvAFBVV95cUxQU0JKdU45YXBQVzdSMDU3UEI0dWFhLWpGQUpOR2VBc3g0b3kwc19BVEE1N2pBZDloZmJxT041ZThFSm03eVUxbW9xY0lMVDNpeUVHMWpqUl9vUk1XTVA1U2pqV1FPUEtnZTNrNWlFX01va0ZhSFloRFd2NmFoWDRzdThWc2JUWlBPa3hoODJNWmh6UWpMUE8ydkFTaUI0T1JGQTg3R2x3eEFjRUpQRGtUb0dYa0FUbFJwZTcwYg?oc=5",
-   "data": "2026-10-28T08:00:01+00:00"
-  },
-  {
-   "titulo": "Fed deve manter juros e pausa pode ser temporária. O que isso significa para a Selic?",
-   "fonte": "InfoMoney",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNQ09tRnlsYUMxZU1FS2E5dVZWWkxhZXh6Y2R6NE1GemJJQXl6em1qZGtieGdvUFVzNGhMMjM1T3JVR0NjdHA2a0xIQ3lUNUNtWHNUMFhqajdoRC1HcVBPM1otSDRFaG05QkRWc2xKRE1ZTmFCMk9FWXl3aUszLTkycVBfY2VkU3c1TVlVa1d30gGTAUFVX3lxTE4xT2NlNEdlclAyT2lNRm90dVpXMXo0RE9wa2hFSzhLVTRZVmNVX3BzTE5NR1RfZG5GRUFwSTJaMTNSSDZad21mWGNCMjVoTjBSSTdVQkdNZVNSTUVZVVBoOWpRaW1EMWVlTlhmT1lEN21JSUFnbXduMld4RHdmbWZyRUllbTN4dURyMnFYSlZlak8wQQ?oc=5",
-   "data": "2026-10-28T08:00:00+00:00"
-  },
-  {
-   "titulo": "Lula e a ditadura da Selic",
-   "fonte": "Jornal de Brasília",
-   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQRHNIcHlUb1VKaEVaZFltajFpTVBGdlhMcm1nUjBiVnVKREVrUzlUQlBaN2Vfa3BuSWRueFpselFJODkyRVNSYXBHRVNwZG9ENEpIbVpKRXNSaTlyQkJuM1VUYjNqRkpoY21NcDl5VFhjZTZuMGRDVHlHdWdsaVF0aVY1UnR1dUpDWTVHQXNIYw?oc=5",
-   "data": "2026-10-28T08:00:00+00:00"
   }
  ]
 }
