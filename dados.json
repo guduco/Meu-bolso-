@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-10-28T04:47:22+00:00",
+ "atualizado": "2026-10-28T05:45:30+00:00",
  "indicadores": {
   "selic": {
    "valor": 13.75,
@@ -16,6 +16,18 @@
  },
  "cotacoes": {},
  "noticias": [
+  {
+   "titulo": "Baixos retornos internos impulsionam o boom de investimentos de varejo da Índia no exterior",
+   "fonte": "TradingView",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBmZ0JMT2Y3UU1sajBTYVVMTkNVUGRsRHI2cG1IeUtyb3g2N2lDbnFiMzhsT1VTR0NtaGpjaE9WYk9JZGhDLURsNjFTS0NBUy1TdlBFaUR3aXRBZGlzVFJCdmdHLUVBMGZ3WW53VWlTdTg5elRoNHN3?oc=5",
+   "data": "2026-10-28T05:22:00+00:00"
+  },
+  {
+   "titulo": "Ações ganham impulso com a IA; dólar neozelandês recua após decisão surpreendente do RBNZ de manter as taxas inalteradas",
+   "fonte": "TradingView",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5IUDhaYlNoX3h6ZDVUZktSRU5yZkFIck5tdFJTd253N0xweFd5cmFrN29IY3hIdDBjZ1UxdDhtVndoWUtzN3owXzJfODJPVDZjN0p5Y202QmRMdWRMYk1xX3ZXUjY5RDZmeVh0YTRHeUNpQUY1LW9Z?oc=5",
+   "data": "2026-10-28T05:19:00+00:00"
+  },
   {
    "titulo": "Ibovespa cai aos 175,8 mil pontos e dólar recua",
    "fonte": "Acia Araçatuba",
@@ -47,10 +59,22 @@
    "data": "2026-10-28T03:59:00+00:00"
   },
   {
+   "titulo": "Governo do Pará destaca investimentos e iniciativas de valorização no Dia do Servidor",
+   "fonte": "Portal Guarany Júnior",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNR19Bc2JtSUI1ME1YdGpNWFhtb2M5a0dvRGdmT2d0UnZ0VjZ2eXlZekFsd1JtTEhLcUdGaVZEZUxZSVNoVHd6UDBxLWNzMUQzZlZOVHB0NnR3WFBRNHJZWUtzdmF1VHo5aXJ3aGJBNjNBZzhBUG00OG5tRVo2V1Y0Q2QwV3ZEaVU4bWg0bnpLUWZrSm55d3VYZGI0MUx2bmhlY0FTN2g5c1M5OGpaS1VvTnhQSVN1dmdlMjZkd2pQeXNCemNFWFExTlNB?oc=5",
+   "data": "2026-10-28T03:43:28+00:00"
+  },
+  {
    "titulo": "Como Lula pode acalmar o mercado após a queda da Bolsa e a disparada do dólar? Veja medidas apontadas por economistas",
    "fonte": "GZH",
    "link": "https://news.google.com/rss/articles/CBMirAJBVV95cUxQcVVuc1NoSWNmRHFMTFNFcXZjMDh1b2FxRXhfNV9sUS14NlZieXBNUkNqRDgxWjQtVlJwQUFjYUs0Zzg2MnZTUjM0TU9YY3pUdkhZSWxtQ2pyZHlEQ0dIbHhPeVlFZUxrRmhpeEdJeTJtNkdKdGhDN1JIV0FMZkNlbTdzWkF4Zy1TNG9QRFljcEJEOXg3N2M4dEpSYkpzTVgtRXp0YldMREVWOEFfMFJxWXNOaHBUNy1sMldKMm5EN20wbjFGWTVoLTB5N25qZjZzLUZKWGRhOVhkc09uNU5FYk5IcWRYbFQxSUd5VUhtWDZvZWRRYThnQVVPczA3QU1vRDVOVjhMOFVfRUJjRV9FTFhUdTYxem1MLVVJMW9HeHNQdDBFV0hFY0N6N1U?oc=5",
    "data": "2026-10-28T03:03:00+00:00"
+  },
+  {
+   "titulo": "Bahia tem 122 obras esportivas em execução e investimentos de R$ 210 milhões em 2026; veja levantamento",
+   "fonte": "Bahia Notícias",
+   "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQbWQ3cUlzZGNld2RNOGRtN3FRcUpINTYyT2NINkI2blp0MXNhU3JCT2V0Q2w3b3VvR0lMcmNCQzlFUHR2bGtjMHJURW1yWWl4VHVzZmluSTJNZFBHS0JPQ1ZYZUdGaE84cHByUmo4dEU1dVNrMDUxcU8wajNQLUt5N3Q0NGJ5ZzBtbS11TFRySFJReDNXTS1Gb1pNVk5vVk5ndWh1VUU0WnRYbnZQeEtqclVKYllKUTliLTRSZ2xRamNZSklvcng2T1Rpd0taY08tYjdLSlJlaXlNVms3c0FpbE1fOWIxYWt4SUZfWEpacUZMUG5hTlE?oc=5",
+   "data": "2026-10-28T03:00:00+00:00"
   },
   {
    "titulo": "Alta do dólar após eleições pode levar Copom a adotar mais cautela nos cortes de juros",
@@ -63,30 +87,6 @@
    "fonte": "Portal Mie",
    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPS2dPZGlVRDlIWWlUZGJYRjBYZU5RMjZhSDRGY3ZmaGhhN2h0Zm9lVkIzaGdpUHgtTnVTQlljek15SXlhMVc1U2U3Nm5qcG5waEFld0tDVlV4dHdCOXpfb0FjSUJueXZ2QVVNcFAyU3FKdEpTQjFsZy1PS2lmekk5b3B5RDhWZ2VIVl9OY1NxaUVRNnBmZVg1U1R0RlI0UHNxbUxNa0poYVk?oc=5",
    "data": "2026-10-28T01:33:21+00:00"
-  },
-  {
-   "titulo": "Tendências 28/10/2026 | das principais ações da Bolsa",
-   "fonte": "XP Investimentos",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPb2p2R05EWDVoT3lJbTRRcTRIN2NKYk50Uk84c1pGX0NKd1RwVG1CVWROdDJYcXlMUDJjRFJOYm5iem1lNEw0dnZBV0JvcFBwdnhfQ3lMRjMyRGZORHJjOUVpbFFhOHpVMFN4R3EtbWE5VUphcVpNRFkyVS1aSk5xS041eWpLbDg4MjQ4dzdZTVF1RU1vWUlMQUxPUFZtNzRYNmp6YVVmOTAzV2FU?oc=5",
-   "data": "2026-10-28T01:24:03+00:00"
-  },
-  {
-   "titulo": "Para onde devem ir os investimentos em defesa no 4º governo Lula? (parte 1)",
-   "fonte": "Tribuna do Sertão",
-   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQOXd1UjIybC1fVE13eWptbk1jczNNQkt6UkZPMEdWUEN5ZTFQbHh3djBKakRqZ3hyNGV0dlhFZFB0OHZoNE9DVU1zT1pxcnczc3dscGtNT2ZucXJnaGk5UzNNclJRMFN2WEVZVXQwUzB2cktZdVZnLW1BdnYwdUlST181emJpUTJ0MXpSZF81TW16cDRuQjl6TWl6V0Y2eG8tZlotSTRYWm9ILXdwNWY3X3lFLVppS19pQ2o0NEhpcFozZFpidzk4?oc=5",
-   "data": "2026-10-28T01:02:01+00:00"
-  },
-  {
-   "titulo": "Passado o período eleitoral, é esperado que fundamentos da economia voltem a direcionar decisões dos investidores",
-   "fonte": "G1",
-   "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxONVF0ZDQ1RnhjeW14SUtjTkhGczU4SHI0MmVZWDMtT0NmRzliQmlqR0s5c01Benk3WDJYNzVCeGdaQ25KbWluaUxaQ2JFS2NwSHBXNEYzMDYxMkkzOVd2UFJHSzIzYV8zaFFrWE1rdzVrTm0tVV8zdl9BT0hWNWJaQlNmY0RZN1hETEFvSUdrVkRpeGlPZXh3d3NFNWxkd0liUkp0d3lvX0dUQUtrd2tDT0JHVjFuQ25UYVdiWEFsNHAzZzluM0ItTkZMSC05LW05MWN0MDluNjhxMThsOUQxNVlJTmNFZi1WTG5BdmtjRmVGUVlLYUJ3VjdRLXBnbWF4dUVYRdIBkwJBVV95cUxNUDRXaTBRb012eVZoWFlNSTcwY2N6Y252OVlXekpRc19PSGRpY1dONzhlSl9TMlFJeEttOUxZd2VmX1dsT2sxWUlRZXNBbllyam8tSWRXMTQyZ0tGWlphRUYydjRSSFJ6bUo2dXNfVTVxZVVlajFVMzNDNlhZN0ZVZXV0SmZpS0tqczlOU3J6c19DSXFOQTdlaGVDSEFQdFJuT0ZlUlpKMWhPWE9qWU42ajBOVFllSVR5blU5cnU3TUhFM0FfU3FObWZTQzBuRTJnQnVsa1dyRWc1NlRZdEp1SmFNVHpBaUxWVG1Ralh3eVJCUGpwRWl5N3pET3RNS1A0NHlYS28xeG5kWHBSUERaVHE3QQ?oc=5",
-   "data": "2026-10-28T00:43:06+00:00"
-  },
-  {
-   "titulo": "ZPE Ceará amplia articulação global na Espanha e mira novos investimentos no Complexo do Pecém",
-   "fonte": "Balada IN",
-   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOU2xEUFJPT08xOU50Y0NYVUMyVUpUWV9qU3JjTG94QzBvSmZQbnY1NnJ3a3Bsa1REdEVLSEhvbEs1TUlOQ1h6RjVOdVJidlg1cmh1d2xBeGtLbzVLeDVFTkV0Q2xGbkZzczFKQzNCSlhSZHJsTHBBN3E4SW00UzYweUhTMW00T3lwOUNQc002ZFo3LXNxZmtVaE9WdXdEN0hYcFowYXB0WlQzc0VFbTlVRFNwZVdVd21IbVpFRllzN202clJXcV92MkdsWDU?oc=5",
-   "data": "2026-10-28T00:04:00+00:00"
   }
  ]
 }
