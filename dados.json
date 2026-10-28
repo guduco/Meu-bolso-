@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-10-28T16:53:35+00:00",
+ "atualizado": "2026-10-28T17:48:30+00:00",
  "indicadores": {
   "selic": {
    "valor": 13.75,
@@ -17,6 +17,66 @@
  "cotacoes": {},
  "noticias": [
   {
+   "titulo": "Ibovespa opera em queda: confira os destaques do pregão",
+   "fonte": "TradeMap",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5GcGZua2Q1UVJSajdYQTVZV3owdkFobXZlZll0emY2Y3N5NmZ2dTlEeFhDNUtsSnlSYlV2QU13UDEtck1SS2s0OEpvTXY3T05HX2xLTlUyT0M?oc=5",
+   "data": "2026-10-28T17:38:16+00:00"
+  },
+  {
+   "titulo": "Eleições nos EUA podem ajudar Selic",
+   "fonte": "Jornal do Brasil",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQX1NXUk9SbHNLQl9QdnJvUkpCdEFtenhpQnRsaXpMak5tOHBMQ3N2ZWpHVkJ2TUl3aDJiZkZLNDZTb0tIYUQ0d3NEajhhOTRub0hmaFV2U29ISDNRYWhtM21CdEJRWXVndzNEZmYzRTRpVHZsWkRLdFJTNnExQnpmcGlZY2tYQjBhbzRoLTZfSHlDMzJOVFNIQ01ual9uSXNYQl8zZDduc1l4YWd6SDBQM9IBtgFBVV95cUxNMmtIX2hpa2pKWnpPOV82RXpweXMwVV84NXgxRnNSdnQ2bVQ2UlNBMkFmaV93cmlCdU1hamdqbEtKQXNsMkFxa3gwTjNjY19OblZKOXY0MUhqQXNHN002YlA0dEtJYmYxR2tkZW5xNTRQWUkyTzZzWU91WUVHY240TUNsSHdfUDEyODFUNmZ0TUZrRUZvelE3MmdlQ01XWXlhMWR6WXY3X1lvWl9MYnNfRU8wLVNfdw?oc=5",
+   "data": "2026-10-28T17:26:00+00:00"
+  },
+  {
+   "titulo": "Ibovespa cai pelo 3º pregão seguido após eleições e acumula perda de 17% na semana",
+   "fonte": "BPMoney",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQTV9ELTZwcWtEblpyYUoxT3FxUzVBU2dIX2NQRmZGWGg1VUU0UmJiU1Nxa3ltSUI3TjRrWWM4N2xLNGZWYzM4UHMwVEhRb1lSQVRldXFRemdIVDVFQXdHb1NGSzlpa0ktM2FBOVhxOHNzcVVPSEhfRjNwajd3V0JSTjgwa05hLTJXMW13Mi02VWswWjlrLVZYaw?oc=5",
+   "data": "2026-10-28T17:18:45+00:00"
+  },
+  {
+   "titulo": "Tesouro Direto hoje: IPCA+ volta a subir e paga até 7,97%; prefixados avançam",
+   "fonte": "Valor Investe",
+   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOaHFXR1VNVVR0cjAxVV9sVkFhTDVfdGJ4WXdIVmU1V3RxazFVM2xMV09BY2hQaEl4Z0YwTG40N3JSYXlKS0ExYnc2ZUczaXYxSzdKV21uUGZtWEt0QUVFVHlEODQ0amFBYW9aMEhodVhNbVp2TE5VQksxVTRRXy10SkczNmd2X0t5SVlhUmFmUmlBb2pWMVFZTGd3NThJZ2h4bWJNQXA2eG54c2hEbkFTQTFUWVVVc3RIMi1RRTNrVFZscThyUXU2WG1zRE9aazlPYkhYMlVhZEhxdFg3LXfSAewBQVVfeXFMT3I5M3hJaTc2Q2V5RVg4dWRNMWhPbUxHN3U4Zmg1QzJWY0E5d0ZXMkxYUmgwZVR2NUxkX01seFRVYUM5ZGMyMkJrZl9OMW9XeHE2aml1OE9HYlI2YnU1Z0d0TnI1MVVUZVBvM0d5TDFXaFVrZ0lnSUgxMy1WaVZUcWJaajZiMjVsZWh6Y2EwSllfeUlydlF4cFpzNklvVWlrZENVcFVlMFZFOEJiRDFaT0RjUFlnaUhhTXpURDROYlRKeGVic1JnMDRuZUlueFVfdG1RZkN4ODlGeUlQdDVmZFhpQ1dBbnVmRGM0Vnk?oc=5",
+   "data": "2026-10-28T17:15:47+00:00"
+  },
+  {
+   "titulo": "Tesouro Direto: IPCA+ chega a 7,97% com temor fiscal",
+   "fonte": "ISTOÉ DINHEIRO",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9HdDNCN0xya0NmaFhrdmhwUTR2N3BXdjc3R3F5bmYxUTJYckduSTQyMXZSSWFDUGpPdENyM3hFWS1aejJPRWRwcW5IalZlWTY4dE5qbDQxZ0RJTjFFbUpVMTBGRmQ1WWV2Z3dVM2N5cFhvTlVUbE9OTkxiSW0?oc=5",
+   "data": "2026-10-28T17:12:33+00:00"
+  },
+  {
+   "titulo": "Investimentos em minerais críticos e estratégicos podem ampliar empregos e exportações",
+   "fonte": "Rádio Itatiaia",
+   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPeHFhUlRibGFNdkZ5NHFjZ0lkNndQWXpqU3RRVzdIZjBXZUdxNE1feEFZMVp0ajlQbG1PaGFFaTZBcnBXbE8tMDVTWGNpbnJPWlZmRnpuLVpDeEt3Z0VjZUdCZTUwNWhWOVBzdmhrRllGTEw4dzZyRkthLVJjTkVxc2d3cFRBYTFjemp5MjBuRGhkVlFWQldIb0dDRFVYdndyMFd0alZXRTk2dFRuNGZBOGpmeG03ZXlPbEdzMms1V2ctVk9oYmlFOFJuZGMzLVZxYXhtdGlkcjF2NkwzbzVpdDJMdw?oc=5",
+   "data": "2026-10-28T17:03:34+00:00"
+  },
+  {
+   "titulo": "Boletim Cambial (28/10): Euro e Dólar PTAX",
+   "fonte": "TradeMap",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1ncGV4WFY2WEtFWHlxT19Fem5icEtFbUpHbE11ajl3T2djRDA4TlAxWVlKNWIwOTk0Sk1GcWcyS0Z3aUhiQWpOVFpUb2sxR3kzcU9PeUNIa1Y?oc=5",
+   "data": "2026-10-28T17:00:55+00:00"
+  },
+  {
+   "titulo": "Galapagos lança ETFs com 80% em renda fixa e 20% em Bolsa; veja custos e funcionamento",
+   "fonte": "Estadão",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOekJobS1nNTRCVFc3Nm1TUEJjcGRmR0lIMWVNbk5NN2V4d0pxcU4xeEZRMmh5WTBrSl94OTVlbTkxaTVPMnZRRVZVRWU2N3drUHhfN0NoeW5HNWZxYTE4eXhpamc1MEl4QS1IX05RSU1kODBNZ3NpT19HdU9WTUJfcWNrN0FjMFMwRlRFOERRbFZNbzZuZ3VvWlU1QXc0dUF0YjFoWnpXRXdMb2dnYjFEQmhWMnlPM3hFZDk5dm5UVTR5cjFtRmYwRS1IYw?oc=5",
+   "data": "2026-10-28T17:00:24+00:00"
+  },
+  {
+   "titulo": "Café: Dólar em alta sustenta preços internos",
+   "fonte": "Sociedade Nacional de Agricultura",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9fb2FzYXcweG1qS2JDVV9wbFB6Y3lVeEp5S3Btam5lQjgtbF82SzVrQmZYN3p5YUUwSzMzNGZraEdWanJOMGhEZzRHTlZrMFRsb3E0ZkFkS2RfNV8wMkRYU01HeVBiSFRMWWlMZDlLc0Q?oc=5",
+   "data": "2026-10-28T16:55:00+00:00"
+  },
+  {
+   "titulo": "Ibovespa amplia perdas e bate nos 170 mil pontos",
+   "fonte": "Investidor10",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPMzhSVklCWmlxQ1V4THE3MEd5OUJqR3ZlRUlKR1h5U3NRalNoeGJjb3dqWlZWYURfWDE2cG1ldzlVbGlDUWNsZ2hEX3VHaUJvUXRWQjJIa1d1MDFqMTV6TFFHUzB3dXlRcEMtNzNENlhLZ0pHSFYtdGNIdzU4bmJaaTNMSmR6NDhMRFFlMUJwTi1aTEFueEY3S9IBngFBVV95cUxNSkxkZ0x4QzBlZ1ZZZ1gwaU45S3JJNDFnNzlKU1prcEJ2bFpYNHV4MXZ1R01CNzdCRDdwWVQyWW9PWFFrUW1aS1pHOHdnUXRCbmtPOUt6R1Vady1fcEFjV0FGRHpNYmN3NF9YWXkzWkhpWmM2b1NCSVJqSTJoYUE1cHF3bHN3ZTVLQWZ2Ukpfdjh5UUxzekwyZ0daWmpfQQ?oc=5",
+   "data": "2026-10-28T16:47:00+00:00"
+  },
+  {
    "titulo": "Taxas do Tesouro Direto sobem em quase todos os prazos com IPCA+ 2032 perto de 8%",
    "fonte": "BPMoney",
    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOWlY2bS1HbmtWSEtINEJBbUFZYzNHeFpsbkxldElEVkRwMDBqRUtHRlhTUUlmUzJNTnJBNWQ2dFFSQjNDRjBqeUhaRVJTTV9HNlpmdlZ3dUZESFJxNlUyaFVzYnFCLVlOTXhfZlZLT2VvZGVhTVAwTzJyT2FIV1VuYTlFcTk2SzNtM3dBRldkSFpQTXoyUGV5NmtNZjcyTDBJdWVuVTR0RzQ?oc=5",
@@ -27,66 +87,6 @@
    "fonte": "TradingView",
    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE02Xy1vb3NJTWZyVFRoTGFReFRsSmFuTUMxOWx0eUw1OTZHbGJQRnRPOW9yN2QzZ1dwYzEwQmJxY0pWTHF4Ml9MY2xBQzlDWFczR2pNTVkxUC1nV3FUYjdVR1BPb0tWVGkzeFNfSUFvbFA0SnpBNWpR?oc=5",
    "data": "2026-10-28T16:34:32+00:00"
-  },
-  {
-   "titulo": "Mercado sem glúten impulsiona investimentos no Paraná",
-   "fonte": "Band News FM Curitiba",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQS2FiS1RoWjNKbFRDbVBoWHcxRHNMRWczMHdWMnVmMDJRMTZyMmlDS2J1Z1JBWFRUaFl3NlY4Um9vZE5iNllWMDU4cXRuWW8yempHQ0ZfbC1DQ1p6MEJ0NENReGdqeFAweG5ySmN6VkJqTVVTOHp3QWhzd3UzOXVLYm9XZnJ1RzVUYkQ1SEx3?oc=5",
-   "data": "2026-10-28T16:31:52+00:00"
-  },
-  {
-   "titulo": "Governo defende investimentos e regulação para eólicas offshore",
-   "fonte": "Agência iNFRA",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPallBUU8wR2VfNnc4ZUx3alRPQ1AyOTMybXZQWmJqcGduSGtQdE5KbGNoT1dtZWZPeXF0anc5Sjhoclc5LVRKdUZvT3BoczVWOUlWcmZ0VHRabkR4TjdjSUozRzRDUUY2N0xmUFVMczhJbXh1dHMzVEEwc2RLVEVBamtlN0c2d0RDcGo1TVNrTkxTa0tBeVZoY09WTU5FR05jWGF3UWJxZ3pKMy1E?oc=5",
-   "data": "2026-10-28T16:30:34+00:00"
-  },
-  {
-   "titulo": "AZUL3 avança 6,8% com Ibovespa em queda de 2,8% hoje",
-   "fonte": "Visno Invest",
-   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPZzF2LW1QOWthcUtZTl9MS3RnbVVTcm5nMzNaLTM3Uml5LXpUZGRxZGZ3a3NqSzZXVWhZYzhjR0VWMGkxYkdXZml0Q0xNekd5eDVyZ3pDUkdzRjY5YXFpei1LVTlNVFpyYXRNRkZXZF8xUTh3V2xmelVHN3FwNlJtaHZjVmNMZThoMG9RVkhlbw?oc=5",
-   "data": "2026-10-28T16:30:00+00:00"
-  },
-  {
-   "titulo": "Ibovespa e dólar hoje: incerteza com Fed e Lula 4 afundam Ibovespa; dólar ensaia alta",
-   "fonte": "Valor Investe",
-   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOM2JWM1pSRjMtMks1VmphSmtodVJSTzc5R2tXLUZlS2x5UW9mci1uWmIxSXJFY2JtZzBTT013c0Fwa2E5eW5LTzhaSTY3WVY4dExIbUt5NHRCOFVRT2I2N3NnZ3puNFA5WXpnMXlGMDBBZ2tUVGJ5TzJfQVB5TkpOM0lOZW1QX3BUdjYydzR6NnJsU2lSakF5SFdRWm1LaHlSaGRINTFvMkZ0c3BrYWZFeGFtdzV6S1B2U2NULTlTYWs0dXhxYjBBUFJ4SEzSAdsBQVVfeXFMUEMwWE9penJqa3dPa3ZQT3ZkMjFSWjRBU2psNERNVFJMbzduQTN6MGJaazZIamU4dkhZTmZVZzN4RDdlRjdFVnIyM2lDWVEtWUYweENPbXdEX1VSYVlXaW1LSE1FekVRMm9zV1RzM1NMZU9oTGNxblRscWpPNldaVUhSWDBzZTVwTlpOYTlfU0NMcGRlekxhUXBDc05sRS1hSEc0dlVhcGlJakQzWE51emVCMThwLVcxTy1Vdm1JVjhGTzdKS3k4V3BUTlE0Sm5YOEJKN3NYczRJZHkw?oc=5",
-   "data": "2026-10-28T16:27:06+00:00"
-  },
-  {
-   "titulo": "Brasil deve investir R$ 127 bi em cibersegurança até 2029",
-   "fonte": "TELETIME News",
-   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9DTnBPNnBEN3pLUHl2U2hxa3JMWnFKX0NyX1E1N2xReXlEalZXYU95bXk5SEczVXZDdnlEZEJ5VWthdmFjekJTREFaRjc2b2U3UHVraV9vOGQ3ektmVjRNZkNoZzVmNmdpTmFZbWxCTHdiaE55dHh3Skc4bUFBdw?oc=5",
-   "data": "2026-10-28T16:23:46+00:00"
-  },
-  {
-   "titulo": "Klabin acelera investimentos, mas lucro cai no trimestre com aumento de custos",
-   "fonte": "AgFeed",
-   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5ZdXo4bTZIYzVBTXY1Y2ZyX21sNU9aQnhsQ0ZkcGotZUhaRXdfZlR6c2RDeThBWHJkaTZsd01LY1dLYmN5MFpodng3ZGsySHM?oc=5",
-   "data": "2026-10-28T16:22:00+00:00"
-  },
-  {
-   "titulo": "Ibovespa cai mais de 2% e retorna aos 170 mil pontos; dólar sobe",
-   "fonte": "Suno - Investimentos Inteligentes",
-   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBQSE9rVTNaSHoweFVqdnB5XzZKc1VjZFhadm90TmhpZ0V5Vk10LXhWTE9INmVQb1l2c1pqbmRQNVdWcGxGZ2hwYm9jNzdka3FNNEF0SXBxWUNQWEJQRGpIbEpPd0R1X0FJTkxLTU9yelg4cTJTS0Iw0gF8QVVfeXFMUE1CQ0Uzd0pud1YzbFBvREsxZ2VUSENUeWhLMEFnVkNVN01FYWRZdXhsTEgzaUpIX0l3cHd2S1plUk5ybHpYdTE5bVAwN1MzaE8xSWFWc0Jmb29SUEdoZHdaUFIzdV9KejREdHpNZVN6WXowamhhSlA3RzRWLQ?oc=5",
-   "data": "2026-10-28T16:18:04+00:00"
-  },
-  {
-   "titulo": "Taxas do Tesouro aceleram alta e IPCA+ volta a encostar em 8% em meio a temor fiscal",
-   "fonte": "InfoMoney",
-   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNVUtxWWxNZjBnTElsNkVkNzkxQm9NU240ZU9rZzlydnM2WnlpWGFYYUJYcEVvZC1OY0JHSU15bjJKMDVYYUtHYWNULUF6TnNhbVE4cnFfRmpnZEFXalkxQTh2MHZIZEI2cFVNSVlTRnpDbTF2b0RYQkhPeEd0R080cTZZcXk0R0tJQVRidnJnUnbSAZYBQVVfeXFMTmVIVzRPdWtRNGhPcDNVcVdfLVJSVGVvQ0Z3OC03aDA4N0lUNHBVRUlvMnFwRGVBeUFEU0loeWtnWkdOU05sM0J3N2QtVWRUaHRtRF91bG05VURzVF9WSndTZUlrUzFPbnhnalRhZjZTa0R1Tl9UdUZsTHNoaEo0eG9wd2FMU3dLek5WQVUzZDFWOHA1ZTZn?oc=5",
-   "data": "2026-10-28T16:11:29+00:00"
-  },
-  {
-   "titulo": "Ibovespa cai mais de 2% com incertezas sobre Lula 4 e decisão do Fed no radar",
-   "fonte": "Times Brasil | CNBC",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNeTlrYTRYaC1SRUQwai1wMkpYc2paU0FzeGRiOHlsb3BiTmh0Sm9qWXlRTjREcUxBWDlTWGZENlh6TW5WcGlKMVZ5Q2wtZ0dZZ2thX3lKVVFyTzh5LWM5cDRONzJlQVBtYmhidjlzc0FPNlNtbnI3amEzejQ2VC1LcEZlOGY5ZXQzbEd6aF90TTVlTWc4N0pTRUhrVnMzVUpFMDU4TlVNdVh5R1k5bEUxTw?oc=5",
-   "data": "2026-10-28T16:10:00+00:00"
-  },
-  {
-   "titulo": "Dólar hoje: entenda como decisão nos EUA pode afetar a moeda",
-   "fonte": "iG Economia",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNNWEwcWZrNXRrTzdmTm1udFhoNGZlcnI2Sk8zajhCX2h0WVJxcGZqOE5PRDRUMm1wdU9mQ3lfeW9uR0xwV0ZmS2JQQ1Bmd2hsZmVqYnZnR3NhRV9ucUJQVENWQkVEclVZN3VObllIdkpDdC1zWV9LSnVkeVRDZHNfeU0xLXFhOTFMYjhLc1pWQzFiNjRnY1A0R1hkc0ZwLXRnUWF5ZTlB?oc=5",
-   "data": "2026-10-28T16:06:00+00:00"
   }
  ]
 }
