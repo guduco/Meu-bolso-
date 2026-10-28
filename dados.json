@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-10-28T03:45:53+00:00",
+ "atualizado": "2026-10-28T04:47:22+00:00",
  "indicadores": {
   "selic": {
    "valor": 13.75,
@@ -17,10 +17,40 @@
  "cotacoes": {},
  "noticias": [
   {
-   "titulo": "Bahia tem 122 obras esportivas em execução e investimentos de R$ 210 milhões em 2026; veja levantamento",
-   "fonte": "Bahia Notícias",
-   "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQbWQ3cUlzZGNld2RNOGRtN3FRcUpINTYyT2NINkI2blp0MXNhU3JCT2V0Q2w3b3VvR0lMcmNCQzlFUHR2bGtjMHJURW1yWWl4VHVzZmluSTJNZFBHS0JPQ1ZYZUdGaE84cHByUmo4dEU1dVNrMDUxcU8wajNQLUt5N3Q0NGJ5ZzBtbS11TFRySFJReDNXTS1Gb1pNVk5vVk5ndWh1VUU0WnRYbnZQeEtqclVKYllKUTliLTRSZ2xRamNZSklvcng2T1Rpd0taY08tYjdLSlJlaXlNVms3c0FpbE1fOWIxYWt4SUZfWEpacUZMUG5hTlE?oc=5",
-   "data": "2026-10-28T03:00:00+00:00"
+   "titulo": "Ibovespa cai aos 175,8 mil pontos e dólar recua",
+   "fonte": "Acia Araçatuba",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5MSlpYdGNlVTFjcUU4X0xEdHRSLWhBcFdxR1JXTmJyUzFma0xrbTRybDR0MWlROHM0ZFE2UFo1LWlzbGRhYmxEZkhXbzJtTm83a1AxZG1hT0hVNWVZQVYtbk5vdTVORzNsNkJzWGplbw?oc=5",
+   "data": "2026-10-28T04:35:18+00:00"
+  },
+  {
+   "titulo": "Por que o dólar neozelandês está caindo hoje?",
+   "fonte": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQRm5FYXBXN0FjYUQyZm5fRmx4RHVvVUVYVjNxd1dQaTRpZ3Iwc2VQbGo4aG9lM3NwYmJrY0NxMGpoT1pzdXdNZTZ5a2V6R0U3cy1ObkNXQzR4QnI4eUNkZnhkRk1qNjhyZ1R0Z3gxWlA5d0JTV1A4UmFabjdWcElYYVhBdWVNNFo2TXl0aGtvWmJRNHVkc3JTSkNkeklFeDROaGVpUGVyU1M?oc=5",
+   "data": "2026-10-28T04:10:00+00:00"
+  },
+  {
+   "titulo": "Moedas asiáticas operam mistas enquanto dólar se mantém perto de máxima de duas semanas",
+   "fonte": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
+   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNVUx1U0NPTkxBeXctcVowNGRoUEt4YXZWQnE2eDNreUpRdUNralA1bkRRc1JWWF9lVmV6blY0TDRyeHJUQlRreUFGQWhCUEUtazFKQXhwbFdzeUVHVE1aRTdwbDFsaE5WWTNYeXJaNkE3QXRaak1oOVNUNk1laFM1bnVUSXNmSS1Ma2dheU0tdUduQzF3b2NBMVFwNVIxa0JyUnZma1hqTEVKSlhNOHFHUmp2LW9MV3Q0VF9ITUdlNEE5SlBqZ0RGOEYzc2JPdGZsUDlYcGlZRjhNejQ?oc=5",
+   "data": "2026-10-28T04:05:00+00:00"
+  },
+  {
+   "titulo": "Ibovespa cai 0,51% após tombo da véspera; dólar fecha em queda",
+   "fonte": "Vero Notícias",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNeEFaajN3cmpSZ3Jsc2t1dDUwT0JfRWgzZkxELW9INVpWUFNmMEltUk9XZHY1Q2RHZmNDZ3ZwdUNKMW5KVjFQb1VlcFlRelFsX3ljdHRsUEh6U244bUhNdnowVDJFUnppNDFhbHFlSkprQ0hKdUZfLTV3bDhIMmRxZ3RMR3p3M1lqMk4wbjhiWHo4V0djRC10dHVn?oc=5",
+   "data": "2026-10-28T04:00:00+00:00"
+  },
+  {
+   "titulo": "Governadora do RBA alerta que inflação segue alta e debate novos aumentos de juros",
+   "fonte": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNQU50eG4yRVhRSlpRWkk2cW1IaGEtVFlTcHNhenh4SURMWW5faTZvd25XYkFzc2VHLXU3M1dqWkViZElBMWwwLVdJdEZCRmRoVXRxOWROLW5mMk9lbGdJUWg0RllaazRTOVFQc0xoejk0U1M3aHktcTNjaUlsaWVxLU1zZ3VPcHhPSHR1ckMyWkItZTB2SFo2VDBCMmt1MTBISEtTTTNnZHZiWEk1STk3QUluRm03bll5M2RfRHdTMkF3U3UzZGtiSHZsWWVqQQ?oc=5",
+   "data": "2026-10-28T03:59:00+00:00"
+  },
+  {
+   "titulo": "Como Lula pode acalmar o mercado após a queda da Bolsa e a disparada do dólar? Veja medidas apontadas por economistas",
+   "fonte": "GZH",
+   "link": "https://news.google.com/rss/articles/CBMirAJBVV95cUxQcVVuc1NoSWNmRHFMTFNFcXZjMDh1b2FxRXhfNV9sUS14NlZieXBNUkNqRDgxWjQtVlJwQUFjYUs0Zzg2MnZTUjM0TU9YY3pUdkhZSWxtQ2pyZHlEQ0dIbHhPeVlFZUxrRmhpeEdJeTJtNkdKdGhDN1JIV0FMZkNlbTdzWkF4Zy1TNG9QRFljcEJEOXg3N2M4dEpSYkpzTVgtRXp0YldMREVWOEFfMFJxWXNOaHBUNy1sMldKMm5EN20wbjFGWTVoLTB5N25qZjZzLUZKWGRhOVhkc09uNU5FYk5IcWRYbFQxSUd5VUhtWDZvZWRRYThnQVVPczA3QU1vRDVOVjhMOFVfRUJjRV9FTFhUdTYxem1MLVVJMW9HeHNQdDBFV0hFY0N6N1U?oc=5",
+   "data": "2026-10-28T03:03:00+00:00"
   },
   {
    "titulo": "Alta do dólar após eleições pode levar Copom a adotar mais cautela nos cortes de juros",
@@ -41,12 +71,6 @@
    "data": "2026-10-28T01:24:03+00:00"
   },
   {
-   "titulo": "Após 'ressaca eleitoral', bolsa e dólar dão sinais de estabilidade",
-   "fonte": "G1",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPelhvSXduajBlek5WSFhqZ0R3ejZfZGNERjdpSW1HLTFicmZQM2kyYUNtblFOX3ZyYzhxd0o1M2tXWjl6X1VQYzd0WmhMWmdkR0hHZUFSb1FsYUc3VFhDa3dXV1lEcGxKT1FBQm15Qmk2QjhIQWo3SkZIRGUtZGNrSWRmR1g3VDl2ejM2SUhPRXBocXFxUjdOOU5YYWNnMmZMcjc3czJocFdaMzZrd2xLdTB0N2I1MFJnMHNz0gHKAUFVX3lxTFBHeVhZUnAwc1VMVERqZ0JKb0MzSW9xczNrTThMbFZLQkw2aGMySzJObG81R0F4UzFEUnZDbFlBc041VVZ0NDdpMDZkeVFIeGw4Q3R3ZUlkdEl6QU81UFZwdDBuZndTR3ppaTRYX0ZJOEN2Wko4UFFDUzg4X0hIQ2MwVUs5dmQ2emN0QTZTeURTcG50Ny1kY2FwUmNuZVlSWndtRlY0VnRBS3VmTnZBekdXVGFaSWJuLU40VW0xS1ZHSkxsVDNWT2x5RWc?oc=5",
-   "data": "2026-10-28T01:08:35+00:00"
-  },
-  {
    "titulo": "Para onde devem ir os investimentos em defesa no 4º governo Lula? (parte 1)",
    "fonte": "Tribuna do Sertão",
    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQOXd1UjIybC1fVE13eWptbk1jczNNQkt6UkZPMEdWUEN5ZTFQbHh3djBKakRqZ3hyNGV0dlhFZFB0OHZoNE9DVU1zT1pxcnczc3dscGtNT2ZucXJnaGk5UzNNclJRMFN2WEVZVXQwUzB2cktZdVZnLW1BdnYwdUlST181emJpUTJ0MXpSZF81TW16cDRuQjl6TWl6V0Y2eG8tZlotSTRYWm9ILXdwNWY3X3lFLVppS19pQ2o0NEhpcFozZFpidzk4?oc=5",
@@ -59,34 +83,10 @@
    "data": "2026-10-28T00:43:06+00:00"
   },
   {
-   "titulo": "Dólar abaixo de R$ 5,40 após eleição; Bolsa estável",
-   "fonte": "Acia Araçatuba",
-   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5lSVlqZENoNGFQVjZlQTd2UGpVWW1fRFBsYlRKNi1wc05nTHZCZkxEU3NyRVNsa05IRGJlYWZTTVlXZEtmOUVhM0duNl9mTlp5cnNPOGZ3NE5BSHB5Wnhkc0JlTmFsLThnSWp4SVRRV0JnV2s?oc=5",
-   "data": "2026-10-28T00:05:15+00:00"
-  },
-  {
    "titulo": "ZPE Ceará amplia articulação global na Espanha e mira novos investimentos no Complexo do Pecém",
    "fonte": "Balada IN",
    "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOU2xEUFJPT08xOU50Y0NYVUMyVUpUWV9qU3JjTG94QzBvSmZQbnY1NnJ3a3Bsa1REdEVLSEhvbEs1TUlOQ1h6RjVOdVJidlg1cmh1d2xBeGtLbzVLeDVFTkV0Q2xGbkZzczFKQzNCSlhSZHJsTHBBN3E4SW00UzYweUhTMW00T3lwOUNQc002ZFo3LXNxZmtVaE9WdXdEN0hYcFowYXB0WlQzc0VFbTlVRFNwZVdVd21IbVpFRllzN202clJXcV92MkdsWDU?oc=5",
    "data": "2026-10-28T00:04:00+00:00"
-  },
-  {
-   "titulo": "Ibovespa fecha em queda de 0,51% aos 175.710 pontos",
-   "fonte": "Brasil 61",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNc2NVRUF4MVZIRndwM0JsbjZMUWlxMGF2ZGg5cW54QncwR0w1RjdoVE9jT2dBWnBEb2cwNy1tblVmS2RTUGRCZVo5VGZhczl3NldkQjRMa1RiOWJMT0NTY0lFZzBlMk1WLTBmQnA3enR4OC1pWUFSaTRmQXdHdEl5M3l5eGwyMXMzWkVqMEpR0gGTAUFVX3lxTE9iZkJkU0p5UmtpcVpUUWtsTWptVFhlMks0Qk5BRzhOMmZzbWxpbWtEeHVfOFZpNjYxRGd0dGMwMWdOVjVzdWdhejdQS09jZzYtd1hJM2pOZUZZM3otcUhVWDZxbHljQlphSWdpQnhWVTJnWlZLbkV2cmJHWjRDU3RzT2RCNll0YVMzUjBpWUJyVXNJRQ?oc=5",
-   "data": "2026-10-28T00:00:00+00:00"
-  },
-  {
-   "titulo": "Depois da disparada do dólar e da queda forte da bolsa, mercado financeiro vive dia mais calmo",
-   "fonte": "G1",
-   "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPazYzbUtIX1RBQ18xVC1EUnY4NXNXUW9GMlJhVWdzdU0zaUJYQ0dPeHNiWUcydktuaGxLMnhobTc0WHpxODd6VU9sdVoxSndmRkpyVm53dDdmQ0l4OE42T3c3WmpkNVliN2h1eldyRXI2MXNHcnhPUmtmeEhHUjROcndBNmRLRVdtUDlBUzB2a3pDSHJLN3N0Y2k2b05YbnZtY25aWmdjV29Ra2R6VVg2cE1QZlBDa2I4Ui1KekhSaWNFNDlGN19KRGRYdjN4bTVCZ0FGeDB0ZkhIY3dLaEFwaDBNZzc5Q3ZsTVU0RDAyYmFVM3ZO0gH0AUFVX3lxTE9rNjNtS0hfVEFDXzFULURSdjg1c1dRb0YyUmFVZ3N1TTNpQlhDR094c2JZRzJ2S25obEsyeGhtNzRYenE4N3pVT2x1WjFKd2ZGSnJWbnd0N2ZDSXg4TjZPdzdaamQ1WWI3aHV6V3JFcjYxc0dyeE9Sa2Z4SEdSNE5yd0E2ZEtFV21QOUFTMHZrekNIcks3c3RjaTZvTlhudm1jblpaZ2NXb1FrZHpVWDZwTVBmUENrYjhSLUp6SFJpY0U0OUY3X0pEZFh2M3htNUJnQUZ4MHRmSEhjd0toQXBoME1nNzlDdmxNVTREMDJiYVUzdk4?oc=5",
-   "data": "2026-10-27T23:57:31+00:00"
-  },
-  {
-   "titulo": "Economista defende equilíbrio fiscal e mais investimentos para impulsionar o Brasil",
-   "fonte": "Jornal Cruzeiro do Sul",
-   "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPYXVYWE5jT2R6TTBwTVJRbUplaGhVTVRnd1VVcExEdWRYczREV1ZZdHZ2MFA4Z3k4NzF3T3QzTHFSNDBUZkpMYWQ5a0xjRVZFeXRKYWdyYllOZW9qS0E4V1FyMXR0LTBFQlNLWkhEZGpzdHdGbEdmRmZUTWVUaGFkZ1RaWEdnUmdoZ0E5S3IxendWdHZ4WW1Zd0YyMFRhNDNNakpKdEtZbFhwbjJyY21DYnAyNnVyOTF2TjBJSzhwYUdYcWt0VmFmbHdheEQxRTdTbVY0NE5MWnJGVV96cU1CaTVvQlNON3VyOVFr0gHwAUFVX3lxTE03Zl9BdWZiV1dhZ2NFSV92TEY1YTh3WUFlMy1kY2lFcHdIWjJYNHdOWk03WVZGQWVxczdyeS1uQ3lyLS1CZ0JqTmtISGFlZU9ZWkVKMURDRG53WV9HMk9DNE10ZWRSNmJlSU00bW1mcVdTVkRxSWpHeERSZzhXYzdXRnFhejNpM0N1MHFkUTBCYkJoNVk0dTl4ZzE0ME1manh0N2tXVXF0TU9TNHZfUlA5VGdNQ2U4ajVzUmJOOVlQZXhlcUlmbWlVMkpiMTF6dEJvXzVtZnFmdDNDT0YtU1hsNmYzZUpKR252eUJOZmlXWg?oc=5",
-   "data": "2026-10-27T23:56:00+00:00"
   }
  ]
 }
