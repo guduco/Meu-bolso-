@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-10-28T01:56:53+00:00",
+ "atualizado": "2026-10-28T02:48:47+00:00",
  "indicadores": {
   "selic": {
    "valor": 13.75,
@@ -17,12 +17,6 @@
  "cotacoes": {},
  "noticias": [
   {
-   "titulo": "Ações ganham impulso com a IA; dólar se mantém estável antes da decisão do Fed",
-   "fonte": "TradingView",
-   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5WdVlPcHBWYWZlNVBNUTJfTzdONWVubjFpeldod3dmZXo2UUxhVjAtRVE5dVBWU3dQYkpwRGVNX3ZYOFUwSjhCUkl4aEdZa05oVkpLa00zRU9GMWJfeWl1dzVpdnpEbXBZeDcwb19jaTRLMWJlXzBJ?oc=5",
-   "data": "2026-10-28T01:39:00+00:00"
-  },
-  {
    "titulo": "Mercado brasileiro sofre turbulência após eleição; dólar dispara",
    "fonte": "Portal Mie",
    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPS2dPZGlVRDlIWWlUZGJYRjBYZU5RMjZhSDRGY3ZmaGhhN2h0Zm9lVkIzaGdpUHgtTnVTQlljek15SXlhMVc1U2U3Nm5qcG5waEFld0tDVlV4dHdCOXpfb0FjSUJueXZ2QVVNcFAyU3FKdEpTQjFsZy1PS2lmekk5b3B5RDhWZ2VIVl9OY1NxaUVRNnBmZVg1U1R0RlI0UHNxbUxNa0poYVk?oc=5",
@@ -35,12 +29,6 @@
    "data": "2026-10-28T01:24:03+00:00"
   },
   {
-   "titulo": "Para onde devem ir os investimentos em defesa no 4º governo Lula? (parte 1)",
-   "fonte": "Tribuna do Sertão",
-   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPTlpZSWpHcW1lVkRxVXl1bVl6dmFOcF82N0x2bEd3bXFyS0ZlME8wSW5SdXNuTXl3OThVNTl0ZEEzcDFIeUNkRzJTVGYtYUlDR3o1a2FXWWluWUlJMjZHY0NTUzNHRjNQZXM5YmktWjVadFdnRHRiNWtvV200U2RwQzhybjNvS0ZvaU90UDAyOGYyN3c5bjFjM2ZvZ3BNOExERUNManYxSFJ2OXdKUUllNWtYcWdnZzgzazhPNzZ3NG45eWtRNFRDeHVEa2c?oc=5",
-   "data": "2026-10-28T01:02:01+00:00"
-  },
-  {
    "titulo": "Passado o período eleitoral, é esperado que fundamentos da economia voltem a direcionar decisões dos investidores",
    "fonte": "G1",
    "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxONVF0ZDQ1RnhjeW14SUtjTkhGczU4SHI0MmVZWDMtT0NmRzliQmlqR0s5c01Benk3WDJYNzVCeGdaQ25KbWluaUxaQ2JFS2NwSHBXNEYzMDYxMkkzOVd2UFJHSzIzYV8zaFFrWE1rdzVrTm0tVV8zdl9BT0hWNWJaQlNmY0RZN1hETEFvSUdrVkRpeGlPZXh3d3NFNWxkd0liUkp0d3lvX0dUQUtrd2tDT0JHVjFuQ25UYVdiWEFsNHAzZzluM0ItTkZMSC05LW05MWN0MDluNjhxMThsOUQxNVlJTmNFZi1WTG5BdmtjRmVGUVlLYUJ3VjdRLXBnbWF4dUVYRdIBkwJBVV95cUxNUDRXaTBRb012eVZoWFlNSTcwY2N6Y252OVlXekpRc19PSGRpY1dONzhlSl9TMlFJeEttOUxZd2VmX1dsT2sxWUlRZXNBbllyam8tSWRXMTQyZ0tGWlphRUYydjRSSFJ6bUo2dXNfVTVxZVVlajFVMzNDNlhZN0ZVZXV0SmZpS0tqczlOU3J6c19DSXFOQTdlaGVDSEFQdFJuT0ZlUlpKMWhPWE9qWU42ajBOVFllSVR5blU5cnU3TUhFM0FfU3FObWZTQzBuRTJnQnVsa1dyRWc1NlRZdEp1SmFNVHpBaUxWVG1Ralh3eVJCUGpwRWl5N3pET3RNS1A0NHlYS28xeG5kWHBSUERaVHE3QQ?oc=5",
@@ -51,6 +39,12 @@
    "fonte": "Balada IN",
    "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOU2xEUFJPT08xOU50Y0NYVUMyVUpUWV9qU3JjTG94QzBvSmZQbnY1NnJ3a3Bsa1REdEVLSEhvbEs1TUlOQ1h6RjVOdVJidlg1cmh1d2xBeGtLbzVLeDVFTkV0Q2xGbkZzczFKQzNCSlhSZHJsTHBBN3E4SW00UzYweUhTMW00T3lwOUNQc002ZFo3LXNxZmtVaE9WdXdEN0hYcFowYXB0WlQzc0VFbTlVRFNwZVdVd21IbVpFRllzN202clJXcV92MkdsWDU?oc=5",
    "data": "2026-10-28T00:04:00+00:00"
+  },
+  {
+   "titulo": "Ibovespa fecha em queda de 0,51% aos 175.710 pontos",
+   "fonte": "Brasil 61",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNc2NVRUF4MVZIRndwM0JsbjZMUWlxMGF2ZGg5cW54QncwR0w1RjdoVE9jT2dBWnBEb2cwNy1tblVmS2RTUGRCZVo5VGZhczl3NldkQjRMa1RiOWJMT0NTY0lFZzBlMk1WLTBmQnA3enR4OC1pWUFSaTRmQXdHdEl5M3l5eGwyMXMzWkVqMEpR0gGTAUFVX3lxTE9iZkJkU0p5UmtpcVpUUWtsTWptVFhlMks0Qk5BRzhOMmZzbWxpbWtEeHVfOFZpNjYxRGd0dGMwMWdOVjVzdWdhejdQS09jZzYtd1hJM2pOZUZZM3otcUhVWDZxbHljQlphSWdpQnhWVTJnWlZLbkV2cmJHWjRDU3RzT2RCNll0YVMzUjBpWUJyVXNJRQ?oc=5",
+   "data": "2026-10-28T00:00:00+00:00"
   },
   {
    "titulo": "Economista defende equilíbrio fiscal e mais investimentos para impulsionar o Brasil",
@@ -87,6 +81,12 @@
    "fonte": "Brasil 61",
    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQYjBsaFk5OHc5cnpYdjhqcnhqZk9qMDA5QldreE1tay1qdk83WV9jeUFJZnpnMExPWlBLNEVXMHZFcXJseVpJYk1jTHZhLWNLcll0UjJ0TUtSa0pxZzlJTldQNXdIbzBEZXVrbV9OWm1yTi0wejlXV3Z0Z1YwU09vb19sSnFCMVF2Q3RDSmFFVGxvRzjSAZgBQVVfeXFMTXFtSEF4T3B4UHpuQ2ZfMlQtRzdteWYzNFNuanlJWmI1Ul9oaE10OXhfLVQ3VDl3OFZ0aVJVVVhCWkFJcmtiN0JDY2hOLVh5THNITlFGQVk0RXpOVTlNME9RV0g5THNfSHNBM0hmOG5KUkkyUFhxQ1lWZlZFSkswMXpLNEY5bjBtX1o1WnlPM3ZNZVZuNk1RSWY?oc=5",
    "data": "2026-10-27T23:30:00+00:00"
+  },
+  {
+   "titulo": "Coronel David reafirma oposição a Lula e defende investimentos na Saúde e rodovias de MS",
+   "fonte": "REDE BRASIL DE TELEVISÃO",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPb2lWZS1iTFBudDNzdUR2NDRzMC0tSXlQMEItYTYwRXNSTnlpTUJZRGNtYnF2S3ZEVjd2SXliTEs5Z1FGTzY5T0xuZXVXTFBOLThhLXVOSXU2UDVMY3MyRmpRUDR6T2NNYmVYampDcmhWcEk2V2JtNk1ObkZhbG02cDhQVW54QUdianl5RzFqNElmUXNRcE1mVDh6V3Z1TGgxeTdHT1E2eFBuZFNMN0R3SjFVVTg3TURTTVIxR1Jmcw?oc=5",
+   "data": "2026-10-27T23:17:35+00:00"
   }
  ]
 }
