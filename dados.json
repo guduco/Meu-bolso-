@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-10-28T07:59:39+00:00",
+ "atualizado": "2026-10-28T08:53:44+00:00",
  "indicadores": {
   "selic": {
    "valor": 13.75,
@@ -17,10 +17,58 @@
  "cotacoes": {},
  "noticias": [
   {
-   "titulo": "Ibovespa hoje: decisão sobre juros nos EUA entra no radar após sequência de quedas da Bolsa",
-   "fonte": "Estadão",
-   "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNdzdQZW9Ib3Z2SHR3alAwTTNQRVBNaEpTQnpqU1RMVnZGSzdkTVVWdlhIUTF5YzliOWdNRjlPZmg4Y2VmeHY3U2d2bURFZEt0QktDZ1ByemxYVnlySGxlVnNDZDZYLXM0U0ZzQmlLV0tSdjRWSzFYcXc4Q0IweURmYS02dGlPbzBhSjM2Y0M5VGtxWjU5Tno5R3VHREhkRVFnV2JXOUFKYWpnLUtfMnJZYjdOSlZmWTZJOHAxNmQxYmVNTFhTMHF0WnRMcWxkSG4ySVMyM1I3cXZzdDNHZDJTSU0wZDAtQnVoVUNzYmN3?oc=5",
-   "data": "2026-10-28T07:40:53+00:00"
+   "titulo": "Paula Gama: Carros mais caros? Como disparada no dólar afeta preços nas concessionárias",
+   "fonte": "UOL",
+   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQazBmamQweWNfOXJJZ1ctcGk4R3N2TTJBR0JUVmRwc1lYb2c2Z2JaNnlUdGhfd0JUZzIzbWhPQnRKVmVWSGpYUWVTWG5LSzB0dkFSS2toXzhoTU95MjVJQXZxZGpyVGQzNVlJTDdQNXotVDFUMWlxOUdqM3llSk44NUozV1IxSlZCdjk4RWM0M1ZweElmSkRIamhUT0RXc1BfODZVbFNQR3ZZU19BZVlNVWNTUExyWkJTTGExNG1peGM3Si1iclcwQlpzVU5XTzA?oc=5",
+   "data": "2026-10-28T08:34:13+00:00"
+  },
+  {
+   "titulo": "Mega-Sena: quanto R$ 320 milhões rendem todo mês na poupança e no Tesouro",
+   "fonte": "UOL Economia",
+   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNbXZZT3JOX3Ata3NlSVp6bF9mRFJ6OEY4Yk1DX1pmVW1zV2twRlBYcUl2VjQyQ0x3TnpuSE5yWmdZUjl6QlRmYVNWZ0ZtWlZIVC0xRzhEUVBhTWFqU0RzakVubUlqRTdQLXhQa01rai1XOGhfMlMyTmhnaUZVYWlJTjlnTEhYa1hxdFg4aTBxbG01U2N2TFRXWDM2QVZpRDc1NkRFZUJvNmp1UVZfSWZLYVBodHoxLU5tRnFMNTMzN0VhSnhZRV9ScGRFSWd3T0lyajMxSExEVQ?oc=5",
+   "data": "2026-10-28T08:30:00+00:00"
+  },
+  {
+   "titulo": "SUS deixaria de receber R$ 30 bilhões por ano se gasto federal for corrigido só pela inflação",
+   "fonte": "Medicina S/A",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4waDlDUWVJRDh0Y2tzcGZuVmNwTHVGc3dyMGZDTGJDdXhKUEpxOFVLVXV1WmRITGE2SWJ0eWM3QTJnWDhiZlRURC1aVjNGSFhGSHc?oc=5",
+   "data": "2026-10-28T08:15:48+00:00"
+  },
+  {
+   "titulo": "Mega-Sena: quanto rendem R$ 320 milhões na poupança, Tesouro Direto ou CDB",
+   "fonte": "CNN Brasil",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPVVhOb2FNLXNKMzQ5c1hMZmtTM0FCX3ZzX25qbUV5YnJhd0cwVEd0bTV3UmFrMkxFd2d2c2NuZG5xenkyMjVJUnQwQUY1VmxMWTRhOHpzaXltcG5XTUJQdDhTa19McnlJSHNrY0pKU3BJbzVQMUpMQ2V1TkU3NWF2Z1JYdi14bjdrd3A2SHdQbmQ3SkE4bDBGRmxGNVNScFM0cGlaMy1ZZ1BQMURWdEtNc1oxUDRYal9BQWprVkxVYWtRajYzQ2h3X05VSjFCdw?oc=5",
+   "data": "2026-10-28T08:05:03+00:00"
+  },
+  {
+   "titulo": "Ibovespa tem queda de 0,51% e dólar cede com correção",
+   "fonte": "Valor Econômico",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNZ0lGUnhIQjItWHQ2cUVESTM4QXFERkxibWY3dGx5aTROckRKTEJxSWRiTHBwdXMwY0lVbmhEMGl6M3BDVm9HTnBuQU16VW9EcGZNd0w5YUdoY2tMVGJ1QlFKVV9UVmxxdkZnZE53Nk10RVMzdzZoaTRjcExVbVk1MWdHcG5PMGRkWGZtUnVCNUFFZU1xdHF0Nm1iOHYyVDlpd1poZFM1bktWa1hzR3fSAbwBQVVfeXFMUFNCSnVOOWFwUFc3UjA1N1BCNHVhYS1qRkFKTkdlQXN4NG95MHNfQVRBNTdqQWQ5aGZicU9ONWU4RUptN3lVMW1vcWNJTFQzaXlFRzFqalJfb1JNV01QNVNqaldRT1BLZ2UzazVpRV9Nb2tGYUhZaERXdjZhaFg0c3U4VnNiVFpQT2t4aDgyTVpoelFqTFBPMnZBU2lCNE9SRkE4N0dsd3hBY0VKUERrVG9HWGtBVGxScGU3MGI?oc=5",
+   "data": "2026-10-28T08:00:01+00:00"
+  },
+  {
+   "titulo": "Fed deve manter juros e pausa pode ser temporária. O que isso significa para a Selic?",
+   "fonte": "InfoMoney",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNQ09tRnlsYUMxZU1FS2E5dVZWWkxhZXh6Y2R6NE1GemJJQXl6em1qZGtieGdvUFVzNGhMMjM1T3JVR0NjdHA2a0xIQ3lUNUNtWHNUMFhqajdoRC1HcVBPM1otSDRFaG05QkRWc2xKRE1ZTmFCMk9FWXl3aUszLTkycVBfY2VkU3c1TVlVa1d30gGTAUFVX3lxTE4xT2NlNEdlclAyT2lNRm90dVpXMXo0RE9wa2hFSzhLVTRZVmNVX3BzTE5NR1RfZG5GRUFwSTJaMTNSSDZad21mWGNCMjVoTjBSSTdVQkdNZVNSTUVZVVBoOWpRaW1EMWVlTlhmT1lEN21JSUFnbXduMld4RHdmbWZyRUllbTN4dURyMnFYSlZlak8wQQ?oc=5",
+   "data": "2026-10-28T08:00:00+00:00"
+  },
+  {
+   "titulo": "Lula e a ditadura da Selic",
+   "fonte": "Jornal de Brasília",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQRHNIcHlUb1VKaEVaZFltajFpTVBGdlhMcm1nUjBiVnVKREVrUzlUQlBaN2Vfa3BuSWRueFpselFJODkyRVNSYXBHRVNwZG9ENEpIbVpKRXNSaTlyQkJuM1VUYjNqRkpoY21NcDl5VFhjZTZuMGRDVHlHdWdsaVF0aVY1UnR1dUpDWTVHQXNIYw?oc=5",
+   "data": "2026-10-28T08:00:00+00:00"
+  },
+  {
+   "titulo": "Exportador de grãos e açúcar aproveita alta do dólar e trava vendas",
+   "fonte": "Globo Rural",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQWnRJLVF3dHZSSktqVkVsZ3BWVUtnMEt6WUltOFB3YmR3YWx1dVUwWTd2T2xZS3hpdHl5MGE3b2QzSXJ3WWhHTUk0OXJJSS1HUElVc1plV0Q3M1dfdmlOVzFFOE5WUXNjUGg2c20xbV9GMDlRa1Z5OXlBY0QzYnZXWFhLN3Q5OVNVTGNnZHNlVFVMT3h2VnFSS2hXNnZXOUZFalRQcmNzajhBUXlGNTRNNklWSFdlbDZxd2xURElCbkFwSnM1NVHSAdQBQVVfeXFMT19NNVZEUEI0SW5GZ2s2OTRwRlJmS05CVEpxcnR0SU5PSjNQMklETENxRXlfaGJiZ2ozZ1VBeDUyZzNqRFZVY3k0M0dPeU55X0RQeUYya1ZMaHdBSXA4Z2p1eWZDOG9QclhpekU3M2F5OHE5OGFjUnFYYzBxaEJQVXRWQVotT0FHVkpfRjFrOVhGY01Kb3N1UDBoUlJqMllJOVJDVmVkT1BlTUVWT1NZekdfakdGWkp0TGtrVllSanppLU9QcjJMMmR4V3ZCOTlZVkhsdG8?oc=5",
+   "data": "2026-10-28T08:00:00+00:00"
+  },
+  {
+   "titulo": "Bolsa e dólar enfrentam novo teste após crise política",
+   "fonte": "Maringá Post",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZXg3Rm5GYzVMdHVQMzZ1U29jOTYtZjRWRWRvZ2FXUGE4TXNTc2JCWHpaaHkzOTJLcmV5dF9yUHVoMmcteUVHT2lpekZqVV9XaHluOTZ2bmhQUFZCTnpjUVN1UVRlWEhBRVZQUzFfLXFuLXFRZlU3T0hLTnQ3V2pfaWMwOUk1b1FsdjZzZkxiMXRwZzhtN2ppcQ?oc=5",
+   "data": "2026-10-28T07:44:00+00:00"
   },
   {
    "titulo": "Ibovespa fecha em queda após eleições; dólar recua a R$ 5,35",
@@ -29,64 +77,16 @@
    "data": "2026-10-28T07:35:13+00:00"
   },
   {
+   "titulo": "Ibovespa hoje: decisão sobre juros nos EUA entra no radar após sequência de quedas da Bolsa",
+   "fonte": "Estadão",
+   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPTUhoN1ZzY1NjSW1ESmdDVnBrUUUtcENuUFpJS3dZR0t6blpzZS1rQS1NYjJlYWxabndyUWFPUHhiWHZPTWE2UlRua0ZXMzZab3FLSDVLalA1SEM2bkdGT3hMMG9wTUtsc01ib1Z4VlNCZmcxUU1DbGJieEVBYzhiUkUtVFFRcTdOOVNaZ2EzbHloaU5Ob0wwSHJfMFZjQzBBbUE4VlVTZjNkYV83eWhKRUQyU3AxbEJqamRJeUZVSngxcW4ybjN6d2dTZ3JodWdVLUJFNFVELUZteGtEeG93T0U0Z9IB6AFBVV95cUxPam1HMTd6NWNaWi0zNnpKVEQteTk5OGlvY3NXY3lqWHdfcVhLa051NlJsSEZJNEtHN1RXRm5uVFdRemczNnRnRG1fODE2ek5KcUM2RXUtZzNmSWpRTEpWc2tlVm5OLVhhVGp1OGtrd1VUVTFzdmpVX3Q1YXgzSUhHZU40TXo3ckIxaTd5Z205ZUVCZVZoZk4xSm1SSW5aWWRyX0hjcmFMSTNwYmFBaC1nSWlDN3JFakxWNzk4OEVhQmltWVh4S0RLVVU3U1F3emhGVWhqdWpnMWQwVUZsa211eUVVdDlTN2VW?oc=5",
+   "data": "2026-10-28T07:30:00+00:00"
+  },
+  {
    "titulo": "Tailândia mantém juros em 1% com crescimento fraco e riscos de inflação",
    "fonte": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNTUlNblVhUUx4TlNRd3otSTZLX3cxUjJKYmgxbVE2OWdCczRJdHhqZ0N3YmdiOVRoX2lDSmdKcjc0bllyMjBFa1VxQUxFNGdGMWVNNTlnNDBEVE9FNlhzTUVqMzkwb2VjSi1NM3pPNF8wbFZsTURlUG5teDZQd3E5OXd5aDdtajZ2Q2xnQ05mSUhNRTVYUW10TmtZUWRWclhoemU5U3RJdjJNWURhZERDbmlydHo3S180MURJM1dB?oc=5",
    "data": "2026-10-28T07:28:00+00:00"
-  },
-  {
-   "titulo": "Tenho ações ou Tesouro Direto: o que fazer com meus investimentos em meio à volatilidade?",
-   "fonte": "O GLOBO",
-   "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPRy1uMmZRMnQ4WWV5bE0tdEU2a3RWYU5yZVJ1alp4R3ByVUdOaTVrOEIxOEhMOTB5eE9IZzdBOHBxUU4yNllBY3B0dVNLWVl0NHFVaFhDdnRyWjhCYnZZQTJTbktldmY2R1o5cFJLUTB5dlVhSW5tcjZJeGRTZjFQc2JGU3pXaUxJVWxqenlnMWN0dEEzSFBvTnV2NGhHREg1UFFPdE5mUDJIdWxpN29uYnJZVWRwUmZhdlpqT29NM2FzOEtTZUpGdktNYTktMW9iUURMQWxjZ3dhT20xN2QzeDcySFJfYVA2Y25r0gH6AUFVX3lxTE56VFJ3QTNkR1Vma1NVTmJ4ZkRyNnNDaGEyM2QwSUhwb3BtUmFCTFpSaFFSS3liTVVjZmJHenphN3VVcVBDS0VzV2VZU3daSDZ0SXdGT1dwV1NjcFNwTlhWV3FjUnFiWUNlc2NoaGdBV2xtMjRkaVVvcVFHdG9PUGdfaEQtenV5WmZ5bkFWdXloUFF5QUZFelkzRjBGSmJQam0xQzMtRkxmTFd5cjExNFVlOHBudXEtWVNpMXdLYktiS2xqbUVtLW5GNEhzbVNwVjRBSjYycDRkcmRSTWRJODN4dGNwVEk1WTBuQ3M0VWJyOVlQdi1oX0hzMlE?oc=5",
-   "data": "2026-10-28T07:00:00+00:00"
-  },
-  {
-   "titulo": "Cotado para Fazenda, governador do Piauí é matemático, ampliou investimentos no estado e tenta retomar superávit",
-   "fonte": "O GLOBO",
-   "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOc19Kck9TbC1palo0OEVtUDdBb05IYXlOdktlY3FLanFVUURITzA3d1pCaXV1UjdGWnZtdFZIZEFwRGl2cnRJOHNPeVZOVXZuZzBUZ3ZoZldlUEhuSV9BSWlhUjhLaDhXLVVBQktObkY1Wkk5dnhENUlabERWUkFiRjU1a3l5by1qbFJBR1JGbFBub2Q3ZS02eWFWdWk3TGpHcFp3aXFKOXlpbGloVEFxSFh5bDg1TnNabGJWcnhkcUFvSXNRUTUxZV8zNHdFVERYbWZrZW1xR3QyUXhkdG94WUN2MnUzMERyYndyeVV6X3BOLThiU0xKeUs3OGhLQdIBjAJBVV95cUxOMTBQSl8tbjFDcE1TRmt5akdIa01UNGdxNW5XbVM3cjI5VWpoTldBalkzZUpkVUxoUy1OZUE1ZmhLa2tGYnkzSjJxSzVBc3NYdmMwYTlBVmpiLXZtQy01M3AyWU0wWlNTZFU3aUVwVzgtU1FzdWp3THJNRzJZWnNialVLd0hYazVhd2xTVDdJV1dLcW5pXzA1djEzUWh6bklBdDByemZEMUpNTXEzYXNuR0hNaFlqVnFtOV80LTVuNDZPbC1vd3plRGxUSlAzN0UxeTZNdnJDajRsU1VQYmE0Snk2VUl4UVpJQ1JEUzJKWjlubUJHT0F0U3NIRUNGRkNsb05BWUl5SVU0T0pX?oc=5",
-   "data": "2026-10-28T07:00:00+00:00"
-  },
-  {
-   "titulo": "Vitória de Lula surpreende mercado e coloca pesquisas eleitorais em questão",
-   "fonte": "CNN Brasil",
-   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPdXVfNXVJcWY3dG5qWTU0UXZWb1dtSkwwUGE4Q2NOQ21jaGRaT3hUUlFUY0d1WnRBZU1pRUJSZFBsRXg1Z21NRFJPcG0tU196bmlKTWNrYm9jOWlLNk0tOXBRaUFYelh3UV94VDBqQVg2MXhCTDc2aWJKdGlhdi04djktUmh1LWJsVU5TRUp6dnZRTmZTSzVMMEZ5MHVLR09RM3NPdGt3ME9vR29QUGM4YWlaQkZjTHRURXRtSG9HY3hDbGFUNGl1WU9WckxJcUFxXzJDYTBUMUFILWVzbFhjSWhR?oc=5",
-   "data": "2026-10-28T06:17:58+00:00"
-  },
-  {
-   "titulo": "Sudene aprova incentivos fiscais para três empresas na Bahia em rodada com R$ 329,4 milhões em investimentos",
-   "fonte": "Jornal Grande Bahia",
-   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPektPMVg1T2VzLXlhRTcwYk5Fd25qS24xMUpPSXYzY3p4cXZpbzg2RG9SQ3BuaHVSRkFvakU4d3VyQmd3Z2l0YUV0VGMtOG9Ub0FSVjN0STgxMFA1cmlmVUpuTGhicldabW5KTzVmQzhkaEEyMHdDd1VKcjZDZHgzd2dOd0Z5UUtUMmVVYVVsckxzam9XdTF4MWIzam5KWlQ2VFZtUy1kT0M3N1pPYlhZejlKaWtsSlVMQUNKSlA0dUp2RDFuRjRFLTZZVmZmQXhvZGtQdFk1QnFzTE42WVBMRkFB?oc=5",
-   "data": "2026-10-28T06:00:13+00:00"
-  },
-  {
-   "titulo": "Baixos retornos internos impulsionam o boom de investimentos de varejo da Índia no exterior",
-   "fonte": "TradingView",
-   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBmZ0JMT2Y3UU1sajBTYVVMTkNVUGRsRHI2cG1IeUtyb3g2N2lDbnFiMzhsT1VTR0NtaGpjaE9WYk9JZGhDLURsNjFTS0NBUy1TdlBFaUR3aXRBZGlzVFJCdmdHLUVBMGZ3WW53VWlTdTg5elRoNHN3?oc=5",
-   "data": "2026-10-28T05:22:35+00:00"
-  },
-  {
-   "titulo": "Ações ganham impulso com a IA; dólar neozelandês recua após decisão surpreendente do RBNZ de manter as taxas inalteradas",
-   "fonte": "TradingView",
-   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5IUDhaYlNoX3h6ZDVUZktSRU5yZkFIck5tdFJTd253N0xweFd5cmFrN29IY3hIdDBjZ1UxdDhtVndoWUtzN3owXzJfODJPVDZjN0p5Y202QmRMdWRMYk1xX3ZXUjY5RDZmeVh0YTRHeUNpQUY1LW9Z?oc=5",
-   "data": "2026-10-28T05:19:00+00:00"
-  },
-  {
-   "titulo": "Ibovespa cai aos 175,8 mil pontos e dólar recua",
-   "fonte": "Acia Araçatuba",
-   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5MSlpYdGNlVTFjcUU4X0xEdHRSLWhBcFdxR1JXTmJyUzFma0xrbTRybDR0MWlROHM0ZFE2UFo1LWlzbGRhYmxEZkhXbzJtTm83a1AxZG1hT0hVNWVZQVYtbk5vdTVORzNsNkJzWGplbw?oc=5",
-   "data": "2026-10-28T04:35:18+00:00"
-  },
-  {
-   "titulo": "Dólar cai quase 1% em correção após arrancada com vitória de Lula",
-   "fonte": "O POVO",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNUWNSQk90Y3ZuUXhja2FpY3dycW94Qng1VmQtbVkwTXNRMWZRVWRYa2xFMmZYLTJ5aDRMR3NQM25fX2ROYW1XeldYMDBzZW91b1lFR1pEdUxJOWlGR1pjenlVYkJMNFo2TG9IeUpZc0dKYXFLaE1sX2hzQ29kOVd5NG85VHhjZ1JrWmNMVTFhZFY4WHBoc3N1ekxMTDd3WTZabFo5V3BWNmR4WVlDQUR2d0wzX3I0Q3doZHZKWi1RZw?oc=5",
-   "data": "2026-10-28T04:15:00+00:00"
-  },
-  {
-   "titulo": "Por que o dólar neozelandês está caindo hoje?",
-   "fonte": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQRm5FYXBXN0FjYUQyZm5fRmx4RHVvVUVYVjNxd1dQaTRpZ3Iwc2VQbGo4aG9lM3NwYmJrY0NxMGpoT1pzdXdNZTZ5a2V6R0U3cy1ObkNXQzR4QnI4eUNkZnhkRk1qNjhyZ1R0Z3gxWlA5d0JTV1A4UmFabjdWcElYYVhBdWVNNFo2TXl0aGtvWmJRNHVkc3JTSkNkeklFeDROaGVpUGVyU1M?oc=5",
-   "data": "2026-10-28T04:10:00+00:00"
   }
  ]
 }
