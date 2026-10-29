@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-10-29T08:55:38+00:00",
+ "atualizado": "2026-10-29T09:53:17+00:00",
  "indicadores": {
   "selic": {
    "valor": 13.75,
@@ -17,6 +17,60 @@
  "cotacoes": {},
  "noticias": [
   {
+   "titulo": "Agenda econômica: o que pode mexer com a Bolsa e o dólar nesta quinta-feira (29)",
+   "fonte": "Money Times",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOQ3RhdHJrSEhHTzFwUlhaVlM2MlBoaEJUeHpKTzNXNkF5ZTVjeG9BY2NQQVVUSXVFZF9FbzlTRUJSdmQ1MHgyR2dFOFNLdmVUM2dSSlVoS01pZXBrcmI5ZzNsTjM4d2hxRmJRTkFHalgzTE9PT1NaS295VG04RWw3VUxFM1hDRU1vamxMUVUzN0dDNnFja2xBY25xamRSTmI2dGo3SWF6VFpxZlZXMmNN?oc=5",
+   "data": "2026-10-29T09:30:00+00:00"
+  },
+  {
+   "titulo": "Inflação e PIB nos EUA, Caged, BCE, balanço da Vale e mais destaques desta quinta",
+   "fonte": "InfoMoney",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPMW1SUU5CQXFhSWtjbXlJZ3EzVUUyVTJqdHlkdU93bmFUdUZVUUNzVlRzX09hLUtMWWRCcGZMQjY1M3AxRk9Yc0cyMFFuSENWNzZ5X0lVM3hUYkZhYTVXNzdVakVUVEdMd3NrT25Kc3gtazQwdmd6VTJLbHEzWWxJTTZLUFlqM1ZpWHVwd0pXQlhGSjQy0gGaAUFVX3lxTE51VFBPcUFBWFVNYzJoVWVtR1k5SUY4MUt5YjZiaUdGTU1TZkY5YTViNmFVSEF4bE9KSGpfTHVMQXE5b21LcUdKeDRhM29XUUVOazZHR3o4Z2NaSzg5UWpNSzhkVklWYkFVb2Q2VFJwdlRWU2RkQmh6OWtkRV9wdnVtSTRZUHR0WFZDbWx3UWpZQllXaEg1bm9PSWc?oc=5",
+   "data": "2026-10-29T09:07:35+00:00"
+  },
+  {
+   "titulo": "Crédito rural sustentável recua R$ 3,6 bilhões e acende alerta para investimentos na pecuária",
+   "fonte": "Feed&Food",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPcWFtWXdZR3ZSVTFYbXRuUDlhN1ZxSV9aRkVwcUg3X1BCdWtMSHVvVWxkVnN5OEg5TDZqblRkQ0tUU2hWYXM4OWowbHhIYVQ1OGhIaDhYcDZKWktQVXBaTGtrRzJBbWpaQUNEcXlKbkYwamw3d2xvd0V3MnNfb3ZyNWcyTi1VM3lieGdsbHJpZjZDQnJiTmFJcFRjLWJQM0NGVzVpWm9FZ2J5M3R4d1pEUW1Uc2NBVG8?oc=5",
+   "data": "2026-10-29T09:06:00+00:00"
+  },
+  {
+   "titulo": "Orçamento de MS 2027: folha tem R$ 5,50 para cada R$ 1 investido",
+   "fonte": "Campo Grande News",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPZGFTN1ZVVUxEeUVlVHp4blZvNEc3ZzQxMURyb21Wd1lHLUVrc0twb3lQZUFKV2g1U0tFUDZ2bU9WcnZ0cXVrQnMwNkNMWnFzbklMMjlPZS1wcDFOLW5oMXNnMFZYSFdjTFZRa3hLY3BhMV9idUs2ZWtxR2xGSWRuWDF0RUdWcUZmVUpNSDJoU3VEZmpwQWc2ZmhubWtIZ1N2Y1FKYUFHUUozalNTU2FB0gGvAUFVX3lxTE5wNzFpeWpBU0xjY1Z3Z1NzMkcxQ3ZFejFpY01ueXFfOTNDbTRaUm16MWR1VE9GTDFuYXRJcFliZHdnTjRybUlfbk8xVEthMFRTaWRhUUhSREczbm02SnBUSThxU0puZWNSZ0ZMaW9sbGR0V1JZcU9Xd1lyZTRGOWtvQVhaYW9vMUpjMWFsLUdjMUxGbVFSTlc5ZlFzVVl0c1gxb25zRndsY2xibkZQdTQ?oc=5",
+   "data": "2026-10-29T09:02:00+00:00"
+  },
+  {
+   "titulo": "Após eleições, leilões de rodovias voltam em novembro com previsão de R$ 31 bi em investimentos",
+   "fonte": "Exame",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNUVJuUHRyV0lMSVkzUVhsTlpkNWhTLUM2MGd1cnlrTlB3ZjJyZ2g2RlcyZnIzZVlLQTdrTjlnRXc1VWVfOGIyN0d6c0pxaUl0M2RoMEE1eHB1TTBkZzBtMDVyeVAzQlJSUFdhaEVSRDdlTUdoQU94Z2w5WDV1YkhXRmJIZW5ZRWY4cHhpQmRra0Z1Qkdmcm1yZ1ZLZXltcjd3MVhTSnpPUnJKa1otSnJvNkY3ZG1VenNEdjBFVGtVYw?oc=5",
+   "data": "2026-10-29T09:00:36+00:00"
+  },
+  {
+   "titulo": "Vai viajar para o exterior? Veja o que esperar do dólar após disparada com eleição",
+   "fonte": "Valor Investe",
+   "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNbk1FVk40TGRzbE5jRElhSlhUbktnYXIyXy1NWDRDTEtTZWFpTkFMZXBhTUxuUUNUT043dEphSVptMXRBbDdHem9TaXd3ZnNOYzhBai1OX19fQ0JUR2ZkWVpaLVktOUFNWTJSOHdLSWJpWVZiNTJsZTl6Y0YxS1FjU09ucmtjYUNFWmp4Y1hMcFcyOWk1YmgwM1RjR3BJVmo4a1N0QVJoTGlvYUZfYVJ1VnAySWFaLUY0bDdiYTBZT09rcEJYYWtzQlVCcUl0dDVMaVRHLUw4LTBzTXh1enBDMm1FejBkSmF0Z3RrbVQ1MFBKbzDSAYICQVVfeXFMTTREVVJwcEQxZHQ4RUFtQmNndXh2NURTeE5yamV0a2QwWWdPaHJLUG1aTHRlWnNyM3daUWlBZjdNWk9BajAyclJBWXFXOGRvWTBCbEZGRHdxdmtnS0ZJX2xkYkJTcnUtM2xRVTRHMUVjb2tjM2pGZkVBMkhLQklwNlVZYkRKNjgyMlhkSTNDVmlUWmtieHowUVhwb0NmcVRLLXFGcE9sU3VCNzdzaGVFc2FDM2stcnhuRTQ5TW5DU19mQmJmenRQNVYyVEE3dldTMEFaUUpnV293bFNpNy04RGtia3lMWUFuT3lFY2ZRdGtSRUFxdGQweDMwUDhKZlN3eWhR?oc=5",
+   "data": "2026-10-29T09:00:00+00:00"
+  },
+  {
+   "titulo": "Tempo real: Ibovespa acompanha decisão de juros na Europa pós-Fed",
+   "fonte": "Money Times",
+   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE51eU93MV9YNGVDaVZPM3Qwd0VkZktXR0dhWU1Sa2VJZ1RaSXl3YmFMa2RKZGdzTVNuTjVmWXRCM0NqMUo2cm1ZYzVaTHpQZUU0aVB3WlZhdjgtRmRQTl9CQVJPc1h5Zw?oc=5",
+   "data": "2026-10-29T09:00:00+00:00"
+  },
+  {
+   "titulo": "Nasdaq Futuro cai mais de 1% após balanço do Google abalar confiança no setor de IA",
+   "fonte": "InfoMoney",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOY0hjMjE4VlpJbVM2TlE3dkREaDY0bkJtUm9GZjIyUTFSMDQtdXBIZFBSZFJITEhOeXRrdDZHYkhYckpwaXk0N05abXlna0xyai1BbU8yQnRRTnhxdF9id2lfTVFfSzFYdnhBeHBkWmFxQVpNMkpzWWwwQktMMmlSWTZtdEh2bXdlNGNSby1B?oc=5",
+   "data": "2026-10-29T08:54:49+00:00"
+  },
+  {
+   "titulo": "PagBank Investimentos: A Bolsa caiu e os juros estão altos: é hora de comprar, vender ou esperar?",
+   "fonte": "UOL Economia",
+   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNcy1Ga3lPLVBKbEhqSDVRMWxsOENXZHQtcl9fMnM3QWE3QzRwQWxRUENpZ1ZjbzJCelZod2VsLXgyUjE1N1NLQm82MDlkVl9nbzE4N2VpbU9aSXczS3pEQnhNUEZzOF9UdS13bm0xVmVid3EzcHFHd3FyT2FuTWRVNmtkbm1pQ3RGcnJJR2l2a3RfYzlTM3I3M2tSeWU0QlhWWS1rV3Z3emMzUGJFc0RQeTFRYks2LWVWUEdtT2RqOV90bTVzQ3pTNzhONTVaNGJVQWFhR1R3c0duSlJI?oc=5",
+   "data": "2026-10-29T08:36:39+00:00"
+  },
+  {
    "titulo": "O Ibovespa vai continuar caindo? O que eleições anteriores mostram sobre os rumos da Bolsa",
    "fonte": "Estadão",
    "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOVHlXYUZ0QUlQUnZFZTJ2RlhCMHVBYXNkY1drUmNvcTdZQkVBS1B2d05GdHpRa3E0anNZaG5XX2VTSEVudXp1QjJQelRoRTdfb1JzQ1FXNVprcW02b0RiVUx3OWJ5RGM1SDJaQzVYZE1UUmFucDlzRzd6aFVKeDR0Tl9wUkRZbzBia1FNb19lY2JDX0U3bFpacGEyV3A2Ql9YRGZSUWxfOUk1aU1PTEkwLTNxVWpDeHhGWVp6Zjg2LXFUdndaR01Id3FoLTlDbDVER3g5U0RId1Jid185SmdvYXpMLU82MkhnZ0hQbg?oc=5",
@@ -33,60 +87,6 @@
    "fonte": "UOL Economia",
    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOWDFtNllaRDMzNW9WYXpOTjc0LW9VeEk1dU5jMmF2c2xYY0twUUpRam1hVkpsaDg3SGhuRVRhNUJUeEFvUUhFcXl3c1lrYlJtdHpkZUh2NV9HMTVUZnBmV0s5Y1ZlQ1RaVEIzSWFEZFlLM3czQTFQQk1ZWXZDWDZYMUJOWG1Od1ExZUlZTER6UEZ1VWVrUzN5OFdyTG0wdE9ZSkh0Q3JNdmVaMnRzdTNQeU9lck1QOF9FUk5JNVVaTDFCanF4NGc?oc=5",
    "data": "2026-10-29T08:30:00+00:00"
-  },
-  {
-   "titulo": "Tesouro Direto: como escapar da marcação a mercado após a reeleição de Lula",
-   "fonte": "Exame",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQbTJBdDJGVzA4eE53Nkh6TFhEQi03UFpBTExNcjVmNnhlQUZIdVNWamxsRFdjd1hCOHYtZUhGdjYxVWRLUVhrS0tRanJBYmtJdFFHd2FFWmdqR0s4bmEwTFpabHVpZE5HUWlFMnlEUV9ENS1DU3pvVDF5dnBFNXRweFp1dG5ON2NRRXBucEFoSkdzNjNhTHlkd25vbWcwa2xIRXVibjJidll0M293cy01dzdZX3FSbzg?oc=5",
-   "data": "2026-10-29T08:01:27+00:00"
-  },
-  {
-   "titulo": "\"Vai ser diferente\": como investir durante o Lula 4, segundo a XP",
-   "fonte": "InfoMoney",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQWUM5R0tKZFVxaEE0d3J3WDJfanpIM0NIMS1xTVZkMVJsZWlkeEtncUZwaTZEcmlLY3JUSU5VejlsWXZPbUs3b01lUDFPWXc0UmQtVjNRRk5ZUVdoWHA5Um8wZWIxWGx6UFFqbnktNzJkMnRRcEhVVVQwTmxSVHZFS0Y0aUF2SVV5LXFyUGs4dTFSeF90OWR2aUlnWGJXSF9ULWtzaFVtLUE?oc=5",
-   "data": "2026-10-29T08:00:09+00:00"
-  },
-  {
-   "titulo": "Eleições nos EUA: carne bovina vira símbolo de inflação e guerra cultural na disputa pelo Congresso",
-   "fonte": "G1",
-   "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQaXJXVENnX25ObkhqLWE0cXNKSlZOdGRaeGhzT0dqRWJEcFJQWHB5MlVzRFR2emtWMTlfTDNubDZsRUpvV01PNmZLVHNJUVE3Q01PT090MWktZ0hCWTFjbGU4dXVMVGJLZFduUDlRM3dYQXM2bmhCaG9GdXNiUmlBT3EtU3djV0RVdGpoWFV3d0VxeEpQZ21NUE56LXhONS1MRUZ3T3cyV2ZsSjRRYTdOV3lHVDBFX3Fjd3FVY1kyelFCSWp5NXdmcU4zNXRZTUZ5aFV6SEo3ZnhVeG5Fci1HZlZqLWo2YnNKNXNwNlU4dTBJNWpCTDlvdlBn0gGIAkFVX3lxTFByeDhDY3lvcEtIZjZlSjlpUFc1QlNNTmVzRGdHOGltbXNIbEhqcTRBdlMzLVB0OUNkR0dhUnJDLWVFbWlLOUo2Q3BFVEVzNVpzRWJmZUZCdWxCYlVhRE9udWVLRTVpdHBzYWY3M2E1ZTQtTFlHSG1CWkloWTM5dHd2UzVGeEFnYWp4SFIzQl9yTEtQTWhYd0RYRVJtdW1lbzdPZGZoNk9ham1ONHk0OUM5ay11V09FandBSF9BbmR4WHQxbFFQME5qc0pKRUhjeVAyN2MtRnQyY3FYZ09VY2VxRGVvbVk1bVV2Q0ttaFJzYmNRM1UxUFlIRjg0X0k3Qm92VnZNcUlxdA?oc=5",
-   "data": "2026-10-29T08:00:00+00:00"
-  },
-  {
-   "titulo": "Fed mantém juros apesar de aumento da inflação",
-   "fonte": "Valor Econômico",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNTTBHZXBkYnh5MWMtd08yblFRMzJwdnI0aWZYdkNaN1NJMm1xdWVxaG1jTEJ6M1RTU0tKZkpDZFNlMW11R0t0RjRKWGpqUDJsa0J6VjIzOEl3OEZkeE1wNWdhci1MYlRYRGdBLTkyMDFSR0lCWHZKaFBzT2tqMC1SVFZhLVVqdk1wVUgyN1p5Z2xfUUNSRVHSAaQBQVVfeXFMUFNWbFQydEpEcU0yd1hJOFhYN1VlSDc3VnBHQlRGUm93cERIbmJJSWhsbTk2MV9VY3NtS2VwOWptWExYdV9CQ0pHV3daMkhveENPMkNCVjRhYXNMQm1Cek9MTUlLWGtRcEIwOTRwa011NTJ2SVJLOXFtY0hOaVJoMHNkdFhrV2ZfQU9qcExtNFhxaFdwNkRIRmk3elJNZzd0MXNBMEw?oc=5",
-   "data": "2026-10-29T08:00:00+00:00"
-  },
-  {
-   "titulo": "Ibovespa cai mais uma vez e acumula perda de 16% na semana; dólar recua",
-   "fonte": "brasilagro.com.br",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQaTNPMHE0QkR2VW1kZ29YTi10Mm1WY2I0clFjUGJ3VUVndExkeHF2bUZuNWNlWERLSGNSWGU2NnF6UHBvY0VVLTNlWUUyekhnS2lWS2JkbjYxbGVmNVNYYlR6cUEzTVFrVnJpNzVFMlRSZWpYR2JJdXhib2t6RWRzT3F2SXNtdExnUElCd09Fc1BrbkJlWmtDMHlHU3QyY05kWW81bHA4d0g0eE9fTzRHZHhZZw?oc=5",
-   "data": "2026-10-29T07:36:13+00:00"
-  },
-  {
-   "titulo": "Ibovespa cai por três pregões seguidos e encara novo teste com contas públicas e inflação dos EUA",
-   "fonte": "Estadão",
-   "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNazlHcVUzNmE1dW9mRF91UXNTMzA1aEVoVzJLX2twRE83bFJTOTQyT3lBZ2NWM3hWVEtmM2NpZmNHVG1mbEJqbEFiQVljeDR0NmFWWXN3YW1LdVhuOUJib0xVVEJ3dlpranJtQWl4b0JiSnE3aVkydjRjVUFuZzJWSm5aalZlSWJtZmduWHlJMEpkUHFGS3Vvelg4ZTNTc1E0YTRxMjFTcmhRR0pYYTk4SWo0UDdVdUlwMlJVbGpndHJ6ZkVkRGNLLXNlVGs0MWRhQ1VzWnVWYmtzZ0Faa0J2ZkpEVzduV3VBMFJyU2l3OVhodXl5QlNj?oc=5",
-   "data": "2026-10-29T07:34:08+00:00"
-  },
-  {
-   "titulo": "Fundo global de investimentos pode ampliar recursos para conservação das florestas brasileiras",
-   "fonte": "SOS Mata Atlântica",
-   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNR1BiaXZOcXlJNVJhT3dET1l3RzJUV2E1aTJfaVptbHlqRmtnN2Y2NHgyT202WlVVUFN5M0F6SkpMYXU1SXptMnB3QU5lNzZBQXVZSXNQcV8zSXBzZmpUS29PZ0lYMGw4enJQQTE1bVpiYmJjVERuMm1ZbVB0c2V6QlNtRXJ1M0Z0MEEtX3dQZ2lRWTRpbnhKOWRic0Nwbk4wZFpvYjRUMFNyMXhLajV5ZXhMNTgyOC0zUTZWSlRVZGJnVXpLeG93?oc=5",
-   "data": "2026-10-29T07:10:13+00:00"
-  },
-  {
-   "titulo": "Janela de investimentos, agentes autônomos e Reforma Tributária impulsionam o debate sobre a transformação e…",
-   "fonte": "Gazeta da Semana",
-   "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPNXlFYTlBVTNnY1Nnb2JYNWowdjJVRHZPY0daTFdad0ZvMjFpcDVGNnl4eGJ5cGxFQXlCVHFpMlFKMU9jZnY3dlFmOU40M2FzOHoxQkJyNFFCa094WlBiLXV6dlcwTldzWGY1bFlTaUFDMEs4dHo5M194TkphVmdqZDBaWnVWSXFuei1TeGpfZFlQMGlnLXY2dllvWkNCZGRubHlHY3Q0MzJjbVFDWGxsaE5JaU1zZFRJTGFiOW9ZRTFSNmxHQ1hFODNtenpHdHNsR0FJRG9uLXNqNFVZclR0Vm84T3NZQlNKRjF0SjFXVjRNbERVX1Fyd2pJdkZxVmFFT25vVXpTMzY5QnIyMXBfcQ?oc=5",
-   "data": "2026-10-29T06:30:23+00:00"
-  },
-  {
-   "titulo": "Petróleo pressiona inflação nos EUA e pode levar Fed a novo ciclo de alta de juros em 2027",
-   "fonte": "Feed&Food",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNdzlTc3RiUFp0ZFJBZkJENlo4YnpRaUdNczlIUkNzbm9FblNzS1lqS1JBTXJTeVNHdDZsRUxEYUZBWXNwR0l2bmNFWF9tMzUyUEtLOTN4ZlZwTWJNYTE5RTNSZVVkQTB5WmQ1X0s1ejUtU3hpRWI5d2VZOGdfek9DNGlRQTBuVjU0YmlzRkhLZmdXNkd0QlMxeVNtWVhKbUFXUWlYelRLRkFXRDNhSW9sZEJfY1Fsdw?oc=5",
-   "data": "2026-10-29T06:03:00+00:00"
   }
  ]
 }
