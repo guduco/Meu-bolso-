@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-10-29T11:45:10+00:00",
+ "atualizado": "2026-10-29T12:56:21+00:00",
  "indicadores": {
   "selic": {
    "valor": 13.75,
@@ -7,7 +7,7 @@
   },
   "cdi": {
    "valor": 13.65,
-   "data": "27/10/2026"
+   "data": "28/10/2026"
   },
   "ipca12m": {
    "valor": 4.58,
@@ -17,76 +17,76 @@
  "cotacoes": {},
  "noticias": [
   {
-   "titulo": "Copacol celebra 63 anos com investimentos de R$ 1 bilhão e reconhecimento nacional",
-   "fonte": "Rádio Independência",
-   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNYkZOVE1ZWkFuTjQ0TGRXTDgwUU1lazJCNENnZWM2VURYOUw3UUpaQ2x2X3Z4ejgyMnRDNExJYVNELUJzZDd4Y1hRNmVMamVqTm5PRWxIZS1mYVV0LTV5R2RBVjlkNi00SnNBdGpKNlpzbFQtYUVIM3VuTkJOZUtlZkttUEhvdjNESkhUTnhFRGRPU2lkSFAtcEdZdzhXSEpKVTBPbWsxVXkxWmR5WkdoQXoyM09QX095eXpuNEFycGo0b1VPS1RiN0V3?oc=5",
-   "data": "2026-10-29T11:42:19+00:00"
-  },
-  {
-   "titulo": "News XPress: 29/10/2026",
-   "fonte": "XP Investimentos",
-   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5PNFRlWHdDTzVSUWFFWVl3OGdSRkhJRHRJU0FOWW4tZFFfdGYzemdSUUI2V3FMUjB0cnFxVzJLZjM5a2dpa2UtY215bHhqMjdCc2lydHJ6YWpBS0FqQVl1SmtxQVp2UTl4V3I5d0VR?oc=5",
-   "data": "2026-10-29T11:40:41+00:00"
-  },
-  {
-   "titulo": "Ibovespa Hoje Ao Vivo: Confira o que movimenta Bolsa, Dólar e Juros nesta quinta",
-   "fonte": "InfoMoney",
-   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPRGp0NkkyRVJlSE1sMThxZGpFTHVhU2g5WXloTDhMX3JibTJHOXJUeHcxNFFHM2wtYjJJR1o4LUxJV01PYzlHQnpMa09vR0x0di1WeUZTc2t4WUR0TEpxUDlBeVRua3VFdzlpaS1wbHZiTlRjYWthTERRZktYTU9mZTlhbGhNVlZ1Slp6Z1Fpdw?oc=5",
-   "data": "2026-10-29T11:14:52+00:00"
-  },
-  {
-   "titulo": "Rota Mogiana assume rodovias da região com previsão de R$ 9,4 bilhões em investimentos",
-   "fonte": "Jovem Pan News Campinas 100.3",
-   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNb1JLTGFGbGRDQ0VYM3IxOWJ0cHFuRlNJcUlrOFhfNGJUcG5aa2tGTkFCdTRicE9PdjBRcW5WX0s5TXhYdlBiTzVzek41Q1J2YzlfbVhzcldhUTh2TDA1X0dCR3gyN1EtamZRNTlrQ05XY1dTcmNjRGIwTlRfeC1pWjM1VUduYjJJOEYwbEdueFBCRVRZY3dSTmkxc0JTbDAyeXVVdlZDZTFYUHROWnhKNXRycTlqQnBnVGlESHNJX1N2M3ZxTVFaQjhfQVNZcko2TzN4Y3NKWmp0Zw?oc=5",
-   "data": "2026-10-29T11:14:33+00:00"
-  },
-  {
-   "titulo": "Inflação, emprego, dólar, Ibovespa, mais agenda e pílulas da economia 29.10",
-   "fonte": "GZH",
-   "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNcnpWTUZJR0N4VHJWSDJFUE8zdjdMbXd2UlRKMlRzY2dHLUM4eFEyS2NFR1NkLV91UTI2NXdxSGtXajVZR1h0YWhWV1VZS2EyMnlaSGRNX3NGelFrMldpNnhhMTZQalAtSGg3MXBWWXRxZW9yb3BlUko1VFBpdEo3NEtZUHRtbXNtMzNNcUJidk43aWRJMGFLcDduUG9WYXhwQ1hyTksxeEpqck56djVFYnhjZ0dCVGwxNkhTT2JaeExyblBqa1NtejhTU285TnlvWjJqRHE4SFhqMEVQc1JCVXd5RnF1N2tZOEltQVhjQjRIR2otYXZJVU93Slp4Y25GN3pRUQ?oc=5",
-   "data": "2026-10-29T11:11:57+00:00"
-  },
-  {
-   "titulo": "Conselho de Minerais Críticos ganha secretário-executivo para estruturar análise de investimentos",
-   "fonte": "O Mundo Diplomático",
-   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPMlJRNE9BRTZnaTdFQ00zSElWbDc4VEJCdjJwOU5UTzNhVFhIWEpUbUhxZ21JQm5jVWtMc3ZvMmF6bW5JeGdoWnhhVm5hQUR3eE1peUkyNTloWWdKVHpUQThZUDZFR29YcW9ON2VRcjdiWjRiMEFUblMyOVV3eFo1MDVBNmRZaHh3RGw2OUwxYTZGWV9GNFU1STFpaHFtLW5uek9IQ3I3SlVERTltdkxLbFNOYzU2MTlxUjZEazhUU3ZNYk9iSkxLUFIzQkk5a09zbEs3NTNyZk1Wdw?oc=5",
-   "data": "2026-10-29T11:11:20+00:00"
-  },
-  {
-   "titulo": "Libra recua levemente com dólar firme antes de dados de PCE e PIB dos EUA",
+   "titulo": "Inflação dos EUA acelera em setembro; PIB do 3º trimestre cresce 3,4%",
    "fonte": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOZV9qODZzTmR2UF9PZW5SZVU5OHlXR3ZzeEJpdnVMQnAxdE5HbmVJVU5wSExQWGdScG85NFFUMTFxTlZBZnRyUWRpUC1EYXQwXzdXOS04RUlmaWU2YnIzS0ljTWVwdWE4SWNubTE2dlo1bEYwaE42Z1Q0bjFMcXdGaDcwUnFLcW0yM2pBVURKcUl5ZHpXbHpsSHVKVVRFVTN5Q29TdGdJcmZ6V2NzM21qR3NvbndvbWxGQVB2RUdwQQ?oc=5",
-   "data": "2026-10-29T11:10:00+00:00"
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOMUwtMG9UYWZfLVJyWVZCY3EyUGdtLUplZ1VfNU5CcThBTm5BaFAtSnJlUGV0Y3F6T0JIRFFBNGdKMDEtZTBBWDZGQTM2R3FscEE5VTloZUYyb3JNVWF2Z21XT2JpQ3lEdlM2MWswMi1KMTZocFdYcGI0UHJKaXEyQXNxcmtpUXFqYWlERExqel9YXzBvMzBKV3NyNXM3LXI2ejdoc2p2ckVjdkFUUlVxbDdVMnVuTklxUUtkUW9sMzhFZw?oc=5",
+   "data": "2026-10-29T12:48:00+00:00"
   },
   {
-   "titulo": "Ibovespa cai por três pregões seguidos e encara novo teste com contas públicas e inflação dos EUA",
-   "fonte": "Estadão",
-   "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPUzhQcnZGYUl3X2xNTzl0bnBvNkpRTFNVUm1LZkNIRE5XUVd5Tmd6ZkFVZE8xcDN3MDdwNGlxMGk0azJzOGQtMnl3OFBJNXE3QmVXdkpoZW4xbVF4VmYwNm0yQ3FabWpYQm5NRUp4b0ZST3BqNTFTd2k5R1JSMWJBN1lCSmZ1OFdNVnh4enFPdy1TcWtlSmttR1dWNnlETHVBNS0zdDBleWNyVXN0ZXZkTmk5MktiNkV0VThiZGdSR2V4YW1pMHZnbHRRXzdqR0I5SGlCc2ZxVzdaYlR1YmZhRWttdlBDWFdielFaY9IB8gFBVV95cUxOeXFmNWxGc2FzRkxzbVRTaFpfdGtodXZ1dzY0ZTUxYXFldHhKQUJlX1BxNnpERVlrYmltbXo4Zmc3RkRlbHg3emR1eWlVbmRlWWVKQ25xSXFieHJzUTR2b0JUUU0wQ3BJdWVuWHU4ZURoRDlJempTTkV2c243LU1MOFVyaEMxZXZ4STdBTWZqeElpLWZoM1h4VFpHRnBNLXFFVExZZkgtMV9hVWdmaHlUZlQ2bER0YlhnUWRZNnhVc3pRQ1pLbWF1VHNJOGpUNnFGQnFLOVV1TFcwUmxGdm5JaWxQNUVFcXBaZldEOEhvczlzQQ?oc=5",
-   "data": "2026-10-29T11:07:31+00:00"
+   "titulo": "Inflação PCE dos EUA sobe 0,5% em setembro e chega a 3,6% em 12 meses, como esperado",
+   "fonte": "TradeMap",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9PczhvZ2J0OTVBN29oYmdGdVlGWWx3eUxuWENWbGZSOUZwX3l1QXBvWXgxQ3cxV0lDd3ZDUEhRTVVOVUY4QVQ5aG4tSVdJTTBNOHFtVV9HSEk?oc=5",
+   "data": "2026-10-29T12:44:15+00:00"
   },
   {
-   "titulo": "Ibovespa cai pela 3ª vez seguida após eleição, com fuga de R$ 2,8 bi",
-   "fonte": "TV Sim Brasil",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQZE1ka0JQSll0OXVUdkhZSlF1RnhKMF9qVDIwNGpqV2lTMjdkQlpWZndNejg5Tk96MEVNQXhJTXJtS0VfY1VuM3AwLWN3VDhjU3Q3RDJINk9NdUVHUHRURXhpdVpxMHctUkduMzdQVHRtUjdTY0tsX2lTcXNrQ2dySDRwOXppdW1XeWF1ckpwVkZwd2lObmt2MTV6ZHlYc1YwYi1qNk5WRFB4a21aYm5rMQ?oc=5",
-   "data": "2026-10-29T11:04:41+00:00"
+   "titulo": "Dólar abre em alta com cenário político brasileiro e dados dos EUA no radar",
+   "fonte": "Folha de S.Paulo",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQXzEwYWdZSHVadWpOcDBNa0p6SkZfTXFSR2x0UEo3UGhIX1hxajN6RFRxZ09JejhSRngxVEloWkx2TDJIYUtyRXp5UVlscXYwaG1wSzNNR1Z3cnpiOExPYnFBYldCN0V1NkdESHBmNUJDdFZLZ1IzQ0tRZ1p6NE5FbDM2ZDhoNDlLWVlxRFVPTjM0dloyUDNlNEZmX0NadWRIUE5jSmVwUVFzMGFMU0VpR3p3aVAxUDEzVHRZNXFUSmVWYjQ4eUE?oc=5",
+   "data": "2026-10-29T12:43:00+00:00"
   },
   {
-   "titulo": "Dow Jones hoje: repercussão e balanços no radar dos investidores",
-   "fonte": "Estadão",
-   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNelZvbXNtdFhxVXlCblJFSHFQOG1RNWh0bGtQTmhjcVdqcDBZU1Q3ZzBEYUNMVXNWWVVpZE9EQ2ZON19ubW5KS2lCWEtoblBtXzJaVmV2NEoteXBSdGZvRkJYdHgySW9pN1hZaGxMeVowcFY0bkRyeGFnd0dSV2s1Zl9HZWgwbE4zQTBNS0xXcjJiZS1sNUJEdkF0Y2Z1UFJyYkVOWVRCcVg1RGlEV000WHVVQWJ3QUM1dTJrYkNhWjdTeUt2eFNmanY0N0otLVlZUklzQTNWOTJYZzZQRkNBbUtR?oc=5",
-   "data": "2026-10-29T11:03:00+00:00"
+   "titulo": "Veja a cotação do dólar no Paraguai para o feriado de Finados",
+   "fonte": "H2FOZ",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQUUxEZDRBdFV2ZHktS2VVT0kzSnVQZWRhOC14dWk5aXdBa1lsanlONHlzWkVCNjZpWVFGcUpzeUh1VTZZbnFEeGdiWjF5SGF5dVBENzBIRTIycGp1MTgtdV9HS3lwSERBbWtFS0RPdzN4MDNtNDlrNmdNUlhRYUxtYnR1R0c?oc=5",
+   "data": "2026-10-29T12:39:33+00:00"
   },
   {
-   "titulo": "Reeleição de Lula segue no radar do mercado, e Ibovespa volta a cair",
-   "fonte": "Canal Rural",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZWVxVW5LZnJ0MmNJTmFIbGwwSDdwTElTRl8yeHFEajl5Z1RNQzYzYVY1cEdITEZRTU9RWFpPZzFxUFptTlZEaUVPdkJHOFFTdVRBNnVEc2ZYcU9pTjVIeV9KdTI1TXo0YlBDcUQ3cXdPb1BnVjh1SThfeXFwRERXdnpuY1REdWl5UU9OX19xN2JJU2ZWaUdrWDNFTU5aYW5JWmZvU3BOaG5zSjQ?oc=5",
-   "data": "2026-10-29T11:01:34+00:00"
+   "titulo": "Dólar hoje avança em linha com o exterior",
+   "fonte": "InfoMoney",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxORW03cjJfWnA2NzZzUF92N05rNjV0Z1Q1Zk1VcUpfQmlSdUJlcWNFaUJiaUVTaGtoMUNnY0lYdTZibTZiekx6R0ZJZTNrMXpVc1RxVF94bkllbGxoSXlfZGtfNWJvS2Fzd3pmUEU1TWt1Qlptdkt0TXVQNWVwaW1hRHFGc2Jual9UWmZBeTE0bGowb3NXTW1XelRrSkzSAaIBQVVfeXFMTWVmUDlTamJ3OThFRWhFQkFvcUNRcTNWWDhHcXhrT2d3UkNPOUticjROTDA3eXdsM2RaODMzbzFqeXB0ZUdPZmVkOFpoQ3I5U2lWVDN2ZTZMUEJlU3FmMWdoMUVFa3A1dEhNYW1aZ0JIeXh0VWFUcWRPZE1rUVlPNFVOOGM5WTd6V0xBMl9mRzdvMmRTeTVOMGVPWEdqbXpKbFJB?oc=5",
+   "data": "2026-10-29T12:37:47+00:00"
   },
   {
-   "titulo": "Governo da Bahia busca novos investimentos em energia renovável durante o Brazil Windpower 2026",
-   "fonte": "Jornal Grande Bahia",
-   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQblAwSFd1N1I1UzJEaXhxOXZVSi1PUnVhZGFHVzkzdGI0dzhTSnFDN2ltTzhhQ19XQUViU2pndUtOQ1YzYVdxMFVxY0pwTEswWXZGZW80TGhkc0s5WENuS0ljeEVva3FIODk4V0FUV0hIdG1PWUQ1dHJjQjRTQjM0Q1FWMlN3TmRvOGRIcDJLbm5feDJBamV2QTJySkdPWm9LYU93M1h3NXJDb05TSWhuU3B6R1M3cFczTl8zdzBTUWJMUFNaVFVWUkozN0FmQ1VrRnpN?oc=5",
-   "data": "2026-10-29T11:00:38+00:00"
+   "titulo": "PCE: Inflação preferida do Fed acelera e acumula alta de 3,6% no ano",
+   "fonte": "Money Times",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPcnhCTVRQQVJnZmtBaDVKUFQ5VjhQUFhFamxEanA2OGQtUTdjNWVOQnV0QjhpN1pqbFQ1ZWs2X01mQ1NFUGo1WFRfMThtSVhabDRQOGVlaXdMdTRiNU52RWNSZXQ2NTdhU2puSXhuUUM4ZzhXaHNDenpnRXY5ZmRoZUVnS2cwSjY5MldhbVZuQjNiOWRaRGViMmVvUEdJbmNzUWhv?oc=5",
+   "data": "2026-10-29T12:36:00+00:00"
+  },
+  {
+   "titulo": "Ouro cai após decisão do Fed e investidores aguardam dados de inflação PCE",
+   "fonte": "ADVFN",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPVGJZeGhwN2VndzZFZ0p5ZG43Vk9OQTQyYnkwdlViZThNNEVmQXVqT0xJRzBZZHprS3ZydHdoOXg5Z0NwaXdEV1dXS1h6TlUwQ2pmVVRCd2ZmeEktRFlrZDk4ZnkyTkw2ejRkNzNURDExT0R3VHRDQmsyZmpXVUtBWi1sM05kT1E?oc=5",
+   "data": "2026-10-29T12:35:37+00:00"
+  },
+  {
+   "titulo": "‘Inflação do aluguel’ desacelera para 1,47% em outubro, ficando abaixo da expectativa",
+   "fonte": "VEJA",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOUGh4dVRnOFNxRldKdWtFbmhoSHlrQXBjaHdZVmVfYUMtOFRIcDRqTWo4cUtpUVh2a3ZQWFRacEdWYThDenFtaGhnOGhXTEt5bEtDZzZocGx0MXdlcnJhQWxBOGtENEVxV1U2VzV1Wmp1V2FOYUVUMnFGUGtWSmI1ZjQ3cjR0WWlYVmtYR19yalBkMzRHMFlmVWY4Tjh6cEctM21BN2lFVjhUOXN3eGpBLWpxdXd3eXc?oc=5",
+   "data": "2026-10-29T12:35:27+00:00"
+  },
+  {
+   "titulo": "Dólar sobe com petróleo em queda e incertezas fiscais",
+   "fonte": "UOL Economia",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPaW00S1VkU3BQdlJxNFFlRHJNZ29rc0pVd21wd09LeXUxLWk4OGpkdUxXdzluclJOTkQ2dGM5aENLZEpvRTlVX2pWTkxUZVAyVkh0SFBqdmhRQ2xKOExNS05XdGtQdkNBZlZlTTBfMG5JUlpvYkVlSnRHU2NXb1ltTGhrb1RyWDF6dm5SYkRwcEJRMXJvZUxScTVmN2NWOUVFRW4yR2JmS0d6UnlTN3RTUGVsY3YyVGtReXhKTFRzMA?oc=5",
+   "data": "2026-10-29T12:34:00+00:00"
+  },
+  {
+   "titulo": "Mercados hoje: números da Petrobras, balanços e inflação dos EUA são destaques",
+   "fonte": "Bora Investir",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOc3JKRzBGcnBhaDRXQWdsUHQ1LVBUNzhrRUU5cGpHU05Eb3RneU1VVGFPcm1JM3ZMMkhYN0FYZWpxalEwc3owUHl4R3c2M3p0YllORGdtQ0hPVG50NVRPaFc3RkxROE44RjUxOU5RUVRoOVBORzNHRGpOOFMwZ28yNzVKWGxjUTI5THRFVXVRQnduNUduVlR3a0VxUk52WTY3cV9semhrTUpNQ1NqMHBFeG94ZnZQaC1Vemp6cW4ySU5RRHc?oc=5",
+   "data": "2026-10-29T12:31:00+00:00"
+  },
+  {
+   "titulo": "Beach Park inaugura Ohana Resort e já prepara chegada de novas atrações e investimentos",
+   "fonte": "Panrotas",
+   "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNTXM2c3NCek80bHNFdTJMY3pKdTJsQ2dyU1VFcURybEVwS0VWc2JnSEczM3RHRTdpTUdUb1hrUFZOdnk5N3NoZk9aVGVxTHRQMFNmYVJqdDI4bUpUSHpMdkJreW9LaEM0X09MV1U5WnI4M0R5US16aHhrc2FRdVF3ZV9YUEtINVlzWUJwQV8wWWZsREdBVzNFbWdFQzhWY1d6U1d2bDRpWkJmdFFqYUxxSUxIQ2paeHFMWkw1c0lIcUNZOWxZQzAxdDlRRDNyTkh0WlZ5enBFN21YdDZtYnkzWTBqRzBTZlR4VUFQRUtLWVJBLWdv?oc=5",
+   "data": "2026-10-29T12:29:00+00:00"
+  },
+  {
+   "titulo": "Ibovespa futuro cai com fiscal em foco e tom negativo de Wall Street; dólar tem leve alta",
+   "fonte": "Money Times",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9jU1kzbEtvMzR6YUx3WlNHUXhmRF9yOUJlbHhMUmpiNHpaUXhzS25DNGlmU1c0NU5FTk1IV3ZaMHVEb25JU2ZqQjhBRjJ1MlIzd0VmaGpyVE1XNzQxS3FhQ3J4bnZicVhjTGZHRw?oc=5",
+   "data": "2026-10-29T12:21:00+00:00"
   }
  ]
 }
