@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-10-29T02:49:51+00:00",
+ "atualizado": "2026-10-29T03:49:01+00:00",
  "indicadores": {
   "selic": {
    "valor": 13.75,
@@ -16,6 +16,18 @@
  },
  "cotacoes": {},
  "noticias": [
+  {
+   "titulo": "‘Todo mundo está ganhando': por que copiar os investimentos de outras pessoas pode sair caro",
+   "fonte": "G1",
+   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNNTNZMklHNUJWWWhiSy1vU1R0MGNnSWVpdUdVYUVHeGpjdGRtNk1jdV9lWmlmQlhaRFpvRmFVeXBWLTE5M3ZKMzJ2azJocEs3TmZnRzBYY2M2V1RTOC03aWpFM1I4UGk5aTRNamN6RHR2dC1uX2hKeEM5eXNHY2FndkJRZ01YOFlLSnNERGRoeGs5ZVRNaWhNdVhfUTdfNmdnS3VJcjJEM0QtWFcwVFZYc0xSU3ZhQVNleVM2V2FjRzB1R2Z2WkxFUllFRURzNDFFdGxJUVlqS2lVN1F4WnZn0gHuAUFVX3lxTE1vRzkwRmRBY1VPZFZBcW5uNWNUdkwxWjJKRXdrQXk3OEd5Z1A4THZpWVFTWkQwUG95a3hqRy1Sa3h4dWJzbXcteWNmbVdhUnktMy0zdGtpRFdDbFZCbnNRaVRBeU0wM1lLckNOUk5Zam1iVlBaVS15NUdDTDE3WW1YTWU2ZWR3eURWZFluZXJFUDhIdHEyNVQtRW96eGgyX3R5RF85VTdmclViVHJGdEtmTjdhOWt5a3VfWDkxbEd3Y080R0FVTzlOOXpMVkRXQW80QmV5RVpuNXhiLXBRUnhwUG4tV0V4RlNpMV91WkE?oc=5",
+   "data": "2026-10-29T03:00:00+00:00"
+  },
+  {
+   "titulo": "Oscilação do dólar e desvalorização do real encarece produtos e pressiona o comércio de Ciudad del Este",
+   "fonte": "GDia",
+   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQTWdQc1Nlc3dJNENQWXFPNzgybE93d0NRVzk0WGlkME96Q1c0bkU5aGV3OU9OXzV3cFlDeFI3THlZQWttLURnS1N5LUEwUWk3R21VUDVMYWhNaG90eENUcmRTejQ4Sm5Hc29ab0xJbl9VWmprU094STRoRHZIUEM2Mkw4eWFRdlREcXNORGZrdEVpY0NvX05vVHJqWE9qSXE1UEJnREx5YUpXNExpaGl6eVl2ckp5R0NLNDRPSmh5b1BIck1uTmlPYzdySGlxT3BMclE?oc=5",
+   "data": "2026-10-29T02:55:00+00:00"
+  },
   {
    "titulo": "Suframa acompanha debates sobre comércio internacional e investimentos em conferência na Espanha",
    "fonte": "SIMMMEM",
@@ -47,6 +59,12 @@
    "data": "2026-10-29T00:35:24+00:00"
   },
   {
+   "titulo": "Codam analisa 63 projetos com R$ 1,65 bilhão em investimentos e pode bater recorde histórico em 2026",
+   "fonte": "A Crítica",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPNkJicTBFaFc0X21xeHlIbEhpSjFnRnJMQm4tZXFvVGN5RWU3NnViR29WdkY2dnhYUjN1ZWEzOHR2dWdpZHBVU0VyZFhPSW5jSkM1TThpTGxNTFQtUERndndHdVNNUjhJMkJJUl91SWpVc3NKMnI1Uk9QejJhSGtmazR6TDZOWXVPb05lR3VBbGNUeDREejBmc3Y2dGhWcjVjS3J6QjZFTEZrajJTMFdlYTBpQ09sX3NCazM1VnNERzJ0NlF0N2xGRGlB?oc=5",
+   "data": "2026-10-29T00:23:31+00:00"
+  },
+  {
    "titulo": "A Bolsa caiu 16% com Lula até agora. Mas o estrago é maior do que parece",
    "fonte": "Brazil Journal",
    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPc0JMQThvV3R4WFVoZVRtdmJEcUxNVjlrWHROWVVjZkNZTENrV2VVOXdVUVZqVklCVzM1NTFZa0hGX3JraDlsVk9HZTlxWGIzTG80MnFWTTdqWEdsMVhHSXJSRFBlSXpWTnRrSEM0MVM0b2dwaDJVY0dDbUFmV09UMEkxaW92RVp1eUdPWENIeC1BMTZyb3BOQjlNbGc?oc=5",
@@ -69,24 +87,6 @@
    "fonte": "Brasil 61",
    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNb2g2bU5sVnppS08tbWZ5dUVseFRQaC1KcUpWNi0wYkwwMzNMbENudTdsUmxzWDVEcnRJSFhJY1dXWjY3Nlpoc1VocGE3QmxmcVBwWFNHVmdVeWkwOXpIRUlOTkRrbXYwbm85cVVhTVJYMG13UWc3NG5ZUDhOSTl6M3B6eTltemJaWlFDSDhPdURST0RvTHJzbEhpeDHSAaIBQVVfeXFMTVhqYUF5bW1haFExREFpaVBzZFc0aHJ0NTNubnZDYU1RaHFnbklwcFFjZXJYeWlDT0VMRDZSdFFKdXdWdUh4NE5LYVRfdFpHZE1oMl9Ed1hYYkVfTzRGaDVBR25GM0V3V2xHM0ZQTjM5MFNTeVR3QnpMbDR2dGZwTmw5SGJhTWNKQi1PcG1adkQ1RVZHYnBtOEVXUlRkcGhEdzFn?oc=5",
    "data": "2026-10-29T00:00:00+00:00"
-  },
-  {
-   "titulo": "Ibovespa tem forte queda e dólar fecha estável em novo ajuste pós-eleição",
-   "fonte": "TradingView",
-   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE40N3FKbUZWV3Y4dHo1WWEwbmYxbl91c3VZMUhLS05CeFhSUjN6SXIxS0hfNWhuVjdhUnV4RTBDSTY1VmEtUkxxSFBPUFY1RnhhY0t2Y0xYQlpLQzc4R1MySTZpSVQ5R3c0RUdKb2sxdWRETEZjV3Fn?oc=5",
-   "data": "2026-10-28T23:45:57+00:00"
-  },
-  {
-   "titulo": "Investimentos do Amazonprev nos bancos Master, C6, Daycoval e BTG Pactual entram na mira do MPAM",
-   "fonte": "Amazonas1",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNM0NjcXdoT3BZLTc2b05uWWVOTHJmSjJlNUhhLW5QbE51UklLRzE0OUhlMHlDeFJHb2tSWDZhazRVZHFvSzBXbmM1T05JQW9QYjdOc1F2WjdtdlBkeXk2cDNTTFZ1dWhFSHkzZVVvTlpoYXI1b0pmY3otRXJUTkozMllCLW9ZRU8wMVZRMG9BS25EbHpERHZUS0V6emhMLWxEMU85UTRpMDU1WGFObUN4REE2LWJsa2QtM3JKcQ?oc=5",
-   "data": "2026-10-28T23:41:00+00:00"
-  },
-  {
-   "titulo": "Bolsa cai e dólar fecha perto da estabilidade após Fed manter juros",
-   "fonte": "Notícias ao Minuto Brasil",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQZ25Idi1hYzYxSEdla0JjNXhNWF8wZ2hsUXJ1NWNkVEpMYl9xTU9iVlcyZHJkNDJFNXppTlVkemJFUVVYamF0UV9iYVRtaWZrSENkNngxTHdXS2lIQ0dtcERSUE5VdGdJSGk3RjR5NGxwWkVMcEhQLW9zaF81aXJuOWNjNVlFbkprcnJwY1k1R0hwc1ZjZnhYOW9mUnRER3BlS1VkSEk1Yjl2TFpZR3hsSUU2bHV2cUY4eVIzTw?oc=5",
-   "data": "2026-10-28T23:35:59+00:00"
   }
  ]
 }
