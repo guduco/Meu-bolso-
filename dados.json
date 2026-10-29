@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-10-29T08:02:19+00:00",
+ "atualizado": "2026-10-29T08:55:38+00:00",
  "indicadores": {
   "selic": {
    "valor": 13.75,
@@ -16,6 +16,48 @@
  },
  "cotacoes": {},
  "noticias": [
+  {
+   "titulo": "O Ibovespa vai continuar caindo? O que eleições anteriores mostram sobre os rumos da Bolsa",
+   "fonte": "Estadão",
+   "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOVHlXYUZ0QUlQUnZFZTJ2RlhCMHVBYXNkY1drUmNvcTdZQkVBS1B2d05GdHpRa3E0anNZaG5XX2VTSEVudXp1QjJQelRoRTdfb1JzQ1FXNVprcW02b0RiVUx3OWJ5RGM1SDJaQzVYZE1UUmFucDlzRzd6aFVKeDR0Tl9wUkRZbzBia1FNb19lY2JDX0U3bFpacGEyV3A2Ql9YRGZSUWxfOUk1aU1PTEkwLTNxVWpDeHhGWVp6Zjg2LXFUdndaR01Id3FoLTlDbDVER3g5U0RId1Jid185SmdvYXpMLU82MkhnZ0hQbg?oc=5",
+   "data": "2026-10-29T08:33:43+00:00"
+  },
+  {
+   "titulo": "PIB e inflação dos EUA e balanços da Vale, Ambev e Amazon: o que move os mercados",
+   "fonte": "Exame",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPUGhudFN1RTdFSXRIeTh2dFlGdS1qajBJTjdpRlRMQjhmeW5EV1ZrbkN2cUl2S3RxTUFVaHFrWGpKVDN1a19wQmdRN2ZwZzRQVHQ3VTFMUlVWV0VmQlVPZ1lQWEZfSnQzcGtCdkhiMXVBZXJUQ0Uwd05DR1pXWDdHRVRJUm9wby1HMWszbGhCdkVKcC1BNE1KRzlNalhzLXZFU1dHd1Z4eDR0RmI4MmFSQW9ScTY?oc=5",
+   "data": "2026-10-29T08:32:39+00:00"
+  },
+  {
+   "titulo": "Bolsa caiu, dólar disparou: onde investir após a vitória de Lula?",
+   "fonte": "UOL Economia",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOWDFtNllaRDMzNW9WYXpOTjc0LW9VeEk1dU5jMmF2c2xYY0twUUpRam1hVkpsaDg3SGhuRVRhNUJUeEFvUUhFcXl3c1lrYlJtdHpkZUh2NV9HMTVUZnBmV0s5Y1ZlQ1RaVEIzSWFEZFlLM3czQTFQQk1ZWXZDWDZYMUJOWG1Od1ExZUlZTER6UEZ1VWVrUzN5OFdyTG0wdE9ZSkh0Q3JNdmVaMnRzdTNQeU9lck1QOF9FUk5JNVVaTDFCanF4NGc?oc=5",
+   "data": "2026-10-29T08:30:00+00:00"
+  },
+  {
+   "titulo": "Tesouro Direto: como escapar da marcação a mercado após a reeleição de Lula",
+   "fonte": "Exame",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQbTJBdDJGVzA4eE53Nkh6TFhEQi03UFpBTExNcjVmNnhlQUZIdVNWamxsRFdjd1hCOHYtZUhGdjYxVWRLUVhrS0tRanJBYmtJdFFHd2FFWmdqR0s4bmEwTFpabHVpZE5HUWlFMnlEUV9ENS1DU3pvVDF5dnBFNXRweFp1dG5ON2NRRXBucEFoSkdzNjNhTHlkd25vbWcwa2xIRXVibjJidll0M293cy01dzdZX3FSbzg?oc=5",
+   "data": "2026-10-29T08:01:27+00:00"
+  },
+  {
+   "titulo": "\"Vai ser diferente\": como investir durante o Lula 4, segundo a XP",
+   "fonte": "InfoMoney",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQWUM5R0tKZFVxaEE0d3J3WDJfanpIM0NIMS1xTVZkMVJsZWlkeEtncUZwaTZEcmlLY3JUSU5VejlsWXZPbUs3b01lUDFPWXc0UmQtVjNRRk5ZUVdoWHA5Um8wZWIxWGx6UFFqbnktNzJkMnRRcEhVVVQwTmxSVHZFS0Y0aUF2SVV5LXFyUGs4dTFSeF90OWR2aUlnWGJXSF9ULWtzaFVtLUE?oc=5",
+   "data": "2026-10-29T08:00:09+00:00"
+  },
+  {
+   "titulo": "Eleições nos EUA: carne bovina vira símbolo de inflação e guerra cultural na disputa pelo Congresso",
+   "fonte": "G1",
+   "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQaXJXVENnX25ObkhqLWE0cXNKSlZOdGRaeGhzT0dqRWJEcFJQWHB5MlVzRFR2emtWMTlfTDNubDZsRUpvV01PNmZLVHNJUVE3Q01PT090MWktZ0hCWTFjbGU4dXVMVGJLZFduUDlRM3dYQXM2bmhCaG9GdXNiUmlBT3EtU3djV0RVdGpoWFV3d0VxeEpQZ21NUE56LXhONS1MRUZ3T3cyV2ZsSjRRYTdOV3lHVDBFX3Fjd3FVY1kyelFCSWp5NXdmcU4zNXRZTUZ5aFV6SEo3ZnhVeG5Fci1HZlZqLWo2YnNKNXNwNlU4dTBJNWpCTDlvdlBn0gGIAkFVX3lxTFByeDhDY3lvcEtIZjZlSjlpUFc1QlNNTmVzRGdHOGltbXNIbEhqcTRBdlMzLVB0OUNkR0dhUnJDLWVFbWlLOUo2Q3BFVEVzNVpzRWJmZUZCdWxCYlVhRE9udWVLRTVpdHBzYWY3M2E1ZTQtTFlHSG1CWkloWTM5dHd2UzVGeEFnYWp4SFIzQl9yTEtQTWhYd0RYRVJtdW1lbzdPZGZoNk9ham1ONHk0OUM5ay11V09FandBSF9BbmR4WHQxbFFQME5qc0pKRUhjeVAyN2MtRnQyY3FYZ09VY2VxRGVvbVk1bVV2Q0ttaFJzYmNRM1UxUFlIRjg0X0k3Qm92VnZNcUlxdA?oc=5",
+   "data": "2026-10-29T08:00:00+00:00"
+  },
+  {
+   "titulo": "Fed mantém juros apesar de aumento da inflação",
+   "fonte": "Valor Econômico",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNTTBHZXBkYnh5MWMtd08yblFRMzJwdnI0aWZYdkNaN1NJMm1xdWVxaG1jTEJ6M1RTU0tKZkpDZFNlMW11R0t0RjRKWGpqUDJsa0J6VjIzOEl3OEZkeE1wNWdhci1MYlRYRGdBLTkyMDFSR0lCWHZKaFBzT2tqMC1SVFZhLVVqdk1wVUgyN1p5Z2xfUUNSRVHSAaQBQVVfeXFMUFNWbFQydEpEcU0yd1hJOFhYN1VlSDc3VnBHQlRGUm93cERIbmJJSWhsbTk2MV9VY3NtS2VwOWptWExYdV9CQ0pHV3daMkhveENPMkNCVjRhYXNMQm1Cek9MTUlLWGtRcEIwOTRwa011NTJ2SVJLOXFtY0hOaVJoMHNkdFhrV2ZfQU9qcExtNFhxaFdwNkRIRmk3elJNZzd0MXNBMEw?oc=5",
+   "data": "2026-10-29T08:00:00+00:00"
+  },
   {
    "titulo": "Ibovespa cai mais uma vez e acumula perda de 16% na semana; dólar recua",
    "fonte": "brasilagro.com.br",
@@ -45,48 +87,6 @@
    "fonte": "Feed&Food",
    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNdzlTc3RiUFp0ZFJBZkJENlo4YnpRaUdNczlIUkNzbm9FblNzS1lqS1JBTXJTeVNHdDZsRUxEYUZBWXNwR0l2bmNFWF9tMzUyUEtLOTN4ZlZwTWJNYTE5RTNSZVVkQTB5WmQ1X0s1ejUtU3hpRWI5d2VZOGdfek9DNGlRQTBuVjU0YmlzRkhLZmdXNkd0QlMxeVNtWVhKbUFXUWlYelRLRkFXRDNhSW9sZEJfY1Fsdw?oc=5",
    "data": "2026-10-29T06:03:00+00:00"
-  },
-  {
-   "titulo": "Alta do dólar pressiona açúcar em NY, aponta consultoria",
-   "fonte": "Agrolink",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQcGRrSnVYTDZEdG5ab19HUFFhQ2N1Z3ItdFJwRHhTUWIzazgyYnZ1UUU1YWFIMW03a2NadUkxWHExUDZVYU81T2ZMSG5ncTYzQU0yMHQ3SkdLU1RScGM5bFFYV0J1VWQ1emo0Skc2ekZBbld1a0NMX3o0YXFPWVNQcGs3bVBsazIweUgtcS1PdlFlMWZVWW03VEVhRTJPWEE5NFk3M3d5X1U?oc=5",
-   "data": "2026-10-29T05:00:00+00:00"
-  },
-  {
-   "titulo": "Guto e Gilvan garantem continuidade dos investimentos federais, apesar do apoio à Flávio",
-   "fonte": "Folha do ABC",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQN25FTHU0clE4SGJrWnR0WjMxOENhVG5wcEtKMG55SDM2SG9vUUFJel9BdFdYUnNDTm9zVDlpS2tVT0hlVW5iUjNnbTg4bkkweWRIc0REa1k0WklTUVBRWjBsQlRBUER6X2pyZXFNejRtVkdaQXFUZ0VucG95WUJ1Vmg2SGZQaXlwRHNuaGJTNVV0RDdaQTZCRGUtX0NtSWg1SVVYV2FUUEctNk1BZHJwMk9sQ0tSb2g3SkE?oc=5",
-   "data": "2026-10-29T04:35:58+00:00"
-  },
-  {
-   "titulo": "Moedas asiáticas operam mistas enquanto dólar se estabiliza após Fed; PCE em foco",
-   "fonte": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
-   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxObjNwNk51amRTU2VIRlE1U01BVmpnQ0F6QUpPWWQ0QTExaTN3RTBpS1A2SEZ6OGMxWDZNOXdIdm01YUdhT1dubkFadjJLdTBqRHFSckhZc3JPaGo2VXFzTFUwVms1bTFVUEtUM0M2czRHMFdGMUZSeklGZkc5VjFTVzNELXNHTDhxXzloNUVDWk5jdTZfQkhfa09Xci1lU3N1Q3NWdmpUZUNJZ1dpcDZWRUpRV1h5M0JrZlY2U2xJV1lIeWdoNDk5Qg?oc=5",
-   "data": "2026-10-29T04:05:00+00:00"
-  },
-  {
-   "titulo": "Investimentos relacionados à IA e consumo provavelmente impulsionaram o crescimento econômico dos EUA no terceiro trimestre",
-   "fonte": "TradingView",
-   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBwcW4xNzdKdllBUlZ6V3d3LWt0TzU5ZkQ4c2VXN1hWcE1ZQm40TWRVc3FlcE42UkdSejZSXzZiSG1JUEZsSDFDaHJ5emRuYTczNFo2ZDlNa0kweVllZTlQem85c3F5czVZQm9ROG9TQjA2ZWxHYVlj?oc=5",
-   "data": "2026-10-29T04:01:00+00:00"
-  },
-  {
-   "titulo": "Dólar fecha a R$ 5,34 com leve queda; Fed mantém juros nos EUA",
-   "fonte": "Vero Notícias",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQZ1J6NWt1RW5mdEhtT2JtOTdQUDRCV2Z2UXlLVnctSDJXaUozZTNnNDEwWERWM3ZCbTRrVnRXTGJrLWZUWnM1WU9JRHdzb19TcGY3eHB6UzBQcGRWNnZNMFV4ZFVzcGtpYkdUUHFFdVlkeUxWZE40UF9GcFViX0FBVDV3WjMzRnJZb0VXVlFqM3ZvVzBOUGZ1UU1B?oc=5",
-   "data": "2026-10-29T04:00:00+00:00"
-  },
-  {
-   "titulo": "‘Todo mundo está ganhando': por que copiar os investimentos de outras pessoas pode sair caro",
-   "fonte": "G1",
-   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNNTNZMklHNUJWWWhiSy1vU1R0MGNnSWVpdUdVYUVHeGpjdGRtNk1jdV9lWmlmQlhaRFpvRmFVeXBWLTE5M3ZKMzJ2azJocEs3TmZnRzBYY2M2V1RTOC03aWpFM1I4UGk5aTRNamN6RHR2dC1uX2hKeEM5eXNHY2FndkJRZ01YOFlLSnNERGRoeGs5ZVRNaWhNdVhfUTdfNmdnS3VJcjJEM0QtWFcwVFZYc0xSU3ZhQVNleVM2V2FjRzB1R2Z2WkxFUllFRURzNDFFdGxJUVlqS2lVN1F4WnZn0gHuAUFVX3lxTE1vRzkwRmRBY1VPZFZBcW5uNWNUdkwxWjJKRXdrQXk3OEd5Z1A4THZpWVFTWkQwUG95a3hqRy1Sa3h4dWJzbXcteWNmbVdhUnktMy0zdGtpRFdDbFZCbnNRaVRBeU0wM1lLckNOUk5Zam1iVlBaVS15NUdDTDE3WW1YTWU2ZWR3eURWZFluZXJFUDhIdHEyNVQtRW96eGgyX3R5RF85VTdmclViVHJGdEtmTjdhOWt5a3VfWDkxbEd3Y080R0FVTzlOOXpMVkRXQW80QmV5RVpuNXhiLXBRUnhwUG4tV0V4RlNpMV91WkE?oc=5",
-   "data": "2026-10-29T03:00:00+00:00"
-  },
-  {
-   "titulo": "Oscilação do dólar e desvalorização do real encarece produtos e pressiona o comércio de Ciudad del Este",
-   "fonte": "GDia",
-   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQTWdQc1Nlc3dJNENQWXFPNzgybE93d0NRVzk0WGlkME96Q1c0bkU5aGV3OU9OXzV3cFlDeFI3THlZQWttLURnS1N5LUEwUWk3R21VUDVMYWhNaG90eENUcmRTejQ4Sm5Hc29ab0xJbl9VWmprU094STRoRHZIUEM2Mkw4eWFRdlREcXNORGZrdEVpY0NvX05vVHJqWE9qSXE1UEJnREx5YUpXNExpaGl6eVl2ckp5R0NLNDRPSmh5b1BIck1uTmlPYzdySGlxT3BMclE?oc=5",
-   "data": "2026-10-29T02:55:00+00:00"
   }
  ]
 }
