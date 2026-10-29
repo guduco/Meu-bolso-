@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-10-29T16:55:58+00:00",
+ "atualizado": "2026-10-29T17:51:20+00:00",
  "indicadores": {
   "selic": {
    "valor": 13.75,
@@ -17,76 +17,76 @@
  "cotacoes": {},
  "noticias": [
   {
-   "titulo": "Boletim Cambial (29/10): Euro e Dólar PTAX",
-   "fonte": "TradeMap",
-   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA3NGc5Z01lNVI0eGZDeGpIeVhEd2FRaURjT3NyQ0djM01SamR6UEZ6ekl2cnJvclM3M2VmTmNJSlNfeW9LVjFlbXdaZm9iQV9RR1BwOEo4ZVQ?oc=5",
-   "data": "2026-10-29T16:52:26+00:00"
+   "titulo": "- Jornal Panorama",
+   "fonte": "Jornal Panorama Minas",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQLXpDalF6dFl4ZE11XzFJSkY5MkhmcUtpY2R3dnhDcHpCMHJvY2JJeDVvdVZSaGtIYzNDNVpfTWtlbzc2Q1VfeDByeGYyS2lDRWxyMklRTF96dGs1alJEYjQySG9Ndm5UMUhIMGNOdUlqcW14SmJMaTdwOFV1WkRBN3doR18wUEZTeWtoVk1kNTVvZXZXY3RjaHFMdzRJNlF0TzVMU2F5UkdDeXEyOVBUYWd3?oc=5",
+   "data": "2026-10-29T17:44:11+00:00"
   },
   {
-   "titulo": "Confiança do comércio cai ao menor nível desde 2021, aponta CNC",
-   "fonte": "Panrotas",
-   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOTk9pVlMtNXFzc0Q3amF0Y2tPSjVhVGk2WEQxRmNEX1NIbGU0UXgyYWdQQVJnaWlDbmt3SE1iaXViVW12d0trbmI4V3l4Nm1nNVl5UF9Ld01EZDFsMW9ETWNQLURLQS1qSnNhUXZOeklsNzhpV1pwMGJpczFFZWRiWkdTVWFTUFBud25FRmpwaTJZZTNVa2pvOTY4YmRoaUFiSUdiNVlDeU1jYVFrX2NtMEp6MF9RaXhaRnQ3OXVKeEgxSnhJd0NUTmlkUGpocU9mTHBKeg?oc=5",
-   "data": "2026-10-29T16:45:00+00:00"
+   "titulo": "Gasolina, diesel e gás de cozinha mais caro em 2027; veja qual será a alta e impacto no IPCA",
+   "fonte": "Exame",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPVXhtNjJJbHotc3MxWHVXd19rZFUwemJZa0pyNEhKYmtJQTFZVGV4QnpEM2ZpSWltNE1YY1VjcjNoU0loMVk0WmJ3YkN1Q3NCSEg2UUs0YS1pSW01aldDa3NpT2VhUWNib1ZkNGM1YmVzRzZpeGRra1lUWWZaYXJjR1ZyeVM5c29aTXFzX0RvMmZaOVlfcXBsUVFicnUyZEp2OWdjbWpjd2o2Y2cyMnJUZVczTlk4c1BFUWc?oc=5",
+   "data": "2026-10-29T17:36:56+00:00"
   },
   {
-   "titulo": "Tesouro Direto hoje: Prefixado 2037 sobe a 15,23% com fiscal no radar",
-   "fonte": "EuQueroInvestir",
-   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxORVB4S3c1Rzg2bVdJSlRtM3lLM21tSkg2aXZiRE9OUm01UEc4aU85UVNxekhlT0ZZU1FBV3J1UTlKc0RhNkRzS0VPTFRKaUFsQ3lhUllUcWw1bWhvVHJrWHN1am5sSXljSW00eGloVEZ0SENRNktxeGZxQ3IxMGlLU0UwQUJ1Z1NIb29VNXRMYnA?oc=5",
-   "data": "2026-10-29T16:41:07+00:00"
+   "titulo": "Economia dos EUA cresce no 3º trimestre, mas inflação incomoda",
+   "fonte": "CartaCapital",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOOUFwVjlmSUZSRGR1MUFoSlpNaDNDVU1HRVBVbXRxMExSTWYxdjgyenRGVjVrSnd4cjIyNFpJclh0aWstSGlFOWFrbnNrcUQzdVpnQ0U3Z3o5OERxWl9MakFLSUVJemxpb1FTdUFFM2dXc2VCbFBLZVU0NEl4aWZ2TDVYSDQ5OWRSWlRUY2VmRHN2SlVidm9UYmkyLWdqa2RJb3RNUGQ2WnNVWF9y?oc=5",
+   "data": "2026-10-29T17:33:00+00:00"
   },
   {
-   "titulo": "Solução de crédito para tecnologia não está só na Selic",
-   "fonte": "Ar-Rasheed Smart University",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQMGdJNUtvdXBIOGZxTm9TdUJxY1lnLUdmVVdoX0thcUpfVUZCeEdSRmhkMk11WDk5R3dVaGFyZ3VfMDVILW5YZEFqZk56UkU1bHlKRVJCalJ6dEFYNDBRT0JEOENNRE92cjNaMG9EQzBDVXc0RGJyREN5M2twTWc0RzZJY1diQXBHclVoRlJVZGxHVmts?oc=5",
-   "data": "2026-10-29T16:37:45+00:00"
+   "titulo": "ABTP propõe integração logística nos portos para eficiência energética",
+   "fonte": "CNN Brasil",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNRmxpQzRFMmNSNFRSaDdibTBTMVMySlJyWTl2VjJLb09xcmVfUHN4TUdQTGs1OURVNy1mNlkzTHlzWDJORFlNbjNQRFBnZzZYbjc5Tm5sZVFfd0t1QkpMTGNKWlVyMEsteVJybDJKQWF5ME1aNW9PTlJJTFZjUEJNa1RTbnB1aklZemg2d3Etc1ZTMFVPaFRXNlAxZTdDWUhWaWhLY0pET296Zw?oc=5",
+   "data": "2026-10-29T17:29:55+00:00"
   },
   {
-   "titulo": "Codam aprova recorde de investimentos de R$ 1,6 bilhão e mais de 2 mil novos empregos",
-   "fonte": "Portal Mário Adolfo",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPYTZTZ3dIUF9ab3lBNDUwQ0lCaHNMSVRyY3A2by1oeG1Ibmc3cTFOd3hNYnlpLUlOTkh4cndGdEZVMllGY2RZb19KeHViT3FpY043a0YtZi1ZaHVGX0tLdTl2TGxiWmxELUk3aGhJNzNKSHVhNzhFd1V3U1ppc19UX3JZWjNpLUNXb2c5RU0wZld0MGpsQUNvQ0k5YlVRVWJkTElQNkItTzFpR244RGlXWWdFSXQ1TERTVC03akQtMA?oc=5",
-   "data": "2026-10-29T16:37:01+00:00"
+   "titulo": "Tesouro Reserva alcança R$ 8 bilhões em cinco meses mesmo restrito ao Banco do Brasil",
+   "fonte": "BPMoney",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOX1RMVkNsZXg3aHlNeGdEZ3V3cS0wZWIyaDZRSW1IMmY2TV82eDdrdTJhYVBxTDZEeS1IMlNVOTdYZ09faS1LX3g4M3J6UXZEdjBvZVdGWThPUU02c2Z2OEc4bm9FYTAxOVB3VFVmZWdQM2NTTXNFLWVLRmVnV0t0TTAya2h2Q3psZUtyYWFjekdtTTAtOXVGODVxQjQ?oc=5",
+   "data": "2026-10-29T17:19:16+00:00"
   },
   {
-   "titulo": "Após derrocada do Ibovespa, Itaú BBA atualiza carteira para a bolsa e escolhe 10 ações para investir",
-   "fonte": "Money Times",
-   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxORDg2RkxuUHV5ZG1SLVhKRlNTeW1USXp2S2FzbldhbUh3dXNKRGZ6WTdWOVpIZldOMm5lUGhyUnVDR2dNV0ZFR3FEeGlFbGtiTThoc2gweUpwdFlZQkhkY0VBbkg3SzJXRnpINXRIQzZyWWRLdUxZS21FOVY2Y1haa3lHSFdKTExHZXRWMzd0eTRCdEt3OXhoSS01N1YxeWl3YWc0ZTVHU0dfNHJzS2VCTWk0UUxjYUxwVU1CZTZCMG5oa0NoenRWOQ?oc=5",
-   "data": "2026-10-29T16:32:00+00:00"
+   "titulo": "Taxas do Tesouro aceleram ao maior nível desde o pós-eleição, com exterior e fiscal",
+   "fonte": "InfoMoney",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNOEpoVGF6bUoxeEtVNzR3eHlFV3JLY2lwSjdjUGtRNWdTLW0tYkU4UEpDT2hfbUNIdTg1Qm5MMFVBMS1ydThhcEk4QkJVdVlrdnlsWVVlWm9ibGdSWndSaHhPZE9DTDJuRGsxcmU1bkl4N0NHSEJFRTJtdEZjVm5jaHFaNjlIZzFOVzRiNHItNE_SAZYBQVVfeXFMUHBkS1Q2OWpieHhMSG1xMnpYM0t3LUViYWg3ZmpyZUxLaS1lMkZhZk1BMTRvamNmd2QySEJidFhKSjBJM2lJS3dCQjhiRDFfQjl1a0lxQ3NlM25CTGxYakxzcFREOUp5RlAwS0M1OTl0cmxrMmNyeXh5aEhQbjJ1TDRCaXFidk9zemdlTldwam05dG1YNTR3?oc=5",
+   "data": "2026-10-29T17:18:38+00:00"
+  },
+  {
+   "titulo": "Sefaz apresenta prestação de contas do 2º quadrimestre na Alese e destaca volume recorde de investimentos em Sergipe",
+   "fonte": "RO Acontece",
+   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOZkZrM01XbHF0Z05IQ0sxWlBqWU90MXB5WkQ4ZjlrRHhfSk5CNnhtTnd4dzlHQnRBWnJEU0tNbWhHTXBiWExCdk9MTGhxMHpLYjFiMk4tY05SWVBaR3JFM0tRUkNmdEtHSFJpRTBlUExIZVNVOUR4bUNtWlZSX2JMM1F3RDhCX25Cb2hUdVdIQm9KNXd1VURNbWRiUHUtam5SSFdVZ09PSkZGY0xVYUJpNjNjUUI4TGdFdk4zcVVSM1ppb3RRRzVYUWtld0hNYUc1d2QySXF1M29yMVAxOXJkR2RmWVpkWTFkVUE?oc=5",
+   "data": "2026-10-29T17:17:32+00:00"
+  },
+  {
+   "titulo": "Ações de varejo desabam após as eleições – queda abriu oportunidades na Bolsa?",
+   "fonte": "InfoMoney",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPalNJWmE0NjllaTRrY3Nta2xxSHJ1VjgycnRoWmJQSUFzRC1BVEYya0dhLV8zSk9yeHVHV1dGQzJLcjhtQmxRY2ZDVVluVkdvdWxJSUdqYzdLejlxN1ZKT1YzcUY5U2VrZXVVaVdKbFV6QXRiMkk2VlliSGFqUVNfd1hzQ0Vad041dWM3Q29Ra2RqcTNnYVplNGRwSVE4N25UYjNOWFlGOGd4VWFKaFZMTU16S2rSAboBQVVfeXFMUGhReWEwdmtaRm92RUY1UGpIa2d3WVI5dUtkWWw3ZVctdDVtRWFOcnY1anVMbG1oOWUwNHdEdzAyMEtoR2ExeFFLalZIWkYwN1M1UDZJbjJVZmhiOGU0R1hvSzVhTlFIZnNpWV9qeHVQMmRoanFVZWJWVTdHcGFhTkdQSDRDcWNnbERKT1FzekZYeTdRd0ZzUjZLcVRUcEluZmhEQmdhUE1KWkRVT1NhTXNOQmNfTURlY1hn?oc=5",
+   "data": "2026-10-29T17:15:00+00:00"
+  },
+  {
+   "titulo": "Ibovespa cai pelo quarto pregão seguido com temor fiscal e queda em Wall Street",
+   "fonte": "Times Brasil | CNBC",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNUVB2UEVsaW1WSjBiWGh0Q2dfTXdsRU1VaVJxREhrbWN6OERpMjFEeXl1aEZLeGRHeGh2bElyaERmQmtWOEVWOWpyNW1ueTQ0WlJMbTJ0UnpCbFNibTRQamVJdFZKTktuVDYtRHhUODRtNmRVWFhpbk12Q1F5MHgwRXR0M3ROR3pieWUxcEtXUlo3TXlSdGFlMFI2YTBzUkYyTTZQc1hSSGtpbHVIX1Y2anFJN3c?oc=5",
+   "data": "2026-10-29T17:11:00+00:00"
+  },
+  {
+   "titulo": "PIB dos EUA mais forte e inflação mais alta devem levar Fed a subir juros",
+   "fonte": "Monitor Mercantil",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQRWlGdVBEZUI2dUZQXzRqcktvSjV5T08tRlRTemZweG5GZDhjdVdWVGttejZQQUl4d0NuczRBWUE4U09uYWE2VGl5MTBBQTZsbU9tMDFZeGZsX2RsNnc0bTFFZ3lWdUJndU9BaWxENGRncGJMbVFhSzdzcFh6aGFLUkJpQnBNSXZIdGZQcDZoajNHNW0yVmRMWXhTWkE2LXNCdjhPQTNMa2kzUQ?oc=5",
+   "data": "2026-10-29T17:03:54+00:00"
   },
   {
    "titulo": "No 4º dia de queda, Ibovespa cede aos 169 mil pontos e dólar dispara a R$ 5,39",
    "fonte": "Valor Investe",
    "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQZE15VmhoSTlWZnpCY1BKM1RLQ014ZXJ2bzc0a0dWLVpJV3NFOVJPdk1vdEZ4S0ZTZGpCS1kzX19zbk1HVGxCczFSWGFqR1Bva2dIclM3dDd5NWt4M3hsSVYwSjZzazhVdzR2aTB1djFIUTdLR2g4REI2bzlaaHFyMWRSUXJRZ1h3WWQ5TTl2TDNhZXQwUjJKSG5wN3VkUEdwc3R4VlZmWmM3VVNTTUU3bDA1R3NINE9abXMxZ2VLRHF4Ymk0Q2Nya1N2bnU3WjdUaGlEcmY0WdIB5gFBVV95cUxPUS1GcXdFbUo0cUZkX2FUVlc0UjlFTGRYbkZpdXhPeXFTcERHc1FGS3dQX0FNVlJ4NXYyNC1VRHZpVVJLM0lkRXpxeTcyRm1pNWgxcUFmU0NoeU5IOXd4dDVyWVNzRFZQakJmWFdNOE4xRElTSUUyMmZzd294T3FFaUN5NEdqR0hTVVYteDNCLVNUU1dqOE9Jbmtyb3hEVDZnMURRT3lqTUxPYm5PVzZQM2xmSEZBTUR5bXI4S3U0dnVvdHh2UEZWenBxZ0JNb0ZmVE4weUpnWW9DUjZfeDV4V2tLWWtxUQ?oc=5",
-   "data": "2026-10-29T16:28:42+00:00"
+   "data": "2026-10-29T16:59:52+00:00"
   },
   {
-   "titulo": "Turismo capixaba busca investimentos e apoio do próximo governo",
-   "fonte": "Folha Vitória",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPLXJ6S3FoYnh2UWI0QWNobTlMM0xJbEg5ZGp6Q1gyWVlwYW11YmthT1dsZ284Z1VrVW5yMTRseWVwSWcwbnVmZ3c4UTNKZkc3MVF1c2VrUjlmaFJuVmNXdGJEb2xnZzl1YzRKM2ZSYk1jR0pTN0VNczdIU21uaDFkRXFCQ1ZBVlB0YXhzNVdPUnA5WjdMNEUzU1hYZEhVLXU5MndURWdhWEo?oc=5",
-   "data": "2026-10-29T16:27:13+00:00"
-  },
-  {
-   "titulo": "Restrito ao Banco do Brasil, Tesouro Reserva chega a R$ 8 bilhões em apenas cinco meses; o que explica o sucesso do novo título público?",
-   "fonte": "Seu Dinheiro",
-   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNNzFxS0VLNWFkSE5MaWE0LS1CYVRmV1N3RTRIOFdtdjBLOGhaWHUxdEhTRDk4OVl2dUdUY2hPQ25la0E2aVRRajdPYXhtT1FvZ183VTRMVUZ0Vm1Na2VTbWJ6QW9OTlN0VzZnTzhTVnJKY0hZLVUyMl9iemhoTDBPVC0yLXJORzBvY1FDTFNqNUhTUkpPemN1RU1QbERKRFl6WUVERkJuWVNPQjBDN0E3LTF6RWNSVzAzNnNOSHVvNzZldXpZQ3NHSmNMOEw2akJV?oc=5",
-   "data": "2026-10-29T16:19:14+00:00"
-  },
-  {
-   "titulo": "Juros longos sobem e Ibovespa cai ainda sob influência de reeleição de Lula",
-   "fonte": "TradingView",
-   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1MUmZiOWNFV1JzRGRPRENNT3dqbXhQSklmcExRWXVsb0lIaTc4MTZhczRHZUM4NGhGWTBaMDZYcHl1NC1CUlFxT3BUYmlTWXRqdUlKWU1fUEtiODRZSFBmZ1JLXzB4d21CX3BUeU9ZeVR4eGN4R1U0?oc=5",
-   "data": "2026-10-29T16:18:18+00:00"
-  },
-  {
-   "titulo": "Dólar sobe a R$ 5,36 e Bolsa cai com incertezas fiscais",
-   "fonte": "Mercado e Eventos",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQR0NCdmZvai1yOGZrS0pSOFlpWmJZS2JsbU9SQ0xXY21SVlpPanlmMDB3aWxqRENJZlduTkNkajJTTFpDdXp1cVp3Z0RnZExhd3lCRldad09lNkFWZEt6RjdRQjZPYzJJUTdsOVpNMXdkeWJ0aGJLZmEtb19mYmF5SGhTaFBXQjk2MEM0U3lSLWdhTDNreFZtR3c0RnJqLVZ2aDYtNXRXMFg2QUVxTlE3dVVQX1dpV3c?oc=5",
-   "data": "2026-10-29T16:13:30+00:00"
-  },
-  {
-   "titulo": "Tesouro Reserva supera R$ 8 bilhões em captação em cinco meses, com aplicação ainda exclusiva no Banco do Brasil",
-   "fonte": "Money Times",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNbTg5Tm0tVWpoUnRqMWZSSjlxNktLNzluWkNNdWtIcXg2M05RbXE5TnlZWG9NZ2pwRVU5aGlxYkRGQzJ3YzdvYkhkZVpkWnIxTGRxdlk4b0dTaHFDcWFZdkZDSTc4dWJKbXhTdkpaaTJzcWlYZmJXejFPSFl6SVJkenlucTk5X0ptaWVXczZBVTlMTk15NVdVNUNnU1plQTA?oc=5",
-   "data": "2026-10-29T16:10:00+00:00"
+   "titulo": "Tesouro Direto hoje: taxas viram para alta e prefixado bate 15,40%",
+   "fonte": "Valor Investe",
+   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNaHFGX3NibGk1OTJObWozVTFJQUdxTnFpYk0tU190MF9nblpsUnFLNExkQmFpZlQ2WTNYZWtTcENJVlpWR1FtN0l4UzQwWkdyQkI1SUtfbkJOcWgxektiUXZMMnd3RHBlZjcxOE1YemhWQkJEU0tqbFV1THg0b0p5YUU3OG9ubUxjNFBSTUp6QjhCSnlvNm5vX181ajh3MHprWHVnbk8yNVFnX3p4ZGRqSmlHX1FHUHRJcFVjZUxLaTV3VFMyLVlxQktLdU85bzV3bzNxMmktRzFnMW8xcEpncdIB7wFBVV95cUxNVXpKQm84Q0FwNXRGS1JHWU9oUDhEWjF4cUZDOFRSOTdCcnFwQjZrdF83TnB0TkJPN1lleTFqYzM4X0owZVcwaVo1Qm5NaFZsSWZFVlMxdW5ReUUxWGt0RUpvRGJaaE9TTDhYeDBaenY3ZUdNdmg0M0cwSmhSUmtlTEg3TW9zWUtHRmxULVBVUlV0emdYbXZ3djFob0YxVGVmaV9hTU5pWjJaUHlVUDFnUDFBcDhtLW1FdGRVR0hoNGVDRHJweTlRS3MtMzVrUjZwUzFzaHpCRGE0dkVMelY2ZUdvR1Y2TEpzSkdxWncwVQ?oc=5",
+   "data": "2026-10-29T16:58:51+00:00"
   }
  ]
 }
