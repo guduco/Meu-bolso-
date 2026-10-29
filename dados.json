@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-10-29T03:49:01+00:00",
+ "atualizado": "2026-10-29T04:49:30+00:00",
  "indicadores": {
   "selic": {
    "valor": 13.75,
@@ -17,9 +17,45 @@
  "cotacoes": {},
  "noticias": [
   {
+   "titulo": "Guto e Gilvan garantem continuidade dos investimentos federais, apesar do apoio à Flávio",
+   "fonte": "Folha do ABC",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQN25FTHU0clE4SGJrWnR0WjMxOENhVG5wcEtKMG55SDM2SG9vUUFJel9BdFdYUnNDTm9zVDlpS2tVT0hlVW5iUjNnbTg4bkkweWRIc0REa1k0WklTUVBRWjBsQlRBUER6X2pyZXFNejRtVkdaQXFUZ0VucG95WUJ1Vmg2SGZQaXlwRHNuaGJTNVV0RDdaQTZCRGUtX0NtSWg1SVVYV2FUUEctNk1BZHJwMk9sQ0tSb2g3SkE?oc=5",
+   "data": "2026-10-29T04:35:58+00:00"
+  },
+  {
+   "titulo": "Moedas asiáticas operam mistas enquanto dólar se estabiliza após Fed; PCE em foco",
+   "fonte": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxObjNwNk51amRTU2VIRlE1U01BVmpnQ0F6QUpPWWQ0QTExaTN3RTBpS1A2SEZ6OGMxWDZNOXdIdm01YUdhT1dubkFadjJLdTBqRHFSckhZc3JPaGo2VXFzTFUwVms1bTFVUEtUM0M2czRHMFdGMUZSeklGZkc5VjFTVzNELXNHTDhxXzloNUVDWk5jdTZfQkhfa09Xci1lU3N1Q3NWdmpUZUNJZ1dpcDZWRUpRV1h5M0JrZlY2U2xJV1lIeWdoNDk5Qg?oc=5",
+   "data": "2026-10-29T04:05:00+00:00"
+  },
+  {
+   "titulo": "Investimentos relacionados à IA e consumo provavelmente impulsionaram o crescimento econômico dos EUA no terceiro trimestre",
+   "fonte": "TradingView",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBwcW4xNzdKdllBUlZ6V3d3LWt0TzU5ZkQ4c2VXN1hWcE1ZQm40TWRVc3FlcE42UkdSejZSXzZiSG1JUEZsSDFDaHJ5emRuYTczNFo2ZDlNa0kweVllZTlQem85c3F5czVZQm9ROG9TQjA2ZWxHYVlj?oc=5",
+   "data": "2026-10-29T04:01:00+00:00"
+  },
+  {
+   "titulo": "Dólar fecha a R$ 5,34 com leve queda; Fed mantém juros nos EUA",
+   "fonte": "Vero Notícias",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQZ1J6NWt1RW5mdEhtT2JtOTdQUDRCV2Z2UXlLVnctSDJXaUozZTNnNDEwWERWM3ZCbTRrVnRXTGJrLWZUWnM1WU9JRHdzb19TcGY3eHB6UzBQcGRWNnZNMFV4ZFVzcGtpYkdUUHFFdVlkeUxWZE40UF9GcFViX0FBVDV3WjMzRnJZb0VXVlFqM3ZvVzBOUGZ1UU1B?oc=5",
+   "data": "2026-10-29T04:00:00+00:00"
+  },
+  {
+   "titulo": "Janela de investimentos, agentes autônomos e Reforma Tributária impulsionam o debate sobre a transformação e…",
+   "fonte": "Portal Revista Kdea 360",
+   "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxOb1NUR3kwOWE4MF82SGo0Z0NyTk5SZGJBQ1F5X3g5c3dxY2EzLW94Nl9CcHlUZk5aMDN6amJTLVk1OEk4blhGa0RfcjhrTzRtWVZBZ0ZBZTlCUk1aVmwxTmVJUlFQMVBoVDV6WEZNUHNpaHV3NUhJeXB0ZTg5eWJwdlBqdk1kaGJua1p0bkpBd0luMzZSTUpDdXFZUDVLNU9SOHhnQmN0aktRWVVFOTJUYjZzOUFNVzBLNHY2NDFfazBzWFNNeVlxNi1vdWszdm5nTkk1cXFYWW55NzV3WVJ6SG5UZFcxSWZ4ZjRvbEQ1TC1DRUxCNXFjWHNsaFU3UHhLUEUwTXVRREtYZldxRFM0?oc=5",
+   "data": "2026-10-29T03:34:15+00:00"
+  },
+  {
    "titulo": "‘Todo mundo está ganhando': por que copiar os investimentos de outras pessoas pode sair caro",
    "fonte": "G1",
    "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNNTNZMklHNUJWWWhiSy1vU1R0MGNnSWVpdUdVYUVHeGpjdGRtNk1jdV9lWmlmQlhaRFpvRmFVeXBWLTE5M3ZKMzJ2azJocEs3TmZnRzBYY2M2V1RTOC03aWpFM1I4UGk5aTRNamN6RHR2dC1uX2hKeEM5eXNHY2FndkJRZ01YOFlLSnNERGRoeGs5ZVRNaWhNdVhfUTdfNmdnS3VJcjJEM0QtWFcwVFZYc0xSU3ZhQVNleVM2V2FjRzB1R2Z2WkxFUllFRURzNDFFdGxJUVlqS2lVN1F4WnZn0gHuAUFVX3lxTE1vRzkwRmRBY1VPZFZBcW5uNWNUdkwxWjJKRXdrQXk3OEd5Z1A4THZpWVFTWkQwUG95a3hqRy1Sa3h4dWJzbXcteWNmbVdhUnktMy0zdGtpRFdDbFZCbnNRaVRBeU0wM1lLckNOUk5Zam1iVlBaVS15NUdDTDE3WW1YTWU2ZWR3eURWZFluZXJFUDhIdHEyNVQtRW96eGgyX3R5RF85VTdmclViVHJGdEtmTjdhOWt5a3VfWDkxbEd3Y080R0FVTzlOOXpMVkRXQW80QmV5RVpuNXhiLXBRUnhwUG4tV0V4RlNpMV91WkE?oc=5",
+   "data": "2026-10-29T03:00:00+00:00"
+  },
+  {
+   "titulo": "Quem é o governador do PI cotado para a Fazenda: Fonteles ampliou investimentos no estado, mas enfrenta déficit",
+   "fonte": "O GLOBO",
+   "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNcUo3OTVsX2dLcGswbk5DTUpyZTFqVDhfelRpZjlNaklRVWhieEhoQ0RMWkhCWXdjQnB1b1JOZUl2VFdNR1hVX1FNN2lER1RQdEVGdFliLXlZa3M0dm5QeXJGU1ZMYXctWWdDVjJ6RHFwbXM2b1lzQ2xxWDFDek1WbkdoZ25DOTY0RGQtUEZQLWhNWjlMTjlxcVNQdFl3cVdHb1BsTlhfWjVIOV9aZUR4cHBEeVF2aXFLSXBkREp4VTd3QThhd3U0bzZxMHFfOENDMVVrLV8tY2t0alVnMGtfOWtjQm1SZVQxVG13VVpObXBUM09XM1FheDVVeHQxR2l4a19OemhIbG9lQVXSAYsCQVVfeXFMTXFKNzk1bF9nS3BrMG5OQ01KcmUxalQ4X3pUaWY5TWpJUVVoYnhIaENETFpIQll3Y0JwdW9STmVJdlRXTUdYVV9RTTdpREdUUHRFRnRZYi15WWtzNHZuUHlyRlNWTGF3LVlnQ1YyekRxcG1zNm9Zc0NscVgxQ3pNVm5HaGduQzk2NERkLVBGUC1oTVo5TE45cXFTUHRZd3FXR29QbE5YX1o1SDlfWmVEeHBwRHlRdmlxS0lwZERKeFU3d0E4YXd1NG82cTBxXzhDQzFVay1fLWNrdGpVZzBrXzlrY0JtUmVUMVRtd1VaTm1wVDNPVzNRYXg1VXh0MUdpeGtfTnpoSGxvZUFV?oc=5",
    "data": "2026-10-29T03:00:00+00:00"
   },
   {
@@ -51,42 +87,6 @@
    "fonte": "Estadão",
    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOdlNqWjMyeFZzM29qTlhBYkt1T244anVyRm13UG9lNm43MjBWUlRwWGxYZE9hZXU3MXROQXdGNTNvZXBfNmdXTGp6ZENQN24zVjM1ZnFKSm9xOGwzLXpxVkxRY0IycUZhU25VNHIzRk9OQ2tzLU5BSDlIOTBsWklMeUFxZUlIVm5wYmRKM1p5cGhVN3NHanR5SWR6alBzYWhVd1U3NVR5SGVXdUxV0gGyAUFVX3lxTE5kT1VDX1lqcmdqanY3N0xrb1ZvaEpIYURLNzl3N0EtbjVzSFBOSU1HSjYwb0VuNmVyXzhNbDZBUWZ3X3pOanVfVlI4TUhBRFZHTUQxYkdVUElJLXJLYkZlazk1d0R2Z0gyMFFuZHlTTzRrTlF3dFAyME5YSTN1eHd2WjBsN203dVVoWHhCNFpCaWo2bS1rMWZHQXFvUlVtc1dlRHcwa1hhRU5RN1VvSW9XTkE?oc=5",
    "data": "2026-10-29T00:36:00+00:00"
-  },
-  {
-   "titulo": "Tendências 29/10/2026 | das principais ações da Bolsa",
-   "fonte": "XP Investimentos",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNdENsbE9IaWNEelJ0TVp0akhWdmg1cTl1U0lkMmhKaHVDMlFhS2tTamgwODV5M0NUR2ZJT0V4b2x2dVVJTW8zcTNqd2hma3BDVmxLMVl1Q0FnT0tsaVRkS3ZPZlJSSnQ1djRUcHJ4Z2dkZ25DbkhJY1VKNldyZ1QxZnFveUdtcW5EREJkT2kzVVBQUkFKdmhZdEQ1OUlIalBwZURNR2pUejByV1k5?oc=5",
-   "data": "2026-10-29T00:35:24+00:00"
-  },
-  {
-   "titulo": "Codam analisa 63 projetos com R$ 1,65 bilhão em investimentos e pode bater recorde histórico em 2026",
-   "fonte": "A Crítica",
-   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPNkJicTBFaFc0X21xeHlIbEhpSjFnRnJMQm4tZXFvVGN5RWU3NnViR29WdkY2dnhYUjN1ZWEzOHR2dWdpZHBVU0VyZFhPSW5jSkM1TThpTGxNTFQtUERndndHdVNNUjhJMkJJUl91SWpVc3NKMnI1Uk9QejJhSGtmazR6TDZOWXVPb05lR3VBbGNUeDREejBmc3Y2dGhWcjVjS3J6QjZFTEZrajJTMFdlYTBpQ09sX3NCazM1VnNERzJ0NlF0N2xGRGlB?oc=5",
-   "data": "2026-10-29T00:23:31+00:00"
-  },
-  {
-   "titulo": "A Bolsa caiu 16% com Lula até agora. Mas o estrago é maior do que parece",
-   "fonte": "Brazil Journal",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPc0JMQThvV3R4WFVoZVRtdmJEcUxNVjlrWHROWVVjZkNZTENrV2VVOXdVUVZqVklCVzM1NTFZa0hGX3JraDlsVk9HZTlxWGIzTG80MnFWTTdqWEdsMVhHSXJSRFBlSXpWTnRrSEM0MVM0b2dwaDJVY0dDbUFmV09UMEkxaW92RVp1eUdPWENIeC1BMTZyb3BOQjlNbGc?oc=5",
-   "data": "2026-10-29T00:21:24+00:00"
-  },
-  {
-   "titulo": "Bolsa cai 2,68% com tensão fiscal e decisão do Fed; dólar recua",
-   "fonte": "UOL Economia",
-   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNR2N6dkRuSnZxYzRkZ3NUSkVRYlZyY1dYWUZrRGMtSDdYVU1YVmtHSGdTbHNCQWprTlhBTFpYU3B6alhGeW12cFRUZWJsdjU4RHcwVGZ3UDBKQmptWjhwU19xU2gzQzNNZ1p2OE1PNVh6bzF1OHcybUxoYUdUNzVVYU8xTTBlMTlCWThrMXVQMGtOd1lGc3dWQ2prdTRFcXMyRm8wUGduVmt3S0o0OW9WcU5fOVdvMlhEd2JxWGpVNW9oZ2RQdXhpTG1R?oc=5",
-   "data": "2026-10-29T00:11:53+00:00"
-  },
-  {
-   "titulo": "Juros de 10 anos sobem a 15,04% e mercado vê Selic mantida",
-   "fonte": "Poder360",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPbHlXTGthTnNSbUxtRmViOHVwVXFoMTlYc01CdTZHdjVoRnlfVnd4Mm43dnlaVVJYMVFrbl9HU00xV1o5eEJxYnR3bV9ZaFRsRUdFNFd3czdBMVp2NF9DaGNveUR4NjItSXh5ak81bHlSUng5Mld0Ulh6VW1ram5sR2Y4UWFjUUNsUXpXalVONFlQRTVnS2VaY3lFUXlOY3lCVUE?oc=5",
-   "data": "2026-10-29T00:00:52+00:00"
-  },
-  {
-   "titulo": "Ibovespa cai 2,68% pressionado por Vale e bancos após balanços",
-   "fonte": "Brasil 61",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNb2g2bU5sVnppS08tbWZ5dUVseFRQaC1KcUpWNi0wYkwwMzNMbENudTdsUmxzWDVEcnRJSFhJY1dXWjY3Nlpoc1VocGE3QmxmcVBwWFNHVmdVeWkwOXpIRUlOTkRrbXYwbm85cVVhTVJYMG13UWc3NG5ZUDhOSTl6M3B6eTltemJaWlFDSDhPdURST0RvTHJzbEhpeDHSAaIBQVVfeXFMTVhqYUF5bW1haFExREFpaVBzZFc0aHJ0NTNubnZDYU1RaHFnbklwcFFjZXJYeWlDT0VMRDZSdFFKdXdWdUh4NE5LYVRfdFpHZE1oMl9Ed1hYYkVfTzRGaDVBR25GM0V3V2xHM0ZQTjM5MFNTeVR3QnpMbDR2dGZwTmw5SGJhTWNKQi1PcG1adkQ1RVZHYnBtOEVXUlRkcGhEdzFn?oc=5",
-   "data": "2026-10-29T00:00:00+00:00"
   }
  ]
 }
