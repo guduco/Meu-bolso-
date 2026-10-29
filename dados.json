@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-10-29T09:53:17+00:00",
+ "atualizado": "2026-10-29T10:50:23+00:00",
  "indicadores": {
   "selic": {
    "valor": 13.75,
@@ -16,6 +16,54 @@
  },
  "cotacoes": {},
  "noticias": [
+  {
+   "titulo": "Bom dia ADVFN – Inflação, PIB e balanço da Amazon nos EUA no radar, crise política no Brasil, Vale divulga resultado e mais",
+   "fonte": "ADVFN",
+   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPbnFJTl9uZHlIMGZ6LV9TTC1uQUNTN3dLWDIzNEl2ZzZNVHRsZ1lyalo4UFdIbVo3UWZocUN6RnFnY3ZoNGZJWnJfdk9wV3hPcW5XZUx0cEljN0I5VVlGWk1uellvUWM0VnNHWDRQOFJEQ0IxZzk0MHAwZnR2V1JzTDVDUTRld25YMjIwanQtVERzTE4yU25FWHlYbjlQTlU2cFBEV0ptN2NCakxLcHlWQ1VmX2VvRGVwdjJpR3pGRFgtT0ZBYUQtQXpLdE5IcTBYQldwdE9CNXZFMEo3aHVLQl9ab0ROZkZtbUE?oc=5",
+   "data": "2026-10-29T10:35:15+00:00"
+  },
+  {
+   "titulo": "PIB dos EUA, inflação PCE e balanço da Vale (VALE3) devem movimentar o Ibovespa nesta quinta",
+   "fonte": "BPMoney",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNdDZlUU8tRlFTUnQ2ZWFzSGVlTjNJb3VBM3ZhZTNSZHp6d2FIWGV3V1FJUGNtcHhRVUFyX2lXNlVwVzNlMWlrNmZLSlo5ajVVckVJazVZU1FnSWhJYTZsQ0E2QmVSbU5BQmtsNlJERnpJREZoY293eENBN0hPeXoxNzVJRjNmd0szeUp1Y1paQzdPSnFWWHhSOVp0bkExaGtBcDFpWHloYjU2bmlKUDNtN3NfS0NyTXZ5WGVWLTZyQQ?oc=5",
+   "data": "2026-10-29T10:30:00+00:00"
+  },
+  {
+   "titulo": "Investimentos privados anunciados para Uberlândia já somam mais de R$ 30,4 bilhões",
+   "fonte": "Portal da Prefeitura de Uberlândia",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOVjAydGJJTzN6NHdZakVWVU9VNDNDUFlwNkplUHFEUUFHVmxJRTdHbGdmUFFLb09ySzg0bmQ0dFA5TTVQUy1LSWk1cjFiT1Foc2RNQnk4S05HTVg5QlRSS3VLMGZWNlpJVGdpdmtYSU5naDdlbUZXckMwUDZRcm5kbFBLUjlxeVZfczdWRmI0OEdTMi15dG5tVGppTm1pNUE2a1h2WERZdnlLRmpqVjV3eFhCS1JmM2FNckY1c3hTb1MwR0U?oc=5",
+   "data": "2026-10-29T10:22:22+00:00"
+  },
+  {
+   "titulo": "Agenda cheia com dados fiscais, balanços e inflação nos EUA mexe com mercados; Ibovespa em dólar cai nesta quinta-feira (29)",
+   "fonte": "Money Times",
+   "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNU1dEUWZNSHcxRjN1cUYyQUE1Ykk5R3RLNEFSNU1INXl0MnR0M1VrbEZiSzBuNjBVVTZpZzJYX3JtRnpra2RucWc2X04tUUw3R1hHSjlvbnBPZE1OMjJBcEFZcDIzOFUwQ0IyT19xaFJFaVFLbUU2Z3gxd1ZwUnJYWW1hMzM1eXp1TVB6TWZSX0pkTWF4eGx4U2IzNVJoYTkyX3YwVW1Tdjd3MGRiTTZYRGVMYnROLVNBRlBhU1pSQ190ZENicHBoUzh2U1JVZ0hmNG05Q0p6dlF5T0Y3dzFTUS1QQ01WSHdmTl94ZA?oc=5",
+   "data": "2026-10-29T10:17:00+00:00"
+  },
+  {
+   "titulo": "Minidólar (WDOX26) segue volátil entre risco fiscal e cenário externo",
+   "fonte": "InfoMoney",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOSlk3UmxsODkzaVlHWW4xaXBKSThWMTdNcG9ySllQeTdxZlhhZEg0RElLOTJsU3hsNk9fZnpzS21IaUY5RWhyeXNPcUtYZmF2Q0N2SVhEbkN0MDZqZ0ItSHdEeUxhMW9mMXFMamE4ckJ0TTVhNHV1Mm55Q2loV0NCMUVqbDZuemdRcXptWTdn0gGTAUFVX3lxTE4wMmYtRVdqNHh1Z3dSalJHbDZVZ1h3ZndmVlFnY1VEV1RuTjBwTjhiYm5XRWh0dml5X1cxTDdnamZLU01iZ0gtUFF3cTFoVHhlVlhCZ2ZiOXpkTUl2NFgycTBNY2FDeFZjSnJ6RmhvVk5zbTBkbnNTWURBelViT1RVSnhhRDlrdloxV2xWWkdsVEdaTQ?oc=5",
+   "data": "2026-10-29T10:11:00+00:00"
+  },
+  {
+   "titulo": "Bolsa caiu, dólar disparou: onde investir após a vitória de Lula?",
+   "fonte": "UOL Economia",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOWDFtNllaRDMzNW9WYXpOTjc0LW9VeEk1dU5jMmF2c2xYY0twUUpRam1hVkpsaDg3SGhuRVRhNUJUeEFvUUhFcXl3c1lrYlJtdHpkZUh2NV9HMTVUZnBmV0s5Y1ZlQ1RaVEIzSWFEZFlLM3czQTFQQk1ZWXZDWDZYMUJOWG1Od1ExZUlZTER6UEZ1VWVrUzN5OFdyTG0wdE9ZSkh0Q3JNdmVaMnRzdTNQeU9lck1QOF9FUk5JNVVaTDFCanF4NGc?oc=5",
+   "data": "2026-10-29T10:09:42+00:00"
+  },
+  {
+   "titulo": "Day Trade hoje (29): Ibovespa afunda após eleições; pode cair mais?",
+   "fonte": "InfoMoney",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPa1lqeThHTmdDZXUtRFVieTBRSEtqbFU0ZUdkd01TSzg5eVpIWDgxYUxrMHB2a2g1MjdtRmMwMUlqYV9NTjBwci1JX2tQR2RmSHktTkpVaFBJQmJENTk3RXExNVlKY0xKVEs5Rkp5LWhBRUNXYjdtZXRya01DWDlDbzExVEIyZ2lT0gGOAUFVX3lxTE5naVJ1RVc4d1BqeUVHb1lFb0Y0RDUtTG0xUlMtVkJkaUtXMjhNYXp3M0hYM21VYzhvUy0tYXJYNzdGaDFuQlpiT2czQVdmVjV3Mzhfa3dmSVZzZldvaVRLaHhHYkwzMTlhbjNBUHpmQ3hBNk9fa1hqS3VNNDFNejVjei1aMUlUbmhaUHZJVXc?oc=5",
+   "data": "2026-10-29T10:03:00+00:00"
+  },
+  {
+   "titulo": "Ibovespa B3 recua 2,68%, puxado por Vale e bancos após balanço, e dólar cai a R$ 5,34",
+   "fonte": "Rádio Guaíba",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPLUVWZWgyQTdmdURaeVcxQ3plT0R4bVRoNWd5dS1KTjlFcTU2M1paNXkzd3ZQWDlka2lfUkMwN0haR0JlNEp6a1BTaDRzN19xWlN3LWNlTlJMSWFuVzE5dDhZejV5V2N6bkl4S3ZlSThoXzE3dGVrQ3pUMkgwSFBWbjNwY1JENjMtNXIxMkRHc2ZvOTF3a01FbXRXelEyV2tLNzB3TnJaQkZkd2ZZazBCZHUzdWJRdw?oc=5",
+   "data": "2026-10-29T10:00:00+00:00"
+  },
   {
    "titulo": "Agenda econômica: o que pode mexer com a Bolsa e o dólar nesta quinta-feira (29)",
    "fonte": "Money Times",
@@ -35,58 +83,10 @@
    "data": "2026-10-29T09:06:00+00:00"
   },
   {
-   "titulo": "Orçamento de MS 2027: folha tem R$ 5,50 para cada R$ 1 investido",
-   "fonte": "Campo Grande News",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPZGFTN1ZVVUxEeUVlVHp4blZvNEc3ZzQxMURyb21Wd1lHLUVrc0twb3lQZUFKV2g1U0tFUDZ2bU9WcnZ0cXVrQnMwNkNMWnFzbklMMjlPZS1wcDFOLW5oMXNnMFZYSFdjTFZRa3hLY3BhMV9idUs2ZWtxR2xGSWRuWDF0RUdWcUZmVUpNSDJoU3VEZmpwQWc2ZmhubWtIZ1N2Y1FKYUFHUUozalNTU2FB0gGvAUFVX3lxTE5wNzFpeWpBU0xjY1Z3Z1NzMkcxQ3ZFejFpY01ueXFfOTNDbTRaUm16MWR1VE9GTDFuYXRJcFliZHdnTjRybUlfbk8xVEthMFRTaWRhUUhSREczbm02SnBUSThxU0puZWNSZ0ZMaW9sbGR0V1JZcU9Xd1lyZTRGOWtvQVhaYW9vMUpjMWFsLUdjMUxGbVFSTlc5ZlFzVVl0c1gxb25zRndsY2xibkZQdTQ?oc=5",
-   "data": "2026-10-29T09:02:00+00:00"
-  },
-  {
-   "titulo": "Após eleições, leilões de rodovias voltam em novembro com previsão de R$ 31 bi em investimentos",
-   "fonte": "Exame",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNUVJuUHRyV0lMSVkzUVhsTlpkNWhTLUM2MGd1cnlrTlB3ZjJyZ2g2RlcyZnIzZVlLQTdrTjlnRXc1VWVfOGIyN0d6c0pxaUl0M2RoMEE1eHB1TTBkZzBtMDVyeVAzQlJSUFdhaEVSRDdlTUdoQU94Z2w5WDV1YkhXRmJIZW5ZRWY4cHhpQmRra0Z1Qkdmcm1yZ1ZLZXltcjd3MVhTSnpPUnJKa1otSnJvNkY3ZG1VenNEdjBFVGtVYw?oc=5",
-   "data": "2026-10-29T09:00:36+00:00"
-  },
-  {
-   "titulo": "Vai viajar para o exterior? Veja o que esperar do dólar após disparada com eleição",
-   "fonte": "Valor Investe",
-   "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNbk1FVk40TGRzbE5jRElhSlhUbktnYXIyXy1NWDRDTEtTZWFpTkFMZXBhTUxuUUNUT043dEphSVptMXRBbDdHem9TaXd3ZnNOYzhBai1OX19fQ0JUR2ZkWVpaLVktOUFNWTJSOHdLSWJpWVZiNTJsZTl6Y0YxS1FjU09ucmtjYUNFWmp4Y1hMcFcyOWk1YmgwM1RjR3BJVmo4a1N0QVJoTGlvYUZfYVJ1VnAySWFaLUY0bDdiYTBZT09rcEJYYWtzQlVCcUl0dDVMaVRHLUw4LTBzTXh1enBDMm1FejBkSmF0Z3RrbVQ1MFBKbzDSAYICQVVfeXFMTTREVVJwcEQxZHQ4RUFtQmNndXh2NURTeE5yamV0a2QwWWdPaHJLUG1aTHRlWnNyM3daUWlBZjdNWk9BajAyclJBWXFXOGRvWTBCbEZGRHdxdmtnS0ZJX2xkYkJTcnUtM2xRVTRHMUVjb2tjM2pGZkVBMkhLQklwNlVZYkRKNjgyMlhkSTNDVmlUWmtieHowUVhwb0NmcVRLLXFGcE9sU3VCNzdzaGVFc2FDM2stcnhuRTQ5TW5DU19mQmJmenRQNVYyVEE3dldTMEFaUUpnV293bFNpNy04RGtia3lMWUFuT3lFY2ZRdGtSRUFxdGQweDMwUDhKZlN3eWhR?oc=5",
-   "data": "2026-10-29T09:00:00+00:00"
-  },
-  {
-   "titulo": "Tempo real: Ibovespa acompanha decisão de juros na Europa pós-Fed",
-   "fonte": "Money Times",
-   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE51eU93MV9YNGVDaVZPM3Qwd0VkZktXR0dhWU1Sa2VJZ1RaSXl3YmFMa2RKZGdzTVNuTjVmWXRCM0NqMUo2cm1ZYzVaTHpQZUU0aVB3WlZhdjgtRmRQTl9CQVJPc1h5Zw?oc=5",
-   "data": "2026-10-29T09:00:00+00:00"
-  },
-  {
-   "titulo": "Nasdaq Futuro cai mais de 1% após balanço do Google abalar confiança no setor de IA",
-   "fonte": "InfoMoney",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOY0hjMjE4VlpJbVM2TlE3dkREaDY0bkJtUm9GZjIyUTFSMDQtdXBIZFBSZFJITEhOeXRrdDZHYkhYckpwaXk0N05abXlna0xyai1BbU8yQnRRTnhxdF9id2lfTVFfSzFYdnhBeHBkWmFxQVpNMkpzWWwwQktMMmlSWTZtdEh2bXdlNGNSby1B?oc=5",
-   "data": "2026-10-29T08:54:49+00:00"
-  },
-  {
-   "titulo": "PagBank Investimentos: A Bolsa caiu e os juros estão altos: é hora de comprar, vender ou esperar?",
-   "fonte": "UOL Economia",
-   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNcy1Ga3lPLVBKbEhqSDVRMWxsOENXZHQtcl9fMnM3QWE3QzRwQWxRUENpZ1ZjbzJCelZod2VsLXgyUjE1N1NLQm82MDlkVl9nbzE4N2VpbU9aSXczS3pEQnhNUEZzOF9UdS13bm0xVmVid3EzcHFHd3FyT2FuTWRVNmtkbm1pQ3RGcnJJR2l2a3RfYzlTM3I3M2tSeWU0QlhWWS1rV3Z3emMzUGJFc0RQeTFRYks2LWVWUEdtT2RqOV90bTVzQ3pTNzhONTVaNGJVQWFhR1R3c0duSlJI?oc=5",
-   "data": "2026-10-29T08:36:39+00:00"
-  },
-  {
-   "titulo": "O Ibovespa vai continuar caindo? O que eleições anteriores mostram sobre os rumos da Bolsa",
-   "fonte": "Estadão",
-   "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOVHlXYUZ0QUlQUnZFZTJ2RlhCMHVBYXNkY1drUmNvcTdZQkVBS1B2d05GdHpRa3E0anNZaG5XX2VTSEVudXp1QjJQelRoRTdfb1JzQ1FXNVprcW02b0RiVUx3OWJ5RGM1SDJaQzVYZE1UUmFucDlzRzd6aFVKeDR0Tl9wUkRZbzBia1FNb19lY2JDX0U3bFpacGEyV3A2Ql9YRGZSUWxfOUk1aU1PTEkwLTNxVWpDeHhGWVp6Zjg2LXFUdndaR01Id3FoLTlDbDVER3g5U0RId1Jid185SmdvYXpMLU82MkhnZ0hQbg?oc=5",
-   "data": "2026-10-29T08:33:43+00:00"
-  },
-  {
-   "titulo": "PIB e inflação dos EUA e balanços da Vale, Ambev e Amazon: o que move os mercados",
-   "fonte": "Exame",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPUGhudFN1RTdFSXRIeTh2dFlGdS1qajBJTjdpRlRMQjhmeW5EV1ZrbkN2cUl2S3RxTUFVaHFrWGpKVDN1a19wQmdRN2ZwZzRQVHQ3VTFMUlVWV0VmQlVPZ1lQWEZfSnQzcGtCdkhiMXVBZXJUQ0Uwd05DR1pXWDdHRVRJUm9wby1HMWszbGhCdkVKcC1BNE1KRzlNalhzLXZFU1dHd1Z4eDR0RmI4MmFSQW9ScTY?oc=5",
-   "data": "2026-10-29T08:32:39+00:00"
-  },
-  {
-   "titulo": "Bolsa caiu, dólar disparou: onde investir após a vitória de Lula?",
-   "fonte": "UOL Economia",
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOWDFtNllaRDMzNW9WYXpOTjc0LW9VeEk1dU5jMmF2c2xYY0twUUpRam1hVkpsaDg3SGhuRVRhNUJUeEFvUUhFcXl3c1lrYlJtdHpkZUh2NV9HMTVUZnBmV0s5Y1ZlQ1RaVEIzSWFEZFlLM3czQTFQQk1ZWXZDWDZYMUJOWG1Od1ExZUlZTER6UEZ1VWVrUzN5OFdyTG0wdE9ZSkh0Q3JNdmVaMnRzdTNQeU9lck1QOF9FUk5JNVVaTDFCanF4NGc?oc=5",
-   "data": "2026-10-29T08:30:00+00:00"
+   "titulo": "Coronel David reafirma oposição a Lula e defende investimentos na Saúde e rodovias de MS",
+   "fonte": "Diário MS News",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNYlpod2h2VjFNUVh1dEdiZjFzM3NTWUl1QTRoMWRVU043YjBCLXp6YkVKLWxyVXdiT2Fuazd2WXBObm1XeVJfd0IzMHJTUE43dHZhaTFxYThXOFJrZnBNUDFtRGZLMWhTWG5zaHFCM3lCSUZGR0k3X0wyMTlQbWNHbDNUTVNiZjFEYk5LSnNFck5qeEo3LW5tRUZtWHl2LVdTU0NwR3pGUFhuc1ktZURBVkdJN2Y3bkt0c2VZQ25yMDR1U3Z6?oc=5",
+   "data": "2026-10-29T09:03:53+00:00"
   }
  ]
 }
