@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-10-29T00:55:49+00:00",
+ "atualizado": "2026-10-29T01:57:23+00:00",
  "indicadores": {
   "selic": {
    "valor": 13.75,
@@ -17,6 +17,12 @@
  "cotacoes": {},
  "noticias": [
   {
+   "titulo": "Ouro recua após Fed manter juros; dados de inflação PCE em foco",
+   "fonte": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQUEFydlNaazZmV29iNTlmcGJ2dU1PaE5CTGJaZ0MxOUdlVmF6U1VydmdXb3Q5OGF0bEZ4cUpub2pnYmlubms1VVpyZUNEc05jRDluXzVZT2dRSXJ0NWw2Y1NDaVc4SHZpLUlRTkowNmRJOTdiY0RFVzNPcjlhU2ZQUTB1aDBFbnhnc1NUcW5wSVg5bkVqZEk4UGV4UFFFbzFZN0lRdFpoR3dmVjVHbVNmU2Y4WmUwSzJK?oc=5",
+   "data": "2026-10-29T01:21:00+00:00"
+  },
+  {
    "titulo": "Fed segura juro, mas segue com discurso duro; mercado vê alta em dezembro",
    "fonte": "Estadão",
    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOdlNqWjMyeFZzM29qTlhBYkt1T244anVyRm13UG9lNm43MjBWUlRwWGxYZE9hZXU3MXROQXdGNTNvZXBfNmdXTGp6ZENQN24zVjM1ZnFKSm9xOGwzLXpxVkxRY0IycUZhU25VNHIzRk9OQ2tzLU5BSDlIOTBsWklMeUFxZUlIVm5wYmRKM1p5cGhVN3NHanR5SWR6alBzYWhVd1U3NVR5SGVXdUxV0gGyAUFVX3lxTE5kT1VDX1lqcmdqanY3N0xrb1ZvaEpIYURLNzl3N0EtbjVzSFBOSU1HSjYwb0VuNmVyXzhNbDZBUWZ3X3pOanVfVlI4TUhBRFZHTUQxYkdVUElJLXJLYkZlazk1d0R2Z0gyMFFuZHlTTzRrTlF3dFAyME5YSTN1eHd2WjBsN203dVVoWHhCNFpCaWo2bS1rMWZHQXFvUlVtc1dlRHcwa1hhRU5RN1VvSW9XTkE?oc=5",
@@ -27,6 +33,12 @@
    "fonte": "XP Investimentos",
    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNdENsbE9IaWNEelJ0TVp0akhWdmg1cTl1U0lkMmhKaHVDMlFhS2tTamgwODV5M0NUR2ZJT0V4b2x2dVVJTW8zcTNqd2hma3BDVmxLMVl1Q0FnT0tsaVRkS3ZPZlJSSnQ1djRUcHJ4Z2dkZ25DbkhJY1VKNldyZ1QxZnFveUdtcW5EREJkT2kzVVBQUkFKdmhZdEQ1OUlIalBwZURNR2pUejByV1k5?oc=5",
    "data": "2026-10-29T00:35:24+00:00"
+  },
+  {
+   "titulo": "Codam analisa 63 projetos com R$ 1,65 bilhão em investimentos e pode bater recorde histórico em 2026",
+   "fonte": "A Crítica",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPNkJicTBFaFc0X21xeHlIbEhpSjFnRnJMQm4tZXFvVGN5RWU3NnViR29WdkY2dnhYUjN1ZWEzOHR2dWdpZHBVU0VyZFhPSW5jSkM1TThpTGxNTFQtUERndndHdVNNUjhJMkJJUl91SWpVc3NKMnI1Uk9QejJhSGtmazR6TDZOWXVPb05lR3VBbGNUeDREejBmc3Y2dGhWcjVjS3J6QjZFTEZrajJTMFdlYTBpQ09sX3NCazM1VnNERzJ0NlF0N2xGRGlB?oc=5",
+   "data": "2026-10-29T00:23:31+00:00"
   },
   {
    "titulo": "A Bolsa caiu 16% com Lula até agora. Mas o estrago é maior do que parece",
@@ -53,6 +65,12 @@
    "data": "2026-10-28T23:45:57+00:00"
   },
   {
+   "titulo": "Dólar fecha em leve baixa e bolsa tem queda de 2,68%",
+   "fonte": "Imirante.com",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPVEZLZ0Z6dHJSVGdlMUY1WldjbjRfWkt5NEFBeHZWbzh4ay1GdjV1cmRDbWFlb014Z0Jub2RFN2xnaEF1VHphN0lpY2tCZzdNMXpfeEpIX0xPYnRwTEFVRk16eGZiMHlsd19UV25QT2tlVU9ra3JBdkV2RUVBNHpLTmJlbU9hV2xvUmdRelRFazBpTDcx0gGUAUFVX3lxTE9URktnRnp0clJUZ2UxRjVaV2NuNF9aS3k0QUF4dlZvOHhrLUZ2NXVyZENtYWVvTXhnQm5vZEU3bGdoQXVUemE3SWlja0JnN00xel94SkhfTE9idHBMQVVGTXp4ZmIweWx3X1RXblBPa2VVT2trckF2RXZFRUE0ektOYmVtT2FXbG9SZ1F6VEVrMGlMNzE?oc=5",
+   "data": "2026-10-28T23:42:11+00:00"
+  },
+  {
    "titulo": "Investimentos do Amazonprev nos bancos Master, C6, Daycoval e BTG Pactual entram na mira do MPAM",
    "fonte": "Amazonas1",
    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNM0NjcXdoT3BZLTc2b05uWWVOTHJmSjJlNUhhLW5QbE51UklLRzE0OUhlMHlDeFJHb2tSWDZhazRVZHFvSzBXbmM1T05JQW9QYjdOc1F2WjdtdlBkeXk2cDNTTFZ1dWhFSHkzZVVvTlpoYXI1b0pmY3otRXJUTkozMllCLW9ZRU8wMVZRMG9BS25EbHpERHZUS0V6emhMLWxEMU85UTRpMDU1WGFObUN4REE2LWJsa2QtM3JKcQ?oc=5",
@@ -69,24 +87,6 @@
    "fonte": "Notícias ao Minuto Brasil",
    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQZ25Idi1hYzYxSEdla0JjNXhNWF8wZ2hsUXJ1NWNkVEpMYl9xTU9iVlcyZHJkNDJFNXppTlVkemJFUVVYamF0UV9iYVRtaWZrSENkNngxTHdXS2lIQ0dtcERSUE5VdGdJSGk3RjR5NGxwWkVMcEhQLW9zaF81aXJuOWNjNVlFbkprcnJwY1k1R0hwc1ZjZnhYOW9mUnRER3BlS1VkSEk1Yjl2TFpZR3hsSUU2bHV2cUY4eVIzTw?oc=5",
    "data": "2026-10-28T23:35:59+00:00"
-  },
-  {
-   "titulo": "Goiás mantém 84 obras rodoviárias em andamento e amplia investimentos em infraestrutura",
-   "fonte": "Portal Caldas",
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQZkxheGJJN2tOV2hUNWhWR09vYXBuNnhjZlpOY2VfR1ZuZXBrM3V0Y2dVYW5uVHVFZ2l3S0RxUlZ6Q0NRVGtuU3Y3RXdhTHVOaUtORzlkTHpXUkxVT0tPWGNZZmF4RTQ5Y0JzNF9nVHNYXzdBWmNTTDhQUk5peXZxUkxxLUViOFhiTWE2NFNMU0M1d0tlLVZaU1MtejhDZG10TDEwRGhoOURkOV9Ga1RJU0lqc1hfUU11aWRPekwzODBlOXVmT0E?oc=5",
-   "data": "2026-10-28T23:29:24+00:00"
-  },
-  {
-   "titulo": "George Coelho garante novos investimentos para agricultura familiar e espera contar com suporte do Governo Federal",
-   "fonte": "Blog Milton Figueiredo",
-   "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOczZNMEtTZmVTX0xSd3FwUElWSVRhUFlnU1RHWEJDU2NvcHpaWWtSN3o2WjBSVEstcDJYMEpSd29wX3hmaFhzOUxUTE5ZdEVScFRRWHVoUlQ3UWZsTzhIQlVBYzdrSVZSTG1NRVJTaVpTQWlBeE93aEUxdUM1YzZBY1QzUEhkT2k1MXQyNmlsYl9USVZiR1BxNXpic292NzN5ZFpERmZKdGhoNy1Kb0UtNS1fdU8tdGRvcjI4SlJiMlRNWGxVS3dtSURKdGFXLVo5XzVrRWdRZFk2dHYyVGtMQXFTOVRNU2VsSzhCYUZBWUJmcTEzbmc4N3V1clI?oc=5",
-   "data": "2026-10-28T23:23:00+00:00"
-  },
-  {
-   "titulo": "PRIO3 hoje: ação sobe 1,8% com Ibovespa em queda! Análise técnica da PRIO",
-   "fonte": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOQ3FXb1U4dnRxWG1NVGlVd01zOEJtMExLSEJyemk5QkVBblptWlBwR1Fpb3BoVi1UVFRhQU1wbVFHWUw1cHRiV0NZMnc4THFMc2xGSkcwdGlfS0ZCQmp5Ql93eDdXR2lGTDNRMnpITmtHTU0zbTF4dFY3MWpvWFFnUU5yQ2E1cGdDYjBtakpEVEVINlhLd1FHQ2l6MjVGNEswUHotNlhoLVhkeExYOTlVZlBpZw?oc=5",
-   "data": "2026-10-28T23:13:00+00:00"
   }
  ]
 }
