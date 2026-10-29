@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-10-29T01:57:23+00:00",
+ "atualizado": "2026-10-29T02:49:51+00:00",
  "indicadores": {
   "selic": {
    "valor": 13.75,
@@ -16,6 +16,18 @@
  },
  "cotacoes": {},
  "noticias": [
+  {
+   "titulo": "Suframa acompanha debates sobre comércio internacional e investimentos em conferência na Espanha",
+   "fonte": "SIMMMEM",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQODlaOHBsOFNtVU1ybUZ1SG9Na0c3SVhZZ3ZycGt2NUYtcEdLRWQ1eF9RMGFaUVR3MFJBRU51NGxLeW9YTVRRYzBkb2pnY05NWF9kQUluSHdVZjBzTnRYTndNanhzTmZzOF9kWVBoeG9nUFlUOFo1OXgzNVp3Y2VkYWl2UWRUMTE3WElRU2Z3S09wRURTN2JsUXZLcnNhREU0bTJhVXFJZ0ZKZ0QxYVZnRnFSYnUyX1l5TlQ2SjBYbFdnZw?oc=5",
+   "data": "2026-10-29T02:11:38+00:00"
+  },
+  {
+   "titulo": "Bolsa e dólar ficam estáveis",
+   "fonte": "SIMMMEM",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5Cc3RGcFZidXkzRG5ycDlDcHc3WWpuVTM0MENCZTNqdU94ckxqc3JnMzhzdzRsUklNSkRMNjZaVXdTREV6dUpCRVlndW12X3hUQjlHVXFZaUtPTnlBNGFHZkJySElXX2M?oc=5",
+   "data": "2026-10-29T01:53:31+00:00"
+  },
   {
    "titulo": "Ouro recua após Fed manter juros; dados de inflação PCE em foco",
    "fonte": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
@@ -35,16 +47,16 @@
    "data": "2026-10-29T00:35:24+00:00"
   },
   {
-   "titulo": "Codam analisa 63 projetos com R$ 1,65 bilhão em investimentos e pode bater recorde histórico em 2026",
-   "fonte": "A Crítica",
-   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPNkJicTBFaFc0X21xeHlIbEhpSjFnRnJMQm4tZXFvVGN5RWU3NnViR29WdkY2dnhYUjN1ZWEzOHR2dWdpZHBVU0VyZFhPSW5jSkM1TThpTGxNTFQtUERndndHdVNNUjhJMkJJUl91SWpVc3NKMnI1Uk9QejJhSGtmazR6TDZOWXVPb05lR3VBbGNUeDREejBmc3Y2dGhWcjVjS3J6QjZFTEZrajJTMFdlYTBpQ09sX3NCazM1VnNERzJ0NlF0N2xGRGlB?oc=5",
-   "data": "2026-10-29T00:23:31+00:00"
-  },
-  {
    "titulo": "A Bolsa caiu 16% com Lula até agora. Mas o estrago é maior do que parece",
    "fonte": "Brazil Journal",
    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPc0JMQThvV3R4WFVoZVRtdmJEcUxNVjlrWHROWVVjZkNZTENrV2VVOXdVUVZqVklCVzM1NTFZa0hGX3JraDlsVk9HZTlxWGIzTG80MnFWTTdqWEdsMVhHSXJSRFBlSXpWTnRrSEM0MVM0b2dwaDJVY0dDbUFmV09UMEkxaW92RVp1eUdPWENIeC1BMTZyb3BOQjlNbGc?oc=5",
    "data": "2026-10-29T00:21:24+00:00"
+  },
+  {
+   "titulo": "Bolsa cai 2,68% com tensão fiscal e decisão do Fed; dólar recua",
+   "fonte": "UOL Economia",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNR2N6dkRuSnZxYzRkZ3NUSkVRYlZyY1dYWUZrRGMtSDdYVU1YVmtHSGdTbHNCQWprTlhBTFpYU3B6alhGeW12cFRUZWJsdjU4RHcwVGZ3UDBKQmptWjhwU19xU2gzQzNNZ1p2OE1PNVh6bzF1OHcybUxoYUdUNzVVYU8xTTBlMTlCWThrMXVQMGtOd1lGc3dWQ2prdTRFcXMyRm8wUGduVmt3S0o0OW9WcU5fOVdvMlhEd2JxWGpVNW9oZ2RQdXhpTG1R?oc=5",
+   "data": "2026-10-29T00:11:53+00:00"
   },
   {
    "titulo": "Juros de 10 anos sobem a 15,04% e mercado vê Selic mantida",
@@ -65,22 +77,10 @@
    "data": "2026-10-28T23:45:57+00:00"
   },
   {
-   "titulo": "Dólar fecha em leve baixa e bolsa tem queda de 2,68%",
-   "fonte": "Imirante.com",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPVEZLZ0Z6dHJSVGdlMUY1WldjbjRfWkt5NEFBeHZWbzh4ay1GdjV1cmRDbWFlb014Z0Jub2RFN2xnaEF1VHphN0lpY2tCZzdNMXpfeEpIX0xPYnRwTEFVRk16eGZiMHlsd19UV25QT2tlVU9ra3JBdkV2RUVBNHpLTmJlbU9hV2xvUmdRelRFazBpTDcx0gGUAUFVX3lxTE9URktnRnp0clJUZ2UxRjVaV2NuNF9aS3k0QUF4dlZvOHhrLUZ2NXVyZENtYWVvTXhnQm5vZEU3bGdoQXVUemE3SWlja0JnN00xel94SkhfTE9idHBMQVVGTXp4ZmIweWx3X1RXblBPa2VVT2trckF2RXZFRUE0ektOYmVtT2FXbG9SZ1F6VEVrMGlMNzE?oc=5",
-   "data": "2026-10-28T23:42:11+00:00"
-  },
-  {
    "titulo": "Investimentos do Amazonprev nos bancos Master, C6, Daycoval e BTG Pactual entram na mira do MPAM",
    "fonte": "Amazonas1",
    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNM0NjcXdoT3BZLTc2b05uWWVOTHJmSjJlNUhhLW5QbE51UklLRzE0OUhlMHlDeFJHb2tSWDZhazRVZHFvSzBXbmM1T05JQW9QYjdOc1F2WjdtdlBkeXk2cDNTTFZ1dWhFSHkzZVVvTlpoYXI1b0pmY3otRXJUTkozMllCLW9ZRU8wMVZRMG9BS25EbHpERHZUS0V6emhMLWxEMU85UTRpMDU1WGFObUN4REE2LWJsa2QtM3JKcQ?oc=5",
    "data": "2026-10-28T23:41:00+00:00"
-  },
-  {
-   "titulo": "Bolsa cai 2,68% com tensão fiscal e decisão do Fed; dólar recua",
-   "fonte": "UOL Economia",
-   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNR2N6dkRuSnZxYzRkZ3NUSkVRYlZyY1dYWUZrRGMtSDdYVU1YVmtHSGdTbHNCQWprTlhBTFpYU3B6alhGeW12cFRUZWJsdjU4RHcwVGZ3UDBKQmptWjhwU19xU2gzQzNNZ1p2OE1PNVh6bzF1OHcybUxoYUdUNzVVYU8xTTBlMTlCWThrMXVQMGtOd1lGc3dWQ2prdTRFcXMyRm8wUGduVmt3S0o0OW9WcU5fOVdvMlhEd2JxWGpVNW9oZ2RQdXhpTG1R?oc=5",
-   "data": "2026-10-28T23:39:27+00:00"
   },
   {
    "titulo": "Bolsa cai e dólar fecha perto da estabilidade após Fed manter juros",
