@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-10-29T06:55:47+00:00",
+ "atualizado": "2026-10-29T08:02:19+00:00",
  "indicadores": {
   "selic": {
    "valor": 13.75,
@@ -16,6 +16,30 @@
  },
  "cotacoes": {},
  "noticias": [
+  {
+   "titulo": "Ibovespa cai mais uma vez e acumula perda de 16% na semana; dólar recua",
+   "fonte": "brasilagro.com.br",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQaTNPMHE0QkR2VW1kZ29YTi10Mm1WY2I0clFjUGJ3VUVndExkeHF2bUZuNWNlWERLSGNSWGU2NnF6UHBvY0VVLTNlWUUyekhnS2lWS2JkbjYxbGVmNVNYYlR6cUEzTVFrVnJpNzVFMlRSZWpYR2JJdXhib2t6RWRzT3F2SXNtdExnUElCd09Fc1BrbkJlWmtDMHlHU3QyY05kWW81bHA4d0g0eE9fTzRHZHhZZw?oc=5",
+   "data": "2026-10-29T07:36:13+00:00"
+  },
+  {
+   "titulo": "Ibovespa cai por três pregões seguidos e encara novo teste com contas públicas e inflação dos EUA",
+   "fonte": "Estadão",
+   "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNazlHcVUzNmE1dW9mRF91UXNTMzA1aEVoVzJLX2twRE83bFJTOTQyT3lBZ2NWM3hWVEtmM2NpZmNHVG1mbEJqbEFiQVljeDR0NmFWWXN3YW1LdVhuOUJib0xVVEJ3dlpranJtQWl4b0JiSnE3aVkydjRjVUFuZzJWSm5aalZlSWJtZmduWHlJMEpkUHFGS3Vvelg4ZTNTc1E0YTRxMjFTcmhRR0pYYTk4SWo0UDdVdUlwMlJVbGpndHJ6ZkVkRGNLLXNlVGs0MWRhQ1VzWnVWYmtzZ0Faa0J2ZkpEVzduV3VBMFJyU2l3OVhodXl5QlNj?oc=5",
+   "data": "2026-10-29T07:34:08+00:00"
+  },
+  {
+   "titulo": "Fundo global de investimentos pode ampliar recursos para conservação das florestas brasileiras",
+   "fonte": "SOS Mata Atlântica",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNR1BiaXZOcXlJNVJhT3dET1l3RzJUV2E1aTJfaVptbHlqRmtnN2Y2NHgyT202WlVVUFN5M0F6SkpMYXU1SXptMnB3QU5lNzZBQXVZSXNQcV8zSXBzZmpUS29PZ0lYMGw4enJQQTE1bVpiYmJjVERuMm1ZbVB0c2V6QlNtRXJ1M0Z0MEEtX3dQZ2lRWTRpbnhKOWRic0Nwbk4wZFpvYjRUMFNyMXhLajV5ZXhMNTgyOC0zUTZWSlRVZGJnVXpLeG93?oc=5",
+   "data": "2026-10-29T07:10:13+00:00"
+  },
+  {
+   "titulo": "Janela de investimentos, agentes autônomos e Reforma Tributária impulsionam o debate sobre a transformação e…",
+   "fonte": "Gazeta da Semana",
+   "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPNXlFYTlBVTNnY1Nnb2JYNWowdjJVRHZPY0daTFdad0ZvMjFpcDVGNnl4eGJ5cGxFQXlCVHFpMlFKMU9jZnY3dlFmOU40M2FzOHoxQkJyNFFCa094WlBiLXV6dlcwTldzWGY1bFlTaUFDMEs4dHo5M194TkphVmdqZDBaWnVWSXFuei1TeGpfZFlQMGlnLXY2dllvWkNCZGRubHlHY3Q0MzJjbVFDWGxsaE5JaU1zZFRJTGFiOW9ZRTFSNmxHQ1hFODNtenpHdHNsR0FJRG9uLXNqNFVZclR0Vm84T3NZQlNKRjF0SjFXVjRNbERVX1Fyd2pJdkZxVmFFT25vVXpTMzY5QnIyMXBfcQ?oc=5",
+   "data": "2026-10-29T06:30:23+00:00"
+  },
   {
    "titulo": "Petróleo pressiona inflação nos EUA e pode levar Fed a novo ciclo de alta de juros em 2027",
    "fonte": "Feed&Food",
@@ -53,12 +77,6 @@
    "data": "2026-10-29T04:00:00+00:00"
   },
   {
-   "titulo": "Janela de investimentos, agentes autônomos e Reforma Tributária impulsionam o debate sobre a transformação e…",
-   "fonte": "Portal Revista Kdea 360",
-   "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxOb1NUR3kwOWE4MF82SGo0Z0NyTk5SZGJBQ1F5X3g5c3dxY2EzLW94Nl9CcHlUZk5aMDN6amJTLVk1OEk4blhGa0RfcjhrTzRtWVZBZ0ZBZTlCUk1aVmwxTmVJUlFQMVBoVDV6WEZNUHNpaHV3NUhJeXB0ZTg5eWJwdlBqdk1kaGJua1p0bkpBd0luMzZSTUpDdXFZUDVLNU9SOHhnQmN0aktRWVVFOTJUYjZzOUFNVzBLNHY2NDFfazBzWFNNeVlxNi1vdWszdm5nTkk1cXFYWW55NzV3WVJ6SG5UZFcxSWZ4ZjRvbEQ1TC1DRUxCNXFjWHNsaFU3UHhLUEUwTXVRREtYZldxRFM0?oc=5",
-   "data": "2026-10-29T03:34:15+00:00"
-  },
-  {
    "titulo": "‘Todo mundo está ganhando': por que copiar os investimentos de outras pessoas pode sair caro",
    "fonte": "G1",
    "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNNTNZMklHNUJWWWhiSy1vU1R0MGNnSWVpdUdVYUVHeGpjdGRtNk1jdV9lWmlmQlhaRFpvRmFVeXBWLTE5M3ZKMzJ2azJocEs3TmZnRzBYY2M2V1RTOC03aWpFM1I4UGk5aTRNamN6RHR2dC1uX2hKeEM5eXNHY2FndkJRZ01YOFlLSnNERGRoeGs5ZVRNaWhNdVhfUTdfNmdnS3VJcjJEM0QtWFcwVFZYc0xSU3ZhQVNleVM2V2FjRzB1R2Z2WkxFUllFRURzNDFFdGxJUVlqS2lVN1F4WnZn0gHuAUFVX3lxTE1vRzkwRmRBY1VPZFZBcW5uNWNUdkwxWjJKRXdrQXk3OEd5Z1A4THZpWVFTWkQwUG95a3hqRy1Sa3h4dWJzbXcteWNmbVdhUnktMy0zdGtpRFdDbFZCbnNRaVRBeU0wM1lLckNOUk5Zam1iVlBaVS15NUdDTDE3WW1YTWU2ZWR3eURWZFluZXJFUDhIdHEyNVQtRW96eGgyX3R5RF85VTdmclViVHJGdEtmTjdhOWt5a3VfWDkxbEd3Y080R0FVTzlOOXpMVkRXQW80QmV5RVpuNXhiLXBRUnhwUG4tV0V4RlNpMV91WkE?oc=5",
@@ -69,24 +87,6 @@
    "fonte": "GDia",
    "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQTWdQc1Nlc3dJNENQWXFPNzgybE93d0NRVzk0WGlkME96Q1c0bkU5aGV3OU9OXzV3cFlDeFI3THlZQWttLURnS1N5LUEwUWk3R21VUDVMYWhNaG90eENUcmRTejQ4Sm5Hc29ab0xJbl9VWmprU094STRoRHZIUEM2Mkw4eWFRdlREcXNORGZrdEVpY0NvX05vVHJqWE9qSXE1UEJnREx5YUpXNExpaGl6eVl2ckp5R0NLNDRPSmh5b1BIck1uTmlPYzdySGlxT3BMclE?oc=5",
    "data": "2026-10-29T02:55:00+00:00"
-  },
-  {
-   "titulo": "Suframa acompanha debates sobre comércio internacional e investimentos em conferência na Espanha",
-   "fonte": "SIMMMEM",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQODlaOHBsOFNtVU1ybUZ1SG9Na0c3SVhZZ3ZycGt2NUYtcEdLRWQ1eF9RMGFaUVR3MFJBRU51NGxLeW9YTVRRYzBkb2pnY05NWF9kQUluSHdVZjBzTnRYTndNanhzTmZzOF9kWVBoeG9nUFlUOFo1OXgzNVp3Y2VkYWl2UWRUMTE3WElRU2Z3S09wRURTN2JsUXZLcnNhREU0bTJhVXFJZ0ZKZ0QxYVZnRnFSYnUyX1l5TlQ2SjBYbFdnZw?oc=5",
-   "data": "2026-10-29T02:11:38+00:00"
-  },
-  {
-   "titulo": "Codam analisa R$ 1,65 bilhão em investimentos industriais no Amazonas",
-   "fonte": "SIMMMEM",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQSUlXQTBjM2U0OEFRZEtrZUNkTXFlcXFKY0NlZnpjeDYzTE82LU0xbjQ2ZkJwWHliVEYwejlpYV8tc2d4N1pHMjdGWWR3NTZJSFFFbWdJSEtKWlVmY2IyYVhHVlZabGpNOGxuVFNZQmRkOTFmd19NQjk3QjZzSlQxWHhNOU9FZUNKTUpqcklmQ09OdVNmZmpyQmtpTQ?oc=5",
-   "data": "2026-10-29T02:09:34+00:00"
-  },
-  {
-   "titulo": "Bolsa e dólar ficam estáveis",
-   "fonte": "SIMMMEM",
-   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5Cc3RGcFZidXkzRG5ycDlDcHc3WWpuVTM0MENCZTNqdU94ckxqc3JnMzhzdzRsUklNSkRMNjZaVXdTREV6dUpCRVlndW12X3hUQjlHVXFZaUtPTnlBNGFHZkJySElXX2M?oc=5",
-   "data": "2026-10-29T01:53:31+00:00"
   }
  ]
 }
