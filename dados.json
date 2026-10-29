@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-10-29T20:46:07+00:00",
+ "atualizado": "2026-10-29T21:44:21+00:00",
  "indicadores": {
   "selic": {
    "valor": 13.75,
@@ -17,76 +17,76 @@
  "cotacoes": {},
  "noticias": [
   {
-   "titulo": "Ibovespa cai pela 4ª sessão e acumula perda de 17,5% desde a eleição; dólar vai a R$ 5,38",
-   "fonte": "Exame",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOcW43bzNzY1pYaEgzRWswVnFuNnhGSmpMNXg5SGZlMFhJcXR5ejEwakJoSkFpeDNYLUNzT0NPTk40Vy1xSHdvcTVseHU0R0FWVm9WYUljclNSQTFkNVd0R1NEdXRDYk1BWTZZSlhwcFozelpDWjB4dlN3MFotT1Z3Tlh1dm84V01HbkNWT0tUOHQxSzhSWmFQOGhoam9SNlI0WnlFaExjNU1nbnplVC1PRDE1Z3F5QXpzY01r?oc=5",
-   "data": "2026-10-29T20:41:30+00:00"
+   "titulo": "Dólar hoje fecha em alta de 0,89%, com inflação dos EUA no radar",
+   "fonte": "EuQueroInvestir",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPMUJwYkJ3Rzhwd3NjWkJfM1dPenluSXdiU1RLZEpWNWwxMXRoT0FOeDB5eUNCVHlld0pxZzZzQ2FkT2xldHVBWEtfR1pSaFhETHNGd0sxUmU0TzlfcXUxYk5CUExFRUZmSVRKMXl2YWpDb21Wamw3M0RMSC1KYm5VcTNGbTFWWVhqay1ISU9udTlMaG5kOGtMTzBXakc?oc=5",
+   "data": "2026-10-29T21:35:17+00:00"
   },
   {
-   "titulo": "Petróleo a US$ 115 e Fed: a Conta Que Não Vem de Brasília",
-   "fonte": "Forbes Brasil",
-   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE55ZzZEd3FKV3Jmc2FCOTlZME9HaFY4ZzhZMkpNSnlKejItQ0lFcTRKd2lPUnZfa2ZXSEFIcjVzVTc1OFJGWXdncTVCRXlDVmwtTkVfLVJpVHVyeF9FREwybGFxdXVualRBWkNEX3Nuaw?oc=5",
-   "data": "2026-10-29T20:40:03+00:00"
+   "titulo": "Dólar sobe a R$ 5,39 e Ibovespa tem quarta queda consecutiva",
+   "fonte": "UOL Economia",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxON1phNnZsLVlTbXhfRGN3c0JEWmFzbFRpZFlwdnpIQWxJYncwQkFGMHQ4QTlZVGtWZU1pV1FvWUJIakF3YnpOaVl3T1N0RVdKUkgyajNLekQ4NEUzNzI2MEp3Q2pEaTJuQnhiTXdoSEtVQklUNG1CMVk5V19uWDF3Q2FmeWhMMHlRNk54RU5aMGQtM1pRbnBVdnBOa1hiSXdBUUtqbFFfWGk0QnU2cTgyN2JjVHZQQW05c3hxS0MxRjFNbVBZMTRPOVRzQjE?oc=5",
+   "data": "2026-10-29T21:28:19+00:00"
   },
   {
-   "titulo": "Ibovespa cai pela quarta vez seguida com temor fiscal e juros futuros sobem",
-   "fonte": "ADVFN",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQUHZxOXd3MVp4RkdkSEFyb0FYQnhETUEtLXpGUzhlWDNhS2ZNMXFMRWtqR1F5ek9TNEN2WXA3WmhrVS1rQk1LaTdjSEVsMzh4RlNUbGVpUlRHWlRtTDJRMlV6dUcwQ2d3b3pmcFhTeTR0anlscG55TDV2OHIyT1hIVWxfS3hVWV81SmxILXlLalpyMFhPSlZ0VVZYVVNxQ01xelZSM0JQMjhCdVcxcDZ3LQ?oc=5",
-   "data": "2026-10-29T20:33:25+00:00"
-  },
-  {
-   "titulo": "Dólar à vista encerra sessão em alta e real é uma das moedas mais fracas do dia",
-   "fonte": "Valor Econômico",
-   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPUUFIUEgwanIwTzdSa2Y2UG5XcGMtaFRBejFaaktDa2k4LXFXRjRJNGJOOUhPazFVTWt4dEZpOG9jZ0M5QV9pVVp3NnF3LTJveFlCbWZhSUs5bnJEU0xuVGItaXRWTnJCal9QT2R6Zlk4YS1mZ2pmdnZoYnQ2TmRHM0pWNF9VTFdPOXlXdkozQW1sQ3lyNEJ6c2c4Q2EyVTVyM0piMHZBdm11MmRubWlIeHFsT2hJSm1sNjFlVkdlYjItNVZtWWJfSFA5LW5WdktVaVpF0gHiAUFVX3lxTFBNS1lmN1huNzlEOGdoTTAzTUNZOW4waEFPNk90a3VJVEJBbjRoRUVEeHJyaWtaX0Qyc1VuaEdZYnFMQlItUEdpcl9PU2UwcHFtZ09SV1B0MUZzb3NjVXJFNE9lcC1ha2ozWEhkSWRvcXIwRTFralVmcmpCVWl1dmRKLTJjRnc1QVU5MW5BaFd2Y2hSdTBEa2l5ak5XUHA5TFdqd0RvYXN5OUlFTEF2czlaV3NNd3ZBaGRnUTlONVYwQzNrMWw2MXN5amJOR3ZWeldHRkVmZWRiUTNjalBaUWs4UlE?oc=5",
-   "data": "2026-10-29T20:32:34+00:00"
-  },
-  {
-   "titulo": "Minerva despenca mais de 7% e lidera perdas do Ibovespa hoje; veja maiores altas e baixas",
+   "titulo": "Amazon sai de caixa positivo para rombo de US$ 42,4 bilhões com investimentos em IA",
    "fonte": "Estadão",
-   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQQ3JNOWZnYlBGck1NSGRoM1ZDVlVaWGJiSkExdVhJT29fWHRBSVZLOXgwS1BMZUhIOVRYOW00Q0RjRGtsTXpSMXZJMWVxZkFhdlBqb1BCSktvbUNCdlg3MW93bkhsTTl1Zk12WnhDYUVRTWFvRVdtakJvNGtPU1YtZy11dVhLY3dJMWFnWlFuTEhIREpDX3hpaHdmVGNXZy1URUREV3p0RlZ1SW5vVDBla1QyMmJEY3A3eGhjeHNhUnV6bGhaWXVXWVVob1dQLTc5YXo3dnlTQ0xJTW9rWkhRRGJURG1kZGZXWUE?oc=5",
-   "data": "2026-10-29T20:31:57+00:00"
+   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNWWdRNTdEb0p1VUQxT3Y2NTlLQkh0SjdxQ2xTYlZQRm5xU1lhQnM5blMzaGQ3b3BwTC05Wk9jYVVkS0g5ZEVPS1NzVDF6VWpibk00WkZXUGxESm9xaHNhSHplbkhDNlE2Zllxb0pjUHZtQkQxMngtTGRqWlpWQXdiQ0F0SkM5OWpLTGJWRldIQTg3NEFjdkMweUV5N1hkRUh6UlZocVR2b1F4TXh4V1NBV0EtNjBlLUtoYzZtWFVTd1dqNkpSczRWcmJORUJSNm1wczV4a1QzaEFEQ1VZUXltWDBn?oc=5",
+   "data": "2026-10-29T21:23:33+00:00"
   },
   {
-   "titulo": "Ibovespa recua pela 4ª sessão seguida com extensão da liquidação de ativos",
-   "fonte": "Valor Econômico",
-   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQcHhSOHFmUjhvVGFzZ29DUWU1eks1M2s0bFBxSnlaNU55UG9nUl9vZFFpM3ZhMUEyN3hpVEU0OGVwTERoZzVoLW11N0NybjdCUHEwTUozdGhycmU2WndjQjVhMWhHV2FwWjdqczBiZFdmUjRjb1lNTXNVS3RrdzdsLXNUc0lLcF90eVNOdlAxZWg5MVlEQmZNUmlzMVhKSGItY1pQNm1CUTdlLUM1bUxWNXFQOEtORGRIN2pwS2RQNjktV21hdUt2eU1TalbSAdsBQVVfeXFMUGxPZEc2ZFRxUmJyNzRmQ2R2ZGVJSTdJVU4tTjZfck0wNXRrMzdrWTQ3ZEdXTXlOcVBtOFhHbTBpd0dyWW1ndDdIRmRpcFk3c1FxOEl2VHc1aVROU09ZczRXLU9QMVpKeC1zSE9HQlNLUWZUanhyS0pUTHdXRTNKczB0YkRPOV90ZnZoaXFhMjE4ckpDZUhvbERTc0tDQUtqUmtoSENTSlg0N0VYMUR0NDVQcU1qYUpWZWp4UTY0LWNGVUdobjhITlN6dVpZZUJnUXVNR2thQWN1N0l3?oc=5",
-   "data": "2026-10-29T20:28:22+00:00"
+   "titulo": "MME estima R$ 142 bilhões em investimentos em biocombustíveis até 2036",
+   "fonte": "Canal Rural",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQWkJUeWUtZmdDYTBaNW5vWnZyVGdXejJrcWZwZDJvdTFKWXVzLUEtWElSa2VRQWlMUmt6UDFpTkRWb3dmalN6UkJuWmFNaVJYX0ppNUxPSDRJUmFqVl9uRkdCWmxsRXluWnlLMWtsdHB1eWFHVzVTSy12dVFDSW5DVENTSVAxZEpQQ1FQeldRZzNXM3RBczQ0Ym5ZWG1kN0lyTlhFNjBpSlJSS0x1YXc?oc=5",
+   "data": "2026-10-29T21:23:19+00:00"
   },
   {
-   "titulo": "Rio Claro Investimentos acelera a consolidação das casas independentes",
-   "fonte": "GPS Brasília",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOU1pjQklySGRETXd5MXNKUEpvVXV0LXpYWjM2eVNzODVkWGVQMVItTHRYNGgybUgxZ3h4eFdnOWNPSGFKSGJCS2lzc283LWt5RHpQSlYzN083NjdndnFqSmI4d0ZrcEgxSTllek9DWWFwUHJ6TnpGd21rb2szRUV4aFlTWjQzc2Y0NGFQOUNnRFljczVHSDU1WDAta0k?oc=5",
-   "data": "2026-10-29T20:28:21+00:00"
+   "titulo": "Em Brasília Tramandaí viabiliza novos investimentos e busca liberação de recursos",
+   "fonte": "Da Praia News",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOdEc1VmpTZThjLWF2eFNXSUZ2WHZubzUtYUlMaWlic2FqY0RXNHNtaTkzNEpDVk43NnhJeXZCNC1zSXA1OTJfbjZEZVZEbTUtN3psM24xdkpFSlZmMWNqeXRwM1ItcWl4a2VPeGRDZF9VM0xaSWhVR1V3a1RNcTRGcFNhZEUzNXVGRHB4WFJMMkhvN3RkbTV1WWNXMDA4QWNhcEVfcEpncERNZlZLcUJwMy1SWmJXYWhWNjMwOWFn?oc=5",
+   "data": "2026-10-29T21:22:05+00:00"
   },
   {
-   "titulo": "Com investimentos de R$ 590 milhões, terminal de cruzeiros em Santos tem mudança aprovada",
-   "fonte": "Melhores Destinos",
-   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxObV8wZnJtal82OV91aDVhbDhLU2ktZFNBRXZ3SDFYRHVlbHFfY1RkQURHSWZ3SW5TemFMcTJReE95WlBXZnc4VEtNVmt1SnM4dFZtbmx0U2JuZVZtakN1cHNZQmRoODY0eTc0akE0RUNKWElRcWprRWxkc0FVT0dvQ2prY0VfQklPQnc?oc=5",
-   "data": "2026-10-29T20:28:00+00:00"
+   "titulo": "Amazon frustra em lucro, investimentos em infraestrutura de IA crescem e ação cai 6%",
+   "fonte": "InfoMoney",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxONEl4VWdpUVo0V2V4YkFyQjBFWXRpRmtwU1drTHJrblQ4Zkg4R0U3N0pJeXkwaHdiSllBQVpYem1ZWkdDMVNsMDRZUDNoWkpIanEyQ1lMNUlXS29EOXRRY1lxSUhzQUpBSGFXenpNMnFLaUdHcURSZGc0bFhPcUhZZ05pR24yQkoyel92YUJrRG5UWmVMczRVRE5lOTYzVnBqeXk1Q0dHbEEtanpvblF3WFJ3aXhhdWdtRUdiSXF30gHDAUFVX3lxTFBSN2dEQkN1OHFUMVRfXzN3MHhvNGRwM0gya04wV1FIMnhBN3ZyT3hwVGxOQ19YTk9KVldVMlJ2Vi1nNTlWdFdkSTYtU3VtMUZRbjY1SGxUU3IwTENYbnYtX29haFdMTnBmVUduVFpDNGo5OVc3alNsaWNfeVZUNll1SURYNmQwV1hyQlRxeEdQVnFaWmVWTmRfWncxTmNhRXgwRjZ0VHlWeW5zOGJJNi1DVGdSMEJzckdQdFdVZ0hUOG5oOA?oc=5",
+   "data": "2026-10-29T21:19:50+00:00"
   },
   {
-   "titulo": "Ibovespa tem 4ª queda seguida com incerteza fiscal e mau humor externo; dólar sobe e encosta em R$ 5,40",
-   "fonte": "Money Times",
-   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5vRW95YlI0aE9sbWR4SEFDWTZuLUp4ek9WLWRSdldELUdfaHRWTW14X1ptcGxSa3V3dnlTMGU0U1lYTTEzOGpoM0RQa0t5UlVJVVRfZURJUGJWcUNzTm1INUhvTQ?oc=5",
-   "data": "2026-10-29T20:26:00+00:00"
+   "titulo": "Ibovespa tem 4º pregão seguido de baixa, com queda de 17% desde a eleição; em NY, dia também foi tingido de vermelho",
+   "fonte": "Seu Dinheiro",
+   "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNOEhFSVkzMm1TQkpBT2pxenVBclEyMURXbEhEeXFQVWJrQ1RINVFuSTEtUV8tajZ2RVNvLUpXbTZ4SlZlaU9KR2VKTTF5TXdKYjhtYWp3dXNwR3N5ekJPcGh2N21UQ3lRa25KUnU0U251dEI5TjhKZXN0ZGVvemhkbnBZOUhTYTZIQlhObzRSZVZRb2YtVlhlVWFuTi1OejlMbjhYemU4bHRUcVcyNXcyeTNjaVh1S2RpbzBJZ1FGNlJFOVZNWHJKRUd0aWduMmRiaWJxSFFkRjZXUHVfdml6QzlYNldYLURuTEYtQlZhSDdkUHdpSlE?oc=5",
+   "data": "2026-10-29T21:17:57+00:00"
   },
   {
-   "titulo": "Enfoque - Informações Financeiras",
-   "fonte": "Enfoque - Informações Financeiras",
-   "link": "https://news.google.com/rss/articles/CBMi9ANBVV95cUxPYVo3aVBxTU1LTHhrcV8wWjllVDJQaGJFeU10YlNYYi1IaERCdzcwbnI3VlJud1RNUGZUalc5YXRxS1FjY2x3QnBxRWxjdzJSVExTb0xsRUgxeFVzcS01ZU9WLURqQ2RlZklaeWtaUFFpTXhPejFGWHJkcWYwc0hvcUNJRUM2SlFEbHd0UGRvWDZJeTd3WmFlWWpvREFNRFMxbVd2Tm9pa0kyVHd6NmVoTHlVdzM3bTVkNUZ3VDdoR0hPUVZVaWVUR0J6MVBJUFpKYzIxek9Bd3p0b25fUVdBLU1idm40ZkVTc0FxUHZGUThjV25rLVVyQVJjNGdjUmNwOWNVX1lud0tyY0w0bVl5RzZxT2NGVG1BdDZWaWxodGk3ajF4NDhWa3Q0dExMNXdLeUktLTU2UnNPUC1VSl9jOHpDbE1MQ21hUDAzNE1JamdtN2JOMWVBYjJGTVdrc2pnUHJXajZBX1dPU055V3dBdnBsVzNhSGUybmJMUmlZT2taVTEybkRHQnNGS2U2TjkyNnlXajE1YmQ0UUxPSlBtalZ2WkM2VFYyOENMTDdqdU9RMGxsR1pCTmdnOFJMMFpIY1Q3UnZYYWlIb0c2T3JwdXlkYktKOG51cHhCZFlTTWRHTXM1TXU2WFRrQXJpT1FOZ3dnUQ?oc=5",
-   "data": "2026-10-29T20:25:14+00:00"
-  },
-  {
-   "titulo": "Perto do fechamento, Tesouro Direto hoje interrompe negociação dos títulos",
+   "titulo": "Tesouro Direto hoje: taxas voltam a subir após ‘circuit breaker’ e IPCA+ beira 8% ao ano",
    "fonte": "Estadão",
    "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxObXhSVkh0d0dfVGhtaFBKbkw1QVIzd0Z6WGlZWTY4SkFsdGdxZzNJbVJMdE9MQ1d2czdEVk1DTDRTS3R4OXFYYmdYYXY0UDZlenZ0ZVVrLWo2cGlxVFB5a3ZLTHlWVlNKUXh0ME9BODBERnJrSklNYlA0RWgyM2NLSF9qc3EwcFUwcmxGOF8tR19FaG9DeTc1OFU3dThSSXhUNHI2a1NqbldoOTFETF9oTGJwUUZPZUZIeWdiOXJUcV9sWUVtbjgxejl1dEk3Y0JPVXBmRjdCcjYzMW9ON3A2MS1uUdIB6AFBVV95cUxNSmdYdnVwYlFjUldid1ktdmRRNUdLVkRnc2JrcmVJNTRyY3JyV1NNb3RuZjZ2V2xvNm43YmhrSy1aV3V6MFFNWTh6WjlpbTNZQVJfMFMyUXdYRFVhd3FnVkFSYU9hdGFQQ0s1S21OUHhhU0ZnZDYwbjhwYnhSNVp2SkRNbGI2SGlJYW1XVzRBSzNUb1gzWEZqN21JTF92QkhPOU1XR0NmekZ2N25VR3hJSXZfbkp4bHgxSnNyN1F6SGJMVklHTVRHNmF4ckVVcmFqYUtSbFN1WmNUcTRCQWhkdHpfcV93WlhV?oc=5",
-   "data": "2026-10-29T20:25:01+00:00"
+   "data": "2026-10-29T21:17:52+00:00"
   },
   {
-   "titulo": "Minerva despenca quase 7% e lidera perdas do Ibovespa hoje; veja maiores altas e baixas",
-   "fonte": "Estadão",
-   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNWXg3bENhb1N6Q1p5LXdzY0tmRERQTWd1OUNWREh6ZDhjOUZpbFY0OGRobmNhelpFMWlmTkZkV05ZOHlzOVVmVm5rRVpsOV8yQUtGZFNReWRJeTBZS3R6Ul9IZEE2dzBBemlIQ0l3WEhHX21UQzhnNWY2VTlCYlVjY0YzS2UtMGpoajlfc1h0cENmbWFxYjkyZUdBWXFyT1NybXJsSUlqRHl1SWFUZllwdy1UX1oyVVlBZ0pKSkQtZ09GWWhLdmc3Qi1vRFo3bngzT3F0aFo1akNyWWhnMTdZ0gHkAUFVX3lxTE1pekpmWklhUU9BYTZqZ05NaTBwYUFxemYyR1VmWWpmVWtHX1hfRGZRZTBjcG0xbDhURmh0RzJTYlg3UF9NakpnWXdKOUJCQnJ3NHVuY19RQjRMMWt5OE5QWTBsSEhMSVU1VjhEZ045VlRrOXBjdHhJXzFFcXh3OWdORWhVTGlMbGREQUxqVkpEMF9qX0ZpM2xBeUFQTGotSzhoUjJkTTVnT1V2cjRhcWFILVNWNXdXTnVJWm5JUTdxd05SRWNCb3U1TWZLVW5KS1dkY29iSHNBMm5McVlNWVJhQlRnMA?oc=5",
-   "data": "2026-10-29T20:23:00+00:00"
+   "titulo": "MME estima que biocombustíveis terão investimentos de R$ 142 bilhões até 2036",
+   "fonte": "UOL Economia",
+   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNZU5OcXUxS1NjdlVFcC1SNGNKQnpNTk9zNE5zMmxCclkxc2FvbjBITE5XaGxOX18xckZZOWlIbGRlV1NDTVg4N2NyQy1QY0tEaVZid2pJNEZKVmVpZ1VJMlFIdXRHTjJKOGt3eDMzT091cmVweVotRDZhNWxTWEcxNG1YOFVPb0QzenlvOG0xVUc4VGVfellpNHRHY0tOYTFtcVVRejNaZmwyYkRYV3BjcGxOeVpvTjNNeXNhMlVFZ2tyQUdlWDZSMWJnMElWRUZtSWd5Ni1VSVByWThzUXc?oc=5",
+   "data": "2026-10-29T21:16:00+00:00"
+  },
+  {
+   "titulo": "Do ajuste fiscal ao agro: o que pensa Rafael Fonteles, cotado para assumir a Fazenda",
+   "fonte": "InfoMoney",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOMHlkZV9PRkRHRm1ReXVmRW5HRU8yNEVoWXAtTjRWNlVZNnFtcjV0V0VYUWZzT1p3OTY1RDFOSXprWHhwcHNfSTlYa1Bhak5BWVY0bWJvUExQMFItVWRWUXA0b0g2Y3ByMkdQRjZoVkxtVFVvM3ZSNzhxOFYzMm9WWWFTdkVBM2ZueWEteWdpLVpkRjRhc1B3ejFKSGUwRzdKVEF5QXVNZmV5aDdVeC11c3lXZHNzSlRibVJ0b21B0gHDAUFVX3lxTE1WWWpqN3FvMU9GSVBtaWRMand4V2dPRXFEYzRIQkxrZDU3YnQxSVpSY1VtZXlHdnltbmF3ZnN4dmtwRkRsa3dOM25tS0s0NmROYkRmRjFZdmNabmxrWk5CUXd6cGJnelFHWTFKR2p5YmppWF9SZDBxM3Z5LXVha0U0QmhiazkzV0d6RG5xMlIyekd6Y1hlMDM2V09nOGEyMlNPSmtKczNieV94VzNIZk12Mm5tSTJvYkdrdzktYUFUV0kwbw?oc=5",
+   "data": "2026-10-29T21:15:31+00:00"
+  },
+  {
+   "titulo": "Ibovespa Fecha Abaixo de 170 Mi Pontos com Bradesco entre Pressão",
+   "fonte": "Forbes Brasil",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQQ3NwX0QxaFZuQXd5eWQzRlBBWmFNWk85NnpjeE1jN2xCbmZqTjhNY3VDSWU2MFpXeG90QWlMbVhheGNmdnItdVNUU2NOZWJ0VkhwVFZZU2xsN0FJM3ZlTGVBbXgxLVhPSU5seWNlbE0yUHducEduSVBkdjVHaDgySkN3V1cxS0pncnRHdFJjTmhzVThYV1ZxcWJOYmlocVEzN3JNampDcGlXMWpmV2c?oc=5",
+   "data": "2026-10-29T21:15:10+00:00"
+  },
+  {
+   "titulo": "Queda da Bolsa pode favorecer investimentos de longo prazo, avalia Planejar",
+   "fonte": "Jornal do Comércio",
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQNDQtNm0wSmRhNGMzbVU3TFdrdnFBdWxyOGZENUp1QXc2U2lua1V3UVFBUmxXREVjVkRXSHhmY205TkU1VFpvbFkwMnU1a1Viazc1YjF1eHhFSU90YWFFVnljMzRwQUtpRndhYWUzZGE2b2RuOHJ1MV9MWmh0akNTUjRVcV8zYXpIUEs1azRNOGFvNFFPc2xzMnFua3BkY0ZuVjJEQ3d5SmtYMXFYcmJZX2N2cVdnYUpWaGpZZ3RzTlpYd0ZHRlZOaDAwWk5wZnc2MDI0?oc=5",
+   "data": "2026-10-29T21:13:47+00:00"
   }
  ]
 }
