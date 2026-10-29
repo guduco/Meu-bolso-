@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-10-29T05:46:31+00:00",
+ "atualizado": "2026-10-29T06:55:47+00:00",
  "indicadores": {
   "selic": {
    "valor": 13.75,
@@ -16,6 +16,12 @@
  },
  "cotacoes": {},
  "noticias": [
+  {
+   "titulo": "Petróleo pressiona inflação nos EUA e pode levar Fed a novo ciclo de alta de juros em 2027",
+   "fonte": "Feed&Food",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNdzlTc3RiUFp0ZFJBZkJENlo4YnpRaUdNczlIUkNzbm9FblNzS1lqS1JBTXJTeVNHdDZsRUxEYUZBWXNwR0l2bmNFWF9tMzUyUEtLOTN4ZlZwTWJNYTE5RTNSZVVkQTB5WmQ1X0s1ejUtU3hpRWI5d2VZOGdfek9DNGlRQTBuVjU0YmlzRkhLZmdXNkd0QlMxeVNtWVhKbUFXUWlYelRLRkFXRDNhSW9sZEJfY1Fsdw?oc=5",
+   "data": "2026-10-29T06:03:00+00:00"
+  },
   {
    "titulo": "Alta do dólar pressiona açúcar em NY, aponta consultoria",
    "fonte": "Agrolink",
@@ -81,12 +87,6 @@
    "fonte": "SIMMMEM",
    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5Cc3RGcFZidXkzRG5ycDlDcHc3WWpuVTM0MENCZTNqdU94ckxqc3JnMzhzdzRsUklNSkRMNjZaVXdTREV6dUpCRVlndW12X3hUQjlHVXFZaUtPTnlBNGFHZkJySElXX2M?oc=5",
    "data": "2026-10-29T01:53:31+00:00"
-  },
-  {
-   "titulo": "Ouro recua após Fed manter juros; dados de inflação PCE em foco",
-   "fonte": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQUEFydlNaazZmV29iNTlmcGJ2dU1PaE5CTGJaZ0MxOUdlVmF6U1VydmdXb3Q5OGF0bEZ4cUpub2pnYmlubms1VVpyZUNEc05jRDluXzVZT2dRSXJ0NWw2Y1NDaVc4SHZpLUlRTkowNmRJOTdiY0RFVzNPcjlhU2ZQUTB1aDBFbnhnc1NUcW5wSVg5bkVqZEk4UGV4UFFFbzFZN0lRdFpoR3dmVjVHbVNmU2Y4WmUwSzJK?oc=5",
-   "data": "2026-10-29T01:21:00+00:00"
   }
  ]
 }
