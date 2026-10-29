@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-10-29T21:44:21+00:00",
+ "atualizado": "2026-10-29T22:44:21+00:00",
  "indicadores": {
   "selic": {
    "valor": 13.75,
@@ -17,6 +17,48 @@
  "cotacoes": {},
  "noticias": [
   {
+   "titulo": "Dólar sobe 0,76% e fecha a R$ 5,39 em dia de cautela",
+   "fonte": "Agência Brasil",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPR1dLVktoUEpNb280U0RESGFmUjVtNXZ0RkF6c2FaNU5NYUE4dEpFWkRaZkduamtXRFVhNlpaM1laRWJFeDdZc0NKNk9LRVVSQXhRczM4SmhoQTFVVHp6aHdlc1RjdVhpOU9QVkhPY2xfSWE4ZjIxbWRYVUVBTmJyS2hLcEl5Z2dZN2tuczNKWlVNNGtGeFdqQnZtSHpNNDA2WTlGczh1SQ?oc=5",
+   "data": "2026-10-29T22:39:00+00:00"
+  },
+  {
+   "titulo": "FMI recomenda que Argentina fortaleça criação de empregos e atraia mais investimentos",
+   "fonte": "Folha de S.Paulo",
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPaXlyRWwyU09RMHRSeVJJUGplZlNqbkF4RjlMems4Ym84VWRPbVU5d082TkdKcEJZN0lXZTdrSEJvWHlXSW14a0g2Z1dhcGtjNTRJT0FVRUZTeDNXUWhqZThwbE00azFXc3BvMVk0VnZpV0QtTk9KQ0xlcXY3S2ZvbUk5THViaHpnMFBKcmd4eExIY0VLdkdyWjdHbmJtcXFSTzM5YldyVDFjMkI1emVRd3NCUmRwUGJaZzBmTHkxZ3ZYRjVrUGlGWGVjeUFZQ1JaQ1dn?oc=5",
+   "data": "2026-10-29T22:30:00+00:00"
+  },
+  {
+   "titulo": "Dólar fecha em alta de 0,76% cotado a R$ 5,37",
+   "fonte": "Brasil 61",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQOHVLb1JiaklFNEFLQmZleGNDTFZIUG1tay00d0pNY2dTVGJJMjY1eThhOWN3TWFUaWZwYzRvQ0lfSmpicnNncm04NlZDbndpX3VpZzZBUVh3YzBFZHU0UW5SS2xWbzJRYnJDVHVyT0hnNG50MHNtbU1MNURFbFZPb0xjay3SAYoBQVVfeXFMTWZ3Ykt5cndCalFuVnVyYWR5Z2NzVkVoQVczaGt2QUFFb0g4TmQ5bEN5S0Y0NGtHY2trSS1rQ0tuUUtPSzZYcTlIZGk3Y2N6U3AyOU9HZ2xXbWFRSV9zMU0tbmJ1VDh1U3JxX2xQNEsxdDlROWZYWTFlX0F6TzVEV3YwS2c1UTloa3Nn?oc=5",
+   "data": "2026-10-29T22:30:00+00:00"
+  },
+  {
+   "titulo": "A Selic não vai mais cair? Pausa nos cortes dos juros já lidera apostas para o próximo Copom e muda cenário da renda fixa",
+   "fonte": "Seu Dinheiro",
+   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNZ3RuTk94VWFEUmFTRlUzMmlfSmVVLVhiSHVOVkdYMEQyc1k4Q3d4dW8zZzRxNWVVbTNMc0FXUkVPVTdoVHgzeENXMkVfV09SWkxfYTFvY3pvNGlxQkx5M2RYZmFNZHNpUUtsYWRZVXdSaFFkM1JZbUtQUG0wZFhQVGRIRS1ZbFcyY2NiMHVyNGVwZWhlUDN4ZU11LW83M2hSNmxueGxHT21lM2NacUFYY0JYV0FYcHN6Q0tBMkh4Q0tfOER2cl90SGFBZ0xocFFxVWFvUEtSbGNoRjg5?oc=5",
+   "data": "2026-10-29T22:01:00+00:00"
+  },
+  {
+   "titulo": "Ibovespa fecha em queda pela quarta vez consecutiva e dólar é cotado a R$ 5,387",
+   "fonte": "Portal VV8",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNS3ZkT3h5ZVVLZEplYm9lWHdIVkU1ck9LTXJtRGtfYmlqZHgzcmh3bEp6R0plcHdGME9CZEo4d19GVGpfSXZ5NEFyV3dNd0NZWWd6MzVjbWNENWRFMTNQUHlCc05TbnlaTGdTamNEQkstR1kyNjgwUlpmRV90UnlnMmR0ektUTXpQV21FSUE4NnRUZEtHNVpWSjBhX3pVTkhRLWJlaVlITmR6dHJLYjVIclFFdUpfWVdY?oc=5",
+   "data": "2026-10-29T21:44:48+00:00"
+  },
+  {
+   "titulo": "Dólar volta a subir e vai a R$ 5,38 em meio a dúvidas sobre ajuste fiscal",
+   "fonte": "Correio do Povo",
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQb2MyYzNITmFhVXZ6Z2JkYXY4WmNMaXBsSkxyR2pYS01US29HcUlBQUo1czRCd2FkbG50cnh1eEIzVkloVFFWek16UVlwN2VvMl9KWmlIQm5OV3hFMFAtRnBYZVppV1Bnbk9lbG1WalRUVmc1NUJWb1ZTU2QwRDlfVVQ0bV9rUGJ4Q0RfeHlDallZNVFnVGRNalJveGJ1NWhraDdwUVlud0wxa081Rzhrc0tXTHBuX0RoSi1WeGpWUEVvUnN5THJrbzhXM0Fhc3FkQWFv?oc=5",
+   "data": "2026-10-29T21:43:57+00:00"
+  },
+  {
+   "titulo": "Ibovespa cai pela 4ª vez seguida, e dólar fecha a R$ 5,38 nesta 5ª (29/10)",
+   "fonte": "Metrópoles",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQMTFnZWlHeVF4YWhOTlNfNk5Jb1RSbHBMNXJKZFc1SGZISDZFb0R4LVJKMUxQTmZQR2tJcGxoRXZJVUhDYVEyeWJPeHVCR2pyaTlCSEt5NHhaTVAxZ1dQS3BPaVc0SU5mdFdkeHlHMHRJc2hKOFlvb25rR0ItcGk4NVRYWDRLaTJWd2V6UFlqWFhEdw?oc=5",
+   "data": "2026-10-29T21:41:00+00:00"
+  },
+  {
    "titulo": "Dólar hoje fecha em alta de 0,89%, com inflação dos EUA no radar",
    "fonte": "EuQueroInvestir",
    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPMUJwYkJ3Rzhwd3NjWkJfM1dPenluSXdiU1RLZEpWNWwxMXRoT0FOeDB5eUNCVHlld0pxZzZzQ2FkT2xldHVBWEtfR1pSaFhETHNGd0sxUmU0TzlfcXUxYk5CUExFRUZmSVRKMXl2YWpDb21Wamw3M0RMSC1KYm5VcTNGbTFWWVhqay1ISU9udTlMaG5kOGtMTzBXakc?oc=5",
@@ -29,6 +71,12 @@
    "data": "2026-10-29T21:28:19+00:00"
   },
   {
+   "titulo": "Preços de soja sobem no Brasil com alta do dólar, apesar de perdas em Chicago",
+   "fonte": "Canal Rural",
+   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNSGZOLVNTRFZNZXNJcmZ0c0ltZFVuVC0yTzQyMWJIOFRFX1ZJWUNkUndHRXRBaVkzeHpoTmNkb1NuZS1mV0ZHY3dmR0hkNERIc0lZNVZ3M0JuZTJvYXRsWGI4RS04WUpKS2h0NmJSd09jdmIwbVlkR3ZzM2FvYmIwRmgxamEwRURsNlVzVVZZRzR5cVdHakwzdk90cmZSVDMteHhpel9lOHRrTTJ5N0JvSmcxTHNpV0gtMUllUExaNHl2cGxNWEtuNTAwemJuX3g5eXc4bGpn?oc=5",
+   "data": "2026-10-29T21:26:03+00:00"
+  },
+  {
    "titulo": "Amazon sai de caixa positivo para rombo de US$ 42,4 bilhões com investimentos em IA",
    "fonte": "Estadão",
    "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNWWdRNTdEb0p1VUQxT3Y2NTlLQkh0SjdxQ2xTYlZQRm5xU1lhQnM5blMzaGQ3b3BwTC05Wk9jYVVkS0g5ZEVPS1NzVDF6VWpibk00WkZXUGxESm9xaHNhSHplbkhDNlE2Zllxb0pjUHZtQkQxMngtTGRqWlpWQXdiQ0F0SkM5OWpLTGJWRldIQTg3NEFjdkMweUV5N1hkRUh6UlZocVR2b1F4TXh4V1NBV0EtNjBlLUtoYzZtWFVTd1dqNkpSczRWcmJORUJSNm1wczV4a1QzaEFEQ1VZUXltWDBn?oc=5",
@@ -39,54 +87,6 @@
    "fonte": "Canal Rural",
    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQWkJUeWUtZmdDYTBaNW5vWnZyVGdXejJrcWZwZDJvdTFKWXVzLUEtWElSa2VRQWlMUmt6UDFpTkRWb3dmalN6UkJuWmFNaVJYX0ppNUxPSDRJUmFqVl9uRkdCWmxsRXluWnlLMWtsdHB1eWFHVzVTSy12dVFDSW5DVENTSVAxZEpQQ1FQeldRZzNXM3RBczQ0Ym5ZWG1kN0lyTlhFNjBpSlJSS0x1YXc?oc=5",
    "data": "2026-10-29T21:23:19+00:00"
-  },
-  {
-   "titulo": "Em Brasília Tramandaí viabiliza novos investimentos e busca liberação de recursos",
-   "fonte": "Da Praia News",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOdEc1VmpTZThjLWF2eFNXSUZ2WHZubzUtYUlMaWlic2FqY0RXNHNtaTkzNEpDVk43NnhJeXZCNC1zSXA1OTJfbjZEZVZEbTUtN3psM24xdkpFSlZmMWNqeXRwM1ItcWl4a2VPeGRDZF9VM0xaSWhVR1V3a1RNcTRGcFNhZEUzNXVGRHB4WFJMMkhvN3RkbTV1WWNXMDA4QWNhcEVfcEpncERNZlZLcUJwMy1SWmJXYWhWNjMwOWFn?oc=5",
-   "data": "2026-10-29T21:22:05+00:00"
-  },
-  {
-   "titulo": "Amazon frustra em lucro, investimentos em infraestrutura de IA crescem e ação cai 6%",
-   "fonte": "InfoMoney",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxONEl4VWdpUVo0V2V4YkFyQjBFWXRpRmtwU1drTHJrblQ4Zkg4R0U3N0pJeXkwaHdiSllBQVpYem1ZWkdDMVNsMDRZUDNoWkpIanEyQ1lMNUlXS29EOXRRY1lxSUhzQUpBSGFXenpNMnFLaUdHcURSZGc0bFhPcUhZZ05pR24yQkoyel92YUJrRG5UWmVMczRVRE5lOTYzVnBqeXk1Q0dHbEEtanpvblF3WFJ3aXhhdWdtRUdiSXF30gHDAUFVX3lxTFBSN2dEQkN1OHFUMVRfXzN3MHhvNGRwM0gya04wV1FIMnhBN3ZyT3hwVGxOQ19YTk9KVldVMlJ2Vi1nNTlWdFdkSTYtU3VtMUZRbjY1SGxUU3IwTENYbnYtX29haFdMTnBmVUduVFpDNGo5OVc3alNsaWNfeVZUNll1SURYNmQwV1hyQlRxeEdQVnFaWmVWTmRfWncxTmNhRXgwRjZ0VHlWeW5zOGJJNi1DVGdSMEJzckdQdFdVZ0hUOG5oOA?oc=5",
-   "data": "2026-10-29T21:19:50+00:00"
-  },
-  {
-   "titulo": "Ibovespa tem 4º pregão seguido de baixa, com queda de 17% desde a eleição; em NY, dia também foi tingido de vermelho",
-   "fonte": "Seu Dinheiro",
-   "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNOEhFSVkzMm1TQkpBT2pxenVBclEyMURXbEhEeXFQVWJrQ1RINVFuSTEtUV8tajZ2RVNvLUpXbTZ4SlZlaU9KR2VKTTF5TXdKYjhtYWp3dXNwR3N5ekJPcGh2N21UQ3lRa25KUnU0U251dEI5TjhKZXN0ZGVvemhkbnBZOUhTYTZIQlhObzRSZVZRb2YtVlhlVWFuTi1OejlMbjhYemU4bHRUcVcyNXcyeTNjaVh1S2RpbzBJZ1FGNlJFOVZNWHJKRUd0aWduMmRiaWJxSFFkRjZXUHVfdml6QzlYNldYLURuTEYtQlZhSDdkUHdpSlE?oc=5",
-   "data": "2026-10-29T21:17:57+00:00"
-  },
-  {
-   "titulo": "Tesouro Direto hoje: taxas voltam a subir após ‘circuit breaker’ e IPCA+ beira 8% ao ano",
-   "fonte": "Estadão",
-   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxObXhSVkh0d0dfVGhtaFBKbkw1QVIzd0Z6WGlZWTY4SkFsdGdxZzNJbVJMdE9MQ1d2czdEVk1DTDRTS3R4OXFYYmdYYXY0UDZlenZ0ZVVrLWo2cGlxVFB5a3ZLTHlWVlNKUXh0ME9BODBERnJrSklNYlA0RWgyM2NLSF9qc3EwcFUwcmxGOF8tR19FaG9DeTc1OFU3dThSSXhUNHI2a1NqbldoOTFETF9oTGJwUUZPZUZIeWdiOXJUcV9sWUVtbjgxejl1dEk3Y0JPVXBmRjdCcjYzMW9ON3A2MS1uUdIB6AFBVV95cUxNSmdYdnVwYlFjUldid1ktdmRRNUdLVkRnc2JrcmVJNTRyY3JyV1NNb3RuZjZ2V2xvNm43YmhrSy1aV3V6MFFNWTh6WjlpbTNZQVJfMFMyUXdYRFVhd3FnVkFSYU9hdGFQQ0s1S21OUHhhU0ZnZDYwbjhwYnhSNVp2SkRNbGI2SGlJYW1XVzRBSzNUb1gzWEZqN21JTF92QkhPOU1XR0NmekZ2N25VR3hJSXZfbkp4bHgxSnNyN1F6SGJMVklHTVRHNmF4ckVVcmFqYUtSbFN1WmNUcTRCQWhkdHpfcV93WlhV?oc=5",
-   "data": "2026-10-29T21:17:52+00:00"
-  },
-  {
-   "titulo": "MME estima que biocombustíveis terão investimentos de R$ 142 bilhões até 2036",
-   "fonte": "UOL Economia",
-   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNZU5OcXUxS1NjdlVFcC1SNGNKQnpNTk9zNE5zMmxCclkxc2FvbjBITE5XaGxOX18xckZZOWlIbGRlV1NDTVg4N2NyQy1QY0tEaVZid2pJNEZKVmVpZ1VJMlFIdXRHTjJKOGt3eDMzT091cmVweVotRDZhNWxTWEcxNG1YOFVPb0QzenlvOG0xVUc4VGVfellpNHRHY0tOYTFtcVVRejNaZmwyYkRYV3BjcGxOeVpvTjNNeXNhMlVFZ2tyQUdlWDZSMWJnMElWRUZtSWd5Ni1VSVByWThzUXc?oc=5",
-   "data": "2026-10-29T21:16:00+00:00"
-  },
-  {
-   "titulo": "Do ajuste fiscal ao agro: o que pensa Rafael Fonteles, cotado para assumir a Fazenda",
-   "fonte": "InfoMoney",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOMHlkZV9PRkRHRm1ReXVmRW5HRU8yNEVoWXAtTjRWNlVZNnFtcjV0V0VYUWZzT1p3OTY1RDFOSXprWHhwcHNfSTlYa1Bhak5BWVY0bWJvUExQMFItVWRWUXA0b0g2Y3ByMkdQRjZoVkxtVFVvM3ZSNzhxOFYzMm9WWWFTdkVBM2ZueWEteWdpLVpkRjRhc1B3ejFKSGUwRzdKVEF5QXVNZmV5aDdVeC11c3lXZHNzSlRibVJ0b21B0gHDAUFVX3lxTE1WWWpqN3FvMU9GSVBtaWRMand4V2dPRXFEYzRIQkxrZDU3YnQxSVpSY1VtZXlHdnltbmF3ZnN4dmtwRkRsa3dOM25tS0s0NmROYkRmRjFZdmNabmxrWk5CUXd6cGJnelFHWTFKR2p5YmppWF9SZDBxM3Z5LXVha0U0QmhiazkzV0d6RG5xMlIyekd6Y1hlMDM2V09nOGEyMlNPSmtKczNieV94VzNIZk12Mm5tSTJvYkdrdzktYUFUV0kwbw?oc=5",
-   "data": "2026-10-29T21:15:31+00:00"
-  },
-  {
-   "titulo": "Ibovespa Fecha Abaixo de 170 Mi Pontos com Bradesco entre Pressão",
-   "fonte": "Forbes Brasil",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQQ3NwX0QxaFZuQXd5eWQzRlBBWmFNWk85NnpjeE1jN2xCbmZqTjhNY3VDSWU2MFpXeG90QWlMbVhheGNmdnItdVNUU2NOZWJ0VkhwVFZZU2xsN0FJM3ZlTGVBbXgxLVhPSU5seWNlbE0yUHducEduSVBkdjVHaDgySkN3V1cxS0pncnRHdFJjTmhzVThYV1ZxcWJOYmlocVEzN3JNampDcGlXMWpmV2c?oc=5",
-   "data": "2026-10-29T21:15:10+00:00"
-  },
-  {
-   "titulo": "Queda da Bolsa pode favorecer investimentos de longo prazo, avalia Planejar",
-   "fonte": "Jornal do Comércio",
-   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQNDQtNm0wSmRhNGMzbVU3TFdrdnFBdWxyOGZENUp1QXc2U2lua1V3UVFBUmxXREVjVkRXSHhmY205TkU1VFpvbFkwMnU1a1Viazc1YjF1eHhFSU90YWFFVnljMzRwQUtpRndhYWUzZGE2b2RuOHJ1MV9MWmh0akNTUjRVcV8zYXpIUEs1azRNOGFvNFFPc2xzMnFua3BkY0ZuVjJEQ3d5SmtYMXFYcmJZX2N2cVdnYUpWaGpZZ3RzTlpYd0ZHRlZOaDAwWk5wZnc2MDI0?oc=5",
-   "data": "2026-10-29T21:13:47+00:00"
   }
  ]
 }
