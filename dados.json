@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-10-30T17:44:23+00:00",
+ "atualizado": "2026-10-30T18:48:26+00:00",
  "indicadores": {
   "selic": {
    "valor": 13.75,
@@ -17,10 +17,40 @@
  "cotacoes": {},
  "noticias": [
   {
-   "titulo": "Trade Load do Inter agora tem Mini Índice e Mini Dólar",
-   "fonte": "Banco Inter",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQX0hkLWFKdDVra2N2R3NTVDhFS2lhMC1SVVo1MmpGT1ZHTTA2ZDRjNGZkdnBsZC1pc1ZreHB3ZkRrLWtCQko2UGpTaXNDaUhaQTZmMlJJN3hteWJUbmZBUlFkeEJZdS1WWXNuRmI4SGJ3dUV2RERRX09lUEVhWVVmRV9TeFF0eWl0OENuX3JiLUdFb2l3X0oybFhTemM3WHdnMzh6cEhxdml6c1U?oc=5",
-   "data": "2026-10-30T17:43:01+00:00"
+   "titulo": "Magalu (MGLU3) sobe contra juros e Ibovespa; repique ainda enfrenta lucro fraco",
+   "fonte": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNU1Q0YjJ0ZDk0V0NZaXNoRDNlLVA3MkdTaHlic3VqOENYdzZGSnkzbjY0eTduUmtOdFduMWw1a3RSTnd1NXNZWEJsdkpTeEVyQmhqaExJQmprZnBCc1BuNDNfSGU0QkF2SzBhVUg5dGRxb196bzBCMnRXT3dKTENHdkd0OFI5NFhSemlkR3FHbXhfTVNMcW1DdndJNENjWFhDX0laMmdBc2xrVlRLRkRzOUxYRU1aYTZGUjhkM3FwTllYQUdSTVRDSlBPTzY?oc=5",
+   "data": "2026-10-30T18:33:00+00:00"
+  },
+  {
+   "titulo": "Conselho do FGTS mantém orçamento de R$ 144,5 bilhões para investimentos em habitação em 2027",
+   "fonte": "O TEMPO",
+   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOLW5fM0ZmbklSblZqckRSWTEtanBURUVYaHR6YXJiZ2V0aVlYTUtCR2o4UE96T2IyeUNMVGJfOVN4LTdrc1dDNUxmRnNXTi1DVmxKMU5DMDhqSTRTR203dFRqdmo1NTB1Y2ZKZXVOdTVFY0ZnY1hZUHRGYmdpN1dYbGl2TlZRYzd6djdtdklEbWp4VDdLMlA1a3pmdXQ0MVE0a0ZSZ21TZjRYemswZXdlSHljQ1NucDNrS1NWNG4tSzEzMFA2M1ByU0l4dkFmUFZ6eG9hOA?oc=5",
+   "data": "2026-10-30T18:21:16+00:00"
+  },
+  {
+   "titulo": "Mercado de assessoria de investimentos ganha 2.635 profissionais em 2026 no Brasil",
+   "fonte": "BPMoney",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOeFNtNV9URmZpQ1FIWmoyZFBtaDhmN2FZRzl3c0hEenB4aGpiZm9tWjZTRzlVblVpNDNMSEtBVWdEVUp4c2NCWk12Rlh5akFmNW8wcHV2bk52V2s1cndzZmphQVBZNTlaMEJDVTF0VWJZQlBNYzEyQTNhVlB4V0FsWlFPejJudw?oc=5",
+   "data": "2026-10-30T18:09:19+00:00"
+  },
+  {
+   "titulo": "ANCORD apoia terceira edição do ANBIMA Global Insights focada em investimentos internacionais e inovação",
+   "fonte": "Brasil Inovador",
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNTG1hN3N1YTJ4cW9rdmZOY0RRMUlpdl9wTjFVZV95SWh2c0p6THphS2lueFNkQTJMaWVkZ3BPSWhhQkx0WjA5VGJnS3VaRUtKNmJJU2ljakJJYzJ1d2tUNk5SWDdCZ1VlVVRhWXZRVWFzb2tyZS0xUnoyRkhVTGNsNVVSdXp2RlRvQ0FhZDlJTzFLRFQ3cXE0cWF2MXdUUGhjLTk2WHVNR2lOS3BrRzZWeXAwQllrR1FObG01WW9VSml5WXRnRGV4NERnemxxaU5u?oc=5",
+   "data": "2026-10-30T17:55:05+00:00"
+  },
+  {
+   "titulo": "Desemprego de 5,2% pode manter Selic elevada em 2027, dizem especialistas",
+   "fonte": "BPMoney",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOdlVpMDNTLTRXTFh2QW1kQk9IbFhuanZieHJtN2RoWlBpSlA1T2pULWtHbVZHSklzTU84ZmRuSmwyV2s1M29Hd280SVJ4akhNQUEtdkR3TGtNTHJNaHpqSHF0cmhNSXZDenNHMENLR3NCaFZ6UUVLdXhZd3BlN3h0NW9UZzd1TS1fZF9iU2dONTVTR0puWXpLcUxmc19IMHNxQVgtN3V3?oc=5",
+   "data": "2026-10-30T17:45:50+00:00"
+  },
+  {
+   "titulo": "Leilões de transmissão em 2027 devem contratar R$ 50 bi em investimentos",
+   "fonte": "MegaWhat",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOWnY3WTdOUzNtMGhwNEMtWm5xVzExejQ5Y3loa2JXMzY3UWc3Z2JubVZOR19yVlJSYVMxZkRBVUpueUx3Nno1eWVLSGs3aVkwR0lEdjFzNHlPUlNmT0VBZ1B5NWR3MDRmQ0lfblVHSEJ4ckgwaUtxVHozSDFTaTFSbk5BTUNnWmdfOFJHQzJLVTEtVXJFTEp2UVIyOXNKN3FieE4zakRzNUh0SWkwLTlFVUpjbw?oc=5",
+   "data": "2026-10-30T17:43:27+00:00"
   },
   {
    "titulo": "AZEV3 sobe 19,4% com Ibovespa em queda na B3 hoje",
@@ -41,52 +71,22 @@
    "data": "2026-10-30T17:31:43+00:00"
   },
   {
+   "titulo": "Fórum de Infraestrutura, Logística e PPP reúne lideranças empresariais em Curitiba para debater investimentos estruturantes",
+   "fonte": "Brasil Inovador",
+   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQMy1Pc1ppQTF5NG9PZm8yYjJEbmEwWlQ3MktQbHNxaFJXVFNGZGplSlBsSVJCWE84UmIybGZqRWZfai14OEhRak5sdHE5MVpTU2lsSjBNbC1pX2t1YUc0QzczZFpoaU9XR25wcjRhNl9iem1TWXA4TzFUcUJhd2t3Z3AyQ01fRHNJWlhINnhSTU9nMGEtc216aVh0bUFpc0NtOF9CUE1HOHNqZ3lfbWtOeFAxQm1HcHJKRWQ1SFZBVElxY1dTWkF4NjZWMUR4NFlGTzI5UzdGSWx2ZVRVM0JGcjlPVUhuZVcy?oc=5",
+   "data": "2026-10-30T17:31:37+00:00"
+  },
+  {
    "titulo": "Agtechs Recebem R$ 94,7 Milhões em Investimentos no 1º Semestre de 2026. Veja os Destaques do AgroRound",
    "fonte": "Forbes Brasil",
    "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNbHZMelF3VjNkUUFQTmY4OHdsay15cUdjaWJVdzYyVFZ3dEVSTFQ1a1hvU216azFCaFV4RlpfSkt1endsSjFScWJOWUphYUY5aEZKVmJwQ2dveDRjNkFRLXphVUtDRWFmRHV1LUhydlBmd0MwRHMyUGpabnJ3ejNKcUNXeEZteVdBMmpodHV2UFZFTmtjNkpXMjJJT1lBTkx5clltNVNpNUh1TWhrWnVLRlNuSjAzRGx2TVR1bFJjZHdCZUktUGhpTmR2cGR0STZHWnFaVUh2WnV2aWM?oc=5",
    "data": "2026-10-30T17:29:17+00:00"
   },
   {
-   "titulo": "Irani diz que cenário macroeconômico e taxa de juros influenciarão ritmo de investimentos",
-   "fonte": "Valor Econômico",
-   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQZko0dDMyZldfVmJHaXBhcU5wNDJCYkJQOEdNbUU1c0NyMnB1ZGJDdkl0WlgyQjU3djN1eThQN0F2WkY5dG1oVUF0SWpkVXdRTHdNQlhLV2lQSmUyTmkxZGlYMHVkcVBSTDRRdVJSSGdWaWgxbm0xTjBlcVd5bTFHXy1qUks5cjQ2SDBVWWxaeXI5bGJLZGhzMlBxXzRENkc0VUZjSjJaejdZTGVtWW83UTN3VXFMTWRubnlZUjRiUHRxSE5nZnNHNy02TGlUMlZCZGFia3I0YUtzN2xH0gHrAUFVX3lxTE4xQ090SHdyU1o2Zk01ZzJkYXVOczZLaTd3T3ZyTlZjMEhqS1pLekZueWVrOE1wYWU4OThxNGdnMUhuNlplMjhXVGw1eDEzSmZOX3RoMFRUdXhCSE04QThQLVNQQ1JRZzJHQ1QtSmswSWtFN05XR09EODBaYkdCRFVid1JfUlVHVHNhQ01ybnlUSmZVOEdMX3VacUptckRGLXR4Q3JOclNfUnVVVlltM2ljRFVPUmMycVd5bjIzNmd3UWgxa0NyQU9Td3dPYjF6a255RkU5SnVpYkFLZFdHRXFIMkZXbVJ6eFBzekU?oc=5",
-   "data": "2026-10-30T17:26:11+00:00"
-  },
-  {
-   "titulo": "Leilão da Aneel prevê R$ 4,4 bilhões em investimentos em projetos que incluem Goiás",
-   "fonte": "Tribuna do Planalto",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPSGRFdTFpRmRhUG5tS1cwVnFTRXh5c21VWEhSUjVaNy1iUVAzcldSMnVWbFN0VUhLemttMEh4V1hmdHdPcjVlbldpcUd1MGoyT19VYnVRMVF5TXRqd0E2Z2NZYld6YkRqMW5MMF9HanBhcU9oNS13dEtlX0lyM0gtelBXUWRIeXJCR0djVU5kZC0wT2V0anRxUlh1Q0lwZjNGMWFTay1DYUU2eG5XanpWWXBpOTFaQQ?oc=5",
-   "data": "2026-10-30T17:25:00+00:00"
-  },
-  {
-   "titulo": "Com todos os lotes arrematados, leilão de transmissão termina com deságio de 50,10%",
-   "fonte": "Canal Solar",
-   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE92V0UzWVVsX3MzTFp4VzZwM3pBZ2pZY0IxenZmaFBPSHY4emZGeG1hMG1lS29TLXBOVF9nUkRnVDVjVDZ5YVg5QzBTR1piczJxa0piSW13UDc2T19LR09UOEZEV0xUNmhYdGMzdHZFbFNWUmg4TWYySk1JMA?oc=5",
-   "data": "2026-10-30T17:21:10+00:00"
-  },
-  {
-   "titulo": "Copom deve manter juros em cenário de incerteza fiscal",
-   "fonte": "Safra",
-   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9uZ3FUNkY1T1VRemJpUmhSN05MMF8zeWxKMnpDblFSbERRRGN6N0dpTFo5V0RCclpCd0FYSW8yVFNqMU0yMjlQQ2tFWnQ5OG5famFGUW5LQl83bTl3ckkxUVNSZEhROWU1Mmw2X01ZLWd5cTZXeWQwZFNTdw?oc=5",
-   "data": "2026-10-30T17:18:34+00:00"
-  },
-  {
-   "titulo": "Selic em 2027: juros vão cair após a eleição?",
-   "fonte": "tmc.com.br",
-   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9sMVA5dmoyVWxteWdvMmg1eWtTSEJwTUZfRENudHIzWUZGMktnSXpNLUs2SUNOcTgyZll2UTNtMThYYzVLRUNMN3BsTzlrUW4yZDBseFVyTl8tZnJaV1lSTnFieFRZNjRfNUE?oc=5",
-   "data": "2026-10-30T17:16:02+00:00"
-  },
-  {
-   "titulo": "Tesouro Direto: o detalhe nas taxas que merece atenção dos investidores",
-   "fonte": "Acionista.com.br",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQcWx5RTllV0R3cVZCWmpoZDdmRTVRZnNMbFVpckE4Y2ZaTGdMbWdFTVcyUG91V1h3Z2JJaVVjdEprU0lOMEVCcUQxRkVHanlrYlNSUXpLRXdQZDdfMUNoQVZiOWg4MmJfX2NsczhQZXJlWW9qbXZrajZmVXVZTUlhOHFfZnR0Y00ydzNackFVWnRRejBWUWQ3M2RWZ3M?oc=5",
-   "data": "2026-10-30T17:15:54+00:00"
-  },
-  {
-   "titulo": "Leilão de transmissão de energia prevê R$ 8,9 bi em investimentos",
-   "fonte": "Tribuna do Paraná",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQbzNRcVJZdkl1d3hGanlnUkx0WE9PU1E5ejd0MzF2YXJsMGYxenliUjNoR1pVQU5vOFFoYTljcUNCLWRpSFNGRDhHSTN3Z3k3TkhXUjM4b2tZTUZtSnMybEN0eWROR1VPY1JtTlBKYllOTW9VTTBwd2h6TjNMQkNpWlduMFJCU2NnVXNVTm9Ca2Z6MDIyWjZpTWdGTTVBYThVNGtXTXpZdE9Lek1zZWRYVtIBtgFBVV95cUxOT0RSTjVfTTFqaEVKZkdBa1EzRFpQUFVkeU9oVWJoQXNUTHRHajBNeDVJcGVRMDlhcnRtdnZGa2stT2lOQ3JzOUlPeXFxSTJPUWZsbVFXdGlwU0NSMnpLeHNjd1U5NFRtZE9laWVvNnFZdWM2VWg4d3BDUXBDM0RMWnBjV2FxQnd3OHBka0ZkOE5uM3hSUGNuNDlabl9LOTM3RUI5QXBwc0dfY1pzY25uRWFyaTdPZw?oc=5",
-   "data": "2026-10-30T17:07:00+00:00"
+   "titulo": "Brasil ganha 2.635 novos assessores de investimentos em 2026",
+   "fonte": "InfoMoney",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQcWJEbFBtTU15NU5aSE1iSWQxQWpodGliaHdlRm5NR01FNXJFc1lXNE1PRmJIUnhCMjJtRWJvbjNnUFF6ZWJyVG50MUdvd3dPNmdDSzl1UkhaelV1OTEtX2dpbm45SVB5VElWWXJzbGlBdDFlcUtIdWl4Z0lnalVrYjhqSnplSHR5S1NXUDZ0eFk5bmswaEpBblhpa1M5TmfSAaQBQVVfeXFMUFZ3bXpYOVpoVk41MGZsTVRGY2tYbk9ENWVYX0RlTW54dVE2XzA3amxXdjZzX1JuUTFVM3B3U1RMdS1uUUkyaDhuVWFiQmR0NlUycWJXazZ2c1ZZTUJONVk1NmhGdmc5QW41NS0xcjJwWHJfRmhvZGtwcG9GX3dxY0IwTU1GQzdub3U0Y0V0RUV4MHlMcjlHY21TckplLXdadTY0SlU?oc=5",
+   "data": "2026-10-30T17:26:52+00:00"
   }
  ]
 }
