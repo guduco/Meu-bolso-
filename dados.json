@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-10-30T03:49:56+00:00",
+ "atualizado": "2026-10-30T04:49:17+00:00",
  "indicadores": {
   "selic": {
    "valor": 13.75,
@@ -16,6 +16,18 @@
  },
  "cotacoes": {},
  "noticias": [
+  {
+   "titulo": "Celinho do Sintrocel defende pacificação política e destaca investimentos para o Vale do Aço após reeleição de Lula",
+   "fonte": "Jornal Bairros Net",
+   "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNMjQ3Q2NyaGVHNzlwWnk0QlJlazZtdzFMdkZxTW1Fak1pWjlPQmdwOXVFcWlibkppOGdzR1FmdWdlYTh4YjJkSDdGTjlpbElYQ0JpbVJDSkxhY2prcXpPdWF1U1RBZzhIQkkxM2psdGdhVlo0eGdBOWYxQ2NwUUNqdU9nY1VLUHNCbHA5SG9kZDJGWHRabXVKTldBb1V3dUdwZGFMeU9nT29TT0RubGRqaFpyRERKRGg3T0UzWTUwaG9hNzBZSmtUaHFITEdMblIzZ1oyTVdwVlRrbHk0WkpWb3A5dGtxemxlS1JUd2pXcFdIWXpfV3hpdGt3RQ?oc=5",
+   "data": "2026-10-30T04:26:46+00:00"
+  },
+  {
+   "titulo": "Bolsa recua 1,06% e dólar fecha a R$ 5,387 com atenção ao fiscal",
+   "fonte": "Vero Notícias",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPVU1tMmdKeTktNGJ6YmYtWGZOREZKQmI3eW9mUEk3U19uVi1EaVlIUDJLa2YzUFRZUEFRZ3hDRXhRZ29UTzlFOUJRUUI5Z3FjMVBkVTBiMk03d2RhcTJJVzZ3eEZSalVtUW1TUEdKaHZ0TThwenJ0QXNNUGdjUWx5NExkYWtGTVZ6TWNzaHVjeGRGUFBFSU92ZmsxMA?oc=5",
+   "data": "2026-10-30T04:00:00+00:00"
+  },
   {
    "titulo": "Governo prepara PixMEI de R$ 5 mil para investimentos em pequenos negócios",
    "fonte": "Agora RN",
@@ -59,6 +71,12 @@
    "data": "2026-10-30T02:46:30+00:00"
   },
   {
+   "titulo": "O dólar continua dominante, mas a infraestrutura financeira global está mudando",
+   "fonte": "Gazeta de Alagoas",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPY19RM2FFdW84aE54SEltZnNhc0ltVXFZeS1Rb3pjc0JZRDl5SFN1VF9Wd09YQ3dkQ3E0S3d5U05GRTBSNExFQ3ByQW9ZTURYOVhXWmxDZDVQU21SZ2RCcnIyTVoxSkJRQ2diNTM2UWMzVTNwVXI0WmNiaGFkSm1jblZPVGw5ZngyMG0tUnpxZlVyY29kSkhzLXI1ZFNVVzlwSTBGY21CUmRtcjd4UjJtQ3poUF9JaE5nRUoydFZCLUxqdXVySWtz0gHPAUFVX3lxTE14VHFna3VZaVplWTlLOFpNUE9FX0ZIVWNIdHdSZk9mTDZmakN0cUg5bGkwcHVRcEdNcURUcWhFQUsxVFBfb0xTeDhKN2JmVGVpX0d0a2VEdi1jQzRFV3hKUFExeTNIQ2FmTXlCTVY3eFZhOTZEQWkyS3puWmREX1Rjd01pTUV6aHdiNnZwQ1RpWkZOeUdlanBwRlRmYWFrX2RqX3FodnFnVUgwT3Y5ZDlsbzZhbkRtZlUzMUdxX254T19yY2dJTlNKYWRWaXpSZw?oc=5",
+   "data": "2026-10-30T02:05:21+00:00"
+  },
+  {
    "titulo": "Painel: Com rombo herdado, governadora do DF articula criação de agência para atrair investimentos à capital",
    "fonte": "Folha de S.Paulo",
    "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPM2hkbG9DVnRzTmtxT0RMLUEzVF9ZTEU0WmFrVkd5QVZmQzdaR25IUDU0RzNnOVZ5cHJpV2lFN25pOUZENFdFTU11bC1fNU9FcWxVNGVCVWxodS10VkdoczV6LXFMQ1FpdGtfWVdKd0RreGhJUnlkZ2VWNFpoUjZwem5wbUgtd1JhdU1jOHc0cmFTQjRzZnFwWVVMTHdmbU02Y05FdEI2WjdIWXN6cWhNSTBvTmdGbTVqcVI1MXIxRHo2dk5zRjg1eW5DVmpwcFFVSTdLV21FdXViaVRSLTE2LUZTUjg0TlZST19aT2lxUQ?oc=5",
@@ -69,24 +87,6 @@
    "fonte": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQQ0twZFFISUt3ZWhzMDFsdlpmdXg0Rk1IaXFGRmk3SjcxUnA0TkFBc3ZNX2tzeXNrSHhDSHdyeFpnelFjSEdkRUZNVFZSQjlHd0ZhUTNoWmJtVDR4Znc1RzNpakhRUjRINTVTSFFRLTl6c0VKUDdpbEVMcFBvckI1WUtfbi1Vb1k?oc=5",
    "data": "2026-10-30T01:59:00+00:00"
-  },
-  {
-   "titulo": "Emissões de debêntures incentivadas somam R$ 6,3 bi em setembro",
-   "fonte": "Monitor Mercantil",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQQzVPT3VtOFNBenh2cThDb1dlMjRqelpGVUNwendaZkxlS0hiV1RZcjh4dDRBeGxtWnRkRDdreF9abDJHOU9rQWFyaTc0dDFMODk1X05xMGJ6Y3NWY2dKLTNXUC04aVY5bHVndGhOdmpfcV9Jb2VfdEZMSTVkemFidGhjVkRscGdaQTlISlJxdUJ2UmF0TEVsdFdR?oc=5",
-   "data": "2026-10-30T01:46:02+00:00"
-  },
-  {
-   "titulo": "UFABC celebra 20 anos com novos investimentos e ações",
-   "fonte": "Repórter Diário",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNYml4T01iVURCUHp3ZFFvRmJHQXlkSFhQX2ZKVGdncHJwREhBRjRRZWdvTzZRTVZfY0tieU12NkFVTUNOTUdYZ0QxTHQ3RzQxWDFGNVBnS0xQeWtLYjk4aUdUS3NkaE00eHdsZWxYbWtUQzBfZzdLREVnR2YwWHZvQ1pNX1lVdmpKZF92ejZTRmczcEFIejk1dzBIdVUxT19WUjVGamFKWQ?oc=5",
-   "data": "2026-10-30T01:32:29+00:00"
-  },
-  {
-   "titulo": "Ouro ronda US$ 4.000 com inflação PCE e tensões no Oriente Médio",
-   "fonte": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQOWtGcy1XY2hRdEM4Y2FfdXlwbnNqSGRIVm56NXBsTVQ4Qm5mN1ZsdG85Tm1KZHRPejBpMHVkNnd2UkVSYkQ5Z3dYaTBvLUR1YnU5MWdTOFNEbWdFRTZLdTJiVGJfd0xMTVh4cVRMZTlkWUFkV05TTUd2M1FkdlhBZTV6SlVMQktSZFp3d3VlaEFvSHhSNHVobElvVU9SRlg2ZEpMb2RjaGtWRUJkNHBDLS14Q0F4OGVC?oc=5",
-   "data": "2026-10-30T01:16:00+00:00"
   }
  ]
 }
