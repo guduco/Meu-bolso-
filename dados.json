@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-10-30T18:48:26+00:00",
+ "atualizado": "2026-10-30T19:48:41+00:00",
  "indicadores": {
   "selic": {
    "valor": 13.75,
@@ -17,76 +17,76 @@
  "cotacoes": {},
  "noticias": [
   {
-   "titulo": "Magalu (MGLU3) sobe contra juros e Ibovespa; repique ainda enfrenta lucro fraco",
-   "fonte": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
-   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNU1Q0YjJ0ZDk0V0NZaXNoRDNlLVA3MkdTaHlic3VqOENYdzZGSnkzbjY0eTduUmtOdFduMWw1a3RSTnd1NXNZWEJsdkpTeEVyQmhqaExJQmprZnBCc1BuNDNfSGU0QkF2SzBhVUg5dGRxb196bzBCMnRXT3dKTENHdkd0OFI5NFhSemlkR3FHbXhfTVNMcW1DdndJNENjWFhDX0laMmdBc2xrVlRLRkRzOUxYRU1aYTZGUjhkM3FwTllYQUdSTVRDSlBPTzY?oc=5",
-   "data": "2026-10-30T18:33:00+00:00"
-  },
-  {
-   "titulo": "Conselho do FGTS mantém orçamento de R$ 144,5 bilhões para investimentos em habitação em 2027",
-   "fonte": "O TEMPO",
-   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOLW5fM0ZmbklSblZqckRSWTEtanBURUVYaHR6YXJiZ2V0aVlYTUtCR2o4UE96T2IyeUNMVGJfOVN4LTdrc1dDNUxmRnNXTi1DVmxKMU5DMDhqSTRTR203dFRqdmo1NTB1Y2ZKZXVOdTVFY0ZnY1hZUHRGYmdpN1dYbGl2TlZRYzd6djdtdklEbWp4VDdLMlA1a3pmdXQ0MVE0a0ZSZ21TZjRYemswZXdlSHljQ1NucDNrS1NWNG4tSzEzMFA2M1ByU0l4dkFmUFZ6eG9hOA?oc=5",
-   "data": "2026-10-30T18:21:16+00:00"
-  },
-  {
-   "titulo": "Mercado de assessoria de investimentos ganha 2.635 profissionais em 2026 no Brasil",
-   "fonte": "BPMoney",
-   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOeFNtNV9URmZpQ1FIWmoyZFBtaDhmN2FZRzl3c0hEenB4aGpiZm9tWjZTRzlVblVpNDNMSEtBVWdEVUp4c2NCWk12Rlh5akFmNW8wcHV2bk52V2s1cndzZmphQVBZNTlaMEJDVTF0VWJZQlBNYzEyQTNhVlB4V0FsWlFPejJudw?oc=5",
-   "data": "2026-10-30T18:09:19+00:00"
-  },
-  {
-   "titulo": "ANCORD apoia terceira edição do ANBIMA Global Insights focada em investimentos internacionais e inovação",
-   "fonte": "Brasil Inovador",
-   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNTG1hN3N1YTJ4cW9rdmZOY0RRMUlpdl9wTjFVZV95SWh2c0p6THphS2lueFNkQTJMaWVkZ3BPSWhhQkx0WjA5VGJnS3VaRUtKNmJJU2ljakJJYzJ1d2tUNk5SWDdCZ1VlVVRhWXZRVWFzb2tyZS0xUnoyRkhVTGNsNVVSdXp2RlRvQ0FhZDlJTzFLRFQ3cXE0cWF2MXdUUGhjLTk2WHVNR2lOS3BrRzZWeXAwQllrR1FObG01WW9VSml5WXRnRGV4NERnemxxaU5u?oc=5",
-   "data": "2026-10-30T17:55:05+00:00"
-  },
-  {
-   "titulo": "Desemprego de 5,2% pode manter Selic elevada em 2027, dizem especialistas",
-   "fonte": "BPMoney",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOdlVpMDNTLTRXTFh2QW1kQk9IbFhuanZieHJtN2RoWlBpSlA1T2pULWtHbVZHSklzTU84ZmRuSmwyV2s1M29Hd280SVJ4akhNQUEtdkR3TGtNTHJNaHpqSHF0cmhNSXZDenNHMENLR3NCaFZ6UUVLdXhZd3BlN3h0NW9UZzd1TS1fZF9iU2dONTVTR0puWXpLcUxmc19IMHNxQVgtN3V3?oc=5",
-   "data": "2026-10-30T17:45:50+00:00"
-  },
-  {
-   "titulo": "Leilões de transmissão em 2027 devem contratar R$ 50 bi em investimentos",
-   "fonte": "MegaWhat",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOWnY3WTdOUzNtMGhwNEMtWm5xVzExejQ5Y3loa2JXMzY3UWc3Z2JubVZOR19yVlJSYVMxZkRBVUpueUx3Nno1eWVLSGs3aVkwR0lEdjFzNHlPUlNmT0VBZ1B5NWR3MDRmQ0lfblVHSEJ4ckgwaUtxVHozSDFTaTFSbk5BTUNnWmdfOFJHQzJLVTEtVXJFTEp2UVIyOXNKN3FieE4zakRzNUh0SWkwLTlFVUpjbw?oc=5",
-   "data": "2026-10-30T17:43:27+00:00"
-  },
-  {
-   "titulo": "AZEV3 sobe 19,4% com Ibovespa em queda na B3 hoje",
+   "titulo": "AZEV3 avança 18,9% com Ibovespa em queda na B3 hoje",
    "fonte": "Visno Invest",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPR3BYZ0lFdHlYeFNhaTQ5ZTdGdXVTa2J0cFo0b3hwTEhOc1BDYzNKOVVLZnpWYTl2OTljZVdEd01hcU04d0Q1ZkZGeFJuSG1UTTVlS2x6LWk0SlVwZlhIaFZ3QlZ2QzJpQ0gyMk1sMVQ0NjF5SlhjZ3FXOVkwWjFVdzhBQUgzUXVyMEFLbFN3?oc=5",
-   "data": "2026-10-30T17:35:00+00:00"
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPcWtnbmFNeTA3R0tUN181VWtKeFBiNllubGZaS1YwcXlaZzVCV1lLcGJTWDY4ODNLc2IwNHg5SEpLbUVZbXdDOFFIQlNUdXA0T25JMFhibVVKNnI0SVBER3hBdnE3R3haSEhqeXpSWnBUUzBtYy1YcWtzR0FhcDY3U25SOGpsVkJlN05KcTlpZU4?oc=5",
+   "data": "2026-10-30T19:45:00+00:00"
   },
   {
-   "titulo": "Rendimento dos prefixados sobe após resultado eleitoral",
-   "fonte": "CNN Brasil",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNX2ZGYTM1dWQ4NEJMMjJRWFdJbVBLRE4zaVZLM2Jqc0ZYcWNpZ25zTzVyLTVIbUJwTFN0d0M4NUY5TFVycm1TU3RQYmljVnE0dmwxTUcwdzNWMzlJV3JvTGo3WWhQajg1cGhWNzA5WEM4QlJ5X2pPTi1HMlU0dFJCSVd6TVJScExTeUVNaF9jSW0yYnVkQklxUGFmUkV2NEVDakZ0LXpNME91aFR5?oc=5",
-   "data": "2026-10-30T17:33:41+00:00"
+   "titulo": "APM Terminals Suape incorpora rota operada por Maersk e MSC",
+   "fonte": "Portos e Navios",
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPaDF6ZG9Mc2h5NGtjNnRNVlExQ25Sek9Ba3NoelZOcjdHYmxMU3lBNmFPb3BfRXBEaDZkMkwzMG5FUlhIZ19ydVV2UzBWR3NwWFdpbFowbjN2Vi11dHBYSlN6NmYwd29taUxYaEExeDdHcWNqQkFkLTlLMEcxbkRCRnp6dkFCaXI2UlRnQzJjWC0zQjY3SzlIZXNiWmcweDJKSV9mbnc1Y1cxSHFidHdlSFEzeWU5enJTQ1BiVzdfb25zZkI5Q0ktQVR1T1FkZldl?oc=5",
+   "data": "2026-10-30T19:42:01+00:00"
   },
   {
-   "titulo": "INFLAÇÃO DAS ROUPAS 2026: tem forte alta de 0,78% em setembro",
-   "fonte": "GBLJeans",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNSThiRWhEQ1o3ZERUYUtqT1RjS29kN2NEYVhfbU4tU0tKVHI2WG9OTGdLeUJGZEw5VWYtWk1ZeEJvR1Fqckh3NmdUcEhxV3lmS3h6eTV6ZGhjWmdmSzJHUE5OU1kwMW8tdFVFTFgzOXVpNjFVSmt2QjlBSV9wUnZGYWp1U2w0OFhOdWxmYkk4U1lERlVaaTdhWWRLbHA4TXZzYmJpVFZmS29BWVRtWG5yNXRHOHlzN00?oc=5",
-   "data": "2026-10-30T17:31:43+00:00"
+   "titulo": "Copom vai manter taxa de juros em 1ª reunião após eleições, projeta Itaú",
+   "fonte": "Estadão",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQQlQ2RHl3VmtvbW9EbXAtNGVKeHlFOUJQSlVfTzNtMTk5ZEJ1bFNCQlR1RDdvYjNVOXZNb1BGd09GN3J1a0FrY3dYcTNqbllpdTBvUUhDX3lKMlhXSXdSS21OcnROUWNuOHV2a1J6aXI5MW1nQXBEa1NUcWpHaUNvc0FHNDgzWVlkbUwxWUVGSkp0VjhaN0Y2WXktTGVXck1WTk1QRThXcXNod0ZNNzBLNnRUWGlRR2FSSkZmUkNTWFdvbXJwN3c?oc=5",
+   "data": "2026-10-30T19:36:19+00:00"
   },
   {
-   "titulo": "Fórum de Infraestrutura, Logística e PPP reúne lideranças empresariais em Curitiba para debater investimentos estruturantes",
+   "titulo": "Ibovespa: mercado espera sinais fiscais de Lula após queda da Bolsa",
+   "fonte": "BPMoney",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOSlNlZ0c2TDFRTmp5a0h4TDBZRXR5Y2dlV1Npb1k0eGs3SEJTTGtoeFYxY1B5bEU1aF9LaU1RSDcwMG1vSTBuV2lTVHlhSmJZUjJ1eEFfcVl0bWJoUy1BLVNJbnZFWlFRblg4MHIzbFgwelhrTWJhQTdwWElYWURQc0paXy1UTzdBaDNLTkNfRlZiaDcwazAwTEtNVFpOd09i?oc=5",
+   "data": "2026-10-30T19:35:46+00:00"
+  },
+  {
+   "titulo": "Expectativa para a próxima reunião do Copom",
+   "fonte": "Monitor Mercantil",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNRFp0am53M25LWUdmX19ZLWtHbjM3NWNzeWhRcWZoaFIyZUEzXzBvTF9NT1dJY3NJX3paWFE5WXBSVzVkak1yRzVZaG9MNUJzLVBGSk9WLTJIaWhOdUFDMUt6TjBQODB6OFUtaFJ2X3MyeGpvczFUTlB4VS16ZUxYcl9ZMVVxUQ?oc=5",
+   "data": "2026-10-30T19:32:02+00:00"
+  },
+  {
+   "titulo": "Comitiva de Jaguaré busca negócios e investimentos na China",
+   "fonte": "A Gazeta",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPUTVuc3BYX2VpUlNJM1U0SVcxbXBZWW5ibjVVdDdDLW9aYU9ITVp6dWF0aFNDdlNIbF9lS1RTMTJvT0p4dm8zNlkxbjEtVmFDa25PX05lbWRkV3BJdTlBUTZtY1M5dkp5UmhDd0FmcVJqVldHTTFHN2Zlc3BRUDRkMHRqX2lIcDNfdWE2THlDbER0cjhtVk9DSVpqdENoeXVhaExfXzhR?oc=5",
+   "data": "2026-10-30T19:32:00+00:00"
+  },
+  {
+   "titulo": "Ações e fundos imobiliários em queda: renda fixa volta a ganhar força entre investidores",
+   "fonte": "O Petróleo",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZFJwWmppN2txN1d0bzE3RU5CbUd0Y2JWNlF6azZNSUVWZ3dIUmlyX2ZQTTV2TDFaX040M0UzOEFlWUkwaG8zeUlmbVJPSmdZWDlld3U4NkpxeTUxQkFRczJGTjdRaFFUTnpGRzJQel9DN01jZVBUcnRLZG9pSkxya21CS2tWTkJxajRpUGVuUUJTYlloeGREcC1KTWRPb3REVVhMZW15aEIyOVItNXpCS2hydw?oc=5",
+   "data": "2026-10-30T19:30:19+00:00"
+  },
+  {
+   "titulo": "Anbima reúne lideranças financeiras para debater expansão de investimentos globais e inovação em São Paulo",
    "fonte": "Brasil Inovador",
-   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQMy1Pc1ppQTF5NG9PZm8yYjJEbmEwWlQ3MktQbHNxaFJXVFNGZGplSlBsSVJCWE84UmIybGZqRWZfai14OEhRak5sdHE5MVpTU2lsSjBNbC1pX2t1YUc0QzczZFpoaU9XR25wcjRhNl9iem1TWXA4TzFUcUJhd2t3Z3AyQ01fRHNJWlhINnhSTU9nMGEtc216aVh0bUFpc0NtOF9CUE1HOHNqZ3lfbWtOeFAxQm1HcHJKRWQ1SFZBVElxY1dTWkF4NjZWMUR4NFlGTzI5UzdGSWx2ZVRVM0JGcjlPVUhuZVcy?oc=5",
-   "data": "2026-10-30T17:31:37+00:00"
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNdkt6X3NBNUtYdFJMQUtYSkxLUmRON3NVcG5uMEYyRTZxRmlXRVQxMm1HdUhDTzZGbUhjV05iUk9HMi1kMWRiX25yWnFyb1JOZ2hDUTcyWl9RZU53YlMtelBEa1NvU1pIMHZ0b3VOTTJZYjAxazJieWpEYml3ajQ1TlVRbjJxcjUzYWtQbFJWLVladHE4YUtxQ3lOU3BlOWpiRHRqMkRteWZwQnhITDRoY0VLVWFHdU5nNXlLQVB4UTc2SUdMOFJrUkVVYmo3djBhWExr?oc=5",
+   "data": "2026-10-30T19:19:40+00:00"
   },
   {
-   "titulo": "Agtechs Recebem R$ 94,7 Milhões em Investimentos no 1º Semestre de 2026. Veja os Destaques do AgroRound",
-   "fonte": "Forbes Brasil",
-   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNbHZMelF3VjNkUUFQTmY4OHdsay15cUdjaWJVdzYyVFZ3dEVSTFQ1a1hvU216azFCaFV4RlpfSkt1endsSjFScWJOWUphYUY5aEZKVmJwQ2dveDRjNkFRLXphVUtDRWFmRHV1LUhydlBmd0MwRHMyUGpabnJ3ejNKcUNXeEZteVdBMmpodHV2UFZFTmtjNkpXMjJJT1lBTkx5clltNVNpNUh1TWhrWnVLRlNuSjAzRGx2TVR1bFJjZHdCZUktUGhpTmR2cGR0STZHWnFaVUh2WnV2aWM?oc=5",
-   "data": "2026-10-30T17:29:17+00:00"
+   "titulo": "Emprego vai bem num quadro de inflação perigosa",
+   "fonte": "Estadão",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOVThLT3J3OG0xTXMxOFM2eUlGMkhxZU41ZVhVbHFJODk5N3JZTjFlNVpaWUo3bmZJd0h1dWRpOEtTalRlek9KU0VITmFobGdDNVU5Sk5hQnFVY1JOWlhJZW1yMjZaWko2bERudFRmNE1YdWZ3WWNIN1JNSGpwanBxMUU2YUpWUXlzbVBTZNIBkgFBVV95cUxPaXZITUViNXlZM0JjV3JDbERfSmpSczRRalI3eE1PbWJLV3h2X2JXelh3R1Q4enpCaUJxTlJoX0VSMVRrZ1RFS2tjaXpzZXlRb3UyTkFCUlZBdEduT1VKLVFQdWFrMmx1TDdMdjloSklyaWtxTGljbTNLVnFtellsNDl4MXBsV0lKOFVwbjZaWTdxdw?oc=5",
+   "data": "2026-10-30T19:15:39+00:00"
   },
   {
-   "titulo": "Brasil ganha 2.635 novos assessores de investimentos em 2026",
-   "fonte": "InfoMoney",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQcWJEbFBtTU15NU5aSE1iSWQxQWpodGliaHdlRm5NR01FNXJFc1lXNE1PRmJIUnhCMjJtRWJvbjNnUFF6ZWJyVG50MUdvd3dPNmdDSzl1UkhaelV1OTEtX2dpbm45SVB5VElWWXJzbGlBdDFlcUtIdWl4Z0lnalVrYjhqSnplSHR5S1NXUDZ0eFk5bmswaEpBblhpa1M5TmfSAaQBQVVfeXFMUFZ3bXpYOVpoVk41MGZsTVRGY2tYbk9ENWVYX0RlTW54dVE2XzA3amxXdjZzX1JuUTFVM3B3U1RMdS1uUUkyaDhuVWFiQmR0NlUycWJXazZ2c1ZZTUJONVk1NmhGdmc5QW41NS0xcjJwWHJfRmhvZGtwcG9GX3dxY0IwTU1GQzdub3U0Y0V0RUV4MHlMcjlHY21TckplLXdadTY0SlU?oc=5",
-   "data": "2026-10-30T17:26:52+00:00"
+   "titulo": "Dólar forte e juros elevados: três ações que podem sair na frente no setor de bens de capital, segundo a XP",
+   "fonte": "Money Times",
+   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPdmVuUUNOUHF2bU9LSWJXZ3NLZVVkUzRLNkJSaE56dDllUDljNjBLZ09hdVMtNkowOHhpbUp6anM5aDctd25uYXl3Mkc1ek8tam1ESHluRzdpWGdZVWZsUGd1TG1zeF84NXFpOXlhZDNBcGZ1VjludGhndnQzZDRFWEVISUd5UFc4aGlqc2E5ck5WOGk1SjdpUjl3ZURaODgxSkkzdHNtb0w1bkVrTmlTTVZBQm02SmkwUlpyN3BhZkpXUGR6UWJMcXVTMjJaTTNic3l0WHF1VjE?oc=5",
+   "data": "2026-10-30T19:12:00+00:00"
+  },
+  {
+   "titulo": "Como ficam os investimentos após a vitória de Lula?",
+   "fonte": "jornaltribuna.com.br",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPbmN5T1FuanAzNkZTamdXQnZTc2h3NWhCZ2dHZ29xWFNKRHpwOHYtSmpBZE9Gd3VNTHQ5WnNuREZ4Q3RiV3dYN2pwZHI5dl84c0hpakU5QlBxZnBKZmxIVWpTY3dlOHBDRXZXMHZleVFoTXRCUEswbTFuVVJBdFp4dFNKNzJuTUV1bldaQzgxcFVlM1BXM3c?oc=5",
+   "data": "2026-10-30T19:11:23+00:00"
+  },
+  {
+   "titulo": "Bolsa caminha para 5ª queda consecutiva enquanto dólar vai a R$ 5,45",
+   "fonte": "CNN Brasil",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQZnZDTFYzTGxiNnhXcTFxR1RHNnNKRFUzWVFEMjhSZDhSVzUwMGxMdzk0allUb3NUMWY1N2I3R1lUSDZMNmxYQ2h4c2NESXdueWtpSTJMa3c1QXpDa05IQUt0R05UTmZiVkhUV1IxQjItbjVkVXVweUF2TG1WbFVRTm91d1Y5S1BUNHQydUhlN2VmdjVNSV9menRWYVl1aEs0d2Jobw?oc=5",
+   "data": "2026-10-30T19:05:55+00:00"
   }
  ]
 }
