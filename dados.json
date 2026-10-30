@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-10-30T10:49:49+00:00",
+ "atualizado": "2026-10-30T11:42:47+00:00",
  "indicadores": {
   "selic": {
    "valor": 13.75,
@@ -17,6 +17,36 @@
  "cotacoes": {},
  "noticias": [
   {
+   "titulo": "Brasil projeta R$ 142 bilhões em biocombustíveis e sintéticos até 2036",
+   "fonte": "JornalCana",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQMldwZmMxYzBmTzc3RjZFbk44SUE0cFJDTjFkSklkM1otWV9JTUhseS1pcUdadG9JS3pEVmlwWVlySEhiNzYwLXBYMnVLWDItMHFNdzlnVkhOb204S1BMZVZiRU5CWGFGTTBhX2lTd00zVzc2SW1UVi1EWFhzWGxCWldFTUYzWlkz?oc=5",
+   "data": "2026-10-30T11:34:29+00:00"
+  },
+  {
+   "titulo": "Inflação avança na Itália em outubro e tem maior valor em mais de 3 anos",
+   "fonte": "Terra",
+   "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQc1NYQkxLeFc4ZmpqNjJ3bUNLcldHUk0yXzVDc2thZGlnYVhlcTlxaVBlV2xSaWZZWTdLWE5YRmR1X0tzSEtTQUxPTmNTcWl3RFBHM3lFenBkc2Y2VjJlWVBaa1lDRzd2NF9fVXlscVljNW00TjRSWHJheDI1NXZRWnp1eEpIRWxkejVEd3lYLXVnRkh4YVMwbU9ibkNHMWh6enBaYWY5dExsc2tjOHYyOHFGdjJVd0RBMXJHRnQtWS0zb0tWSDc2TThDYVpJaURsYUVfcDZnRTE1dkt3d0hFWWNueHA3R0V6SFhWWlFWMA?oc=5",
+   "data": "2026-10-30T11:33:00+00:00"
+  },
+  {
+   "titulo": "Libra esterlina se fortalece com recuo do dólar e nervosismo com IA",
+   "fonte": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNWE9kQkZvZ0g4VEpkc1R1SVVUUFFlWWNsMlpNbE9qWTBhQ3hLYk5zUmtiQ1hpSFNJZmtZNzhGWVFtbjFVV1ZqdHlwSkhtQ01yLWZxSkoxaVFxb2N3UmFEN1ZnOTBtaDhJVlhTMHpqRWYwZ1FMZHdfamRWYUJ4M2JJeUpjMnFTdG1VZzNfZFJac1RMY0JDMngyT1FPUXdLVTFfcjFQbHlfazVHUW5CVFh6V1R5U0pHMzA?oc=5",
+   "data": "2026-10-30T11:10:00+00:00"
+  },
+  {
+   "titulo": "Ibovespa hoje: balanço da Vale e desemprego devem movimentar mercado",
+   "fonte": "BPMoney",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQYmxIUlE2R2IyYzFPb2tGUFhsTjVVQ3MtTlpUcnBvNUFyOTQ3dGx5akM1eG90UmJTaDZBUGhnamtDMGl1NnVYYWFUWTdZSFp0akZyWXFYMllOVEdONGJTOFBIQjZuRklIbzVJTUFaVjJZSVhWa2dhamVkQnNHTTJPRTkwNXdaSG04QTVKUEdReFZsME9yMnJSSHRSaVl3dFhs?oc=5",
+   "data": "2026-10-30T11:00:00+00:00"
+  },
+  {
+   "titulo": "Ibovespa Hoje Ao Vivo: Confira o que movimenta Bolsa, Dólar e Juros nesta sexta",
+   "fonte": "InfoMoney",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOS2d5c0ZIRF9nWElmMTVCMnZSUnp6UGMwbVVsSEFRczNtOVd4Wmp6djlpSFBiaHF0X2pNOWoyRXJoeDJLTTEtMjdObnQwd1pISW02LXdjMXh0MGNtemNuTExrdjdHNUlPX3V0TmZDUnVHT2tqVk1iRHdvZnp6WDdyOHJRbVRSa2JzTzlGVjZMWQ?oc=5",
+   "data": "2026-10-30T10:59:37+00:00"
+  },
+  {
    "titulo": "Ataque à Binance, petróleo em alta, dólar, Iboves, mais agenda e pílulas da economia 30.10",
    "fonte": "GZH",
    "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxObkhDME5YUWNBcmMwMmlOUXRDbE1YeU9LbmNpX2ZTMU1ENjFIWnBGNExPYm1NbC1lLTVuZEs5YzdYRUo5TWRMZVlLVkRBU19LUXQyMVFMdERzanlCSEp6c2NzaU1YMmdxN1F4elN2a0NIYW9XLTJ0Z01PQzVMdmNDeW43V21GZGtWUWdJMDlSSmVZMzlnWHd0dDlUbU5oMFlxeEtBOXVyQU5FelhnVm9FeXhFVnBJNjVKMldGakZpNUZPSlk3UndQNWgyVDRpUFFWY0FYb2l2LUhwcTB6bGlXRl9xVGI1R2pEWlBJZEx6Vld2NjZ1eFFfc1BLSDFlbnYxVm9WZ1kzVXQ0NTV5OTBlaTROWVBLU2dy?oc=5",
@@ -27,6 +57,12 @@
    "fonte": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxORnA4VVFSQ2dldzBEV05CdTRFUG53V0lvcFhtQllCeWlQM3JKbXRFeWVYZzBBYTgxaW01NzV4X0t0RlcyNUQ5QTV0SEJEWWN6UUNKQWpKdVhKM2JmWW1ZWWRaWXFSNmpUWWFDVkx2YXJwSklDUVdWdVZ1V1NTUmRTS1BjQXJhN0RkSHhDMWpJS1gxS2ZFSjZhbElpd0hmVVlPc3o0MmJLYmlFRUYwbHJrSlh2QzMxTGNieWdEc2ZfN2xVSXZfRUg4?oc=5",
    "data": "2026-10-30T10:41:00+00:00"
+  },
+  {
+   "titulo": "BC do Japão mantém taxa de juros em 1,25% ao ano, mas eleva inflação para 2027",
+   "fonte": "InfoMoney",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPOEVON1VheXZycHl3bmtyTkUwRGFLcEYzQ3E2d2EySjBYcEg2anZzdEJSQjRpUlRlTlZ0S2dlRzZ5WTJYRzM1cHozRFRYdlVwVExLT0Vib0NwYzE1MGM3RXNNOWVjcF9NeXNWS3JpVnNvU1lNbGQwOUc1MXJGVVl0NUlUSjFzSmt0VHdsRUE2MEN1U3BCUFlmQklBQk9hLTZvZVpsV2FRdDZzX2N1SHprWEtGNUTSAboBQVVfeXFMTkdYSnZHVVQ0ejYyZjVaRE80ZVNsMkdQTUdnVU02MnptTHFzbzJsWWJXV0FQMlFPamxhMkJZSjU2VENRWV9GNlFFRkl4MXBQeGVSYjYzZ0tHaTVIbVdvUWRpc3JuNEprbWpjeWVSTFRveDduYUk1bUJHaDRaZ1o3djIyYmZkSl9HXzlJdG42R3JVV2UxUmhueUtPdWEzQW5pckptcEJvdlFQaHNlQ0Q2M01WNXVCQ19XNHZB?oc=5",
+   "data": "2026-10-30T10:40:54+00:00"
   },
   {
    "titulo": "BCE pode precisar de mais aumentos de juros para conter a inflação, diz Panetta",
@@ -41,52 +77,16 @@
    "data": "2026-10-30T10:21:00+00:00"
   },
   {
+   "titulo": "Investimentos em infraestrutura no Brasil devem bater novo recorde em 2027",
+   "fonte": "BNamericas",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNdnZtZ0lwMEV4aktwNGZsOGZVTXZJT0ZRLVptaWgwYzIwbHRrY0wyUmdOek9ISmJLN3oyZGo3T2N3Q1BZcWdwUzZCSWZzWUJQaUJuYU5JLTVncWpiMnE1UkI5MTR5c0dKUDJWMS1CY19pQUFPSHE1NEJ0azhuM0h3dHZuSjl2ZzA1d3NzeU9ydjV4X0gzWTlhY05XTVF4Wm5YN0I0V21jeUVwUml6NktuMlhn?oc=5",
+   "data": "2026-10-30T10:18:45+00:00"
+  },
+  {
    "titulo": "Inflação ao consumidor da Itália sobe para 5,4% em outubro",
    "fonte": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQWUIzMU5seVJDd3IwRnVaNHZxbE1rTTY1M2w1elByc015alh1NFdJWjZsTUQ5bUxuSzMwNGs4dE0temFmclE3NUdmSGtwWWdKdU51bURKT3M0b2F3VjlDa045cG5naWRrcTJ3a2gzbzZGejBDVkZ2MXNZVkdJUDFPYjB4RFNIOG51bUxJZERTLWtSZE04emdtOHZSS19KNDVSNF84VjVocDNENXdnMEN6Z2dpRjhRbGlHeHBN?oc=5",
    "data": "2026-10-30T10:18:00+00:00"
-  },
-  {
-   "titulo": "BC do Japão mantém taxa de juros em 1,25% ao ano, mas eleva projeção de inflação para 2027",
-   "fonte": "UOL Economia",
-   "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNbUlwdzgxa0lwTjFsVmlWMElwVmhxWTliNzR3WEU2MXFYVUFTcS1UbE5aVGdGeVpLT3lBOGhueS14eC0ybTFNQ0gzcGw2R2hhOUN4d2lDbkg1LVdoNTdEWWtOV3ZPNTZrbXNWcDdVXzhhWVRZQkFKRld6dlk1TmFVVU1zT3B5X0psRE1JQk5XZWFCT2hEMk9BV0s1NXZ0MHFrQ1JUZklsVnJvRDNZcDdwcllBNmtEUmxCck4xekF6dDVOVDVISDAxM1lwZXluMkU1SnYzNDlHRm1JMm52MGdJN3ExU3ZkZ3BLRS1XRQ?oc=5",
-   "data": "2026-10-30T10:15:00+00:00"
-  },
-  {
-   "titulo": "Investimentos em infraestrutura no Brasil devem bater novo recorde em 2027",
-   "fonte": "BNamericas",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNdnZtZ0lwMEV4aktwNGZsOGZVTXZJT0ZRLVptaWgwYzIwbHRrY0wyUmdOek9ISmJLN3oyZGo3T2N3Q1BZcWdwUzZCSWZzWUJQaUJuYU5JLTVncWpiMnE1UkI5MTR5c0dKUDJWMS1CY19pQUFPSHE1NEJ0azhuM0h3dHZuSjl2ZzA1d3NzeU9ydjV4X0gzWTlhY05XTVF4Wm5YN0I0V21jeUVwUml6NktuMlhn?oc=5",
-   "data": "2026-10-30T10:14:02+00:00"
-  },
-  {
-   "titulo": "Cidade dos Lagos soma R$ 4 bilhões em investimentos",
-   "fonte": "Gazeta do Povo",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOdHZEVUUybUFZWFdkNEUtVGVSTkoxYllpM3JTOEk5VWdxMFFkOFBUUXpzR0toaU9DTjFKTll1T0xKdGx4a2JtV25NZExrbWVXTmpkWDJyU1g0UnNsbFdEaFZIUlJVX19qamhwUHlPd25OWnF2NTNVWDViQk9BY0RKVkRyS3FYSDdSUzJzQ2xkcFRJYTcx?oc=5",
-   "data": "2026-10-30T10:13:00+00:00"
-  },
-  {
-   "titulo": "Semana dos mercados termina com PNAD, reação a balanços e bitcoin (BTC) em queda; Ibovespa em dólar recua nesta sexta-feira (30)",
-   "fonte": "Money Times",
-   "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNeTAyWDhlUEhXNV82R0tza0dTdUJmUmZGX2FseE90eDNhbExTOVB0SzgwNTJsem13c3pkaTZKV01DNHFrMlMxcnltNF9QSHhsSjVyeHZPYVVJSmFpV29tZG1UYXNBdDVrX3FPVjBPYXVvMzFtRElnclJnejl4SVNwWVE2NWtIdG9ZcXhEVWpwSURSY3NuYnJlTGFKTnZITmpPWE9WM2lVbEp3ZGJ3ZjBaUEpxTzBpTy1NTVRqN2tHLTZjNVhJX2F0NzZMMFYxdGtqOHN0aWRJdnNhdmRFblB4MVNPZzRCWFZiTURkVg?oc=5",
-   "data": "2026-10-30T10:13:00+00:00"
-  },
-  {
-   "titulo": "Minidólar (WDOX26): veja suportes e resistências no dia do vencimento",
-   "fonte": "InfoMoney",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPQmI4cHd4RlJhcEhDTy1fR1AtMll1VDhQaXI0dWJieGJrMG1qZFhGVUU0RVdIY054cXFZaU1oay1Ub0hDZEdkd3VGemdpNEZiWXY3TFN0VGVNVVJMUHRBUkVKQ1Rtd3NpZ2lLU3Q5M2k3aHVub2pyZEowWWVib1Q4X0t4Y3ZJSVM2dXN6cDRB0gGTAUFVX3lxTFBjWE1sVjFqaVlKYVlMRjNEMjhLeWxzNDdhZjBFSy13dl9MUkpGVkN2UlVDY015UE5sUHo5d3ZseW5RamhiLTdiVzYxdUxiU3VicEVHRU8zMDlrRXFwbEZ2YjhNeHFRTlZLT2c5UmhBc01CZWIyLUdCVzlkazBJZDg0MUFkaWVQR2QxenljcTBKbFFoMA?oc=5",
-   "data": "2026-10-30T10:11:00+00:00"
-  },
-  {
-   "titulo": "Posições vendidas sobem na Bolsa, com avanço maior entre small caps",
-   "fonte": "InfoMoney",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPQzh2aHlNb0NmRW1FVFpTamNWOVVWckJSM3dWZHl5YkpNX2ZYMW5VWVFTc1JvVGtBdGtRend3WU9qOVdxcEJhc2lLODVJcHA4aXlkMWxiNXZqTHFtSExvZy1ud0kzbEdZaEdYM0FiLTV1RXFrOW92SWFSZkNMSkU2a0paMjFaQkV5TFpyYS1wVjgyY3NLZlBUSGJ5Wm9ET1VpOVJkMWh4c3hMeWttSENj0gG0AUFVX3lxTFBwX2Q2aks3LXZGRjFVUDRhVVBwcTNGalVZa0xvVHlfejVRTmdQVVRia3QyS1ZiMHY3US1hZFFRVG5DNlg5UXpKY04xVGJER1d2eUFhdHFqU3QycXc5a0o1TEQyNGExSVZYU3JJN3RSQi1saG1HWUlwZndNa0ZqXzVpTmdJU3VhcHFRWm5vQmN3bmc1WC1VUjZNS3h4U3IyU3BrMzd2bW1LVHg2OFNwTlZMRzc5Qg?oc=5",
-   "data": "2026-10-30T10:08:00+00:00"
-  },
-  {
-   "titulo": "Day Trade hoje (30): Ibovespa cai pelo 4º dia; queda pode continuar?",
-   "fonte": "InfoMoney",
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNcFhCYlozNmkzb21rdXU4OHlxUUloRzkxeGZYTnBKektMYnhLRVlYY0t6bkRGYW5LbTBhQ3VVdEYxbU40Sm1SRG54WGtwZWpraDVaNlpZUkV3YTNFTjk1bEp2ZDZVRkxQTGJVYWVnSS02WEpfVzFkRWE4bWtEc0Qydl9TOENJa3ZM0gGOAUFVX3lxTE5TNGxTRnphSHkwLUpxTGxCTzd2MVlPaG5YZVZJbjZ0TFZVTTFaTFlwSVFibVhQektRZ0o2S2MzM0s3cFM2VGlKYWRDbVpKTXhGMVBlamxRQ01LUTBtT1ExZWVMbWYtaUxoT3l0TmxBcDJveS1kaDlZQmZSTngybW1zTS05ZU82QnpRZTdlWVE?oc=5",
-   "data": "2026-10-30T10:03:00+00:00"
   }
  ]
 }
