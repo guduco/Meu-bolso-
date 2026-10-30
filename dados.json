@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-10-30T14:58:15+00:00",
+ "atualizado": "2026-10-30T15:53:12+00:00",
  "indicadores": {
   "selic": {
    "valor": 13.75,
@@ -17,76 +17,76 @@
  "cotacoes": {},
  "noticias": [
   {
-   "titulo": "Selic: mercado vê 63,1% de chance de manutenção em 13,75%",
+   "titulo": "Senado argentino aprova regime de incentivos para investimentos de US$12mi ou mais",
+   "fonte": "BNamericas",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNY05JNFVfQS0tZ0ZocE9FZ3pvOUhxeW9iYjduMHFBcVdPbFFCdG5RemJjSUducXpFUnZ2bHpPOWstdzFkcUlVS19VVmF3LVN3OUFGTUhLQWNxT09SWlR4cExWd0NjTEp5OW9WQWQ2bEcxVlhOY2xsQ292QkVIRkxEM1VoSnVtdjlNR2hUYlhNd1pxc1NwVFNEbDU1YnpIcmVaUkg0ajA2cmZnb0k4clFpT0ZXdlZwRGllMzBqTw?oc=5",
+   "data": "2026-10-30T15:49:51+00:00"
+  },
+  {
+   "titulo": "Ibovespa cai pela 5ª vez e pode ter pior semana da história",
+   "fonte": "Portal 98 FM Natal",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNbGNIY29PODNxYjAyNDR0YnZieU9xMkJ4WktodHg2cmZwcjdVVkxpbUFiZEhXSTA0S3pDZXBBMmlSdlBtWmdmVHl0OW52ZjlBSVBNU0RSU3I2OVFNY3hRNk0xZ2tZa2xtRmZYWmFvcXpwamdBSUQzSUtUd2did1ROZWJfeElrVEEzV0N3XzE5LVl0b3RCZmdBOURkdkx6aDZVcG4yZ1FnVHRFTVQ2VWJj?oc=5",
+   "data": "2026-10-30T15:43:00+00:00"
+  },
+  {
+   "titulo": "Ações da Usiminas (USIM5) tem uma das maiores baixas do Ibovespa com balanço aquém do esperado; o que pesou nos números do 3T26?",
+   "fonte": "Seu Dinheiro",
+   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOTHQ5Z1Z4blItalY4dmIydmw1LUx2eFdVRHFoYXhPdHlLaFBDRGYtZTVvbl9mbHEwaGdEMng0eHdhTE5pd2NDTzdXdUFvSzFkQjJHODBhai04b0lzWnNLc1dNc01YVEtBZEgxbVkzNC13ZTZKS3VKUm40SE9mem9Ra3B2TmluQXV4UEI2TjN3WDRIVGlVdGZTRGRUaHlCYmNWVWw1cXZadmFlWUNRMU1PSGtOei1DR3I2d3pIdmNYODZzeVhYT3NXRDlQdS1qUTZCMWc?oc=5",
+   "data": "2026-10-30T15:40:14+00:00"
+  },
+  {
+   "titulo": "Fundos perdem R$ 110 bilhões após eleição; veja quais fundos de ações mais caíram",
+   "fonte": "Estadão",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPMGw0SlVFQm9GNjhmMFBGVXMwbk9aTVpVUHpnWnlvd1ByU2VFZHV6cFlxMlhpcGI5bm12M2ZoS0daR2RQa1RkNFZmZjBoNVNaQjhTd3UtM2M5azV2Zmt2QjhyME03VFluSXRPTkRrR1pRcEJaUUctdHpxZEU0TldDQW1qVHVSY2t4aHFmbGtYTGJhU3Y0NnFKN1gydWZ6OEFWNzZlT3U5U2d1SG1fR014Q2tqLVdMdzQ4ejFReDNxd1FuY1hxLTMyWHZNcm1CZ9IB0wFBVV95cUxPajI3Q2lqbHVxUklpSE1rOWx4bEZFd01LMU1DMm5LRzNNaG11VFFYcXczTWszTnBwVTd3WkZYU0lpb0FWVGRfYTRUVkhJcm00R1o0RHhBSTdsWUpHRkI4TlI5ZmhoTjhxUlluNzJQc2J6R21zRmVkUi1nUEpKaVIyZjljcFNUS3BXUmdZTHA0NkE5aWRUejZ4aFk4TmRzZVVqZWktWWVicmctUzBOdGhvb0FWTFpkQThCbFRSUmpqRWhtY1JhcUxMN25mbUpfT0k3cFlF?oc=5",
+   "data": "2026-10-30T15:37:44+00:00"
+  },
+  {
+   "titulo": "Ibovespa cai pela 5ª vez seguida e mira a pior semana da história com temor fiscal",
    "fonte": "BPMoney",
-   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxObWJ3TndpLUJ6TnRwOUI1blRtODljXzJIN2xOSFJUeGtscElrYllJUGZYTzJJQkNyaUxyXzNPQzd0YlhkVmNJMGFrcnV2UmdjT0hNUGtEVTExSGlUQ2VISVVXYUN1T2VVSHkwWHN6NEprdjVSa0hEVmh6WllVd29yX1JnZmY3WjZIS3VYUA?oc=5",
-   "data": "2026-10-30T14:44:51+00:00"
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOMXhtVG1tWlhoMEV0eGh5S3RLak9TT1d0VVFPOEwtcTl2SVVDVkdtR01tazAwaTRfS0xIYU1DM2xtdThjTW5La1ZBS0dNVS1jTWFEQ1hwbUFaVExDeGRTeGtRa1VDZkxhLXlMMndMUmVraVFuS0dhWGdKZDFTWTgyek5GNTZELUYtMGpFWFZ3?oc=5",
+   "data": "2026-10-30T15:37:26+00:00"
   },
   {
-   "titulo": "Tesouro Direto hoje: taxas recuam de leve, mas prefixado 2032 ainda rende 15,38%",
-   "fonte": "BPMoney",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNRTc3amZtY1hJcFZZZUVyMUpFRHllR3hZR3c5NmJsZURfTnJNWWU5a015MUtpU3hTUjNKX1FFNDVjaTNkV0JtSDI5NHllN1g2V0NDeUJlNTFpYUIzRm1lbWRpNW9ucXpTdVUxX1hHYkxLX29xV1JZQmNQenlGT1VzYmNORmxZbEk4eFFKRzJURUtPbUxmVGIyeG9n?oc=5",
-   "data": "2026-10-30T14:40:57+00:00"
+   "titulo": "A bolsa depois da queda: veja onde podem estar as oportunidades",
+   "fonte": "InvestNews",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQVjIxU21UVEVpekc4bkxzZzI3U3B4M0dibDdVMGsyMlNISWhuMDBQM3FpNlhDUTdxaHdEbEIwWG5NSldJdTd1cDRKZHA4N2VIZjN0Um9McFhjdjJfTUM1dkY0bl9WQ2xtam9zQm5laHVVQkw3MVRBdHgxS3p4T3pmY3ZjMDRUUDRsTExTNWFKSjZvMV8zTktMVUItYzhrRG9WaXo1ZG1B0gGrAUFVX3lxTE1HUUtVSGpNbjYwWVNPY2RqMHg0R29qZ1pzTDZmQU0xSFVESnMtSkpUa1V2SzJhN2NVQXA2YjVNWl9BVFkzbWdhbmI1WHpLeHdJNW1jVHdLVDdzbF9KeDI1ZUZCUFVWUWl5TUM5T2JqWEdBak90dnpOdk1UZFpUMWlUaE9lQU1OV2xNMXpldzlPcVRIZEJ2ei1YWm04Skd4SVhLTXFQU1V1WDcwSQ?oc=5",
+   "data": "2026-10-30T15:36:00+00:00"
   },
   {
-   "titulo": "Após semana caótica, dólar abre em alta e se aproxima de R$ 5,40; Bolsa cai",
-   "fonte": "Jornal da Orla",
-   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9pdFVmVzdhY08zU205WlU1MWtJMmxOeXZHVS00X0NHZnBEaDdjaWg0TGVwMXlpN1BDX2Z1SldvcDJoaXRmUnRoTzVCNURKQTNteXI2ejk4UVVPTGdlVk4tb0tuZFppYXNLTTQyc0MtbU1vS0NxQzh1dzZNdUE?oc=5",
-   "data": "2026-10-30T14:33:50+00:00"
+   "titulo": "Ataque à Binance chama atenção para mercado de criptomoedas; saiba como investimentos funcionam e quais são os riscos",
+   "fonte": "GZH",
+   "link": "https://news.google.com/rss/articles/CBMirAJBVV95cUxQekdNU3FUVUU4TWZvM0JzMzFDdHJ5cEp4cXQ0SXVOTW9oblBuZG1sdVNUZTVmSGN4SmlfQzV2OTRDNnJ3WENWQVg3RFRVSlNrZmhHakprRkI2MERoallzZmZGM1Rpa2ozNlEtUzdXSHdTSFhPN3ZOajlSVlZnWVdtNWthYmpuMmhvRXhzQkxXV2pPWlJvbUthcEs3WlJKSGd5eGFqWmNYdUdxenI2MWJ5VTFSaC0wZzJxSWdUQ2Roc2RJOUdDbHZHWW1nZUlmMXk0Ulo1dVM3NDZjMm5HaW51Q3VRQnYzY092N0R5c1BBaS1PYkRGcXNzaGpYbkgwQk9vU0xDVGJRRUNfczVSVkhyUDBsVDRCc1psTmJqOFdHb21zTUc2N19ScW5DUlo?oc=5",
+   "data": "2026-10-30T15:31:22+00:00"
   },
   {
-   "titulo": "Onde comprar dólar mais barato? Veja três contas globais",
-   "fonte": "iG Economia",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOSFhfa1FpWHdSWE12UUFJZGVmVlV6R2lMTFNaajhvR3A0UTdqWXZkdTcwcnB1T213RzYyTFo2SE9jYWJJOTdiRFQ2b1dUVDBMdnpVYmxRSzM4S1BVc1pjVlFMZmoxTUlENFJKVEhWWG5YUlJzT0RWdXFoaDN3ZnFVTXF1TGVsS2JYSnQwd0ViRFFxVVNuR0tON1FwSGJfQ3hUYmYxaDFoZVpJd9IBrwFBVV95cUxQc04tSzZXQTVEX3NYV3FuSlVjc2ZCOUM2U1U5OXAwSFVuNkFRX19wVWZnTENWM09uQWRoa0VjaC1wWEI0TjBDQXhHaVY3TmpTR0dQRjlrRGJWQ2lSeXdGUlZJRkVDZzlfc0V3WEJJTjFzYnMwdXA2WU13MC1sT1B1TS1RWG9HOE94cUVabGZLYjRKbU5QZ0xEa0p1ME9ScURMbWkxOXFwenppd1pxSTM0?oc=5",
-   "data": "2026-10-30T14:32:00+00:00"
+   "titulo": "Dólar sobe e Bolsa cai 1% na 5ª sessão negativa -",
+   "fonte": "Folha de Campo Grande -",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOQ2pnRnZXTnowWGRFQngwOG54WXRaMjhSa3F4VndNV01OOEpELURoazdkeTlfcEJBNG82YkRFdkZnbmcxNGZLNWpjWjJvbks2VHZSMVM1WHhaS2J6ZW5iNlNMOU4yZmtnWlp5NVFsaXBVTkxJN01MSDM1MTdhMUNHa2ZtMUh3TTRJc1p1SEVSM0E?oc=5",
+   "data": "2026-10-30T15:31:05+00:00"
   },
   {
-   "titulo": "Dólar sustenta soja no Brasil em semana de pressão externa",
-   "fonte": "Agrolink",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQTWpoYzlHY3lRbjVLUmZBV1MwbDFVcjM2dldxcGxkLWx6Rno5ZHREZWlsQmNpMnBwcXlOMGU4Zk1JSWtlVVlxQ1YxU0ZsR0phZXRrSDBSMGVvQ1VGYWtiMkRvVFdaNEVfWlBBWUpCSFJmbHN3dVJIU3UwOTNJVWRpVkc3RWZSaTNmNmlGN2o0OWJ0U2R5XzNfa3pCaVAyWmNsSm5rc0tvMzl6NTA?oc=5",
-   "data": "2026-10-30T14:28:00+00:00"
+   "titulo": "RAIZ4 sobe 10,7% e Ibovespa recua 0,65% na B3 hoje",
+   "fonte": "Visno Invest",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQWG5BNFR0Z2FpV0lTLVVpQWJ4bThuT2QteHYtNXltdzNxNXRyVXFJdTVtQjQtclJ3UklDZUt2V29qdld3NG0xMWN6SVRDeDA4UXNzbDM5TGw1WGx1UXJXa1YzTG9pbEM4UFJZLXVfNkduajZpUDVGVnFrbTBLRVI5Z3hjTWExVlplMVQtWQ?oc=5",
+   "data": "2026-10-30T15:25:00+00:00"
   },
   {
-   "titulo": "Análise: Sem rumo fiscal claro no Lula 4, Copom enfrenta teste como única âncora da economia",
-   "fonte": "Valor Econômico",
-   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNNGxzcHpUX3FTNE1NZzVUMG9rUWRTanhfZHBUT1Jma2p6MnhDNFNmRzFHek84eHZlcktEck1tbkgtVHo2RGZBQ2VVMGxsWTd5STJYYXZOazdBcXpKbkRrVDExZWxlb0tQZkp2MGdMVDFWTmRMQnJ5VHh6Q1ZYaVlmUlpfbWN0c2VFZmo5V0p2b0RXUlhwNng0a0RNSlZRUF9fb3hfemo0MjVtaFR1aVVaaVBZTHpyQWpxSE1iT0NkTWRqeTdweTVwaXRtMVp4YWtvTHpCVVhiVXNONXN4RFBkRUJ30gHwAUFVX3lxTE1pT2I4blZGNENjdDdUbDBTcXpmOUdfaWZub25JUHZycXRwalhkem9WR3JlaDQ0a1ZjZWoyeTFabVo0Z25UckcyQTd5MXJZQ0NBN0FROUdsR2x1THNqREd3QTMzVjhiMHlWQk5FNTlpSm5ENDJsemViYlo4MG1Od2U3d0VEMFptU1FHRXd0WnBpZkt5YWIyT2xfS0NjaEQta1MtTFZJTDh0dEUwbFdFNFFxaE1uUEY4VTlKZ2pTdUc1LWk4Z1kxNjVUTV9kcXdDeHljT3J0elhackdQR054YURUWW1fQ1l3anExNFlZcENOQg?oc=5",
-   "data": "2026-10-30T14:26:45+00:00"
+   "titulo": "Ibovespa cai pela 5ª vez com temor fiscal e externo, rumo à queda histórica semanal",
+   "fonte": "InfoMoney",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNZlBkT2o0SEtncXRKZHIxUFA1a3IxY2tOem5pYVJsNWZaaUZFMC1SXzNuRVdJZTgteERETTFCb2ZKZDRWRmQxeU1mdWhFVUprZHNMU3Y3ZXBDeFJ3dHZfa1gyT0JGMTFWR3h0cm9xbDlacGxrcVdqTUNERXAySGI0WHpRVGRfUjhRaXNObUtWTkFyTHBESnEyajdSWUpoWWFTT1FLZUJITTJGcmNFbXNZSVp3d3fSAboBQVVfeXFMUDR0alpOdVE1LXdJM3BkMGFqbDl3cXV1djUtSWhMWmlMem5ZVS1FWll5QjNhRXR6LVRld2ZjZkRuQ0tFT0RiQ000UDNKdzEwaENQcDMtejR1UEdSWWFqMmlldEx0RG00cXc5ekNBbVNkQWlzcUk3ZFNBWVVFVGVXVHRrUktFZ0NBV3h5OHIzaXBpTXktN2NvN3hNNVF0MG40aDNvRkNkeEt5bWhHYkVFMFNSOGpuZUtFSXl3?oc=5",
+   "data": "2026-10-30T15:22:37+00:00"
   },
   {
-   "titulo": "IA amplia influência sobre decisões financeiras, investimentos e planejamento",
-   "fonte": "Mundo Coop",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQclpEc3ozVDc5bGlDUUpJMENOSHROR2RCSUQ0dTRSVENyOXhKUHNNdHBUYmdWNVFMb0l6N2JiZjBwNlhLLW40QzhhQm9CR2hBdzFGaWxUMkhqVC0xdThfbnlhNFdGVzBrcldhdGxUY3JMTXYwWmFhMDhkT1NfVmt4UHB6Q1R5SmtFRDZydE9GdmxKbmNzeXQ3NHljTkV1S2szcnBoS2w3QkRrVFpIbW1WTQ?oc=5",
-   "data": "2026-10-30T14:26:40+00:00"
+   "titulo": "Oscilações bruscas do dólar contra o real marcam outubro e trazem maior volatilidade ao café nas bolsas",
+   "fonte": "Agência CMA",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQejIzVUVLc050TGJ5VTFKSHdpdEt6QzdNcUNZR05yMl9VdGdPaHpia1dzb1hHMnBkenpwNkdONDNFbFJwTVM3QkdiTmxpRlJOaV9qMWNlbVhNM2pZZWN1bjVpbEFMclJ0QXdCLUpvYVJSb0oweVBZQlktRV94eDdyN2tiUmdUME9vbFBobkFXM3J5YmdtZ2NzODltcGZqa3p5OXBBVDM1RXhkYVdqWWFEOGEwdnNsVTFEc0ZTdGhxaE15VzRj?oc=5",
+   "data": "2026-10-30T15:15:01+00:00"
   },
   {
-   "titulo": "Celeo vence maior projeto do leilão de transmissão de energia, com R$4,1 bi de investimentos",
-   "fonte": "UOL Economia",
-   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQd2FvTnJDWmNhMlh0dVNDcUlzQUJpck8yb0pmYWtVczMweV9oYVBaU2N5azdOZDBzOGc3VjFWUi0tTXpmWTltRVpWd3JsS1Y3UTJRdkI1MVNWdTdOempEMG9jWGtIRTVjRS1tV1hrTjRFUHo4T1BxUGd0YXE2ODE4V1poOTJtTWtFZFFHT3lSOHNvcEZkVjhOYlp5OGJMSzltYlc5NFUxZ1VrZUMwNy1QNTZ1MXJlSjMyYmthczhrU1RmYVF6bHZZMDhRSnFzd1hhbjk3WFdfS2dYZFJ0X3Z1djBERQ?oc=5",
-   "data": "2026-10-30T14:24:50+00:00"
-  },
-  {
-   "titulo": "Ibovespa tem 5º dia seguido de queda e dólar oscila acima de R$ 5,40",
-   "fonte": "Exame",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPTHE4bjJUcXFTcGMycVlsZW9aRThIcURuSy1XcTEzMG54RUhWcUlyemZqLURqRkI0NTVpU09iTGt2WE5FTERPcnB0MU02QmN1Mk9ieXotR2JfN243ZW5pdndxSTdWUXoyNVVQSFVLc0NOVkVUcjBudzhTSTdOX2RUdml3alVzbHdXZERPS0poV1hwTzJiNUVmWUVid2k4V3ZkY2I4?oc=5",
-   "data": "2026-10-30T14:24:24+00:00"
-  },
-  {
-   "titulo": "Alemanha, França, Itália e Espanha: onde foi a inflação mais alta em outubro",
-   "fonte": "Euronews.com",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQWkxvdTRLM2R4aTJ3T0I4Mm5kMWFLSTJzR01TaVlKZXNIMmRYOWg4dEwyMjZhTDFEMnA0YzM1TElKeEktQ3d3YzhvMkh0ZXBMOE9kQzB0cEJEVV9ZejV4S3FTNWhNOVJWdnVEMGxyR3N5Sy1DRFQ2UkUtUDFrcGpNZDA0V2U3dU1OdU1Dck5zczkwTXdrWGZPMWZ5ZHdyRFdPTWFDdGhDQ3dVVV9k?oc=5",
-   "data": "2026-10-30T14:21:37+00:00"
-  },
-  {
-   "titulo": "Por que o Deutsche Bank diz que o dólar da IA chegou",
-   "fonte": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQY3FiM0pjakYyLWNXaVBEYURZSy16Rmw2WHBWSnIwYzJvX1p5dThycGVPam9IcWF4Sk1LTVEwWmZyRUtoNzFPVGdjanZ5NEdGZ3Job1dMdGVtVkpYZXZyU1lOV1E3NG8tRUotTmNFejZUZHZjZHJiOUY3VnYwUVYxLVcwQmpJa2ZtU1BqZFNDY01TZmNOZGlaLV9zTEFPQWY0RXlz?oc=5",
-   "data": "2026-10-30T14:21:00+00:00"
-  },
-  {
-   "titulo": "Dólar hoje sobe 0,96% e chega a R$ 5,43 com formação da Ptax",
-   "fonte": "EuQueroInvestir",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNdTlpekRLMXZkQnNJX1ZNejJ4VWI1aVAzbkRGQmZCUGtqRGtJUWhJaXgycEoycVdSZ05RSFBqend4TEJtVDhqTEhqWVZQUHJuanBqbU9GcVVpbkdJRUVYUWhaMXB5ekQ0Tzk4NGZ0dzRvLVd6LU5qQ2JzWTZTOWNoTnp2Ym5WM2M?oc=5",
-   "data": "2026-10-30T14:20:20+00:00"
+   "titulo": "Sustentabilidade reduz custos e atrai investimentos",
+   "fonte": "FIEMG",
+   "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxORHQyazJIS2hENXdSS0FadmF1cTdsblhjdWw0ZkM5Z1BoV3JhRWtFX1lKcktnVkxuQzhIRnhSZnNnUFFpS0dsblFSdS1iSjJTVlo1M0szOVhoS3JnZFpONVJzbEgwQXVSek9uaEFyeDRsWERPTURaYjhqdDBneW5hek5VNzBXYjJCaHdkVEU2UzJyWS1rQ2xKa2RXeG5CQ29PRVhMakVMOHFkWUtTajdkNVAzYThqT1V3Ty1Kei1vMDNDc2M4UVdORXl1VldEamQ0bGdxZjFvandjLUV4b1ZabS1sU3c0cjhyRzFQWVJhY09RUU9YcVB5WThSUGdlRmd5VTNZ?oc=5",
+   "data": "2026-10-30T15:07:00+00:00"
   }
  ]
 }
