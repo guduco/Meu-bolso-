@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-10-30T04:49:17+00:00",
+ "atualizado": "2026-10-30T05:47:21+00:00",
  "indicadores": {
   "selic": {
    "valor": 13.75,
@@ -16,6 +16,12 @@
  },
  "cotacoes": {},
  "noticias": [
+  {
+   "titulo": "Reviravolta nos juros põe Copom sob pressão",
+   "fonte": "BDM - Bom Dia Mercado",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQQVBRV0xwLTlDLVE4ZnJSSnBVQ0xFbmlXUGphaXJ3azFVdU95eFphTVJvMHFrTzQ2aXJDV1hNVlFDRmVya0s0cGRtOXNfeExsY3ZVLTlsVUZqSzZfRHVObjdsZEJDZ1NWVm1wbDJXb2lVSjRDTWpWVFRQZi10RS1XQU96MkpVejRKOWtXMTlxekJ2WUh0?oc=5",
+   "data": "2026-10-30T05:38:42+00:00"
+  },
   {
    "titulo": "Celinho do Sintrocel defende pacificação política e destaca investimentos para o Vale do Aço após reeleição de Lula",
    "fonte": "Jornal Bairros Net",
@@ -35,16 +41,16 @@
    "data": "2026-10-30T03:42:32+00:00"
   },
   {
+   "titulo": "DAY TRADE 30/10/2026 | Abertura de mercado e minicontratos",
+   "fonte": "XP Investimentos",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPMENSZWIwTnhSeGVWbjVFTV9Za3Q2YzQ5NDl6RnF6clhSZXkyWnMyUXlwMzBzdkc2MmpGcEs3ZnNwT2hiU09jMVZvSVozcVFuTnRBQ01UbGVmdTJaQzFOYWRzQmtYTWlON1Jma2h0M1JxWmtqSVg4R29hWUlRSWc5WWpqLVBYeHZFanQtc1RPS3QxVzlBY2wyNldpbURhNTI2S3A3dmkzTkdld2hLUEVtaDV6UQ?oc=5",
+   "data": "2026-10-30T03:39:57+00:00"
+  },
+  {
    "titulo": "Banco do Japão mantém taxa básica de juros em 1,25% e eleva projeção de inflação para 2027",
    "fonte": "Valor Econômico",
    "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNNHNvNkhJMzRiZDc5U05QVER5RmstZnlpRTJ5WFJQLVgtaHlGTHZMQVAwcVJQZGZPejFSVi12UEdYZDY4MnNvaVpqVkdManR6cGNOUGw2VHRFOXp4cGF2ekdjTHdZc0poX0NPcktHMUdmenlvMHk3ZWpTR2Zqa0lhZEMzcU4zZVRVQzR5UnpxUTlTOGJnZHAtQWp4RU4tbHZhS0VVWEtTUXVrcmFNRWlDVG1jbzJEa1ZpU2dZVTVyZ0xXVlEtN3VZZUlfVDcxa0laWWJtYm90bExrRXJpWUpQdW8zMFZ6Zng1ZFFVS0g1TdIB_gFBVV95cUxPX0ExTDVGaXpJVHRTU2pGaHhGM29QVy1ndDBzLTdOZnhtbVJWbHltNmNWQVFOMW1RZXR2cG1Ea3hYWTVGcnRZT3BHXzZMMEQ4dkVmS0NCUW80cDFGZGhqSTBjaVBic3ZTa3RhbldXcGFMSGszeXdUVi01NDlQYmNmV3ZCZ3lGcWp0a1RobWVYSjMxUGJaTWFUTG41RmdJVkgydE1RYm1xc1ZCd0ctbHBET0lmS2luakZBVVF6alRhUldEMFBpS2trdzZsQ2l1SENaSkhZYXgwNjc1VEd6bVlCX3ZfTVRPVnlERnR3aS1YUTB6Q3c5Q1FJWEZmeGZKQQ?oc=5",
    "data": "2026-10-30T03:35:48+00:00"
-  },
-  {
-   "titulo": "DAY TRADE 30/10/2026 | Abertura de mercado e minicontratos",
-   "fonte": "XP Investimentos",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPMENSZWIwTnhSeGVWbjVFTV9Za3Q2YzQ5NDl6RnF6clhSZXkyWnMyUXlwMzBzdkc2MmpGcEs3ZnNwT2hiU09jMVZvSVozcVFuTnRBQ01UbGVmdTJaQzFOYWRzQmtYTWlON1Jma2h0M1JxWmtqSVg4R29hWUlRSWc5WWpqLVBYeHZFanQtc1RPS3QxVzlBY2wyNldpbURhNTI2S3A3dmkzTkdld2hLUEVtaDV6UQ?oc=5",
-   "data": "2026-10-30T03:33:45+00:00"
   },
   {
    "titulo": "Banco do Japão mantém juros estáveis e diz que inflação já atingiu a meta",
@@ -69,12 +75,6 @@
    "fonte": "Diário da Manhã Pelotas",
    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQSFlIWkdDeFE0cU0zNnFNR3ZYcEtaSnZtdzg1TkFLM0pZUlQwbjZQbk13ZEpqb3ZoWUdvYWFzd3YtRjlFd3czNkhic3I4UlVvbElkbHMyRkVWcGNDZWxjVHQ4ZV9IczhXeUJ5a0pfa0NlclBSenZNbEFKbVBSZE9neVpJVWdGZUFiLVRmS1N0UlRlcU5NemYzMjVB?oc=5",
    "data": "2026-10-30T02:46:30+00:00"
-  },
-  {
-   "titulo": "O dólar continua dominante, mas a infraestrutura financeira global está mudando",
-   "fonte": "Gazeta de Alagoas",
-   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPY19RM2FFdW84aE54SEltZnNhc0ltVXFZeS1Rb3pjc0JZRDl5SFN1VF9Wd09YQ3dkQ3E0S3d5U05GRTBSNExFQ3ByQW9ZTURYOVhXWmxDZDVQU21SZ2RCcnIyTVoxSkJRQ2diNTM2UWMzVTNwVXI0WmNiaGFkSm1jblZPVGw5ZngyMG0tUnpxZlVyY29kSkhzLXI1ZFNVVzlwSTBGY21CUmRtcjd4UjJtQ3poUF9JaE5nRUoydFZCLUxqdXVySWtz0gHPAUFVX3lxTE14VHFna3VZaVplWTlLOFpNUE9FX0ZIVWNIdHdSZk9mTDZmakN0cUg5bGkwcHVRcEdNcURUcWhFQUsxVFBfb0xTeDhKN2JmVGVpX0d0a2VEdi1jQzRFV3hKUFExeTNIQ2FmTXlCTVY3eFZhOTZEQWkyS3puWmREX1Rjd01pTUV6aHdiNnZwQ1RpWkZOeUdlanBwRlRmYWFrX2RqX3FodnFnVUgwT3Y5ZDlsbzZhbkRtZlUzMUdxX254T19yY2dJTlNKYWRWaXpSZw?oc=5",
-   "data": "2026-10-30T02:05:21+00:00"
   },
   {
    "titulo": "Painel: Com rombo herdado, governadora do DF articula criação de agência para atrair investimentos à capital",
