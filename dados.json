@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-10-30T00:57:24+00:00",
+ "atualizado": "2026-10-30T01:58:34+00:00",
  "indicadores": {
   "selic": {
    "valor": 13.75,
@@ -16,6 +16,24 @@
  },
  "cotacoes": {},
  "noticias": [
+  {
+   "titulo": "UFABC celebra 20 anos com novos investimentos e ações",
+   "fonte": "Repórter Diário",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNYml4T01iVURCUHp3ZFFvRmJHQXlkSFhQX2ZKVGdncHJwREhBRjRRZWdvTzZRTVZfY0tieU12NkFVTUNOTUdYZ0QxTHQ3RzQxWDFGNVBnS0xQeWtLYjk4aUdUS3NkaE00eHdsZWxYbWtUQzBfZzdLREVnR2YwWHZvQ1pNX1lVdmpKZF92ejZTRmczcEFIejk1dzBIdVUxT19WUjVGamFKWQ?oc=5",
+   "data": "2026-10-30T01:32:29+00:00"
+  },
+  {
+   "titulo": "Ouro ronda US$ 4.000 com inflação PCE e tensões no Oriente Médio",
+   "fonte": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQOWtGcy1XY2hRdEM4Y2FfdXlwbnNqSGRIVm56NXBsTVQ4Qm5mN1ZsdG85Tm1KZHRPejBpMHVkNnd2UkVSYkQ5Z3dYaTBvLUR1YnU5MWdTOFNEbWdFRTZLdTJiVGJfd0xMTVh4cVRMZTlkWUFkV05TTUd2M1FkdlhBZTV6SlVMQktSZFp3d3VlaEFvSHhSNHVobElvVU9SRlg2ZEpMb2RjaGtWRUJkNHBDLS14Q0F4OGVC?oc=5",
+   "data": "2026-10-30T01:16:00+00:00"
+  },
+  {
+   "titulo": "PIB forte e inflação pautam EUA a poucos dias da eleição",
+   "fonte": "Valor Econômico",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPS0hpalJJZDdVUzl0T1U0NllmMEJha2VQSkl1LUVZUW5BR1dISVVUOW15UVFjYXViWHVpM1duQWdrQ29NR2hxbkg5NUJOZ0w0VFFDRUFWWWhMNzhwLVhvUGswcmhHb0FkanZiRXZ1UTBzNVp0NndMeUo4Z2xMTmtGLU5kaDFSbUswNWlCSXFRMU9aR1VQb1A2dVdlOHFyY2ctdm9HMXAyQkFEVlh5M2czX0pLNWtBTkHSAcYBQVVfeXFMTUZENTFsSC1fWW9oY1N3c2ZPSC1VZjVLZUlGNFh0cHFXaV91T1JJMkpqRUdDVmlkVEthaU8zMEhHbmo2aGYyaW1oTGRLU01nTlhVeUpld0VtaldUMnNwcUhwMkFjWXEyTXFkS2NqY013V1RkRDRqbFR5blVHdWRYUVlqRmZGZjJPUER6aUwtT3Q2enFEMVBUYkRYX1hBemlBNEZlUFBUakhMRnFMcmxfSnI2NVJRWkJraGdwcWJrMC14SnB1XzJR?oc=5",
+   "data": "2026-10-30T01:00:54+00:00"
+  },
   {
    "titulo": "Brigada Militar inaugura o Copom regional do Sul do estado",
    "fonte": "Brigada Militar",
@@ -53,6 +71,12 @@
    "data": "2026-10-29T23:54:45+00:00"
   },
   {
+   "titulo": "Dólar fecha a R$ 5,38 e mercado mantém cautela após eleições presidenciais | #SBTBrasil",
+   "fonte": "SBT News",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBCTTVmblBXSU16bGtJSDFtVHlDOG1tbzAxbU5HY2c0LWltNXVUeVJOb05iYzBuMjdHdXptX1VFU1NMOFVMLVFmeXVXOUhIUnFjc2ZaMEJsSDA?oc=5",
+   "data": "2026-10-29T23:43:01+00:00"
+  },
+  {
    "titulo": "Dólar sobe 0,76% e fecha a R$ 5,39; Ibovespa cai pela quarta sessão seguida",
    "fonte": "A Crítica de Campo Grande",
    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPOGhIUlNyTnFGOFNBdXVCZmVGT0hGOXk4S3VyRDV4MlRGdFpqeUxnejdHN1gwLUJjUk9jQm80ZEkxNEpBQzZaOWFqc3BtV3dMdGdDQ1Q3NlVIOXNTdjhjeXhYb015Z2pwczNJSG1kM1NhSkhra3VYQWo1M0M1ZE9XeWJRRGNUcEVLN0lMOVJ0RjVIR0dVWl9RbGM4VHFrTW1STzVV?oc=5",
@@ -63,30 +87,6 @@
    "fonte": "Times Brasil | CNBC",
    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOUF9JemV0U1lQcEItN1c3X1NFTmtORDlCTmdFUkJMd3pMM1hwNXU3TVp1QTZkMDlWdTRDZlVqa0hrRmRxdThldDVWWW8zSjBRbDhMZmVDOWw1LUYxcTU2a1BGR2pKQmRJak1iWk5UUXNTR012cTdzS0ZIemRINThfWVgxbllnWHprX3BxcXVQZndkVDZhZnlYOVkzMi1CZ3dVZVpjeVhIVnU3bFlYRzQ1UjJESFhOeUNrUTBaMXFBenAtYjdmbUM0LUlUY2xYdw?oc=5",
    "data": "2026-10-29T23:21:00+00:00"
-  },
-  {
-   "titulo": "Dólar sobe 0,89% a R$ 5,3874 e Ibovespa cai 1,06% em 29/10",
-   "fonte": "Campo Grande News",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQS3g4T0c4enpMRlZEU0xjemdKT2xNUzRhRFUxa21rNjVEbXhqMjNuUkxXN0ppZXUwbzk5VDZTaXRQaXRGWGpOeldaSlV6WmZQX1g1RHdYbDMyT1JZRXRaSGhqdU1aSnkwMDMxMHQ1Unlma2RpSmJhTEYweFhQWHFkaTRYSW5DNHVRYlJqMm9SNDBncW1pU2wwZllIYVBsbWhxS1JPVEtCdGxsdm9o0gGsAUFVX3lxTE9VZXM1aHVUQWdRSDVLYlBFb1owN3haX1NHc1Q0TExsNTk0RnJURnFndWFFUS0tZ1JUUXdRWGpNM1R6UEg0ZFlPcUY1VWYzNDRKWk50UHotbkVnZDFjMkI0emNFeE1mWjJJUU9kaWFQZ0dsazVHc2duSWFmTVJCMmhQc0MzVUVqVFZ3VnE2SUlqeVF2RmNGcDI3ckpKa3c4NFRjU3V5LXV6bFFEZm0?oc=5",
-   "data": "2026-10-29T23:15:00+00:00"
-  },
-  {
-   "titulo": "Ibovespa fecha abaixo de 170 mil pontos; dólar sobe com preocupações com Lula 4",
-   "fonte": "TradingView",
-   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9nVXI2X1dYODhkd3AxQlA3XzdyV1pNdHZSV21ZcUdBWVRvbmt6WG9ZS2lDQzBFT1lSNXJ0YmYyV1R5WW1lYnNCVVRDLTloeWFPalVWOTBBT1U0eDJKeUM2WS11VGI2RkhSOE9mcFlUckVQNm1BRlNF?oc=5",
-   "data": "2026-10-29T23:01:05+00:00"
-  },
-  {
-   "titulo": "Ibovespa recua 0,85% e fecha aos 169,5 mil pontos",
-   "fonte": "Brasil 61",
-   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOdjBmelVrUHdIMmtmYzFUeFpvWDFEazdaaVVybE1Mbl9vNFdYa0ZoZlcwR21vSTVLMllRR1ZTc3NoYW51VkFLQUJoY3hHYlg4dHhPWXdKSEFaLTJaMnlURU83YjBMSmJ6a1h0bXpRXzhscUgxaVQ3bGU4TTlyTDVxS2lkd1BoaEZvSTdz0gGQAUFVX3lxTE44R3ZSOHJIQW1oUHBYNC1RNDRMZXQ0X01ncHhoTkZhdTB1a1YzM3Z3R0cwMEU0VkRRNGhWRm9GbkZLdVUxZWJLY0N1MWNQUDA2b19lM0duMlRncnFCZnlzM016V3VwQnBFMGM0ZERXdUtWcEVYWU9sM2xVNWtfcjVxaVBDMHY5NjUtYlA0MzUwSg?oc=5",
-   "data": "2026-10-29T23:00:00+00:00"
-  },
-  {
-   "titulo": "Estado Espanhol 69 mortos em choque de trens de alta velocidade: mais uma tragédia por culpa da privatização e da falta de investimentos",
-   "fonte": "Esquerda Diário",
-   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOSFh6dW5pWDBsNjBEVXZJeEFEeFJuRGtaTHJPdUFkMktpRWRfTGhtZWxUWUMteW5QT0RlXzlYM1p5cnhmUEV2ellhcUdKZkdTTnoweXdPdkxrOTBqcHI2OFhUa2dRWFNGeUl4Umhjazc3R2JvUWhybHJkWGU3S2xGT0t0STNYemlHSHJzZ29NY2lpdkdMaVBvYmVyaFh1cHM5b0VyXy1KTEVwTmxVYmJJVDdUNUF3bGRHRjh6OGV4S3BTSUl1SVB5ZXhR?oc=5",
-   "data": "2026-10-29T22:54:47+00:00"
   }
  ]
 }
