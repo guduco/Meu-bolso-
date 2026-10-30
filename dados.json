@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-10-30T08:02:46+00:00",
+ "atualizado": "2026-10-30T08:56:16+00:00",
  "indicadores": {
   "selic": {
    "valor": 13.75,
@@ -17,9 +17,51 @@
  "cotacoes": {},
  "noticias": [
   {
+   "titulo": "Barbacena aposta no agro para diversificar economia e atrair investimentos",
+   "fonte": "Diário do Comércio",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQZm1UMXFIY1hMbkx6WlFlUFlNcEpySkxWdUpZU1Q5VjdLdDl1cm5zQVkyVU1ZZDAzVGtPMmREY1U0QXJKbXRPTGhPUmZQbVFCb3F5NVllS1drWEVUU1Y1eDIxaW8wbG80anNJT2dDNjI3bktPd0NyVFFpNWVCdVN4RnpLU2NncXJHTlgxMFBB?oc=5",
+   "data": "2026-10-30T08:40:00+00:00"
+  },
+  {
+   "titulo": "Aportes em agtechs recuaram 79% no primeiro semestre",
+   "fonte": "brasilagro.com.br",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxObmo1SGxUOWtVY3RUaGpiQlkzY2hHRDBOX0lyZXRnTzZXVDRJU3dBQm96TXJhbHFET0p2RWVObGR3dXcweGNHUUNnT1FBVDhUeTVITkNySjFvSEZwMHZnRkFwcGlrOTdXdzRWY0hrZXNZdWxSSndfTENVOXE2cFN5Z3lJZGZ4R1RZUWFKSWZ0Z05BNnR5V0dtUTlQTQ?oc=5",
+   "data": "2026-10-30T08:26:41+00:00"
+  },
+  {
+   "titulo": "Taxa de inflação da Espanha se mantém estável em 4,9% em outubro",
+   "fonte": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPamNqcnRLN3NJQmk0VHR2ZlpXTnd6MHI0UkxDZllhWEY2VjM3ZWV0emU1Q01jVEFoTzQ2MUlmMmY4MkRLbEJhNUFsa0RIV3B6Q2ctM3o0R1dKSjIyLUpCQ3J6LUJJNTQzcmxUSG9Ib1ZrM2I4YVJqSWVzWUJGbmEzVldQeG5adXhHVUtkT1hlZDVqb29qWW1XVmY1czczc1k3dmdUQ0V1eWdwcGUtZ3Y4Zm5qZHpkZ29RN0VIRkdkX0g?oc=5",
+   "data": "2026-10-30T08:16:00+00:00"
+  },
+  {
+   "titulo": "Piora relevante da inflação no Focus já bate à porta",
+   "fonte": "Valor Econômico",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQNnZxbnVURFJoMmNTN3NFUkJPSlhqaUxNcm94TThyNlcyRVNjSXRLN3drNm1oa1hlaUNPWktvLU9LWlBMSElWUTdUT29EN0lVQ0I2TEltNjNMZFRHVGRNMlhtNURocUtqT2pMaVZWX3R5WGFyVlo1dkNZdk9HbkJRMjE4bm5OV2I4NENieTJzY3ltd0hQdUNYMTRrWjN4UldPai1Ga21Tb2pGZTg5RTJN?oc=5",
+   "data": "2026-10-30T08:14:58+00:00"
+  },
+  {
    "titulo": "Para CEO da Ouro Preto, \"todas as nuvens mostram que vem tempestade\" em 2027",
    "fonte": "InfoMoney",
    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPaU1yb1d2UnVmOEtUbEhZN3hUSWdNODVfalViMjRtZVotcmN2ZkxETER4Q09qX3UxcTdhdE4yY1cwT3VpTnRxUm5iNWZIZ3dVRERLZEh2VEhOZDR3S2V3Y1dtcURXYUhuNDhOU0gtZHBhTmMyOEdBclQyakZvWFcyQ1g3SjZPVkdDSEE2VVk5M1pTU1UzWV83QkFZbDdRdHpYMXFvZFdxeTFPMjQ3UVNTRFp2MW5ZZmZM?oc=5",
+   "data": "2026-10-30T08:00:00+00:00"
+  },
+  {
+   "titulo": "Expovale amplia procura por hospedagem e orienta investimentos na rede hoteleira",
+   "fonte": "Grupo A Hora",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNaXZ5X2VzTE5Vd09odkdrWFRHYVVCS1h3YjNKdk8tTXlYODJBYVpsSGlSdTdnU0RpMW9xeXc2a2VFeUFMWWVjNklCRWt6SmdTSnpRdXlncDJWQzFIazFxOFk0RUEyNEQ4aUt6Z1EyZjczTWFRQ0FERHVqd1dHV0pyWWdWMW5rcmllNThTNzR6VDdkWGVNaFY3elhXeVB0V3VfUkt3OUV6WlBsMXNJQ3czNTROU1V4bi1WaHpkejRwVVhveUJtYXB3?oc=5",
+   "data": "2026-10-30T08:00:00+00:00"
+  },
+  {
+   "titulo": "Uberlândia soma R$ 9,4 bilhões em investimentos concluídos ou em execução desde 2025",
+   "fonte": "Regionalzão",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQS0poVGw5MlpqX3g3OWh4TmlKTXVWVjdQMEtFZ1Aza1AwNDRmX0k2NWh6WkdrZG40WldOMDFfYnY5NHNpbVQ4aW1aZklZeGlyLS1hcEE0NHF6WGsxUnJNNVVqei1qTFFja0M0NklfTjhpb0N3OVBpR2hTckhiZXUyaEtiM19obmhZemsyMFNmMERQOGJyWEow?oc=5",
+   "data": "2026-10-30T08:00:00+00:00"
+  },
+  {
+   "titulo": "Lagarde deixa o BCE com credibilidade no combate à inflação",
+   "fonte": "Valor Econômico",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPMW9SQ2lzaFdfOVJWV1ZyaFhpV25XdTdTVWdmUkZ2UUhQNUlGMzAtQkZNYUZkSVh2eXQ2T0tCWXZ1b010ajdONi1CeXhlSW9MWnhFdUp2UWZERDU2V19YbWF6VFlDRHhaZWwxbnl1MlhCQjVIc0VJb1dTbkpCUWxtYWdjcU54VUZ5eDdUMEZTVUhIRnBhQUVLRkFaTVJQSmZya3J6QUU3VmlIZGxsS19kREU0QUIyOFBr0gHHAUFVX3lxTE5iZ2FFTlZEbG9pRlpSYVpQTG9EYjFhSnBQOG0yV3E2NXRqenp6clBMSWZMMWtLVzV0TVlhWkdGdnRUbldXaXhON0lpbXFzNF9KQ09XN0RxWkRXX0ZLRl8wWVA4Wkl5NGdsLWhCUUFkaTdqc0lFR1l5Q1lTMUJQU0hTdTVkdzIxRE1jUHZjckV3aFIyRXdrZmxWQzIyWmhrWmRvWnpLcFpsZENwRGJUdFNoOWVzcjFZVUVaU1BtaGVXSHE2MHFDLUk?oc=5",
    "data": "2026-10-30T08:00:00+00:00"
   },
   {
@@ -41,52 +83,10 @@
    "data": "2026-10-30T07:05:17+00:00"
   },
   {
-   "titulo": "Eleitor dos EUA está mais preocupado com inflação do que com a China, apontam anúncios",
+   "titulo": "Eleitor dos EUA está mais preocupado com inflação do que com a China, apontam anúncios | Mundo",
    "fonte": "Valor Econômico",
    "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQb0E3R0RCVUhyWTBMOHRVbTNuRVNJblkwTUNDZzJCWERLLVNpemo5ZGMxNjJmajNfdTBiemMxRndLa1BHZlZPdGRVbTVsZ2pOVlhPMWNlZU1EbDQydjBHbUlTZjFtaHBwdXV3bkRUdWlfRXVEU19abTF0dTk1ZnVMSlp6WEN4YW5NRkdOMUVNSEZrbGJodnVYY1JmbVNqY18ybFVqVkI2a3M5XzZvd1lQeXhuWnhtTEFiWWRWX3hsWi1lU0I0ZVIyOEtZcTR3ZUtvcEE?oc=5",
    "data": "2026-10-30T05:49:31+00:00"
-  },
-  {
-   "titulo": "Japão: Banco do Japão diz que inflação atinge meta de 2% após 13 anos",
-   "fonte": "Euronews.com",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNTkNHcVFHMnAtQ2dDa0x6T29NZG1MQUJBQTAzUFhBbnVGc21QUnpMb2VUZ2NENnB1NC1xZkFlZFVmbXRBN1FDYnZ1cUVIRzhjM2c5UENiSU0zeG8xOUprNU5XVFpUSEZzdmRqN3Z2OVVGTFR4ZlZfLTdwcXNpNy1XYXdxYVNwUmRXbEROTWxkZWpKTnZMLXRrMVpObExuVnF0MEFyNg?oc=5",
-   "data": "2026-10-30T05:48:32+00:00"
-  },
-  {
-   "titulo": "Reviravolta nos juros põe Copom sob pressão",
-   "fonte": "BDM - Bom Dia Mercado",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQQVBRV0xwLTlDLVE4ZnJSSnBVQ0xFbmlXUGphaXJ3azFVdU95eFphTVJvMHFrTzQ2aXJDV1hNVlFDRmVya0s0cGRtOXNfeExsY3ZVLTlsVUZqSzZfRHVObjdsZEJDZ1NWVm1wbDJXb2lVSjRDTWpWVFRQZi10RS1XQU96MkpVejRKOWtXMTlxekJ2WUh0?oc=5",
-   "data": "2026-10-30T05:38:42+00:00"
-  },
-  {
-   "titulo": "Celinho do Sintrocel defende pacificação política e destaca investimentos para o Vale do Aço após reeleição de Lula",
-   "fonte": "Jornal Bairros Net",
-   "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNMjQ3Q2NyaGVHNzlwWnk0QlJlazZtdzFMdkZxTW1Fak1pWjlPQmdwOXVFcWlibkppOGdzR1FmdWdlYTh4YjJkSDdGTjlpbElYQ0JpbVJDSkxhY2prcXpPdWF1U1RBZzhIQkkxM2psdGdhVlo0eGdBOWYxQ2NwUUNqdU9nY1VLUHNCbHA5SG9kZDJGWHRabXVKTldBb1V3dUdwZGFMeU9nT29TT0RubGRqaFpyRERKRGg3T0UzWTUwaG9hNzBZSmtUaHFITEdMblIzZ1oyTVdwVlRrbHk0WkpWb3A5dGtxemxlS1JUd2pXcFdIWXpfV3hpdGt3RQ?oc=5",
-   "data": "2026-10-30T04:26:46+00:00"
-  },
-  {
-   "titulo": "Investimentos e golpes digitais: saiba como identificar armadilhas antes de investir",
-   "fonte": "Sicredi",
-   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQZ2FjSjVrMmc4aU5hdHUxVnFJVjFqTEFfU0REVW1MOUloNzJncFNoWE5iamFqY1pKVEhCTThwR3JCY29hTFlsZGY1d2NfMTFvd2t4d2xhZ2NoendhUklSM2EzRmM2OFIwalc3blg5Tk1PRlplYjNHcXd6UFBoR3A5QXN4NlNUOWxRcUctRWlXUllkX21GajJKbW1wdlhEaG5KR0VCVFF1aXd3d3h3NEJHdUVMOTlRdEx3WXg2ZGc5MkxmeDdJc2dHa2ptRjFtRDc0VkE5N3d5Mk1weV8zczcw?oc=5",
-   "data": "2026-10-30T04:04:24+00:00"
-  },
-  {
-   "titulo": "Bolsa recua 1,06% e dólar fecha a R$ 5,387 com atenção ao fiscal",
-   "fonte": "Vero Notícias",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPVU1tMmdKeTktNGJ6YmYtWGZOREZKQmI3eW9mUEk3U19uVi1EaVlIUDJLa2YzUFRZUEFRZ3hDRXhRZ29UTzlFOUJRUUI5Z3FjMVBkVTBiMk03d2RhcTJJVzZ3eEZSalVtUW1TUEdKaHZ0TThwenJ0QXNNUGdjUWx5NExkYWtGTVZ6TWNzaHVjeGRGUFBFSU92ZmsxMA?oc=5",
-   "data": "2026-10-30T04:00:00+00:00"
-  },
-  {
-   "titulo": "Governo prepara PixMEI de R$ 5 mil para investimentos em pequenos negócios",
-   "fonte": "Agora RN",
-   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1lZWg1c1QwYWZacVVmM3Z5UThEajY4Tmo5Q3pPekZ0LUtpcmNPU29sVEdsYmR6cUEtMDMzR3hXd3ZGOXFObTVaemxNQlliQmgyUDZMVU1JOVg4cnlRSU1uNkhIRFM1LTBQMFVfclhpWnNFMm5xMU1jU0xOZw?oc=5",
-   "data": "2026-10-30T03:42:32+00:00"
-  },
-  {
-   "titulo": "DAY TRADE 30/10/2026 | Abertura de mercado e minicontratos",
-   "fonte": "XP Investimentos",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPMENSZWIwTnhSeGVWbjVFTV9Za3Q2YzQ5NDl6RnF6clhSZXkyWnMyUXlwMzBzdkc2MmpGcEs3ZnNwT2hiU09jMVZvSVozcVFuTnRBQ01UbGVmdTJaQzFOYWRzQmtYTWlON1Jma2h0M1JxWmtqSVg4R29hWUlRSWc5WWpqLVBYeHZFanQtc1RPS3QxVzlBY2wyNldpbURhNTI2S3A3dmkzTkdld2hLUEVtaDV6UQ?oc=5",
-   "data": "2026-10-30T03:39:57+00:00"
   }
  ]
 }
