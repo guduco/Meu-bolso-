@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-10-30T02:50:28+00:00",
+ "atualizado": "2026-10-30T03:49:56+00:00",
  "indicadores": {
   "selic": {
    "valor": 13.75,
@@ -16,6 +16,42 @@
  },
  "cotacoes": {},
  "noticias": [
+  {
+   "titulo": "Governo prepara PixMEI de R$ 5 mil para investimentos em pequenos negócios",
+   "fonte": "Agora RN",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1lZWg1c1QwYWZacVVmM3Z5UThEajY4Tmo5Q3pPekZ0LUtpcmNPU29sVEdsYmR6cUEtMDMzR3hXd3ZGOXFObTVaemxNQlliQmgyUDZMVU1JOVg4cnlRSU1uNkhIRFM1LTBQMFVfclhpWnNFMm5xMU1jU0xOZw?oc=5",
+   "data": "2026-10-30T03:42:32+00:00"
+  },
+  {
+   "titulo": "Banco do Japão mantém taxa básica de juros em 1,25% e eleva projeção de inflação para 2027",
+   "fonte": "Valor Econômico",
+   "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNNHNvNkhJMzRiZDc5U05QVER5RmstZnlpRTJ5WFJQLVgtaHlGTHZMQVAwcVJQZGZPejFSVi12UEdYZDY4MnNvaVpqVkdManR6cGNOUGw2VHRFOXp4cGF2ekdjTHdZc0poX0NPcktHMUdmenlvMHk3ZWpTR2Zqa0lhZEMzcU4zZVRVQzR5UnpxUTlTOGJnZHAtQWp4RU4tbHZhS0VVWEtTUXVrcmFNRWlDVG1jbzJEa1ZpU2dZVTVyZ0xXVlEtN3VZZUlfVDcxa0laWWJtYm90bExrRXJpWUpQdW8zMFZ6Zng1ZFFVS0g1TdIB_gFBVV95cUxPX0ExTDVGaXpJVHRTU2pGaHhGM29QVy1ndDBzLTdOZnhtbVJWbHltNmNWQVFOMW1RZXR2cG1Ea3hYWTVGcnRZT3BHXzZMMEQ4dkVmS0NCUW80cDFGZGhqSTBjaVBic3ZTa3RhbldXcGFMSGszeXdUVi01NDlQYmNmV3ZCZ3lGcWp0a1RobWVYSjMxUGJaTWFUTG41RmdJVkgydE1RYm1xc1ZCd0ctbHBET0lmS2luakZBVVF6alRhUldEMFBpS2trdzZsQ2l1SENaSkhZYXgwNjc1VEd6bVlCX3ZfTVRPVnlERnR3aS1YUTB6Q3c5Q1FJWEZmeGZKQQ?oc=5",
+   "data": "2026-10-30T03:35:48+00:00"
+  },
+  {
+   "titulo": "DAY TRADE 30/10/2026 | Abertura de mercado e minicontratos",
+   "fonte": "XP Investimentos",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPMENSZWIwTnhSeGVWbjVFTV9Za3Q2YzQ5NDl6RnF6clhSZXkyWnMyUXlwMzBzdkc2MmpGcEs3ZnNwT2hiU09jMVZvSVozcVFuTnRBQ01UbGVmdTJaQzFOYWRzQmtYTWlON1Jma2h0M1JxWmtqSVg4R29hWUlRSWc5WWpqLVBYeHZFanQtc1RPS3QxVzlBY2wyNldpbURhNTI2S3A3dmkzTkdld2hLUEVtaDV6UQ?oc=5",
+   "data": "2026-10-30T03:33:45+00:00"
+  },
+  {
+   "titulo": "Banco do Japão mantém juros estáveis e diz que inflação já atingiu a meta",
+   "fonte": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQUXB0VWN5WVBlNmgwSDVJTnF3TG1sRG50YzQtMkthZ3NyM2RVYU50TEUzTTRfQmE5enpNLUFzNXZzZFByc0VQOE1lalRIbnkwX2xoamNJTjNfdmhhcFd1UzAzNjRVdzE5eDFDVEtSeFhvN3VCdzlDUS1ENHVGUktwaE82bkVHMmV4cUlGX3d4WEpQTWNyb21BOWs3N2Y1akhvY2lDQUNfTDhJSURCbHJJaFdZUG5YMzFVdGt1YjJ1ZjBodw?oc=5",
+   "data": "2026-10-30T03:21:00+00:00"
+  },
+  {
+   "titulo": "Moedas asiáticas operam mistas com recuo do dólar e yen estável antes da decisão do BoJ",
+   "fonte": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
+   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNRm03NEdxOWVDQVpEd1QxSlN6RE9Ma0NVcFlaazhGcXBSY3loWjZqVzgzRmM0dmVLSnhmY0J5VDNyb1d2RjAyVHNsQk1wVm5tN1J3SlZsTGgyRV9xX2pfdkppTTh4RFRyUzlvZzVzT3Z2WDBhVWRId2xfVzRDRGpmTnU2TGNBSnNrTFVSZzAtZGx1UUQyc1lkRDdsQUl3WjhoajI1SEpIWUJFRHEtZUNTOHk1R21TTDhYTVZoVGRIQXlhODNSUDByWjJ3Y0pQa1VWZnc?oc=5",
+   "data": "2026-10-30T03:13:00+00:00"
+  },
+  {
+   "titulo": "Pecém recebe R$ 391,4 bi em investimentos e se fortalece como polo nacional",
+   "fonte": "O POVO",
+   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQbHVBY0RvYjI4N05BVEIwWlNxdlN2X2NDZUJoVl9ocl9YS1hKTXUtS09LWUMwS0Vld2RDR01GNkI1MUFyVnZhaE55dFgzRENpeW81U2xlMFhlM1gzLVZiQUR5Z2s4dkZOLUpONVZvRGh2OVpoVWxvXzN3Zy11VkRkREdnQmF0bHoxTmprN3o0SnM5SWNwZ0pJUEhUcDFtRHZnbDBXV2xJalNHejZfNXdCLXlPNGlZVEJHbVJmQVQzcjZYRDVhVGJ6WGFLc2hLdlE?oc=5",
+   "data": "2026-10-30T02:52:00+00:00"
+  },
   {
    "titulo": "Brigada Militar inaugura o Copom regional do Sul do estado",
    "fonte": "Diário da Manhã Pelotas",
@@ -35,6 +71,12 @@
    "data": "2026-10-30T01:59:00+00:00"
   },
   {
+   "titulo": "Emissões de debêntures incentivadas somam R$ 6,3 bi em setembro",
+   "fonte": "Monitor Mercantil",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQQzVPT3VtOFNBenh2cThDb1dlMjRqelpGVUNwendaZkxlS0hiV1RZcjh4dDRBeGxtWnRkRDdreF9abDJHOU9rQWFyaTc0dDFMODk1X05xMGJ6Y3NWY2dKLTNXUC04aVY5bHVndGhOdmpfcV9Jb2VfdEZMSTVkemFidGhjVkRscGdaQTlISlJxdUJ2UmF0TEVsdFdR?oc=5",
+   "data": "2026-10-30T01:46:02+00:00"
+  },
+  {
    "titulo": "UFABC celebra 20 anos com novos investimentos e ações",
    "fonte": "Repórter Diário",
    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNYml4T01iVURCUHp3ZFFvRmJHQXlkSFhQX2ZKVGdncHJwREhBRjRRZWdvTzZRTVZfY0tieU12NkFVTUNOTUdYZ0QxTHQ3RzQxWDFGNVBnS0xQeWtLYjk4aUdUS3NkaE00eHdsZWxYbWtUQzBfZzdLREVnR2YwWHZvQ1pNX1lVdmpKZF92ejZTRmczcEFIejk1dzBIdVUxT19WUjVGamFKWQ?oc=5",
@@ -45,48 +87,6 @@
    "fonte": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQOWtGcy1XY2hRdEM4Y2FfdXlwbnNqSGRIVm56NXBsTVQ4Qm5mN1ZsdG85Tm1KZHRPejBpMHVkNnd2UkVSYkQ5Z3dYaTBvLUR1YnU5MWdTOFNEbWdFRTZLdTJiVGJfd0xMTVh4cVRMZTlkWUFkV05TTUd2M1FkdlhBZTV6SlVMQktSZFp3d3VlaEFvSHhSNHVobElvVU9SRlg2ZEpMb2RjaGtWRUJkNHBDLS14Q0F4OGVC?oc=5",
    "data": "2026-10-30T01:16:00+00:00"
-  },
-  {
-   "titulo": "PIB forte e inflação pautam EUA a poucos dias da eleição",
-   "fonte": "Valor Econômico",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPS0hpalJJZDdVUzl0T1U0NllmMEJha2VQSkl1LUVZUW5BR1dISVVUOW15UVFjYXViWHVpM1duQWdrQ29NR2hxbkg5NUJOZ0w0VFFDRUFWWWhMNzhwLVhvUGswcmhHb0FkanZiRXZ1UTBzNVp0NndMeUo4Z2xMTmtGLU5kaDFSbUswNWlCSXFRMU9aR1VQb1A2dVdlOHFyY2ctdm9HMXAyQkFEVlh5M2czX0pLNWtBTkHSAcYBQVVfeXFMTUZENTFsSC1fWW9oY1N3c2ZPSC1VZjVLZUlGNFh0cHFXaV91T1JJMkpqRUdDVmlkVEthaU8zMEhHbmo2aGYyaW1oTGRLU01nTlhVeUpld0VtaldUMnNwcUhwMkFjWXEyTXFkS2NqY013V1RkRDRqbFR5blVHdWRYUVlqRmZGZjJPUER6aUwtT3Q2enFEMVBUYkRYX1hBemlBNEZlUFBUakhMRnFMcmxfSnI2NVJRWkJraGdwcWJrMC14SnB1XzJR?oc=5",
-   "data": "2026-10-30T01:00:54+00:00"
-  },
-  {
-   "titulo": "Codam aprova 63 projetos com R$ 1,65 bilhão em investimentos na indústria do Amazonas",
-   "fonte": "G1",
-   "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNdkpXUTNqdkR3bldOT0VTSS1RY2ZJV3ZjVl8ySy1jdXBSdnpZVWlxWEhHNDZyal9fdlc2OUpOQmRHMEZ0eU9jZVphYkNGRnhVZlpRUVM3QWktYnFaNmliYU9aVHp4dGJqNlBFUTViUHhjcmhocThONGJ1WDY3X0J4NmRtZXF4ekx4NnBDZkhqUEk2dWdOUm9kVWZkaFpqZmF1cUlKbUc4S3E1TmR3aTZOelNzUlFDU016V3locWp3dWdDN1RMc0MycEpZMFFrMHV2akV1VzNxeGFoZUJiLW50Vk5xdHFSWGdzN2VvVVNHZGZsTnI4RnczeE1LRUXSAfwBQVVfeXFMTXZKV1EzanZEd25XTk9FU0ktUWNmSVd2Y1ZfMkstY3VwUnZ6WVVpcVhIRzQ2cmpfX3ZXNjlKTkJkRzBGdHlPY2VaYWJDRkZ4VWZaUVFTN0FpLWJxWjZpYmFPWlR6eHRiajZQRVE1YlB4Y3JoaHE4TjRidVg2N19CeDZkbWVxeHpMeDZwQ2ZIalBJNnVnTlJvZFVmZGhaamZhdXFJSm1HOEtxNU5kd2k2TnpTc1JRQ1NNeld5aHFqd3VnQzdUTHNDMnBKWTBRazB1dmpFdVczcXhhaGVCYi1udFZOcXRxUlhnczdlb1VTR2RmbE5yOEZ3M3hNS0VF?oc=5",
-   "data": "2026-10-30T00:32:07+00:00"
-  },
-  {
-   "titulo": "Tendências 30/10/2026 | das principais ações da Bolsa",
-   "fonte": "XP Investimentos",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOX0lnRUwtZXE2bUxLbEdBbVozblBYZGYyZkM1bGdESkxEZE9rZjJDbUlVOHVOZlR2TFhJaGFNeUJpZERmNHlIMnFYWFhrMUVoNHJXcE0wQlRFellaU2NVZlpmdWZFOHJYbmlsMTdXZjNQb1ZrTXAwbHQxMFpvclNTY2d5c2d1N2RhX3FUM1FybU9mZUs1V3lick00TGt4S04talNHdnZIRTVhUENa?oc=5",
-   "data": "2026-10-30T00:24:32+00:00"
-  },
-  {
-   "titulo": "Gabriel Souza destaca investimentos no Litoral Norte e fala sobre futuro após derrota eleitoral",
-   "fonte": "Rádio Osório",
-   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNVnVlRDgxWXRxdzZWZmZydEF5YVJqc1R4SzI0VXZ3VXoxWmNpYVFpdEd6dFY5dnhsR0RCUmczUkplUUgzSjZkSEI2N0J3Mm9uTjJINzFuc2ZvbFBnUXFQemNJNDZhZjNsTHpDeV9vX1dFeVgwOXJZUlpIUVczRWNZX2g4dVJxWmd0MjZ3MDY3Q0dUQXhDbXdvSVFrbnVtZldzUTNheUduTEJINFR6RnhUV29DLThRZHFTMUFDZEY4Sm9rNGF4cjkzZjFrMUtjTktmSVE?oc=5",
-   "data": "2026-10-30T00:21:00+00:00"
-  },
-  {
-   "titulo": "Fato relevante Arandu Investimentos: OPA eleva controladora a 98,56% do capital",
-   "fonte": "ativovirtual.com.br",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxORXVIa0FwVFZMMmZnQ3QtWWVlWFAxYnR0X1loVDMtMzkzUm5lbnctYmFQZWk4UFBNWV84cXpWd2g4cVZPazM1YmIxa0g5VVBkOG5TQnhBaVMycDhYbW5fVVNNS0NoTXpPZlVfZV9sVW42LWR0dUdGTlBlaUVJSW5XNGQ4OHNNa2xnWXVKUzVVRDB0bElnelctYUJ4ZlZhZDdyVVdmZkxEbmdFc2VQTUVpX0VXY1ZWVHU2NmE2T1pFbGlpQQ?oc=5",
-   "data": "2026-10-30T00:03:30+00:00"
-  },
-  {
-   "titulo": "Inflação básica de Tóquio segue acima da meta do banco central japonês em outubro",
-   "fonte": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
-   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQZlNmTmZmXzk1bXNRMjVEdEszc1VHeFcwcTZpYU9HNE56SmdPbC1UTTNmck90dWE4VmZFVXBuNGJFSWdGN3F3SHduaVVxakNRZzVGTV8wQkY4QTZjbDlCckxEY04taGQ0clpTZGNJVE5vbTAxRWZhdkpWWFh6YzRNXzFvT1BaRnRUNEVjVmhDUXJ0eDRYbGxOTktPenJmeXdqUG9SRDBmZFUyTkhURnlTSFhCY0xGRWhkUGNRLV9lb1FiMkQzWm5nVHJmVC1ibVdGSHBZcVd3?oc=5",
-   "data": "2026-10-29T23:58:00+00:00"
-  },
-  {
-   "titulo": "Ibovespa cai pelo quarto dia seguido",
-   "fonte": "G1",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUjJOMUFXZ2lEYlMxbFNINGxVNlBZdzFudF90ekxVVHA2c21wOFRJRGxNVGsyaWFKX3p6X1Z5OGFkUFc1eDk3YnlEYS1PYTVBand0UV9kTTd3UGVqbXFXdzloMmdjeFJ4aTNsek1vVHJhSnNoOUlUd0hqUTBUNUhRT0E1SnpNdHFDZ3hJTFI4Sk1Yc0NMUnFWeWFkUVJfeE45N2k0YXFrX2TSAagBQVVfeXFMT1IyTjFBV2dpRGJTMWxTSDRsVTZQWXcxbnRfdHpMVVRwNnNtcDhUSURsTVRrMmlhSl96el9WeThhZFBXNXg5N2J5RGEtT2E1QWp3dFFfZE03d1Blam1xV3c5aDJnY3hSeGkzbHpNb1RyYUpzaDlJVHdIalEwVDVIUU9BNUp6TXRxQ2d4SUxSOEpNWHNDTFJxVnlhZFFSX3hOOTdpNGFxa19k?oc=5",
-   "data": "2026-10-29T23:54:47+00:00"
   }
  ]
 }
