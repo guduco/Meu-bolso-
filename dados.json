@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-10-31T11:38:43+00:00",
+ "atualizado": "2026-10-31T12:49:02+00:00",
  "indicadores": {
   "selic": {
    "valor": 13.75,
@@ -17,6 +17,60 @@
  "cotacoes": {},
  "noticias": [
   {
+   "titulo": "Inflação alta assombra Trump e os republicanos na véspera da eleição de meio de mandato",
+   "fonte": "Estadão",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOUzlPbHFEVFRwTWlIVzZVdmlaQ0pGcTlVcHNZQUR4SUpLU29mb2RiVHNMaEt3WWRyUzExX0VCRVRvaHdiYXVkMWMzdDFaT3VuUk42NXNyRlBYTUtDRnhRcm8xNElZVEtabGJFeUVtekRVVEl0U3lodF9JSDNlWUtCbEF0YTBHZ1JJQmtHVjZ1UjJEQ2h0MFhrVDlB?oc=5",
+   "data": "2026-10-31T12:43:26+00:00"
+  },
+  {
+   "titulo": "Edital de concessão do Estádio Municipal de Cidreira prevê investimentos de R$ 40 milhões",
+   "fonte": "Da Praia News",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQNmh1S015S1hFV3ZmdDFwQ2M4NmlSbVRtbV9LMDBHdXV1VzhjZ0FvQTNyQXloSnlYRWxXLUxrQ0pPM0YzMFVtV05SQ2pJLUpPZDdDaTdleFNBMHR6a1RpMkVkYjZJY2FDNmQzME5fOHFyNmVpLTFPcHNoTHhFUEpuZWhQcVoyQnhKWFZmMEljS1VUQlFDLVJmUE9zZjhHZVZiOS1LaUVIQ0hUUFFadUs5ZHBQUVdZMWo1NU1aTFlYcnZsMFUyVWp6VA?oc=5",
+   "data": "2026-10-31T12:36:51+00:00"
+  },
+  {
+   "titulo": "Ibovespa fecha hoje com queda de 0,75%",
+   "fonte": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQWExma0dQRzZTVGhXcHdndFpGSE1ib0RDbUJrQUJpcGJiS2xiOGYzc2liY1VvZVVyUFFod1R2VjVrdTFQVk5fZTNnalBFakdjWGo1c3ZpZ3NmWEZiSVlmNnRYZVo5bG1rNDVrSkN5T05Cd0s5ZlR1U21aeU1CY29aUnRzQVVHcUE?oc=5",
+   "data": "2026-10-31T12:36:00+00:00"
+  },
+  {
+   "titulo": "Ibovespa despenca 18% na semana e tem pior saldo desde a pandemia após eleição de Lula para quarto mandato",
+   "fonte": "BlockTrends",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPZ0k1SGJLSzhHb3NnSVZiWENJaS1JZEF2T3RMeFZNQWhNQmpRbWZtOFlfUldPWjYxcnRiZmJvRWktVXhuQ09pUUVudGNKNlBLeXVjUXFlaXI2Mkp2VHM2VjlHclV2SDVTSmdmWTdOc3FmbmdLQmUzYXRZTm53TzZoM2xGOWFTYUp4aUJsYkp6WjZiUlBT?oc=5",
+   "data": "2026-10-31T12:32:19+00:00"
+  },
+  {
+   "titulo": "Ibovespa perde 18% na semana da reeleição de Lula; dólar dispara 9%",
+   "fonte": "Revista Oeste",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNNHVBYTNiN0VnMFFEcEVRREJaMHc2VWF2Z0l0QVoyN1g4NHp2NE05Unp0Mm1zQ2o5TkdrNm5FU3FoamVjcUp6OEEyTmdHZDk3MFV0emxNaHNySmgyYWVleFNVajE2MURlT1ZZTU80c21GaFBnUFBxbW5JQkFydk9INDRZOGdxQTFjUVNWLVIxa3ZrdnVIS2hiSTdhOWxUeXlR?oc=5",
+   "data": "2026-10-31T12:27:00+00:00"
+  },
+  {
+   "titulo": "Itaú reduz previsão do PIB e eleva inflação para 2027",
+   "fonte": "Vero Notícias",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOeGl3Snc1WGZMZmg5alptUXBIem9YMF9MTEdONXQ0TnZqamZTX2RLbWtNYjJXSnJidklOZ0cxMk1IYnRnUjZvSDZ3ZDNlSDZNdmlDVlZJSHJSZWJaaGI1YnhxRmRpVEhHUGJ6c0dEazQxRTJOOVlGclcyMVRHLTVqT0xqbm1BR25TMUpZODQ2eHpwQQ?oc=5",
+   "data": "2026-10-31T12:18:21+00:00"
+  },
+  {
+   "titulo": "Sangria na bolsa deixa varejo e construção civil entre os setores mais castigados, mostra EQI",
+   "fonte": "Seu Dinheiro",
+   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQUGRYVFFiZ005T041M05zWkw2SlRmT3FSeVdkX0RRcGdmaER0aWZTSkEyS0RBSTdxWE9UaVdkV0wwVWhBZTkxZjRDY3NvdG85bWlwMHhrenpHMU1pcnBLZG9vQXpzMzVuR1hNbU1BRUlKNTZqd013TUdLemp1ZnpCa2JfM1pNX0s5Y0lDdkFiVkladXpiRlYwLVBZQ1BiY2FocHpBRjJZWEZKZl8yR0FaOVJ2Rk55OFpoX01ZMjVmckRfbWZuTUZ3UXgyZk9iVms3aUJ2ejdZeUZ5RkE?oc=5",
+   "data": "2026-10-31T12:15:00+00:00"
+  },
+  {
+   "titulo": "Único vereador do PT em Petrópolis, Léo França quer ampliar articulação com governo Lula para atrair investimentos",
+   "fonte": "Tribuna de Petrópolis",
+   "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQU2ZSdlc5Q3JDcnZ0WXduMHJLTGljNTZPMDN1amo3am83c2N5RHpQZ3RVZE5QVEd4NXNVTURLQTdWOGNFdkdXWlZRV0htTC1DNy10UUEwcFJ5NVJONE92YWVoNHRsc09SUWxtWmRvSFNFU25PUlpnOXlmREdFQWx0MXN2V1BhQ0UzSmhvQ1cyNExFZ3ozVUZ2b3ZUWjV4VWxvUGZBNV9MMjhSVERVcGJ2Z0wxNmNuY1VMUFZxWTVGZUF4LW5Yd0REZVpXSEtBdEZIQWVINWtQeGRXUEVOVEtLTkRYWkM4SHVrMW5JRWYtNA?oc=5",
+   "data": "2026-10-31T11:45:15+00:00"
+  },
+  {
+   "titulo": "Goiás amplia investimentos para incentivar mulheres na ciência",
+   "fonte": "Zelo - Portal de Noticias",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPZWF4RnVsSDQwVTFxQ3lENmdUYUV3cHRvbWpURUVRSXFweDFTeHpYTjIwOVpGajdrSURQcy1hU0NwcU9xRDFxZGc5Q1FZYTZhODg1YzduVW1scFR2d0JDaXVsUGNFbWpjck5xTzVYeVJZVlhIZGFpZFpRbkdzR1hPbVJoMVJYQnpKam5hMkREbl92S1dB?oc=5",
+   "data": "2026-10-31T11:41:00+00:00"
+  },
+  {
    "titulo": "Real registra maior desvalorização semanal frente ao dólar desde 2008",
    "fonte": "Jornal Boa Vista",
    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQai1MYW5PTkNVbVItcjloVTJUVkJFWXJyWFJYcDZwZkFobkpuVE05bFQ5U1F1bi1EZVhSMEt0ci1UUmVkM05nVFhfc25tdl9XX0RiTFkyQXB2OVBSdkcxRzhYR1NSbGVnUHl0MTFzZUFpZDJiMmxlalFtbXN1Tml4M1kzblVMUTJZcWRXbHBvcnE0YmJyek9GWkZZR3dwdnFtcFE?oc=5",
@@ -33,60 +87,6 @@
    "fonte": "Money Times",
    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE93UWZuakdwblJCVE9hbjBwTnVpbkxHX0dheGc2QXFCQTRxQ0NzYkdJOGlweHBGLV95b0FuaG9veEFvSVVCZUZNaXlLZEh0YU5rcnc5bGE2ZXN0d2dpdFNOeHVFaW00RnJV?oc=5",
    "data": "2026-10-31T11:20:00+00:00"
-  },
-  {
-   "titulo": "Dólar sobe a R$ 5,44 e tem maior alta de 2026",
-   "fonte": "Acia Araçatuba",
-   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAxY2VPYWhscnJaQ2JsNXkzdzhqb2xETXQ3djVJUzVyWUN3RFpsajBMS3VaUm1sREtEYWZpN3lpTHNMR2lPZlFtbVhFUW5VR2M3SUJURndFTkVTdHhDRktFUkRERk5VNkU?oc=5",
-   "data": "2026-10-31T11:17:27+00:00"
-  },
-  {
-   "titulo": "Ibovespa em novembro: o que esperar após queda da Bolsa",
-   "fonte": "Acia Araçatuba",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQRW1EUXJqUGhob2tWYXIyQVJmUWlNZGZFTm92bHVaY1dqX2hJNlFNMUFuUkdNSFhKSWFOc0tWdml5Z1ZHQkZnVV9OSERIenNBMDdCcE5QS3lqZFVRSnpiYk93UE1xOFNiVDkyM2xKb3hxRE1pbExtVUQ2eHhmQVNzZA?oc=5",
-   "data": "2026-10-31T11:17:16+00:00"
-  },
-  {
-   "titulo": "Ibovespa cai 9,88% em outubro; dólar turismo e comercial avançam 5%",
-   "fonte": "Poder360",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQXzBQWVpRS003cFVVeWdzWG1LVUpIcmR6dkwyQk53dXZDMExyQzdSRnlhOWtGS1VLdFhNSXRGblF4QzktOG5ISG5KLXUzWm9TRms3WGl0U3M1bkR0NU8tRlBxMFNPQ3dtcWJ0dDl3aWNXS2RLOTNrT0E0OXhHSFBHSWhFTXFMbTE2QWVwdTY0WDlneTRXal9LMWU3a0Rmb0U1UlpFSmxNQ0pRUEk?oc=5",
-   "data": "2026-10-31T11:13:59+00:00"
-  },
-  {
-   "titulo": "Primeiro Copom após as eleições no centro das atenções",
-   "fonte": "Correio Braziliense",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNRTJWMF9iaFUySm1ReVZLNUJRVDMxcXQ5Y2lmODJVRmRsNTBjN0NNMnAwU2RnYW1xWGZFc3Z3eVFHUVdvZm01ZDZ6T0owOU9Wek9iT2NGYkdvNHpJd01QaUhEZWt6WkxTYThLV0xBN19vcFctNDRPYVAyVTkwdXFNbXpXZGl5X0RGcTV4emRlUGdPbkRsd3U5QVZ0Nk9hdkhvMVhBTg?oc=5",
-   "data": "2026-10-31T11:13:42+00:00"
-  },
-  {
-   "titulo": "Franceses vão às ruas contra inflação e Governo mobiliza 70mil agentes",
-   "fonte": "band.com.br",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPbFlJaFZOSnR4UzI0cmdzVmZTWUlUUHJMcFVMalY2YW11eXgwZ3RzNlZKQWlEaWE2bE0wenFWcTVxSW93a3J0bGFTZUFMcklxSm94OS1FSVo4dk9NU095ZmdrUERuT0NyTm0yWlJSOVZlY1ZzblhyVV9VUmwxd2pVMHVDdHc5UktaNnZqNEZkZDk1VlMzOWJ6VW9ScllfWTJ3VkY4M3hHWlo3M0NQc0FR?oc=5",
-   "data": "2026-10-31T11:13:13+00:00"
-  },
-  {
-   "titulo": "Pará ocupa 4ª posição entre estados com maiores taxas de investimentos do Brasil",
-   "fonte": "Correio de Carajás",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQMkw5RHY1dlNqTkFpelVzN3NBd2Fud1B5aEhEYzZycG5PR281WkJtR201aDI5Q0dPY0xHekhldHY1d1E1RkhwdEZzRWxZTG5xaDRLUTdoMGM1R0s4TlJaMHBFMk9uRkxzR1hjQzZFSFdha2dNTDk2S2VveXA3dEM5aWdxRXMzaEVmUE9YY1pmbmdJZnlackp3NFlPRHdmeU9sU2UyMHpOOXJNWnUxUW41aEtQQQ?oc=5",
-   "data": "2026-10-31T11:12:00+00:00"
-  },
-  {
-   "titulo": "Sem ajuste fiscal no Lula 4, Selic deve ficar alta por mais tempo, diz relatório",
-   "fonte": "Exame",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZzhuNENZZzdCR2t4d0l1WFYwbmU4Tk9UcU4xSFJxeTdhQ2U2WmNDWnlJUHN0NlI0cVNZTlRGcy1Ec1o2b2d3VVk3dU05c2RYbkRWUzktYUtQNXNveDFKZC1XNVI3UWpxcTVIbkNpN3ZSOFVMVFZicXFXMG9JZE9weEtTLTMteVpvZjdUQk9HLTVhSE0yemROd0ZFMXVxWDFFb3RJNGd3ekMtdw?oc=5",
-   "data": "2026-10-31T11:04:25+00:00"
-  },
-  {
-   "titulo": "Tokenização aproxima emissores e investidores com redução de custos, apontam especialistas",
-   "fonte": "Tribuna do Sertão",
-   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPOXpTS3FrSnlsRTRZaHRETGMtNk5QWTRlcmM3dFFTTHNlRGtqdFVTOXRlUEJNaHNOUTdscG5DSXgzSzktazBzcU05X3ZmOTB0ajJiZng2RmY4S2pvdlZVbDBmU292NHZ5WE9Cem40YUcxZEF1cHgxc2dWU0xCeFYxRmtLNWNacHJiSVRDUk9DdlFSN3pkVzhTcnZRSVhUa04yV1JETVlXX1Y1NUVZaUtiSXROMmFuX1lGdUN4alYzVERMc1ZfWVlHR2NDbmIxT2RLSThBRVlRRTJiNkxCZ1o5aEEyRQ?oc=5",
-   "data": "2026-10-31T11:01:00+00:00"
-  },
-  {
-   "titulo": "Pós-eleições no Ibovespa, balanços do 3T26 e FIIs; veja destaques da semana",
-   "fonte": "InfoMoney",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNSnVsbEhTOUpTaU1LXzdVek9KeGQxbnpmdlA3SXlCZVJCV3A1N0lxUlEzcl9TbDBycDNmdmxxNmRPbGY4YU1GY1ZNTU9oOTdVdE9TQnh0RFNtOEw4UmZJQzQxdG94TXpSUlJwQU8wd1I3SHRXZzdCQlRVdEpUM1JJYzk4T3VIT1UzNFhkelAtbWlPejZiQllfMlFzdlliUHhXZEdRbXlBd3puMDdPX2FLTnFKa19WVVNu0gG-AUFVX3lxTE9sRUZCeGpvazc2c2UtUmMyMlh3NHJ5Y2VsR21QczFfMlpLNFhiN0FkWjY3NXpxZ09qNzRwcFNOdGJsVXkwNjFOS0lQdC1ZODY3LXhaeWxDNU9sWFpBVkRHdHd5eDRZXzBCYUZPd1ZaT2FSYVJWQmtqZWwyR1dOMkZYWENVUWRIWThRVW1mRTFad0JIbEI5ZVpzZHVfOHAwcVE2YjBSb3RIVXF1THozMkxJb0xBb2VubXJMVzZRZ3c?oc=5",
-   "data": "2026-10-31T11:00:00+00:00"
   }
  ]
 }
