@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-10-31T02:49:29+00:00",
+ "atualizado": "2026-10-31T03:45:43+00:00",
  "indicadores": {
   "selic": {
    "valor": 13.75,
@@ -16,6 +16,12 @@
  },
  "cotacoes": {},
  "noticias": [
+  {
+   "titulo": "Produção de petróleo recua no RN e setor busca ampliar investimentos",
+   "fonte": "Agora RN",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5OT2hBdFZrUDRXdDVzaGQtRXp6QjBodmhISWpWV3RkYmMxQ2drLTUzM2w1TnN1WkQwWldEYkxZWk1VOHk4QjM0UktpZGl3SFMtZXgxZlBBR1Q2aVRneFl0RTJnMnUweUN5YVBucTVvaFU0azdqRS1IejB3?oc=5",
+   "data": "2026-10-31T03:11:40+00:00"
+  },
   {
    "titulo": "Dólar sobe 1,05% e fecha a R$ 5,44 nesta sexta-feira",
    "fonte": "Vero Notícias",
@@ -59,15 +65,9 @@
    "data": "2026-10-31T00:32:00+00:00"
   },
   {
-   "titulo": "Dólar sobe mais de 1% e Bolsa fecha em queda nesta sexta-feira (30); veja cotações",
-   "fonte": "Alô Alô Bahia",
-   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOOWgtV200OXg2ek9hSEcyTWxiREtwdkFzOGdmT1pDWFJrSXVfYWdzSjktX3lab2lIOXFKVndoQ3RFRlk0a25PZHpSQnZkVVVIWVdfbDFsMmRaV3FGWXFJYk11TnVlOUlIeWxHNGczcERTWk01QTF6SHc5RTJTc3BkQWppOEo2eVpMemtNTHhzSHZFdGs4VkdSazgwSmhMbVdwTndHWU96NW02c0c1ZEptelRxQXhSc0dsYjlDeUQxanM?oc=5",
-   "data": "2026-10-31T00:31:56+00:00"
-  },
-  {
    "titulo": "Ibovespa acumulou 18% de queda em uma semana",
    "fonte": "G1",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPckdwLWU1VWs1eTFjQi03LXhOaVdpMkVWQ1YwT2V4d21lbWsyOG1ueVowd29BSXJ4d214M3RBUEQyT3gxRzV2Mk5IdXZWNk01OXYwbHkzUV9SRnJucjhROFNnS3lJWWNfSF94WFNuLTRUWmZ6NDhoZFhtT2RrOEhLRHFidDZKR3F4RzhVZkF4SXgzcE42NmRyb3JaM3hhdTRJUmZn0gGyAUFVX3lxTE5uVEp1TzlfR1QyRTA1N2huNDlTM0dzS0dXTEJ1M1VSbVJnLUhvZEdQTG9DWDVXLWZITUNIcGQtWXI2QnF6QTdkVEZxQnUzT3JjcDl6SFpxLW1xRmVZSnV6Rll6RklqdGRhSzNYUkN4ek1MYU4xSjdCbGNzeVRzclMtX2pjRWZvU3RoVUhrbW1CSmVaWlF3cGtIcXJtVnZVei1RWUNtY1VwMllIeVVRTzlCLUE?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOblRKdU85X0dUMkUwNTdobjQ5UzNHc0tHV0xCdTNVUm1SZy1Ib2RHUExvQ1g1Vy1mSE1DSHBkLVlyNkJxekE3ZFRGcUJ1M09yY3A5ekhacS1tcUZlWUp1ekZZekZJanRkYUszWFJDeHpNTGFOMUo3Qmxjc3lUc3JTLV9qY0Vmb1N0aFVIa21tQkplWlpRd3BrSHFybVZ2VXotUVlDbWNVcDJZSHlVUU85Qi1B0gGyAUFVX3lxTE5uVEp1TzlfR1QyRTA1N2huNDlTM0dzS0dXTEJ1M1VSbVJnLUhvZEdQTG9DWDVXLWZITUNIcGQtWXI2QnF6QTdkVEZxQnUzT3JjcDl6SFpxLW1xRmVZSnV6Rll6RklqdGRhSzNYUkN4ek1MYU4xSjdCbGNzeVRzclMtX2pjRWZvU3RoVUhrbW1CSmVaWlF3cGtIcXJtVnZVei1RWUNtY1VwMllIeVVRTzlCLUE?oc=5",
    "data": "2026-10-31T00:25:07+00:00"
   },
   {
@@ -83,10 +83,10 @@
    "data": "2026-10-30T23:45:17+00:00"
   },
   {
-   "titulo": "Aneel Prevê Três Leilões De Energia Em 2027, Com Investimentos Na Bahia",
-   "fonte": "Taktá No AR",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPX1JfZUdVS1RLdU5VaHpKLTBwNDFnLU94RUlZcDZkTnhuNnotTjFGTTZZYzNVaHNXTUtyM2M1VHI0TjV4M3JHWWViX3lnbU5qaFBpdFlnRWFXTVpMdkV3eU1JWl9iSlJHcEtRNmFYNjJheVhadUszNXVhTW9hVlZGWlM3WnVRSkRBMG0tRHJmbGdiWVd1OHNmNE03NWY5RFZG?oc=5",
-   "data": "2026-10-30T23:30:45+00:00"
+   "titulo": "Maiores altas e baixas do Ibovespa no mês (30/10/2026)",
+   "fonte": "TradeMap",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE11SFBnV2gtVl9za2NVeTZvU2ppRWhVSjNzY2xBY0xMZndiLTlROFAxbTZsd0l5NllxS21FQ0xEZ3NmQkNoV2g0SjFfb29oUVpMUC16aU5pYzI?oc=5",
+   "data": "2026-10-30T23:34:27+00:00"
   }
  ]
 }
