@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-10-31T18:44:30+00:00",
+ "atualizado": "2026-10-31T19:40:14+00:00",
  "indicadores": {
   "selic": {
    "valor": 13.75,
@@ -17,10 +17,58 @@
  "cotacoes": {},
  "noticias": [
   {
-   "titulo": "Faz o L: Inflação para 2027 e 2028 estoura teto após reeleição de Lula",
-   "fonte": "Blog do Gustavo Negreiros",
-   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQWk5kMlZ6Q29fYVpiNTJmd0ZvUXJVRlhwNVFTTWZxWkZ5cXFuZGtHR3RBNHhTWGQ0dWhka1RZVElnVEVyQ0EtbFdZWUR3c3Fsakk0YVdMemI5NU9BUTBnU0JXTC1Cejg5cHNQM0F6NmdjYUE4Yk0xTmRhTXk2ZkRCQ3BRQ0t1QUVFdHJfUkhVRlo5Mk9uamJ2SVljUzF6TDY5SkhlYjI1WFhnOWpQRzUyLWp4MDRnS3pFajRjd1lFZk4?oc=5",
-   "data": "2026-10-31T18:14:14+00:00"
+   "titulo": "Inflação em setembro afetou de forma desigual famílias de diferentes faixas de renda",
+   "fonte": "Portal VV8",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNQnlLRVVxOW1lZUJzMHQyb2hjSzRqWVdldkVfRmdZQlBkeHY4Ny0zby0wVGpxQUp4YUVIN3ZBOVhnaVBKdzRxSzRSTjNQMGlKQTNMZWlKenNWQ3l6NFVubHFQUWF3WjVhYnFwQ1pTZ1c1dDB6cUFkSlRNYzNMTnNGbDN3eXp0TjFiX0hfQnB5SWRaSF9lWS04X0h4elNNdm4wNzlvaXJoWUtObnVxTEZyeEpYeWJzR3F0ZEJ2NURFNGM?oc=5",
+   "data": "2026-10-31T19:17:08+00:00"
+  },
+  {
+   "titulo": "Ibovespa registra quinta maior queda semanal desde a criação do Plano Real",
+   "fonte": "ncnews.com.br",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9XUV9naGpubC1RbDEySTJobWJtYl82Sm0xWDBab0JKMUJVNkFKY2haeW5JSVZQMl9YYjhFd185dEh1VGROaTNlM0cxeDEzc1hCMjdvMVp4RXJhSXZlcTk2OGltZUF0TG5lZVVBN0NFbVJ0YjRrY1FDOUsxZ3E?oc=5",
+   "data": "2026-10-31T19:11:36+00:00"
+  },
+  {
+   "titulo": "Vicente Pires recebe obras de drenagem e pavimentação com investimentos de R$‌ 58,8 milhões",
+   "fonte": "Agência Brasília",
+   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOSFVtcDBJSU9IUlN6R1djVWY0T1NDdndwdzhiUjdxdXBtbW9wOTRWNGFNRG9oVXZNVzlwWkxzNmJybmZIQUwzd01naTlVNTdLNi05bHdkc0s3TTRXY2RRLVR6NExKSW52Sm5aLUNhRkxiVlNEakRUWGU1ckkwQmhZbDFkUEM0a3Jic1hRM004R3ZQdGNib0EydWVlWjdySDg4NGZMeEhSOHVOR2dqY3ZUaHRpV1ZZYWp5OW8wU1hmNVV4QWZhRkpPS2VONkpnMjR2a3pCZFh2QnpLcjlkX1BMU28wRQ?oc=5",
+   "data": "2026-10-31T19:06:00+00:00"
+  },
+  {
+   "titulo": "O AMOR SEGUE VENCENDO: CONTA DE LUZ E COMIDA DISPARAM E INFLAÇÃO CASTIGA FAMÍLIAS MAIS POBRES",
+   "fonte": "Diário 360",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNY19temJVaTRnLThHN3dHOEg1YV92NDk4Zll3OHN5SWwwcnk2Zy1EMl9Vb3hjcFNjb25xX3FCU3EyZ3JzQUVVN0hnOW1ZVTUzcWhHaGhtQlhnSEoyS204aWN3bmNiX2hlRWNwS044NURxV2ZfTHdWZGhmRFlNOTJuVHlNcHc1RzNxODFxMjdkN1RySm5HcFN1bTJoZ2ttNjdFa1ZPR2FmcmJtd2pFalNRQTFScjNPUmlndlh2b29LeGlJQjM4bEVzOQ?oc=5",
+   "data": "2026-10-31T19:05:00+00:00"
+  },
+  {
+   "titulo": "Copom: mercado vê 63,1% de chance de manter Selic em 13,75%",
+   "fonte": "BPMoney",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOMlEzQVlURndUTDlQSHY4U1hsT2plMHVZYWdDSno5di1GX21FY1BWSkwwcnFaVC1JWHhFVTFSNERQZldxSmtpR0hOdWNpd3J5SGs3ZHFrOEpRcnRacnBqTFpDd0NXdXhiYnlEOHNTYmVNYzRDSU56R3dwUnZsRWgxLUFaUVhEcGl4ZDBpV3I5RQ?oc=5",
+   "data": "2026-10-31T19:00:00+00:00"
+  },
+  {
+   "titulo": "INFLAÇÃO | A reeleição de Luiz Inácio Lula da Silva (PT) no segundo turno fez saltar as expectativas de inflação de analistas de mercado para os próximos anos, mostra pesquisa realizada pela corretora BGC Liquidez com cerca de 30 participantes de merc",
+   "fonte": "Instagram",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0tNHRzeE9fbUFleUJDS0pTa1BucXRQYXBxWEFaVzZJQl9SdWRJT2ZjMUNuQkg0NUpSM2ZrX0had1hxbm5XUy1Bb1dldElhMC03TUE?oc=5",
+   "data": "2026-10-31T18:52:27+00:00"
+  },
+  {
+   "titulo": "Piauí é destaque nacional em investimentos públicos; veja resultados em sete áreas de atuação",
+   "fonte": "Cidades em Foco",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPd25KNWZfYnlrUFExYnVma2tNbEZMWm5jUnZtTUlsczJjRlptSkYxTlVKd2FWMGpqNmFvcWFUWDB0UTB2LUZ1U2pTc2thdVhDdTlKaGkwSEl0SzFnWkdCSUI1dnpXRnBnc3E3RUpnTjZQME1XWFUwU3pGelU0X2VtREVzcTRhdlJwcFVmZmpJWXplTW94Uy13N3ZSMUVxWU9tSmhjcFB4UDBEZml3bHJEWnJsWmZvcUcxbE40?oc=5",
+   "data": "2026-10-31T18:50:28+00:00"
+  },
+  {
+   "titulo": "Litoral paulista prevê R$ 1 bilhão em investimentos nas rodovias até 2027",
+   "fonte": "vtvnews.com.br",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOOXByY0NvUVhSOWVyVDhoWkJvNkdoLTNEWXZ4UFFuRC02dlRFdmVYWV9EazNTZEgwZWRFa2xQTWpFakticGJXaENCQkFvdTQtdVNTUVJSZWFzS0dxWFZKOGI5bnZEWmp6RGxjTHlWYXV4MjBOZ1VNcHJSSnQyTHdiYUJ5MzV1cVExMU9fbXBuSzdxZw?oc=5",
+   "data": "2026-10-31T18:30:00+00:00"
+  },
+  {
+   "titulo": "Piauí lidera ranking nacional de investimentos públicos e registra avanços em sete áreas",
+   "fonte": "Portal R10",
+   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNZUdwY05oRUNpX2V6Zmd1X1N5OW1BV1ZWRF9iemhjNG1EM3BHT3BzS2VVQTYxOVhfLWdPUW1zLW5TMkI4NHY1VWxTT1RlSGd5TW5PVnlERDFpQmdPN1U1RXZENkE3Wk5USVVydl82ZFk2VjBDbE56MVVpSnhFRzFhXzVNNVZxd2FZZm00OGk0UFFObW56NG43UkdFcV9PMkN4Yk1EbVpGOUtYR2dZcDFsQkM0ajVYazlKZjVxZjM0NEN4c3RCbklLaVROUTd0ZDNKY3A5adIB2gFBVV95cUxQaGI1NnpvSFhqZnRRYjhjNXV6NEY3bnY1RmtONzdrdnR4UG9BOVROZVNVZGxLeVYwdWN4RDNaZnMzMnNwT1JPYklFbFBaVnVldzgyX1VKeUMtNHVXRnF1VEltanlTSmRJVVNfamNJUmZEaTdrV25NTlYyRHAxcUU5eXBramdjYlA3TzI4OFc2MV9uSXVWMU8ySGNqSGdzc190eDJ4WVd3RVlBc21DY0VlLVJQZ3dGazVtMnNJb3dzSURzQXZBc0VuQ1otWnZxbE8tcS0xMWNPb1JFZw?oc=5",
+   "data": "2026-10-31T18:24:57+00:00"
   },
   {
    "titulo": "Governo de Minas apresenta dados econômicos e balanço de investimentos em reunião de transição",
@@ -29,64 +77,16 @@
    "data": "2026-10-31T18:13:49+00:00"
   },
   {
+   "titulo": "Chilli Beans chega a acordo com principais credores e receberá investimentos para reestruturação",
+   "fonte": "InMagazine",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPdXNwVEpMelZiZzNILW0waWk5YzF1bXhtbm9XTGN6YTFRY3pkRGl0ZVBkN0kyalJKZ2VxN0s1Ym9CdS1PRlpFSnliemR4SUhUdGExOGhsNEZvdWN2bnhybGFfeTJicjhHV3VaX2ZpWU54d3g5aC1UTUU4RVREd25iMlBCWDJyNkduWjBlYlE5bUhrZw?oc=5",
+   "data": "2026-10-31T18:11:58+00:00"
+  },
+  {
    "titulo": "Inflação acelera em setembro em todas as faixas de renda, aponta Ipea",
    "fonte": "TopElegance",
    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNZ2lPYjkyME5md1NjN1E5Yi1WZUtMVVJuQVNWN3Q3RkpCT2tWYUhJYkw4LWJmbW8wSzNMd1o3amQtVWxaNEY3dDVKUVlxSEJRVjl0djN6OVRlY2RZdjNhbGRhUmlCaEVObm9Vd25uZUZ1b3IyZlVTVDhIZDlXQ1NVS21NZnZ0dDh2N09lVVJCWnl1aTctY2NXRzF0UzA1Und1ZThEVW0xMXk4RjhHVTh6bzB3elFLc3J6TklHU2xB?oc=5",
    "data": "2026-10-31T17:54:04+00:00"
-  },
-  {
-   "titulo": "Mercado projeta inflação de 5,3% para 2027 após eleição",
-   "fonte": "Vero Notícias",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOZVpGS3pVS3RySXhnNjczOUE0N0x6N1lMYng0NUQzdEJVeGFRUWMwN0FZYWJ0RUJaMG9rT2hSTjZ4bVVCR0JxQ052anZSTXBnY2hSc29RZHVvZXdQWkFORmtfRDlGelp5eEp2bkVPd2IwOVl4eGhPbndDQmZIT01kRnVHczdwV0pfRXQzeFE3QW1yZw?oc=5",
-   "data": "2026-10-31T17:40:00+00:00"
-  },
-  {
-   "titulo": "Inflação tem alta em todas as faixas de renda no Brasil",
-   "fonte": "Revista Oeste",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNVDg2WThwV3NwR0hKa1BGcmwxU0FLUUlmWTFJSlFUbzIyYmFiS2tvZFZGTHBiaWVpWjE1TVZ0emhDZUFJVm1ZX1E5Q3NyNTdfTm9wRERUbmxnWUpfc05RLTg5ZU9iak81R2FGMHVyNTNNMVNmUkZWSmF5RnVQeC1aSzM1NGE1YlhPdFFtcDZVRXNBcG9U?oc=5",
-   "data": "2026-10-31T17:34:13+00:00"
-  },
-  {
-   "titulo": "Cantareira permanece em nível de atenção durante novembro",
-   "fonte": "Jornal Correio do Brasil",
-   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNT01IS0FPWm5DaXhsdUJBZ2ZmWU5ZaGR5VTdSOUtvQzVLelR1bkYweUtqb0FFemJIUV9aSzNMelNZT3pvbVU0MXVxV1dud1pDaDZQbDZXd1FSRkc2UUlJd24zM0VLS3ZnUXQzV2hNV29OTHZmbnB0UjBKUFFWckgwVDJrb1FveXBhYXlZTQ?oc=5",
-   "data": "2026-10-31T17:24:16+00:00"
-  },
-  {
-   "titulo": "Volkswagen pausa desenvolvimento do Golf elétrico para conter investimentos",
-   "fonte": "Guru dos Carros",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQbWpHa1RxeWl6VzFYV0QzMTV2VldpRElUZ0xnQjRwb3l4ZmJnZkxmZVplUVZER3oyLWtvZGVPOGxNWUVXLS1WUEZaSzU1Zi12dFp2Q2puOE1fOEh3Sm11LU4tWk9saUVpU2VXaFQ0RnNOTURoN1Y0aThlVmRmVXpiYWNlc1VxV3Vuc09BenJjMThCZl9YZ0d3dVRRYmhDS3g5dnFkRHc1c0pjRnBSY0l4cFVkOEVFTEk?oc=5",
-   "data": "2026-10-31T17:01:35+00:00"
-  },
-  {
-   "titulo": "Pessoas físicas concentram 72,5% dos investimentos em fundos imobiliários",
-   "fonte": "Paraíba Business",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNNzdiazh4aFI4dFNsUDBzR3pONWZPZjVOcGJvTkNpVmx6UjM2Nl9lTGxrYUcxTEpnWDMzTUJ1VnFheTRwMm1aUE5JTnozOFd0M2pxOTZXc2Y3VEJBY0pJSnRhaS1hVGxfZllOSW1pU0xwbVU3NFlYc2w3ODlSbWJOQTBvNlhzWlBPQmw5OHhMeTNsZkZkMWs3THRQcmhBVFhZQTI4UDBn?oc=5",
-   "data": "2026-10-31T17:00:00+00:00"
-  },
-  {
-   "titulo": "INFLAÇÃO | A reeleição de Luiz Inácio Lula da Silva (PT) no segundo turno fez saltar as expectativas de inflação de analistas de mercado para os próximos anos, mostra pesquisa realizada pela corretora BGC Liquidez com cerca de 30 participantes de merc",
-   "fonte": "Instagram",
-   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0tNHRzeE9fbUFleUJDS0pTa1BucXRQYXBxWEFaVzZJQl9SdWRJT2ZjMUNuQkg0NUpSM2ZrX0had1hxbm5XUy1Bb1dldElhMC03TUE?oc=5",
-   "data": "2026-10-31T16:53:51+00:00"
-  },
-  {
-   "titulo": "Expectativas de inflação para 2027 e 2028 saltam após segundo turno",
-   "fonte": "Folha de S.Paulo",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPRUJDU3A5bkNjeWdlWGo5bmFKaloxbW9MMmFwQlFNbnlkLVJqZzlmMC1oT041N0VjMEwzR05NTGY4UTMxQUFYT25yeXhncG5GblRQYy1wWHI1a3FiX185VXdFVXdXUE9pbGdRYVBaY3RBWlF1WTZJQzZPNWE5Nnd4SVJ3RzV1Q3FrWFRFNWNKMXROMXRtTVE3RTlCckFUY2Q1QkRZWl9vR2NjUGtNZmxqSUdfUUVySWdSUDhv?oc=5",
-   "data": "2026-10-31T16:00:00+00:00"
-  },
-  {
-   "titulo": "Mercado financeiro encerra outubro sob forte pressão: dólar dispara e Ibovespa acumula tombos históricos",
-   "fonte": "CircuitoMT",
-   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNNzhSbmdqNE9EQmZfZkZPdEhLODkwZVNEVlJnMm1YT0VzUEZycHRBZE9mX0M2NDV4TmZNaThFX0xwYkV4Y0VVLVRKeU5COTBYU0p4THp6b3VKR3ZyYmluLUdzTkg3dmxmOWVaSG1oT05wdF9nT01nTW5tdUdScWt2aHJnVDRwbXp0dXJDT29xY2lQRFIwdUZvSW9Fc2I0b1VLY3YwZGh1XzByRzAtWlZabWdmOUF6Y2ViVm9POUk0a3RGTm5obFNrQjJn?oc=5",
-   "data": "2026-10-31T15:50:18+00:00"
-  },
-  {
-   "titulo": "Itaú reduz projeção de crescimento do PIB e eleva estimativa de inflação para 2027",
-   "fonte": "Portal VV8",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNNG4xRVdzYnZaWm43a25HdTQ5bUlUZkZLbFpYQjZ2SlV1eVVKOW11NktteEZwM1kzQTFIendpRzcyUmcyTHBsal85WTNDYlVNN043Rk4yN0k0SmRMN29JR3ZhVTA5SkhzSFNadHQtUmdhb0h3b0tTQ1AzTEVrU0ZlQzJtMVBHZURvUzV5TjZrdWhKdHZERWh4UUdDUEMzUGhKamk2ZW1XVnVmcWpxOEVXNkk1NFRsQ3Btc3NCcjdB?oc=5",
-   "data": "2026-10-31T15:48:19+00:00"
   }
  ]
 }
