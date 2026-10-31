@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-10-31T03:45:43+00:00",
+ "atualizado": "2026-10-31T04:45:36+00:00",
  "indicadores": {
   "selic": {
    "valor": 13.75,
@@ -17,10 +17,34 @@
  "cotacoes": {},
  "noticias": [
   {
+   "titulo": "Dólar dispara 9% na semana e Ibovespa registra quinta maior queda desde o Plano Real",
+   "fonte": "Hora Hiper",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQSlZqYjc3MmQwYS1yTGptVUVQOThPdUpDTGdWa1VhZlg1TXRkLVExUVR4VEhpdjFqSGdIclJDSkhqRjhQWHFUeGozNkl4MFVvTmlrbnpMWW5sZXdDVEs0OWcxMkROYnpOS0x4MTQ0R2NUSERlUjlpaVBfcl85aW1PVjBNeEF0Zm9JeHdyUWFBRHZkVFE4dHJnV0dDNktBenRuZWJldnlxTy13UjBRV3d6WVlzWFdPekVpd01XbTF3?oc=5",
+   "data": "2026-10-31T04:26:03+00:00"
+  },
+  {
+   "titulo": "Investimentos necessários",
+   "fonte": "O POVO+",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPUy1PM0liVXE5aDJoajFrNUlwSnVrTUJjUnZoVFFaQ0pSa3R2YWJ4VVNROHRUZlJQR2FCdDB0WmtYWUxwaS1McXY5bXZEWWRYQndJYy1Sd2VBVmNfN2VQbC04RXFrUkc5QjlkVkp0LUpkOWV0NWp5Yk1tRENxTDZ5XzdNSzlSV1JIZVVZ?oc=5",
+   "data": "2026-10-31T04:15:00+00:00"
+  },
+  {
+   "titulo": "Areia sob fiscalização: SC lidera em praias alargadas, mas tem desafio de aliar investimentos milionários e preservação",
+   "fonte": "G1",
+   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOdkFjRDliN2sxa3lyN1F2RU5PUDc3Zld4eGkwZEJLX0pobkgxOU1Ba2xfS1FuWnhac2pWMDhyM0thTTdnRlVUN1FJaVlQZXNxTzE0YkdNRVVIY1gtTV9tTFN2RW4xOUZjS2hLd2drUnV6aFNNVGpPWjVyZXVWZy02THFmeVkzUDlJUExVMGFvZWg4NFRUQkkycjRwUU9LTUhCRE13Xy1lVDl4WkVUc1lSR1Z6di1JbFVRVXdBSWZ3UmhYQWZsbGdRWUlRMzhuMS11N0hXZ2NsdXQ3d9IB6AFBVV95cUxNeW01Rm1ZQnBGQlp1WF9UVTVlelRQa2VXZ08xNjdxOWpqSjJJOEh1UWRpWUlJQm5fOEdfamg5Nmo0Sk1uYjdYLTA0eU9iM3BhX3YzMUJtOWtvUGJRbzAwVHFYWktVdkRZVHBNc2JEZ0d0UjNmMlBMYjdwZ2VyT2N4d0tyeDA3NzlmT19sZmdTc0RvTGE4RU16OWpFbVlDN2Y2QTZHYzg0aWZyTndXV19pckM3MkFocWNUTmxrTXZPZXlSdXZTenhjM002UG9SbE5PdEI0RGNjcFp5OWVIUmlIUTM3Sko2enlN?oc=5",
+   "data": "2026-10-31T04:00:00+00:00"
+  },
+  {
    "titulo": "Produção de petróleo recua no RN e setor busca ampliar investimentos",
    "fonte": "Agora RN",
    "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5OT2hBdFZrUDRXdDVzaGQtRXp6QjBodmhISWpWV3RkYmMxQ2drLTUzM2w1TnN1WkQwWldEYkxZWk1VOHk4QjM0UktpZGl3SFMtZXgxZlBBR1Q2aVRneFl0RTJnMnUweUN5YVBucTVvaFU0azdqRS1IejB3?oc=5",
    "data": "2026-10-31T03:11:40+00:00"
+  },
+  {
+   "titulo": "Ibovespa 'queima' quase R$ um trilhão em uma semana após a eleição de Lula",
+   "fonte": "Revista Oeste",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1Tb3l3bWxVVjBhRUk2emZaUkl2RVhwNWNxcV9vZDBjd2phcGpiR2dmNHBJQXRaOFRHNjNvSm1HUW1VTVdCNG05eVhsMnZZaW00dUlNYXdneEd2VHZOckZDUXQ4bjRNdVBsdEpMUGlkeVJid1Z4QWR0UkNPMA?oc=5",
+   "data": "2026-10-31T02:25:53+00:00"
   },
   {
    "titulo": "Dólar sobe 1,05% e fecha a R$ 5,44 nesta sexta-feira",
@@ -44,7 +68,7 @@
    "titulo": "Ibovespa tem pior mês desde junho de 2022; dólar sobe 5,22% em outubro",
    "fonte": "UOL Economia",
    "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQUWNzcnRWU1o2bEdxeWZxeFhHMjd3c3NOaGxJWUpxUzRudU14RDZ2WjgyRjJmWUF4azJTUEJ5a19JTE1BS2xHR2s0Z1JlY3cycHVUZmtkYlJReVRQSUhOejJNNEVGbE9LbTd2TmZwT1FDWEpLUlNPQW1GbmticlJkX01tUWdFeUZPR1lnalhpTHVkV0hsNkV1aUpvYlJtMGFSYXo4QzhReGZ6STNzbUNOSVA4dG9WV05ES2hfM2FrN0ZmdDNWU1JRU3B5NUczdVBFd1E?oc=5",
-   "data": "2026-10-31T00:57:11+00:00"
+   "data": "2026-10-31T01:19:08+00:00"
   },
   {
    "titulo": "Juros futuros sobem e mercado vê Selic parada em 13,75% após eleição",
@@ -63,30 +87,6 @@
    "fonte": "Band",
    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxObTlLaF9FaHcyclh1VDlkUExmNUhIdWpNa0R3ZERUZXo0T01nYmo0OUVRbng3bVJnNHRfbzZJeUlfWGs4TVR1Q1AxSXg1c3I1WFRkVmQwV04tRExrVlV5MHh2VGpMSDluUUhQQTI5MFNwVnlfU2ZteTRZNGQtU0Y3SXFaeWtEcUQ2NU9HTlpPbTZ5UElvZHFvZ1NIeEdjcG50T2xDZWNSVXgzNDdocjU3NkR2TTktM0hrQllfaE93?oc=5",
    "data": "2026-10-31T00:32:00+00:00"
-  },
-  {
-   "titulo": "Ibovespa acumulou 18% de queda em uma semana",
-   "fonte": "G1",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOblRKdU85X0dUMkUwNTdobjQ5UzNHc0tHV0xCdTNVUm1SZy1Ib2RHUExvQ1g1Vy1mSE1DSHBkLVlyNkJxekE3ZFRGcUJ1M09yY3A5ekhacS1tcUZlWUp1ekZZekZJanRkYUszWFJDeHpNTGFOMUo3Qmxjc3lUc3JTLV9qY0Vmb1N0aFVIa21tQkplWlpRd3BrSHFybVZ2VXotUVlDbWNVcDJZSHlVUU85Qi1B0gGyAUFVX3lxTE5uVEp1TzlfR1QyRTA1N2huNDlTM0dzS0dXTEJ1M1VSbVJnLUhvZEdQTG9DWDVXLWZITUNIcGQtWXI2QnF6QTdkVEZxQnUzT3JjcDl6SFpxLW1xRmVZSnV6Rll6RklqdGRhSzNYUkN4ek1MYU4xSjdCbGNzeVRzclMtX2pjRWZvU3RoVUhrbW1CSmVaWlF3cGtIcXJtVnZVei1RWUNtY1VwMllIeVVRTzlCLUE?oc=5",
-   "data": "2026-10-31T00:25:07+00:00"
-  },
-  {
-   "titulo": "Dólar sobe 9% pós-eleição, maior alta semanal desde 2008, e bolsa cai 18%",
-   "fonte": "Blog Milton Figueiredo",
-   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQZXV3enBfQ01PUFh3ZXFHck1QZFB5WFotaFdfM19jdDUtZE9ocERZOEJROHB5b242ei1TYWxKaTc4XzEyWkM4V1p6U2owTG9fWXdMWGh1MjN6b0YwWGdhYncxZ3drc0YwUTBrMnBhMkxRWWJseE9WalVuSFhFcHdFMlR1SkVrYkpQa214TXdmUllyeHhoTmVsUVdoSnlVdGFkN3o0UTk4TWk1bTYtWkxJRk5HcmVRbU1jLW53d2ZKeU4?oc=5",
-   "data": "2026-10-31T00:20:36+00:00"
-  },
-  {
-   "titulo": "Recursos de debêntures reforçam investimentos na infraestrutura de portos, aeroportos e hidrovias em todo o país",
-   "fonte": "DatamarNews",
-   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNVFE3QWZhTEI3bUVoNGlYYlFSRmVvMGN1V2J3dXZOeUttbHFjRVRmbVZTdElRajl5NUtablI1UmJpdUhTTEhIc1ZjbmN4Y1BUSHFLUXktYmg4MWowM2RVNWR2Vk9DQjJ2MW85UkNSNTVBdGNoVjBXdG1IWjN2by1nVmJ3aTBiVHlPOS1Od2FTZ1pmcFpEZ2tHUDF6MkpXX01NWE4tTGJ0WG0xZzFjVEIyZWs4WEcxYnUyV2xxcmtFSmhwQnZBc3E0a3FRTVEzc0VnUklrWmtHWm1YVi05T1lqVjJR?oc=5",
-   "data": "2026-10-30T23:45:17+00:00"
-  },
-  {
-   "titulo": "Maiores altas e baixas do Ibovespa no mês (30/10/2026)",
-   "fonte": "TradeMap",
-   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE11SFBnV2gtVl9za2NVeTZvU2ppRWhVSjNzY2xBY0xMZndiLTlROFAxbTZsd0l5NllxS21FQ0xEZ3NmQkNoV2g0SjFfb29oUVpMUC16aU5pYzI?oc=5",
-   "data": "2026-10-30T23:34:27+00:00"
   }
  ]
 }
