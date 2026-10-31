@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-10-31T06:51:51+00:00",
+ "atualizado": "2026-10-31T07:54:01+00:00",
  "indicadores": {
   "selic": {
    "valor": 13.75,
@@ -17,10 +17,16 @@
  "cotacoes": {},
  "noticias": [
   {
-   "titulo": "Dólar chega a R$ 5,45 enquanto Bolsa cai",
-   "fonte": "Correio do Povo Penedo",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOVUNVNVhOUnlNdjd3MUlLVENRSl82YmdtY1hBOGo3Vk9LbERFMGhYcHlPZXFFWTgteXZjOENIZHlQU0R3TllhbDBSMktXcFMwVnpFeGpHdFl0eGFOWGZfRmM1aDVUTy1JVWxzOUFuQmRuMXppanVxM2hvNHlGUk9DdDhQbjdtYzZKa0hWTFUtNVNBUVZB?oc=5",
-   "data": "2026-10-31T06:10:05+00:00"
+   "titulo": "Mercado reavalia riscos fiscais após queda de 18% do Ibovespa",
+   "fonte": "CNN Brasil",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPSUVMYmlUeE1aenowYkFFQlR0N1Nlb3hjYmFBNnBtQUlKTTVxSzRkUXFaWUpEME9RUE54eGlITE5za1NHZl9QZDJ4TG5FWU1aRnZnYWx6NEVfZXltNmJ5Z1JaTTlwcmxPenpMYzhXcHNkeWpJN1d5bEQwTXRkTW00d3lDTVJPZEtpdlhkenpNd3hIMlNmMHdmMzRDYUxnOXItR09MOVJGX19yQjVVWG5ONjloTQ?oc=5",
+   "data": "2026-10-31T07:05:58+00:00"
+  },
+  {
+   "titulo": "Ibovespa: tombo de 18% iguala semana de 11 de Setembro e chega perto da pandemia; o que esperar?",
+   "fonte": "G1",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQeUJ5akJGX0huLTNTeldzT2VKVmFZOU1salpVZ214bEh6UVdLdGNGdDRvMi0zUU1BNDN4N0VKd2xpcVBZMi0tRldVVGQ3b1RCRHRuYlVEdDV4b3lBUXBpRHdLajFSd1pjOFk3X0twNUdqVDVpdDlzWEtpM2l6ZlFjVjh2b2lRLUt0YUJxN2c4X0FnS0Vu0gGjAUFVX3lxTE5wRHZFbFlFT2QwUFkwMXJPUEdrcVF2Z2pEQkxzZV9aM196Wk5Xd3lIcHBHV2NPYVlSRFROQUdEck9DVllnOHlpZVNqa2ZTY3doS2oyaU4tLTN1WWsxdWpyMndCTUU5emdQUHl4Rkk1bVBBWkJwcnFUSE54NkQ1TDBSbjRCYTc4REo2NG02X0QxaXZWWWpRc3NQblhwOXlueVlFLWs?oc=5",
+   "data": "2026-10-31T07:00:00+00:00"
   },
   {
    "titulo": "Ibovespa hoje: 167.922 pontos (-0,75%)",
@@ -81,12 +87,6 @@
    "fonte": "GZH",
    "link": "https://news.google.com/rss/articles/CBMinAJBVV95cUxOUTg1QzFhZ0ZwTi1rWkFjU3hVc1BfT01YOXFLZDJfcUFiQTNwNU9fR2xldDVQSTdicVlWWUZkUk1CcVpnQUM4bVRoSmRzWjNFRWlvcjllWHJlSkJwNmZiT0hwNWxsNHZjMFVkS19xN3J3cWtSamNqLUxNdlpDWFF5SC1QbU5qWUZzYWk2NFVfSE5yTXpmMHlOa0M0SVJBMWlVZUIxSWhDZllLeE03cW8zRXR1THIxR0tUdjRzcVZvZDBOZG0xOElzWXZvTEQ3R2JjazM2WXF2NGZ3MW5PbnhBS3lTZVkxMk1fVnBVMmwxd1N2cm1KLTQ0S2JxMVljdGE3ZTk4bHpzQmFvTUxzMWxlaGo3U1ZiNFBUWlNCUA?oc=5",
    "data": "2026-10-31T01:29:12+00:00"
-  },
-  {
-   "titulo": "Ibovespa tem pior mês desde junho de 2022; dólar sobe 5,22% em outubro",
-   "fonte": "UOL Economia",
-   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQUWNzcnRWU1o2bEdxeWZxeFhHMjd3c3NOaGxJWUpxUzRudU14RDZ2WjgyRjJmWUF4azJTUEJ5a19JTE1BS2xHR2s0Z1JlY3cycHVUZmtkYlJReVRQSUhOejJNNEVGbE9LbTd2TmZwT1FDWEpLUlNPQW1GbmticlJkX01tUWdFeUZPR1lnalhpTHVkV0hsNkV1aUpvYlJtMGFSYXo4QzhReGZ6STNzbUNOSVA4dG9WV05ES2hfM2FrN0ZmdDNWU1JRU3B5NUczdVBFd1E?oc=5",
-   "data": "2026-10-31T01:19:08+00:00"
   }
  ]
 }
