@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-10-31T00:58:10+00:00",
+ "atualizado": "2026-10-31T01:57:05+00:00",
  "indicadores": {
   "selic": {
    "valor": 13.75,
@@ -17,6 +17,24 @@
  "cotacoes": {},
  "noticias": [
   {
+   "titulo": "Itaú corta projeção do PIB de 2027 para 0,5% e vê inflação acima da meta",
+   "fonte": "Folha de S.Paulo",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQVXV5RF9PM1NkRXR4MktkX1JfdnREQTBtOVlWb0JwcFgyejFWemt6bmplSDJ5Qmsza1NZMXVBOWRRVjJfZThfT2M5d1IyUmY0SjduZXZ1MG8zLXZXZlNyUWV3TFJJQUdGQll2MVgwM0I2c2ZPOXV6RmFoVFdtd0FYNlNGekw1ZWd0TmFldDE5b1RlSWR2RjlnYjR4MWROaXpzaEpGeXE5RTA5S3U5SmkzQXJ2LThqU1ExbGlLX0ZGWQ?oc=5",
+   "data": "2026-10-31T01:45:00+00:00"
+  },
+  {
+   "titulo": "Após choque de segunda-feira, dólar e bolsa fecham semana ainda de ressaca e à espera de anúncios de Lula",
+   "fonte": "GZH",
+   "link": "https://news.google.com/rss/articles/CBMinAJBVV95cUxOUTg1QzFhZ0ZwTi1rWkFjU3hVc1BfT01YOXFLZDJfcUFiQTNwNU9fR2xldDVQSTdicVlWWUZkUk1CcVpnQUM4bVRoSmRzWjNFRWlvcjllWHJlSkJwNmZiT0hwNWxsNHZjMFVkS19xN3J3cWtSamNqLUxNdlpDWFF5SC1QbU5qWUZzYWk2NFVfSE5yTXpmMHlOa0M0SVJBMWlVZUIxSWhDZllLeE03cW8zRXR1THIxR0tUdjRzcVZvZDBOZG0xOElzWXZvTEQ3R2JjazM2WXF2NGZ3MW5PbnhBS3lTZVkxMk1fVnBVMmwxd1N2cm1KLTQ0S2JxMVljdGE3ZTk4bHpzQmFvTUxzMWxlaGo3U1ZiNFBUWlNCUA?oc=5",
+   "data": "2026-10-31T01:29:12+00:00"
+  },
+  {
+   "titulo": "Ibovespa tem pior mês desde junho de 2022; dólar sobe 5,22% em outubro",
+   "fonte": "UOL Economia",
+   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQUWNzcnRWU1o2bEdxeWZxeFhHMjd3c3NOaGxJWUpxUzRudU14RDZ2WjgyRjJmWUF4azJTUEJ5a19JTE1BS2xHR2s0Z1JlY3cycHVUZmtkYlJReVRQSUhOejJNNEVGbE9LbTd2TmZwT1FDWEpLUlNPQW1GbmticlJkX01tUWdFeUZPR1lnalhpTHVkV0hsNkV1aUpvYlJtMGFSYXo4QzhReGZ6STNzbUNOSVA4dG9WV05ES2hfM2FrN0ZmdDNWU1JRU3B5NUczdVBFd1E?oc=5",
+   "data": "2026-10-31T00:57:11+00:00"
+  },
+  {
    "titulo": "Juros futuros sobem e mercado vê Selic parada em 13,75% após eleição",
    "fonte": "Times Brasil | CNBC",
    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPcl9Yb09GUjBheGJwWXI5LXJXWVRzb1FuMjhCSGJaWG14dUZiUWF4Sllsdi05Q0tzdUpYNHlLN3o3SVVpVllHUHRPQWFyeE12aFRZbFhDY01YT0ZvYTdJellHaTlLWElXdEhud3VIaHFfU0ZDN2k3WjlYb2h6Qjh2czh6aVY3NVd4S3kyYmNCbjJQbjdCVk9CNkQ4eWFTQlZURWptYUZqSWhwd2RMOER0bWtERQ?oc=5",
@@ -29,10 +47,10 @@
    "data": "2026-10-31T00:35:48+00:00"
   },
   {
-   "titulo": "Dólar sobe mais de 1% e Bolsa fecha em queda nesta sexta-feira (30); veja cotações",
-   "fonte": "Alô Alô Bahia",
-   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOOWgtV200OXg2ek9hSEcyTWxiREtwdkFzOGdmT1pDWFJrSXVfYWdzSjktX3lab2lIOXFKVndoQ3RFRlk0a25PZHpSQnZkVVVIWVdfbDFsMmRaV3FGWXFJYk11TnVlOUlIeWxHNGczcERTWk01QTF6SHc5RTJTc3BkQWppOEo2eVpMemtNTHhzSHZFdGs4VkdSazgwSmhMbVdwTndHWU96NW02c0c1ZEptelRxQXhSc0dsYjlDeUQxanM?oc=5",
-   "data": "2026-10-31T00:31:56+00:00"
+   "titulo": "Ibovespa acumulou 18% de queda em uma semana",
+   "fonte": "G1",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPckdwLWU1VWs1eTFjQi03LXhOaVdpMkVWQ1YwT2V4d21lbWsyOG1ueVowd29BSXJ4d214M3RBUEQyT3gxRzV2Mk5IdXZWNk01OXYwbHkzUV9SRnJucjhROFNnS3lJWWNfSF94WFNuLTRUWmZ6NDhoZFhtT2RrOEhLRHFidDZKR3F4RzhVZkF4SXgzcE42NmRyb3JaM3hhdTRJUmZn0gGyAUFVX3lxTE5uVEp1TzlfR1QyRTA1N2huNDlTM0dzS0dXTEJ1M1VSbVJnLUhvZEdQTG9DWDVXLWZITUNIcGQtWXI2QnF6QTdkVEZxQnUzT3JjcDl6SFpxLW1xRmVZSnV6Rll6RklqdGRhSzNYUkN4ek1MYU4xSjdCbGNzeVRzclMtX2pjRWZvU3RoVUhrbW1CSmVaWlF3cGtIcXJtVnZVei1RWUNtY1VwMllIeVVRTzlCLUE?oc=5",
+   "data": "2026-10-31T00:25:07+00:00"
   },
   {
    "titulo": "Dólar sobe 9% pós-eleição, maior alta semanal desde 2008, e bolsa cai 18%",
@@ -41,52 +59,34 @@
    "data": "2026-10-31T00:20:36+00:00"
   },
   {
+   "titulo": "Real tem desvalorização de 8,43% em cinco dias",
+   "fonte": "O GLOBO",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQeUFuclBURUM2TGZsZGxXbWEtaF9XdXN3MFJHTlR0cDdxSkxnbDlkVG1lYnZia1dtQUNNNUt3ZWRoUUpKNV9yUXVDbGNGLXFDQWRmaVBxSXBwTVFCT2lSa2J2ZktnVzJzTlVZLVpTWG5fRzNSdXBYOGVOSFpzM1BvOTc5YXdxdEt4SWl1SkR4c1BMRGl0TTJRZ2xhV29YanhjSzdZZG01MHVQVTBpejMwQzlQNlVBQdIBxAFBVV95cUxONG40LUpzM3NfRjZRejFWUzBpUGtsNUszVjJVclpjR2dKNDBHb1Z1UHYyMU80UmgwVkdiSjRUNC03SlNjbElRd19GLWtKd05GdWpOdVlQSEc4ZVB2TEdCam92bEUxd2ZzSmRNOTRXaTVuanZfeW80dE1WemgtSDNkWENrTWJ0UUpkU25fam8tMS1SRUFOOVBxeV9RTmFnbmp4Z3hoSkhNOXZ2Zmduak53TUY5WWZsaG5QbUZaUDRrOU1Rbld2?oc=5",
+   "data": "2026-10-30T23:51:14+00:00"
+  },
+  {
+   "titulo": "Maiores altas e baixas do Ibovespa no mês (30/10/2026)",
+   "fonte": "TradeMap",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE11SFBnV2gtVl9za2NVeTZvU2ppRWhVSjNzY2xBY0xMZndiLTlROFAxbTZsd0l5NllxS21FQ0xEZ3NmQkNoV2g0SjFfb29oUVpMUC16aU5pYzI?oc=5",
+   "data": "2026-10-30T23:34:27+00:00"
+  },
+  {
    "titulo": "Aneel Prevê Três Leilões De Energia Em 2027, Com Investimentos Na Bahia",
    "fonte": "Taktá No AR",
    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPX1JfZUdVS1RLdU5VaHpKLTBwNDFnLU94RUlZcDZkTnhuNnotTjFGTTZZYzNVaHNXTUtyM2M1VHI0TjV4M3JHWWViX3lnbU5qaFBpdFlnRWFXTVpMdkV3eU1JWl9iSlJHcEtRNmFYNjJheVhadUszNXVhTW9hVlZGWlM3WnVRSkRBMG0tRHJmbGdiWVd1OHNmNE03NWY5RFZG?oc=5",
    "data": "2026-10-30T23:30:45+00:00"
   },
   {
+   "titulo": "Ibovespa cai pela quinta vez seguida e fecha outubro com perda de quase 10%",
+   "fonte": "Brasil 61",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOd2ZtUEVOLWxobGUzNGFvNU12eElVRVhfd0Zuem1GWWc5VWNCSHhIaVRIMk5aWVY2OVdCaFFiVUdpdExFc1NFR3NudWo2NFpiS20zUFVwTzdmcmQxY011dkxXel9idkRwOVlkOWhFUl9Ib3JyUUZpbExtWjN1aTc1WUdXdndSdEMtZVZkQVRjd0hVNngtQzJBaUVwTGgtU0llZGU1djEtQWduLUxrSUHSAbMBQVVfeXFMUDIzMVRNRGRFTVY1S2Rtc2ZQN3ZzVTNoczJKWjh2R3pvT01VOG9ONlFCNXgzM3pYWXJoREs4MXJtS3F6VlJ0Yl94WlhkV1JKTnhxMUJlNzZ2clJzcUlwX0dKaC1lcmVuLUtBQlJCY3ltVlZZVFlVQVNuUXhvNFpZYnV2Q1A2dFJMbmh5My1OWktGMVBvaDVISndMWnYtWHhxUW1MenhIMHc5UHdPVElwLVlQSFk?oc=5",
+   "data": "2026-10-30T23:30:00+00:00"
+  },
+  {
    "titulo": "Dólar tem maior alta semanal desde 2008 e Ibovespa perde 18,12%",
    "fonte": "A Crítica de Campo Grande",
    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNVkd0VFc2cDJubFdwa01uaTZub05jZFlQNi0tdVhKbW94WVBEY215UDZqUVRHTzlUT1I0VmFSbWc1OUlibG85SDdZVjZXSHVaOE8xNUwxTFZQVFM0YzJRbFhBbHFlb1lUX2U4V3VFcGV1eGk1UDVRbmFSMmV6ZmZheVBsQzJYQVlfX2htSzZnMXVaMWhYTzVN?oc=5",
    "data": "2026-10-30T23:30:00+00:00"
-  },
-  {
-   "titulo": "Paraguai atrai R$ 168 milhões em investimentos e amplia negócios com Brasil",
-   "fonte": "brazileconomy.com.br",
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPOW1fRUJsQ254Qm1VOEptdkJYa2VZVW1jWFlRR19QaE1aMUVCRTcwa19sUURsb0hRS0pDVWRBOTN3Z2xfT2RLS3kwSTBWeDVMeThhTmtiZVB4TzVNODBDcWFKeTA2elhGLU9aTW1Ja2pneWx0bXZnQWtIeUl0dURJN1ptUUhKWGVEaW1aZ0NFQUs3V1dzeUN4WE5qLVkyUy1nbG8wRzJ5b2N0eU9fS0Q0UG5URTV3cnlwNXZDalZZYko0SmlZ?oc=5",
-   "data": "2026-10-30T23:28:04+00:00"
-  },
-  {
-   "titulo": "Petróleo: Imposto sobre exportação deveria financiar investimentos",
-   "fonte": "Monitor Mercantil",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQVVNKcnJUdTZ3akZELTlYSUlzRG0xUlV6QUpsblhwRlFNbEF5SFVLUnVBdk9YLWRCd1lvOHdYLVBBcFdMMUtXMWpLQnlOMlhtTEdIbGh6Mjd4WnVqYm5hQlFNX1o2VVNOajdCMjl5WmRvbEhDVnR4OUxqaGYyd3F4cExpLVNDYTY3NlZJcF8tSUtjRVc3aXo2YW5lMG5IXzA?oc=5",
-   "data": "2026-10-30T23:25:02+00:00"
-  },
-  {
-   "titulo": "Ibovespa cai 18% após reeleição de Lula, maior baixa desde 2020",
-   "fonte": "Pleno.News",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxObjlLemdvME5IeVh4WGZERFY4QmxTejlqRWluekpVR0RtZmxKOUNTdHJjc3NFYms0NzFxeGVXcnYwQW1lOC1MSm9KRWsyeHgweldfQ243Y0FkWUo5ZmxXRWVnbWFLVVNQY2x6VmY3US15cVA1OF9CNElvRGtiRjlyN3FkQ3dfODBjZUtrU3FMRnY2VEJldmd0UkNR0gGiAUFVX3lxTFBVaVZBWU5Pdm9uaFNXZmZMdlpHY3FiV3Q4TXVMNDNUYmZSRlpTN1R0LUNSTm42NlFBXzhVUVQybmVIanNtaDR4c2VfY3QzYmtaWlpWYzA0MkRMQ2lQbEJ2QnB4a0xld3FGUGxvWnZOSUlYSmh2ckF6U19nVjNXRXprLXp2SXo2b2hfMmNGNFVKRlE4UG40YkZ2cDN0el9aUnd0QQ?oc=5",
-   "data": "2026-10-30T23:25:00+00:00"
-  },
-  {
-   "titulo": "Uberlândia ultrapassa R$ 30 bilhões em investimentos privados anunciados e projeta mais de 56 mil empregos",
-   "fonte": "Revista Soberana",
-   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOMDhsbjl0bS0zM0NiZWVOLU96dngySXhDUThPTjVJVUo2bkRvbG5KeGxVODhxT1RZN2dJT0hDUlRiNzFld1M4N0Y4Z2lCMWNITHk5ZWZXM2EtMXI1dFNrOUQzVnFid2xnT3JXUEtJWndpUlZYM2kxSHRKTmJ4bS1SOWpDZGNBbXgyd1M2OVBGeVZwcWNEcGhXRlpaQjhVdWVXWVBETTE4V3JmQ0NfN2xIVmVvUU1PR2ZQXzB0R1FYVWRaM0NRVVJsZ2dtS0RtWDkyeUlKa3JYMEQyYnZGMjR1R0V3?oc=5",
-   "data": "2026-10-30T23:24:32+00:00"
-  },
-  {
-   "titulo": "Dólar sobe 9% na semana e registra maior alta desde 2008",
-   "fonte": "Tribuna do Paraná",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOQkhYTEhEOUozMWRzWld3V0xadE55RXBEOUpKTHlBdkYyZGFmNEYtLXctaTNoTTJkYWJmOWotYUFRY3JRMWwwWWRhSVlPQUF4aTYzaGViclFXaWxNTnllYUxrN1d6V24tNDJ4c0ZSN25Hd3pUR2NYclNEcUNlTDRTOEYybk1sVXlSMGl6QnJlM0k3TFVQR1hIbVlSNXdQbXVtWnZaRGtTOWk5T29RSFU5MVp30gG3AUFVX3lxTE56ZnNFTGtCUW5CMzBlNUJpZUJoVmVOa0hxbjdXdnVweU9yaGJuVURLU1VlOGhtOTRPcFRaS0w1d1BPSGtxbjBvOFViczMwcUhtVWNjU18wWEJFcV96dFFKOE1fS01uSTdTRXRTSEtBTW1oSkFsQXBLaF8tOWVfVmx4VUFjVjJmbEFKeTV3ZTVvcmZDd05MLURXdDdBYzBDS1BINFNxVzVfVS0zMU9SU2l6LWQtdUx4cw?oc=5",
-   "data": "2026-10-30T23:07:00+00:00"
-  },
-  {
-   "titulo": "Após reeleição de Lula, Ibovespa tem pior semana desde a pandemia e dólar dispara",
-   "fonte": "Gazeta do Povo",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQM2dEZTluMXExbk54bzJiQzNqLWxmdjBISDJkYWJXODZ1NjBDSlVVdkVhX3NFRFdHTHpBaDFlb3NtRzBvRGFVQmUycTNzaHRDS0FtNG4tZnd0SnphZmVHanBrYVB5emE1eEItaVJPb3Q5Q2Y2cmdRUnlMYndjdnExQlEtSlZFQ2JHc2hYQko2VHFKVXYwd1lPWmU5M2FxcnhzQUQ1SmFXN01CRXV3SzdpdEM5V0l1OUtGRzVCeUpTbw?oc=5",
-   "data": "2026-10-30T23:04:00+00:00"
   }
  ]
 }
