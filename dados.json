@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-10-31T21:37:51+00:00",
+ "atualizado": "2026-10-31T22:37:40+00:00",
  "indicadores": {
   "selic": {
    "valor": 13.75,
@@ -17,6 +17,36 @@
  "cotacoes": {},
  "noticias": [
   {
+   "titulo": "Mercado reavalia riscos fiscais após queda de 18% do Ibovespa",
+   "fonte": "Vale Noticia",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQWXZuUGFfbWtwVHIxQVNkbjUyMkZFcVBlenpIdGtmYXQ2dDRPNk9Xd3FoeGJQOE9SQXFjT016YTFQYWxINF8tcElrYlpYbEo3WEIwYUtINUM0ZXZtVVo4Sk4yWFV3WWxWeUJ6aVd3RkcwU3FtMmhKSzRNUXZnRjc3ZlhQTU1wZWw4U0Exc2F1b0dveEZ3ck1kOE9n?oc=5",
+   "data": "2026-10-31T22:28:00+00:00"
+  },
+  {
+   "titulo": "Rodovias do litoral de SP terão R$ 1 bilhão em investimentos até o fim de 2027, com obras em 13 municípios",
+   "fonte": "Gazeta de São Paulo",
+   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOLXp0LVlpeEl3Nm1QSUtaUTFjVWJXN2tvT3lpOElCT1RnaDU1V2RyakhiR1lVRjZtOTR2UDBuT3FlTnVJTjBIb3NjLTJUQmMxZjJmcy1LM1c2dl9YbFpaemRFUHFVelp2QkdGZVNjMzR0UU1EdWNzZllfc00zUFR3YXBuRW5MeTNDQWJsUjhXRk1remk3ay1NTm9MVVJJcm8tU09wZVpsaGp5czJQb3hWbzBmc0lDWENUTmxlNkFLWHJZb0lHdGNyZmpUT3VyZ2U4UGt0SEp5dTdxVlE?oc=5",
+   "data": "2026-10-31T22:00:00+00:00"
+  },
+  {
+   "titulo": "INFLAÇÃO | A reeleição de Luiz Inácio Lula da Silva (PT) no segundo turno fez saltar as expectativas de inflação de analistas de mercado para os próximos anos, mostra pesquisa realizada pela corretora BGC Liquidez com cerca de 30 participantes de merc",
+   "fonte": "Instagram",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0tNHRzeE9fbUFleUJDS0pTa1BucXRQYXBxWEFaVzZJQl9SdWRJT2ZjMUNuQkg0NUpSM2ZrX0had1hxbm5XUy1Bb1dldElhMC03TUE?oc=5",
+   "data": "2026-10-31T21:59:19+00:00"
+  },
+  {
+   "titulo": "Após reeleição, mercado eleva previsão de inflação para 5,3% em 2027",
+   "fonte": "ncnews.com.br",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxONHY2NldFYVZ4ZWNoa0FwX25VRHZySjdzVlBWMWFCUHlUeVJSSDNPN0taR05xN1hWclA4U3BXTFlXa1Nzbm1WanBYNjA1ZTlrR2p3QThUNUVIM09SeVBHWG9HeUdidDloRjNQNWlocDZjdEhPYmZfNHNZUXljTFVENw?oc=5",
+   "data": "2026-10-31T21:49:28+00:00"
+  },
+  {
+   "titulo": "Expectativas de inflação para 2027 e 2028 disparam após reeleição de Lula",
+   "fonte": "Blog do BG",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxObWJqNy1uU05UbDdyeDhnNm5LN0dVamxaeHJKLURyNWkxMjUyTjVhb0MzVlJTcVB3LThvZlJSREQ0Z3BwNlI1dWU2SUtoazJWMVlkNHpRTDFHV1dGRFRyVUFWLTBQZVNPbzZqWHl0UkM3VUF0UXZwWFV3cnVMT1gyTDFKclU1Z0tRbTZxS0JKaUlNOXRhckVtNjNKQTI3Q1c4NjdPbg?oc=5",
+   "data": "2026-10-31T21:37:45+00:00"
+  },
+  {
    "titulo": "Opinião - De Grão em Grão: Como dividir sua renda fixa entre CDI, prefixados e IPCA+?",
    "fonte": "Folha de S.Paulo",
    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPajBiUWtFekFNZ1MzUHBya2xfOW4yLWFRTUMzc1ZKeV9QUU5tTU5KQTdmQVFwYmhOcnY2S1RESHNWYktWaENjeTlrSGliS3YyQXlFcm9XSERmenI3elM3aEtqRFZQQzFmZWhyV1l3bVpLWHg0WlV0QmxfZ2QxV2JlQTlMcTRXVXprUnpJQ2lzeHQ4allRYkZJM2J6al9hcmhBc1lpclYzZGI4T1BEdlJtYWhvY290SEZ4SnlGVGRB?oc=5",
@@ -26,12 +56,6 @@
    "titulo": "Como dividir sua renda fixa entre CDI, prefixados e IPCA+?",
    "fonte": "Repórter PB",
    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQQkozVWFlSzlYXzZ5ekNjVEo1Q3VRSE83Tk9fSXpLd09ScG1ucFdaRHF2NHJVSHJLeFRXR3JoVFppVmRoY3lfaXgxRFB2NDJtSEx1YzRsR3hLNU1XM3V4TW5Pd3hoX3VMVmNoNDljTlJ6eGpfYkJMVDFGbTBHeVpnem11LUlKb1B6MWJJUGQyYnF2STd2VVJ0WWxhX3ZXR2QzQWo1N0xnZEJKd0FwV3M3R3NuYTVaNm5LRllOajBPOA?oc=5",
-   "data": "2026-10-31T21:00:00+00:00"
-  },
-  {
-   "titulo": "Investimento estrangeiro em informação e comunicação chega a US$ 5,6 bilhões no Brasil em 2026",
-   "fonte": "AgoraVale",
-   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOLVpkY0tHTE5ueWhvWk81M1JpN1RaTG5pOFRtTVJ0U2NjaUY5eDkySU44MGd2WHJIUVZFa2s3ZjhWOHFHb1NfTzJzRXhfdnNBLUxGQ0NfSWVlX2Uxc0Vmc3dpUGdrWTRGRHFJczUzZGczYW5XTFBvOVlvY3dCVUMxZDh4NVA3R3NnU1BLRWxmWWppckN6aG5NQVZ3d2xGbnVzLWtXdUJLSjRKM1RHNWF1UFlMazZoYVQ3RjVjT2R0Z1VPZ0hqWUVzUU45bnh4cXR3?oc=5",
    "data": "2026-10-31T21:00:00+00:00"
   },
   {
@@ -47,46 +71,22 @@
    "data": "2026-10-31T20:55:16+00:00"
   },
   {
+   "titulo": "Inflation Projections Surge Post Lula's Re-election in Brazil",
+   "fonte": "Brasil 247",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOWm9OQVN3NUZodDRvWGxkSGlXNG14MWY3am1aSVBsWWp1VmZLTDJwMGUwOE9EODVVRW5EYmF1dTlUXzVNb2pITEpRdmFTUnI1eWlHQzFhNWNUT2Y2eUt3Rl92T25WRTBkV3NNY3BNNnJGeGVNMTRLQWwwNThUWDRiZUs2SEVBS0tBOEVmTWlR?oc=5",
+   "data": "2026-10-31T20:37:41+00:00"
+  },
+  {
    "titulo": "Dólar em alta impulsiona ações de exportadoras e coloca Embraer, Suzano e WEG entre as favoritas",
    "fonte": "Jornal Portuário",
    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQdTBILWdrQ21ZdmVBUUd3d1o0ZFMtTVJ1U0djdzZGNlcyRk9samJhUVh1MEF3eXYwN2dmUndmRXhkOU5Fenc4SDdUekNPRlNuYVZvbzN3cXR2WWtwaFQyNHBoWFpyXzBWVVl0eW11ZTI5Qk9tcnRTN09YM2llaEU4d0oxbzZpbjhzQkxuZTl6aHdibHhMNmlyZURzRHVJWVp5eDlockpYVm5DVVhCSUNPQUdEbmJfbnhCZG5jVllReFpkallPOXVBRG5BMW1lRXhW?oc=5",
    "data": "2026-10-31T20:17:06+00:00"
   },
   {
-   "titulo": "Itaú corta PIB 2027 e vê IPCA acima do teto; projeções",
-   "fonte": "Acia Araçatuba",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAtX2RPLV9lbUpIWUV4eXpuby1zZmMxeVc0dWliNksybDkyWU1QQ0d0X0ZPM3hBaFBSd3ktZncwOTJnbEtPZ1ZJWlpqU1BNSnZVU3NKRl84bHVOaThiVzVmT21LZlRXVG5jWkVYV0FyWGFqQTJLbUQtYzIwYXdkSkk?oc=5",
-   "data": "2026-10-31T20:07:26+00:00"
-  },
-  {
-   "titulo": "Opinião | Inflação e risco climático: por que adaptar as metas?",
+   "titulo": "Ibovespa hoje cai aos 169 mil pontos com risco fiscal e inflação dos EUA; dólar sobe a R$ 5,38",
    "fonte": "Estadão",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNcGZOczY3SFhZbWU3bkstYjVUalhEVzM5SFZVcUV0Z1NweXBTTS1hOElQWE9YOFM1VndHTTJNSk9kaWZoYlRvY2dfSTJ4MUtOSzJ3V0h0cUVaVFZvaldPOGx6YnZwQzdoaFJLaEQwNG5JQlo5LUc4bmRIdkxDR0EzendnaWkzY281SS1xOURKT3prT2ViOVl0VFcxRXE?oc=5",
-   "data": "2026-10-31T20:06:38+00:00"
-  },
-  {
-   "titulo": "O desfecho da eleição para o Congresso dos EUA, a inflação americana e duas guerras moldarão 2027",
-   "fonte": "Estadão",
-   "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNQXlONlVscFR2U2c0R1RheEk1TklSUGNJa3VaTGk2amliZWhVZ2g4eTg2OWhEZGJENHR6cl9iQ18xUENfSVc0OWhNbE9VRUk2eFdnUDU3b2I3dE9lLVM1VlJETG9HeHJFdFBqWlo0VGVlSVp1Q0VKQ0UxYzVmbnB0d0c2VWcyT2xYNndlWGEta3JFczN4SXJMR0xlRExXMGxKY0hCQm9FRFNHVGxoMDVDQVp5Q0NscGdkNHlubG9aaHNrSGdBTWxzekk1a0N6ZEN1QTdqNDBYUG1LaUdMMXZEUmgxelNyc2prSnl4bVpzTHhlbktFMnJvQUdURGE4dW9zbWVV?oc=5",
-   "data": "2026-10-31T20:06:38+00:00"
-  },
-  {
-   "titulo": "Ibovespa cai 18% e reavalia riscos fiscais no Brasil",
-   "fonte": "Acia Araçatuba",
-   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9mcEphaDE4WFFFSnI3V0Z5VV82eXRJYWUtSVExb2lwSGtZbEx0MjUxVFoxekVZMm5fZ0JjZE52TVhIYWZ3VzdnVU1uZkV3dlhhYUI4U3NUQ3VkcDRIcjBhdUJqVmdaSGwybm1CRUxnT0ZQNEdhd2tZaG1qeFQ?oc=5",
-   "data": "2026-10-31T20:02:40+00:00"
-  },
-  {
-   "titulo": "Tesouro Direto tem perdas de até 17% após 2º turno",
-   "fonte": "Acia Araçatuba",
-   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBMcWs1ZUI2azhTYVRULXFkVVdDN01GbjJYanFLUVF1dU1ZU2R2d1lFTzNOTU9fU3JNc0xqbmFZYTZjSzBrWEp3VmdMM3Ftbm53cDRSQnNwSWdWazlRa0xNN2J5cUdFRWNPY1oxRlcyNnN1TXU2WjUwSXRsZm8?oc=5",
-   "data": "2026-10-31T20:02:39+00:00"
-  },
-  {
-   "titulo": "Inflação e risco climático: por que adaptar as metas?",
-   "fonte": "Estadão",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPUFRZclVHMEwtbWRCcEpZajgxMzdkUWxOcGhBRGxkX2xyZ0daLVdRVjh4WlR4U2VOWEdrR0xQU1ZkNVJRRjVvaHJCQnZXc3Z4a2hKYjN3bUV5NEZ1ODF0YkFuT3RYREVRck5aMUdmeEVBZ1NpdERMTXZyaXpVUEE1M1c4UEFBWFU2dWVBNmNhenlfd9IBlwFBVV95cUxNMmdpOG92SDNZR3lodndhSEt3eU5GZTQ4dFZ5Um9zQ1l1bFNja042VEZjZHhKY3lYUnZaUVhjT1JTUF9QYlcyVnpVZUR5c1ZvY2JDdjZ3ZU5mMm5SZFZQUUtTaEs1U3Q3Umc2SGRlZTEycS1CYUdCM21TSEQycV94UlF1dmlQVFc5SlRQSVZFSTN5QTI1Um5R?oc=5",
-   "data": "2026-10-31T20:00:00+00:00"
+   "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNazlHcVUzNmE1dW9mRF91UXNTMzA1aEVoVzJLX2twRE83bFJTOTQyT3lBZ2NWM3hWVEtmM2NpZmNHVG1mbEJqbEFiQVljeDR0NmFWWXN3YW1LdVhuOUJib0xVVEJ3dlpranJtQWl4b0JiSnE3aVkydjRjVUFuZzJWSm5aalZlSWJtZmduWHlJMEpkUHFGS3Vvelg4ZTNTc1E0YTRxMjFTcmhRR0pYYTk4SWo0UDdVdUlwMlJVbGpndHJ6ZkVkRGNLLXNlVGs0MWRhQ1VzWnVWYmtzZ0Faa0J2ZkpEVzduV3VBMFJyU2l3OVhodXl5QlNj?oc=5",
+   "data": "2026-10-31T20:11:06+00:00"
   }
  ]
 }
