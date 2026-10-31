@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-10-31T07:54:01+00:00",
+ "atualizado": "2026-10-31T08:45:48+00:00",
  "indicadores": {
   "selic": {
    "valor": 13.75,
@@ -17,6 +17,24 @@
  "cotacoes": {},
  "noticias": [
   {
+   "titulo": "Mega-Sena: quanto R$ 42 milhões rendem todo mês na poupança e no Tesouro",
+   "fonte": "UOL Economia",
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOWUtIeVd2bHR6UjVfeVNIeTZpMTJkWjMyN3dvdmdpV0Fwa2xTTG54UlVzT0RfZjhDRUc4bElXNEp4U1d4d0NiUUYwcVRrNWFQVmRfZnNUSzdTSmUtRHMxY3pvLXZRQkt2NUY1ZU9vTnhoSjItc1ZDWFVIRU1hRlJzdFA2YXVkZUR5clJZTzFJZzZTb1AxLWZCTXhoX3drUWhEUzhtaDB5ckpiMmdRQ09ZWXM1ZmNXTTFCYnlOUEFjQnFYR2hYSHphTVdMTVRZdDNY?oc=5",
+   "data": "2026-10-31T08:30:00+00:00"
+  },
+  {
+   "titulo": "Títulos do Tesouro perdem até 17% na semana após 2º turno e apagam rali eleitoral",
+   "fonte": "InfoMoney",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNbzFxOHUySGZYbWU5MFdpeFREcU5jWWxubF9fcGdUSmFFcGZ6Zy1GZjVhMnU1QWJoZi1OZ1c4dVJfRnhvVnY1MlFMSjlidGZ5NFVLMFpjdkJYUW5wTjU4akJfM01EN0xCS1ZaQVNZTnZoRlZoaW1pOXdTU1FZVGVyQ1BjRnFQZUpsNzlzbTF3U3hYTHVrOTFNbDZaNGlUN1JjbUdDTUV3SUh1NVRZV25hS1NIVl9WVjNETElkRUNYUlBQQdIBxwFBVV95cUxNQVUwTld0c2xYM2xZb2F0QmIxS3NTdXlKbmpoWjV0c1d6T2RTVmxXQVh4X3pmRHZuLV9lTnVUcV9LR0dlUHprMzZRbW5mLWRWYjdFWjEyZWtWcFdzeEJ6NlVxX2VuQXZJZkNxenNlU0tZTDQ2cWlkTWFHa3pXM0NLOGxGaFdlUzl4LTZlc0hLZWx6SWkyMzdBdDQzazlmVGFrdmJ3M3lNTHp0V3hleHR4UGFPcG1zYk51eDE0RGFGVF9aSjRCZGhV?oc=5",
+   "data": "2026-10-31T08:00:00+00:00"
+  },
+  {
+   "titulo": "Doces ou travessuras? Gasolina mais cara afeta até Halloween nos EUA, diz Hershey",
+   "fonte": "InfoMoney",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQLUdWUDJZaGR5YnZGSnRlSUNPSXRhNml5Rko2SFdFQ3lYYUJtYmJQR3R1OVM1NEZXUVFUZlVaSG1NNjM1d3AxVWFQWmd6a3p6c2QtM21Ta0RuM0JWd2V3YnJDUTFydVlYNk5teWtZVFY2T2g0Z09qQkdOOWk5ek5ManMweUhuSFdyR1lVbVJqaGh4M3g4TFlJbXRwOWZGLXJDd1hMcWlwd0U1V2pNeDVoUi1hbzE5OG1MZUtjNldR0gHDAUFVX3lxTE96aFprc0phNnBiQVRWOHBlRDFtZ3RTRktzUU9zOFphcFpndWp5TXl3aWJnUjVSUFdLZlVVNG53dkR5TXU4eUFObGV4d2JRaTh4VkRSdGp4dzg5cmlWSUx2MnFpa0EwYm91OXBCaUhSOWxGRWprdXQxRFJCWjlEbG9LaTVyLXoxbDF0N0Zubk1sNGp1LW1wT1M3dTVJaldHc3dPeGE1a3BYazdqWHpuTVN2S1JiTGpNYWpXOXZVT1hyaEVXZw?oc=5",
+   "data": "2026-10-31T08:00:00+00:00"
+  },
+  {
    "titulo": "Mercado reavalia riscos fiscais após queda de 18% do Ibovespa",
    "fonte": "CNN Brasil",
    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPSUVMYmlUeE1aenowYkFFQlR0N1Nlb3hjYmFBNnBtQUlKTTVxSzRkUXFaWUpEME9RUE54eGlITE5za1NHZl9QZDJ4TG5FWU1aRnZnYWx6NEVfZXltNmJ5Z1JaTTlwcmxPenpMYzhXcHNkeWpJN1d5bEQwTXRkTW00d3lDTVJPZEtpdlhkenpNd3hIMlNmMHdmMzRDYUxnOXItR09MOVJGX19yQjVVWG5ONjloTQ?oc=5",
@@ -25,7 +43,7 @@
   {
    "titulo": "Ibovespa: tombo de 18% iguala semana de 11 de Setembro e chega perto da pandemia; o que esperar?",
    "fonte": "G1",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQeUJ5akJGX0huLTNTeldzT2VKVmFZOU1salpVZ214bEh6UVdLdGNGdDRvMi0zUU1BNDN4N0VKd2xpcVBZMi0tRldVVGQ3b1RCRHRuYlVEdDV4b3lBUXBpRHdLajFSd1pjOFk3X0twNUdqVDVpdDlzWEtpM2l6ZlFjVjh2b2lRLUt0YUJxN2c4X0FnS0Vu0gGjAUFVX3lxTE5wRHZFbFlFT2QwUFkwMXJPUEdrcVF2Z2pEQkxzZV9aM196Wk5Xd3lIcHBHV2NPYVlSRFROQUdEck9DVllnOHlpZVNqa2ZTY3doS2oyaU4tLTN1WWsxdWpyMndCTUU5emdQUHl4Rkk1bVBBWkJwcnFUSE54NkQ1TDBSbjRCYTc4REo2NG02X0QxaXZWWWpRc3NQblhwOXlueVlFLWs?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQeUJ5akJGX0huLTNTeldzT2VKVmFZOU1salpVZ214bEh6UVdLdGNGdDRvMi0zUU1BNDN4N0VKd2xpcVBZMi0tRldVVGQ3b1RCRHRuYlVEdDV4b3lBUXBpRHdLajFSd1pjOFk3X0twNUdqVDVpdDlzWEtpM2l6ZlFjVjh2b2lRLUt0YUJxN2c4X0FnS0Vu?oc=5",
    "data": "2026-10-31T07:00:00+00:00"
   },
   {
@@ -65,28 +83,10 @@
    "data": "2026-10-31T03:11:40+00:00"
   },
   {
-   "titulo": "Ibovespa 'queima' quase R$ um trilhão em uma semana após a eleição de Lula",
+   "titulo": "Ibovespa 'queima' quase R$ 1 trilhão em uma semana após reeleição de Lula",
    "fonte": "Revista Oeste",
    "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1Tb3l3bWxVVjBhRUk2emZaUkl2RVhwNWNxcV9vZDBjd2phcGpiR2dmNHBJQXRaOFRHNjNvSm1HUW1VTVdCNG05eVhsMnZZaW00dUlNYXdneEd2VHZOckZDUXQ4bjRNdVBsdEpMUGlkeVJid1Z4QWR0UkNPMA?oc=5",
    "data": "2026-10-31T02:25:53+00:00"
-  },
-  {
-   "titulo": "Dólar sobe 1,05% e fecha a R$ 5,44 nesta sexta-feira",
-   "fonte": "Vero Notícias",
-   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOTWZUT2JhSF80UEhyOERCMEhycnQ0OWN2Y2ViUnlqMTNwS0FEVXY0VDJrdkNibUhBZldMRFM4WUM0YXMxZW41U1VJLWhvczRaMFRka2NaT3lNM2huNjk5bWFHT0hEalp6Z2xyZWpzMGhFeTQ4VUc3dS1mUW90bGVxdGVuT3RaYW1TRll3?oc=5",
-   "data": "2026-10-31T02:00:00+00:00"
-  },
-  {
-   "titulo": "Itaú corta projeção do PIB de 2027 para 0,5% e vê inflação acima da meta",
-   "fonte": "Folha de S.Paulo",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQVXV5RF9PM1NkRXR4MktkX1JfdnREQTBtOVlWb0JwcFgyejFWemt6bmplSDJ5Qmsza1NZMXVBOWRRVjJfZThfT2M5d1IyUmY0SjduZXZ1MG8zLXZXZlNyUWV3TFJJQUdGQll2MVgwM0I2c2ZPOXV6RmFoVFdtd0FYNlNGekw1ZWd0TmFldDE5b1RlSWR2RjlnYjR4MWROaXpzaEpGeXE5RTA5S3U5SmkzQXJ2LThqU1ExbGlLX0ZGWQ?oc=5",
-   "data": "2026-10-31T01:45:00+00:00"
-  },
-  {
-   "titulo": "Após choque de segunda-feira, dólar e bolsa fecham semana ainda de ressaca e à espera de anúncios de Lula",
-   "fonte": "GZH",
-   "link": "https://news.google.com/rss/articles/CBMinAJBVV95cUxOUTg1QzFhZ0ZwTi1rWkFjU3hVc1BfT01YOXFLZDJfcUFiQTNwNU9fR2xldDVQSTdicVlWWUZkUk1CcVpnQUM4bVRoSmRzWjNFRWlvcjllWHJlSkJwNmZiT0hwNWxsNHZjMFVkS19xN3J3cWtSamNqLUxNdlpDWFF5SC1QbU5qWUZzYWk2NFVfSE5yTXpmMHlOa0M0SVJBMWlVZUIxSWhDZllLeE03cW8zRXR1THIxR0tUdjRzcVZvZDBOZG0xOElzWXZvTEQ3R2JjazM2WXF2NGZ3MW5PbnhBS3lTZVkxMk1fVnBVMmwxd1N2cm1KLTQ0S2JxMVljdGE3ZTk4bHpzQmFvTUxzMWxlaGo3U1ZiNFBUWlNCUA?oc=5",
-   "data": "2026-10-31T01:29:12+00:00"
   }
  ]
 }
