@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-10-31T09:42:05+00:00",
+ "atualizado": "2026-10-31T10:39:18+00:00",
  "indicadores": {
   "selic": {
    "valor": 13.75,
@@ -16,6 +16,18 @@
  },
  "cotacoes": {},
  "noticias": [
+  {
+   "titulo": "Dólar dispara 9% na semana e Ibovespa registra quinta maior queda desde o Plano Real",
+   "fonte": "Hora Hiper",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQSlZqYjc3MmQwYS1yTGptVUVQOThPdUpDTGdWa1VhZlg1TXRkLVExUVR4VEhpdjFqSGdIclJDSkhqRjhQWHFUeGozNkl4MFVvTmlrbnpMWW5sZXdDVEs0OWcxMkROYnpOS0x4MTQ0R2NUSERlUjlpaVBfcl85aW1PVjBNeEF0Zm9JeHdyUWFBRHZkVFE4dHJnV0dDNktBenRuZWJldnlxTy13UjBRV3d6WVlzWFdPekVpd01XbTF3?oc=5",
+   "data": "2026-10-31T10:17:30+00:00"
+  },
+  {
+   "titulo": "Rodovias do Litoral Paulista terão R$ 1 bilhão em investimentos até o fim de 2027",
+   "fonte": "www.agenciasp.sp.gov.br",
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPOEpxNEFtUG9wMVV2NTROOU01cWQzM3l4aGszWmpJZEJuekt2MzdHcnN4eHRGRGdLWlVjOEZLWklXZXY1cFB6a05INmNJTzVhS3lIMWNjekVHc2RCOHd4Tnd0ZDhaMG1YS0NmLXBOSnFJRW02V1RXRzJDWV9vTTBxc01uajhQQ2JEUDdJSDgtaFFMTkVSRUhlc0Q2ZjlQd3JablY1U1RJZGlPX2lrNUYzT21FM1NkdmxLbXlWZlNkMXl1eV9tVzVod2ZxdEl0QWNw?oc=5",
+   "data": "2026-10-31T10:05:00+00:00"
+  },
   {
    "titulo": "China atualiza regras para investimentos no exterior",
    "fonte": "Poder360",
@@ -41,6 +53,12 @@
    "data": "2026-10-31T09:00:00+00:00"
   },
   {
+   "titulo": "Centro de SP ganha liquidez com estúdios, mas preços sobem abaixo da inflação",
+   "fonte": "Estadão",
+   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNRTJvWDMwQ0ktT2pGOVBNUmk5V09ad2tWS2trclVkWnVGcnp1YXB6Q28zc2lQRlVTWi05WnhVeVh1ZXV2b2xPOEUyUkNTU0stLU96elFYNW5LcXlWN0E2amRDTEt6czVuUUZ3amliMjJjSmhnS0tibEhmX215S0tPT0ttcnFVWGFMVTAyeGpFVVJEVDJ1TUZlTkxLRXJyZUgwSE90Y04xTXVtU2RDd0YtTno0b3hadDE0b0NhV24xcXlqVGF3ZzZYbWFXbFpIQ2tWRE1nMi11MGU?oc=5",
+   "data": "2026-10-31T08:51:34+00:00"
+  },
+  {
    "titulo": "Empresas suíças planejam ampliar investimentos na China com novo acordo comercial",
    "fonte": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
    "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQTGFZVHY5ZVM5QV90aU5PX1N1eThKaHItMDF0Y2c2aFA0ekJKSGtIdWRvbU5UZVEzdVlEa0F4NmRqaVJmM3lGUENLcHhUMzdCV2FRS0FUOFZtSGwxRWhMVW81NFE5bmF5UHlpWnNUXzBvRzVzeDFycXUzV0RCYXEtdkxzUTExd1RpTy1BYk5ONUYtT0VLcHdCc2hKQjJrS2EwaFBRc3ZTSzZESmt4OFUzWnNUU1VDYWpyMldCY0Y3YWlFMF9YT0g1bkViSUQ?oc=5",
@@ -50,6 +68,12 @@
    "titulo": "Mega-Sena: quanto R$ 42 milhões rendem todo mês na poupança e no Tesouro",
    "fonte": "UOL Economia",
    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOWUtIeVd2bHR6UjVfeVNIeTZpMTJkWjMyN3dvdmdpV0Fwa2xTTG54UlVzT0RfZjhDRUc4bElXNEp4U1d4d0NiUUYwcVRrNWFQVmRfZnNUSzdTSmUtRHMxY3pvLXZRQkt2NUY1ZU9vTnhoSjItc1ZDWFVIRU1hRlJzdFA2YXVkZUR5clJZTzFJZzZTb1AxLWZCTXhoX3drUWhEUzhtaDB5ckpiMmdRQ09ZWXM1ZmNXTTFCYnlOUEFjQnFYR2hYSHphTVdMTVRZdDNY?oc=5",
+   "data": "2026-10-31T08:30:00+00:00"
+  },
+  {
+   "titulo": "Centro de SP ganha liquidez com avanço dos estúdios, mas preços sobem abaixo da inflação",
+   "fonte": "Estadão",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOcml5ZWtSd0RXRmxueHd2VFNRbExrMWh4UWFvcDkyYWxYVi1PMW01MkRRNmlxbGtCYkQyWWt4TXRxYkJGNDFWSHhObE1wem53UXhrV2JDWkhVZDV5c3RWUDBDYmpyX21pZFhhQlJnZFU2QWRHbksySk5TYlJjd3dUWTBXQ0lnazhub09KenRTT04zVnlVYXZWOVY0YkhqeTNVdXdURFFxNzA5YzRJYzJXYWZ4V3VlSUVDVk44bVprcXc2TkpZNDBmNERCZy1LQdIB0wFBVV95cUxOcm94bUpQUFFYdWZ3LUhpcm9mVHVsLWc2M1RkTlAzdmZ5WXQ2TWlZcUFLbUx6SFFPcFU3NHdlV3Y2ZlVpa3o0Tk9OSUVZQ2VaRmV2alZ1VF9uSjlfU0NLbmV6czJValJoM0Jmc1JJTGRfWms2cWpob0IxVGtfWlM2RGJ6M0FvcHhDVFRaNmY0YUg2dmNtUFZRZ2IyV2wybkw2Z1FPaG5RQVprUndYVTV2U3p3OGV3X3JCZUtldzY0WXYyWjBsSlBSVlV3NURfMnJ3UHRr?oc=5",
    "data": "2026-10-31T08:30:00+00:00"
   },
   {
@@ -63,30 +87,6 @@
    "fonte": "InfoMoney",
    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQLUdWUDJZaGR5YnZGSnRlSUNPSXRhNml5Rko2SFdFQ3lYYUJtYmJQR3R1OVM1NEZXUVFUZlVaSG1NNjM1d3AxVWFQWmd6a3p6c2QtM21Ta0RuM0JWd2V3YnJDUTFydVlYNk5teWtZVFY2T2g0Z09qQkdOOWk5ek5ManMweUhuSFdyR1lVbVJqaGh4M3g4TFlJbXRwOWZGLXJDd1hMcWlwd0U1V2pNeDVoUi1hbzE5OG1MZUtjNldR0gHDAUFVX3lxTE96aFprc0phNnBiQVRWOHBlRDFtZ3RTRktzUU9zOFphcFpndWp5TXl3aWJnUjVSUFdLZlVVNG53dkR5TXU4eUFObGV4d2JRaTh4VkRSdGp4dzg5cmlWSUx2MnFpa0EwYm91OXBCaUhSOWxGRWprdXQxRFJCWjlEbG9LaTVyLXoxbDF0N0Zubk1sNGp1LW1wT1M3dTVJaldHc3dPeGE1a3BYazdqWHpuTVN2S1JiTGpNYWpXOXZVT1hyaEVXZw?oc=5",
    "data": "2026-10-31T08:00:00+00:00"
-  },
-  {
-   "titulo": "Celinho do Sintrocel defende pacificação política e destaca investimentos para o Vale do Aço após reeleição de Lula",
-   "fonte": "Jornal Bairros Net",
-   "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNMjQ3Q2NyaGVHNzlwWnk0QlJlazZtdzFMdkZxTW1Fak1pWjlPQmdwOXVFcWlibkppOGdzR1FmdWdlYTh4YjJkSDdGTjlpbElYQ0JpbVJDSkxhY2prcXpPdWF1U1RBZzhIQkkxM2psdGdhVlo0eGdBOWYxQ2NwUUNqdU9nY1VLUHNCbHA5SG9kZDJGWHRabXVKTldBb1V3dUdwZGFMeU9nT29TT0RubGRqaFpyRERKRGg3T0UzWTUwaG9hNzBZSmtUaHFITEdMblIzZ1oyTVdwVlRrbHk0WkpWb3A5dGtxemxlS1JUd2pXcFdIWXpfV3hpdGt3RQ?oc=5",
-   "data": "2026-10-31T07:44:55+00:00"
-  },
-  {
-   "titulo": "Mercado reavalia riscos fiscais após queda de 18% do Ibovespa",
-   "fonte": "CNN Brasil",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPSUVMYmlUeE1aenowYkFFQlR0N1Nlb3hjYmFBNnBtQUlKTTVxSzRkUXFaWUpEME9RUE54eGlITE5za1NHZl9QZDJ4TG5FWU1aRnZnYWx6NEVfZXltNmJ5Z1JaTTlwcmxPenpMYzhXcHNkeWpJN1d5bEQwTXRkTW00d3lDTVJPZEtpdlhkenpNd3hIMlNmMHdmMzRDYUxnOXItR09MOVJGX19yQjVVWG5ONjloTQ?oc=5",
-   "data": "2026-10-31T07:05:58+00:00"
-  },
-  {
-   "titulo": "Ibovespa: tombo de 18% iguala semana de 11 de Setembro e chega perto da pandemia; o que esperar?",
-   "fonte": "G1",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQeUJ5akJGX0huLTNTeldzT2VKVmFZOU1salpVZ214bEh6UVdLdGNGdDRvMi0zUU1BNDN4N0VKd2xpcVBZMi0tRldVVGQ3b1RCRHRuYlVEdDV4b3lBUXBpRHdLajFSd1pjOFk3X0twNUdqVDVpdDlzWEtpM2l6ZlFjVjh2b2lRLUt0YUJxN2c4X0FnS0Vu0gGjAUFVX3lxTE5wRHZFbFlFT2QwUFkwMXJPUEdrcVF2Z2pEQkxzZV9aM196Wk5Xd3lIcHBHV2NPYVlSRFROQUdEck9DVllnOHlpZVNqa2ZTY3doS2oyaU4tLTN1WWsxdWpyMndCTUU5emdQUHl4Rkk1bVBBWkJwcnFUSE54NkQ1TDBSbjRCYTc4REo2NG02X0QxaXZWWWpRc3NQblhwOXlueVlFLWs?oc=5",
-   "data": "2026-10-31T07:00:00+00:00"
-  },
-  {
-   "titulo": "Ibovespa hoje: 167.922 pontos (-0,75%)",
-   "fonte": "Paranashop",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBoeGlHOVpueF82Y0dvcU9fMDJiUTFkbHAxMnhVUnNvdUxWSEYzWVRyeHBIaUFILTJ1ak5DdFlwQnRIY05Ba05UZGZKNmVUMXJYTzZONmRmdzBpaHc?oc=5",
-   "data": "2026-10-31T05:07:32+00:00"
   }
  ]
 }
