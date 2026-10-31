@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-10-31T17:37:01+00:00",
+ "atualizado": "2026-10-31T18:44:30+00:00",
  "indicadores": {
   "selic": {
    "valor": 13.75,
@@ -16,6 +16,36 @@
  },
  "cotacoes": {},
  "noticias": [
+  {
+   "titulo": "Faz o L: Inflação para 2027 e 2028 estoura teto após reeleição de Lula",
+   "fonte": "Blog do Gustavo Negreiros",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQWk5kMlZ6Q29fYVpiNTJmd0ZvUXJVRlhwNVFTTWZxWkZ5cXFuZGtHR3RBNHhTWGQ0dWhka1RZVElnVEVyQ0EtbFdZWUR3c3Fsakk0YVdMemI5NU9BUTBnU0JXTC1Cejg5cHNQM0F6NmdjYUE4Yk0xTmRhTXk2ZkRCQ3BRQ0t1QUVFdHJfUkhVRlo5Mk9uamJ2SVljUzF6TDY5SkhlYjI1WFhnOWpQRzUyLWp4MDRnS3pFajRjd1lFZk4?oc=5",
+   "data": "2026-10-31T18:14:14+00:00"
+  },
+  {
+   "titulo": "Governo de Minas apresenta dados econômicos e balanço de investimentos em reunião de transição",
+   "fonte": "Regionalzão",
+   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQY2RCMmh3WS1zQkFhZER3SE9SaWdEN1Q2SHNlVTV1QVY1RGxkNXRwWXB1MzRrY29YZUpxM3ZGU2xmV3J0TktMQ2JlaUZDNTNwZ0J4YnRoTXNrWGlUMFJZeTBQMTltMnNFZWpMdXFsWG5Cd0Jkbm5wSkZzYnRlcjVuUVgxLXUzY2Z0YmU0VWpXOXRhRENPNWJ2dVU4MVdFSnB6MzAzQU9QTkJuT2dvVDhwMkt2Zk0tQ0ZiVWg2aUxtTGZtZlEwdmFYZEVPSm5wZmhleUZreDBaWQ?oc=5",
+   "data": "2026-10-31T18:13:49+00:00"
+  },
+  {
+   "titulo": "Inflação acelera em setembro em todas as faixas de renda, aponta Ipea",
+   "fonte": "TopElegance",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNZ2lPYjkyME5md1NjN1E5Yi1WZUtMVVJuQVNWN3Q3RkpCT2tWYUhJYkw4LWJmbW8wSzNMd1o3amQtVWxaNEY3dDVKUVlxSEJRVjl0djN6OVRlY2RZdjNhbGRhUmlCaEVObm9Vd25uZUZ1b3IyZlVTVDhIZDlXQ1NVS21NZnZ0dDh2N09lVVJCWnl1aTctY2NXRzF0UzA1Und1ZThEVW0xMXk4RjhHVTh6bzB3elFLc3J6TklHU2xB?oc=5",
+   "data": "2026-10-31T17:54:04+00:00"
+  },
+  {
+   "titulo": "Mercado projeta inflação de 5,3% para 2027 após eleição",
+   "fonte": "Vero Notícias",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOZVpGS3pVS3RySXhnNjczOUE0N0x6N1lMYng0NUQzdEJVeGFRUWMwN0FZYWJ0RUJaMG9rT2hSTjZ4bVVCR0JxQ052anZSTXBnY2hSc29RZHVvZXdQWkFORmtfRDlGelp5eEp2bkVPd2IwOVl4eGhPbndDQmZIT01kRnVHczdwV0pfRXQzeFE3QW1yZw?oc=5",
+   "data": "2026-10-31T17:40:00+00:00"
+  },
+  {
+   "titulo": "Inflação tem alta em todas as faixas de renda no Brasil",
+   "fonte": "Revista Oeste",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNVDg2WThwV3NwR0hKa1BGcmwxU0FLUUlmWTFJSlFUbzIyYmFiS2tvZFZGTHBiaWVpWjE1TVZ0emhDZUFJVm1ZX1E5Q3NyNTdfTm9wRERUbmxnWUpfc05RLTg5ZU9iak81R2FGMHVyNTNNMVNmUkZWSmF5RnVQeC1aSzM1NGE1YlhPdFFtcDZVRXNBcG9U?oc=5",
+   "data": "2026-10-31T17:34:13+00:00"
+  },
   {
    "titulo": "Cantareira permanece em nível de atenção durante novembro",
    "fonte": "Jornal Correio do Brasil",
@@ -41,12 +71,6 @@
    "data": "2026-10-31T16:53:51+00:00"
   },
   {
-   "titulo": "Após reeleição de Lula, mercado eleva previsão de inflação para 5,3% em 2027",
-   "fonte": "Mais Goiás",
-   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNa196MlVlSXlMOHdUT1ZoRlB1NzNBM051S3NEUnpzMzFMZkgtaC1IVDNEOVRWNG40VUdkYmtPRGxRZGxxdnBLSFVqTVRIMHlwSmxWRUVaRDUza1IyczN2d2hKdGFfLWhhTDk4SUFDWWg1eEVGZjVPcVBJRkR4U1JObUtkOHpWam1EcXhSVw?oc=5",
-   "data": "2026-10-31T16:47:20+00:00"
-  },
-  {
    "titulo": "Expectativas de inflação para 2027 e 2028 saltam após segundo turno",
    "fonte": "Folha de S.Paulo",
    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPRUJDU3A5bkNjeWdlWGo5bmFKaloxbW9MMmFwQlFNbnlkLVJqZzlmMC1oT041N0VjMEwzR05NTGY4UTMxQUFYT25yeXhncG5GblRQYy1wWHI1a3FiX185VXdFVXdXUE9pbGdRYVBaY3RBWlF1WTZJQzZPNWE5Nnd4SVJ3RzV1Q3FrWFRFNWNKMXROMXRtTVE3RTlCckFUY2Q1QkRZWl9vR2NjUGtNZmxqSUdfUUVySWdSUDhv?oc=5",
@@ -63,30 +87,6 @@
    "fonte": "Portal VV8",
    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNNG4xRVdzYnZaWm43a25HdTQ5bUlUZkZLbFpYQjZ2SlV1eVVKOW11NktteEZwM1kzQTFIendpRzcyUmcyTHBsal85WTNDYlVNN043Rk4yN0k0SmRMN29JR3ZhVTA5SkhzSFNadHQtUmdhb0h3b0tTQ1AzTEVrU0ZlQzJtMVBHZURvUzV5TjZrdWhKdHZERWh4UUdDUEMzUGhKamk2ZW1XVnVmcWpxOEVXNkk1NFRsQ3Btc3NCcjdB?oc=5",
    "data": "2026-10-31T15:48:19+00:00"
-  },
-  {
-   "titulo": "Ibovespa em outubro de 2022: pior mês desde junho",
-   "fonte": "Acia Araçatuba",
-   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBqQVpVNkdiMGxyTGpMRU5VZHYzQW1KazNqLXF4WVdhLXgtYVZrMjF0RVFmNFJUSnlPOUdUbDlpNnNSU1BNQkFaMG5wZG1LYmh5ZW5TVUt5NGZRSHJ3UXZzS2dtNHFTNzF1TjhmM0NsbXp1QVZYWDUyM3dpMA?oc=5",
-   "data": "2026-10-31T15:32:30+00:00"
-  },
-  {
-   "titulo": "O fantasma da estagflação ronda a economia brasileira, segundo o Itaú",
-   "fonte": "VEJA",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPU3hOdFUxdENGdkxvd2JXTDMwUGlLMUp6YTFIMkZ1YnRkc0dZWGhVR2FqcmZoaU0yR0ZvRTZJXzVDd213Um1vSDZDVHpHU1VEcmI4SnV3aElKOHBucjVKdzVrOWVRS3JKVjlwQmExMFN0WVY4QzVtcmxCWFpLWWp0bFJjVDV0MWJ3bW1DNEJvUkw2aWFvVDJyM1NxZEhnSjNiaFppZFVadw?oc=5",
-   "data": "2026-10-31T15:30:22+00:00"
-  },
-  {
-   "titulo": "Reeleição de Lula provoca disparada do dólar, que sobe 9,15% em uma semana",
-   "fonte": "MT Econômico",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxObFdlUVJaTVBIdWZULXBzZWZ2cGZTRzlBVjV3V1hFWmhtaTlvWXFPbDhMNWtwOGVKWDBvS3FTTzZPY2ZpREQxQU5kWWxkS29VQkFhLXU4b2ZFUTlDRy1JcjJrME9Tc2Jadl91aWMzWlh1M3BVajhKLW5NWC14YzlUSE5VYUthQk5MNDlxcnc0M0RnNEdJMGd2YzhLMjdfbW5vUTFIZFpCdzR3MUxCZURCUnhOc0NFZmc?oc=5",
-   "data": "2026-10-31T15:27:34+00:00"
-  },
-  {
-   "titulo": "Brasileiros mantêm R$ 953 bi na poupança, mas juros prejudica",
-   "fonte": "CidadeVerde.com",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQTzQ0SXRrLXEzdkgxNGVuLTlfOHBwNmVxejBZOGE3dGp3b2Z1MG00STZBMGg1YTVLdmVXYXFET3hJYXJoa3hMaXFzQnllbHo0Rks0V1BYWmwzUmJpN3l0QUdPdTZNU3ZWb2JvT2d0Zk1MMmdnbkFsVjJMcGt4Y3R1aGNEYlByVGdfaWQtNGFfUzVkSFN1UmdQb1ltUDNTMlU?oc=5",
-   "data": "2026-10-31T15:05:00+00:00"
   }
  ]
 }
