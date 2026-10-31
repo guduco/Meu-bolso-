@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-10-31T16:39:24+00:00",
+ "atualizado": "2026-10-31T17:37:01+00:00",
  "indicadores": {
   "selic": {
    "valor": 13.75,
@@ -16,6 +16,36 @@
  },
  "cotacoes": {},
  "noticias": [
+  {
+   "titulo": "Cantareira permanece em nível de atenção durante novembro",
+   "fonte": "Jornal Correio do Brasil",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNT01IS0FPWm5DaXhsdUJBZ2ZmWU5ZaGR5VTdSOUtvQzVLelR1bkYweUtqb0FFemJIUV9aSzNMelNZT3pvbVU0MXVxV1dud1pDaDZQbDZXd1FSRkc2UUlJd24zM0VLS3ZnUXQzV2hNV29OTHZmbnB0UjBKUFFWckgwVDJrb1FveXBhYXlZTQ?oc=5",
+   "data": "2026-10-31T17:24:16+00:00"
+  },
+  {
+   "titulo": "Volkswagen pausa desenvolvimento do Golf elétrico para conter investimentos",
+   "fonte": "Guru dos Carros",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQbWpHa1RxeWl6VzFYV0QzMTV2VldpRElUZ0xnQjRwb3l4ZmJnZkxmZVplUVZER3oyLWtvZGVPOGxNWUVXLS1WUEZaSzU1Zi12dFp2Q2puOE1fOEh3Sm11LU4tWk9saUVpU2VXaFQ0RnNOTURoN1Y0aThlVmRmVXpiYWNlc1VxV3Vuc09BenJjMThCZl9YZ0d3dVRRYmhDS3g5dnFkRHc1c0pjRnBSY0l4cFVkOEVFTEk?oc=5",
+   "data": "2026-10-31T17:01:35+00:00"
+  },
+  {
+   "titulo": "Pessoas físicas concentram 72,5% dos investimentos em fundos imobiliários",
+   "fonte": "Paraíba Business",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNNzdiazh4aFI4dFNsUDBzR3pONWZPZjVOcGJvTkNpVmx6UjM2Nl9lTGxrYUcxTEpnWDMzTUJ1VnFheTRwMm1aUE5JTnozOFd0M2pxOTZXc2Y3VEJBY0pJSnRhaS1hVGxfZllOSW1pU0xwbVU3NFlYc2w3ODlSbWJOQTBvNlhzWlBPQmw5OHhMeTNsZkZkMWs3THRQcmhBVFhZQTI4UDBn?oc=5",
+   "data": "2026-10-31T17:00:00+00:00"
+  },
+  {
+   "titulo": "INFLAÇÃO | A reeleição de Luiz Inácio Lula da Silva (PT) no segundo turno fez saltar as expectativas de inflação de analistas de mercado para os próximos anos, mostra pesquisa realizada pela corretora BGC Liquidez com cerca de 30 participantes de merc",
+   "fonte": "Instagram",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0tNHRzeE9fbUFleUJDS0pTa1BucXRQYXBxWEFaVzZJQl9SdWRJT2ZjMUNuQkg0NUpSM2ZrX0had1hxbm5XUy1Bb1dldElhMC03TUE?oc=5",
+   "data": "2026-10-31T16:53:51+00:00"
+  },
+  {
+   "titulo": "Após reeleição de Lula, mercado eleva previsão de inflação para 5,3% em 2027",
+   "fonte": "Mais Goiás",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNa196MlVlSXlMOHdUT1ZoRlB1NzNBM051S3NEUnpzMzFMZkgtaC1IVDNEOVRWNG40VUdkYmtPRGxRZGxxdnBLSFVqTVRIMHlwSmxWRUVaRDUza1IyczN2d2hKdGFfLWhhTDk4SUFDWWg1eEVGZjVPcVBJRkR4U1JObUtkOHpWam1EcXhSVw?oc=5",
+   "data": "2026-10-31T16:47:20+00:00"
+  },
   {
    "titulo": "Expectativas de inflação para 2027 e 2028 saltam após segundo turno",
    "fonte": "Folha de S.Paulo",
@@ -57,36 +87,6 @@
    "fonte": "CidadeVerde.com",
    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQTzQ0SXRrLXEzdkgxNGVuLTlfOHBwNmVxejBZOGE3dGp3b2Z1MG00STZBMGg1YTVLdmVXYXFET3hJYXJoa3hMaXFzQnllbHo0Rks0V1BYWmwzUmJpN3l0QUdPdTZNU3ZWb2JvT2d0Zk1MMmdnbkFsVjJMcGt4Y3R1aGNEYlByVGdfaWQtNGFfUzVkSFN1UmdQb1ltUDNTMlU?oc=5",
    "data": "2026-10-31T15:05:00+00:00"
-  },
-  {
-   "titulo": "Efeito Lula: em cinco dias, Bolsa perde o equivalente a uma Petrobras",
-   "fonte": "Times Brasil | CNBC",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZy1KZFZfc0p2UTZQc0RjWVBfR0Q5b2pUNTAxaFhkeUpuT3BiWlNobDFVS3dXaC04VEFucDNDdE91T0JWZEx3M2g3R0lWZEVSOUMxd3VuYklqSDdmbUZYcmtUSW1tdHgtdlBDMWt5V3d3c0RmaWpxNjR6RTNfdFNxX1NXdk91ZWhSc0dXb2thMHVwZklUemNYZ1lub1Y2bzV0ZzJWS1BoSDQ?oc=5",
-   "data": "2026-10-31T15:02:00+00:00"
-  },
-  {
-   "titulo": "Uso de inteligência artificial já supera o TikTok e o Facebook para buscar informações sobre investimentos; aprenda como usar IA para investir em aula gratuita",
-   "fonte": "Money Times",
-   "link": "https://news.google.com/rss/articles/CBMipgJBVV95cUxPbVl0QlVtVXRYak9BaktncXV0Q3NGZk1XRTkzdDhWNDM4OGg2d19jZUJHT0FSNkV4Vnd6TVA2cEQ2eUVIMlJNMzBIRmVoNXNqeWUyUElTbWtoYmloNHc2R25OVUp6WkhKVWRKcjNKYU1vQ1lOWTdTX0JEVXcxSHZjb1dScU1zQ2RxcmI3aTd1dGw1djFMekY2RmhsOUljVWVTZWxFbkFQQ0RHQkI2d2hLSEp1VlpEMmxmVzB2c01IRmlRaGtudXRtWFNsR2lEWVVrVUNURUl2ZTVabTJxWVpPc2VoLWNBOTVBSkFkV05xOVNhVkZWRm5CVVdzZXd2S1BXeU5yOU5zV3lUNXBnM1RrTVpJcUVjSnptaXpOZWlsbktkNU8zTmc?oc=5",
-   "data": "2026-10-31T15:00:00+00:00"
-  },
-  {
-   "titulo": "BB Seguridade (BBSE3) e mais 4 ações para ter na carteira de curto prazo, segundo a Terra Investimentos",
-   "fonte": "Money Times",
-   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOTXI4bzlNaTRoYWtpQTU1Mk1fY05zZWZ5alN6bzQ3ekJLbUxMU200VVdwNTYtSU9HT1V3Rl81NUZ5UVduanJ3b0RSQi0wOUV0WnBzMWFZNEJGU29SenlCbjdsNDRuUXItOWZKei1zY0sycjE4RDFJdzVSbnZIQ3l1YmtpWTEyOExCTkJzLXlKYWIyQmdqNFZuQlItQl9Na19GUkJJSjBqUXFqWWZESGs4bVVrZmhhWW5EaGh4OExWVkFqZlB0aEQ1TkJLekZaT2Qz?oc=5",
-   "data": "2026-10-31T14:52:36+00:00"
-  },
-  {
-   "titulo": "Bolsa cai 17,5% na semana após reeleição de Lula; dólar sobe 9,18%",
-   "fonte": "Portal 98 FM Natal",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNNzVfTzVvZHM2WjUxQWpsQXdwUXNEd2dQLTNLdGJwVE1QcFIybnFPWEZVMDEwRFRjeXduX0xsSkJvZXZWZlpvNXdyMHVXaTdVcGptTGI2cm40VzRUZGY3eWN1cFhFLVJiOElfQk96enRLQVdMdFRybHRUNUZOa1RKMzhkVGdpNWdzd2dNYjIySEVwRVEzU1llNE5lOXpTOEZ0TjlnbWNJS1RwZTk5?oc=5",
-   "data": "2026-10-31T14:37:00+00:00"
-  },
-  {
-   "titulo": "Rodovia recebe R$ 348 milhões em investimentos para duplicação e construção de 5 viadutos",
-   "fonte": "www.jornalcruzeiro.com.br",
-   "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQTHpUX3FyYzFKdDFkaFRRQTJ2MGNFdi00VGJnSEEtUzdGcnhWTHl3VldoUEZYcXVJLU1IUmlobXB3YWZjUkdnTGVSa3MtSUZWZFp3anZfTlZJRFd0X2JyRXVkcU94aTFIa0RFWTVkMVZxU0FkMHJyTEhVenBKVTNXa1RwX1BMdXpZTDJpRlh3dGNaN2hBTVljeWVDSlZQTUhkMkdOdVJBelNtV3J2THIwM0IzbzF6VGw1b283a1F2Y0pXc3BOMlVwa2FZU2NPUldOcmNkOEQtVlZzM3ZaTmxOMnNJOWdTNi1aM3VxaEFR?oc=5",
-   "data": "2026-10-31T14:30:00+00:00"
   }
  ]
 }
