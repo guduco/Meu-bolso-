@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-10-31T08:45:48+00:00",
+ "atualizado": "2026-10-31T09:42:05+00:00",
  "indicadores": {
   "selic": {
    "valor": 13.75,
@@ -16,6 +16,36 @@
  },
  "cotacoes": {},
  "noticias": [
+  {
+   "titulo": "China atualiza regras para investimentos no exterior",
+   "fonte": "Poder360",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOZVdWLVhHNUtrbXoyX3hwSzJ5RUxzRzloMlE4b092UDU2bWVLOFpkVDhGVjRmMHgzWFZGWXJ3QTVMMkJVRU1vWVdXUGFSbEhESjlkcU8wclREcnFybEhoNXRDdElRaE9wZWVEdGFZSy15ZnVlUkRva3J1MGkxd2FKbjZYTlJEZ1hlOS1OVlpPbl82MGJ5VmRJdE93d3k?oc=5",
+   "data": "2026-10-31T09:27:48+00:00"
+  },
+  {
+   "titulo": "Preço da soja sobe, com suporte da valorização do dólar",
+   "fonte": "Globo Rural",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOektDRndod29USU83U1BpcEdnRHFpdkxKUzh1WXo3YXVab3k0Y1FnMDZ2MGh2OUhFa0ljd3UtSXNRa0hvYlVPanNwMmt6TW5GNkNOSm80VVhFdGE5cUZtVkFwUjhrY0NRcC1NelRrVHdNWUlWd3AzeUJBbDBWS1lVb2MzMVZ3VmRHWEVka29MYTNsNXBxNGt1UHlwT1AzQ2J5aGlPMC11QWhBOGxCTkdHUmxVZkPSAcMBQVVfeXFMT21rdzdEM0plVmJxUkZSc0h2TUhYMEJkdlNIM0ZtNWh3R1YtZGF3NndRbEZRbkdWNFBBUnVwQXFra3g2TjYtNVp3MDVDZ1ljZWVZTldDYmxmd1k5VWRYRWZWTVFMU3Q4Z2oxSTRTLWR5NDNVbTJDakptd1NyVE94aXlJak5OeHk1SzV5REIyajJNN1l2VmRMXzlneUZWLXI1czAtVVlIbmNkNWlzY2NZT3FwVF9QTExJUHRKSFFKY0Mwa0FZ?oc=5",
+   "data": "2026-10-31T09:05:00+00:00"
+  },
+  {
+   "titulo": "Falta de incentivos ameaça investimentos na região Sul",
+   "fonte": "Tribuna Online",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPV2lfX3ZMRTkxTHJ3Yjh0SXlaZmg1UmNHOEdYMTJqaFhlQ2dCWVhvVGJ5ajlvM3pqSWZDT0V1RWJCYXplWnNZLTNsQWV0eEhoamtud3ZCNG5rdUtCYlN4SDkyUnVNWDUtV19FWTlHNFNZUnRtT2pxT3FOOGxmRTRRLVR4ZjA1WEtueWdxelVndWxsb1U1V1pWOF9SU3FxZHlT0gGoAUFVX3lxTE9hQmhvQXR3ZmxsNG4xdzdfUEFuMGZBLUNlQXdMcUk0aDRVcHBIY19idjlZN0Q0VEhHb3A5cUhPZ3RFX0hITWM5cF9TSFVzazR4RXlCSGZoQWdoUEpFcmZFMzdxUVQ2OE9NSDFzYjhyR2cxTFQxc3gyNlp1Wkc2OGw3ZjJ0bm9POThxSV9CSW5qdVltVGZSQXB5YWpxNjcxckgyR0hpQWZ3SA?oc=5",
+   "data": "2026-10-31T09:00:00+00:00"
+  },
+  {
+   "titulo": "Reforma pode favorecer investimentos, projeta Vinci",
+   "fonte": "Jornal Correio",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOeFIwT3RHQXdpajRRZGxrSUVwd1lzTHZhb0pseDFsZTdJTGpOSjVMaHlnOG1wR0N0VUlzZHVzdFRfUUI5cXlCRzNuRWdaam9iRXN1WG9OTDhJeE5fam5KMklMS3dPaE50cmRvUlVnRXR3ZVVhZXpUZHZZV29uTXg2YzdvYk9vZlhkYUJIdmFOZnFrSjQtRUxvb2V1dnhvYWVuZW5V?oc=5",
+   "data": "2026-10-31T09:00:00+00:00"
+  },
+  {
+   "titulo": "Empresas suíças planejam ampliar investimentos na China com novo acordo comercial",
+   "fonte": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQTGFZVHY5ZVM5QV90aU5PX1N1eThKaHItMDF0Y2c2aFA0ekJKSGtIdWRvbU5UZVEzdVlEa0F4NmRqaVJmM3lGUENLcHhUMzdCV2FRS0FUOFZtSGwxRWhMVW81NFE5bmF5UHlpWnNUXzBvRzVzeDFycXUzV0RCYXEtdkxzUTExd1RpTy1BYk5ONUYtT0VLcHdCc2hKQjJrS2EwaFBRc3ZTSzZESmt4OFUzWnNUU1VDYWpyMldCY0Y3YWlFMF9YT0g1bkViSUQ?oc=5",
+   "data": "2026-10-31T08:45:00+00:00"
+  },
   {
    "titulo": "Mega-Sena: quanto R$ 42 milhões rendem todo mês na poupança e no Tesouro",
    "fonte": "UOL Economia",
@@ -35,6 +65,12 @@
    "data": "2026-10-31T08:00:00+00:00"
   },
   {
+   "titulo": "Celinho do Sintrocel defende pacificação política e destaca investimentos para o Vale do Aço após reeleição de Lula",
+   "fonte": "Jornal Bairros Net",
+   "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNMjQ3Q2NyaGVHNzlwWnk0QlJlazZtdzFMdkZxTW1Fak1pWjlPQmdwOXVFcWlibkppOGdzR1FmdWdlYTh4YjJkSDdGTjlpbElYQ0JpbVJDSkxhY2prcXpPdWF1U1RBZzhIQkkxM2psdGdhVlo0eGdBOWYxQ2NwUUNqdU9nY1VLUHNCbHA5SG9kZDJGWHRabXVKTldBb1V3dUdwZGFMeU9nT29TT0RubGRqaFpyRERKRGg3T0UzWTUwaG9hNzBZSmtUaHFITEdMblIzZ1oyTVdwVlRrbHk0WkpWb3A5dGtxemxlS1JUd2pXcFdIWXpfV3hpdGt3RQ?oc=5",
+   "data": "2026-10-31T07:44:55+00:00"
+  },
+  {
    "titulo": "Mercado reavalia riscos fiscais após queda de 18% do Ibovespa",
    "fonte": "CNN Brasil",
    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPSUVMYmlUeE1aenowYkFFQlR0N1Nlb3hjYmFBNnBtQUlKTTVxSzRkUXFaWUpEME9RUE54eGlITE5za1NHZl9QZDJ4TG5FWU1aRnZnYWx6NEVfZXltNmJ5Z1JaTTlwcmxPenpMYzhXcHNkeWpJN1d5bEQwTXRkTW00d3lDTVJPZEtpdlhkenpNd3hIMlNmMHdmMzRDYUxnOXItR09MOVJGX19yQjVVWG5ONjloTQ?oc=5",
@@ -43,7 +79,7 @@
   {
    "titulo": "Ibovespa: tombo de 18% iguala semana de 11 de Setembro e chega perto da pandemia; o que esperar?",
    "fonte": "G1",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQeUJ5akJGX0huLTNTeldzT2VKVmFZOU1salpVZ214bEh6UVdLdGNGdDRvMi0zUU1BNDN4N0VKd2xpcVBZMi0tRldVVGQ3b1RCRHRuYlVEdDV4b3lBUXBpRHdLajFSd1pjOFk3X0twNUdqVDVpdDlzWEtpM2l6ZlFjVjh2b2lRLUt0YUJxN2c4X0FnS0Vu?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQeUJ5akJGX0huLTNTeldzT2VKVmFZOU1salpVZ214bEh6UVdLdGNGdDRvMi0zUU1BNDN4N0VKd2xpcVBZMi0tRldVVGQ3b1RCRHRuYlVEdDV4b3lBUXBpRHdLajFSd1pjOFk3X0twNUdqVDVpdDlzWEtpM2l6ZlFjVjh2b2lRLUt0YUJxN2c4X0FnS0Vu0gGjAUFVX3lxTE5wRHZFbFlFT2QwUFkwMXJPUEdrcVF2Z2pEQkxzZV9aM196Wk5Xd3lIcHBHV2NPYVlSRFROQUdEck9DVllnOHlpZVNqa2ZTY3doS2oyaU4tLTN1WWsxdWpyMndCTUU5emdQUHl4Rkk1bVBBWkJwcnFUSE54NkQ1TDBSbjRCYTc4REo2NG02X0QxaXZWWWpRc3NQblhwOXlueVlFLWs?oc=5",
    "data": "2026-10-31T07:00:00+00:00"
   },
   {
@@ -51,42 +87,6 @@
    "fonte": "Paranashop",
    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBoeGlHOVpueF82Y0dvcU9fMDJiUTFkbHAxMnhVUnNvdUxWSEYzWVRyeHBIaUFILTJ1ak5DdFlwQnRIY05Ba05UZGZKNmVUMXJYTzZONmRmdzBpaHc?oc=5",
    "data": "2026-10-31T05:07:32+00:00"
-  },
-  {
-   "titulo": "Covid, subprime e 11 de Setembro: pós-eleição de Lula se junta a quedas históricas",
-   "fonte": "InfoMoney",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxORlllbWFFb0pyNW1kLTQxQVFrbGdGU3lKcUtPQ0RfUkFNRll4WTBDY2UzRk0wMlVMX210YkRGb21kakZOamJtTE83SXZVdnVJOGxIVjVUOEttN1EwX2RwRENLbTVseVh0LWtaYm5MdDhMeWZiWTg0WnZGLXd6dFpPQWRnZm92d2tQR2ZsNFpDMlZqaFRCc0pyZk1Sd3JnUkJFOGVoRdIBqgFBVV95cUxOSUlvbWtlbFFYVVZJQWw4Z0FBTC1yZlRzLTJQQXFPOUVvRmZKWlFLVlFNa1gzaXNwVFlBbTBSSnFPNzl0VWZWZUphNDM3d0Q4Y3hQTVdFTUJMbTd5c05UdWdqOW9OMk5RaGNqWWZBeHRaYmpmREo5Y3N2b2l5czdvaFU1djJGVS15NS1udS1ydVpHeE1BOEJ6RjFkZTJKREJka05IenpzYnJuQQ?oc=5",
-   "data": "2026-10-31T05:03:00+00:00"
-  },
-  {
-   "titulo": "Dólar dispara 9% na semana e Ibovespa registra quinta maior queda desde o Plano Real",
-   "fonte": "Hora Hiper",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQSlZqYjc3MmQwYS1yTGptVUVQOThPdUpDTGdWa1VhZlg1TXRkLVExUVR4VEhpdjFqSGdIclJDSkhqRjhQWHFUeGozNkl4MFVvTmlrbnpMWW5sZXdDVEs0OWcxMkROYnpOS0x4MTQ0R2NUSERlUjlpaVBfcl85aW1PVjBNeEF0Zm9JeHdyUWFBRHZkVFE4dHJnV0dDNktBenRuZWJldnlxTy13UjBRV3d6WVlzWFdPekVpd01XbTF3?oc=5",
-   "data": "2026-10-31T04:26:03+00:00"
-  },
-  {
-   "titulo": "Investimentos necessários",
-   "fonte": "O POVO+",
-   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPUy1PM0liVXE5aDJoajFrNUlwSnVrTUJjUnZoVFFaQ0pSa3R2YWJ4VVNROHRUZlJQR2FCdDB0WmtYWUxwaS1McXY5bXZEWWRYQndJYy1Sd2VBVmNfN2VQbC04RXFrUkc5QjlkVkp0LUpkOWV0NWp5Yk1tRENxTDZ5XzdNSzlSV1JIZVVZ?oc=5",
-   "data": "2026-10-31T04:15:00+00:00"
-  },
-  {
-   "titulo": "Areia sob fiscalização: SC lidera em praias alargadas, mas tem desafio de aliar investimentos milionários e preservação",
-   "fonte": "G1",
-   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOdkFjRDliN2sxa3lyN1F2RU5PUDc3Zld4eGkwZEJLX0pobkgxOU1Ba2xfS1FuWnhac2pWMDhyM0thTTdnRlVUN1FJaVlQZXNxTzE0YkdNRVVIY1gtTV9tTFN2RW4xOUZjS2hLd2drUnV6aFNNVGpPWjVyZXVWZy02THFmeVkzUDlJUExVMGFvZWg4NFRUQkkycjRwUU9LTUhCRE13Xy1lVDl4WkVUc1lSR1Z6di1JbFVRVXdBSWZ3UmhYQWZsbGdRWUlRMzhuMS11N0hXZ2NsdXQ3d9IB6AFBVV95cUxNeW01Rm1ZQnBGQlp1WF9UVTVlelRQa2VXZ08xNjdxOWpqSjJJOEh1UWRpWUlJQm5fOEdfamg5Nmo0Sk1uYjdYLTA0eU9iM3BhX3YzMUJtOWtvUGJRbzAwVHFYWktVdkRZVHBNc2JEZ0d0UjNmMlBMYjdwZ2VyT2N4d0tyeDA3NzlmT19sZmdTc0RvTGE4RU16OWpFbVlDN2Y2QTZHYzg0aWZyTndXV19pckM3MkFocWNUTmxrTXZPZXlSdXZTenhjM002UG9SbE5PdEI0RGNjcFp5OWVIUmlIUTM3Sko2enlN?oc=5",
-   "data": "2026-10-31T04:00:00+00:00"
-  },
-  {
-   "titulo": "Produção de petróleo recua no RN e setor busca ampliar investimentos",
-   "fonte": "Agora RN",
-   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5OT2hBdFZrUDRXdDVzaGQtRXp6QjBodmhISWpWV3RkYmMxQ2drLTUzM2w1TnN1WkQwWldEYkxZWk1VOHk4QjM0UktpZGl3SFMtZXgxZlBBR1Q2aVRneFl0RTJnMnUweUN5YVBucTVvaFU0azdqRS1IejB3?oc=5",
-   "data": "2026-10-31T03:11:40+00:00"
-  },
-  {
-   "titulo": "Ibovespa 'queima' quase R$ 1 trilhão em uma semana após reeleição de Lula",
-   "fonte": "Revista Oeste",
-   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1Tb3l3bWxVVjBhRUk2emZaUkl2RVhwNWNxcV9vZDBjd2phcGpiR2dmNHBJQXRaOFRHNjNvSm1HUW1VTVdCNG05eVhsMnZZaW00dUlNYXdneEd2VHZOckZDUXQ4bjRNdVBsdEpMUGlkeVJid1Z4QWR0UkNPMA?oc=5",
-   "data": "2026-10-31T02:25:53+00:00"
   }
  ]
 }
