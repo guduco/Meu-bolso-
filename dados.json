@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-10-31T20:38:07+00:00",
+ "atualizado": "2026-10-31T21:37:51+00:00",
  "indicadores": {
   "selic": {
    "valor": 13.75,
@@ -16,6 +16,42 @@
  },
  "cotacoes": {},
  "noticias": [
+  {
+   "titulo": "Opinião - De Grão em Grão: Como dividir sua renda fixa entre CDI, prefixados e IPCA+?",
+   "fonte": "Folha de S.Paulo",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPajBiUWtFekFNZ1MzUHBya2xfOW4yLWFRTUMzc1ZKeV9QUU5tTU5KQTdmQVFwYmhOcnY2S1RESHNWYktWaENjeTlrSGliS3YyQXlFcm9XSERmenI3elM3aEtqRFZQQzFmZWhyV1l3bVpLWHg0WlV0QmxfZ2QxV2JlQTlMcTRXVXprUnpJQ2lzeHQ4allRYkZJM2J6al9hcmhBc1lpclYzZGI4T1BEdlJtYWhvY290SEZ4SnlGVGRB?oc=5",
+   "data": "2026-10-31T21:00:00+00:00"
+  },
+  {
+   "titulo": "Como dividir sua renda fixa entre CDI, prefixados e IPCA+?",
+   "fonte": "Repórter PB",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQQkozVWFlSzlYXzZ5ekNjVEo1Q3VRSE83Tk9fSXpLd09ScG1ucFdaRHF2NHJVSHJLeFRXR3JoVFppVmRoY3lfaXgxRFB2NDJtSEx1YzRsR3hLNU1XM3V4TW5Pd3hoX3VMVmNoNDljTlJ6eGpfYkJMVDFGbTBHeVpnem11LUlKb1B6MWJJUGQyYnF2STd2VVJ0WWxhX3ZXR2QzQWo1N0xnZEJKd0FwV3M3R3NuYTVaNm5LRllOajBPOA?oc=5",
+   "data": "2026-10-31T21:00:00+00:00"
+  },
+  {
+   "titulo": "Investimento estrangeiro em informação e comunicação chega a US$ 5,6 bilhões no Brasil em 2026",
+   "fonte": "AgoraVale",
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOLVpkY0tHTE5ueWhvWk81M1JpN1RaTG5pOFRtTVJ0U2NjaUY5eDkySU44MGd2WHJIUVZFa2s3ZjhWOHFHb1NfTzJzRXhfdnNBLUxGQ0NfSWVlX2Uxc0Vmc3dpUGdrWTRGRHFJczUzZGczYW5XTFBvOVlvY3dCVUMxZDh4NVA3R3NnU1BLRWxmWWppckN6aG5NQVZ3d2xGbnVzLWtXdUJLSjRKM1RHNWF1UFlMazZoYVQ3RjVjT2R0Z1VPZ0hqWUVzUU45bnh4cXR3?oc=5",
+   "data": "2026-10-31T21:00:00+00:00"
+  },
+  {
+   "titulo": "Expectativas de inflação para 2027 e 2028 saltam após reeleição de Lula, aponta pesquisa",
+   "fonte": "MundoBA",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQWklyZzltUWtZTEJmbGxQdG1DUlFUdWJzRWhqLTN0c1dUXzJSdWoweWhDYzNKOTVMOWFOUml5ZU9zR1ZfUUhhTUlWU1NDcWJSOEswR0xpZkpHRk9MV0Y0dWtCNVpzVEJKaEFfNlpWMVRRNXlfUlBpWWlLclhjdGRVTGtvV011bjZ5UXRZenBLVkU3WGczcU9EbWVhaVJHNktRSlpKcmZvaHdITUJ6UzdlZlBKNk15U2p0QXR5aw?oc=5",
+   "data": "2026-10-31T21:00:00+00:00"
+  },
+  {
+   "titulo": "Mercado busca novo patamar de preços na Bolsa, avalia estrategista",
+   "fonte": "CNN Brasil",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPMnFtMUdLOEdFZnAyenZ3dzFXWmFtRDl1TDZ2aFlSU09EQjFiUGZJcXJnRnUwZm9td1hPcWVWcG9UcFh6RGYxb1EyajdLMTcybnVUNDRyTkJDaWpWWWZyVXFtZElTVWNFQi1mY2FVOXhROUJ5UHJJWHA3WFlmSVBPZnJCNU9nWnRhWHdGb0tHeWVHWEtDeVZ0MXJZcmdNRzFmUTVQWDIyQmduZnBWcnk4TnQ4SG5pMGh6aUE?oc=5",
+   "data": "2026-10-31T20:55:16+00:00"
+  },
+  {
+   "titulo": "Dólar em alta impulsiona ações de exportadoras e coloca Embraer, Suzano e WEG entre as favoritas",
+   "fonte": "Jornal Portuário",
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQdTBILWdrQ21ZdmVBUUd3d1o0ZFMtTVJ1U0djdzZGNlcyRk9samJhUVh1MEF3eXYwN2dmUndmRXhkOU5Fenc4SDdUekNPRlNuYVZvbzN3cXR2WWtwaFQyNHBoWFpyXzBWVVl0eW11ZTI5Qk9tcnRTN09YM2llaEU4d0oxbzZpbjhzQkxuZTl6aHdibHhMNmlyZURzRHVJWVp5eDlockpYVm5DVVhCSUNPQUdEbmJfbnhCZG5jVllReFpkallPOXVBRG5BMW1lRXhW?oc=5",
+   "data": "2026-10-31T20:17:06+00:00"
+  },
   {
    "titulo": "Itaú corta PIB 2027 e vê IPCA acima do teto; projeções",
    "fonte": "Acia Araçatuba",
@@ -51,42 +87,6 @@
    "fonte": "Estadão",
    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPUFRZclVHMEwtbWRCcEpZajgxMzdkUWxOcGhBRGxkX2xyZ0daLVdRVjh4WlR4U2VOWEdrR0xQU1ZkNVJRRjVvaHJCQnZXc3Z4a2hKYjN3bUV5NEZ1ODF0YkFuT3RYREVRck5aMUdmeEVBZ1NpdERMTXZyaXpVUEE1M1c4UEFBWFU2dWVBNmNhenlfd9IBlwFBVV95cUxNMmdpOG92SDNZR3lodndhSEt3eU5GZTQ4dFZ5Um9zQ1l1bFNja042VEZjZHhKY3lYUnZaUVhjT1JTUF9QYlcyVnpVZUR5c1ZvY2JDdjZ3ZU5mMm5SZFZQUUtTaEs1U3Q3Umc2SGRlZTEycS1CYUdCM21TSEQycV94UlF1dmlQVFc5SlRQSVZFSTN5QTI1Um5R?oc=5",
    "data": "2026-10-31T20:00:00+00:00"
-  },
-  {
-   "titulo": "Inflação em setembro afetou de forma desigual famílias de diferentes faixas de renda",
-   "fonte": "Portal VV8",
-   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNQnlLRVVxOW1lZUJzMHQyb2hjSzRqWVdldkVfRmdZQlBkeHY4Ny0zby0wVGpxQUp4YUVIN3ZBOVhnaVBKdzRxSzRSTjNQMGlKQTNMZWlKenNWQ3l6NFVubHFQUWF3WjVhYnFwQ1pTZ1c1dDB6cUFkSlRNYzNMTnNGbDN3eXp0TjFiX0hfQnB5SWRaSF9lWS04X0h4elNNdm4wNzlvaXJoWUtObnVxTEZyeEpYeWJzR3F0ZEJ2NURFNGM?oc=5",
-   "data": "2026-10-31T19:17:08+00:00"
-  },
-  {
-   "titulo": "Ibovespa registra quinta maior queda semanal desde a criação do Plano Real",
-   "fonte": "ncnews.com.br",
-   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9XUV9naGpubC1RbDEySTJobWJtYl82Sm0xWDBab0JKMUJVNkFKY2haeW5JSVZQMl9YYjhFd185dEh1VGROaTNlM0cxeDEzc1hCMjdvMVp4RXJhSXZlcTk2OGltZUF0TG5lZVVBN0NFbVJ0YjRrY1FDOUsxZ3E?oc=5",
-   "data": "2026-10-31T19:11:36+00:00"
-  },
-  {
-   "titulo": "Vicente Pires recebe obras de drenagem e pavimentação com investimentos de R$‌ 58,8 milhões",
-   "fonte": "Agência Brasília",
-   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOSFVtcDBJSU9IUlN6R1djVWY0T1NDdndwdzhiUjdxdXBtbW9wOTRWNGFNRG9oVXZNVzlwWkxzNmJybmZIQUwzd01naTlVNTdLNi05bHdkc0s3TTRXY2RRLVR6NExKSW52Sm5aLUNhRkxiVlNEakRUWGU1ckkwQmhZbDFkUEM0a3Jic1hRM004R3ZQdGNib0EydWVlWjdySDg4NGZMeEhSOHVOR2dqY3ZUaHRpV1ZZYWp5OW8wU1hmNVV4QWZhRkpPS2VONkpnMjR2a3pCZFh2QnpLcjlkX1BMU28wRQ?oc=5",
-   "data": "2026-10-31T19:06:00+00:00"
-  },
-  {
-   "titulo": "O AMOR SEGUE VENCENDO: CONTA DE LUZ E COMIDA DISPARAM E INFLAÇÃO CASTIGA FAMÍLIAS MAIS POBRES",
-   "fonte": "Diário 360",
-   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNY19temJVaTRnLThHN3dHOEg1YV92NDk4Zll3OHN5SWwwcnk2Zy1EMl9Vb3hjcFNjb25xX3FCU3EyZ3JzQUVVN0hnOW1ZVTUzcWhHaGhtQlhnSEoyS204aWN3bmNiX2hlRWNwS044NURxV2ZfTHdWZGhmRFlNOTJuVHlNcHc1RzNxODFxMjdkN1RySm5HcFN1bTJoZ2ttNjdFa1ZPR2FmcmJtd2pFalNRQTFScjNPUmlndlh2b29LeGlJQjM4bEVzOQ?oc=5",
-   "data": "2026-10-31T19:05:00+00:00"
-  },
-  {
-   "titulo": "Copom: mercado vê 63,1% de chance de manter Selic em 13,75%",
-   "fonte": "BPMoney",
-   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOMlEzQVlURndUTDlQSHY4U1hsT2plMHVZYWdDSno5di1GX21FY1BWSkwwcnFaVC1JWHhFVTFSNERQZldxSmtpR0hOdWNpd3J5SGs3ZHFrOEpRcnRacnBqTFpDd0NXdXhiYnlEOHNTYmVNYzRDSU56R3dwUnZsRWgxLUFaUVhEcGl4ZDBpV3I5RQ?oc=5",
-   "data": "2026-10-31T19:00:00+00:00"
-  },
-  {
-   "titulo": "INFLAÇÃO | A reeleição de Luiz Inácio Lula da Silva (PT) no segundo turno fez saltar as expectativas de inflação de analistas de mercado para os próximos anos, mostra pesquisa realizada pela corretora BGC Liquidez com cerca de 30 participantes de merc",
-   "fonte": "Instagram",
-   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0tNHRzeE9fbUFleUJDS0pTa1BucXRQYXBxWEFaVzZJQl9SdWRJT2ZjMUNuQkg0NUpSM2ZrX0had1hxbm5XUy1Bb1dldElhMC03TUE?oc=5",
-   "data": "2026-10-31T18:52:27+00:00"
   }
  ]
 }
