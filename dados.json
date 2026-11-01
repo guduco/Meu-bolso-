@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-01T20:38:46+00:00",
+ "atualizado": "2026-11-01T21:39:14+00:00",
  "indicadores": {
   "selic": {
    "valor": 13.75,
@@ -17,10 +17,58 @@
  "cotacoes": {},
  "noticias": [
   {
-   "titulo": "Copom, payroll e eleições dos EUA na mesma semana",
-   "fonte": "SpaceMoney",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOYnYxUGR3YmM1Uml5WE9iby1TOTU3a0M2ZU9pYzN1V2g0TlhjTGk3QUZHcXA4bkEyRFo5N1o2QjVfbWw0cmUzSV9Qb193dGVqV0JXWkZSU0pjc3BZZDFMUWtXWElLTVZRMm9LdHlmbXA3eTk0NmhfNVFmaHJfVG05TmpnQ0lpSVR3MGVzUXBmZ1FvcUY1NjlkQ29B?oc=5",
-   "data": "2026-11-01T20:19:55+00:00"
+   "titulo": "França apura ataque com coquetel molotov contra policiais",
+   "fonte": "Jornal Correio do Brasil",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPTnlNRm90QjJwa1pRdmR4eDZtMko4ZHRZUHI5WFUtWG1hdjlMRG1qY2xMaW5sSUNWdnkzWUpLZWpoV2kweVZwLWFob0d0OFpaUjRxNzN0VHh6MFkzcnNGUHB1UW11dEY1MkJoRjdmNlQtTkZBQmhvRThQX2hHcElYT3U2ZGpiUQ?oc=5",
+   "data": "2026-11-01T21:18:10+00:00"
+  },
+  {
+   "titulo": "Em manifesto, economistas cobram nova regra fiscal, menos juros e mais investimentos",
+   "fonte": "Hora do Povo",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQN2xLdldxSi1yeFUyc0Z3LVVqOEFhM296amJ3N083RGNTeklRZjJpRlRpQ3JKRmxOSUZkU1Q1TXBxMnlybTZIU2ZaTkhlMHBxMmkxVXhqczRtZWhZVGRZQUg2cWhXbS1GWU03Ukk3U0k3WlphTTBzbWpla0R6M2hmeThVN09ZdmpjSWdONG84NG1BdFJsZ3FKNEdlYWRCTHRERU1NWHRvNTdJRmdyRVE?oc=5",
+   "data": "2026-11-01T21:11:15+00:00"
+  },
+  {
+   "titulo": "Uma proposta do economista André Lara Resende, um dos formuladores do Plano Real, para reduzir a taxa Selic por meio de um novo arranjo entre as políticas fiscal e monetária pode chegar ao presidente Luiz Inácio Lula da Silva (PT) e já provoca apreen",
+   "fonte": "Instagram",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1RdFJUVy1JZWFiel9kQ2xtU3dmSnlBbXdmcWJvdWlCZVJkYXptaTZLUWJrRGNpdXE5aHZvcjlsVHowZFBremxVQWczUmtBM2o0Rmc?oc=5",
+   "data": "2026-11-01T21:09:16+00:00"
+  },
+  {
+   "titulo": "Tem conta no Mercado Pago? Veja 7 recursos que podem fazer seu dinheiro render mais",
+   "fonte": "O Petróleo",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNZVNoaVhUb012VlRlN1Zud1ltTm84SmZOeWJMNXd5cEVtdF9HaWdMX0FPR2N5UVNxcHEzNDlfUmNFNzlwbzE5QmRWS1ZZWG1DTThFd3RxbFQ5bEowTDk2ZllQTktSSHh4Sm1xa2ZTb1ZrU2dmZkNCaGpVLW5LLWhJTDU3OU40MlRZTVE2bTAwS2JrTGIwcEtnMmtQVHFmWEZOZXc2WVRJVTN4dU5f?oc=5",
+   "data": "2026-11-01T21:08:53+00:00"
+  },
+  {
+   "titulo": "Ministro da Economia justifica queda da AD nas sondagens com impacto da inflação e subida dos combustíveis",
+   "fonte": "SIC Notícias",
+   "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOZFc4ZmdUX2l3MjRSOVR1OE1neTdINm9peExDeENrM3p4TlloNHowT253bkota2g2Mm94bHVZQWpLaWNSV0tmM1BuTHRHa18yaGh6b3oxSktLMktZZGx0RUJ4OXlIdXA1RkJjM2hkQVBHeWJIdld5enI1T1l0aDdmQXljYXNIblU5SXdfTWhoVk9fcktaWk9Kdi1rRV9LcGJ6LTk5THdvVmlENzd3STUxTURvTUswWUNkY3ktSUdHSURXOHJUeGpaemdzWTJSRFQ3aG0xTWVwOGNRVTdSMG92NnA5dlg4QncwejlEay1zdTlxY2FNVEQyai1tNDl3UQ?oc=5",
+   "data": "2026-11-01T21:02:22+00:00"
+  },
+  {
+   "titulo": "Agenda econômica: semana tem Copom, payroll e produção industrial",
+   "fonte": "BPMoney",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOY3RpRUhDVndCdkQzRDhRdFRKS1Z0MldMa0lJUzdmTkpVMUNsbTc2QU5RX0FBUGFVVFdfMHoxVGRzU1E5MFVtc3R1aktZTF9MR0FvZlhJNGhlUGlKUHZMTHV6Y29WNnduMmhFaXlmQ2I5T1U5RGhzLUtwakhWaTBLdTlhRDJYVGlyN3JrOFNzYW5jejNhZXVQTUFZTQ?oc=5",
+   "data": "2026-11-01T21:00:00+00:00"
+  },
+  {
+   "titulo": "Proposta de Lara Resende para reduzir Selic a 7,5% chega ao radar de Lula e provoca apreensão no mercado financeiro",
+   "fonte": "Brasil 247",
+   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNaEFyeHlaOUkxdlFDcy1zRnpLbWFScUFjbnUtLVk3Zkh3UHlaSzJUVTUyeWhvN3BGSDE0UTNTUmw3cWJwMkZ6VEhVb1I2RExaY0ZHcUdYVERNVTVWQ095WXB1bWVhQk5YYW9kNWl0TS1wSzNMWVZ3ZGVLLUw0Rko0Q21VRE52U2FjZFg1VzZLMnNVUnduWHNHSjF3ZVpZeTFMa2RqbGNDcVJsLXVHNGpXVkpZWW5DYlVtZXdkTzc1WTR6dnVLUXZET1hnd2c0MlQ3clA5UDUydVJibExyX2prSUt4UQ?oc=5",
+   "data": "2026-11-01T20:56:58+00:00"
+  },
+  {
+   "titulo": "Proposta de Lara Resende para limitar Selic entra no radar de Lula e assusta mercado",
+   "fonte": "Folha de S.Paulo",
+   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQbXQ2MGdQak9EVjdGVVNSZGpoX3h3SXJudi0xUzBZNUV0NXJDdVZQU1ZVMGgyY0Z0N0djbjFzWDFMWWZPNjJlbTltbGxoYTlZTjR0bHJsUVdrTm9qMUhTXzkxenZNclAwXzcwQWJTOHNyaTFiSkJILVJ0dTh6QVRQRHVpSzlKbTh6VXlGZE1iZXNLRkI3LWExakFUUW0zNmcxZ2VzZzRaZzhtOTZsWjFXYVNETkVPanhhRzd1QTF3ZTVmaDJ2b1BGcjdVOTR1a2M4R2c?oc=5",
+   "data": "2026-11-01T20:35:00+00:00"
+  },
+  {
+   "titulo": "Decisão do Copom sobre Selic e Payroll nos EUA são destaques; veja a agenda da semana",
+   "fonte": "Investidor10",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPZVlJZ2JOeEx3dHh2b3UzWno4OGlaejNQTzN0a0loNVlSMGVPVE9aOHNmRTIwNjBuMDhVa1pCdExGUzJEZ1lxV3BJbGptSVM4bnptNk1pV0hHU3lhODF4Wk9tVmo0UFNGNnRncEVFNkt1U25tVGVmeGpNTmE5cnZ0OXBJaDhPb29IU2MtdWpQY3NOWXNscHdrb1d2bzAzODFyZnVFTkpndElPcEhPbDVGTzd2VG50MlEwNkk2UHhuWEdielJUOWVmY9IBzgFBVV95cUxNa19jX0VVcDdzRnRTbGtyM2E1OGFNR0FnMDZhX2RPVUx1ekVZa1pFcEx1Zjk0R0o5dlJSM2xyc1VEVFFqMm1QYkRqZ0MzMllkVFVXSENaRG45WFdQVnVsNnZkaVFmN3BMcWhXbzZ3UWJ5YjVodjgxN011ZlJHUGszeGlXT29Lc2R5YXctSkZpQ3pJNkk4SThDMWp5dFhhU3hMVXNGcXNCY1kzYTZIaVJxMUd5elQtamJJR2Y5Z2ZDckRERi1NVkxyWTF2N3puUQ?oc=5",
+   "data": "2026-11-01T20:33:05+00:00"
   },
   {
    "titulo": "Pra começar a semana: Lula começa a montar o novo governo, Copom define juros e EUA votam",
@@ -39,54 +87,6 @@
    "fonte": "Canaltech",
    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNWE83WjMySlJGSmQ4S19aRm5XVXVocGxlMW5RWHF6cVRtYzRXcVFlZkpTM180dFB4QXlVV2J6dlpfa1ZoODBoaHRxMEFMeWc0LVRlbFdCVlpEMk91UVEzSzFFMW1DVXdzXzNUWFNCV05iLWc4NTRlc2FoOWp1QXhxSEVOR2VxWVNzRE84eEswZHBkLTg?oc=5",
    "data": "2026-11-01T20:03:00+00:00"
-  },
-  {
-   "titulo": "6 ações entram no radar após quedas, mas balanços revelam riscos para investidores",
-   "fonte": "O Petróleo",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxONHM2cGNsNVNWaDBvSzM2MVVTRlM4LW92MWI1eHZoaWtEeDRrMGVoUm0zdUFsQVNJZjRsLWZFU1FxWnRiZlg4SmpvalpnLWI1X09YcDlJRFVvMnVUMkVreXo4LUpfa3ZHYTBRMGpQaF9sNm1lVTd0UXRJSmpPY29FRWRvTVNXbFFVa2RFTHQyLXB0UzFZYm82c2cwdWdBeEhrVkJ2ZkZoQnFBM1k?oc=5",
-   "data": "2026-11-01T20:02:12+00:00"
-  },
-  {
-   "titulo": "Calendário econômico da semana: Copom, trabalho e eleições nos EUA são destaques",
-   "fonte": "InfoMoney",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQNmM1aFI5emo1TXlUOTljUjk4TEpXZXo5QzlCSjk4NVlXWXhCV2tNMmp5QkRuM20zb0p6d05leXRDcmhMYURtbklUOFh5QkJzYzVTMnhpdGN4SU5ERzIxOHlCN0FjbFQtbUlFaVpfcjQxM1owV0Z5cVZWTm1OeVFlcUVIMUpPelJvYllBWUZSOEJHTE54M2NVa1ZzaWFLeEVQOG81UFZ2ci1IQkVyZ0o3NEpSZHNrT3pW0gG-AUFVX3lxTE9vQ2FoS09hN0VvSWRFLWhxLXFGS2FzNHJQaEswbG5SSm1ZM2RqOEhkVWZrdjdDdDZ0XzdRWGhsTFduSU40SDR2VkxVR1VfSXlEMVpDRGVJVEVlR19mQmVSbm9xYTBkc21SanEyR1hwRHotYnJ6N3VWUlJJWVJ0YUZRUlVWQzhKYWVDWW82TUF0WFFMbEtmcW9oR3NncXctaWRUS2c5UVd6ZXNmcnlxQXoydWZnZ0lLS1JkWkFqTHc?oc=5",
-   "data": "2026-11-01T20:00:00+00:00"
-  },
-  {
-   "titulo": "IFI projeta que cumprimento da meta fiscal de 2027 pode exigir corte de R$ 35,7 bilhões",
-   "fonte": "Capital News",
-   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQSHZ3N25WMTRjR2hmWXFzVmY5TGx0MXZnYlI5RlRZSnFoeGZVVjU0cElZbnhNZkwtM2tUdnR5eFFfc3NiSjBSRkttS081Q0FUX2RUOWwwdldQUkFiam9hRlpjREV0eDRjRVV1NHk5cy1uZnFlSUR1Q3Q1WnA4RmVIVmFIMmNjanVlNFkxWWE5QnFyLVc4U21HQmd3NGJMSmtKMjNaZ3VvR2lLS3N0WmVVQzI4cTRHc3dqU3RfdkpfX29yY0NScHMzdnRzcGs?oc=5",
-   "data": "2026-11-01T19:56:00+00:00"
-  },
-  {
-   "titulo": "Ministério da Cultura cria programa para fortalecer territórios criativos com investimentos de até R$ 2 milhões",
-   "fonte": "Sinal News",
-   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQckpIR3ExaTZFM2g4SmRRN3VBVWVwcVBGdWRLcmZxa1I4WkM2QjVpT0txMFZObkFVZEhFVWw3cnRfZHJLLV8yRmNYVjFQeDhISWhxZmszMWRqV3U1cC1waFJDTVp0VkRvWmNwZkdiMzBBbUZ4SjVwMG1Sc2lIV3hNWUM1bTA2V2hzQy1nSWg3OXdlTmg0RzlvZS1lRmxOMm8xYXNJUTRKUkIxWDVvUkdnX0N4YUFGWnVkWlZSX09KV3c0TWZ2NmNKWUpQSFVxOGl4Tnc?oc=5",
-   "data": "2026-11-01T19:45:55+00:00"
-  },
-  {
-   "titulo": "Selic em 13,75% é aposta antes de decisão do Copom",
-   "fonte": "SpaceMoney",
-   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNVXVhVEVpeldFRWVQbHVtUnloZlBDWlE4RktiTFhmV1BSQk1KdGk2YkFFYnBNbF9PM2JzZXM0TmhBSVQ1Qm93NHh5OFd3cktsTmFFOThweXZlSHVaYTNyS3h0SEZGeGVJaVhVcmRlNk9HMVV6enFvMUM4ZnZCbEdoZVNzZlN2Zw?oc=5",
-   "data": "2026-11-01T19:43:28+00:00"
-  },
-  {
-   "titulo": "Copom decide a Selic na quarta com mercado inclinado à pausa em 13,75%",
-   "fonte": "soubrasilia.com",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOeUlPc3VqRVdKSnRXd0d5SkM0TVBmNVlrcHVNbVJNZWEwX2x1cE5DMVNsZG44Nm96eDJxSnhpYVJZS0hHbDFhMXU4RlpiUk4taVRMeUdzejkyT1FBNlh0X3MwMWNvdEZ4a1ZHTjItUUhaeTVmTlBqOHR0bFFPWmVYNzRobU4tX0N1aDM1U3Z3?oc=5",
-   "data": "2026-11-01T19:05:09+00:00"
-  },
-  {
-   "titulo": "Copom: manutenção da Selic pode acalmar Bolsa, diz economista",
-   "fonte": "BPMoney",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOQllKYlZqbFY0a240SnFQU1VvbEpBbGdsV1RTMTRwVUQzRUFtSkRubW1nWHR3R0FtU3RIaVRfcVRETTF2QkFVWHFxbUFjR3dOcjVSMGZhYW5VaWlVQ0JXeVZhWV9qejhrU3AwSkRSTEdGWWtaVUZXTnlvdnR3NDl6dFJkVXRxQ01mbmxTZEw4M29ydHl3YzJj?oc=5",
-   "data": "2026-11-01T19:00:00+00:00"
-  },
-  {
-   "titulo": "Projeções de inflação para 2027 e 2028 sobem após reeleição de Lula",
-   "fonte": "Terra Brasil Notícias",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPRkZWU3hpLVFlc0pDbC1EWVBFT1F1TGFtMGJQUThINVlYS29JSzcxdWZvdXJKUUVGR3NFanFNQnpuY1NpWUJsYjZJeEhKVS1lZjJMRGlVQUV2cEcybnlmVTBRd2lNckpwc3hZd0NYNFJ5bjg0cy1lUldVVG1rRDM0ZTNVYjZ2SFhRSm1WNkxEMDBsOVk1ZDg4Z0tHR3JaeDQzRXpncTNoUENOdlpy?oc=5",
-   "data": "2026-11-01T18:49:14+00:00"
   }
  ]
 }
