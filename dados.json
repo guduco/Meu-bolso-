@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-01T08:50:26+00:00",
+ "atualizado": "2026-11-01T09:45:54+00:00",
  "indicadores": {
   "selic": {
    "valor": 13.75,
@@ -17,6 +17,24 @@
  "cotacoes": {},
  "noticias": [
   {
+   "titulo": "Dívida atrelada à Selic bate recorde histórico em 2026",
+   "fonte": "Poder360",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQX1dxSl9vTGN2Vi1oMlM4NElFU3RmYWtMVUpvdTRQMWhvWk5pVUlwazRWbTU1X1pMeWlUSXdPMGxycVl0SURUQzM4NVlxekFoa25BRlplMHEzV0c5b3FKcGVSTlBDSmtKaWQ3VzlBdlJTemFZRnY2b29yXzNzNHpDNDJXM1oyT1VFS21Db205M3RkSkFMdGtYdDkyYW9hZU0?oc=5",
+   "data": "2026-11-01T09:04:15+00:00"
+  },
+  {
+   "titulo": "Estado do Rio melhora a arrecadação, mas investimentos para 2027 ainda devem ser limitados",
+   "fonte": "Extra online",
+   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOOThaUktqQjlvcHBrODlDZTZQZTQzSl9VcndxVUs3RG9KN1ZlZjFIOG9HV3NxeF9mcEk3S1hHMkxoUUxTeE90NFJFb01xQTFIdUxGM0R0U3BaMUs2WUlsT0g3VG9OcnJWR1kxWkpZTUlqT2pPamp6NUhpaUlMU2JKcTZQWFpkRVk1QU1sS2NLZ2pJcXJWcXU4YWlWVnV5WlN4c2lMYnJqVE01TkFfSHF5TzMyMWxITHBjNFh4Z3NEVkc0LWlDd0x0OVBvVTY1Y1Bwb0w0d2dn0gHkAUFVX3lxTE1iYUhfQ0g2RkJWR3JVWmJRdUV1VmlUT0FnRE9uTTEwdENSeUV4S19zZEc4anlTNV9yY1BEYjB3Ml9EZGtSUjlQeWVkaFppRElIRnFocUxuYXRHcWwxV2JBcUplUzltT3AxR0tpM0ZKZ0c1bldmSnFFT3hWR0NmS0RwM1l3RUVkWW1DSjh4R2l3clZETGRrWldNYlJPdkNScEo5VDhINkNOeFBtek5GUnk4bzBCLXhTR1R4NEVWaF9NVE91aVFiNXVMTHdtVGFsV21SMGs5UDNpS04xd2l4X29qNVo1Tw?oc=5",
+   "data": "2026-11-01T09:00:01+00:00"
+  },
+  {
+   "titulo": "Governo de SP prevê R$ 1 bilhão em investimentos nas rodovias do litoral",
+   "fonte": "Santa Portal",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPRzRTdGdrWktTbHVmTUJab1NuaGV3aTB6N2NkT3ozendhZzJkUnVmSjYwNEx0ZGthUEYyRFV4ZHR6bldNYl9lOE04cTQ1d1NkX2tMdVhZWHVvR0pSb2VCNGl4bUg5VThHMDhXUU50QWRIWno1RjVtbVJ1aU9XSExDYUU5bXhleEctYUdqdUFjcFlxdFNZc2VQT1AwQzh5TDVfeXBYOWpqdjhHTVE?oc=5",
+   "data": "2026-11-01T09:00:00+00:00"
+  },
+  {
    "titulo": "O desafio das contas: arrecadação do Estado do Rio melhora, mas investimentos para 2027 ainda devem ser limitados",
    "fonte": "O GLOBO",
    "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOUk5KQUZjcHJneFJmYVpwWkNWMVRzV0JzVldxOFI3ZzJ6NDZ1RWhPZC1hRzVZeDVGQm5ZdFR6TktydElhcHQxZENnbWJPaGVpelpRMDJxak1pQW5YMTBzd2RVeEV1QXA4R1lDYVBfekFtRE53LVZNU2xtdVBZQTRMVHliYTFGeFdYUURlQm9XUzBkZUN5TV9IUzBHN3UxQjhmUEJRenFvOXFZUV9PYTRjUDZ3QkZwWTVidnpjQVRDczQtOFVKMWYwVXE5LUdhVHZFOHpHcm9QMGxiSVlPQkRTSlNBOFlqR3ZZclBTNjlpbjFLQUllb3NyS9IBhwJBVV95cUxPcndPUVZNWXNYTTZLLWRhMmJLNW1sREg0WlZ1ZVNjM29JdC1aYUlVV0NqQmJfb3VhZUY0eW0tYlY4bUxobml4aTQ4VVJQX2dVWlY0cFZqa2NPZE9PTlZqOTBSUEMwSHlnVXg1M1pnNG1qeTA4eDJKSkRicmFwZDhjWWtHcV9mNEM5bUlJc25ZaHRhWnRFdGNaQkx4V21mUjVWdjI1YllPREIzb2dyZDJnaFpLUkpSdTNUMHlYWHBiZlp5SXYySkQxOXBrMTJMMGFpeGNCNTVycjZNSDZnOUt3eHlIX3ZuejJIcEJsSFk2d3RKZWI4a2pQbm9uX3JGblAyWk5mUkpPOA?oc=5",
@@ -27,18 +45,6 @@
    "fonte": "CNN Brasil",
    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNOUtpNXE1UV9OQ2dxbHpZMUE0bzkwUWRhOUhDb1Y0VVRpWXdSQnNfSHdDSy0xVkR0djY0Y1d2OVVJVDUxU0hCY053VDlYeE9qUXVCZEo1ZnZvWTZzOXhjSVUwTXFCdjdpWEY0OXRibkI0cGp0ZW80ZEJOZnNIeFJfOWFBaWRSZFVpWTFYN0kyM1I2RnRBUWI3aU5EVGVDQjJvSEZJZkEwYTFqaGFEd2xWTXBnNA?oc=5",
    "data": "2026-11-01T07:00:22+00:00"
-  },
-  {
-   "titulo": "Selic vai parar de cair? Probabilidade de pausa nos cortes pelo Copom chega a 63% na B3",
-   "fonte": "Estadão",
-   "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNeEZoX1pTOTJyVGZkSTJxZnhFS0lWSnQwOW9YcUlvYWh4SG84a0N3Yk9mcUh5U2RCUWYtRC10X096cWh4dGY5dVl6SVBCekxVbGd5NWYyYWhzekRiSU1hb0ZQdER1czhxa2xxUzFzNjRDdzlxR1VxeHJRWGNaNHJyZVE2TDJOM3NBM2g2OGpTMnViRmVCWEZfcjVpLXZYWmZjWDB0YldPUjA5WWxQMUp2T0ViRlkweFFodFI0RnVsUUE1MGYtbGdvT1dMUnF5bkE3SWxHeWZnd0g4c1RJazUybHZCUFYxazQ?oc=5",
-   "data": "2026-11-01T06:30:34+00:00"
-  },
-  {
-   "titulo": "O Ibovespa vai continuar caindo? O que eleições anteriores mostram sobre os rumos da Bolsa",
-   "fonte": "Estadão",
-   "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOVHlXYUZ0QUlQUnZFZTJ2RlhCMHVBYXNkY1drUmNvcTdZQkVBS1B2d05GdHpRa3E0anNZaG5XX2VTSEVudXp1QjJQelRoRTdfb1JzQ1FXNVprcW02b0RiVUx3OWJ5RGM1SDJaQzVYZE1UUmFucDlzRzd6aFVKeDR0Tl9wUkRZbzBia1FNb19lY2JDX0U3bFpacGEyV3A2Ql9YRGZSUWxfOUk1aU1PTEkwLTNxVWpDeHhGWVp6Zjg2LXFUdndaR01Id3FoLTlDbDVER3g5U0RId1Jid185SmdvYXpMLU82MkhnZ0hQbg?oc=5",
-   "data": "2026-11-01T05:22:42+00:00"
   },
   {
    "titulo": "Expectativas de inflação disparam após segundo turno",
@@ -59,18 +65,6 @@
    "data": "2026-11-01T04:44:38+00:00"
   },
   {
-   "titulo": "Ibovespa tomba mais 2,6% com incerteza fiscal e temor sobre IOF; Fed mantém juros inalterados",
-   "fonte": "Estadão",
-   "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNdzdQZW9Ib3Z2SHR3alAwTTNQRVBNaEpTQnpqU1RMVnZGSzdkTVVWdlhIUTF5YzliOWdNRjlPZmg4Y2VmeHY3U2d2bURFZEt0QktDZ1ByemxYVnlySGxlVnNDZDZYLXM0U0ZzQmlLV0tSdjRWSzFYcXc4Q0IweURmYS02dGlPbzBhSjM2Y0M5VGtxWjU5Tno5R3VHREhkRVFnV2JXOUFKYWpnLUtfMnJZYjdOSlZmWTZJOHAxNmQxYmVNTFhTMHF0WnRMcWxkSG4ySVMyM1I3cXZzdDNHZDJTSU0wZDAtQnVoVUNzYmN3?oc=5",
-   "data": "2026-11-01T04:41:55+00:00"
-  },
-  {
-   "titulo": "Cosan recua mais 12% e lidera perdas do Ibovespa hoje; veja maiores altas e baixas",
-   "fonte": "Estadão",
-   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQeHlhdnRybUhSY1JfZE1GLW1ndUNMY0xSQVZCcFd3eWJRaF82cHEtaXN2TzZkRUU2U3hyajFucUx3SF9SMEJKeW0tVGhUT01OV29WR0J6bkdMM0VkWmdpb1pQY2hmbFJDU0tUVU5FZHFKS1ZNWTUzTnozTGxwaEN4X2kwNUdMbXZrVlowc0duUEUwRE5VY2dBajNzVDVCS2U0XzU2Z3Q5Y1ZGcWc5emhvdXVDdmg5bldma3UxX25MS0xWV05iNjV6THotNmlDWTNoZEgzcHVTaHJ5dEszQnhlYw?oc=5",
-   "data": "2026-11-01T04:40:34+00:00"
-  },
-  {
    "titulo": "Ibovespa cai a 167 mil pontos com incerteza fiscal; dólar fecha em R$ 5,44, maior valor desde 2025",
    "fonte": "Estadão",
    "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQNG9DcC1qREpJdG42OFZfZ0lBOGlmYVVsNlpfQ3FwaFNIcl85bV9LQVhhaTF4MjVuRThXaUttTnJkalQ0YmRpTy1ad2JuaU8tSHFtNG94VUZtWjRCbkdGTlpJNDhHd1JQUVdQMmhPQmpvd0hCbUFobkp5U1JPamxMQXBjaHJBWXZzQlhscHU0eFdyNVVJcGhrXzhQQmZMYUNvWHJQekpyN3NqMzJVRUpON3JYclV1VU9jNVd6dm93dEllT0hpRnU0VUxHck1xZ1ZNYWNwTm1BRXFQVlVZRUVCakpFWlpNU3hTWUVKMHhYNlZYQQ?oc=5",
@@ -83,10 +77,16 @@
    "data": "2026-11-01T04:00:00+00:00"
   },
   {
-   "titulo": "Taxa de câmbio do dólar americano hoje, 1º de novembro: O dólar permanece estável tanto nos bancos quanto no mercado paralelo. O que os compradores de dólar devem saber?",
-   "fonte": "Vietnam.vn",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQamtUc09QRTMxQUJtZU0xM2RUQWR1QW15RjRXYktzdG80SE5KVElCV0VBalZVSzBtdHVZUnpHVUE1emotQzJ6NEFiZ08zeDRMbmpfY2lGU05kLXlsZWlkVGctNkYwY0djUmJyNXh2a3BCOHFRc3VKbVdIR1g4OUpDOFh3ODBKSDBVOU9nN1NnQ2I1bGJPclNsWXlGVXZaekFpeUhmUlpnZ3piMUlQdFFGMkFac1pLQzRUQTI3UDhfb1JBQVU?oc=5",
-   "data": "2026-11-01T03:47:42+00:00"
+   "titulo": "A inflação de setembro já dá uma pista do seu reajuste em 2027",
+   "fonte": "O Dia",
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOWTFqRDRYbUo5QkNDOFJKVkx1bGNPOXRvdlhVb1lIbVJOUWNXdHVJVUJ3TFhkSzV6Zk0tZXE4NEp1WFJ4MHdpRDB0b0hKclptbFpxNmVjaTNfT2ktc2wwQVN0U0NWZXQ2NnBQQ2ZGRFlPTFB2YnVtTmNOU1RTazhRZmRiTUw2d1Q0QkVPbC1VaTk0aGRLTkQtWEtmbGtfY3JTekZHaWF1SDZwV1gyQzlJQ0k3d0tEQUVvVTc1aHMxdmxxMHd1enhmSWF4Z2F4RG5HMDRz0gHYAUFVX3lxTFBod1VRVWFTX3hSZWhQNnBCdkFUUUVYOG5LMEdTYVQ5ejU1elVtZ3RPbHpKczQ4LW54d2tGWW1icnJVYUlrNU9VOTh3Q0R3eUt6YUFKamZILVBXYlAwRWpmc3lqMzlSNUNycWwxNmlHTWZNUU5mdXpDVUJXSGNVbjdqVkItOFdvcjc4Tl9mWEw2YkhvR2NqWUxwd051S3FKZG0waVRnQjh6VHUtbGI2dzFOYmdTSXUyMGdSMnNpWTRnOG1CcWk3OXBrb3czLXpBQzFWeHJWZ3lXcQ?oc=5",
+   "data": "2026-11-01T03:00:00+00:00"
+  },
+  {
+   "titulo": "Dólar alto após eleições se soma a El Niño e ameaça inflação",
+   "fonte": "Folha de S.Paulo",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPaUJzNlZPUVAtNGZuQzNOSjNDbXFJdXdDdGo1aDNjWF84UE9NdzVhd1V4REs1SlViWXJpVGFmZHVZektrbnAwaTZjanpNMXhWU29WNGNmU0I0X1ZUamdYUWRWYlNKc01UOURyeWR2YTNHaVVYUTJEMFVmWG1TNmFjLWZseVY0ZVh0aVVlM2ZnRzJwQ0NkTWRlVWxaYlRNZ3hwUGlmbjlkNXItblJBQ2Zjb1lR?oc=5",
+   "data": "2026-11-01T02:00:00+00:00"
   }
  ]
 }
