@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-01T07:59:38+00:00",
+ "atualizado": "2026-11-01T08:50:26+00:00",
  "indicadores": {
   "selic": {
    "valor": 13.75,
@@ -29,6 +29,18 @@
    "data": "2026-11-01T07:00:22+00:00"
   },
   {
+   "titulo": "Selic vai parar de cair? Probabilidade de pausa nos cortes pelo Copom chega a 63% na B3",
+   "fonte": "Estadão",
+   "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNeEZoX1pTOTJyVGZkSTJxZnhFS0lWSnQwOW9YcUlvYWh4SG84a0N3Yk9mcUh5U2RCUWYtRC10X096cWh4dGY5dVl6SVBCekxVbGd5NWYyYWhzekRiSU1hb0ZQdER1czhxa2xxUzFzNjRDdzlxR1VxeHJRWGNaNHJyZVE2TDJOM3NBM2g2OGpTMnViRmVCWEZfcjVpLXZYWmZjWDB0YldPUjA5WWxQMUp2T0ViRlkweFFodFI0RnVsUUE1MGYtbGdvT1dMUnF5bkE3SWxHeWZnd0g4c1RJazUybHZCUFYxazQ?oc=5",
+   "data": "2026-11-01T06:30:34+00:00"
+  },
+  {
+   "titulo": "O Ibovespa vai continuar caindo? O que eleições anteriores mostram sobre os rumos da Bolsa",
+   "fonte": "Estadão",
+   "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOVHlXYUZ0QUlQUnZFZTJ2RlhCMHVBYXNkY1drUmNvcTdZQkVBS1B2d05GdHpRa3E0anNZaG5XX2VTSEVudXp1QjJQelRoRTdfb1JzQ1FXNVprcW02b0RiVUx3OWJ5RGM1SDJaQzVYZE1UUmFucDlzRzd6aFVKeDR0Tl9wUkRZbzBia1FNb19lY2JDX0U3bFpacGEyV3A2Ql9YRGZSUWxfOUk1aU1PTEkwLTNxVWpDeHhGWVp6Zjg2LXFUdndaR01Id3FoLTlDbDVER3g5U0RId1Jid185SmdvYXpMLU82MkhnZ0hQbg?oc=5",
+   "data": "2026-11-01T05:22:42+00:00"
+  },
+  {
    "titulo": "Expectativas de inflação disparam após segundo turno",
    "fonte": "Acia Araçatuba",
    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQMnNjMURJcHp2X1ZEaVN0NExiUTdubVpEODZFMEw4OU9lREpyczV4MXl2ZEYyX0JFYkEtYXl6TGdaTklsYnFTWlVfeWs5NEtwUTdqcU9Xb2ZwLUYwR3pBTnlkWFhWMF9ZbXNuZ2c3NXdEekwzQkpkX2doZXBHWm5Mbg?oc=5",
@@ -39,6 +51,24 @@
    "fonte": "Instagram",
    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0tNHRzeE9fbUFleUJDS0pTa1BucXRQYXBxWEFaVzZJQl9SdWRJT2ZjMUNuQkg0NUpSM2ZrX0had1hxbm5XUy1Bb1dldElhMC03TUE?oc=5",
    "data": "2026-11-01T04:54:26+00:00"
+  },
+  {
+   "titulo": "Tesouro Direto hoje: taxas voltam a subir após ‘circuit breaker’ e IPCA+ beira 8% ao ano",
+   "fonte": "Estadão",
+   "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQVUI1a28xTE5Sd3hKUW82VDVOaGVZSVZ0VTZEY2hxdHB5Q0t5OXoxNlpBUFUwYWRRaGpPODR3MUlSMEZpd0hlLW9hUTE2MEN0NEtrSjlyUnd0ZndzMnVyNGdnUF9jS01xQ05oNmJEUEdyWWV1Zl95b1VYbFJMTzRoeFl6aGZvWVhFcmp1MnNkMFlHQnhxcndPQUhfTmZUZmFmeUJhZmFscHEtSFc4UUFDZTZEM1FlU0x5LXJSekw2QnMxM1JoYjNEdDdfVDZxc0drNGNZbGVObGlUaXVrbVQ3ZEdSTTFwUk1GU1Ftdjl3?oc=5",
+   "data": "2026-11-01T04:44:38+00:00"
+  },
+  {
+   "titulo": "Ibovespa tomba mais 2,6% com incerteza fiscal e temor sobre IOF; Fed mantém juros inalterados",
+   "fonte": "Estadão",
+   "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNdzdQZW9Ib3Z2SHR3alAwTTNQRVBNaEpTQnpqU1RMVnZGSzdkTVVWdlhIUTF5YzliOWdNRjlPZmg4Y2VmeHY3U2d2bURFZEt0QktDZ1ByemxYVnlySGxlVnNDZDZYLXM0U0ZzQmlLV0tSdjRWSzFYcXc4Q0IweURmYS02dGlPbzBhSjM2Y0M5VGtxWjU5Tno5R3VHREhkRVFnV2JXOUFKYWpnLUtfMnJZYjdOSlZmWTZJOHAxNmQxYmVNTFhTMHF0WnRMcWxkSG4ySVMyM1I3cXZzdDNHZDJTSU0wZDAtQnVoVUNzYmN3?oc=5",
+   "data": "2026-11-01T04:41:55+00:00"
+  },
+  {
+   "titulo": "Cosan recua mais 12% e lidera perdas do Ibovespa hoje; veja maiores altas e baixas",
+   "fonte": "Estadão",
+   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQeHlhdnRybUhSY1JfZE1GLW1ndUNMY0xSQVZCcFd3eWJRaF82cHEtaXN2TzZkRUU2U3hyajFucUx3SF9SMEJKeW0tVGhUT01OV29WR0J6bkdMM0VkWmdpb1pQY2hmbFJDU0tUVU5FZHFKS1ZNWTUzTnozTGxwaEN4X2kwNUdMbXZrVlowc0duUEUwRE5VY2dBajNzVDVCS2U0XzU2Z3Q5Y1ZGcWc5emhvdXVDdmg5bldma3UxX25MS0xWV05iNjV6THotNmlDWTNoZEgzcHVTaHJ5dEszQnhlYw?oc=5",
+   "data": "2026-11-01T04:40:34+00:00"
   },
   {
    "titulo": "Ibovespa cai a 167 mil pontos com incerteza fiscal; dólar fecha em R$ 5,44, maior valor desde 2025",
@@ -53,40 +83,10 @@
    "data": "2026-11-01T04:00:00+00:00"
   },
   {
-   "titulo": "A inflação de setembro já dá uma pista do seu reajuste em 2027",
-   "fonte": "O Dia",
-   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOWTFqRDRYbUo5QkNDOFJKVkx1bGNPOXRvdlhVb1lIbVJOUWNXdHVJVUJ3TFhkSzV6Zk0tZXE4NEp1WFJ4MHdpRDB0b0hKclptbFpxNmVjaTNfT2ktc2wwQVN0U0NWZXQ2NnBQQ2ZGRFlPTFB2YnVtTmNOU1RTazhRZmRiTUw2d1Q0QkVPbC1VaTk0aGRLTkQtWEtmbGtfY3JTekZHaWF1SDZwV1gyQzlJQ0k3d0tEQUVvVTc1aHMxdmxxMHd1enhmSWF4Z2F4RG5HMDRz0gHYAUFVX3lxTFBod1VRVWFTX3hSZWhQNnBCdkFUUUVYOG5LMEdTYVQ5ejU1elVtZ3RPbHpKczQ4LW54d2tGWW1icnJVYUlrNU9VOTh3Q0R3eUt6YUFKamZILVBXYlAwRWpmc3lqMzlSNUNycWwxNmlHTWZNUU5mdXpDVUJXSGNVbjdqVkItOFdvcjc4Tl9mWEw2YkhvR2NqWUxwd051S3FKZG0waVRnQjh6VHUtbGI2dzFOYmdTSXUyMGdSMnNpWTRnOG1CcWk3OXBrb3czLXpBQzFWeHJWZ3lXcQ?oc=5",
-   "data": "2026-11-01T03:00:00+00:00"
-  },
-  {
-   "titulo": "Dólar alto após eleições se soma a El Niño e ameaça inflação",
-   "fonte": "Folha de S.Paulo",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPaUJzNlZPUVAtNGZuQzNOSjNDbXFJdXdDdGo1aDNjWF84UE9NdzVhd1V4REs1SlViWXJpVGFmZHVZektrbnAwaTZjanpNMXhWU29WNGNmU0I0X1ZUamdYUWRWYlNKc01UOURyeWR2YTNHaVVYUTJEMFVmWG1TNmFjLWZseVY0ZVh0aVVlM2ZnRzJwQ0NkTWRlVWxaYlRNZ3hwUGlmbjlkNXItblJBQ2Zjb1lR?oc=5",
-   "data": "2026-11-01T02:00:00+00:00"
-  },
-  {
-   "titulo": "Expectativas de inflação para 2027 e 2028 disparam após reeleição de Lula",
-   "fonte": "Blog do BG",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxObWJqNy1uU05UbDdyeDhnNm5LN0dVamxaeHJKLURyNWkxMjUyTjVhb0MzVlJTcVB3LThvZlJSREQ0Z3BwNlI1dWU2SUtoazJWMVlkNHpRTDFHV1dGRFRyVUFWLTBQZVNPbzZqWHl0UkM3VUF0UXZwWFV3cnVMT1gyTDFKclU1Z0tRbTZxS0JKaUlNOXRhckVtNjNKQTI3Q1c4NjdPbg?oc=5",
-   "data": "2026-11-01T00:32:58+00:00"
-  },
-  {
-   "titulo": "Novo PAC em Goiás traz 40 bilhões em investimentos, mas deixa obras importantes fora do programa",
-   "fonte": "Jornal Opção",
-   "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNUWpEdWxUeU9wTEI2djZoR3NMcnQtT0R4RGlyVDhTX19wUnpfaWY4MHRUaEtER1RCMjc3dFR3YkNTWFhBZDBqcnRGRk1pbUx4TUtGZFQ0UjUzdmw5VENJSXZsUS04NVdMSUVaU1Rid1Vfeldjc3otd1hJQ1JWODJsdE81Z2RGWDhOekZnT0FaQi10a3llTmNYWldpRndhMGQ2V3BuRElJRGFETFpHZ3lCNlNMLURralFZRGprNUV5Z1MtNGVsSjdCdUZ4VmVVb1RKZEo4VnVnVlNTNW15VG9WTjNIUTlSNlpsYXdSRHd4Z2ZyOGVsSkFqQ3RSV0dLSDBDMnc?oc=5",
-   "data": "2026-11-01T00:30:00+00:00"
-  },
-  {
-   "titulo": "Semifinalistas da Copa do Brasil fizeram grandes investimentos em busca do título",
-   "fonte": "G1",
-   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPenY1blpmWXRmVmZUaHNJaVBWdl9fLTlUOE9aRGtwVmh6S0tXUDlJZk9JY3EzY3ExWS12Ty1qUVBqWkY0ZXQyc0Nod3NkUWdYdkhPUXFJNzQwOTQzdDlNeE9HYTd3ODNzckkxUFBKeXpMNUhTMU93Z0VXRHBIR2xWZTEwbXNCX3gzYklDNG1JQ2VORTgtOXF3bzh2WTc2X2p0Nmc5X0pDRmZzOWx0cWU2VG1odk5UNngtdjZjSk5RT0pFMEdkVU5YempiM1N2UXJRSmZWWmpR0gHkAUFVX3lxTE42eDJlOGtkQmNMLUdfdjJIdWdkajNnM2d6WHFUcURlYmFoZVZYa21zRTJfX2I1eE4zNVJCNDBUdnYzNW5Pd0JteWdpY0NWWDRMWDZ1bHBjZFg1cWE3Z0t1U1RCWkM3TzVaSW1HTW1MYjkyTjhweUdmdVNzZGp1eFR6aHlaTm4wQ1B4MU1Xb2tCQXlBMnpNZnR2WUN0UG9zUUwtUkhXTjVkdXB5VGE5Ny1YY25GckpTV1JLSlNRVTNzV0RIY0U1VlVmY1RJZ2FzdHFiTlNLLVRfeGhLa19aSDZ6UTBLWQ?oc=5",
-   "data": "2026-11-01T00:26:30+00:00"
-  },
-  {
-   "titulo": "Reeleição de Lula eleva previsão de inflação para 5,3% em 2027",
-   "fonte": "Pleno.News",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOUzNnR2NhYU9xQjA5NFliUW5MbHhUQmhBYTBHTVVoRjdhSHRsNk9IUWwyXzZfeDlFM3RLTHVuZ2FUdFllQlVwUlJoQm1iX1RQQlEyUHV5b0RoZThYdXJGMHVldEVCamthRWZOeWN5NV9EU2VTb0lxRjZLNXFWOFBOQ3FYeHdOTHpKb1F0cUpKQjdQd2dSUXlRMtIBoAFBVV95cUxNOUlNcTJReko4TllMdVp2ZndTOTZ4bGFMVFl3UEh1WVRvQ0tkb2M3Tm9vU0dwNWlHbDcyeTVKeUtkempqeEt2NGlBNWFMcXN2bUtMZGdPc0d3VHlfOWVkbkRZSm1vc1F4dnJSTm5uX0lfVTQyMnJ0SnJybDlkd3BnaVVBZDc2RVdTQ0I0UWd0c2lUeU84UW5Ua2VUSzlBMlBa?oc=5",
-   "data": "2026-11-01T00:18:00+00:00"
+   "titulo": "Taxa de câmbio do dólar americano hoje, 1º de novembro: O dólar permanece estável tanto nos bancos quanto no mercado paralelo. O que os compradores de dólar devem saber?",
+   "fonte": "Vietnam.vn",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQamtUc09QRTMxQUJtZU0xM2RUQWR1QW15RjRXYktzdG80SE5KVElCV0VBalZVSzBtdHVZUnpHVUE1emotQzJ6NEFiZ08zeDRMbmpfY2lGU05kLXlsZWlkVGctNkYwY0djUmJyNXh2a3BCOHFRc3VKbVdIR1g4OUpDOFh3ODBKSDBVOU9nN1NnQ2I1bGJPclNsWXlGVXZaekFpeUhmUlpnZ3piMUlQdFFGMkFac1pLQzRUQTI3UDhfb1JBQVU?oc=5",
+   "data": "2026-11-01T03:47:42+00:00"
   }
  ]
 }
