@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-01T15:38:08+00:00",
+ "atualizado": "2026-11-01T16:39:49+00:00",
  "indicadores": {
   "selic": {
    "valor": 13.75,
@@ -17,6 +17,42 @@
  "cotacoes": {},
  "noticias": [
   {
+   "titulo": "Luisa Stefani e Dabrowski ficam com vice em Tóquio",
+   "fonte": "Jornal Correio do Brasil",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9adEd0Q2lXbjkxUFctN3VRRVl1YUpINmx4LXFVaVRQTkg3eWJHZ2hYN0dHT0V5d1RLLWRIMjc2bVlhai0tcDc4V3U1V0dvdktzV2V3Y3lrOXpFNWRlM1ZwU3NxU2M4WG1kY1BMaG1DY1AwZGUzNXhCaXVEODl3THM?oc=5",
+   "data": "2026-11-01T16:20:53+00:00"
+  },
+  {
+   "titulo": "Rodovias do Litoral Paulista terão R$ 1 bilhão em investimentos até o fim de 2027",
+   "fonte": "Folha do ABC",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPWFkwWDRpYW14czF5ZTcyMEtsd1lQRmpDMFNQb0pKNFFjbGdGclNXQWpaSTVXWjdHdWhDUmg1VTNLUmh3b1VZVHlHWWVHMWpIRVJlODdXYkpVUXQ1c0tKYVc2ODNBNGZ2OXBHQTRiTF96d1BzaVktUDdZTXBQUEh1UXZ5R1lteXJfdjR4cHJLU3U3NHV1dE5kR3Y4STQ0RG44SlBSRTh5M1RRTk0?oc=5",
+   "data": "2026-11-01T16:17:43+00:00"
+  },
+  {
+   "titulo": "Novas regras alteram uso de vales-alimentação e refeição",
+   "fonte": "Jornal Correio do Brasil",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOaklvVWxYY19uZ25nQzA1MkdRMVJqRzZMSkdBM3c1VUFvam5yQUM2ZGZ3T1lZTml6NVN0QjVUcTJrSjVSdGprMHZOV1ZtUW12WWp0UHZENWhzcmt5VTQ2TnVkRVRpQWlUMVlzbHRrZ1lTTi1xNWxsc1RhMWoySnVHRm12YVl3VnQ2ZWsxMw?oc=5",
+   "data": "2026-11-01T16:14:34+00:00"
+  },
+  {
+   "titulo": "Luana Silva avança em Cloud 9, Ítalo e Pupo são eliminados",
+   "fonte": "Jornal Correio do Brasil",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQeGlvVTE2Nl92TXZ2QW9yX1FRaTZIMWZFYkhSU1E1OHZPQTFXLTdWMGMzcmh6aVJNN0pITm5XSUYxX1FaQnVXWU1fTENVOEtEaWd5RXdNQzZ0MlNfQmhmMkpwTklVWEVJRm1GWUhLTHk2RUdlN1B1dDNxdG5RblJXalJYXzJGVXJlY0FvT1R3?oc=5",
+   "data": "2026-11-01T15:54:36+00:00"
+  },
+  {
+   "titulo": "Pra começar a semana: Lula começa a montar o novo governo, Copom define juros e EUA votam",
+   "fonte": "UOL Notícias",
+   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPeFV1R2VDcW9zeU01R1VZb0x4MER2NHkycEh5Nl9DNXlGZE1CMW16TmlDNDRvbVk3enNCRkoxN0d3QjBPY21QY0JLYl9obUlVRkl6R1FxSEpCdHM2eHBaZmJqdEhHS25UTl8wanVQQkhuMThWWGY5Q3NQdFpab1NJRmFPdUhzQ2luekx2M0ctQlR6dTR1Rlhyd0xJR0tyQ0Zoc0MwMk9YMXZ4TC1KY1Ytc19PZDhNUllHN3FWZFk2bkVDb21VdWV4WkZMWG96WTVHX1FxQ0ZkdTYxLXNkVVE?oc=5",
+   "data": "2026-11-01T15:50:54+00:00"
+  },
+  {
+   "titulo": "Cruzeiro vira sobre Corinthians e conquista a Libertadores",
+   "fonte": "Jornal Correio do Brasil",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNa0pvWEVzRHRuSmtLSVpvNFlFc0l6dDNsLWUyeUgzcmx3VTVwdllUT0VSOW5iZnZ5d2JaeURrZjVZdlRfdkZVQnZvaHFMazc0UmZPMmkwNHUybjMyelVzTVlSRXd3TS1rLVpNWXkxMWJwU1czM1RQTy0tVFE0VFo2MUJjMkFPLVpzLTRMVVI1WjQ?oc=5",
+   "data": "2026-11-01T15:46:55+00:00"
+  },
+  {
    "titulo": "Quando a inflação baixar, o PSD volta a subir nas sondagens, defende o ministro da Economia",
    "fonte": "RTP",
    "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPUXBtUFRMZjBPYm1uaUJFM2NiTHBBVmw3WWh3ZDhHeHZzb1B0OGhTUlgwa21WcEF5Wnp5UTBEbU5LaTBmNGJHa3oxWG00SVlHX19jdEx2dzVqVzJ4em1ud2hEUS1wTDNYZk53bTVGVUpUMUhtZUJwWTVLMHBnNWZiMDRSN1dzSG9xTU1VSHZmZGZ4eDlHZGVyak5qbU1ZNU1kSFAyT1hTb2VJYnBnN1d6azdSMjQ0ejlXS3VYNm9zQzJIa0REMzBGZG5wRmV2RlY1UDVUQXhJQ1RBNGc?oc=5",
@@ -29,64 +65,28 @@
    "data": "2026-11-01T15:32:24+00:00"
   },
   {
+   "titulo": "Tesouro Selic ou CDB acima de R$ 10 mil: custos e liquidez",
+   "fonte": "quasa.io",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOUURrN0Ixak5razNCczVJdzhNTDRKYTBsX2pQdWRPRDVOUTY3bTFaVHg4cjdXRERTMnlpeWVXd1AzUmtvVHpRSjdhbDloSFhOUHBMMElZNHVFVlVlR2xoelAwN1p3TnZOUkNFaWo0c0pJNklVRm9pTlhWQmxPYUxOc2FJOWhvNDRBaWFIS0h4cG0?oc=5",
+   "data": "2026-11-01T15:27:00+00:00"
+  },
+  {
+   "titulo": "Presidente Lula se reúne com André Lara Resende esta semana em Brasília",
+   "fonte": "Hora do Povo",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPcG1kb1JKWEtjREtmM2ZTN2hmWVpDU0Qwbld4X1diRW9aVWxTZEl1aU8tZEUzNlhNVUt2MlVEUHVmaU92cU1IRGhDQzFsTTg3d3VSUk1XeEhMMTktU0xubmxMdDVLaW5ZUnYtM3Ntak9XdVBVQzJoOVlRVVU4SVhyZWVvemN3NFgyTldQWjdvOEo1bXpHZVZYSW1aNGlRNUU?oc=5",
+   "data": "2026-11-01T15:25:03+00:00"
+  },
+  {
+   "titulo": "Decisão do Copom sobre Selic é ponto alto da agenda da semana mais curta",
+   "fonte": "Valor Investe",
+   "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNeXhqVzRmUW1FZ1dqRXROSWx5bl96MkVtRE5DM3ZqMjR3S05tZjBfU1ByRDdVUjhNOUl0YnVRMzl0M1Y4a2dxWlJCWnY0T1pmZ2kzb3dsT2ZfOUNndXRjVnBDMTNBZ0l0QmhqeGVudFRhS2tkZjliLWZiTkJCOGhFc09qRnRLbENuR1pnUHVyLXNRZV9XaVAyTWdDTlJBV3ZQbjFkQTB6NlBqTlR1cWtfWDRLRE0yTFk5cW9XMFFJRlVFTnZ2WWtITmRrMll5bllBdktvZ0wwRjZFTy1fa01hNXhmQ3owN1nSAfYBQVVfeXFMT3FlN2RwWDFHZWZuYzdDNHRGZEMtR28xUEhiRXMxYThwa2xhTFYzWHNOSzJQZ0c0a1ZVS0Y3cjBkNlNaT1RwY1dNRjBCMlNzNEs4UG8tZWFmQ3kydzBrQzIwWFdfaTE2R3JnNGRsZ3g2dDZJMC1CaGlFTGlfNWJoNEkzWnZIN05zRHRJTDdKekdkckwwUkJ0Y1I3OXZGT1J1U2ZqRnFRbEJoOUdIRkF6N1pCUVNvSm1rN0lOX0xSbXZBdDlOM2xBSExiZDV4MUJVaUpRWUowTUlTbTMyWlAzckgyN1RtUnc1dVBzaW9FMW5GdFZMOVZR?oc=5",
+   "data": "2026-11-01T15:20:44+00:00"
+  },
+  {
    "titulo": "Ofensiva de Israel provoca mortes na Faixa de Gaza",
    "fonte": "Jornal Correio do Brasil",
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE13WUl2YW8xZjR3eUpCcDFvMDh4dEhjc0VpVlk4VkxpaWEzZzlkUzVPTTl2akw0N2Y0X1o0WndYRkJ3aHRfbG5RUUpmUkw3ZHA1cFZCMk5Bc3ZSNGhYeElZNzR5Y29uQTJJa1JxTWVxQUZxU2U4dkFKend4U3Z4VHc?oc=5",
    "data": "2026-11-01T15:12:32+00:00"
-  },
-  {
-   "titulo": "ESPECIAL Investimentos em Segurança Pública reduzem mortes violentas em 44% nos últimos cinco anos e consolidam ações pioneiras pela vida",
-   "fonte": "o rio branco",
-   "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOQnotdmp1UHJqOEJHZHdMSFV6Q05VTi05UmpUX1M5ZGJvZktQM1YyNkFyb3BUX2RscHVKUWdLaElsMEhuaHJ4T1R4YnYyR0ZCWk05b0c0MGhBWFJ1RkxLdHFtN1c1QmVGcjZsMlM1UUNHX0o0MkJMZzhYUFVYaDhxOG5VZlRQRV85SW8wcmpHRlo3S3dpS19oRDRTZlVRRDZNSkFsU0FvNjBuSUJ2emNXc3h4djcwY1JfaEp5N0lQZEl1OVByZVo1TnlyQ1o1cEh3RG5qQ3kyZTAwRjlVQ2M1bDJrd0Y4V0kyS2lDa1Q3bVlvZw?oc=5",
-   "data": "2026-11-01T15:08:54+00:00"
-  },
-  {
-   "titulo": "Itália reforça segurança no Coliseu após morte de trabalhador",
-   "fonte": "Jornal Correio do Brasil",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOakpkY1RtcVBtWkdCWWtXbUpEODJRYUpyZ3poZlBDWXdock4zcWlILWNrU1otMXZUdTh5R2xuSXU2eWdubk1IZ28xdlVtSDlGN3JOd0tkdjYwTW1ya2N2QWtCTUFVeWNLZ0d3VC15cGZKd1lScjk3VERvbHhEMWlMdS1GT3ZLN0VtODZON0pPZDZ1QQ?oc=5",
-   "data": "2026-11-01T15:05:25+00:00"
-  },
-  {
-   "titulo": "Prêmio científico para mulheres ganha novo prazo de inscrição",
-   "fonte": "Jornal Correio do Brasil",
-   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNdkpzQWh1UXdtWU51UXc1TDdfMWRXSDdOQWJ1Skh2RXpQRndIbk9kNm5DUzBhb1k4aDAwZkFORW1ScThCWl9yMGxBWWdRaDVMV3pJTThGNGlWbTRlTUZpVUh6VXpTYzU3eWV1LXFRMVpyN1BPVGRodW9lZW1vSTVBSFFQbjcxNFVmdVR1NGEzTQ?oc=5",
-   "data": "2026-11-01T14:56:47+00:00"
-  },
-  {
-   "titulo": "Queda da Selic? Copom e payroll dividem atenções em semana mais curta no Brasil; veja a agenda",
-   "fonte": "Money Times",
-   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNLTJ4TVpDTWlwdmgzV05UZDREZFJNOHVzOGhzMDQtM3NOOVpMNXhJdXB1eEhib2ptU2tOOXRpbnFJamc1dUhYLS1jZXZreU8tYVBTYzFQUlpKa1c0VFpmZjBnYm5xbWxRUndwWHgxN1hkZmNXWWxCZmkxY0NGNThTS3kzVG51RnU1cWw4UVVjR3FWNVZkd1pzdzB0YjJDZjZhUzUzeWwtc1E4enVUNEpKTmZPQ0NQTGdsR1prOFB6S1g?oc=5",
-   "data": "2026-11-01T14:50:00+00:00"
-  },
-  {
-   "titulo": "Bolívia decreta emergência diante da chegada do Super El Niño",
-   "fonte": "Jornal Correio do Brasil",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNbzl4X1NlREpvTFM0X3BrUTN3akJ5WXY3TmN2eHloYlg1dThBeHpacUFpMzlsbnh0ZlNpcEdKMmttOWxyNThIQWlBUDJpaW91RlQ3WTlKRXVXcG45Y2d1U2g5OFBrMXVZb1E1ZzlEWVJHZUM0Ni1OQ2RrQVRLNV82TUN4LXhCMjZ4QkdFNjJlY19Gdw?oc=5",
-   "data": "2026-11-01T14:49:14+00:00"
-  },
-  {
-   "titulo": "Dólar e El Niño colocam economia no centro das perspectivas de Guarapuava para novembro",
-   "fonte": "Paraná Central",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNMnoxWmp3TFdZLVN3eXRaeGwxTXhNUnY5Sk84TV9GRFZSRmtfVkRTeXNDQWdZWUFrRnZDcE43dkJBRGppNnNndDdyT2gyYXhSam56eGlLeTZreHVuQmhnMEloNjFwU1A1NGgwZDRvWDhyenpramU4Ulo2T2dtOFJJUXVfdTJiQ01UbWR1dGN6OVIzdVUzVVZqM0tVMWFLT2hxVXpSZEE0NVZZT3d4LTg2WkFaSVhJMEk?oc=5",
-   "data": "2026-11-01T14:40:15+00:00"
-  },
-  {
-   "titulo": "A queda nos preços da eletricidade e da gasolina ajudará a conter a inflação no final do ano.",
-   "fonte": "Vietnam.vn",
-   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPaG1mWHFoZ0dleXBEdEdETUE2YkdZR0VwOVhPZHRtSnpsQWhSZlQ3eXZNYVU1ZTJMZERaOFc3VVgwTzNvNFB2ME5SQldSM0RTQjcxdlhNRmVmU2dDTl8xam1uQVJWY3BkZHdOS3J2RGJmdUg1bV85bWZuYnNVLWZLOUZvM3N2SGxYWks2VE9sOW4?oc=5",
-   "data": "2026-11-01T14:40:04+00:00"
-  },
-  {
-   "titulo": "CEO da JBS Terminais projeta leilão e expansão do Porto de Itajaí",
-   "fonte": "A Tribuna",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPaWtRUnNpRVF1dDJZQnBxVzMydzUyREc0UHU5emhERUdaR0h6cHI2M2dfajN2dmVDMDdMX29QWlIwLWFCZmpCbkF1dkZrWmMxV2JWcURJN1dRc1VuckktRmZNeFAwZTFpdk1EZHg1QnJ3YUdWV2V5RkVyTm9VMXZmQlFuZWdORWZQeXZ5SG10ajJKeS11Z0M5YndoX2hEMDYzN3BHdkJEWkxTeks3bFlSVTBwMEs0V2VHNWhYUA?oc=5",
-   "data": "2026-11-01T14:38:00+00:00"
-  },
-  {
-   "titulo": "Secretário de Camaquã destaca oportunidades de negócios e investimentos após missão à China",
-   "fonte": "Clic Camaquã",
-   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPaTZHZGoxcExEX3BGYThZODEzbmRoNDc4Zi1YZU9WN1NsSmNBWHM1VHYyaVdWa2oxVDJmbFF1Q2dqUE5TUHJyUE5aVmFoQVk0N0szZ1AzdDFaN2d3WndVb3RsNDQ3SWVPa1NoRU5oUURSUktPcXREamZQYW1weFBQdkRwOUhoYUg3WEVwWExDeHg3T2gzb2hOeDdySWxtRU5yTlRaZjM2TXVJVDRpMGdEcWVPODB1STlJOVVyRGhqSEIzVTRxd0NfWkYzZE4?oc=5",
-   "data": "2026-11-01T14:37:30+00:00"
   }
  ]
 }
