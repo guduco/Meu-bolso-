@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-01T09:45:54+00:00",
+ "atualizado": "2026-11-01T10:41:36+00:00",
  "indicadores": {
   "selic": {
    "valor": 13.75,
@@ -17,6 +17,24 @@
  "cotacoes": {},
  "noticias": [
   {
+   "titulo": "Copom decide Selic pela 1ª vez após eleições e EUA divulgam payroll; o que move o mercado na semana",
+   "fonte": "Estadão",
+   "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQZ2Y3Y2ZfdFBkOTAxTDFmUzZNbHRxeFBZLTZBMFBFZnktRVg2Q1padDFrVENodW5HV3B2MHlDYmlSTG4xTlRfOHV3NHVKbXQ3V2NQWEh5OEVpSzdicHRUXzJFZjQtYUZzU1Q1WHBLdllZWnVWMlRlUkJzYjRkNmFFdy1rcGZrdC1vZVE5by0tSGlNcnJ2RDlQMHU1X3laNFVMbThDb0tweXBwRnZVNmx3QWt5QjZ3UnZCeWNHb3d2ZjlINzZQTWFhbFBsUGJmcHJoc2htY1FYNVk3UWhkZ3o1WkQwYlRFU1VDRjdUUTJJZ0pvYXpHV0FR?oc=5",
+   "data": "2026-11-01T10:37:23+00:00"
+  },
+  {
+   "titulo": "Economia: Mercado prevê inflação de até 6,1% em 2027",
+   "fonte": "Portal Terra da Luz",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPNURnTnpjU2VKU1hkU1hTWVQxQnVSVk8tS3I3c3FXN2dPdzQ3WjFIdzdzbENuVkw1bTl6UjBKNkZkN3lGWGRfRzJrcDlqQmUtcktXeHJXa3F0U2ttbmlKMnpWZ0s5QzREUzltOFhMS3NkMEh5YTY3ck1zb0drQ3hNcV9Vc0JCOGRQSjVTX1czOUMxOHExY3pV?oc=5",
+   "data": "2026-11-01T10:31:14+00:00"
+  },
+  {
+   "titulo": "O desafio das contas: arrecadação do Estado do Rio melhora, mas investimentos para 2027 ainda devem ser limitados",
+   "fonte": "O GLOBO",
+   "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOUk5KQUZjcHJneFJmYVpwWkNWMVRzV0JzVldxOFI3ZzJ6NDZ1RWhPZC1hRzVZeDVGQm5ZdFR6TktydElhcHQxZENnbWJPaGVpelpRMDJxak1pQW5YMTBzd2RVeEV1QXA4R1lDYVBfekFtRE53LVZNU2xtdVBZQTRMVHliYTFGeFdYUURlQm9XUzBkZUN5TV9IUzBHN3UxQjhmUEJRenFvOXFZUV9PYTRjUDZ3QkZwWTVidnpjQVRDczQtOFVKMWYwVXE5LUdhVHZFOHpHcm9QMGxiSVlPQkRTSlNBOFlqR3ZZclBTNjlpbjFLQUllb3NyS9IBhwJBVV95cUxPcndPUVZNWXNYTTZLLWRhMmJLNW1sREg0WlZ1ZVNjM29JdC1aYUlVV0NqQmJfb3VhZUY0eW0tYlY4bUxobml4aTQ4VVJQX2dVWlY0cFZqa2NPZE9PTlZqOTBSUEMwSHlnVXg1M1pnNG1qeTA4eDJKSkRicmFwZDhjWWtHcV9mNEM5bUlJc25ZaHRhWnRFdGNaQkx4V21mUjVWdjI1YllPREIzb2dyZDJnaFpLUkpSdTNUMHlYWHBiZlp5SXYySkQxOXBrMTJMMGFpeGNCNTVycjZNSDZnOUt3eHlIX3ZuejJIcEJsSFk2d3RKZWI4a2pQbm9uX3JGblAyWk5mUkpPOA?oc=5",
+   "data": "2026-11-01T10:04:43+00:00"
+  },
+  {
    "titulo": "Dívida atrelada à Selic bate recorde histórico em 2026",
    "fonte": "Poder360",
    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQX1dxSl9vTGN2Vi1oMlM4NElFU3RmYWtMVUpvdTRQMWhvWk5pVUlwazRWbTU1X1pMeWlUSXdPMGxycVl0SURUQzM4NVlxekFoa25BRlplMHEzV0c5b3FKcGVSTlBDSmtKaWQ3VzlBdlJTemFZRnY2b29yXzNzNHpDNDJXM1oyT1VFS21Db205M3RkSkFMdGtYdDkyYW9hZU0?oc=5",
@@ -33,12 +51,6 @@
    "fonte": "Santa Portal",
    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPRzRTdGdrWktTbHVmTUJab1NuaGV3aTB6N2NkT3ozendhZzJkUnVmSjYwNEx0ZGthUEYyRFV4ZHR6bldNYl9lOE04cTQ1d1NkX2tMdVhZWHVvR0pSb2VCNGl4bUg5VThHMDhXUU50QWRIWno1RjVtbVJ1aU9XSExDYUU5bXhleEctYUdqdUFjcFlxdFNZc2VQT1AwQzh5TDVfeXBYOWpqdjhHTVE?oc=5",
    "data": "2026-11-01T09:00:00+00:00"
-  },
-  {
-   "titulo": "O desafio das contas: arrecadação do Estado do Rio melhora, mas investimentos para 2027 ainda devem ser limitados",
-   "fonte": "O GLOBO",
-   "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOUk5KQUZjcHJneFJmYVpwWkNWMVRzV0JzVldxOFI3ZzJ6NDZ1RWhPZC1hRzVZeDVGQm5ZdFR6TktydElhcHQxZENnbWJPaGVpelpRMDJxak1pQW5YMTBzd2RVeEV1QXA4R1lDYVBfekFtRE53LVZNU2xtdVBZQTRMVHliYTFGeFdYUURlQm9XUzBkZUN5TV9IUzBHN3UxQjhmUEJRenFvOXFZUV9PYTRjUDZ3QkZwWTVidnpjQVRDczQtOFVKMWYwVXE5LUdhVHZFOHpHcm9QMGxiSVlPQkRTSlNBOFlqR3ZZclBTNjlpbjFLQUllb3NyS9IBhwJBVV95cUxPcndPUVZNWXNYTTZLLWRhMmJLNW1sREg0WlZ1ZVNjM29JdC1aYUlVV0NqQmJfb3VhZUY0eW0tYlY4bUxobml4aTQ4VVJQX2dVWlY0cFZqa2NPZE9PTlZqOTBSUEMwSHlnVXg1M1pnNG1qeTA4eDJKSkRicmFwZDhjWWtHcV9mNEM5bUlJc25ZaHRhWnRFdGNaQkx4V21mUjVWdjI1YllPREIzb2dyZDJnaFpLUkpSdTNUMHlYWHBiZlp5SXYySkQxOXBrMTJMMGFpeGNCNTVycjZNSDZnOUt3eHlIX3ZuejJIcEJsSFk2d3RKZWI4a2pQbm9uX3JGblAyWk5mUkpPOA?oc=5",
-   "data": "2026-11-01T07:30:00+00:00"
   },
   {
    "titulo": "Mercado revisa PIB para baixo e já vê inflação até 6% em 2027",
@@ -75,18 +87,6 @@
    "fonte": "O POVO+",
    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNTC01YThydHRfNzVSMmw3ZUVuQUhQNTYzeXhDSUxVVmRQdERsWDFqdjgyUDlCQXhrX1hZWVk4TVBLaG1pc0k5aFFiaWNWSUlab2k1MnRKV3FfalJMd0hzc21hbFBXbVdKZHU5TGw2cktFVUhFcnU5STJhMTJyRTlGN0NMYi1DLWJFSUhpVWx1ZHJFTkVhS1lkZVZJNzZ4MzQtMW9mQXVrUkYxRXRKN1RxTnZJaHJ4RGVBYmc?oc=5",
    "data": "2026-11-01T04:00:00+00:00"
-  },
-  {
-   "titulo": "A inflação de setembro já dá uma pista do seu reajuste em 2027",
-   "fonte": "O Dia",
-   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOWTFqRDRYbUo5QkNDOFJKVkx1bGNPOXRvdlhVb1lIbVJOUWNXdHVJVUJ3TFhkSzV6Zk0tZXE4NEp1WFJ4MHdpRDB0b0hKclptbFpxNmVjaTNfT2ktc2wwQVN0U0NWZXQ2NnBQQ2ZGRFlPTFB2YnVtTmNOU1RTazhRZmRiTUw2d1Q0QkVPbC1VaTk0aGRLTkQtWEtmbGtfY3JTekZHaWF1SDZwV1gyQzlJQ0k3d0tEQUVvVTc1aHMxdmxxMHd1enhmSWF4Z2F4RG5HMDRz0gHYAUFVX3lxTFBod1VRVWFTX3hSZWhQNnBCdkFUUUVYOG5LMEdTYVQ5ejU1elVtZ3RPbHpKczQ4LW54d2tGWW1icnJVYUlrNU9VOTh3Q0R3eUt6YUFKamZILVBXYlAwRWpmc3lqMzlSNUNycWwxNmlHTWZNUU5mdXpDVUJXSGNVbjdqVkItOFdvcjc4Tl9mWEw2YkhvR2NqWUxwd051S3FKZG0waVRnQjh6VHUtbGI2dzFOYmdTSXUyMGdSMnNpWTRnOG1CcWk3OXBrb3czLXpBQzFWeHJWZ3lXcQ?oc=5",
-   "data": "2026-11-01T03:00:00+00:00"
-  },
-  {
-   "titulo": "Dólar alto após eleições se soma a El Niño e ameaça inflação",
-   "fonte": "Folha de S.Paulo",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPaUJzNlZPUVAtNGZuQzNOSjNDbXFJdXdDdGo1aDNjWF84UE9NdzVhd1V4REs1SlViWXJpVGFmZHVZektrbnAwaTZjanpNMXhWU29WNGNmU0I0X1ZUamdYUWRWYlNKc01UOURyeWR2YTNHaVVYUTJEMFVmWG1TNmFjLWZseVY0ZVh0aVVlM2ZnRzJwQ0NkTWRlVWxaYlRNZ3hwUGlmbjlkNXItblJBQ2Zjb1lR?oc=5",
-   "data": "2026-11-01T02:00:00+00:00"
   }
  ]
 }
