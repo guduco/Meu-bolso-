@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-01T11:38:11+00:00",
+ "atualizado": "2026-11-01T12:50:40+00:00",
  "indicadores": {
   "selic": {
    "valor": 13.75,
@@ -17,76 +17,76 @@
  "cotacoes": {},
  "noticias": [
   {
+   "titulo": "Negócios: Empresários cearenses buscam parcerias na China",
+   "fonte": "Portal Terra da Luz",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOR1c3LXVVcm5HYzlMVlNyaEhIUm1xUXB4c3hJUjVsQldIY1E2T1BHNHdjcFF2T0xZWHpDcGJlVkhpa002ZE1pdXBuSWU3eTNtdDlxZkRfdU11VEZrTUpfVVRfbjNadDJyYWlnZ2RmY0lsdE1TczJpSXBOd1dJNDd0OUZKaVNGWGh4NnkxSHlzLVJGTldIMmFQMnd2TVhONFQ0WDctZHR3WTBDZkE?oc=5",
+   "data": "2026-11-01T12:41:02+00:00"
+  },
+  {
+   "titulo": "Lula: Empresas sob pressão enfrentam dívida elevada e expectativa de queda mais lenta dos juros",
+   "fonte": "Folha Vitória",
+   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOd19SR2tzMTJqM1Q2YnNaUGo3bWhHblRfYWNkTFlQYndBOVRfV1RaZk01Rk1yS0xBS2pLbmgzbHo5VkJULU9wZjJoZTVTLS1YV0kzdG1EZ09jeTdFZXBCS3VYcXk0LVJpaHdoSjU4MXBXUEI3b3pEeVBzRHVuZUx1ZnMxNTJnRHQtQkZrR1ZMSGVhc3lxZjhBTTFHanhUM0hNU1V5UUhjMHFkbWgxWktkZ1lrdnpKWVNVVnlWdXk3NzJXQnczY2paTWk3TTlzMEE2TFlORA?oc=5",
+   "data": "2026-11-01T12:37:52+00:00"
+  },
+  {
+   "titulo": "Ex-presidente do BC Gustavo Loyola prevê Selic em dois dígitos até 2028 e alerta para armadilha fiscal",
+   "fonte": "BlockTrends",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxObm1EYjFnQWVxbkx0SlpnRFZNZXFzTlRCNEpxUTNZWnBPNktRLVh2YzdpMGZCRFJLUGY1blR3VXFPNlE4cUhWM3BBTzRONVp3bUVzOUJ1Um1KZGNwMlBKSU5GYnBlc0thZWYyY0RGcnR5Q3JtTXNvN3MzdmRkMzNFbFkxdm04WFdXWUI0cw?oc=5",
+   "data": "2026-11-01T12:32:25+00:00"
+  },
+  {
+   "titulo": "Brasil e Singapura discutem expansão do comércio e de investimentos após acordo do Mercosul",
+   "fonte": "O Mundo Diplomático",
+   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQeFJmT21BUUQ3RzBLcDdpNFI0SnNycXZkSG9SYjNyaG9TT01GbE0wTmY1UXVtQUNmU180UnNncHBHUEJaQ2FNUE42LVA3WDRJM3MwTHlCNVpDRE1NMUxWd0h1NG9VODZfNXpWM01lNVJDQkJtLWdZcFJMWnNnRjlldG9XNm1SbmRDYzFNRVNabjB5anNiSXA3Rmp5RG1iS28tWm1oeklPYThtZlpZdFVMdmhVSk5WRVhYTWZOMUx4V1NTVFI3QmJhOFRLTGRHbzRkT2c?oc=5",
+   "data": "2026-11-01T12:09:50+00:00"
+  },
+  {
+   "titulo": "Após vitória de Lula, mercado reduz previsão do PIB e já projeta inflação de até 6,1% em 2027",
+   "fonte": "Blog do Gustavo Negreiros",
+   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQWlJHRThOdk5pWENKVzlpMTBxazFSb0ZZQjkxd1U2Z2tvaDM5dVk5NFUzZm9ERS11YWIxZE9BYVo4VnlaTUhTNFB6R3ZQSTUtdjh2M0VnNW9BdExfNzVJbmxzeVJHZjQ4QlN5VnlVQ1NReU42cjlfNU1GdDZXMU9MclEzQUhvdTRScGUyWGpCRXZKR0RLMXgxd0JHM3hyUzlObzdHWTFNZFEtZG9SZHRFSkhrMDFxUXVEOW1PLVlZaTZhdW1Tb285ZVNETFVna1hHbG5ESTV3?oc=5",
+   "data": "2026-11-01T12:00:16+00:00"
+  },
+  {
+   "titulo": "Corrida por energia limpa leva Índia a buscar US$ 220 bilhões em investimentos",
+   "fonte": "Times Brasil | CNBC",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPeDB5T3ViWjFEZEx2WEtEVDhzSS1CQ0I3X2RNUWo1NnZOdGZXT2txZ3pkdklEUjh4MURkbWFXQ2t5emtzV2g1c09lODRnU3RMUS1VRDNxYzBuU3gzN0tQbnBCLXE5YXZ0U28zdWNCYnM4NVotSFFycF81aHFqc1FWck5EYVprQXIyWlJETk1MOXR6eWhKV3Qxdko5elBjZ3dxYWxxRW5kZEtpNmJvaTFXZkZ0WjJTLVhBYW81QlJ4amViQktDRW8yT2JueFpvZw?oc=5",
+   "data": "2026-11-01T12:00:00+00:00"
+  },
+  {
+   "titulo": "Retornos de até 12%: 5 ações para ter na carteira de dividendos de novembro, segundo a Ágora Investimentos",
+   "fonte": "Money Times",
+   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPNkoxSGJZSmFZaHlJbzlXbU5NdE5QaWRQcW9pb1JJM1o5ci1MbElQbi1FYjNPY3JtSEppQUV1RTc5RzRDY3JDZzRqLS1VREctMm84ZVBiamFuTF9EeVk0X0o4V2ZORm51TldodEk4UlhBSUVUSW1fdmhKTjItXzh6dTNiS1BxSzB3TEVJdnVQeEVMU09LU2VkT0FVWTlwWGNiWFc0OEtrYzgtbzU1MnhpMjlJaWpoZ2Zwdi15Q0tUdEVZSTdvQk01WW91ZWdlbGFWc1lkN3pR?oc=5",
+   "data": "2026-11-01T11:59:00+00:00"
+  },
+  {
+   "titulo": "Custo de vida elevado e inflação ameaçam maioria de Donald Trump no Congresso dos EUA",
+   "fonte": "Brasil 247",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNbHZtUTZBLUhzWmZ0QmctTk52b2NEOFljUmMzc1l3NUdadnhTbnNxY1FoN0FTM2dtVU5tb0FRYnc5T29hMHFQamlDc2lZR3hRVnNweTIzeUNJZWVMYnBsMUdsdDlqWnV4bEtyOVh4ZXdkZm5VY1dYNVlaMkxmdUoyMEtJd1lORzBoN01iVmdyd3dmbGtHWlZTZlBoRVpsUzA0UjRiMUNoUkcxR3puRUJZcjE1YUkzMWl5eGxEd1Vn?oc=5",
+   "data": "2026-11-01T11:48:35+00:00"
+  },
+  {
+   "titulo": "Selic, Focus e payroll: veja o que movimenta a economia nesta semana",
+   "fonte": "tmc.com.br",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNZ2lWdlVqOGtmbWc1bm9NWXJzWjhydmd2ZThCLUZKWFhUUnFiTHlOYXJ0UmZRUnRzWmtyNHN1ZU51WE5nQmdQMEpYWWVyejY0TVhLNThyYU1GMmp6N2xRRlR4N3ZWMHRmeG1OVmZNUWdvRmFJM3c1c0lWRkVYSHVaQXFsbVFNZw?oc=5",
+   "data": "2026-11-01T11:45:48+00:00"
+  },
+  {
    "titulo": "Ibovespa hoje: 167.922 pontos (-0,75%)",
    "fonte": "Paranashop",
    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBoeGlHOVpueF82Y0dvcU9fMDJiUTFkbHAxMnhVUnNvdUxWSEYzWVRyeHBIaUFILTJ1ak5DdFlwQnRIY05Ba05UZGZKNmVUMXJYTzZONmRmdzBpaHc?oc=5",
    "data": "2026-11-01T11:22:20+00:00"
   },
   {
-   "titulo": "Bolsas americanas fecham em queda em meio a temor por investimentos em inteligência artificial",
-   "fonte": "Rádio Itatiaia",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOZ1R6dVZiWUpmckVwZjVnVTBuYlhfVko0c2MwTjhacTBEMVhRUTJITXgxQzRXcDI5Rmd3VlllV2c3emNHQ21rNEpKLWZFaUx2c1JyN2g2Y1laM0Jmay0yRG1jcUxJanJaenMyYnhPd1E2SGMtTWFSMmMwbFFMY3RsSQ?oc=5",
-   "data": "2026-11-01T11:13:29+00:00"
+   "titulo": "Bancos elevam projeções de inflação para 2027 após eleição",
+   "fonte": "Vero Notícias",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOelhwRG5NdDVsT3hlSXpuSEdVdXFDSzVPWWxfa3JKZS1BVExXQnVURF9mNXFEV25oeXpYY3NQeC03dHhYWnNXRUF2ZGVRUmpTN3dlRFZJNG5nVWI1ZndDb0JrVXVqQTZLT3JoUXdRRGRvYzJrWGlnT3VjX2xmSGdJYW9ZYkJ2eFdIZVZfNWtSSnE2UlBUa1FUWA?oc=5",
+   "data": "2026-11-01T11:20:00+00:00"
   },
   {
-   "titulo": "Efeito Lula: Bolsa tem o pior mês desde 2022 e dólar vai às alturas",
-   "fonte": "BeInCrypto",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPcDNvTDk4aVRzUUkySVpadEpJWDBCYmFPU3AtZ0p6aF9WdFJFbDJjcW9fQUJkellMdlh4QnJYb0U0cEY0T1B0Yi1SdldwRFpsdU9rX2xiM2V6RXV1ZW5YVlJnSkJKUy1udzFaOTVReDI5YkRnQ0J3d1pCSGVwcGwyLU5XWHZ2V1VVcE50SWlWYzF6SjFybzVCWVQxUFhuLUU?oc=5",
-   "data": "2026-11-01T11:12:35+00:00"
-  },
-  {
-   "titulo": "Quer ganhar em dólar? Visto permite empreender nos EUA",
-   "fonte": "Terra",
-   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOOTZtamhQWnV6WmQyNmpXa1hYblBaOGRTbk9IVElTS2VuSWV2Um1mcENvX2FfREtpbnlOQTRMMlBZZWFtbFNYS3V5TnRYNXptSXRZNFoycHVJbjc0T01LX0VOcGw5bE5ZbzlEeXJ6TEYyUlVGbUEwVWowOURNNHJLQmZGbEQweTM4ejVwSkpCVlJHR294T3hnQ0U0RFR6aWNjRXBmbEJaMVlILURURWNTeFJhS05fblRVd3FJYXFZS2lGY2c1ZkpoeDhzYWVNSnZJMm5TNA?oc=5",
-   "data": "2026-11-01T11:02:00+00:00"
-  },
-  {
-   "titulo": "Inflação, emprego e PIB: os números da economia de Trump antes das eleições de meio de mandato nos EUA",
-   "fonte": "Valor Econômico",
-   "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOYk5EMXhUbVRjSVpyRGVaZm1LWXU1SFpvRjlDeVdoblZjckpQWGJRUFcwV3VQVE5GMkdGVnRZeEd3T1dWMUtubjh1RDNxSW1oVWR4Z3BUVDd4WXJDbkE0QjR5SkJUTC16UTNPamdfX0wyclVSTHJwdHBrVHphUDNFdnBtVEhKdldsTUQ1d1ZYTnhIMk45N0VpWmVieW5GNG5HT2VDcTJKaEhkdlJyc1d0bDl1X2NadlRoa1dkcjF1WVBYSkEzQnhzaURReU9Fek5fcTNGQThfNXMxTXBESy1Mc1JERVBoUmhHN1lF0gH6AUFVX3lxTE5OQTJIZjI3aXVLc0h0X1d4clFEb3ZKaWZDVURtRmdvcUZYTzk1cmdOcUNGRVJ2TURjdng0RWFyRWtMQ0ppR0JFWHhhTHZYbllNTmFxanRjNmVzei11U3E0bTRwNWZ1dW5hdnprME9GWGY5UkdneU5lZEd1cWZVVGFHX2lSdzlSa1U3cWZ5UDlGU1pQSjZMSVliREFrQlh1QS1jWjZEREtXSFJkMGh0RHhuZkhwMUhNbkVHLXVieUNrWVN0MTMxMmd5Y1hSTVp4TEw5MFVkOUVKMkh2N1hjYVE0TXQ4UExLYTZjc0tYVjd1d0JDUkdiYk9hRlE?oc=5",
-   "data": "2026-11-01T11:00:00+00:00"
-  },
-  {
-   "titulo": "Agenda de mercados: Copom, ‘payroll’ e ‘midterms’ no foco",
-   "fonte": "Valor Econômico",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxObHF0N2lrSFhwamUzR0haQVA3UlppOTFmR0paSHBjRkE3WUtjTDZpZ21XSzYzcWtEVXNja2RlVnZqVWdqUF9IQ1BaVEhsaHhZRllkME1Ud0I1MkZHdjU5WktRUFF2SFBQNldoSVJGSmpkbG1zQlgxazZuSHFBUmhWdVZsa2RkNGhJSzVEMG0zYV9PeDJCZDBzdzN1d1ljaVc3RlM5ajRBQkpGcXNFamfSAbwBQVVfeXFMTkFpdnpHaWJoaUxTUUZ2YXhLbEJzNWliWDZjclVEd3gzZW9HcEpwRWE4VXU4c1R0anhMWkhkNkp3UVZuekhLSDFWZjFJZUFncmY1Xy1WZy0yZnQ5QTNaOWRoeVNFNUZQSF8wR3hYdk83N0FjamxtZ0xncS1OQmp2MFh0VFZxYXVUQ1dDdEVXVDN2YXZtUEppUGIzR041ZS1XZ0xfbEpURmMxekV4eW01ZXVnNFl5VTY1aHMxZlo?oc=5",
-   "data": "2026-11-01T10:55:01+00:00"
-  },
-  {
-   "titulo": "Copom decide Selic pela 1ª vez após eleições e EUA divulgam payroll; o que move o mercado na semana",
-   "fonte": "Estadão",
-   "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQZ2Y3Y2ZfdFBkOTAxTDFmUzZNbHRxeFBZLTZBMFBFZnktRVg2Q1padDFrVENodW5HV3B2MHlDYmlSTG4xTlRfOHV3NHVKbXQ3V2NQWEh5OEVpSzdicHRUXzJFZjQtYUZzU1Q1WHBLdllZWnVWMlRlUkJzYjRkNmFFdy1rcGZrdC1vZVE5by0tSGlNcnJ2RDlQMHU1X3laNFVMbThDb0tweXBwRnZVNmx3QWt5QjZ3UnZCeWNHb3d2ZjlINzZQTWFhbFBsUGJmcHJoc2htY1FYNVk3UWhkZ3o1WkQwYlRFU1VDRjdUUTJJZ0pvYXpHV0FR?oc=5",
-   "data": "2026-11-01T10:37:23+00:00"
-  },
-  {
-   "titulo": "Economia: Mercado prevê inflação de até 6,1% em 2027",
-   "fonte": "Portal Terra da Luz",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPNURnTnpjU2VKU1hkU1hTWVQxQnVSVk8tS3I3c3FXN2dPdzQ3WjFIdzdzbENuVkw1bTl6UjBKNkZkN3lGWGRfRzJrcDlqQmUtcktXeHJXa3F0U2ttbmlKMnpWZ0s5QzREUzltOFhMS3NkMEh5YTY3ck1zb0drQ3hNcV9Vc0JCOGRQSjVTX1czOUMxOHExY3pV?oc=5",
-   "data": "2026-11-01T10:30:46+00:00"
-  },
-  {
-   "titulo": "Dívida atrelada à Selic bate recorde histórico em 2026",
-   "fonte": "Poder360",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQX1dxSl9vTGN2Vi1oMlM4NElFU3RmYWtMVUpvdTRQMWhvWk5pVUlwazRWbTU1X1pMeWlUSXdPMGxycVl0SURUQzM4NVlxekFoa25BRlplMHEzV0c5b3FKcGVSTlBDSmtKaWQ3VzlBdlJTemFZRnY2b29yXzNzNHpDNDJXM1oyT1VFS21Db205M3RkSkFMdGtYdDkyYW9hZU0?oc=5",
-   "data": "2026-11-01T09:04:15+00:00"
-  },
-  {
-   "titulo": "Estado do Rio melhora a arrecadação, mas investimentos para 2027 ainda devem ser limitados",
-   "fonte": "Extra online",
-   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOOThaUktqQjlvcHBrODlDZTZQZTQzSl9VcndxVUs3RG9KN1ZlZjFIOG9HV3NxeF9mcEk3S1hHMkxoUUxTeE90NFJFb01xQTFIdUxGM0R0U3BaMUs2WUlsT0g3VG9OcnJWR1kxWkpZTUlqT2pPamp6NUhpaUlMU2JKcTZQWFpkRVk1QU1sS2NLZ2pJcXJWcXU4YWlWVnV5WlN4c2lMYnJqVE01TkFfSHF5TzMyMWxITHBjNFh4Z3NEVkc0LWlDd0x0OVBvVTY1Y1Bwb0w0d2dn0gHkAUFVX3lxTE1iYUhfQ0g2RkJWR3JVWmJRdUV1VmlUT0FnRE9uTTEwdENSeUV4S19zZEc4anlTNV9yY1BEYjB3Ml9EZGtSUjlQeWVkaFppRElIRnFocUxuYXRHcWwxV2JBcUplUzltT3AxR0tpM0ZKZ0c1bldmSnFFT3hWR0NmS0RwM1l3RUVkWW1DSjh4R2l3clZETGRrWldNYlJPdkNScEo5VDhINkNOeFBtek5GUnk4bzBCLXhTR1R4NEVWaF9NVE91aVFiNXVMTHdtVGFsV21SMGs5UDNpS04xd2l4X29qNVo1Tw?oc=5",
-   "data": "2026-11-01T09:00:01+00:00"
-  },
-  {
-   "titulo": "Governo de SP prevê R$ 1 bilhão em investimentos nas rodovias do litoral",
-   "fonte": "Santa Portal",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPRzRTdGdrWktTbHVmTUJab1NuaGV3aTB6N2NkT3ozendhZzJkUnVmSjYwNEx0ZGthUEYyRFV4ZHR6bldNYl9lOE04cTQ1d1NkX2tMdVhZWHVvR0pSb2VCNGl4bUg5VThHMDhXUU50QWRIWno1RjVtbVJ1aU9XSExDYUU5bXhleEctYUdqdUFjcFlxdFNZc2VQT1AwQzh5TDVfeXBYOWpqdjhHTVE?oc=5",
-   "data": "2026-11-01T09:00:00+00:00"
-  },
-  {
-   "titulo": "O desafio das contas: arrecadação do Estado do Rio melhora, mas investimentos para 2027 ainda devem ser limitados",
-   "fonte": "O GLOBO",
-   "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOUk5KQUZjcHJneFJmYVpwWkNWMVRzV0JzVldxOFI3ZzJ6NDZ1RWhPZC1hRzVZeDVGQm5ZdFR6TktydElhcHQxZENnbWJPaGVpelpRMDJxak1pQW5YMTBzd2RVeEV1QXA4R1lDYVBfekFtRE53LVZNU2xtdVBZQTRMVHliYTFGeFdYUURlQm9XUzBkZUN5TV9IUzBHN3UxQjhmUEJRenFvOXFZUV9PYTRjUDZ3QkZwWTVidnpjQVRDczQtOFVKMWYwVXE5LUdhVHZFOHpHcm9QMGxiSVlPQkRTSlNBOFlqR3ZZclBTNjlpbjFLQUllb3NyS9IBhwJBVV95cUxPcndPUVZNWXNYTTZLLWRhMmJLNW1sREg0WlZ1ZVNjM29JdC1aYUlVV0NqQmJfb3VhZUY0eW0tYlY4bUxobml4aTQ4VVJQX2dVWlY0cFZqa2NPZE9PTlZqOTBSUEMwSHlnVXg1M1pnNG1qeTA4eDJKSkRicmFwZDhjWWtHcV9mNEM5bUlJc25ZaHRhWnRFdGNaQkx4V21mUjVWdjI1YllPREIzb2dyZDJnaFpLUkpSdTNUMHlYWHBiZlp5SXYySkQxOXBrMTJMMGFpeGNCNTVycjZNSDZnOUt3eHlIX3ZuejJIcEJsSFk2d3RKZWI4a2pQbm9uX3JGblAyWk5mUkpPOA?oc=5",
-   "data": "2026-11-01T07:30:00+00:00"
+   "titulo": "Fed dos EUA decide manter juros altos e ignora inflação persistente",
+   "fonte": "www.bra1.com.br",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPLUp6ZXNsTmhFbEVFWjZoY19LWllyb1JTN0UzRm5GSVpseTJ3TWliN3Q4d1EybGRNbmphSlV2NnNMLWUxT2c3dlJRRlpkelh4a2lwV21mdzRLVUFDY3JjdldkOE1xLVZxTnZWRmVqc3dCTzFkVGlaRk9qVU4zTUFaUm5JTS1HUUFCbTg4MjBwSmdfMGhuUkN0aUZWVUw2c1NISGZ1OWF0cUp6X2hXbXg0?oc=5",
+   "data": "2026-11-01T11:20:00+00:00"
   }
  ]
 }
