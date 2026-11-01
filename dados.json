@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-01T12:50:40+00:00",
+ "atualizado": "2026-11-01T13:49:03+00:00",
  "indicadores": {
   "selic": {
    "valor": 13.75,
@@ -17,10 +17,52 @@
  "cotacoes": {},
  "noticias": [
   {
+   "titulo": "Mercado revisa PIB para baixo e projeta inflação de até 6,1% em 2027",
+   "fonte": "GPS Brasília",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNYl91Mm9VdmN6a0EwR2JWNllrVFppQ2JTU3VTanlYWlFiYk5SZlpOdExmWkFQUnZ1bEhXeDdoS3NZeDNzbzZGVVJpdmtzX0szN0cxTFZlRG9NRnBrb0VGNmNadWdvaTBKVDIyVHNHelR5NWxka3lPX014ZnNVYTRCU3Z5QWR5WHNRT3NnT3MtVGxoRnh1Q0hDSXdR?oc=5",
+   "data": "2026-11-01T13:30:23+00:00"
+  },
+  {
+   "titulo": "Coletivo Camaradas fará plano popular no Território do Gesso, no Crato",
+   "fonte": "Jornal Correio do Brasil",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQT04wdG1yOUZrS2lEZ012ZUJZSWJqa3oxcXJaY0RxTGtCNl9Yakc2Y2lWN09saUlFSWlrY1BZX2JfLXBFOHZNbVFxd0xtczcyNkFSMUozd2gxSzdBeEIxcW1NRTliWFBjR1Y3MW9CVXZWNXJ2VFVCWEI0aTYyMV92bTdEd3pYVlZTd1VEOFRjNXdFWUM0cjhSUg?oc=5",
+   "data": "2026-11-01T13:29:13+00:00"
+  },
+  {
+   "titulo": "Bolsa e dólar: quem apostou em Lula ganhou; quem apostou em Flávio perdeu",
+   "fonte": "Roberto Moreira",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNSi1JdDdVRU90NkZmbDduWHNOYy00U0IyNWlfSjQ2SnBpRVFtbGxrbGRzemVZcDFjNFM1amVGWmdQVDhHUTR0ajgtT1N6ekpFNjdVZmtmTGF3Smw2emVYUEpxOWQ3X2dGVFNCX2NkMnN0VHJtUmFiWk1qRmJ0TW5LRThxRGRIMTJtTVE?oc=5",
+   "data": "2026-11-01T13:18:00+00:00"
+  },
+  {
+   "titulo": "Alta do dólar e impactos climáticos pressionam projeções da inflação para 2027 e 2028",
+   "fonte": "BigPB",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxONnliV1NPRURlSGwyZ3YwTF9xbWRvZDJtaEp0aUZMV3Q1MW9yY0VuMnU3eXBjQzhrczRWczRmYU1XWEkyYjl4UExlQVNfWTNvLWdUQzkyNl9xaTNjeExDRXk5MWFGdXFWSE5TWlNfaTFDdjJGUHNpQjA2UXFJYVBtWklPamZiYTgzT3BPMWdQcmliZEJoclA1MVhzOUxiVXNSQmtIVHkxNF9STkk?oc=5",
+   "data": "2026-11-01T13:17:26+00:00"
+  },
+  {
+   "titulo": "Investimentos com IA: 9% dos brasileiros já usam inteligência artificial para investir; masterclass gratuita ensina como você também pode usá-la",
+   "fonte": "Empiricus",
+   "link": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxPMV9OYjhZOXhVQWdhMS1iWllNbHBYdWJqa3Rrd0FhanFEOEdUZjN1blh0QUdtU2dGbG90VTVmbmU4ZkcyRnd2X3JLeUFOVm9UZTVlcUJXeDZ5VGhMdkVwZkpOQUJxM1ZmYkdxM0lBdUtDNVUyWHM4V1VkYlllMEdmQ1VoUU40al9oaXVrMTVjdTNRaVJPMDFta1lOV1R6bWFfQ1Fveld6cHprbWVSUHdwQ2stMEM1cnBxY2xrOHRYeTNFVElSUWNoM2xBdTZOc01yUHpFQ3NUWWpJc21kYlZ2cy1WS2NOb3ZvZ3dFQkZqXzNIV0lQN0NobUEwTlVWS0xQa2xJQXR5QXdkN1Ryc0d5aGo1MU45eHg3VFp0UFdxNmtCb09YelZxY3V3OA?oc=5",
+   "data": "2026-11-01T13:00:00+00:00"
+  },
+  {
+   "titulo": "Rondonópolis abre mão de R$ 60 milhões em impostos para atrair R$ 4,77 bilhões em investimentos",
+   "fonte": "JBNEWS",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNandLS3JBS2xnZlJMNnNrdkMwblRvNnR2akpsVjRYSWFBVjRORUQ3ODJ4OVpDbk9KakxNRVRGYV9SZnIyRVZHYzJOMDZTOEJxQUd2ZDJNcWRaT3p3c0U0T2d2RzhuRWxBRFZ2cGtFcUQtVzVuV2tnYUotVXEzdHhMNVVlYWRkZmJwYVBBMzFnRTZQMmg5OXo1X0xFcHUzSG52dkhtZ3Q3XzBXemoxZ1dRc25JT2VHRFE?oc=5",
+   "data": "2026-11-01T12:59:44+00:00"
+  },
+  {
+   "titulo": "Análise | Emprego vai bem num quadro de inflação perigosa",
+   "fonte": "Estadão",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOQVBJMWlaT1loUk9jSlpGNkRNMkcxXzNvejlkM1dBNnRrUW1NYllGZzlpMzJjVWlBY0FwXzVQY3dXeTNnSDRXOXNONTZJMzQyVllJODhQaGNxM0N4NzVlVEtXOGZ3RElaVXFXVjRVenNFbUplWHBDdXlZYk5QckYzRTNHT3p1R0RRRE1iNWFKeVpoc3FRbFM4?oc=5",
+   "data": "2026-11-01T12:58:07+00:00"
+  },
+  {
    "titulo": "Negócios: Empresários cearenses buscam parcerias na China",
    "fonte": "Portal Terra da Luz",
    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOR1c3LXVVcm5HYzlMVlNyaEhIUm1xUXB4c3hJUjVsQldIY1E2T1BHNHdjcFF2T0xZWHpDcGJlVkhpa002ZE1pdXBuSWU3eTNtdDlxZkRfdU11VEZrTUpfVVRfbjNadDJyYWlnZ2RmY0lsdE1TczJpSXBOd1dJNDd0OUZKaVNGWGh4NnkxSHlzLVJGTldIMmFQMnd2TVhONFQ0WDctZHR3WTBDZkE?oc=5",
-   "data": "2026-11-01T12:41:02+00:00"
+   "data": "2026-11-01T12:40:46+00:00"
   },
   {
    "titulo": "Lula: Empresas sob pressão enfrentam dívida elevada e expectativa de queda mais lenta dos juros",
@@ -35,12 +77,6 @@
    "data": "2026-11-01T12:32:25+00:00"
   },
   {
-   "titulo": "Brasil e Singapura discutem expansão do comércio e de investimentos após acordo do Mercosul",
-   "fonte": "O Mundo Diplomático",
-   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQeFJmT21BUUQ3RzBLcDdpNFI0SnNycXZkSG9SYjNyaG9TT01GbE0wTmY1UXVtQUNmU180UnNncHBHUEJaQ2FNUE42LVA3WDRJM3MwTHlCNVpDRE1NMUxWd0h1NG9VODZfNXpWM01lNVJDQkJtLWdZcFJMWnNnRjlldG9XNm1SbmRDYzFNRVNabjB5anNiSXA3Rmp5RG1iS28tWm1oeklPYThtZlpZdFVMdmhVSk5WRVhYTWZOMUx4V1NTVFI3QmJhOFRLTGRHbzRkT2c?oc=5",
-   "data": "2026-11-01T12:09:50+00:00"
-  },
-  {
    "titulo": "Após vitória de Lula, mercado reduz previsão do PIB e já projeta inflação de até 6,1% em 2027",
    "fonte": "Blog do Gustavo Negreiros",
    "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQWlJHRThOdk5pWENKVzlpMTBxazFSb0ZZQjkxd1U2Z2tvaDM5dVk5NFUzZm9ERS11YWIxZE9BYVo4VnlaTUhTNFB6R3ZQSTUtdjh2M0VnNW9BdExfNzVJbmxzeVJHZjQ4QlN5VnlVQ1NReU42cjlfNU1GdDZXMU9MclEzQUhvdTRScGUyWGpCRXZKR0RLMXgxd0JHM3hyUzlObzdHWTFNZFEtZG9SZHRFSkhrMDFxUXVEOW1PLVlZaTZhdW1Tb285ZVNETFVna1hHbG5ESTV3?oc=5",
@@ -51,42 +87,6 @@
    "fonte": "Times Brasil | CNBC",
    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPeDB5T3ViWjFEZEx2WEtEVDhzSS1CQ0I3X2RNUWo1NnZOdGZXT2txZ3pkdklEUjh4MURkbWFXQ2t5emtzV2g1c09lODRnU3RMUS1VRDNxYzBuU3gzN0tQbnBCLXE5YXZ0U28zdWNCYnM4NVotSFFycF81aHFqc1FWck5EYVprQXIyWlJETk1MOXR6eWhKV3Qxdko5elBjZ3dxYWxxRW5kZEtpNmJvaTFXZkZ0WjJTLVhBYW81QlJ4amViQktDRW8yT2JueFpvZw?oc=5",
    "data": "2026-11-01T12:00:00+00:00"
-  },
-  {
-   "titulo": "Retornos de até 12%: 5 ações para ter na carteira de dividendos de novembro, segundo a Ágora Investimentos",
-   "fonte": "Money Times",
-   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPNkoxSGJZSmFZaHlJbzlXbU5NdE5QaWRQcW9pb1JJM1o5ci1MbElQbi1FYjNPY3JtSEppQUV1RTc5RzRDY3JDZzRqLS1VREctMm84ZVBiamFuTF9EeVk0X0o4V2ZORm51TldodEk4UlhBSUVUSW1fdmhKTjItXzh6dTNiS1BxSzB3TEVJdnVQeEVMU09LU2VkT0FVWTlwWGNiWFc0OEtrYzgtbzU1MnhpMjlJaWpoZ2Zwdi15Q0tUdEVZSTdvQk01WW91ZWdlbGFWc1lkN3pR?oc=5",
-   "data": "2026-11-01T11:59:00+00:00"
-  },
-  {
-   "titulo": "Custo de vida elevado e inflação ameaçam maioria de Donald Trump no Congresso dos EUA",
-   "fonte": "Brasil 247",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNbHZtUTZBLUhzWmZ0QmctTk52b2NEOFljUmMzc1l3NUdadnhTbnNxY1FoN0FTM2dtVU5tb0FRYnc5T29hMHFQamlDc2lZR3hRVnNweTIzeUNJZWVMYnBsMUdsdDlqWnV4bEtyOVh4ZXdkZm5VY1dYNVlaMkxmdUoyMEtJd1lORzBoN01iVmdyd3dmbGtHWlZTZlBoRVpsUzA0UjRiMUNoUkcxR3puRUJZcjE1YUkzMWl5eGxEd1Vn?oc=5",
-   "data": "2026-11-01T11:48:35+00:00"
-  },
-  {
-   "titulo": "Selic, Focus e payroll: veja o que movimenta a economia nesta semana",
-   "fonte": "tmc.com.br",
-   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNZ2lWdlVqOGtmbWc1bm9NWXJzWjhydmd2ZThCLUZKWFhUUnFiTHlOYXJ0UmZRUnRzWmtyNHN1ZU51WE5nQmdQMEpYWWVyejY0TVhLNThyYU1GMmp6N2xRRlR4N3ZWMHRmeG1OVmZNUWdvRmFJM3c1c0lWRkVYSHVaQXFsbVFNZw?oc=5",
-   "data": "2026-11-01T11:45:48+00:00"
-  },
-  {
-   "titulo": "Ibovespa hoje: 167.922 pontos (-0,75%)",
-   "fonte": "Paranashop",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBoeGlHOVpueF82Y0dvcU9fMDJiUTFkbHAxMnhVUnNvdUxWSEYzWVRyeHBIaUFILTJ1ak5DdFlwQnRIY05Ba05UZGZKNmVUMXJYTzZONmRmdzBpaHc?oc=5",
-   "data": "2026-11-01T11:22:20+00:00"
-  },
-  {
-   "titulo": "Bancos elevam projeções de inflação para 2027 após eleição",
-   "fonte": "Vero Notícias",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOelhwRG5NdDVsT3hlSXpuSEdVdXFDSzVPWWxfa3JKZS1BVExXQnVURF9mNXFEV25oeXpYY3NQeC03dHhYWnNXRUF2ZGVRUmpTN3dlRFZJNG5nVWI1ZndDb0JrVXVqQTZLT3JoUXdRRGRvYzJrWGlnT3VjX2xmSGdJYW9ZYkJ2eFdIZVZfNWtSSnE2UlBUa1FUWA?oc=5",
-   "data": "2026-11-01T11:20:00+00:00"
-  },
-  {
-   "titulo": "Fed dos EUA decide manter juros altos e ignora inflação persistente",
-   "fonte": "www.bra1.com.br",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPLUp6ZXNsTmhFbEVFWjZoY19LWllyb1JTN0UzRm5GSVpseTJ3TWliN3Q4d1EybGRNbmphSlV2NnNMLWUxT2c3dlJRRlpkelh4a2lwV21mdzRLVUFDY3JjdldkOE1xLVZxTnZWRmVqc3dCTzFkVGlaRk9qVU4zTUFaUm5JTS1HUUFCbTg4MjBwSmdfMGhuUkN0aUZWVUw2c1NISGZ1OWF0cUp6X2hXbXg0?oc=5",
-   "data": "2026-11-01T11:20:00+00:00"
   }
  ]
 }
