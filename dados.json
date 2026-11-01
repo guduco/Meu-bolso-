@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-01T05:47:37+00:00",
+ "atualizado": "2026-11-01T06:57:23+00:00",
  "indicadores": {
   "selic": {
    "valor": 13.75,
@@ -27,6 +27,30 @@
    "fonte": "Instagram",
    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0tNHRzeE9fbUFleUJDS0pTa1BucXRQYXBxWEFaVzZJQl9SdWRJT2ZjMUNuQkg0NUpSM2ZrX0had1hxbm5XUy1Bb1dldElhMC03TUE?oc=5",
    "data": "2026-11-01T04:54:26+00:00"
+  },
+  {
+   "titulo": "Ibovespa tomba mais 2,6% com incerteza fiscal e temor sobre IOF; Fed mantém juros inalterados",
+   "fonte": "Estadão",
+   "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNdzdQZW9Ib3Z2SHR3alAwTTNQRVBNaEpTQnpqU1RMVnZGSzdkTVVWdlhIUTF5YzliOWdNRjlPZmg4Y2VmeHY3U2d2bURFZEt0QktDZ1ByemxYVnlySGxlVnNDZDZYLXM0U0ZzQmlLV0tSdjRWSzFYcXc4Q0IweURmYS02dGlPbzBhSjM2Y0M5VGtxWjU5Tno5R3VHREhkRVFnV2JXOUFKYWpnLUtfMnJZYjdOSlZmWTZJOHAxNmQxYmVNTFhTMHF0WnRMcWxkSG4ySVMyM1I3cXZzdDNHZDJTSU0wZDAtQnVoVUNzYmN3?oc=5",
+   "data": "2026-11-01T04:41:55+00:00"
+  },
+  {
+   "titulo": "Cosan recua mais 12% e lidera perdas do Ibovespa hoje; veja maiores altas e baixas",
+   "fonte": "Estadão",
+   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQeHlhdnRybUhSY1JfZE1GLW1ndUNMY0xSQVZCcFd3eWJRaF82cHEtaXN2TzZkRUU2U3hyajFucUx3SF9SMEJKeW0tVGhUT01OV29WR0J6bkdMM0VkWmdpb1pQY2hmbFJDU0tUVU5FZHFKS1ZNWTUzTnozTGxwaEN4X2kwNUdMbXZrVlowc0duUEUwRE5VY2dBajNzVDVCS2U0XzU2Z3Q5Y1ZGcWc5emhvdXVDdmg5bldma3UxX25MS0xWV05iNjV6THotNmlDWTNoZEgzcHVTaHJ5dEszQnhlYw?oc=5",
+   "data": "2026-11-01T04:40:34+00:00"
+  },
+  {
+   "titulo": "Ibovespa cai a 167 mil pontos com incerteza fiscal; dólar fecha em R$ 5,44, maior valor desde 2025",
+   "fonte": "Estadão",
+   "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQNG9DcC1qREpJdG42OFZfZ0lBOGlmYVVsNlpfQ3FwaFNIcl85bV9LQVhhaTF4MjVuRThXaUttTnJkalQ0YmRpTy1ad2JuaU8tSHFtNG94VUZtWjRCbkdGTlpJNDhHd1JQUVdQMmhPQmpvd0hCbUFobkp5U1JPamxMQXBjaHJBWXZzQlhscHU0eFdyNVVJcGhrXzhQQmZMYUNvWHJQekpyN3NqMzJVRUpON3JYclV1VU9jNVd6dm93dEllT0hpRnU0VUxHck1xZ1ZNYWNwTm1BRXFQVlVZRUVCakpFWlpNU3hTWUVKMHhYNlZYQQ?oc=5",
+   "data": "2026-11-01T04:10:40+00:00"
+  },
+  {
+   "titulo": "Construção civil quer ampliação de investimentos na Região",
+   "fonte": "O POVO+",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNTC01YThydHRfNzVSMmw3ZUVuQUhQNTYzeXhDSUxVVmRQdERsWDFqdjgyUDlCQXhrX1hZWVk4TVBLaG1pc0k5aFFiaWNWSUlab2k1MnRKV3FfalJMd0hzc21hbFBXbVdKZHU5TGw2cktFVUhFcnU5STJhMTJyRTlGN0NMYi1DLWJFSUhpVWx1ZHJFTkVhS1lkZVZJNzZ4MzQtMW9mQXVrUkYxRXRKN1RxTnZJaHJ4RGVBYmc?oc=5",
+   "data": "2026-11-01T04:00:00+00:00"
   },
   {
    "titulo": "A inflação de setembro já dá uma pista do seu reajuste em 2027",
@@ -63,30 +87,6 @@
    "fonte": "Pleno.News",
    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOUzNnR2NhYU9xQjA5NFliUW5MbHhUQmhBYTBHTVVoRjdhSHRsNk9IUWwyXzZfeDlFM3RLTHVuZ2FUdFllQlVwUlJoQm1iX1RQQlEyUHV5b0RoZThYdXJGMHVldEVCamthRWZOeWN5NV9EU2VTb0lxRjZLNXFWOFBOQ3FYeHdOTHpKb1F0cUpKQjdQd2dSUXlRMtIBoAFBVV95cUxNOUlNcTJReko4TllMdVp2ZndTOTZ4bGFMVFl3UEh1WVRvQ0tkb2M3Tm9vU0dwNWlHbDcyeTVKeUtkempqeEt2NGlBNWFMcXN2bUtMZGdPc0d3VHlfOWVkbkRZSm1vc1F4dnJSTm5uX0lfVTQyMnJ0SnJybDlkd3BnaVVBZDc2RVdTQ0I0UWd0c2lUeU84UW5Ua2VUSzlBMlBa?oc=5",
    "data": "2026-11-01T00:18:00+00:00"
-  },
-  {
-   "titulo": "Crédito do BDMG para micro e pequenas atinge valor recorde de R$ 740 milhões e acelera investimentos",
-   "fonte": "Grupo Portal de Notícias",
-   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOb2p4akk5OHd3UTRRaEtPNlVvc1pBQUtHNExqczRlMWpubXNTalBWUXAyZ2ptWExBQlRJMXJKYkNneUNFRkwwdXNlUkZBcDBGX0ludi1PNXJJbzJkYmNNQUJUR1lobExVMFJrTFRrai1yVk9HdTBRSDZmdEhaNUFFeEhyVDRIVWxUTE02QXFudzQ1ZkNnX1dkblFvQVRXT0E5OTNHYlVLT1M2UDdkWk9iTV81UFhZeTFuSjNPNXdxWC0yOWZYQXQwWXNGNkRKOHhPTXhF?oc=5",
-   "data": "2026-10-31T23:53:11+00:00"
-  },
-  {
-   "titulo": "Brasil garante US$ 300 milhões de fundo global e pode atrair até US$ 1,8 bilhão em investimentos verdes",
-   "fonte": "Times Brasil | CNBC",
-   "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNeThRZlZuVDd5ODZYWFRYRndkNXZDSVNRWTJqVDJuWWU3WmFhNmpHQUpOeW1aeWoyblhkMF9INThCVVVSQms4RkpmSnZlTkJrLXN0ckZmV3d0RDlIdUs3WWFtbHhRWUJyWGtxRnI3VGsyOG4wQk9UWnR6NkxHeS1sWjAtaG5CX3JCSlREUEdEMy1NdURkc240RVhLbEtpSDJ2MUpXZ2NvYVpqTmtXNk1MMS15b25sTmVyUlpURlo1UnpQNHpSUHQ2ZUhhNkNjdG1USlMxT294ek9YS3JDQzBVaUdLMkY5dUcyc3NQTA?oc=5",
-   "data": "2026-10-31T23:12:00+00:00"
-  },
-  {
-   "titulo": "Novos códigos de Ragdoll Sword Battles viram estopim de inflação-relâmpago no Roblox",
-   "fonte": "radiogeekbr.com.br",
-   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE43MFpfalg3SUJkdUZDcTdVMy1qN2V5cHlwLTZKRG5nalVBNTlPNXZndU1lOU9zTkZ1STMxNEI1dFZfdW5pQktQZjViYjdjZWt2R2ZlRVZjcW13aGN1RnczYWg5Y2Jld0xsNXlxQXlqSWFLTFRDcE5UaXZFdw?oc=5",
-   "data": "2026-10-31T22:55:54+00:00"
-  },
-  {
-   "titulo": "Goiás intensifica investimentos em infraestrutura, segurança e saúde no Entorno do DF",
-   "fonte": "Portal Serra Dourada News",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNVHBCUXpidFd3RXk0dFZCbHdNeUhOcG5EUUVTZ0Z2SUJ6NVdrVnRFQ29oeDdnaDdvcGZCMHJVUW1zVXpJZExCZzh0Wkh0SGRrd1lQbklIR01OVmUzY2lNN0drM25seDRSTXlQR2lJcWtuaHpvWnU2T185a0gzTzVqMk5FM1QtekM3bHRfYXVzcEhuTGtSaVdVdzk1bDNWTjFlSXFaQVU3ekx0Z3FQeHpHUGRLQUVKYkN5V0c2NS1taXpRVXM?oc=5",
-   "data": "2026-10-31T22:47:46+00:00"
   }
  ]
 }
