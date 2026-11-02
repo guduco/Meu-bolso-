@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-02T06:04:09+00:00",
+ "atualizado": "2026-11-02T07:27:45+00:00",
  "indicadores": {
   "selic": {
    "valor": 13.75,
@@ -16,6 +16,12 @@
  },
  "cotacoes": {},
  "noticias": [
+  {
+   "titulo": "Mercado chega à semana do Copom com expectativa por fim do corte de juros",
+   "fonte": "CNN Brasil",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQYVJsajR2QVc3dUVYTTE4MnU0Y3F0d1pOdEVRSmdESmEzZ2pseU14YVZHbkFTZXhzWVpkRkgzTXJhUUJpdHBsTE5DWWtDM1JYUE9nQW12dUZGa25HVm1yNDlfMkI5RU1jb0phVTdXOXE3N2plbTdSMW9IVHVwcldqTW11NFl2WlBuUE54WTBVRG56RzJqNUJ6SkFSWHNpbWpjU2tDcHFTcnh5UVpCZE9YUmhrR3pBRGNaTFJMQ0dHTnZjMWV1N3BtREgxUmQ?oc=5",
+   "data": "2026-11-02T07:10:46+00:00"
+  },
   {
    "titulo": "O deputado da Assembleia Nacional, Hoang Minh Hieu, propôs restringir as funções e reduzir as sobreposições na Lei de Investimentos.",
    "fonte": "Vietnam.vn",
@@ -53,6 +59,12 @@
    "data": "2026-11-02T05:00:00+00:00"
   },
   {
+   "titulo": "Ibovespa hoje cai aos 169 mil pontos com risco fiscal e inflação dos EUA; dólar sobe a R$ 5,38",
+   "fonte": "Estadão",
+   "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNazlHcVUzNmE1dW9mRF91UXNTMzA1aEVoVzJLX2twRE83bFJTOTQyT3lBZ2NWM3hWVEtmM2NpZmNHVG1mbEJqbEFiQVljeDR0NmFWWXN3YW1LdVhuOUJib0xVVEJ3dlpranJtQWl4b0JiSnE3aVkydjRjVUFuZzJWSm5aalZlSWJtZmduWHlJMEpkUHFGS3Vvelg4ZTNTc1E0YTRxMjFTcmhRR0pYYTk4SWo0UDdVdUlwMlJVbGpndHJ6ZkVkRGNLLXNlVGs0MWRhQ1VzWnVWYmtzZ0Faa0J2ZkpEVzduV3VBMFJyU2l3OVhodXl5QlNj?oc=5",
+   "data": "2026-11-02T04:49:38+00:00"
+  },
+  {
    "titulo": "Dólar, oferta baixa e exportação à China colocam boi no Brasil na rota de R$400/arroba",
    "fonte": "TradingView",
    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1oMGl5cU5NNTZSWHVDNGhNY2s1U0Y5aUFubG41Mno0UUUtS3hQbDhBSFFOSXhPdUY4SkNlbnBKeEhPT0VLMngzSXFxaVZvR3l6TU1PbWdBTVNfSUxuVHFVYjVjREtqcVU2YWc4eUFaT2o2akJGWVh3?oc=5",
@@ -65,28 +77,16 @@
    "data": "2026-11-02T03:53:34+00:00"
   },
   {
-   "titulo": "Uma proposta do economista André Lara Resende, um dos formuladores do Plano Real, para reduzir a taxa Selic por meio de um novo arranjo entre as políticas fiscal e monetária pode chegar ao presidente Luiz Inácio Lula da Silva (PT) e já provoca apreen",
-   "fonte": "Instagram",
-   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1RdFJUVy1JZWFiel9kQ2xtU3dmSnlBbXdmcWJvdWlCZVJkYXptaTZLUWJrRGNpdXE5aHZvcjlsVHowZFBremxVQWczUmtBM2o0Rmc?oc=5",
-   "data": "2026-11-02T03:41:21+00:00"
-  },
-  {
    "titulo": "Decisão do Copom sobre a Selic e payroll movimentam semana curta",
    "fonte": "Acia Araçatuba",
    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNbU41VldhMDZ5U2ZiR3J2SnhHVExiXzlrVXJNRlprXzZQbkFYRFF4X0JKRnZyeUpDcnNhY1hYbjM5cG9MUVVLand0dzVqSkpnMkNHUnVmakdxS01fZ3RTM2xqZjBMODJGeDZHSVR5bzJTelhsckxmbVJHWXlxbDRBMDJocnF1UGx0U2lN?oc=5",
    "data": "2026-11-02T03:38:19+00:00"
   },
   {
-   "titulo": "Mercado amplia aposta em pausa no corte da Selic após eleições",
-   "fonte": "Jornal Diário do Povo",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPWkdVY3diSVZvWVNJSl94elo3ZVJBRFZGUEVyTzhpT1cwTGt5RDRjaW5aRFY3dkd3c2NJZ0UxaWRySzRFWUR4Mm1UOWdlekdzTDYwaGRUWnJuUmttQVl4b0tWdjViZ3lrUjI4cElRUWkzdEJ1UFpBRkVsaVpKem45WXFHbTFzclh5dTcxVElzczZxVmNLTmFuT0ZhQ3R3VG5HRVNnSnFB?oc=5",
-   "data": "2026-11-02T03:30:00+00:00"
-  },
-  {
-   "titulo": "Ibovespa tomba mais 2,6% com incerteza fiscal e temor sobre IOF; Fed mantém juros inalterados",
+   "titulo": "Galapagos lança ETFs com 80% em renda fixa e 20% em Bolsa; veja custos e funcionamento",
    "fonte": "Estadão",
-   "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNdzdQZW9Ib3Z2SHR3alAwTTNQRVBNaEpTQnpqU1RMVnZGSzdkTVVWdlhIUTF5YzliOWdNRjlPZmg4Y2VmeHY3U2d2bURFZEt0QktDZ1ByemxYVnlySGxlVnNDZDZYLXM0U0ZzQmlLV0tSdjRWSzFYcXc4Q0IweURmYS02dGlPbzBhSjM2Y0M5VGtxWjU5Tno5R3VHREhkRVFnV2JXOUFKYWpnLUtfMnJZYjdOSlZmWTZJOHAxNmQxYmVNTFhTMHF0WnRMcWxkSG4ySVMyM1I3cXZzdDNHZDJTSU0wZDAtQnVoVUNzYmN3?oc=5",
-   "data": "2026-11-02T03:25:18+00:00"
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOekJobS1nNTRCVFc3Nm1TUEJjcGRmR0lIMWVNbk5NN2V4d0pxcU4xeEZRMmh5WTBrSl94OTVlbTkxaTVPMnZRRVZVRWU2N3drUHhfN0NoeW5HNWZxYTE4eXhpamc1MEl4QS1IX05RSU1kODBNZ3NpT19HdU9WTUJfcWNrN0FjMFMwRlRFOERRbFZNbzZuZ3VvWlU1QXc0dUF0YjFoWnpXRXdMb2dnYjFEQmhWMnlPM3hFZDk5dm5UVTR5cjFtRmYwRS1IYw?oc=5",
+   "data": "2026-11-02T03:31:23+00:00"
   }
  ]
 }
