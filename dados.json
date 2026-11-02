@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-02T02:06:19+00:00",
+ "atualizado": "2026-11-02T02:56:46+00:00",
  "indicadores": {
   "selic": {
    "valor": 13.75,
@@ -16,6 +16,30 @@
  },
  "cotacoes": {},
  "noticias": [
+  {
+   "titulo": "Raízen (RAIZ4) dispara 7,14%, mas acumula queda de 68%: o que acontece com a empresa?",
+   "fonte": "O Petróleo",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNcmlMTFRtZW9OYVY1OG9NclhhZFNBZkpIZzJidDVFcWFmMjBvXzJ2VnFtbS1XQXVNOXhRZi1QdHZEVFVpQTQtMnJwdGRqbHRuTnM0MVlJT1ZQdjRVZjg4amktQThNamkyTFBKNkxkaTJMV1FwS3V2Z1hwcTJKN21jV1E1Tnozckl5dWFUc2owNVhxaC1CRm51T3F3VEo2UVVEVHNscllR?oc=5",
+   "data": "2026-11-02T02:40:45+00:00"
+  },
+  {
+   "titulo": "Petrobras (PETR4) chega a R$ 52,71 e dividendos de R$ 1,48 por ação entram no radar",
+   "fonte": "O Petróleo",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNZ1kweVNCam85SEsxbjJrTFl1azlGTUFqUWlBY0FaRmZWb2dBV1d0bjE2QU0tdk1jZlpONmxzSmdiWGhGX1VqY0M0UXBVMGE1SEhKNW4yMmV2S1BmUW1GSmIxOUdnVUZyUFBuX1g5R1Q4SFNHbXJrMk5DQlFFSGo1RGV3UHVfZFgyOEZxbEJmY3RGMW1jWXBPX0hQNTBQOUJTWlNiT1Fn?oc=5",
+   "data": "2026-11-02T02:18:44+00:00"
+  },
+  {
+   "titulo": "Por que a queda do Ibovespa na reeleição de Lula foi a maior já registrada",
+   "fonte": "TV Sim Brasil",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxONTUzdzNzYk9xU3RRX0Z3VHp0ZHU3MHl6S1I2SXp6TVV2UWxrUmtjT3RjRGdqczg3N2RTMHc5THM0WjlMVG1yeTNTcjhMOTQtS2Qyc3haZk1SLXRCeXVUdEQ3LUlrOFlwTDJqU25jS2RnWUdLMjJUR2VvVXVGdGh4eU1yUzZPQ3k5cjhCcWFiX28xTWJ3UlFIVnM4U2FObGlHdnc1a241VXU?oc=5",
+   "data": "2026-11-02T02:17:00+00:00"
+  },
+  {
+   "titulo": "Copom, eleições nos EUA e Caged: veja a agenda econômica da semana",
+   "fonte": "melhorinvestimento.net",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNOGh0akZwc0JmVVFLZ05mYTQ4aXVrN0RYRTVkUXF1U3l4OVM2V213czNTUl9fYXVqMW1xRHZkVXc5OTRNSU04SDdUM0IyMW5jUHRGTGt0M3J1QkcwbHBldnZlcTZyOFp5a1VSN201cFdFbGhSSnhFNkJsZ2ZzWHRIek0wVjBMT0ZXNHlV?oc=5",
+   "data": "2026-11-02T02:09:18+00:00"
+  },
   {
    "titulo": "Opinião - De Grão em Grão: Quais são os três maiores erros de quem investe em renda fixa?",
    "fonte": "Folha de S.Paulo",
@@ -35,6 +59,12 @@
    "data": "2026-11-02T01:33:00+00:00"
   },
   {
+   "titulo": "Preço do BNB hoje: cotação em reais e dólar",
+   "fonte": "BitNotícias",
+   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5IRWFEVnJ5Z3RQNEs1dnNLdEVwQ1Qzc2UwalRiTUJzbUNhS2h3aGZVd0FvRmtlMHZvaUl1VDgybHVWd1hmN0F2Nm83a0phRW9o?oc=5",
+   "data": "2026-11-02T01:09:38+00:00"
+  },
+  {
    "titulo": "Dubai do futuro: Goiânia mira mercado global com sofisticação, lazer e novos investimentos",
    "fonte": "Diario de Aparecida",
    "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPLUlJZXZWLW9NczhJTjM2eV9RcHoyM2FaX1p5ZllfZ0hndi16YXl4UHFHZnBNdkljd3B4X1psYzFncVJJcHRaWWp0UTBsa1NTb2ROeVlZSklQejcwdzlodXhtLXVnc3MxUWlGS3YxZy1BaWxsS2o2MWxCdnhvWWRYbVQxUDhGSzdOeEpHMGtTZUdiUVJUdnhHdC0ySzNpRmd1LU9jSVpDRkl1NGFqcVhqaW1oMm5WUHpQZG5JUEFMY05MREc5ZGtScFlrYkFJYXZGWGtr?oc=5",
@@ -47,46 +77,16 @@
    "data": "2026-11-02T00:55:55+00:00"
   },
   {
+   "titulo": "Prévia da inflação cai de 10,34% em 2021 para 4,62% em outubro de 2026 e alivia pressão sobre alimentos",
+   "fonte": "O Cafezinho",
+   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQa3JrMGFzT1FUMGY3SlVUUXVtcDZ3N2tfQjEyUURGSTIwbHpLa0lhWGgtSDlHUGJjYmt4Q19xMUtYa3BZTlVOTjd3TWZ1Zjd5UDBXTzhidno3T1k5WE1IZk9UYUkwRFF4TjVUYnotMngxSWNCdThJOGlLUGc4WGlQcXRnMUxLR24tNzU4WnBlcEJfbFFQVmE5Wlctenh2NDAzYVFWaTY3dklDdHBxUUM4ektiem0yV0t5VHZqWWtDbWxKTUxaUzRfcmpQS3pJTGtQMVdxNWk5VFZoUdIB2gFBVV95cUxQa3JrMGFzT1FUMGY3SlVUUXVtcDZ3N2tfQjEyUURGSTIwbHpLa0lhWGgtSDlHUGJjYmt4Q19xMUtYa3BZTlVOTjd3TWZ1Zjd5UDBXTzhidno3T1k5WE1IZk9UYUkwRFF4TjVUYnotMngxSWNCdThJOGlLUGc4WGlQcXRnMUxLR24tNzU4WnBlcEJfbFFQVmE5Wlctenh2NDAzYVFWaTY3dklDdHBxUUM4ektiem0yV0t5VHZqWWtDbWxKTUxaUzRfcmpQS3pJTGtQMVdxNWk5VFZoUQ?oc=5",
+   "data": "2026-11-02T00:51:00+00:00"
+  },
+  {
    "titulo": "Dólar comercial fecha outubro a R$ 5,42, abaixo dos picos de 2021 e 2024",
    "fonte": "O Cafezinho",
    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNZm0xMjBQVFNKTnBnZlV6aUx1b01lQ05aYldLT2cwanpXQ2dyOFNkSk1udjktd25GODVJNExPT3ZuT0ROWG9VdEI0dFgxTU1WMEJYZlBuMmVkZ0d1TUNaczltUFJUZE1JcUc1ZzlFQ0p0S1NtcS1ZdC0wekpvMEtSaDFhc2hFMFVIVGZwdW1xTmtKQ3NOQmQ5VHBvcVVNVk9PYkR2NTBkTm1DTC1xVnBmZUNvNkJ0eTTSAbwBQVVfeXFMUEZ5S0dNRTRZNEVhbUNDeFI0LU5BTlAxb0xpVkMwbWxUWDI2ZlowZ3pNc0gzOHRTQWtWNTh6UjRCSFRmZDhPVFk5SXB5R05UV1dPRzNNOWd6dk5pQjdDaklvZUlJUjNQakh1YkRrYllyandEa1lERTl6V0M2WFRTcUE1TnQwZ0ZCVGhpM2w5aDN1cFppOG1yanZldHUxUnJzaXNBU2JxTVRLQl94andvY004MVo0OXVHNzRUSTc?oc=5",
    "data": "2026-11-02T00:51:00+00:00"
-  },
-  {
-   "titulo": "Dólar comercial PTAX fecha outubro de 2026 a R$ 5,42, abaixo dos picos históricos de 2021 e 2024",
-   "fonte": "O Cafezinho",
-   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOMUd4SFJwbVFrajQyWk1JaHZnSVIzNDhyLUFzVjlFSFJ6WTFsT3dGRTg2cU5YMVg5bmYtMVp4UTgzTEdMR1RSSWdzLXA2dnRPQ0VYLWhDS0lwUUQzZnBvN3FpMWJjX1dzQ2d1bF9WaEQzU3lEdEZ4Wk8zVzRWaXhsZDA2VnM0akRaSjIxUzctQzlTU3dTbVlYczdFd2pzbjRmU2VEeVIyMnJJR01rbi1uMWFuWFF6SXBkSlcwNC0xWUszUm42WVNmUmV2WHXSAdIBQVVfeXFMUHVPZGh6VnM2TTlsVUFaUC0zN25FUEF2NXZhMThEN1lZLUtaSXRWRGZmNmFWYUJnSWhJcWRISm51aDlhMWctaWZTazdaRnIyNGc4OS1CMWZTV0l3ckR3dURqazNDOThuRGZmdzlncE1iRVdDY1JHT3N0NXhnZEJic09kNVUzbG9xMlpCejhZdllTVlpDdmFEMEpEci0tYkR0T29KU3RlZTBkT2hGMS04UnFRSHNzdjRwV0ZHWEYwU09xX3VtTk9RQzlJMVB6WjRKMTF3?oc=5",
-   "data": "2026-11-02T00:51:00+00:00"
-  },
-  {
-   "titulo": "Proposta para limitar Selic entra no radar de Lula",
-   "fonte": "Blog do Esmael",
-   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE91em5HRVVFM0R5S0xtLXk5alo3NW54RllCWnJSNEswZDQ5VjlveUE3RUxCYjg5SVUyb2pkSFVFR0M4R19qMTl5WVRaR1RlNDVYbmJodElNVmRoVzdKdzV2ZkxlSWp5RFI3X1NBeE8wbWF0Y19QZHF0MndoMnowQQ?oc=5",
-   "data": "2026-11-02T00:33:10+00:00"
-  },
-  {
-   "titulo": "A Assembleia Nacional debate a Lei de Investimentos, a Lei de Doação e Transplante de Tecidos e a Lei dos Advogados.",
-   "fonte": "Vietnam.vn",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNM3lwTlRQN2xfNXB5ejRpaW5WdTIzUW8tUjlXaFpJWGxLQzl0ZVhQYTZUNFMtMXRTME00eVRtMVJ0SXc2elV0WTVSUnRPV0hMSHZQWDVGM0FTamNDZDRpcFVYZmtXWjVLNzI4MDVoLS1PSlh1bTAzZi1nQkJMSDY0VnU4dnFpYUU5S3NkWDRtNEdjY2hFTXEzZVhR?oc=5",
-   "data": "2026-11-02T00:28:58+00:00"
-  },
-  {
-   "titulo": "Por que a proposta de Lara Resende para a Selic assusta o mercado",
-   "fonte": "TV Sim Brasil",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOeW5rWlJtZDNuMkNxQkc5UmhCaXBvYjdMbHMzd0xtVkFnRF9TVEI1RzZtSllVNlFZdWxUc2N5OGZoNlE0RU14YkZVbjg1b3plMkhFZkR2aGNWU092U1F6ckdST1ozblA4bHpPZlF6NkRGeldlVVVLbmlJSlhQeHZqbGQ4cGtVWFBJZmE0bThhYzRVeGI1SE5kODU3clNDMk1aZ1NheDlvS0M?oc=5",
-   "data": "2026-11-02T00:27:00+00:00"
-  },
-  {
-   "titulo": "Direito de Investimentos - Lições de Diversos Países; Nova Lei do Quirguistão: Define Claramente os Direitos e Responsabilidades dos Investidores",
-   "fonte": "Vietnam.vn",
-   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNbDlPcG5IM1RfUEhybUcwYjZKaDUyaGVzRG1JVE14Qm1CTGJBYy00OEhsc1lqeVZMeXNrYU83VzFRX0F1bF9PM014TGRqcVZoOHRKMHNVdUlPZ3hQM3lfaDdKZGU3Z0tNQk5MblhIa1VvQm9WelVicXcyN2s5QnVTT0xySmNlWFE2alN2U2prb3U2MmJSc0c5ZmVNOXMwTmtKU1lEZ0U2YkpRTjVPMnBGclp3a3Bwdm1iTGM3VHByRVBFbl9aQ29LYVhaMUFGSUh5LThUZlk5cXp6LUFWNGswU3FiZUMtUQ?oc=5",
-   "data": "2026-11-02T00:17:03+00:00"
-  },
-  {
-   "titulo": "Lara Resende vai propor a Lula plano para forçar Selic a 7% com reservas",
-   "fonte": "BM&C",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQVU9rUnB6bWttUGd0V2UwRjN5d3VOOFhYTmhuOUxOdXlPMlRHVWYxcmpMQ3pmRmNfWFVEZVQwZVh1S2V5NkZYYjN0d2o5UjZZNlFEWlVGT0xqMzlFU1dNU2NnR3ptODFVV1ZKNFFDZmduaXlOMEdHT2FFalVnVkdfcFV3T01mZ1V2LVpqTE1NeUpqdXBlV1hsQXVTb1h6a19xR3NRMWVyNA?oc=5",
-   "data": "2026-11-02T00:09:00+00:00"
   }
  ]
 }
