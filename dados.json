@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-02T17:58:41+00:00",
+ "atualizado": "2026-11-02T18:56:55+00:00",
  "indicadores": {
   "selic": {
    "valor": 13.75,
@@ -16,6 +16,42 @@
  },
  "cotacoes": {},
  "noticias": [
+  {
+   "titulo": "Ibovespa tem novo horário de negociação a partir de amanhã",
+   "fonte": "SBT News",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPVXFmSVhEZVZEWFUwSGM0QlhDOTduNXQ3OWp5RDVieGZrY05GV1hRYlJLMHRZY1Z0eVJrYzFYd0Vtb2Y1d21pTFVwMk5lcjhhUTZRNG1pa3k4MVZiS2otdXVLbUFqN3lmQXpTTklYeGNzbUM4a0NQWU9vUXN2MFk1c2xkQkMxcWNmbERB?oc=5",
+   "data": "2026-11-02T18:35:47+00:00"
+  },
+  {
+   "titulo": "Embraer vende seis aviões militares para a Grécia",
+   "fonte": "Jornal Correio do Brasil",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOcHJuZkZjNl9RWjRNa0haMHl4YUhpU3F0emZ2UEsydVNpYUxaM0syNllSemx6bUJKQXpnRGZQNEpZalpHQTFveDM4c2JLM3paZjNRM1RablZxT0VRRTB0ckh4dHJyZXlhdjZzOU5SMWRNdjhhZXhGVnFvNnoxX3ZLVA?oc=5",
+   "data": "2026-11-02T18:35:10+00:00"
+  },
+  {
+   "titulo": "Deputada propõe reajuste do Bolsa Família pela inflação e pelo PIB",
+   "fonte": "MundoBA",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQSFVrMThDejJhWEJOTE1aR09vVC0zcXIwMTdaMFVhRmZKemh0Y29BOVhsNTd4UlpobTNIaXBQR3ZpMWtGSF9ISEdCeHhGY1ViUlk5TXdYZUZiVGRRUktWMEF5c3VUU0JEaWhQWTAwODZCbVhIR2lhV21YUXBfR1ZZUzhNN09Da19UTmpha3hjSldxZ2lkTVgwb0ZORlk5UXNB?oc=5",
+   "data": "2026-11-02T18:29:01+00:00"
+  },
+  {
+   "titulo": "Banco Central deve manter Selic em 13,75% após turbulência nos mercados",
+   "fonte": "Vero Notícias",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxONG9xRUpGUVNaYzNyV1FZTHh0U0hIU0x5TGtFNzNyU3FQYmQtNEhvZ05JdlVuTHhKN1A2Ql9YblpTQmhnMjJLdmxTWlRxcFpDbHk2RkVDZmdXc2djMkdUZnBEYVE1N2ZZU2FPNTlwMmdTNGNJRzQ0bzY1TEhWZWxzNzlOVGc2eGxUMGRRLU55X2NacDNBcm5yM0hScG90TGk0eUNZZVpIQQ?oc=5",
+   "data": "2026-11-02T18:10:00+00:00"
+  },
+  {
+   "titulo": "Investimentos em construção nos EUA caem 1,9% em setembro ante agosto",
+   "fonte": "CNN Brasil",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPUGlqcWlPYUhnbFhveHB6Wk4wdDdzaFZreHJWUDhVaGZMVFhjMWdSNW9iamk1bVFMbGNnS0hyQy1jNGxlUnBtd0JlSU1wbk1NbWdGVWRfODJfOGY3RnVLWUw0cHFiNmN1eVd4TkxwcXhpekRGeEFSUV9KZmJZMlpXUlFRTGczcWEtRi1aZVl6VVpyU2U0VHN5S1pzOVdBTWktUV9KMV9QWl9xYkZ1UXVhY3liMm9xSjZ3Z1dNdzNHRkstSTZX?oc=5",
+   "data": "2026-11-02T18:04:18+00:00"
+  },
+  {
+   "titulo": "Mercado espera manutenção da Selic em 13,75% após reeleição de Lula",
+   "fonte": "MundoBA",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQOFJvWnUyZWhCeXZGcU9xYkVUYjQ3T3dkQ1NhM0lxQXNLTU1VMFl4dU9WLTIxZGJyejdCVkp1T3h4WktaUmJNMlBhemdFekZ6MHdvekI4ZmJuN01aZlJVV2lWUFFCb3FfUTA4WnBHTnZOSE5ua3cyb2dwQ3JzZG1YV2VwOExmLTEyUHJaa1RyaTlZaHQ2YVR2dDMxeXBoNlk?oc=5",
+   "data": "2026-11-02T18:00:00+00:00"
+  },
   {
    "titulo": "Midterms 2026: como as eleições dos EUA afetam o dólar e a Selic no Brasil",
    "fonte": "Game Overdrive",
@@ -35,6 +71,12 @@
    "data": "2026-11-02T17:51:06+00:00"
   },
   {
+   "titulo": "No Dia de Finados, balões brancos sobrevoam cemitério da Cidade",
+   "fonte": "Jornal Correio do Brasil",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZzYxRXdjX1dJOTFzTElJeXZMT2tRNThjbUh4VHFDTG9ONEsyUUJoa290NE40ZURCcXBFWTY5OVIzdlVHZFowQUx6M3pCcl9OMEFOelBSdEZwQzZhX3IxbHZEZzE1V0VWUi14R1d2aVBXcm9falloUGV3bzVJWkdIZm9ZdGQ2cjkxWDNjdzI2VzU0OVdfbWc?oc=5",
+   "data": "2026-11-02T17:45:18+00:00"
+  },
+  {
    "titulo": "Investimentos em construção nos EUA caem 1,9% em setembro",
    "fonte": "Times Brasil | CNBC",
    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQM09qeTB5YXdCaFZYS1lwYlJNZHpuajgwVnpzclZSeE9lQWlHLTJ6TlZvdGNyWURnd3Vick1XQ2hUdWlxdTQtbkg4UWVxQ0wxTUhvNlc1dXNMNHQ1TkNVVzBOVVJlLW04MXJWLTI0R2hIVzExX1BiZlAxQWRyZXlvbTlPal8zYjF4aGtJV0d3VTVZZ1Q4dHE5TXBJN19IajJKWjNKRGpB?oc=5",
@@ -45,48 +87,6 @@
    "fonte": "Jornal Correio do Brasil",
    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOX2ZTb29wemdjYTBBSFIwdmZRMEgzakdNUkdqRGN5ODVlbEg2R3V1cW90YzV1N3hiTndSMkZZRzdHQk9iQnFBemlDZ3BFRS1PZGU5aS03R3F3b0tPOXk5Q0F2QlY0WkZUaWhMTnMtcmlXMDBNZ1NpQ1hGZVVqTzdtSzkxdFBJbVdPQW0ycWdXWmRPTUNIY3Y0dzZB?oc=5",
    "data": "2026-11-02T17:35:30+00:00"
-  },
-  {
-   "titulo": "Rafael Fonteles mantém Emílio Júnior na Secretaria da Fazenda e destaca controle fiscal e investimentos no Piauí",
-   "fonte": "Cidadesnanet.com",
-   "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOaTg4a3BwLUJNSW9Ub0RnMzRwWTBLeTNnLXI5SExQbHJvczYzc0FPVXJ5aGVJTVlhd19WMGczWXJCVGZCMExGbDFNTXgzT0owei1KODlLQjU0anlQbHJyeHBHZkdHSzNGM0F6eXFlZThNNXpGTTVwc3ZzNkpfNngwalRzSG9qRHRKT0RmUENfV1REWTFSblUyWHRvQzVKSEdQSzRaeXh0d1FoQ0xfSFk0VUxWLWR0VXRhQ3RMcTBCaVZ3UDFFdTJ1aTBCeDZhRXp2dlZhdGIyRmI5SHBHTXg1R3JjbmdJSWNvcDg0Tg?oc=5",
-   "data": "2026-11-02T17:33:51+00:00"
-  },
-  {
-   "titulo": "Brasil tem custo de pesquisa clínica até 69% menor que nos EUA e atrai investimentos de multinacionais",
-   "fonte": "Biored Brasil",
-   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPbzBKT2lDQTg5MERlWVgxREpfdDBqMDNBVU9HSTJFcVdZZldiMElQbDZJNkZxUmNqakRLSDB5Qi14VExtTTh0TzVZclA0d0FHWS00ZlNBeU94N2NDRE1WNEVrMmR6SXFZY1kwTnpSS1NUWFJTcFFidUg0ZlBSREVvTXNOck1VdEhnQzRRR1pzRWRkOTM1cFZzbVFKSEdsLXkzTWhCYWh0MlBqeTJ5VGxkc2oxVXVHR3BaQ1U5LThBYS1hNjBjSUYzZktBTVpIcUE?oc=5",
-   "data": "2026-11-02T17:30:04+00:00"
-  },
-  {
-   "titulo": "Copom deve manter Selic em 13,75% até dezembro, prevê Oby Capital",
-   "fonte": "BPMoney",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOcDN1Tk4yTkpsOEVReGdpbEl0Y21RdWJWUzA2cWEwaTlDYURZTTF2WTQ4eHlYSmlVSzlDQ3JVZHAzT1IzVlZNZWgzYWl0Z2puenJKTHFxVzNuWjFwaFdHRVNTTWs2MGVscUpBeWhsVFdaRnhEOVRzR3VWTzhkcFN1RG51SEFBeldnclZYOVV3bGY5YUFTaW9MeXR3?oc=5",
-   "data": "2026-11-02T16:59:24+00:00"
-  },
-  {
-   "titulo": "Eleições podem mudar planos de Trump e mexer com dólar e juros no Brasil",
-   "fonte": "Portal 96FM",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQLUtobnAwZlNqNDg1b2s3a2l3ZFBmTDhLeV9VVzhON2RtMnlTTjRwNXRGSG9DdG9EQ2VYRDY4VGhnWWIybThHZXItNmczczhIZEFSOV9XM2g0eDV4N2JrTC1xNEJqTWJPVEpmOV85OWpDaTFmV3JaTlBCclk2REh0ZWYxR19JZFRFZ2ZVZGY0WElfejVTczhNYW02R20yZDFBak5tTEdSak9ZeGhhbFZ1VC1MRFVNQjVibzhUam9n?oc=5",
-   "data": "2026-11-02T16:44:13+00:00"
-  },
-  {
-   "titulo": "Lindbergh critica projeções do mercado para Selic após vitória de Lula",
-   "fonte": "Correio Braziliense",
-   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNaGpLRXM2ektiWGdDV0R5cm9IU2MtUFA5dFlLcTd6VFFOdWwtTmdyWWZ2dVUzYVc3elpkUkpzdmdmMXJEQnRTV2gzZ0Y3MThUQUtiVDBBS2lPc25ZbWhDZ1FqU1NkR0RLYmxfSXVLdW9sTkRCSlh4ODRXYzZwMUZzWVFtd05ZNXlWN0FsUkJOUHdPdS1ha2NVSXNTYzVNWlA4d05VR1ExYzk5WTBYazRpbndNbXZoR0FVZ2xrVXplLTBzSDRwd1N4TC1XamJNM1k1OEk5adIB2gFBVV95cUxNWTFuSThvbGFqUk5OY09xVGlYVmpmUC1pRGJpVWllU0xadmY0bHpXTkRhR1hESlB0T19OeFlwU3BEQ1pwb1hKUC1xbWFhUDBUUVp5SHBnOW5MX243bTVDYUNLTHl1MTVpRzFkOGtfeEk0SUxVS3FFSG5hNHd2ZFU0ZlA4OGlrNVV0ZG45NXNha1VOdmhFTEFLVW96bV83endqSmhGWEEzME9BOURaMjdPbG5IQkZSQ3haWV9XR2FkR1hfOUJnUDA0MWVFc2pfSEFzNjUyZzVQTmREZw?oc=5",
-   "data": "2026-11-02T16:42:00+00:00"
-  },
-  {
-   "titulo": "Copom vai manter taxa de juros em 1ª reunião após eleições, projeta Itaú",
-   "fonte": "Estadão",
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQQlQ2RHl3VmtvbW9EbXAtNGVKeHlFOUJQSlVfTzNtMTk5ZEJ1bFNCQlR1RDdvYjNVOXZNb1BGd09GN3J1a0FrY3dYcTNqbllpdTBvUUhDX3lKMlhXSXdSS21OcnROUWNuOHV2a1J6aXI5MW1nQXBEa1NUcWpHaUNvc0FHNDgzWVlkbUwxWUVGSkp0VjhaN0Y2WXktTGVXck1WTk1QRThXcXNod0ZNNzBLNnRUWGlRR2FSSkZmUkNTWFdvbXJwN3c?oc=5",
-   "data": "2026-11-02T16:41:49+00:00"
-  },
-  {
-   "titulo": "Lindbergh acusa mercado de sabotar Lula e cobra Galípolo sobre juros",
-   "fonte": "Metrópoles",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQel9RWjQxS2IwaFZuWUVVOUNzNFZxYlk2M1ROeEx0UEl1ZWlIQ2hvalkwSEZwdTR5ZnhURGkwLTdoTlpZMEswYjlrRExYSnBpU2NIQ05kbGVUMFVRenI3VnhobWJ4LWNlWFVkR3dPN0JQcVpsejBsaU43dkItdlV2SDVyb196MlpqdFY4NGFSVnJEMXJLbm92VGg4LWxsbVFDSmtZNUhHR2hHVjN4dEJwNnZ4V28zMl91VXBQNWVR?oc=5",
-   "data": "2026-11-02T16:39:00+00:00"
   }
  ]
 }
