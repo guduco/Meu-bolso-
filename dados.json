@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-02T05:02:01+00:00",
+ "atualizado": "2026-11-02T06:04:09+00:00",
  "indicadores": {
   "selic": {
    "valor": 13.75,
@@ -17,16 +17,46 @@
  "cotacoes": {},
  "noticias": [
   {
+   "titulo": "O deputado da Assembleia Nacional, Hoang Minh Hieu, propôs restringir as funções e reduzir as sobreposições na Lei de Investimentos.",
+   "fonte": "Vietnam.vn",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPb0g2MkROOHkxSlFkM3QyMFRhVUdmaFh5czhPaGNHc2RxMnVUMjhxZUE1UEs2NmFWMUhycjVSamgyRjdLM3B1NnJUVU9lWllzejdGQUZqTkJYa3podXFfNU1ZRlBpYnVSOXNacHUyNzBCOE0wOFROZFo3cXVOTFZ5bll2dDFGSHBuclBuQlpyMGpmSnpTUnUzVHJHSkcwRmdwU1RXQkFHdw?oc=5",
+   "data": "2026-11-02T05:52:38+00:00"
+  },
+  {
+   "titulo": "Alterar a Lei de Investimentos: Eliminar sobreposições, garantir direitos e a eficiência dos projetos.",
+   "fonte": "Vietnam.vn",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPY0IxS2xicUVCNkJLN01ZMDdXRkM1b1NwQUhFRlp5N0JWclVSTjRYakVEZi1rYXBKMzJ6ZWpGMVdtQ285RGRfT0NfdHBQSVdFdWwtdWRDUnZ4bGpUWXozLWdicjFmMUlzMUNNRDRpYTNoUlVPMUJqQ2VPalE1bVZBbUg5NmFtVlV3REJJRVlucnl0MUpybC1LVWFZcw?oc=5",
+   "data": "2026-11-02T05:41:56+00:00"
+  },
+  {
+   "titulo": "Midterms podem limitar agenda de Trump e afetar dólar",
+   "fonte": "SpaceMoney",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE8xY215dThvZTAyOWJNdzR1U3laRWd5czFXWDhEcE54RUlaZXo1YzQ3SVdjODNwZ1RvblJnOFlfM0IwQWE0MnNXdi1uSS11S2JlNW5iWThkMFhUcFpiV2FQdHgtbFFqVnRNTHlZVjR3UWViZmRWYVNVR1JQZw?oc=5",
+   "data": "2026-11-02T05:39:03+00:00"
+  },
+  {
+   "titulo": "Aprimorar as políticas de incentivo para garantir uma atração eficaz de investimentos.",
+   "fonte": "Vietnam.vn",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNdHRiMDI0WXhpU3FuVm1GMHZWbVZHMk9oQmlxUm5teWkxd2pKd3RENU9reF9PcmxwVUpYNnZ1bGZGOHdGSS1xcWZkYXFZS09nWDRnVTR1T3o4R0xrdHBXeWFEUERwamNLbjJZYnlHOTJiTGxxMHBFZVdEYVdzWmM4bXVlNTdQQWhWMDhMNThNcw?oc=5",
+   "data": "2026-11-02T05:30:56+00:00"
+  },
+  {
+   "titulo": "Eleições midterms nos EUA podem alterar planos de Trump e afetar dólar e juros no Brasil",
+   "fonte": "Folha de Curitiba",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNNmlvcFZxd0Z5d3pxbWhzalFVZ2pPdW5nU1c5cGpqZmc1b1ZCb25jT09sU3NPYkpEMTI0bjk4cTU0dFotazNBS0FnZnJ2Vmt5azBQSG85eVNMY2gxLWhUcXFYR1RpQnh0Q0dGQTB4djdUckVaSE1FY1JuWmp1WGZsYzlZeDFudzZ5MnNXY1VRcDJyZDZNaks1dnl0QnN6TVJ4RkVrajM2SHQzYldEVDZBalhnLU1aS3ltU2ZLVA?oc=5",
+   "data": "2026-11-02T05:10:23+00:00"
+  },
+  {
+   "titulo": "Midterms nos EUA: eleições podem mudar planos de Trump e mexer com dólar e juros no Brasil",
+   "fonte": "G1",
+   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQdER6SEp1WlduWmlIOVpqc2E3a2RIYjJWMWxyWFdqVEctNzBKOEZXV2NlVjNKZmMwUWU0bTBiT2RZTE9NOFBiMGdmN1V6aFU0QmJZWWVmT3FvU25qM3NDNXBsVlk5SldQalZKQTk0TXFNdktoMWZHZ2FXYUUxd1NZR3JoYUJmeTd3SS1UVUlYSlVET2tFaTFJUjd4UHMxei1oYTNiU3ZIc3E1MGRPSFhILTlzWnhNNUpOWlN1aER1Q2ZTbFBpbjdRUGEzQkJCemU0ZzhvcTEtVUxEQ2xJ0gHrAUFVX3lxTE8wcGUydXZpVXBuLUJRdFZKNno2RUpqLTY1MEpqRlNXeER3eENlYUgyeGtzRDBfUUtRWW5ZbHdwcERBU2stTU5PVW5hd2l1c0N0ZGpHRnVkMXBwWmpqazNkVmdjV1hGMi1OemxrSUNjd0YzbXRIWWVPTnJBbjVWV045a2M4dmFZOEtETkM4V000SVlkY3JRNlk4TFlON1gwM0lmUGQyN1lCOTA2bmdpbEUta1JiTjhpRTVGTEpwRjZiYVZXS0J1czZLTnkyNzlKcmEyb0hiRFl3MGFRTlU2WnZqaHd3UnR2RlZpR2M?oc=5",
+   "data": "2026-11-02T05:00:00+00:00"
+  },
+  {
    "titulo": "Dólar, oferta baixa e exportação à China colocam boi no Brasil na rota de R$400/arroba",
    "fonte": "TradingView",
    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1oMGl5cU5NNTZSWHVDNGhNY2s1U0Y5aUFubG41Mno0UUUtS3hQbDhBSFFOSXhPdUY4SkNlbnBKeEhPT0VLMngzSXFxaVZvR3l6TU1PbWdBTVNfSUxuVHFVYjVjREtqcVU2YWc4eUFaT2o2akJGWVh3?oc=5",
    "data": "2026-11-02T04:00:00+00:00"
-  },
-  {
-   "titulo": "André Lara Resende culpa teoria anacrônica por juro alto no Brasil",
-   "fonte": "O Cafezinho",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQOU1CYi1icDlncktxcElvRjhoREpCS0lJY0JOZm1Hb1RXMjFiNjIxY09pU0huX2NJZGNFcVA1eGRqYkJrdGtPVl8tS2FOMUExZW5iTHZudlhVS1pWZzNpTVk5T1c1RUhVRnMzdVFHZ3Jnb0lBU04zSUdZT1ZsY1JxS1FsMVhoQUxMWGhFY3BWRWFTemJzamFkeFhFTU9ybTVOSHd1REk5dHnSAa4BQVVfeXFMUDhaLUpHX0N6eWNQNFlxNWRkUVBfQUE5cGt2dnFZWVhCdTY2a3ZaSjVzdU9TMU1uemRIcGtldVpnOVhiRENsMlB2OFFMZW1FZHR2czQxY0M0Y1ZlZE9RQW1oU1RsdHRaLU1OdWp6dHVtWWlIVGNOdWZSYWNJZkxmTzFudGNpS2RRaGczTE8xYm5aUDlnWXF1VW11ZWlWTURzWWtUZEZ5XzFQb2EwbGpn?oc=5",
-   "data": "2026-11-02T03:58:00+00:00"
   },
   {
    "titulo": "Atrair investimentos deve estar vinculado à prevenção do uso indevido desses investimentos para minar a segurança e a ordem.",
@@ -53,40 +83,10 @@
    "data": "2026-11-02T03:30:00+00:00"
   },
   {
-   "titulo": "Desafio mobiliza estudantes para prever inflação brasileira",
-   "fonte": "Jornal Primeira Página",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPVHNlVFU4dTQtcG42MXY3WDd2d1d0bC1waERYYnNjdGJTN0pabVBoY2N6elZGbDJINXpLbUdyOC1keWxaUXpGSGpoeWJkWkRUWnhqbWQ2dHdUb3pCOFN4cjVVdTI3Qk8yMEJpZk0tdzFhWHJ5amc1QkVNTF9QVGpIeU9NZkFZUUxrLUpiNHhYeVlpLThDLWttRVpkMEU1YVFLdW90UQ?oc=5",
-   "data": "2026-11-02T03:23:33+00:00"
-  },
-  {
-   "titulo": "Especialistas apontam para Copom mais conservador em 2027",
-   "fonte": "brazileconomy.com.br",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPeUhEcmVpQ0xsVXJ0QzIwUmJXZGl1Y0tieUE1enc1NHpjQnBYWExFS2cybWFVZ1RKU2YzMXBWTThLTXNxODBSb3VfcUQzR0MwY0pjN3VialBUUlRGNzJLWDRFY1lXRDluZXpZNThoOG5vUGZmSTJVVGdmcmFqVTV5WVM3THRmWFFEUWRQaTlkMk9fbDBSdXJqMDRzWF80dlJkQThULXVtb0pQWWl4RVpmWk9R?oc=5",
-   "data": "2026-11-02T03:01:47+00:00"
-  },
-  {
-   "titulo": "Biocombustíveis devem atrair R$ 142 bilhões em investimentos até 2036",
-   "fonte": "O Estado CE",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNaHdQTkQ3QjlXWFp0V3hwcXplQzNOLWlacGRaYlk0SW5PTjRJODFIa3FyQXNpMnNTb0gxZTNfLXF4cktDQ255TzJJdTh1N05ENHV6Q2I4TmdoblFLZ044cXhBXy1wX0tRc3NublJfcnNRY3J4dTlwTWxaYjloSXZFbEVBWEtzMU5vSk52ekxPc1JUVnhYeXZOd0RLSEhYZm5BYm5Iajl3?oc=5",
-   "data": "2026-11-02T03:01:00+00:00"
-  },
-  {
-   "titulo": "Disparada do dólar e incerteza fiscal pós-eleições elevam apostas em pausa no corte da Selic",
-   "fonte": "O GLOBO",
-   "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNVVFEVENpV0NHVzg5Q0hydmxxVkxYdC00cG1lbjhfbHhwRlNYMmVGc1hZTzl1XzNRZVM2VFlUX2NaajZBSGdQbmVNbGNKQXRXU2h2NlRmeWU2VTAzcXFNWU1WbWk1VEowa0lPa0ZvYTBXTnYzako1Z2ZDZXZBSkUxTkZKRW1WOWJHVnNmaEhGMEpIWW96dFdPQldvMXpRVjlvcjZreUJ6UldQcGQ4R3VsOG9FMnJXUDhzY2RjYmtTeWNfVGF5TGFhenNOZzQtZ3pqbWdKcC1SMHRmSHhtek1aZHExWGU1UFpLN2hibGNpNW9HQdIBgAJBVV95cUxQbU1MTVhrYW5aeEVib3VzRHJTeTRQSGdvZFdMVEhGNGVuM3MtUDQwOFFQTWZmekV2QWh5cHV3RGtLcmtvS1hrd0U3X3BLcWRVR0pGYnZwSG1GaFR5OUwxUHJfTW96cW1uLVpRUnRtSXJVeE51TVRoeWlodFdPbWRlYWl1OXJuVmVUZkZ6dXlNc3owUUMtZFhOMGVTLWsxSEVKbEl4dVJKajJSUU9yRVhIcjVLZURzWVRDTEpSTVZLOEN3dzR2d3ZCa1lKMUtpZ2MxMzU2TjZEZm9GRTBTY016N1FmdXpKOU92djVHWktrOExEYUNKYXM1LVljOVZqSy0w?oc=5",
-   "data": "2026-11-02T03:00:01+00:00"
-  },
-  {
-   "titulo": "A taxa de câmbio central permanece estável.",
-   "fonte": "Vietnam.vn",
-   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBmNkVWTUVfQlhlRkh5UmtManRDSVoyQXJiZHo1ODFPUWhIRkdCRDhwWXMycGxTb3Vndlo2ajNWdHlNRzlvMHRPTC1vdThkdFNJYjdDdXRTVHNhV08zbjVDZ005RU8?oc=5",
-   "data": "2026-11-02T02:48:50+00:00"
-  },
-  {
-   "titulo": "Taxa de câmbio do dólar americano hoje, 2 de novembro de 2026: Inalterada, enquanto o euro e o iene japonês se desvalorizam.",
-   "fonte": "Vietnam.vn",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQUndfY2ozVXdkZmo5blBxblM2Z1lZNXJaWHVoU0VPZHhUZXJNWFlLeHBGaGNvRzdyQ2NWMjVfYW9ZR00zY1FVTGYzc1lPeDN3VlM2LWVGNVF4dV9rWjJwaXR3Qk1KeFAzdmF0UGNlWWIxZ2plY093X01McHlUOGtmWWdpVEREbzRPcE04eXk0RXRNTE9xYWlDTEJMdnNzQnpC?oc=5",
-   "data": "2026-11-02T02:47:59+00:00"
+   "titulo": "Ibovespa tomba mais 2,6% com incerteza fiscal e temor sobre IOF; Fed mantém juros inalterados",
+   "fonte": "Estadão",
+   "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNdzdQZW9Ib3Z2SHR3alAwTTNQRVBNaEpTQnpqU1RMVnZGSzdkTVVWdlhIUTF5YzliOWdNRjlPZmg4Y2VmeHY3U2d2bURFZEt0QktDZ1ByemxYVnlySGxlVnNDZDZYLXM0U0ZzQmlLV0tSdjRWSzFYcXc4Q0IweURmYS02dGlPbzBhSjM2Y0M5VGtxWjU5Tno5R3VHREhkRVFnV2JXOUFKYWpnLUtfMnJZYjdOSlZmWTZJOHAxNmQxYmVNTFhTMHF0WnRMcWxkSG4ySVMyM1I3cXZzdDNHZDJTSU0wZDAtQnVoVUNzYmN3?oc=5",
+   "data": "2026-11-02T03:25:18+00:00"
   }
  ]
 }
