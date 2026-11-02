@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-02T16:01:41+00:00",
+ "atualizado": "2026-11-02T17:04:39+00:00",
  "indicadores": {
   "selic": {
    "valor": 13.75,
@@ -17,76 +17,76 @@
  "cotacoes": {},
  "noticias": [
   {
-   "titulo": "Banco do Brasil (BBAS3) cai para R$ 16,47: veja dividendos, preço da ação e riscos",
+   "titulo": "Copom deve manter Selic em 13,75% até dezembro, prevê Oby Capital",
+   "fonte": "BPMoney",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOcDN1Tk4yTkpsOEVReGdpbEl0Y21RdWJWUzA2cWEwaTlDYURZTTF2WTQ4eHlYSmlVSzlDQ3JVZHAzT1IzVlZNZWgzYWl0Z2puenJKTHFxVzNuWjFwaFdHRVNTTWs2MGVscUpBeWhsVFdaRnhEOVRzR3VWTzhkcFN1RG51SEFBeldnclZYOVV3bGY5YUFTaW9MeXR3?oc=5",
+   "data": "2026-11-02T16:59:24+00:00"
+  },
+  {
+   "titulo": "Eleições podem mudar planos de Trump e mexer com dólar e juros no Brasil",
+   "fonte": "Portal 96FM",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQLUtobnAwZlNqNDg1b2s3a2l3ZFBmTDhLeV9VVzhON2RtMnlTTjRwNXRGSG9DdG9EQ2VYRDY4VGhnWWIybThHZXItNmczczhIZEFSOV9XM2g0eDV4N2JrTC1xNEJqTWJPVEpmOV85OWpDaTFmV3JaTlBCclk2REh0ZWYxR19JZFRFZ2ZVZGY0WElfejVTczhNYW02R20yZDFBak5tTEdSak9ZeGhhbFZ1VC1MRFVNQjVibzhUam9n?oc=5",
+   "data": "2026-11-02T16:44:13+00:00"
+  },
+  {
+   "titulo": "Lindbergh critica projeções do mercado para Selic após vitória de Lula",
+   "fonte": "Correio Braziliense",
+   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNaGpLRXM2ektiWGdDV0R5cm9IU2MtUFA5dFlLcTd6VFFOdWwtTmdyWWZ2dVUzYVc3elpkUkpzdmdmMXJEQnRTV2gzZ0Y3MThUQUtiVDBBS2lPc25ZbWhDZ1FqU1NkR0RLYmxfSXVLdW9sTkRCSlh4ODRXYzZwMUZzWVFtd05ZNXlWN0FsUkJOUHdPdS1ha2NVSXNTYzVNWlA4d05VR1ExYzk5WTBYazRpbndNbXZoR0FVZ2xrVXplLTBzSDRwd1N4TC1XamJNM1k1OEk5adIB2gFBVV95cUxNWTFuSThvbGFqUk5OY09xVGlYVmpmUC1pRGJpVWllU0xadmY0bHpXTkRhR1hESlB0T19OeFlwU3BEQ1pwb1hKUC1xbWFhUDBUUVp5SHBnOW5MX243bTVDYUNLTHl1MTVpRzFkOGtfeEk0SUxVS3FFSG5hNHd2ZFU0ZlA4OGlrNVV0ZG45NXNha1VOdmhFTEFLVW96bV83endqSmhGWEEzME9BOURaMjdPbG5IQkZSQ3haWV9XR2FkR1hfOUJnUDA0MWVFc2pfSEFzNjUyZzVQTmREZw?oc=5",
+   "data": "2026-11-02T16:42:00+00:00"
+  },
+  {
+   "titulo": "Lula 4 prevê R$ 230 bilhões em concessões de infraestrutura, mas juros altos ameaçam investimentos",
+   "fonte": "Brasil 247",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQdjFnUGpqLTM4UHp5X0pFQXpRVWlwU2tEZ2sxYkMwYzJiZ253MjIwcWxKMFlpekhmRjN3WU9pUnhjZ0FBREJIcDhxOHVWemZYV1JpSDlIRkZaZFBXT2FRaG02a0x3SkZYMTZLcEhqR3VkVUVubEtqdlk0bVpEZnFCbnZ1WXBWNzh3Nk1VelY1S3hBZWFKWkx2aDNzOHdwNjh0eGVDWjIzM2VFUW85aFMwRzlJblVWa3hLUks4NXVMaXZBR3AxSldsSVoxNVg?oc=5",
+   "data": "2026-11-02T16:30:18+00:00"
+  },
+  {
+   "titulo": "Selic: Mercado teme proposta de Resende que aliados querem apresentar a Lula",
+   "fonte": "Claudio Dantas",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1JSVFvMFlROEY4VkJ5RjBib0hPOEx1QXh3NzZTLXdwajhnQ2RadzQtTXZBTDJ0LThlVDUza3gtRllndEZlQkV4czNuS01DWUZXbjIyTFowN3o4ZkZyWF9tbm92S2RZREo5NmQxd2Jn?oc=5",
+   "data": "2026-11-02T16:29:00+00:00"
+  },
+  {
+   "titulo": "Dólar dispara após eleição de Lula e ameaça encarecer alimentos e financiamentos",
+   "fonte": "ncnews.com.br",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE51dXNOR2NOaFJBZllUZEVQRmhkVUp0RzdYMEZkaDVzS19NQVlKdm5EeVJGZWd1QTc3cW9TRGxTUlh5LTlhOGxlTlBuWDV6N0psTkhJbTZEclBlbDFqbmdyOGtwTXJEVTdDWnIwcm9QVWRnSG5mbDZV?oc=5",
+   "data": "2026-11-02T16:23:25+00:00"
+  },
+  {
+   "titulo": "Ibovespa tem novo horário de negociação a partir desta semana",
+   "fonte": "Exame",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPYVIzdHdJMGxPNUFmWTI0R3pTYzhPd2hmWWphWWdVTGZaRm1iUGlVS0d4eGRjRTlDaGR4SFJTZXA0bHNCUXFqZW9vT1pid3RXVlNtV2Ria0t2Zl9jRG5fTGdGMm1nM2lrSnpjQkpmZ0tvMTBwazNDbDZ0U1NweFM1T2FNbFlEX1NQMnFJejJYRTdXYVdSSVlLbnBGOFo?oc=5",
+   "data": "2026-11-02T16:22:55+00:00"
+  },
+  {
+   "titulo": "Alysson Bestene participa de missa no São João Batista e destaca investimentos da Prefeitura no acolhimento às famílias",
+   "fonte": "A Gazeta do Acre",
+   "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQSm9QVUVqMktzSGhNbDlYd1BFYkdTVDlHc09tUFlRUlpWSFVPQ0hHc2poN3UtYlczR00zZzJFRjJwODBmcHV4TjE1X2xGWVNNa1NMRUd3bVR6MHpPNV8zc0JDY3hKY19ZakFITkRWS3hLSDlfd3VwVkFzZ1hQRWdla0N5d1dPM0Z2bHkxLUViMnpkVWJHYTJWaF9NMEJ5bnRNSm1xRXA2MUZvNDRHUmdpelp4NHZlT1czbTlwdkoxNkEzVzVDYlFDdmpPR28wR2hKUGN6OXhhVVpUY1QzZDdxTWJEMF9yU1hONzdXUWpscVozWlp5bjhTZkZjTkNHZw?oc=5",
+   "data": "2026-11-02T16:18:19+00:00"
+  },
+  {
+   "titulo": "Dólar canadense recua da máxima de seis semanas com queda do petróleo",
+   "fonte": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPYWlnODkxTWd5QTUwQnJSMnpUYWdDa0FvY3BVRmc5MUx5eW5sWWxoM3NxVktvQ3dpV016TGxVZUlxLTg4ZzVjZ296anNYTmZkSUJMRzlYX1RhcW8wRTJTMUl6alJjRUlQd2l6UURxeWtyQk5Rd1B1dUNTU20tUm90bWtORFFmZ3hBWURHVDRBRThOMVN4V20tZDMwTThHTWtDLTlUMHBla192WE05WV9HcFFpRWRoUDN6X3c?oc=5",
+   "data": "2026-11-02T16:18:00+00:00"
+  },
+  {
+   "titulo": "Usiminas despenca mais de 8% e lidera perdas do Ibovespa hoje; veja maiores altas e baixas",
+   "fonte": "Estadão",
+   "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPbFB5dEVSLWxlZGRoeG9SVWduU3Y4UU9GQk9JUnJlSUtMb2tvTl8taXZWUDJHYjhfZ3Qxc291ZWRVeVUyZ2VRdUktX1ZYTm9BNXYzdWJaYVNJc0V3ZmRpbWZKU2VWckRpZmc1WjNOUFNRZ1dZZmdzNWhDV2stWi11cGM1NjNJUEVPcGRQOFpidkxLeEhFbUx4VGowLWZZMl9CY0hIQmpNZHpQdUZnbGh4YmFxTEdRb1VHdUE5aGFIcENVN2RZTTNwQkw2dnpTSTZmOE9pLXBPbVY2VVcwZ3lzYWRRRUNHaERvbkZV?oc=5",
+   "data": "2026-11-02T16:12:16+00:00"
+  },
+  {
+   "titulo": "Inflação e desemprego: o pessimismo de americanos às vésperas das eleições",
+   "fonte": "Diário do Centro do Mundo",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNRFdQcVoxTllRaE91WWZKRXhnTml2N0hqMGwtQWotbVdwMGF2UHlUWmExYTNicDZxOWhIWERpallzdDNNNXdrQ0dJT2x4d1l3TmNVNDFSV0pzUGJySVEtaVZHY1hyV19obFA5U3M5dHdNSnI2OWhyNTJoeUdyMm1UN181YVFVdXVxQjhkUDBGQzAwZ0NMdXB1NDZ4UXBwWG1tRk5RZnBvZ2hsNEttYmI4MVBSYW1mdw?oc=5",
+   "data": "2026-11-02T16:06:00+00:00"
+  },
+  {
+   "titulo": "Klabin (KLBN11): lucro cai 18% e dívida melhora, mas um indicador preocupa investidores",
    "fonte": "O Petróleo",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQZkdONDUtTzdKOEU2el9YOHhqaC1falZoc21vMjR2YkFwc1Q2dXRBQl9abEtiMEFkb0tNdVNmM3NTU3RZX2NJajBMLW9tcUY3eFczZXdiSi11aWV4Mzd1ekZwWUVJVlg1NkpaX1lVUWtDSklaNnVrOGdtelJxVV9JRWkwNXRwazJnN1hMRTk3OHdISldZWHExWnZNLUhJc0pmMjk2ag?oc=5",
-   "data": "2026-11-02T15:53:36+00:00"
-  },
-  {
-   "titulo": "Copom se reúne nesta semana para decidir nova taxa básica de juros",
-   "fonte": "Rádio Cidade 99.7 FM",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQcUVPR0pMY1piT2JYU09sdzFrUXhLaUY5R25vUWxGbmpleFVUdl9qZjhMQ004ci1VV0swd1JHX2VBNXcyXzllU2hXcTVMNEhUdDNoaWMxTkc5eU1RQXV6R2pQbWRaTFhEZjVXWlR6SmRWUmdIbkxVSDRtclZHYTROa3N4bUpCU2Y2WUVJNWUzLXVCTXNQcFdV?oc=5",
-   "data": "2026-11-02T15:36:00+00:00"
-  },
-  {
-   "titulo": "Ibovespa: é hora de comprar ou vender ações?",
-   "fonte": "Acionista.com.br",
-   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5uemYzajB6aDhwMEJzVUVERDhNVi00Nk1QTElWSm1nLVk0U2lJenhBV1BEOHhZWk9CdTBRU0ZaWnZvUFFKc0dJUERRSmgtYTFIaWRNZEtycXpmX2gyT3RHNUtzUzRMa0J1UVBRSld3bFBtVDhBWEpQR2tn?oc=5",
-   "data": "2026-11-02T15:33:15+00:00"
-  },
-  {
-   "titulo": "Investimentos em construção nos EUA caem 1,9% em setembro ante agosto",
-   "fonte": "UOL Economia",
-   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQTHIteW1kYVgtLXFTVzF6cUZxVFo5ei12eTlEQ0NiekFRR3VrbWhhMERCdHVIeTAtcVRORmpXTFBwVTlEbmVVUFNwMGthYTN4VERnN0VjclFpdDFxZURLcndWZEUwTEFMNm9TYTRRQ0psS25SSUdRZHZXOEU3dTgtby0tR0NsZkVxWk95VzFhdExYQ3JpUlhONWljekZfOFpoNnFKRGdqaGdTQkNNZWNKTmFIOHcxMWowajRZVko1RG1YWjY0bzhoSnNsSUpZVWx3RWc?oc=5",
-   "data": "2026-11-02T15:15:00+00:00"
-  },
-  {
-   "titulo": "Taxa Selic: o que é e como impacta a economia?",
-   "fonte": "Revista Fórum",
-   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1XYTM3TklyVmJTX3hvUkd5RWxnNWZKalJfd1lfbkJJdEFwWG1fMmFkNDBRQ19TM29VeHVDUnUzV01JZjJ6bV81MzJHWkt0VTB0NkRqcVM3XzZrb2s2aW9FUzFUdlNHeU80?oc=5",
-   "data": "2026-11-02T15:12:52+00:00"
-  },
-  {
-   "titulo": "Fed mantém juros nos EUA, mas inflação persistente mantém possibilidade de novas altas",
-   "fonte": "Feed&Food",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOMVMtMjhUMEVhS29Ld3A5Tzd5b0lvV05yeUlnU1FXSU9TN2NyRDRiU1M4azZ2TWFaalVDcndvOGxxQ2NqYUR1RjFiODY5TTNjM2tTNDh0cW8xa0NQS3VQaTBtVEFKU3UtYjJnOUw4THU5NEdrR3BERzhjbUExRjBwWklhaUM1WTJGMHpMVjliWDdJSnlfMGZ4OXpZM0FHWFllU0gwa1JYWlB4R1hHZW5n?oc=5",
-   "data": "2026-11-02T15:12:00+00:00"
-  },
-  {
-   "titulo": "Rodovias do Litoral Paulista terão R$ 1 bilhão em investimentos até o fim de 2027",
-   "fonte": "Primeira Edição",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNbDlXTkdYemZ4dWctZ295ZGliU2x1VzBRa2Zfd3B1RFVKc19nWUhoZU9sT1B4blBIZnp2czJFZjd4TXoxaU5aNDJfRGItWHNpOWswOEl4WFBlcmVNRkh4azd4WVRFbzFzQlpkalQ1OWpReHd3SFJJdmFyTi1VRm45bG1EQk1CTEwyNkdkU0RRSTFfOVlHT2FlbV9pRTZzZHdGanRkTEhjZWk?oc=5",
-   "data": "2026-11-02T15:11:30+00:00"
-  },
-  {
-   "titulo": "Itaú Personnalité World Legend Mastercard: conheça os benefícios do supercartão",
-   "fonte": "Melhores Cartões",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQcDlaN3pSRmJKYzN0WEFpOWxTZGtuNk5neENRdkp3ZURVOEllai1HbUZ5T2FGTWxmdjRFQnBmdlNrYm9RYUh2c1RNRV8zb2thNGk5enpNVjNRbHgyWnZLVFdVd2JDVUNzeDI0c0VFNzlBM1FGZjlCc2p1dk5ETHRIX25JOExzMUNqdGVMOXYwTFctdw?oc=5",
-   "data": "2026-11-02T15:03:45+00:00"
-  },
-  {
-   "titulo": "Bolsas de NY sobem, dólar recua e petróleo despenca em dia de feriado no Brasil",
-   "fonte": "Investidor10",
-   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPY3pSSWRnSWdmbHpWS1VBd3RfQlUzZW5zVlJHRjJzVzQ0a0FRN3IwUjBmN2ZWU3ZoR1huOEc5Tk4wRDlVdDlGVmpBRUxHWS1BVVJjSHJNQWdLWTlMdXptVmNWRFlDYjZUbVBJYmppOGl3eDA4dk5tdEZBNTlHS0VyRXg3SmU1ZW9fZzRqZzFFc1JlNDJua1M5cG5zQ0pydXhVcTZNTDhtQ3VhSzh1N0NESHV1cjNrWGdKT2tmRjQ0WGXSAcYBQVVfeXFMUDRKcktvS2xScEVVY2xRRTJaMUZ2dTFHVktKMTZ6RDhBd1drUG5RN1UtdDRvMktrbUVtRnpDSkNuSGtRVlJsLTZxVG5QZGstNERUQlRTRUtHa0dMZU1ORmRuRDEyLW9UVVpPQ2hGODBkUlU3dHNXTGtfUGFlalBwYkc1eDVzTnYxUXNiVlh3NGpOMTRTOHI2clRzN1lSTEVRTGoxVi1wZThNM1E1QWxld25na3JzREVnczY1cWdQcWhVMGQ5Y1V3?oc=5",
-   "data": "2026-11-02T15:02:40+00:00"
-  },
-  {
-   "titulo": "BBDC4: Bradesco lucra R$ 7,1 bilhões, mas inadimplência ameaça recuperação",
-   "fonte": "O Petróleo",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNempENWhWb0xORjVvUWx2WU1mSTRWMXdXZ3FhQ0JtZ2s4T1Frdkp5bUFqNWN4R2dYSVJ1OGZsOEZSRFVhSHVYY1JTQzhDN2RnYVU1SjlwaFUwY0M5V3RQQkhtZmljZHFYUEVsUmc1WkFZblhSdmozVldneE1FRGJpVFBITWV6UkNwdGgxWUQ0bDBBcXFOREVGMXdJS2Y?oc=5",
-   "data": "2026-11-02T15:01:41+00:00"
-  },
-  {
-   "titulo": "Inflação: o imposto que ninguém vota",
-   "fonte": "Grupo Ceres de Comunicação",
-   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE8tOWthNHV4X045ZnhqSjQzZzdxaEdnWkViUl9leFlVcDRuVXFlbWpVbkxCWmtvRU9NeUE2ck5IVmxmRUNETzd4NUZBdDE0dWZBN29NV1A2SmQzTlg3b25MZGJpU2ZwLTdvYUdEMUgwQVZ4emZFZTNGTUV1VWJiUQ?oc=5",
-   "data": "2026-11-02T15:01:13+00:00"
-  },
-  {
-   "titulo": "Eleições nos Estados Unidos podem afetar dólar, juros e investimentos no Brasil",
-   "fonte": "Imirante.com",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPMGVTNFktN3Z4RXgxU01KUGM4cWlvNU1LU1lKWmY1RkRDSUotcFhrNFFwWnZxdjlNbnU1dm1GZGN2eTJRUS1qNDFkQ2JKeFFBa080QURKVzNTb090R0dQUzhFenpRMXZOWVFHTFM0a2JHWUZDYVk2YlNOSDRmUjhnTDJvWGhmOTBqelBXcDhBTHNWZDB2VVUyTWJmcTJSQjZSdUtz0gGoAUFVX3lxTE55SjRWS0U0ZjNDY2pxOVJFOUFSUk1sQ0NfM282bDNNSVlKQ0VNcHlCN2ZmUGE4LXN1Q1FfLXQtc0NQTzlKTkduakZ3bFJ4SUVnZlBVbUdfcVR3b1pVblMwdWthb0pZeTBRa1pBbC1oZ3JCVXBVNGlvN3l2MUM4NlVaOVR3TTZuckFiZlRXRS1kOXZuX3NDSWd1OWJ0VlJYVE44SUE0Z0swUQ?oc=5",
-   "data": "2026-11-02T14:55:26+00:00"
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPM3R2LVZyZlpEWG1zYnRDQVpjeVR1c3VDWXA1MWo5d1puRGFNMmFWem95V0FOTm9jUVc4TEc1TVo5cjlzRll0d1A2eUIydzN6UmdPZVB4NEIzcVQtRTN4MEt2THozNFVYb1R5Unc0YnkwaHgyLTYweTBxVWd1ZUdXOGxxdXdpWThjQW9WR05QWmZac0JtVzRoeC16bnZ0WWxOSnFnRVVYSU1fOXJ5?oc=5",
+   "data": "2026-11-02T16:05:35+00:00"
   }
  ]
 }
