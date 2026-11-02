@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-02T07:27:45+00:00",
+ "atualizado": "2026-11-02T09:04:11+00:00",
  "indicadores": {
   "selic": {
    "valor": 13.75,
@@ -17,76 +17,76 @@
  "cotacoes": {},
  "noticias": [
   {
+   "titulo": "Preços dos alimentos frescos dispararam 42% desde 2015 e superaram a inflação",
+   "fonte": "SIC Notícias",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNM0VlaFZwSVdRNlh0dkVEZUYtTVIxd3pRMmNjaW1iSVM2ZXZsZ2otRzdZLUFIOC1xR29oUzV0T0hrcjBiRTYyT19WaTVVQzBrU3ZpVHY1Ym45X1B6WHJ5VC1uYWRTbERZVmF6aUlNclA5eDRNQXRKaUFpWDhuTTNuVW44VjVZenk2aFc3bFlZSWRibnFiaElqX0Y4cjhSMkpaamVKTVg0a0NVN1ZCN0tQS1NNbnQ4ZmxsUzJPbGpQYkl2OHpCMWRv?oc=5",
+   "data": "2026-11-02T08:54:39+00:00"
+  },
+  {
+   "titulo": "Eleições de meio de mandato nos EUA, podem mudar planos de Trump e mexer com dólar e juros no Brasil",
+   "fonte": "Jornal Universo On-line",
+   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxONU1JdFNZVlg4QlBrU0hUUUZwLXM1UmtpSWQ5Wl9PTDNoUzF4VkktMDBsVkdlWkZrRjBNc2UwZWVpNF9fbFhTUVBoQ2w0dS1YUVVqWjJwQm9DTTdhNFNfVzhPUlgxNkJ1RUNjdjU5MkhQcUVTYk1DVjNITnhGSGVJcDBWZ0pUUW5ZcDl5cXl2VmpwaHRqLTl2Z0JDc2pfdGdrazkwUUVGM0FyYUJ1dlpGVnFwQlZtaUwtV0haOFg5MFpsTmZIYkhycEd3YW1oTm5PR1E?oc=5",
+   "data": "2026-11-02T08:50:36+00:00"
+  },
+  {
+   "titulo": "Dólar e renda fixa lideram investimentos em outubro; Bolsa foi o pior",
+   "fonte": "UOL Economia",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQbGkzYWV0OUJhR3dFTmF2dW9wMkRJZnBWU3l2MS05Z1pRY3h5aHV0eV9rVEl4bkhuNnVOWGJMbUhaLWNrZDhVUG1GMndfQV9BSzNieHpVTEpraUNfTzc3M2Q2VzVuWmZ2Q2FXSUZ6bWxfZnN2Z2lacWNQTXhvdnk3dkVua0NIcm53LUF6aTNfZw?oc=5",
+   "data": "2026-11-02T08:35:58+00:00"
+  },
+  {
+   "titulo": "Nova mina no Pará prevê R$ 4 bilhões em investimentos e 500 empregos diretos",
+   "fonte": "www.jornalcruzeiro.com.br",
+   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPc25EN2tYUVYzZVpKdGF2a2k5YXBHaFQ4V1B6WU5uajhscnlhMkJGd2xjYm83dlJuTkJROG5WbFJEeUFuUXY5d1ViRkNXOWdmSEo1TGNaLU9HX1NCbFN3QTZORF9qMkxTRDZ4MWZQWXJORlVaeTBvSlFHRFk0Q1dpaE5OandJclBkc1BndnYyTzN3NVZMWmhhQ3N5MWI3cjJKemxLT3dsOUQ5SmV0SHRzdm0xNVBvSjBkUjctZXVQNVFvWDRnd0VLemNfWU1VZHZJS2JzbW9OWUVUVWJr?oc=5",
+   "data": "2026-11-02T08:32:00+00:00"
+  },
+  {
+   "titulo": "Últimas horas! Abra a conta Nomad e ganhe R$ 0,25 de desconto por dólar ou euro",
+   "fonte": "Melhores Destinos",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPRE52akxBZjlVODEzZ2tHRGh3RGFkZU9fNkRYbndFMFdrY0lWZjBVaU9CeDlRWXZHTnduX2tLa1NVOTBJU2c3emE5ams2TThyLXpVeXpXaWk1Q3h1bTVUUDBvNXVaR2VGNlJVSmx0Rkl2NDhtOXBMcXlBU1VURkNXMmx0ZEhJZw?oc=5",
+   "data": "2026-11-02T08:07:57+00:00"
+  },
+  {
+   "titulo": "Calendário econômico: Copom, emprego e eleições nos EUA",
+   "fonte": "Acia Araçatuba",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAtZXpjRzctbHJ5cVBsem9mTnp1elF6YzN6WTFSTmRxRExYTE16SnhzTjE5cXpfLXJXUFdneUg2YmNoUkRGU0dmUlFUSG5jQ281eUkwSzlORFdpaEVvRGxwRzJqeUlSOXFPUWJiRm9WSFVHZnV0R1I2WmJQSEE4Q3c?oc=5",
+   "data": "2026-11-02T08:03:25+00:00"
+  },
+  {
+   "titulo": "Como a eleição de Lula afeta as ações de empresas mineiras na Bolsa",
+   "fonte": "Diário do Comércio",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPbDRBaEp3RXA5M084RF9TTk5VSzBGZndGMEFTMi1vdE5BOGFVQ1E4LW8yZGItY0IwYkNQcTJ3NDNRMW1DQ1ZZUm9XVnVJWjE0Z0xBUTVraHM1T19PV0U0WlU3REVjMkhlR1pMVHhSN1JMbU1CdUR3aklWUGowZmF1UEln?oc=5",
+   "data": "2026-11-02T08:02:00+00:00"
+  },
+  {
+   "titulo": "Preços dos alimentos frescos subiram 42% na última década, quase o dobro da inflação",
+   "fonte": "Jornal de Negócios",
+   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOb3BmWjlwUEx1T3NOZlZESHZPUUszdTNvanduQ3BYeG5WOHptajRDaEFfMm5VNkVVYUloY0o5ZFZOUGRRX1BBbl9DdEtKNTNTdHpRZGFCLW10elVpT1BBVXJoVGpUUVJMVXRJYS1qc2RhSjFCQnk4V1AxTEdJOEZMMk9NaHU3akhqLWoxYzVraVVBX2lMZ1JpaGF4WWpLekNkakhBT3UtWC1uc3dQbGw2SUVlcHgzRHVtSXl3c1RxRVU4MmxBT0lWdTR3VkdTNzhVQkJSMGVDLUdsdw?oc=5",
+   "data": "2026-11-02T08:01:07+00:00"
+  },
+  {
+   "titulo": "Copom: O que fez o mercado rever a aposta em novos cortes da Selic",
+   "fonte": "CNN Brasil",
+   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOYWdFeHVOTXdQeG5nRVVEY1RCTDJuSG5DaGVhZGc5ZklzU1lBUHpNYkZBMzJiRXdEdWdUM1NGd25ROU1UX1dxbEhEZjRibmVYUUwyTWFqOXZaZ1ZMUzltdG5aRmRtbGVfeVFsdkxJMnNDZXZITU52VDFCcE5pMzQtemZJdUdTZGNMR3l1eWVKZ0d3SjA0aWFYamZCcjR4S01BY0p1NGZ1Z1BmMi1hc3h4OWhDckdvUDRiSGc5ZmJDV1BWOVlfVWF6eWFTdm0zS0lkaVkzYVVsS0doanVOLUdj?oc=5",
+   "data": "2026-11-02T08:00:50+00:00"
+  },
+  {
+   "titulo": "Minerva despenca quase 7% e lidera perdas do Ibovespa hoje; veja maiores altas e baixas",
+   "fonte": "Estadão",
+   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQQ3JNOWZnYlBGck1NSGRoM1ZDVlVaWGJiSkExdVhJT29fWHRBSVZLOXgwS1BMZUhIOVRYOW00Q0RjRGtsTXpSMXZJMWVxZkFhdlBqb1BCSktvbUNCdlg3MW93bkhsTTl1Zk12WnhDYUVRTWFvRVdtakJvNGtPU1YtZy11dVhLY3dJMWFnWlFuTEhIREpDX3hpaHdmVGNXZy1URUREV3p0RlZ1SW5vVDBla1QyMmJEY3A3eGhjeHNhUnV6bGhaWXVXWVVob1dQLTc5YXo3dnlTQ0xJTW9rWkhRRGJURG1kZGZXWUE?oc=5",
+   "data": "2026-11-02T07:10:48+00:00"
+  },
+  {
    "titulo": "Mercado chega à semana do Copom com expectativa por fim do corte de juros",
    "fonte": "CNN Brasil",
    "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQYVJsajR2QVc3dUVYTTE4MnU0Y3F0d1pOdEVRSmdESmEzZ2pseU14YVZHbkFTZXhzWVpkRkgzTXJhUUJpdHBsTE5DWWtDM1JYUE9nQW12dUZGa25HVm1yNDlfMkI5RU1jb0phVTdXOXE3N2plbTdSMW9IVHVwcldqTW11NFl2WlBuUE54WTBVRG56RzJqNUJ6SkFSWHNpbWpjU2tDcHFTcnh5UVpCZE9YUmhrR3pBRGNaTFJMQ0dHTnZjMWV1N3BtREgxUmQ?oc=5",
    "data": "2026-11-02T07:10:46+00:00"
   },
   {
-   "titulo": "O deputado da Assembleia Nacional, Hoang Minh Hieu, propôs restringir as funções e reduzir as sobreposições na Lei de Investimentos.",
-   "fonte": "Vietnam.vn",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPb0g2MkROOHkxSlFkM3QyMFRhVUdmaFh5czhPaGNHc2RxMnVUMjhxZUE1UEs2NmFWMUhycjVSamgyRjdLM3B1NnJUVU9lWllzejdGQUZqTkJYa3podXFfNU1ZRlBpYnVSOXNacHUyNzBCOE0wOFROZFo3cXVOTFZ5bll2dDFGSHBuclBuQlpyMGpmSnpTUnUzVHJHSkcwRmdwU1RXQkFHdw?oc=5",
-   "data": "2026-11-02T05:52:38+00:00"
-  },
-  {
-   "titulo": "Alterar a Lei de Investimentos: Eliminar sobreposições, garantir direitos e a eficiência dos projetos.",
-   "fonte": "Vietnam.vn",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPY0IxS2xicUVCNkJLN01ZMDdXRkM1b1NwQUhFRlp5N0JWclVSTjRYakVEZi1rYXBKMzJ6ZWpGMVdtQ285RGRfT0NfdHBQSVdFdWwtdWRDUnZ4bGpUWXozLWdicjFmMUlzMUNNRDRpYTNoUlVPMUJqQ2VPalE1bVZBbUg5NmFtVlV3REJJRVlucnl0MUpybC1LVWFZcw?oc=5",
-   "data": "2026-11-02T05:41:56+00:00"
-  },
-  {
-   "titulo": "Midterms podem limitar agenda de Trump e afetar dólar",
-   "fonte": "SpaceMoney",
-   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE8xY215dThvZTAyOWJNdzR1U3laRWd5czFXWDhEcE54RUlaZXo1YzQ3SVdjODNwZ1RvblJnOFlfM0IwQWE0MnNXdi1uSS11S2JlNW5iWThkMFhUcFpiV2FQdHgtbFFqVnRNTHlZVjR3UWViZmRWYVNVR1JQZw?oc=5",
-   "data": "2026-11-02T05:39:03+00:00"
-  },
-  {
-   "titulo": "Aprimorar as políticas de incentivo para garantir uma atração eficaz de investimentos.",
-   "fonte": "Vietnam.vn",
-   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNdHRiMDI0WXhpU3FuVm1GMHZWbVZHMk9oQmlxUm5teWkxd2pKd3RENU9reF9PcmxwVUpYNnZ1bGZGOHdGSS1xcWZkYXFZS09nWDRnVTR1T3o4R0xrdHBXeWFEUERwamNLbjJZYnlHOTJiTGxxMHBFZVdEYVdzWmM4bXVlNTdQQWhWMDhMNThNcw?oc=5",
-   "data": "2026-11-02T05:30:56+00:00"
-  },
-  {
-   "titulo": "Eleições midterms nos EUA podem alterar planos de Trump e afetar dólar e juros no Brasil",
-   "fonte": "Folha de Curitiba",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNNmlvcFZxd0Z5d3pxbWhzalFVZ2pPdW5nU1c5cGpqZmc1b1ZCb25jT09sU3NPYkpEMTI0bjk4cTU0dFotazNBS0FnZnJ2Vmt5azBQSG85eVNMY2gxLWhUcXFYR1RpQnh0Q0dGQTB4djdUckVaSE1FY1JuWmp1WGZsYzlZeDFudzZ5MnNXY1VRcDJyZDZNaks1dnl0QnN6TVJ4RkVrajM2SHQzYldEVDZBalhnLU1aS3ltU2ZLVA?oc=5",
-   "data": "2026-11-02T05:10:23+00:00"
-  },
-  {
-   "titulo": "Midterms nos EUA: eleições podem mudar planos de Trump e mexer com dólar e juros no Brasil",
-   "fonte": "G1",
-   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQdER6SEp1WlduWmlIOVpqc2E3a2RIYjJWMWxyWFdqVEctNzBKOEZXV2NlVjNKZmMwUWU0bTBiT2RZTE9NOFBiMGdmN1V6aFU0QmJZWWVmT3FvU25qM3NDNXBsVlk5SldQalZKQTk0TXFNdktoMWZHZ2FXYUUxd1NZR3JoYUJmeTd3SS1UVUlYSlVET2tFaTFJUjd4UHMxei1oYTNiU3ZIc3E1MGRPSFhILTlzWnhNNUpOWlN1aER1Q2ZTbFBpbjdRUGEzQkJCemU0ZzhvcTEtVUxEQ2xJ0gHrAUFVX3lxTE8wcGUydXZpVXBuLUJRdFZKNno2RUpqLTY1MEpqRlNXeER3eENlYUgyeGtzRDBfUUtRWW5ZbHdwcERBU2stTU5PVW5hd2l1c0N0ZGpHRnVkMXBwWmpqazNkVmdjV1hGMi1OemxrSUNjd0YzbXRIWWVPTnJBbjVWV045a2M4dmFZOEtETkM4V000SVlkY3JRNlk4TFlON1gwM0lmUGQyN1lCOTA2bmdpbEUta1JiTjhpRTVGTEpwRjZiYVZXS0J1czZLTnkyNzlKcmEyb0hiRFl3MGFRTlU2WnZqaHd3UnR2RlZpR2M?oc=5",
-   "data": "2026-11-02T05:00:00+00:00"
-  },
-  {
-   "titulo": "Ibovespa hoje cai aos 169 mil pontos com risco fiscal e inflação dos EUA; dólar sobe a R$ 5,38",
-   "fonte": "Estadão",
-   "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNazlHcVUzNmE1dW9mRF91UXNTMzA1aEVoVzJLX2twRE83bFJTOTQyT3lBZ2NWM3hWVEtmM2NpZmNHVG1mbEJqbEFiQVljeDR0NmFWWXN3YW1LdVhuOUJib0xVVEJ3dlpranJtQWl4b0JiSnE3aVkydjRjVUFuZzJWSm5aalZlSWJtZmduWHlJMEpkUHFGS3Vvelg4ZTNTc1E0YTRxMjFTcmhRR0pYYTk4SWo0UDdVdUlwMlJVbGpndHJ6ZkVkRGNLLXNlVGs0MWRhQ1VzWnVWYmtzZ0Faa0J2ZkpEVzduV3VBMFJyU2l3OVhodXl5QlNj?oc=5",
-   "data": "2026-11-02T04:49:38+00:00"
-  },
-  {
-   "titulo": "Dólar, oferta baixa e exportação à China colocam boi no Brasil na rota de R$400/arroba",
-   "fonte": "TradingView",
-   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1oMGl5cU5NNTZSWHVDNGhNY2s1U0Y5aUFubG41Mno0UUUtS3hQbDhBSFFOSXhPdUY4SkNlbnBKeEhPT0VLMngzSXFxaVZvR3l6TU1PbWdBTVNfSUxuVHFVYjVjREtqcVU2YWc4eUFaT2o2akJGWVh3?oc=5",
-   "data": "2026-11-02T04:00:00+00:00"
-  },
-  {
-   "titulo": "Atrair investimentos deve estar vinculado à prevenção do uso indevido desses investimentos para minar a segurança e a ordem.",
-   "fonte": "Vietnam.vn",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOSllBZndib1JiX3J5cm1oOWJkcU5FRXRpdnZYdXMtT05mQV90XzlBM0NLallIaGU4bnNkdjF1LVVpUFdFcHEzTVN5T2JwRF83SFRyb0Z1VUFmSnB3TnpBT0ZSc0QycXR1UVo4bTBpNXQ3Q1JldVNrU0FRc3hNUE02N1pwSnpFeDZtcnYyanB2SUxLWUdpN3hMQlZhSW1EQnNNZ21z?oc=5",
-   "data": "2026-11-02T03:53:34+00:00"
-  },
-  {
-   "titulo": "Decisão do Copom sobre a Selic e payroll movimentam semana curta",
-   "fonte": "Acia Araçatuba",
-   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNbU41VldhMDZ5U2ZiR3J2SnhHVExiXzlrVXJNRlprXzZQbkFYRFF4X0JKRnZyeUpDcnNhY1hYbjM5cG9MUVVLand0dzVqSkpnMkNHUnVmakdxS01fZ3RTM2xqZjBMODJGeDZHSVR5bzJTelhsckxmbVJHWXlxbDRBMDJocnF1UGx0U2lN?oc=5",
-   "data": "2026-11-02T03:38:19+00:00"
-  },
-  {
-   "titulo": "Galapagos lança ETFs com 80% em renda fixa e 20% em Bolsa; veja custos e funcionamento",
-   "fonte": "Estadão",
-   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOekJobS1nNTRCVFc3Nm1TUEJjcGRmR0lIMWVNbk5NN2V4d0pxcU4xeEZRMmh5WTBrSl94OTVlbTkxaTVPMnZRRVZVRWU2N3drUHhfN0NoeW5HNWZxYTE4eXhpamc1MEl4QS1IX05RSU1kODBNZ3NpT19HdU9WTUJfcWNrN0FjMFMwRlRFOERRbFZNbzZuZ3VvWlU1QXc0dUF0YjFoWnpXRXdMb2dnYjFEQmhWMnlPM3hFZDk5dm5UVTR5cjFtRmYwRS1IYw?oc=5",
-   "data": "2026-11-02T03:31:23+00:00"
+   "titulo": "Da inflação à dívida: a economia norte-americana também vai a votos",
+   "fonte": "ECO",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPT0tsNnJYdE9FZW1rREtjR3VhblIzT0ZMRm9WX1pvV3FhUUE4UWpFYXVSUGtjb3c0eTd4bExmbFJNSTNsQldJTXRNWk9naHZ2V1VnSmpfRnRlS1VkWnNjMnYzbWExTEUxVDY1X1IyVWxPSXhIZTBNLWRPbW1jS0x3eEtDM2ZGQ0dOZEtDNE9felpGWndHUjgycDF6STA5YWM?oc=5",
+   "data": "2026-11-02T06:57:35+00:00"
   }
  ]
 }
