@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-02T03:56:51+00:00",
+ "atualizado": "2026-11-02T05:02:01+00:00",
  "indicadores": {
   "selic": {
    "valor": 13.75,
@@ -16,6 +16,18 @@
  },
  "cotacoes": {},
  "noticias": [
+  {
+   "titulo": "Dólar, oferta baixa e exportação à China colocam boi no Brasil na rota de R$400/arroba",
+   "fonte": "TradingView",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1oMGl5cU5NNTZSWHVDNGhNY2s1U0Y5aUFubG41Mno0UUUtS3hQbDhBSFFOSXhPdUY4SkNlbnBKeEhPT0VLMngzSXFxaVZvR3l6TU1PbWdBTVNfSUxuVHFVYjVjREtqcVU2YWc4eUFaT2o2akJGWVh3?oc=5",
+   "data": "2026-11-02T04:00:00+00:00"
+  },
+  {
+   "titulo": "André Lara Resende culpa teoria anacrônica por juro alto no Brasil",
+   "fonte": "O Cafezinho",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQOU1CYi1icDlncktxcElvRjhoREpCS0lJY0JOZm1Hb1RXMjFiNjIxY09pU0huX2NJZGNFcVA1eGRqYkJrdGtPVl8tS2FOMUExZW5iTHZudlhVS1pWZzNpTVk5T1c1RUhVRnMzdVFHZ3Jnb0lBU04zSUdZT1ZsY1JxS1FsMVhoQUxMWGhFY3BWRWFTemJzamFkeFhFTU9ybTVOSHd1REk5dHnSAa4BQVVfeXFMUDhaLUpHX0N6eWNQNFlxNWRkUVBfQUE5cGt2dnFZWVhCdTY2a3ZaSjVzdU9TMU1uemRIcGtldVpnOVhiRENsMlB2OFFMZW1FZHR2czQxY0M0Y1ZlZE9RQW1oU1RsdHRaLU1OdWp6dHVtWWlIVGNOdWZSYWNJZkxmTzFudGNpS2RRaGczTE8xYm5aUDlnWXF1VW11ZWlWTURzWWtUZEZ5XzFQb2EwbGpn?oc=5",
+   "data": "2026-11-02T03:58:00+00:00"
+  },
   {
    "titulo": "Atrair investimentos deve estar vinculado à prevenção do uso indevido desses investimentos para minar a segurança e a ordem.",
    "fonte": "Vietnam.vn",
@@ -65,28 +77,16 @@
    "data": "2026-11-02T03:00:01+00:00"
   },
   {
+   "titulo": "A taxa de câmbio central permanece estável.",
+   "fonte": "Vietnam.vn",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBmNkVWTUVfQlhlRkh5UmtManRDSVoyQXJiZHo1ODFPUWhIRkdCRDhwWXMycGxTb3Vndlo2ajNWdHlNRzlvMHRPTC1vdThkdFNJYjdDdXRTVHNhV08zbjVDZ005RU8?oc=5",
+   "data": "2026-11-02T02:48:50+00:00"
+  },
+  {
    "titulo": "Taxa de câmbio do dólar americano hoje, 2 de novembro de 2026: Inalterada, enquanto o euro e o iene japonês se desvalorizam.",
    "fonte": "Vietnam.vn",
    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQUndfY2ozVXdkZmo5blBxblM2Z1lZNXJaWHVoU0VPZHhUZXJNWFlLeHBGaGNvRzdyQ2NWMjVfYW9ZR00zY1FVTGYzc1lPeDN3VlM2LWVGNVF4dV9rWjJwaXR3Qk1KeFAzdmF0UGNlWWIxZ2plY093X01McHlUOGtmWWdpVEREbzRPcE04eXk0RXRNTE9xYWlDTEJMdnNzQnpC?oc=5",
    "data": "2026-11-02T02:47:59+00:00"
-  },
-  {
-   "titulo": "Raízen (RAIZ4) dispara 7,14%, mas acumula queda de 68%: o que acontece com a empresa?",
-   "fonte": "O Petróleo",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNcmlMTFRtZW9OYVY1OG9NclhhZFNBZkpIZzJidDVFcWFmMjBvXzJ2VnFtbS1XQXVNOXhRZi1QdHZEVFVpQTQtMnJwdGRqbHRuTnM0MVlJT1ZQdjRVZjg4amktQThNamkyTFBKNkxkaTJMV1FwS3V2Z1hwcTJKN21jV1E1Tnozckl5dWFUc2owNVhxaC1CRm51T3F3VEo2UVVEVHNscllR?oc=5",
-   "data": "2026-11-02T02:40:45+00:00"
-  },
-  {
-   "titulo": "Copom vai manter taxa de juros em 1ª reunião após eleições, projeta Itaú",
-   "fonte": "Estadão",
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQQlQ2RHl3VmtvbW9EbXAtNGVKeHlFOUJQSlVfTzNtMTk5ZEJ1bFNCQlR1RDdvYjNVOXZNb1BGd09GN3J1a0FrY3dYcTNqbllpdTBvUUhDX3lKMlhXSXdSS21OcnROUWNuOHV2a1J6aXI5MW1nQXBEa1NUcWpHaUNvc0FHNDgzWVlkbUwxWUVGSkp0VjhaN0Y2WXktTGVXck1WTk1QRThXcXNod0ZNNzBLNnRUWGlRR2FSSkZmUkNTWFdvbXJwN3c?oc=5",
-   "data": "2026-11-02T02:39:35+00:00"
-  },
-  {
-   "titulo": "Taxa de câmbio hoje, 2 de novembro: o preço de venda do dólar cai abaixo de 26.000 VND/USD.",
-   "fonte": "Vietnam.vn",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOTFhSSU9VREtwZDVhdk9iaHJBY0Y2dzRQVjZoNFBLcWkyUGtNU3kwQmdRR0Q1LWpiMmNwZ3dUZ2JmTGtKZ1k2Z25HU3NaTjR3dzdhcmo4Ui0yMTNTWm9HNHpfbFdhR2l2SFV1aG4tVUoyb0lCU003d19iaXEzZGZTRkN6MU90UzA?oc=5",
-   "data": "2026-11-02T02:26:53+00:00"
   }
  ]
 }
