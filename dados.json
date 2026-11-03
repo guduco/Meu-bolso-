@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-03T22:45:27+00:00",
+ "atualizado": "2026-11-03T23:42:27+00:00",
  "indicadores": {
   "selic": {
    "valor": 13.75,
@@ -17,6 +17,48 @@
  "cotacoes": {},
  "noticias": [
   {
+   "titulo": "Ibovespa recua pela sexta sessão consecutiva e dólar atinge R$ 5,49",
+   "fonte": "brazileconomy.com.br",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQZlFaRzVmVkhpbHg5Szcya0VzNG5jYk1Ob0ZDMi1xWndjMnJ2TWJHQ0QxSGJkajBGMVljRFB4TF8zSXdSOGF1dHdhSWVSV2VSWlM5TmRmUGFCNzdnWUljY2lKTm1wRGREajJSU0FCa2ZheGlNMUJSejVnaXRDY1hrdHBCY0dJSGRJVDlQS3U4UDh6NmVDNWxrcEJXTEl1bzFNcGQ2Q1gzZGFaNlpXaFRmWkdn?oc=5",
+   "data": "2026-11-03T23:28:34+00:00"
+  },
+  {
+   "titulo": "Lucro da Fairfax cai no terceiro trimestre com perdas em investimentos",
+   "fonte": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPOEpYOU82dTY4YTJJbjdrOWxKVml1X0Fra2NXc1JGLXhhcGdhOW1UVXNvVTdtLTE0WkhVWmxvUHByd3lOM3ZKMjYyNmlLZU85MmZjT1VqYWFROU1aT1dDejVoSHEwM2JDZDhUMW9oQzNVZjZCelNXQW11TWxkVmpFcEFpRURyVEVhblZCTGg4S0hxNUpsdUdkbk41MTN1aXAyU1d2RXhiVEtiYTEyOVhjOXowMWRrWVBf?oc=5",
+   "data": "2026-11-03T23:18:00+00:00"
+  },
+  {
+   "titulo": "Um caminhão de riscos e incertezas leva o Copom ao impasse sobre os juros",
+   "fonte": "Estadão",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOUzZpeXBvX2pheFNsaFN2TEdyWE5zdnRMTW1tZ1FKd1B5NFVLRk1DaFl2X3lwLU05eFoxTFBoUHFjSy03N3NwUzlQa2l2TmZrMGZRcklISHRsR0hqNEJaTThEaHYxd196aGFEX3RpeGdUVFBHbjNpYzdtWUNJdm1CZ2VZelZScXNMZTYwY2M5M29TUTBBNmtLVzlmT1lsYzdVeDBlSTZjX3VnemtEVk5lRFQyaDE5QlpianRJOGZPc9IBxAFBVV95cUxONlVRNWJCbWNEcGRBamhRZlEtczlkX3hUQnJmNi02dG9fRHg2Y1k2a1VMX3RLZXRZTk45VGxRZEptcXMyc1JvSUJWRTdLeVVrdHlGT1pfTy1TNndkZHZyRUlQV3Y2ZHdBelV3aTFfVk9SbnF4TDEwZENkRXJuRjRfdGR4ckNqMExUbVRKYTU2dUdod1VkX3ZnQUlUZkRjWGhVSzRGRmI2RGdacFB4cnkxbUI4blBZT2ppT1JrSnVwc3ZCdnph?oc=5",
+   "data": "2026-11-03T23:00:00+00:00"
+  },
+  {
+   "titulo": "Dólar fecha a R$ 5,49 e Ibovespa registra sexta queda consecutiva após eleição",
+   "fonte": "A Crítica de Campo Grande",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNY3p5UFJqWWtWTHFTT01zUm9xNTFPQWdVbnpsVmg2cFFjQmZULUNGcEpMV0RCYzRSYTRZbDFoYnQ3RmNUS2t2dU52NUVCUkFKV2lyRnAydlZSMEhHUk1yRkZ2VXhDQ1hfeTFudHIzVUF3NmF2dHJ2WUoyY0NoRm5hUHRKOTkwV3ZsZkVhbVp5cGl3SkM2VExqNlM1dDFsdXk3T05LMy02T243dWs?oc=5",
+   "data": "2026-11-03T23:00:00+00:00"
+  },
+  {
+   "titulo": "Booking (BKNG): Demanda por viagens perde fôlego e pesa sobre as projeções – 3T26",
+   "fonte": "XP Investimentos",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5JSXVYQjluajZVMWVpVXctUjRLSzR5MmpfVl94WUVzR01mY2NiSXl0ZXVzcDFaWjZJT3c0aVNLVTNhRW12R2ZrenAtVGlmWTJmRkxTLU10ZEk5TEV5MVhLTlhDQjdVV0s3ZmZUUlAweHdyV2xWbnc?oc=5",
+   "data": "2026-11-03T22:58:33+00:00"
+  },
+  {
+   "titulo": "Entenda a proposta de André Lara Resende para reduzir os juros no Brasil",
+   "fonte": "Valor Econômico",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOVDFhRXA2WDlCbTVGcTZOQTlTZlZ2R2I4NjZUQ3RWVHM2TkJwYlBWcnRsMVlXQ2pKcjZoWkZQbnV6VldBaDdzcVFPZE5Jb1NNcjh6ZlRqSElPbVoyM01FX2k0R09VNzdCVV9kdmVzaVA4VW5hTXFKQnZJOE96ajAtNDZMVXlFTTB4NGdaWVpmT1ZqbzJ3N293a1YzSlZpX3NwRTU3b3ExY2pubFZrTWxDWmZTSGc2VWROUWRzOTBkMnE2Rnp0RFhF0gHWAUFVX3lxTE9ZTjRYU1pCUFFNaG01eTJuRDFGTTlCVVhDSk43Vzh6LWZXTnZFbTc4ckx1Z01zZ18zQkJnX0otLXkxME9oTjU0Z3FJMGh3MWRUZGdvU0JCdUVvMm1wamdfUV9wcTNCN2FxQnpfY1lxZ2Z2U09JNnFVRnFXRzZLd3ZoY1NCdVBjdWUzLTNySmRYSTVSLTBiSzkyOHJBTDhNSHZDYnM4dnJKT1lvNk9obnV3TFkxSXcxSm4zRDU5VmNjQ3QwSzZXSjI5bHZqaTFMQUZxbUJZWFE?oc=5",
+   "data": "2026-11-03T22:41:37+00:00"
+  },
+  {
+   "titulo": "Boletim Focus eleva projeção da inflação para 5,22% e do dólar para R$ 5,34 em 2026",
+   "fonte": "Portal do Agronegócio",
+   "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPVW9wcTJZQUNrWk5UdXhhcl9KSEF4WU1fWnVwN2VRZ1kwMFIxY1JTNko5d1lJVFEzenk4M0oxS0VZRC1IN1FjSXpGUjBOT3g0aDRoeXZTR0lzQm1JcmZPWGprT3Rxc3RIY3l3YjJLZjh4cTE3ZzBmQnBkUDN6eEFuQzR1OE5Pandmc29xNkhwLWNhd3BXVDNPeEc0bUpNdkswWW1hWXVGQ1l4Q1dQbGFNTmhLRjJ1dVRmMHZZUDZCVFZCV2hoeFd2R01tM0p6UV81a0hsLVl0NVU2VWNIaWpyT3RvTXBiUUFZcW5iTENB?oc=5",
+   "data": "2026-11-03T22:40:00+00:00"
+  },
+  {
    "titulo": "Ibovespa cai pelo sexto dia e atinge menor patamar desde janeiro",
    "fonte": "InvestNews",
    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOak14V196cVFFLWgyUGM2YTN3N1I5aUEtZ0d4OFRhYUZtOXlYaEl0WlZUY04zdThPNjdsS3VUVjRNNzJzZTFycEpaRWNmS01KSlcxTmJfQ0hpeGtodHNoSG9QMVZ3T1FrMzRPOERCZlcyZHBiRHFPT1RpcVhUOVA4SzFwZGZvR3d1VEdabjV4S2NSZ3Vrd2tlRUxlX1FtSGZSVnZYdWJySWjSAa4BQVVfeXFMT2Z6YUNncUNlLUVtVksya3dDSlZWajlsNUpnLTlma3dxSEZnT24tRW9rZVcwd25WV240QUlJMjJmeTJBRmEzM3NoQktmalZlU1NuX0ZJaTJNQ2VyMTIzekR0WHo5eWtRdjZhdk0yVzhER2g3a29DVVBqZ3NGRGZIaWdyT2NVQlI4RXQ2T2EyLXhRNjlYaFZSU2xkdGFRcC1aTVpvU1NqdDNwSy1aRGdn?oc=5",
@@ -27,12 +69,6 @@
    "fonte": "TV Guararapes",
    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNTWFZZ01IU2NVbnpUaUJERW12WXVvNVZtYUhzNS1hb1NNdDI4aW5CVVFsWXJtM05XWmxHalNXRXZzOFNjc1lhRExKcmlHLXNqTklsTno2QUdGUFJmSlNKa2FQSW1wel9tOGFWVmRaNU1va0FNQkxGY05VaWo2TGMzeC1MUXZYNTJ3SnBhYmdaSzBCWW1MbEFkMGVlX1hjeEkyLTRwZ2w3WWJ1RXRFSnZRaVJURmp1T0RNMGkxMDZhcHB6Zw?oc=5",
    "data": "2026-11-03T22:35:00+00:00"
-  },
-  {
-   "titulo": "BRASIL REGISTRA US$ 5,6 BI EM INVESTIMENTOS ESTRANGEIROS NO SETOR DE COMUNICAÇÕES",
-   "fonte": "Bahia Econômica",
-   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQVkxkOEMtTVhqRmpIWkFkYnJpSmhmcTJBNld2d2ZDSGtTdGh5TktLLWhvZ09TSFQ0WHpiNWZLWFJtYmxxWHhXSDBSc29pZ1BqNVZaRjJUMk91M2lwQ2pFallRRzhzRmVWOEdDVlRBTzRsT1NlMlFfTHBOam05WjlZYmZlTU1NR3lXdElNQ1JCaVlYQzkzbV9WbFYxa2ExNktlM2lmTEZJbWNvdEIyejMzN0FzcVBLZzc5QlZ3NkNMMWFOZ3lUU3lGYjRWc2ZWNzlJNFE?oc=5",
-   "data": "2026-11-03T22:33:53+00:00"
   },
   {
    "titulo": "Dólar sobe 0,74% e se aproxima de R$ 5,50 em dia de incertezas fiscais",
@@ -51,42 +87,6 @@
    "fonte": "EuQueroInvestir",
    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQRTNpY3dVX2t2RFR1dEdnRTFCZEhTamJYVUYwT19id054dmpidkcyMWdPQ1NSR01Iei1ZTHEzakFQc25Rd0J3bkd0Y2RmUnRReTd5M1k5SzNvSDdUY1Z4NFItNjktbXplRU1vRXEtazY4dDc4dXRmTzdFejltV1VyaGcwSE1zMnJkN0l3?oc=5",
    "data": "2026-11-03T22:08:04+00:00"
-  },
-  {
-   "titulo": "Ibovespa cai pela 6ª sessão seguida e marca a menor pontuação desde janeiro",
-   "fonte": "Valor Econômico",
-   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOVFJVcXl6Nm1GZlhFUjZzQ0V3LWl6V2t6RmFoY2VnZHB2TkY0dXJVdC01aUw5M2FMcG1tVTBnamNxMlRqcnB4WldBWmp6VUpmcjh0TEY3Qm1SaHJEWnN6bE1xamJ1OEh0R1F0YV9tdjlBbWo4Y1dOVTZtYmxibnduOTloWVc5czJTbzk5TVltLXNHSmdaT0V4OWh2Y0JqM2IwbjhxazBWSnd4anQwUDRpOGZqUzZ1TzlfTkNpMk52U0ZKSkRsRHBEY3gyWDZ1QdIB3AFBVV95cUxOV2NFVDI4Y0hOUDhYRHViUk5NOVV2ZVlfQWJaemd0SlpLWUZpanJmLUVoUG8zdXQwbGpXSldvVF8wajFuZ1V3eXNzMVQ0RUJsaEd6Z1B1WWx6MVozbVgyRzdKUjZJRTVYTTVhRlFqd1luc0Q5Z1o1UUVHZW56MXBsWUcteVNXVUpkb1JJd0NHbkFrS1Vrc2lURzIzU0g5RldUY1o3d0lpcE9iMGVRelo5WWFfZEttaUVPaGFFalRoWDZOR1ZrdnlYQ0JjZURjOUtOWGVOMUtVZHF6MF9L?oc=5",
-   "data": "2026-11-03T22:02:37+00:00"
-  },
-  {
-   "titulo": "Ibovespa Amplia Queda após Eleição e Fecha na Mínima desde Janeiro",
-   "fonte": "Forbes Brasil",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOd1duQnBYWldLUUwteC1zbmNCSGhwM3YyWFRDTk85NFVvVHFXT1A3U29ib001bmdVU0FGcWFRT29DanVlbGNKYzg5akhzTWlKb05rRk9ka0diWk5pMEx6V2V6WXZCbEMtdEtTazZHc0ZGdVJoNjRwQlpGMDVObkQtZjd0dUNBZzY1UnpJLVVrNkF0RXMtdU9aeTBVTnhyUHl6X1I4d3VEMGRodXhLM2lz?oc=5",
-   "data": "2026-11-03T22:00:28+00:00"
-  },
-  {
-   "titulo": "Dólar sobe 0,74% e aproxima-se de R$ 5,50 em dia de cautela fiscal",
-   "fonte": "Agência Brasil",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOX01NTEthMTJhbnVCWjBjQkVrVjZtZ1paVWM2LTJfX3hFWU9sekJvdkFUaUlQYzAwY21hSjczNGs5Y2VzXzlyM0wyMjlLdDdhbjhWQjhkaVFKMWY2UzVCSmZfc0hwYW1jdW9lX2EtejlaX1p4ekwxcFBrSWREN1NjOC16azdUQ2xYdlhYSkJjYlV1Rk9JWk5DSnVwanh0N2Nhc29FY0dacVFuOWhvZ0h5QWFZUG1zYWFzQm1kdw?oc=5",
-   "data": "2026-11-03T21:59:00+00:00"
-  },
-  {
-   "titulo": "Ibovespa cai pela sexta sessão seguida; dólar sobe a R$ 5,48",
-   "fonte": "Times Brasil | CNBC",
-   "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQY1VEazBtRDg5b2tjUGJaZUo3WE00Z2p5MW5jV0hkN1BNN2JtV3pfMUV2SU5RM1NuRzNXSzNFdm40cTBqNWpQUEo3NHFkaGJNSGE5U0RvdE15cnU0UlIwQTBDUEFiNmkzUy1SYVVPUGc4ME5wUkdwbWZXVmVBMFVtUlNGOGhORW1Qa0FITDlCZk9oUUNidnloTTVfcHd6bjRfdkZseEJSYWM2dVVjYkNkb2JPdTRRWmNzZVhkWTFtTXhqemQwYzlHbXBPaHB4VU9hbGdKNk54YmFKdnVkXzdWZTl1ei1GQ1VCMW9SUjM2TlFBRTVMWnNfQWlGNU9hNUhZ?oc=5",
-   "data": "2026-11-03T21:56:00+00:00"
-  },
-  {
-   "titulo": "Dólar atinge maior patamar do ano e fecha cotado a R$ 5,48; Ibovespa recua 1,42%",
-   "fonte": "Portal VV8",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNUjcyQkNVVFFRY2RnVC1GWDNjUzRWN1c0bFRwaHJWYllKQm4zV2NkbjNTLUtreERtSlBVUlRUUHlqeGYtWWhkRHZxMlpEdHFNOGx2Y3VZNFVLUXJsNEkyRlIxSUR4VjhVTHFFc3lXMHN2TWZDaU5fdUJNV1otRXJTNHcycmZEa3VyYURQM1Y0dFdoV2FHcThaWEpxb2o4NDdoSUZfckNSdGU5S0tWcFcyV0lKWHg1TE0?oc=5",
-   "data": "2026-11-03T21:54:41+00:00"
-  },
-  {
-   "titulo": "Ibovespa cai 1,42% e dólar fecha a R$ 5,48 nesta terça-feira",
-   "fonte": "Agrolink",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPZlJmaEpJMW9jaUN3VkpQTHZxaFQxd0JrWnp6SEFvQklaZ1lPQjZxMEJ1ZXc4cWF6VVBqeFhhLXpJSVFDQ2QzaVpsTk5Jbks1elZnZDRJYW9hMl8wbWtuaW05dmVDMk9xYkFPQ01tMXZZQnd3ZFl5MDdHQVJNVE4xRzZ3YldSVm1obG91d19ZYnBIVlRoanNEaUg5VFRqVTFKcV9aYkVSdU01QW9Xanc?oc=5",
-   "data": "2026-11-03T21:53:00+00:00"
   }
  ]
 }
