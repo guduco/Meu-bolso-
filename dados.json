@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-02T23:40:30+00:00",
+ "atualizado": "2026-11-03T01:00:10+00:00",
  "indicadores": {
   "selic": {
    "valor": 13.75,
@@ -17,6 +17,54 @@
  "cotacoes": {},
  "noticias": [
   {
+   "titulo": "Copom do CRPM registra mais de 6 mil chamadas no primeiro mês de atuação",
+   "fonte": "Jornal Ibiá",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNZXB4ZHo2bkFXeVgzRDFTZUlmZkxEQVRqTUlrWDZmVTdUbUxVeEtiZnl0d0xCY3lvbC00T2hxbHFBdkJXRTZDUDFLTFRJYWYwSFBhYncyTERzOVljYXlmdlBzU0thc2pGdkVReTFqazV5bW5KcTVWNk9qQVRZU2dSLTVEU2NtelBxZEo1dFRqRmw2R0R0Q1VobTNtcGxvMGZTWFc1SEY4ek5OTGdDamsxeGJTVUFMYmc?oc=5",
+   "data": "2026-11-03T00:56:00+00:00"
+  },
+  {
+   "titulo": "Lara Resende defende corte da Selic para conter inflação e dívida",
+   "fonte": "Diário do Centro do Mundo",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPazFLMi1UenVVTFotUFlNbDNBMFlSMWpFOW1uQVNQdW42azBrUlhPazJvaHZYdFQ1WWNKOVM2eHdkRk1WbDkzOHgtTlQ3bGJvT2hyOU9mS0kxVGpSMTZ4c2FaS2h5UjMxTjBMUlpkVGlEc00zcU0wd0RfNjA5elh6empNbjB1TzZvOGJYT28xLVpDTlBTT0J4YmZKVmZJWGgzSWc?oc=5",
+   "data": "2026-11-03T00:40:18+00:00"
+  },
+  {
+   "titulo": "Durigan nega que governo estude congelar a Selic às vésperas do Copom",
+   "fonte": "soubrasilia.com",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPYmRpbHB2dHFZNXVjMmR5LUFPWWthVDVQRmxON1lmSG56amp2V0U2a19rekFucnkzaEVUTy1VelJ4UlB6dUtHRkZIQUNBX0ZFWlpnTmkteUhNQlF4QURqM1BYVXVtQXR2X1JKLU5kSE9oVFBWOW9LSU1VU2pWN21ydGpiRzc5Qm03VDdMa2xUMnlONUtCWm1F?oc=5",
+   "data": "2026-11-03T00:34:13+00:00"
+  },
+  {
+   "titulo": "Midterms dos EUA podem elevar o dólar e juros no Brasil",
+   "fonte": "TV Sim Brasil",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxORnZ2LXpla3lEVGc3Q1duS3BEMldzX0ZWaHczTjVMbUhHdHhPZllNZGdoRlRaSmFlUnZJUEhVajFBNm9pQ3hhUkVxcmVzb0p6YVZPM1h2T3VnZnhXZDhXd2Jhak03LURhV01icEd3LTNRdTd0ME9ZYklvbU0yTWJXeThZSjdHV1VjT1JkSE9wNlJiaUk3QmI4SFhFbU9SQ1REeG11YlM4RHJ0UQ?oc=5",
+   "data": "2026-11-03T00:00:07+00:00"
+  },
+  {
+   "titulo": "Cortar a Selic pode fazer a inflação cair? Entenda a tese de Lara Resende",
+   "fonte": "UOL Economia",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNSE4xdWRSZ0c2Z1JqRXhPRTBlc1hCTXJiVFU5UlFjVFczcU1GZm4yREQ0eGQ1ZzhrQVJWejdnUzhOU1ptM24zN1R6blU1S1ViMDJvUUJvbGxVaDN3Q1lkTEVmeXhpb0lFU0FnR09DemppREdvNzd3WjExT3VmbVN0bFZZbkdKUQ?oc=5",
+   "data": "2026-11-02T23:55:29+00:00"
+  },
+  {
+   "titulo": "Inflação ao consumidor da Coreia do Sul sobe menos que o esperado em outubro",
+   "fonte": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
+   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQN1RjRVVxcFAxVTNnSGJTX29RQjEtU3pBWEVWTUNfX1J2NmRIU0NCWGtnYU9ybXZIb001WVQ3cWpZaTZoQUdCZ0lxQ1AwaEVVcHJzNUJ1YlJLTk9hRXk2UUNETzU2cHJwYW9RUm1DdFZfR3NrRkkzVzl4NXh3RU5ZaGM1NDVvY3pmenVHY2hXc2lJVFJRQ0N5NndKLXVDSXAxNkd0OVMyeV9WZzhjLXd6WVdMQlVtYlpsLURQVGRfZ0JYRE5TRFo1T0tkb0JVeW8?oc=5",
+   "data": "2026-11-02T23:51:00+00:00"
+  },
+  {
+   "titulo": "Fundações de esquerda querem \"novo\" CMN e BC sem olhar só para inflação",
+   "fonte": "CNN Brasil",
+   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPQTRUVVQ1X090aTBJTkZWN1BmWjVRbzdBaGJpRXBrOTQybExCWnNYdV9OWjI1RTA3VVRieXE2bzEwMHhpcUpSWEhSSjZicGtOR09kUkxhcktVM1RYdlZfY3JwMG9nV0Nxa0NzVzBMdGRUSUpvQ2pEclRxQ0dZRGlWQ2pTdVNBWkJDRzdtUzk3NnB4ODM3V2dvN3paOXRZNGs5am1Td2pTNTJqTjk1ZTdKcUxyRlkyOFlEWVhESlFaNTdaZE40YzdjOWlxUWNrdVhlLTl6ZC0xUFNWZkZtNy11TGZ3Zw?oc=5",
+   "data": "2026-11-02T23:42:44+00:00"
+  },
+  {
+   "titulo": "Dólar e bolsa: possível encontro de Lula e Lara Resende pode movimentar mercado nesta terça-feira",
+   "fonte": "Times Brasil | CNBC",
+   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNWFA2a3lEc01yN2s0c1JnMm1pVWx5MlJ3bktwT2J1OHN1TTd6T0dEY3NTd2NPM2N5VS1NMk51UzlqOWlIRkhGZFBrTkFxLTMtLXFCQ3ZLQWU2MzEzUkUwc0czenJOWnpfQm9XdnlmZktISTYzN0Z4eGdGQjdveW9zT0xxeHNwc19iUGh0anhES3ppc0hWcFJmWG1ERElBMEtoUEZJcmk1dFVnc3NNVW9YN1pRZjZ2TkxzRWJUUUZUcXlOTjdPb2t2R003U2cyVzBBT0x0cw?oc=5",
+   "data": "2026-11-02T23:42:00+00:00"
+  },
+  {
    "titulo": "Goiás negocia novos investimentos chineses",
    "fonte": "O Popular",
    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPaGIzSjNSQWpjOTBwTHJGMUVsYWRhSW5TXzcyaHYxR0wzOUxhLTBOVnltd3paWTJzb2dxOFFhejZGNXk3eGw1T2lSVEdrRlh3X0lrT2gySzVxXzVac1hqcTlHQUszb0ZORlhoNTVQaDJUV2pQT25RY09ZaFJfalU2X2lkXzVzcWxJSDR5Tjln?oc=5",
@@ -26,7 +74,7 @@
    "titulo": "Governo deve ampliar investimentos e reduzir juros, defende Rui Costa",
    "fonte": "Hora do Povo",
    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOQy1MbVppRWxnSnJqR2cxbVg2czN2QklmT2RFRXdXRmR6VmFoZUNueVFWM1BBUlRPMnJrMXNSX1kydjAyUXlrU0Q1ZWZUSC1NM3RnX1lGMVRNRjA1OS1RNUR4YXhabDRBVnlLZGNxcTh0SDlDLUNQX1MwNE9GN1NHSFptOFM5d0tIWTVzR3dCZFVyY1hLQ1VsNG9kQQ?oc=5",
-   "data": "2026-11-02T23:30:05+00:00"
+   "data": "2026-11-02T23:30:48+00:00"
   },
   {
    "titulo": "‘Muito ruim’, ‘ridícula’ e ‘voluntarismo ingênuo’: economistas criticam proposta de Lara Resende para Selic a 7,5%",
@@ -38,55 +86,7 @@
    "titulo": "Dólar iria a 6, 7 reais com redução artificial da Selic, diz ex-ministro da Fazenda",
    "fonte": "VEJA",
    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPUUdNc3VjYWJKRjJaclBLYi1RVDlXbEU5a2lza1d6OXdBN01yQy1iZkQxVmNiazFvVjVsWHZ6WTZNUUYxMlpEZjNSY0Q2SWFhQTlpdFFPUktBX0RkdGhfTTB5bG1BeEpvV24tR0JvdW5meEp4UnRpR19iSDJ6RlhHTXdhQU9nTUlTQVN0YVA1Tl83ckVmdkNaTDUtWEpsWGVhUzY0VDdlYUt4bUdoWVVWb0ZkTHhUejZ3?oc=5",
-   "data": "2026-11-02T23:18:59+00:00"
-  },
-  {
-   "titulo": "Durigan nega que governo Lula discuta tabelar Selic ou usar reservas internacionais",
-   "fonte": "MundoBA",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOVVpIS0c1clRJelZFWThzendxZW1yVXhQY0YzWnRmSFgzUFgwYkVrRkVrb01DV3ZHWmZrLWpJaTF5SUF0VVN6SFI1dnNRTTk4VzRsc2pZSXZmd056THJOMVBja0J4RXZTbjlFeWlQWERveXBBNERINWpUbEltam56enpRQTQ4QVlwbVdDUHI0Yl9MakQ5dms4Z2FxZnpkZU9JMnd6cDQxaXJybHJIS3VfbjY3NEpUNlE?oc=5",
-   "data": "2026-11-02T23:00:00+00:00"
-  },
-  {
-   "titulo": "Economista ligado a Lula vê quadro fiscal menos dramático no Brasil e elogia proposta de Lara Resende",
-   "fonte": "Folha de S.Paulo",
-   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQWTc4aThmR2tMSjdXVXVwN0pVTm9oeHRiTmh2VHF6Y1JZaUdlN2F6Y0VaY0J0VUF1alNjSVJMLU9vQzhNSC1xY21oRlhmUFBaT3RHTmQ5Z0J1VFVaejI0bTd1U2xnV1A5NE9oLV9iMFFhLUVtd3JqekJfYUVYcUpGN0l6N0xxZzZYWUhZMGhKYXBDcHNZeFdQanlfYVNQWktnU1NWcGs1S2VYYWhXcElOdEJPTG96ZHotcVFuam9QVHhYZ2RzazNRR2pBQlBZcWFvQXZMSER2VERSTlRIY1lTbnpKOFBEejhs?oc=5",
-   "data": "2026-11-02T22:55:00+00:00"
-  },
-  {
-   "titulo": "Coordenador do programa de governo Lula endossa ideia de Lara Resende",
-   "fonte": "Times Brasil | CNBC",
-   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQRXpqWFNYT1FZb0g4cVBJcE5yZXZHTzRQcGk0bTlYOXlOQWRUSnRGbnZiZ1N1cWdFWnpjeG1MMVhlLXNlT2p2ZXU2NTV1UGpfVi1kMUdPT3pzMTREMEg5UHgtRkRrdzJnNm1QbDVJRUdUWnY5ZWpYVDE5MGdKX2JHQW1pNnBxR3VlUU5CWl9qd2EzMXRZVldCbDVQdjRUZkZEeUpwRUFIWVFKNnF0Yk1VN25iYVlhR2o3YkVWVHJZNVFTZHFwNU1tbGU1WlU0TGpmaGZIZEZLWXhSZmg0V25HeUo2SDRJeldIRVE?oc=5",
-   "data": "2026-11-02T22:45:00+00:00"
-  },
-  {
-   "titulo": "Eleições podem mudar planos de Trump e mexer com dólar e juros no Brasil",
-   "fonte": "Portal 96FM",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQLUtobnAwZlNqNDg1b2s3a2l3ZFBmTDhLeV9VVzhON2RtMnlTTjRwNXRGSG9DdG9EQ2VYRDY4VGhnWWIybThHZXItNmczczhIZEFSOV9XM2g0eDV4N2JrTC1xNEJqTWJPVEpmOV85OWpDaTFmV3JaTlBCclk2REh0ZWYxR19JZFRFZ2ZVZGY0WElfejVTczhNYW02R20yZDFBak5tTEdSak9ZeGhhbFZ1VC1MRFVNQjVibzhUam9n?oc=5",
-   "data": "2026-11-02T22:40:08+00:00"
-  },
-  {
-   "titulo": "Selic a 7,5% para conter a dívida? Proposta de Lara Resende ganha apoio no PT e provoca reação",
-   "fonte": "Money Times",
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNOG1XNDRqd1R1Ul9WMFhmX01vU3ZMOFlrOENTanhHdjVZNUVZX0JGRUU1NE1fbnl6THYyUnB1b0tLR0lUTVBxQVJaQUtfa3FjRWdmTUg2U2N5Z3lRM2dXME1WclJlZVBnZVJCS3l0OGplVHA3alA1TWwxZ3F6NHhtRG9DSUlGX3B6YmRBb2dlZnpmdnNQX2VzczBZZmZ4bWxMUmthNnlUUFppWHNPNlBncXJfdjgyU0t5ek9tejZULWQ3VlhxQVE?oc=5",
-   "data": "2026-11-02T22:35:00+00:00"
-  },
-  {
-   "titulo": "Análise: Veja os possíveis efeitos da proposta econômica de Lara Resende",
-   "fonte": "CNN Brasil",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPV2MyRWUtbVJ2SURWc1MtdXF5djJ5MDl1YmZQQzVhdzlkaVZwWDdDNHNoTVRVWWItUXFGNU10VVFaYXlKOWwxbmxlSjVuZTVKeEtTNE94UTZrN1o3cHZjSWZEbVlxbHg0emdmNVBCbE5ndFQwU09ob3lxZ2JFR2Y0bjQ2QmRMamxpMWRQQy1YZFdTZG5MbGVmSl9nR2c5eDhMcXpkdnEwVHM0ZWhsa2xJQWw3Qml5TTRtbjhTcnZB?oc=5",
-   "data": "2026-11-02T22:33:52+00:00"
-  },
-  {
-   "titulo": "Em 2017, Galípolo alertou sobre efeito negativo dos juros na dívida",
-   "fonte": "BOL",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNUF9iV29SZEREMVg4dGotY05JcFdYYW0wU2xPdldSR3lZZG9LVVNNR1pKNlFqWktsRGRSMzJPU2l0LWo4d3dOZm5MTzRYNDJKYm5MQ05KbFJFRTZOOHBmZ3FMaV8zRUJwUE9BaERqMURKNldHQkV4czhPc2dDc2htU3VqaXlhemJ5WXNJNkdyTUhqbTlDcnZRQXB5dDN5My1BdHRCTnBvZXJTdmRsZXgtUWxFOXphc0FzcC1KWEQzQVctcWvSAcgBQVVfeXFMTkFzaWFlaXpHcWpCRV9nZ3laMFRlMGFLX3hFQ2plQllmOE0xczU1ZzZSdWFiOWhUdnp6MEl5amx4Ul9EMVdibU5GT1hHLUViWHR4RUd0am53SHRxbmxqbVllcG9vT2liS3FvTEpmdVRaczRYMFZISTl4N1VKcEFieDR2X2hJN0FobkUxQ1VpamR0Rzd2Wjd4NEJNVnRQcmF1d3hST0M3bzlJa0VpRFd1NWk3YzA5ZXVYdkkxOXliZkpIZVJMNGlncGk?oc=5",
-   "data": "2026-11-02T22:23:45+00:00"
-  },
-  {
-   "titulo": "Resistência a data centers nos EUA pode favorecer investimentos de gigantes no Brasil",
-   "fonte": "A Crítica de Campo Grande",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQaXFYOHJoNkxKNXpYUzh0QzdKeVdRazBlWnEwbjNLZC1GOXpMT0RLS2RjRGhkVnItR1lvV0duSTJ0NFZPRmRfNUZWbUV1YnRvN09kcERlb1JwVWRwdVBVcjJtWjVfRDhCRVRQZkxPbmZ5NW5VZjhobWlFV3dVbVJOcXhSQklDSXEwQnJUb2laZzRwOFVNbXduMDV3bG5kdUNMdjVhbXlUQ1NtWjdFR2s2MU94LUlLOHM?oc=5",
-   "data": "2026-11-02T22:20:00+00:00"
+   "data": "2026-11-02T23:18:00+00:00"
   }
  ]
 }
