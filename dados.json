@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-03T02:53:22+00:00",
+ "atualizado": "2026-11-03T03:53:35+00:00",
  "indicadores": {
   "selic": {
    "valor": 13.75,
@@ -17,10 +17,52 @@
  "cotacoes": {},
  "noticias": [
   {
+   "titulo": "Ibovespa na semana cai 18,12%; veja a agenda com Copom",
+   "fonte": "Paranashop",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAwX2hQSl9lZXJZb1hoNWRPZDlrZFpYLVMxaHFPSnNBOFJUaWVlUVphV1l4R2ZVWWR0MVFESHpHR21SaHRraV8yd09TQ2I5czdtOHNzSnQwSlBFOHZReHJUaDROelRWam0yQUVjVm9B?oc=5",
+   "data": "2026-11-03T03:40:17+00:00"
+  },
+  {
+   "titulo": "Investimentos de empresas japonesas, coreanas e taiwanesas nos EUA devem continuar aumentando: Citi",
+   "fonte": "TradingView",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBZUjhnaW1vcXRRT0RMa3FWMzRtbXJKMTFxY3JWdDRNQk5UUkFVbzdKRUlTZlB4MDJ2dXMyU0pmNjlZcGVWRzlZcEg3WlhYN2dIaXFtREllckZlcVRGM3dkRno1XzhJOE1CaVZFMkZ1RDUyTkpCdkIw?oc=5",
+   "data": "2026-11-03T03:38:00+00:00"
+  },
+  {
+   "titulo": "Pisar no freio ou seguir em frente? O dilema que o Copom leva para a mesa nesta terça",
+   "fonte": "PlatôBR",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQWmM0Z1Q3NTVOTHVLUWFfal9aLVljTHI3eWtQVW9YRWMtZTRJeGtwRzdRYUJXX040djNkcEZXOEhMWWRTdFFiTzNZaWdLWUlfU1A1bDRCeGQ0ajZJMzhRZFQ0Sko3S2pQMFBwb05CSUlOZjBJM3NoVmVIdFBtRDZ4QWItWUdzSk9FUzFnRW5uLU90Nl8zYmd3RDlTRks4VW1UN1FnNzViSGRqbjA?oc=5",
+   "data": "2026-11-03T03:11:11+00:00"
+  },
+  {
+   "titulo": "Banco Central deve manter Selic em 13,75% após reeleição de Lula - Portal IN - Pompeu Vasconcelos",
+   "fonte": "Portal IN - Pompeu Vasconcelos",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOTS1PdGJJZ2tJLWtZNTYzVEthTkxVUW44WUFnWXdZX3E3SEJCOC1TUHktNnB6Vi1VN2hpMHlqdUQwQkMwQVNHVkZMVWZaSkJHWXlQZXpteU9oZm81aFROUUtlQlVZdWR0eGNSaWNSQl82djVtQ2tvdjh6UUVZOFdvRDVjLUs2Q2FMQ05wam1yVE1CTHFFZ2d0REV0YnB0MzZXUHc?oc=5",
+   "data": "2026-11-03T03:01:00+00:00"
+  },
+  {
+   "titulo": "Selic em suspense, Copom na berlinda",
+   "fonte": "Bom Dia Mercado",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQSmpmZGZibDV0OGFqQnphVFlGRlhPX2ltZkljZC00dWhGWnpfVnU1cTdnSk0wYkRwdnNLLUhzMFBPVUcwb1lBTDg0aTcweGluVi1ma19BWE5PdV9vMzdYRzJVUEdtN0VidFBxb2pkbTlaV3RsZWt5Q1Z0WGE1TVJqNzJIcGxxSTZVS0E?oc=5",
+   "data": "2026-11-03T02:51:00+00:00"
+  },
+  {
    "titulo": "Proposta de Lara Resende para limitar Selic entra no radar de Lula e assusta mercado",
    "fonte": "Jornal do Comércio",
    "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQdHdEd21kYVdESEM0c1RwWUVFUmExWTFxQkY5Wnl2bmVKZlh5Z1hkNDhseGU3RHN6eks4UWhNWWI3OGdnM2Q2aEhfTmZXamJZSnJveW5BSzhLODdJWHJZSFhSSjRWRDFYRE5Ea0xQVWZuVWtUX1F3VWZZRkl5dzJ0UkJZQUgyNV9XdGNWaFFpSTg1aGdRZXVaUm03TnFDcjdNZllNc1FVYWswVWlyc0ZQWXdRV2VITlVKazNWcmVTWnFaRXg0eUhkOF9RRTFzMzhmczdBc21Cb1AxYngyNkZuQw?oc=5",
    "data": "2026-11-03T01:52:30+00:00"
+  },
+  {
+   "titulo": "Cortar a Selic pode fazer a inflação cair? Entenda a tese de Lara Resende",
+   "fonte": "UOL Economia",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNSE4xdWRSZ0c2Z1JqRXhPRTBlc1hCTXJiVFU5UlFjVFczcU1GZm4yREQ0eGQ1ZzhrQVJWejdnUzhOU1ptM24zN1R6blU1S1ViMDJvUUJvbGxVaDN3Q1lkTEVmeXhpb0lFU0FnR09DemppREdvNzd3WjExT3VmbVN0bFZZbkdKUQ?oc=5",
+   "data": "2026-11-03T01:42:57+00:00"
+  },
+  {
+   "titulo": "Utilities: Prévia dos Resultados do 3º trimestre de 2026",
+   "fonte": "XP Investimentos",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQVFkybV9HQ18yaFhfd2pqTjFubGxFVmNqZGF3VE9QWnZFSlNnLXhNMllROHRDTk81SXR3ZUVnd2pSc3Q4ekJxNVV1UnlDbEFGUXd4cXA4NnIweV8zYzdoOWdwY1c3dUtfaXh0UmlnUmJSNEZHWGdobzhuUU1qcGNUZ2xaYXNOVlV2TDlJSFUxRUZoZ18tVWFHNWxwNmQxMHVJSkhwaQ?oc=5",
+   "data": "2026-11-03T01:11:43+00:00"
   },
   {
    "titulo": "Copom do CRPM registra mais de 6 mil chamadas no primeiro mês de atuação",
@@ -35,58 +77,16 @@
    "data": "2026-11-03T00:54:04+00:00"
   },
   {
-   "titulo": "Lara Resende defende corte da Selic para conter inflação e dívida",
-   "fonte": "Diário do Centro do Mundo",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPazFLMi1UenVVTFotUFlNbDNBMFlSMWpFOW1uQVNQdW42azBrUlhPazJvaHZYdFQ1WWNKOVM2eHdkRk1WbDkzOHgtTlQ3bGJvT2hyOU9mS0kxVGpSMTZ4c2FaS2h5UjMxTjBMUlpkVGlEc00zcU0wd0RfNjA5elh6empNbjB1TzZvOGJYT28xLVpDTlBTT0J4YmZKVmZJWGgzSWc?oc=5",
-   "data": "2026-11-03T00:40:18+00:00"
+   "titulo": "Fechamento do mercado financeiro",
+   "fonte": "Jornal Correio do Norte",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNbXgtcjB0ZzczclBCNHFsSFF2aHV6aU9Ic1dad2lsMnlLRmVHdmlYQm52RWRrRHNyZ1c2bk5iQ2s3UWlZUHFIOGVNZjJNRlNJbFVDT1NXNXU0T2p1a2hIWDJKYUFXTUN6X2FYLWhuNXc0bmZfOEFtTnl6Q0JwRkFRcGItSjlxN0RXY0JkcU8ySC1yakdiTUsxcFpydDJRV3FCRHkwV3dxVlRfTVh4ZXprLXRuTdIBuAFBVV95cUxNMXhId2Y3S29hRmNHZDhWV3h4aWFaSktvdjc5MVRrOFhoT24yWDVVQXZPQnA0eWc1RjFWVDNNOS1VYTh6Rjl5dVNnelI1QUxmbkF4cU53WGx3cUNXaDExM25RdWJUOHh4M0oyRjVnYWFnUjhxeXBiNTRDS2x6cVEwN0loYlBjaC1uYk80VmppbjdvdUkzZUZRSzZweDU5TjBMUDA1eTAwN2tEanRYWVV3UUhmVHBvdnFP?oc=5",
+   "data": "2026-11-03T00:38:00+00:00"
   },
   {
    "titulo": "Incerteza fiscal e disparada do dólar depois da vitória de Lula nas urnas levam analistas a apostar na manutenção da taxa Selic nesta semana",
    "fonte": "Jornal O Sul",
    "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNb3JjSk94QTBMaDVUcmszUUU0bjFScDd3enhHdHBMMWlWNW8zY3JyNlctdUtROGpWazhGcjZlWTlyVmlMZFVWaHMtVVpoN2NpR3ZOUzFDWFlnMU5iZ08tcmtLSGZMQUZWdzRVcFBzYXhQdWxSZlZLTVpFblhZdnFWQkxiRTNkUWNuemtjVzZTd0VGdzR2T0RKNDdVU01kNk5lSEcxSzRDYzFud3F4X1J6TXhwZlBoU0kxWEtaNmFXUl92YURBVmQ5YzV3N0EzYXI4M1JWNkxXQzhXbFM1ZmZLSkg0cldDWl83WmJUQnhkbjI5bXJVZExYRVZUSkJpZ9IB_gFBVV95cUxNb3JjSk94QTBMaDVUcmszUUU0bjFScDd3enhHdHBMMWlWNW8zY3JyNlctdUtROGpWazhGcjZlWTlyVmlMZFVWaHMtVVpoN2NpR3ZOUzFDWFlnMU5iZ08tcmtLSGZMQUZWdzRVcFBzYXhQdWxSZlZLTVpFblhZdnFWQkxiRTNkUWNuemtjVzZTd0VGdzR2T0RKNDdVU01kNk5lSEcxSzRDYzFud3F4X1J6TXhwZlBoU0kxWEtaNmFXUl92YURBVmQ5YzV3N0EzYXI4M1JWNkxXQzhXbFM1ZmZLSkg0cldDWl83WmJUQnhkbjI5bXJVZExYRVZUSkJpZw?oc=5",
    "data": "2026-11-03T00:34:37+00:00"
-  },
-  {
-   "titulo": "Durigan nega que governo estude congelar a Selic às vésperas do Copom",
-   "fonte": "soubrasilia.com",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPYmRpbHB2dHFZNXVjMmR5LUFPWWthVDVQRmxON1lmSG56amp2V0U2a19rekFucnkzaEVUTy1VelJ4UlB6dUtHRkZIQUNBX0ZFWlpnTmkteUhNQlF4QURqM1BYVXVtQXR2X1JKLU5kSE9oVFBWOW9LSU1VU2pWN21ydGpiRzc5Qm03VDdMa2xUMnlONUtCWm1F?oc=5",
-   "data": "2026-11-03T00:34:13+00:00"
-  },
-  {
-   "titulo": "Contas globais atraem brasileiros e impulsionam investimentos no exterior",
-   "fonte": "Jornal do Comércio",
-   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQaUJJZGFaTFpmZjMybFBIdTZIbUdqLVZ2Zl9PZW9LSUpZTVpUMHVVX2tCd3FCVkRGMnVyU00yUmJVdXc5czZzUGJheDF0aXFkU1hXbGdrVDFJMGJ1OENrOHoyMF91dlByclIyYkQzUnVqTzZrWVU0QlY4YWliMkVOTWc1ZVEyVjhvaGxKVDlKenp4VzRCaHpCTGlMZDhLV2ZyWUhyU050b094ZXhMTHdpendlV21fM2dHTFJ3cUxvMXNFZDlhMFNRNUxBVWV0US03Umc?oc=5",
-   "data": "2026-11-03T00:32:43+00:00"
-  },
-  {
-   "titulo": "Midterms dos EUA podem elevar o dólar e juros no Brasil",
-   "fonte": "TV Sim Brasil",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxORnZ2LXpla3lEVGc3Q1duS3BEMldzX0ZWaHczTjVMbUhHdHhPZllNZGdoRlRaSmFlUnZJUEhVajFBNm9pQ3hhUkVxcmVzb0p6YVZPM1h2T3VnZnhXZDhXd2Jhak03LURhV01icEd3LTNRdTd0ME9ZYklvbU0yTWJXeThZSjdHV1VjT1JkSE9wNlJiaUk3QmI4SFhFbU9SQ1REeG11YlM4RHJ0UQ?oc=5",
-   "data": "2026-11-03T00:00:07+00:00"
-  },
-  {
-   "titulo": "Cortar a Selic pode fazer a inflação cair? Entenda a tese de Lara Resende",
-   "fonte": "UOL Economia",
-   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNSE4xdWRSZ0c2Z1JqRXhPRTBlc1hCTXJiVFU5UlFjVFczcU1GZm4yREQ0eGQ1ZzhrQVJWejdnUzhOU1ptM24zN1R6blU1S1ViMDJvUUJvbGxVaDN3Q1lkTEVmeXhpb0lFU0FnR09DemppREdvNzd3WjExT3VmbVN0bFZZbkdKUQ?oc=5",
-   "data": "2026-11-02T23:55:29+00:00"
-  },
-  {
-   "titulo": "Inflação ao consumidor da Coreia do Sul sobe menos que o esperado em outubro",
-   "fonte": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
-   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQN1RjRVVxcFAxVTNnSGJTX29RQjEtU3pBWEVWTUNfX1J2NmRIU0NCWGtnYU9ybXZIb001WVQ3cWpZaTZoQUdCZ0lxQ1AwaEVVcHJzNUJ1YlJLTk9hRXk2UUNETzU2cHJwYW9RUm1DdFZfR3NrRkkzVzl4NXh3RU5ZaGM1NDVvY3pmenVHY2hXc2lJVFJRQ0N5NndKLXVDSXAxNkd0OVMyeV9WZzhjLXd6WVdMQlVtYlpsLURQVGRfZ0JYRE5TRFo1T0tkb0JVeW8?oc=5",
-   "data": "2026-11-02T23:51:00+00:00"
-  },
-  {
-   "titulo": "Fundações de esquerda querem \"novo\" CMN e BC sem olhar só para inflação",
-   "fonte": "CNN Brasil",
-   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPQTRUVVQ1X090aTBJTkZWN1BmWjVRbzdBaGJpRXBrOTQybExCWnNYdV9OWjI1RTA3VVRieXE2bzEwMHhpcUpSWEhSSjZicGtOR09kUkxhcktVM1RYdlZfY3JwMG9nV0Nxa0NzVzBMdGRUSUpvQ2pEclRxQ0dZRGlWQ2pTdVNBWkJDRzdtUzk3NnB4ODM3V2dvN3paOXRZNGs5am1Td2pTNTJqTjk1ZTdKcUxyRlkyOFlEWVhESlFaNTdaZE40YzdjOWlxUWNrdVhlLTl6ZC0xUFNWZkZtNy11TGZ3Zw?oc=5",
-   "data": "2026-11-02T23:42:44+00:00"
-  },
-  {
-   "titulo": "Dólar e bolsa: possível encontro de Lula e Lara Resende pode movimentar mercado nesta terça-feira",
-   "fonte": "Times Brasil | CNBC",
-   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNWFA2a3lEc01yN2s0c1JnMm1pVWx5MlJ3bktwT2J1OHN1TTd6T0dEY3NTd2NPM2N5VS1NMk51UzlqOWlIRkhGZFBrTkFxLTMtLXFCQ3ZLQWU2MzEzUkUwc0czenJOWnpfQm9XdnlmZktISTYzN0Z4eGdGQjdveW9zT0xxeHNwc19iUGh0anhES3ppc0hWcFJmWG1ERElBMEtoUEZJcmk1dFVnc3NNVW9YN1pRZjZ2TkxzRWJUUUZUcXlOTjdPb2t2R003U2cyVzBBT0x0cw?oc=5",
-   "data": "2026-11-02T23:42:00+00:00"
   }
  ]
 }
