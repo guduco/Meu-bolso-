@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-03T02:01:47+00:00",
+ "atualizado": "2026-11-03T02:53:22+00:00",
  "indicadores": {
   "selic": {
    "valor": 13.75,
@@ -17,6 +17,12 @@
  "cotacoes": {},
  "noticias": [
   {
+   "titulo": "Proposta de Lara Resende para limitar Selic entra no radar de Lula e assusta mercado",
+   "fonte": "Jornal do Comércio",
+   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQdHdEd21kYVdESEM0c1RwWUVFUmExWTFxQkY5Wnl2bmVKZlh5Z1hkNDhseGU3RHN6eks4UWhNWWI3OGdnM2Q2aEhfTmZXamJZSnJveW5BSzhLODdJWHJZSFhSSjRWRDFYRE5Ea0xQVWZuVWtUX1F3VWZZRkl5dzJ0UkJZQUgyNV9XdGNWaFFpSTg1aGdRZXVaUm03TnFDcjdNZllNc1FVYWswVWlyc0ZQWXdRV2VITlVKazNWcmVTWnFaRXg0eUhkOF9RRTFzMzhmczdBc21Cb1AxYngyNkZuQw?oc=5",
+   "data": "2026-11-03T01:52:30+00:00"
+  },
+  {
    "titulo": "Copom do CRPM registra mais de 6 mil chamadas no primeiro mês de atuação",
    "fonte": "Jornal Ibiá",
    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNZXB4ZHo2bkFXeVgzRDFTZUlmZkxEQVRqTUlrWDZmVTdUbUxVeEtiZnl0d0xCY3lvbC00T2hxbHFBdkJXRTZDUDFLTFRJYWYwSFBhYncyTERzOVljYXlmdlBzU0thc2pGdkVReTFqazV5bW5KcTVWNk9qQVRZU2dSLTVEU2NtelBxZEo1dFRqRmw2R0R0Q1VobTNtcGxvMGZTWFc1SEY4ek5OTGdDamsxeGJTVUFMYmc?oc=5",
@@ -33,6 +39,12 @@
    "fonte": "Diário do Centro do Mundo",
    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPazFLMi1UenVVTFotUFlNbDNBMFlSMWpFOW1uQVNQdW42azBrUlhPazJvaHZYdFQ1WWNKOVM2eHdkRk1WbDkzOHgtTlQ3bGJvT2hyOU9mS0kxVGpSMTZ4c2FaS2h5UjMxTjBMUlpkVGlEc00zcU0wd0RfNjA5elh6empNbjB1TzZvOGJYT28xLVpDTlBTT0J4YmZKVmZJWGgzSWc?oc=5",
    "data": "2026-11-03T00:40:18+00:00"
+  },
+  {
+   "titulo": "Incerteza fiscal e disparada do dólar depois da vitória de Lula nas urnas levam analistas a apostar na manutenção da taxa Selic nesta semana",
+   "fonte": "Jornal O Sul",
+   "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNb3JjSk94QTBMaDVUcmszUUU0bjFScDd3enhHdHBMMWlWNW8zY3JyNlctdUtROGpWazhGcjZlWTlyVmlMZFVWaHMtVVpoN2NpR3ZOUzFDWFlnMU5iZ08tcmtLSGZMQUZWdzRVcFBzYXhQdWxSZlZLTVpFblhZdnFWQkxiRTNkUWNuemtjVzZTd0VGdzR2T0RKNDdVU01kNk5lSEcxSzRDYzFud3F4X1J6TXhwZlBoU0kxWEtaNmFXUl92YURBVmQ5YzV3N0EzYXI4M1JWNkxXQzhXbFM1ZmZLSkg0cldDWl83WmJUQnhkbjI5bXJVZExYRVZUSkJpZ9IB_gFBVV95cUxNb3JjSk94QTBMaDVUcmszUUU0bjFScDd3enhHdHBMMWlWNW8zY3JyNlctdUtROGpWazhGcjZlWTlyVmlMZFVWaHMtVVpoN2NpR3ZOUzFDWFlnMU5iZ08tcmtLSGZMQUZWdzRVcFBzYXhQdWxSZlZLTVpFblhZdnFWQkxiRTNkUWNuemtjVzZTd0VGdzR2T0RKNDdVU01kNk5lSEcxSzRDYzFud3F4X1J6TXhwZlBoU0kxWEtaNmFXUl92YURBVmQ5YzV3N0EzYXI4M1JWNkxXQzhXbFM1ZmZLSkg0cldDWl83WmJUQnhkbjI5bXJVZExYRVZUSkJpZw?oc=5",
+   "data": "2026-11-03T00:34:37+00:00"
   },
   {
    "titulo": "Durigan nega que governo estude congelar a Selic às vésperas do Copom",
@@ -75,18 +87,6 @@
    "fonte": "Times Brasil | CNBC",
    "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNWFA2a3lEc01yN2s0c1JnMm1pVWx5MlJ3bktwT2J1OHN1TTd6T0dEY3NTd2NPM2N5VS1NMk51UzlqOWlIRkhGZFBrTkFxLTMtLXFCQ3ZLQWU2MzEzUkUwc0czenJOWnpfQm9XdnlmZktISTYzN0Z4eGdGQjdveW9zT0xxeHNwc19iUGh0anhES3ppc0hWcFJmWG1ERElBMEtoUEZJcmk1dFVnc3NNVW9YN1pRZjZ2TkxzRWJUUUZUcXlOTjdPb2t2R003U2cyVzBBT0x0cw?oc=5",
    "data": "2026-11-02T23:42:00+00:00"
-  },
-  {
-   "titulo": "Goiás negocia novos investimentos chineses",
-   "fonte": "O Popular",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPaGIzSjNSQWpjOTBwTHJGMUVsYWRhSW5TXzcyaHYxR0wzOUxhLTBOVnltd3paWTJzb2dxOFFhejZGNXk3eGw1T2lSVEdrRlh3X0lrT2gySzVxXzVac1hqcTlHQUszb0ZORlhoNTVQaDJUV2pQT25RY09ZaFJfalU2X2lkXzVzcWxJSDR5Tjln?oc=5",
-   "data": "2026-11-02T23:32:40+00:00"
-  },
-  {
-   "titulo": "Governo deve ampliar investimentos e reduzir juros, defende Rui Costa",
-   "fonte": "Hora do Povo",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOQy1MbVppRWxnSnJqR2cxbVg2czN2QklmT2RFRXdXRmR6VmFoZUNueVFWM1BBUlRPMnJrMXNSX1kydjAyUXlrU0Q1ZWZUSC1NM3RnX1lGMVRNRjA1OS1RNUR4YXhabDRBVnlLZGNxcTh0SDlDLUNQX1MwNE9GN1NHSFptOFM5d0tIWTVzR3dCZFVyY1hLQ1VsNG9kQQ?oc=5",
-   "data": "2026-11-02T23:30:48+00:00"
   }
  ]
 }
