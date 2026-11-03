@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-03T07:09:06+00:00",
+ "atualizado": "2026-11-03T08:57:06+00:00",
  "indicadores": {
   "selic": {
    "valor": 13.75,
@@ -17,76 +17,76 @@
  "cotacoes": {},
  "noticias": [
   {
-   "titulo": "Inflação, desemprego e PIB: como está a economia dos EUA no dia da eleição?",
-   "fonte": "Rádio Itatiaia",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNWmpEekdIcUNaMHZOeWFYbjBfdzhqZUMwSkJibEcxSWUzTXVpQTVTMHlDeUI1OGlBZDNhMS1SYzFmZzl4VkJlR2tUNFFPWVJvTm1NS1RZQ05KY1ZoSmxra1FGaDNxRUY4anNyOXJGZ2xua0J2VVhuWGJwSHhYUklIYUpTNXk?oc=5",
-   "data": "2026-11-03T07:04:01+00:00"
+   "titulo": "Bolsa cai 18% na semana e dólar tem maior alta desde 2008",
+   "fonte": "brasilagro.com.br",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPZWRLUm5zVi1Ib1NWUUF0d0JaZjFLRXIzTG45UnNRbmh1MGMxcTBnYXludTZwVUd4XzFYcTQ2aW0xRGJ3T2MwNkw2MnNnUUNiRngwZ1RVS3pXUEJnWmlTcXROdmNtY0V5a2EwbmJ1QlBnd2NoVDVMNWFyYk10NTAtMllVTEVvSjNKR3F1V0xfejE1SkdBZVlLSEF0S1dyNDAxS1E?oc=5",
+   "data": "2026-11-03T08:47:12+00:00"
   },
   {
-   "titulo": "Austrália eleva juros ao maior nível em 18 anos enquanto boom da IA e custos de energia alimentam inflação",
-   "fonte": "Cointelegraph Brasil",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOWnJZajY0TWxyMFB2RDl3U0VwME0zTVpQTElTd3d3bUxhRlZBS29MWTFpLThYQkx1bE1kMGNGaWVPUDR5RmNLQm1PS1BoMGdJSkFfRVdLdUlJZTQyX1BESndsWDJERkQydG5lNGY2WF9EVElOM2Z5aUR6c3VoaUZFd3dIWklpRUpaWjZsT1RIRHJld25DQ2NkTjNEeHlFUQ?oc=5",
-   "data": "2026-11-03T06:10:45+00:00"
+   "titulo": "Expectativas de inflação para 2027 e 2028 saltam após segundo turno",
+   "fonte": "brasilagro.com.br",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPdG10eUtMVGYwZ2JGekR1T3lWbjBJRlIwRkprVFprOWdMYVBfSjJlTTRUSWcycDM0WmZRYl85YWc5M1F6bFV3TDc5Mnp6MHVUWE0wS21XZ2NwemlGNkR4YlNqQ2Ztd1ZFZmduMkNKc25EdUloSmZLTXVWU0c4WnVzVFVhVGI0Umk1dUJhQkpMUEZ3OEtKTEJwYVNXYU9jT0NoVEN2WlNpbk5kRGl5Tmswdw?oc=5",
+   "data": "2026-11-03T08:47:11+00:00"
   },
   {
-   "titulo": "Pershing Square de Ackman faz sete investimentos em 2026 e registra prejuízo no 3º tri",
+   "titulo": "Corte de 0,25 ponto ou manutenção da Selic? Mercado se divide sobre projeção para decisão do Copom",
+   "fonte": "Estadão",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPZk5LSDlEUndtVjZLZDlLVVlvSE95ZlBLdklRWW03dGNDRVk2NTJfTlgzMXp3cVpVeDZ2NEdmSGlVaEV3SVdHcE41Q1ZCWW11VVRrSEpkcnQ3NjFRQ3lEcWRXQmRKakY4NnkwR1FQaTNoaTFKM3NrRENLd1ZFUXNsak1kU0ZhWDVlNHfSAY8BQVVfeXFMUDZrV2t4Vk9EYlRDWF9vaWtoOWVvc0E0R1pTSmFaSnFJWGhWWkJ4V25CRkZobmVZaTZtanMxY1d0N0FuUmh2dkc0cmxPak1ndHRoX1hOWGlBanExSWJJaFcwQlp5NENRWXEwNFVVeTZEaHFXRWV4cTlsUWJsWlhUeTVhenBNNUZYMG1IQnBPVWM?oc=5",
+   "data": "2026-11-03T08:30:00+00:00"
+  },
+  {
+   "titulo": "Risco fiscal após reeleição de Lula ameaça ciclo de corte da taxa de juros",
+   "fonte": "UOL Economia",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNRmpMUU4tVzhoUFo3YlVkOHJ2UGNLV2FGaFpLcHRKYXdBNDE5S3g3cnQ3dFBYNVQ5UExwNUloYVNSSGpIVVc4b1laVXJsem14bFZZUzVZX3NHU2FtVjI5QlczN2FRUER6aE1kendGSXRoOWQ4T0FVTUszd25zemd1MG9oSWo?oc=5",
+   "data": "2026-11-03T08:30:00+00:00"
+  },
+  {
+   "titulo": "Remuneração de conselheiros do Ibovespa cresce 29% desde 2023 | Carreira",
+   "fonte": "Valor Econômico",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQR09rUVhsdEktUWFaX0tmZV91Z3pfbWJlR2hvTk9VQVk3QUlOVEFCUWlVbVFSWlB6c2FvbXk4Wjl1N3BhOVJjS18wbTdjZThiUUs0Q1FTQnhmOVFNM0cxQktfakZ0c0dtVVJFMFJkbWppMm5feVB5eURQQW1FX28zZHY3TVdJZ2VFclFRb0J0bGNrNkRvd0NqUklWdUY2eU96bXJ6OE56NEZsLVJTTXVpVHQ2N3Q0NXlKeHc?oc=5",
+   "data": "2026-11-03T08:09:59+00:00"
+  },
+  {
+   "titulo": "Inflação na Suíça sobe para 1,5% em outubro, acima do esperado, puxada pelos combustíveis",
    "fonte": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
-   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOa1BmTllyNzRYWUx3alJvcFZXZDhBZ29vNTdscXhTRERWb2k0VTlyNWRxVnctbk1odGFfTHAzaEhkSXRDV3N0UVJmbXF1Y1lWN1ZydXMybW9oUG16WXBtTDZOMm41eU84QXFFM19LdDJ2RnN2SUhXQ3cya0loa0NaVTlFdzVuQVpBZnhyUE1hdElfdWVNaFJUUkk5LV9pbWM3SjFNSTUtbXJvMmhmanBVZjNZOXZWSlRxYjh1WGVYQkhXMjdHYnB4TGtZdk5ma1lvbG9JUm1LQk1mQQ?oc=5",
-   "data": "2026-11-03T05:06:00+00:00"
+   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQdjVVSXRWMFYzbmpDelpUUWhJbXNPTEZmcXVzRGduYUpjTmlWOGxwa2VyZzJZdnpzLWY3UXlrczBWbWlWUHBrVFZGZm9wOU4xTm9BdWdHX0laMDRySmZ4R2QwcEVTNkhSTUczLUlLU010M0Y2U0I2TUVJTE1ON2loMEsyTU51SnJQa2d6cDYzTC1ySUc5VFR0dTVzWEtoNHlfWmdLbHlCSEtjLTM5MXB3MmJvQV9pS2RvNFNHWW5mQ2dTQVNQV2pDaDZwWloxZE1LRXZLcVFnTmVIeEl1TC1YRDln?oc=5",
+   "data": "2026-11-03T08:09:00+00:00"
   },
   {
-   "titulo": "Goiás negocia novos investimentos chineses",
-   "fonte": "O Popular",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPaGIzSjNSQWpjOTBwTHJGMUVsYWRhSW5TXzcyaHYxR0wzOUxhLTBOVnltd3paWTJzb2dxOFFhejZGNXk3eGw1T2lSVEdrRlh3X0lrT2gySzVxXzVac1hqcTlHQUszb0ZORlhoNTVQaDJUV2pQT25RY09ZaFJfalU2X2lkXzVzcWxJSDR5Tjln?oc=5",
-   "data": "2026-11-03T04:55:59+00:00"
+   "titulo": "Com piora de cenário pós-eleição, cresce aposta de Selic estacionada",
+   "fonte": "Valor Econômico",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxORmpvOWpkdU9idlZyQ1hiZzJyYzMyTVl3ZmVXTExzZlh1UGk0Zmh5UnczREhDbjM5YU5yeEVqLUY2eURjSXhVS3kySXlYTE9nTTYteTByN09jR2VqdnZkamtMSnNieXRadTJORkE5eEV1QXZSbXZHbGlvZUlqUncyWHEybk8zOG1pY3hQWHpnR0tIUnp2cXZYYVVPSkZOUHF6al9fbDdKUUdTM29DNW1KUWJYMXBPSS1WRVczTWpyRTM4OVHSAdIBQVVfeXFMTzN1WFY4eDlERzhyTE8wdWdMeEFoYVVOZm1yZ1JRTWRJNFY0d283NVpva1Atd1VlOG1SR2pNTUVvc1ItdFFHMEd4WE5xNXcza3lLSFpZMlczNHZPSU9IblZEYkhWTm9uSDdINXE3VUxnbmVvNHdfSjF4bHlGQTN1MWNVVkxEZGJ5WDFtdGNwbnZLTXRSVFZILVoxMWVVc0tsQzRLVG80cWdCcmVnRDV6QVFnWmJ5TFJiTmF1Z1dQZFpINXI5U01jV2pmOVc0eVc4RlhB?oc=5",
+   "data": "2026-11-03T08:00:01+00:00"
   },
   {
-   "titulo": "O Ibovespa vai continuar caindo? O que eleições anteriores mostram sobre os rumos da Bolsa",
-   "fonte": "Estadão",
-   "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOVHlXYUZ0QUlQUnZFZTJ2RlhCMHVBYXNkY1drUmNvcTdZQkVBS1B2d05GdHpRa3E0anNZaG5XX2VTSEVudXp1QjJQelRoRTdfb1JzQ1FXNVprcW02b0RiVUx3OWJ5RGM1SDJaQzVYZE1UUmFucDlzRzd6aFVKeDR0Tl9wUkRZbzBia1FNb19lY2JDX0U3bFpacGEyV3A2Ql9YRGZSUWxfOUk1aU1PTEkwLTNxVWpDeHhGWVp6Zjg2LXFUdndaR01Id3FoLTlDbDVER3g5U0RId1Jid185SmdvYXpMLU82MkhnZ0hQbg?oc=5",
-   "data": "2026-11-03T04:46:52+00:00"
+   "titulo": "Mercado aposta que taxa Selic pare de cair e teme soluções heterodoxas na economia",
+   "fonte": "Valor Econômico",
+   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNeUgxdXpxY3Nzenl4ZHNnbTd6VzBiaHJFeGlMTHFybF90aS1pU0MwcUkwMGd6aTlJNzJDWFEtY1Zrc1UxbTB2WkxoXzhEeGs5QnE5RU1XWkdUMXhoRUduN1pLTEllYXo3STBJZ1NmM3FCSHhMdlJDclNmZTRhWUhfWEZkM2hGeVpxTUJ0bnZhTVNDcTBLMzVKaFZuTUtUWUpxT2EwUGs1Z0p0U2xFekFqeDF4M0lSUE4zaVhhN0JZMGxsTHdJOWJ5VUltQ09Hb29oeDVHWkVPMNIB5gFBVV95cUxObEJnVVBjVTVPakhTNFlPbWpwYTN1S0NXeXRNYzNoNTc3RjZCb3lVNlhZV3EyaGRCSmpHX3BZemxuSmphczRYMV9HN1RENS0xS01hMmFJbTRMdDdyNDdkN21iTUpNbUFxd0Z0WXAwd3V4R29vR1FxSWR5TFNndWg4QlUtWE1rbHloOTJXYmQ2NDY0c205aXhpRmVEbGRkaDNEYUc1ZzdSRjRscnhvNk5jNEZaZXJJSDRYSHNMZjRhUGFjZWN2ams1OFI0X2RQWHhXLUNScjVIdG9qN0d5aTYyeVl6UkpXQQ?oc=5",
+   "data": "2026-11-03T08:00:01+00:00"
   },
   {
-   "titulo": "Minerva despenca quase 7% e lidera perdas do Ibovespa hoje; veja maiores altas e baixas",
-   "fonte": "Estadão",
-   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQQ3JNOWZnYlBGck1NSGRoM1ZDVlVaWGJiSkExdVhJT29fWHRBSVZLOXgwS1BMZUhIOVRYOW00Q0RjRGtsTXpSMXZJMWVxZkFhdlBqb1BCSktvbUNCdlg3MW93bkhsTTl1Zk12WnhDYUVRTWFvRVdtakJvNGtPU1YtZy11dVhLY3dJMWFnWlFuTEhIREpDX3hpaHdmVGNXZy1URUREV3p0RlZ1SW5vVDBla1QyMmJEY3A3eGhjeHNhUnV6bGhaWXVXWVVob1dQLTc5YXo3dnlTQ0xJTW9rWkhRRGJURG1kZGZXWUE?oc=5",
-   "data": "2026-11-03T04:34:46+00:00"
+   "titulo": "A taxa básica de juros e o IVA",
+   "fonte": "Valor Econômico",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxObUtfeFlLa0tDYUVETHgwZkhBYi0tb1BpTXlBNXJjRjUwalNkSDhsLXVvYkpzRGJHNnpxZnBlcldoREZMNThpMjJ4Sks5TFBkTWJsdHBCY1dIVFVNTEt3VXVvcVpLQnhxZmxENlFYSUkyYWpZUXhOQURaaTU0MGFVeNIBjwFBVV95cUxPZzVWTUN6SndVUkYxNFRMUFhQdjNjVFJpcUhBRElmUGJRcmpROG5kYXV1dm5Td05DRTh4QjAzUkFvRHZ6SjQxRUtqUG8yTFBERVAzSGg5OU1QeDhwTkV4WW5OV1VpUVFYVHVUcm1CZVVEaXJvWUxKVWd1ZWd2eWM2bGdDUmprQ1lfX29wNHlPOA?oc=5",
+   "data": "2026-11-03T08:00:01+00:00"
   },
   {
-   "titulo": "Banco Central deve manter Selic em 13,75% e interromper cortes após reeleição de Lula, aponta pesquisa",
-   "fonte": "Agenda do Poder",
-   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNYzVtZ2hjMjgxbzJwMlBxNS02ZE90bUw4MjZOM25wTmxnZ0lxanJfQXY5aFlOMDM0b01sTEw0VDNIbTRFRzdxblloMkZ4azZuSC1ZaHBxTE9uTmpXXzh3RUpnRVNqZnNEbEt4UndLM3FyaE1OVTI3UjZ5Q2QxamE5M3A3Y2JXWm56TWRYNHQweVhNdFVWRWhRYk8tWnliUFVtSXBSQWc0Vk5DYVVNNDdqVmhEUXBhSmdwUFBzWFRFVEdRbXBleHBqRA?oc=5",
-   "data": "2026-11-03T04:03:00+00:00"
+   "titulo": "Dólar deve se guiar por reação de Trump às eleições",
+   "fonte": "Valor Econômico",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPYU1kMmloSmdkVGY1LUs2U0tVbnVzY3poNEJ3MGY2V2tCbk9EWUcwNkdKODk2VVBfcWZXdDIzdW05R0ZjQ3Jub1RzTy1zVk05LUFoZ2JKeFdhVkJ3ajVvNTE4eE82NTVtb0ZQdVpMUDFtTVh6NFczczlpX2s1NVJmNXdTZ3NDWk1ab1BlbVEtTHhvUmQzaFhUcG1ZUVlrQmEtaTRaSWIwSW4tQdIBuAFBVV95cUxQbk1rcUxNREs4THVKMU14NFVaXzl0US13U0dseF9WeDFwUllQdjhOYmMxN3czMTd4NG05TmhoQkoyYXA1N3ZMUFFDWmcyZGxPbEtCYk1mTWFybzFCeWRWN0hnM3E0RTV1V2RYVFZRNUVPblRPV0JoU25QSm94eWhKX0pBdFNwU1c3MEk0RG9vNGp3dWpfNlpSX1dFbnlPSW1feHJXOC1yTWJsZTBUcGxfS0JFTEFFQlpB?oc=5",
+   "data": "2026-11-03T08:00:01+00:00"
   },
   {
-   "titulo": "Ibovespa na semana cai 18,12%; veja a agenda com Copom",
-   "fonte": "Paranashop",
-   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAwX2hQSl9lZXJZb1hoNWRPZDlrZFpYLVMxaHFPSnNBOFJUaWVlUVphV1l4R2ZVWWR0MVFESHpHR21SaHRraV8yd09TQ2I5czdtOHNzSnQwSlBFOHZReHJUaDROelRWam0yQUVjVm9B?oc=5",
-   "data": "2026-11-03T03:40:17+00:00"
+   "titulo": "Proposta de Lara Resende é ameaça para inflação e juro de longo prazo, dizem economistas",
+   "fonte": "Valor Econômico",
+   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPbGl3VUtSNDhWN243VGY2QlM5UEpYdXFZNVpPMlJjaUlHcWxVNkx6S0tjMklfWm9JTzNZZEJmdU5FOHNPemxLZG1CYzVINm5KSk01a0ZQV2pZWXR0dGhvbzN6YnhndTVmbzhzZnhNVm9OZkJlZjRuQ2ZzX0c4LVBVQklERDVjTk56cmFZekFON1dXbkxpcWVXekZKMENDWE4xNkoyZmd0NHpoZjRGRmtIaXV4RjBuUENxSFhQZEc1dnNWdFlhMnVXUl9mSW9UdDA4YVZXTmFBckltUHfSAeoBQVVfeXFMTjRPdFphTU1BN2g5UC1OUzY3ZU1MY1M1QThucFprN1oxTjY4Z2R6MHo4NUdYTXVGUmpzN0hEeG5DZGVFVkdsZk43eE5jOC1Nd1FHemY2c1pQeGhtODJxbVBaTXE2Y1g2M0VjNXhfNUg0NWpCRFhZOHI5ZW1zXzRJTktod1ZGYmEtRzh1V2tzaGkwd0hIYk5LcE1OSFpsTlowUkFQQzBfejVZb3JUSWViR2lCdlRNWGUtemllR1ptNmw2SHVwOWkxWWQ2RGZHQjg1eWk5QlE3eXMtR0tXa2lyclJKVjVKZENYU3dn?oc=5",
+   "data": "2026-11-03T08:00:01+00:00"
   },
   {
-   "titulo": "Investimentos de empresas japonesas, coreanas e taiwanesas nos EUA devem continuar aumentando: Citi",
-   "fonte": "TradingView",
-   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBZUjhnaW1vcXRRT0RMa3FWMzRtbXJKMTFxY3JWdDRNQk5UUkFVbzdKRUlTZlB4MDJ2dXMyU0pmNjlZcGVWRzlZcEg3WlhYN2dIaXFtREllckZlcVRGM3dkRno1XzhJOE1CaVZFMkZ1RDUyTkpCdkIw?oc=5",
-   "data": "2026-11-03T03:38:00+00:00"
-  },
-  {
-   "titulo": "Pisar no freio ou seguir em frente? O dilema que o Copom leva para a mesa nesta terça",
-   "fonte": "PlatôBR",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQWmM0Z1Q3NTVOTHVLUWFfal9aLVljTHI3eWtQVW9YRWMtZTRJeGtwRzdRYUJXX040djNkcEZXOEhMWWRTdFFiTzNZaWdLWUlfU1A1bDRCeGQ0ajZJMzhRZFQ0Sko3S2pQMFBwb05CSUlOZjBJM3NoVmVIdFBtRDZ4QWItWUdzSk9FUzFnRW5uLU90Nl8zYmd3RDlTRks4VW1UN1FnNzViSGRqbjA?oc=5",
-   "data": "2026-11-03T03:11:11+00:00"
-  },
-  {
-   "titulo": "Banco Central deve manter Selic em 13,75% após reeleição de Lula - Portal IN - Pompeu Vasconcelos",
-   "fonte": "Portal IN - Pompeu Vasconcelos",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOTS1PdGJJZ2tJLWtZNTYzVEthTkxVUW44WUFnWXdZX3E3SEJCOC1TUHktNnB6Vi1VN2hpMHlqdUQwQkMwQVNHVkZMVWZaSkJHWXlQZXpteU9oZm81aFROUUtlQlVZdWR0eGNSaWNSQl82djVtQ2tvdjh6UUVZOFdvRDVjLUs2Q2FMQ05wam1yVE1CTHFFZ2d0REV0YnB0MzZXUHc?oc=5",
-   "data": "2026-11-03T03:01:00+00:00"
-  },
-  {
-   "titulo": "Selic em suspense, Copom na berlinda",
-   "fonte": "Bom Dia Mercado",
-   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQSmpmZGZibDV0OGFqQnphVFlGRlhPX2ltZkljZC00dWhGWnpfVnU1cTdnSk0wYkRwdnNLLUhzMFBPVUcwb1lBTDg0aTcweGluVi1ma19BWE5PdV9vMzdYRzJVUEdtN0VidFBxb2pkbTlaV3RsZWt5Q1Z0WGE1TVJqNzJIcGxxSTZVS0E?oc=5",
-   "data": "2026-11-03T02:51:00+00:00"
+   "titulo": "Copom Deve Pausar Cortes da Selic após Reeleição de Lula e Pressão sobre o Dólar",
+   "fonte": "Forbes Brasil",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPeDE1SmZ3S3VYNy1BckM4cndDTXVZeFl3SnB5LWhmcXd3Ukxwd0lrSEhsOUN3eU1RSXFramV1OV9XSmdBX29nNHdZSjQwN0lsLUw4akwtVE9uQm5HWXhZZV9Pc29ZdUE3Zk9JemVaY2p4VUdMaFBoSWU3WEJCSERUU0VEOFFiTmVMVVloVGpfc19iUFZyUEN1U1pzOU1va3haSjh1SDlkc3dOcE5hQjhVb0xvYkdkclZ6MkRnZ1dDbHJWUQ?oc=5",
+   "data": "2026-11-03T08:00:00+00:00"
   }
  ]
 }
