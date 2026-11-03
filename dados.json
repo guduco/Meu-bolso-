@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-03T03:53:35+00:00",
+ "atualizado": "2026-11-03T04:56:15+00:00",
  "indicadores": {
   "selic": {
    "valor": 13.75,
@@ -16,6 +16,18 @@
  },
  "cotacoes": {},
  "noticias": [
+  {
+   "titulo": "Austrália eleva juros ao maior nível em 18 anos enquanto boom da IA e custos de energia alimentam inflação",
+   "fonte": "TradingView",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1saXdKZVdXNkI4YVFveFN3MFZuQm9ubWx0YzRWd1BCV2NMQ09lY0VzaUJBcHU3clhlSG9JRHl0cUY2b3p6QmdGU2phdVpxWmpYRHBOR25DaEpWOWN4T3BJMTR3WGFzWWlGaFNFTVYtRQ?oc=5",
+   "data": "2026-11-03T04:14:00+00:00"
+  },
+  {
+   "titulo": "Banco Central deve manter Selic em 13,75% e interromper cortes após reeleição de Lula, aponta pesquisa",
+   "fonte": "Agenda do Poder",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNYzVtZ2hjMjgxbzJwMlBxNS02ZE90bUw4MjZOM25wTmxnZ0lxanJfQXY5aFlOMDM0b01sTEw0VDNIbTRFRzdxblloMkZ4azZuSC1ZaHBxTE9uTmpXXzh3RUpnRVNqZnNEbEt4UndLM3FyaE1OVTI3UjZ5Q2QxamE5M3A3Y2JXWm56TWRYNHQweVhNdFVWRWhRYk8tWnliUFVtSXBSQWc0Vk5DYVVNNDdqVmhEUXBhSmdwUFBzWFRFVEdRbXBleHBqRA?oc=5",
+   "data": "2026-11-03T04:03:00+00:00"
+  },
   {
    "titulo": "Ibovespa na semana cai 18,12%; veja a agenda com Copom",
    "fonte": "Paranashop",
@@ -47,10 +59,22 @@
    "data": "2026-11-03T02:51:00+00:00"
   },
   {
+   "titulo": "Ibovespa cai a 167 mil pontos com incerteza fiscal; dólar fecha em R$ 5,44, maior valor desde 2025",
+   "fonte": "Estadão",
+   "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQNG9DcC1qREpJdG42OFZfZ0lBOGlmYVVsNlpfQ3FwaFNIcl85bV9LQVhhaTF4MjVuRThXaUttTnJkalQ0YmRpTy1ad2JuaU8tSHFtNG94VUZtWjRCbkdGTlpJNDhHd1JQUVdQMmhPQmpvd0hCbUFobkp5U1JPamxMQXBjaHJBWXZzQlhscHU0eFdyNVVJcGhrXzhQQmZMYUNvWHJQekpyN3NqMzJVRUpON3JYclV1VU9jNVd6dm93dEllT0hpRnU0VUxHck1xZ1ZNYWNwTm1BRXFQVlVZRUVCakpFWlpNU3hTWUVKMHhYNlZYQQ?oc=5",
+   "data": "2026-11-03T02:11:25+00:00"
+  },
+  {
    "titulo": "Proposta de Lara Resende para limitar Selic entra no radar de Lula e assusta mercado",
    "fonte": "Jornal do Comércio",
    "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQdHdEd21kYVdESEM0c1RwWUVFUmExWTFxQkY5Wnl2bmVKZlh5Z1hkNDhseGU3RHN6eks4UWhNWWI3OGdnM2Q2aEhfTmZXamJZSnJveW5BSzhLODdJWHJZSFhSSjRWRDFYRE5Ea0xQVWZuVWtUX1F3VWZZRkl5dzJ0UkJZQUgyNV9XdGNWaFFpSTg1aGdRZXVaUm03TnFDcjdNZllNc1FVYWswVWlyc0ZQWXdRV2VITlVKazNWcmVTWnFaRXg0eUhkOF9RRTFzMzhmczdBc21Cb1AxYngyNkZuQw?oc=5",
    "data": "2026-11-03T01:52:30+00:00"
+  },
+  {
+   "titulo": "Barreira Matuto critica Jorge e Mateus e pede investimentos em saúde e educação no Nordeste em vez de cachês para artistas renomados.",
+   "fonte": "Repórter Maceió",
+   "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQMXhqOThITGJnSURva2tmWW9HUUVGVTEwQTdqTGdiQWhrMW5FRXpURTlXbklPU0RDd0FNRzd6WGVqMUZNRVBkaFdvRzVvSmh2REhUR1pxalIzbzhQelhaMkdQakJqWGkxZENvOHJEWllJNUNyVjFHYWUtc2QyTkIxYTFmcnE2WHRBMEZmODV4aGtMWWlZMTFGd3pDcTZqNEkwM3cwcEtjWlNRRVU2QkpxRnBFc2hTUnRycjRwbnVJQV94bmVNR0YxZFZ5ZzRBcmZqUnQ5RS1pNVZZZDlUOUR3TDIyVk5XRjJRaHRHLXNGODU2RHMwaEE?oc=5",
+   "data": "2026-11-03T01:45:00+00:00"
   },
   {
    "titulo": "Cortar a Selic pode fazer a inflação cair? Entenda a tese de Lara Resende",
@@ -59,34 +83,10 @@
    "data": "2026-11-03T01:42:57+00:00"
   },
   {
-   "titulo": "Utilities: Prévia dos Resultados do 3º trimestre de 2026",
-   "fonte": "XP Investimentos",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQVFkybV9HQ18yaFhfd2pqTjFubGxFVmNqZGF3VE9QWnZFSlNnLXhNMllROHRDTk81SXR3ZUVnd2pSc3Q4ekJxNVV1UnlDbEFGUXd4cXA4NnIweV8zYzdoOWdwY1c3dUtfaXh0UmlnUmJSNEZHWGdobzhuUU1qcGNUZ2xaYXNOVlV2TDlJSFUxRUZoZ18tVWFHNWxwNmQxMHVJSkhwaQ?oc=5",
-   "data": "2026-11-03T01:11:43+00:00"
-  },
-  {
-   "titulo": "Copom do CRPM registra mais de 6 mil chamadas no primeiro mês de atuação",
-   "fonte": "Jornal Ibiá",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNZXB4ZHo2bkFXeVgzRDFTZUlmZkxEQVRqTUlrWDZmVTdUbUxVeEtiZnl0d0xCY3lvbC00T2hxbHFBdkJXRTZDUDFLTFRJYWYwSFBhYncyTERzOVljYXlmdlBzU0thc2pGdkVReTFqazV5bW5KcTVWNk9qQVRZU2dSLTVEU2NtelBxZEo1dFRqRmw2R0R0Q1VobTNtcGxvMGZTWFc1SEY4ek5OTGdDamsxeGJTVUFMYmc?oc=5",
-   "data": "2026-11-03T00:56:00+00:00"
-  },
-  {
-   "titulo": "Dívida elevada e dúvidas sobre o rumo da taxa Selic pressionam as companhias",
-   "fonte": "Jornal O Sul",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQQThHZ2k2Tno4aFVnaTNSVFJybHhpV2lmYXMxanNEQ3g0RzhjQUxxSHllcl81WXVYLUhHQzR0VXRtWHFmbENKUnAxdXQ5YUdqMjdQa1FnQTA1dzMzWWwyVkxRd3NiMEhsMUVPUHZ0ZjJKeEdQbWt5bWkySWQ3R2dwMmVfQWNpZldPR0t5YnhsemIzZ2dhdE02d0doZGdrZzJMSGFJ0gGoAUFVX3lxTFBpaUloYVZwNTAtajU5RHZUbkZMbGxRUjlKUnpERlh0UWdpOEhyc1dvR2U5eUwweV8tZ2NJZDExY0NmbWRFRmZ6dlp6SVo2cTZSdzhJcUtRQzRsYXpKRE5OX1Z5MDFJbXcxdGE3T3lKM3hzWTRvblhtYTlFMFkxc01RS2Fxb19BVVFaZVE3OUV6M1BrMXFnTDFDb19aSFNtVjZsc3FrZV91aA?oc=5",
-   "data": "2026-11-03T00:54:04+00:00"
-  },
-  {
-   "titulo": "Fechamento do mercado financeiro",
-   "fonte": "Jornal Correio do Norte",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNbXgtcjB0ZzczclBCNHFsSFF2aHV6aU9Ic1dad2lsMnlLRmVHdmlYQm52RWRrRHNyZ1c2bk5iQ2s3UWlZUHFIOGVNZjJNRlNJbFVDT1NXNXU0T2p1a2hIWDJKYUFXTUN6X2FYLWhuNXc0bmZfOEFtTnl6Q0JwRkFRcGItSjlxN0RXY0JkcU8ySC1yakdiTUsxcFpydDJRV3FCRHkwV3dxVlRfTVh4ZXprLXRuTdIBuAFBVV95cUxNMXhId2Y3S29hRmNHZDhWV3h4aWFaSktvdjc5MVRrOFhoT24yWDVVQXZPQnA0eWc1RjFWVDNNOS1VYTh6Rjl5dVNnelI1QUxmbkF4cU53WGx3cUNXaDExM25RdWJUOHh4M0oyRjVnYWFnUjhxeXBiNTRDS2x6cVEwN0loYlBjaC1uYk80VmppbjdvdUkzZUZRSzZweDU5TjBMUDA1eTAwN2tEanRYWVV3UUhmVHBvdnFP?oc=5",
-   "data": "2026-11-03T00:38:00+00:00"
-  },
-  {
-   "titulo": "Incerteza fiscal e disparada do dólar depois da vitória de Lula nas urnas levam analistas a apostar na manutenção da taxa Selic nesta semana",
-   "fonte": "Jornal O Sul",
-   "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNb3JjSk94QTBMaDVUcmszUUU0bjFScDd3enhHdHBMMWlWNW8zY3JyNlctdUtROGpWazhGcjZlWTlyVmlMZFVWaHMtVVpoN2NpR3ZOUzFDWFlnMU5iZ08tcmtLSGZMQUZWdzRVcFBzYXhQdWxSZlZLTVpFblhZdnFWQkxiRTNkUWNuemtjVzZTd0VGdzR2T0RKNDdVU01kNk5lSEcxSzRDYzFud3F4X1J6TXhwZlBoU0kxWEtaNmFXUl92YURBVmQ5YzV3N0EzYXI4M1JWNkxXQzhXbFM1ZmZLSkg0cldDWl83WmJUQnhkbjI5bXJVZExYRVZUSkJpZ9IB_gFBVV95cUxNb3JjSk94QTBMaDVUcmszUUU0bjFScDd3enhHdHBMMWlWNW8zY3JyNlctdUtROGpWazhGcjZlWTlyVmlMZFVWaHMtVVpoN2NpR3ZOUzFDWFlnMU5iZ08tcmtLSGZMQUZWdzRVcFBzYXhQdWxSZlZLTVpFblhZdnFWQkxiRTNkUWNuemtjVzZTd0VGdzR2T0RKNDdVU01kNk5lSEcxSzRDYzFud3F4X1J6TXhwZlBoU0kxWEtaNmFXUl92YURBVmQ5YzV3N0EzYXI4M1JWNkxXQzhXbFM1ZmZLSkg0cldDWl83WmJUQnhkbjI5bXJVZExYRVZUSkJpZw?oc=5",
-   "data": "2026-11-03T00:34:37+00:00"
+   "titulo": "Ibovespa hoje cai aos 169 mil pontos com risco fiscal e inflação dos EUA; dólar sobe a R$ 5,38",
+   "fonte": "Estadão",
+   "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNazlHcVUzNmE1dW9mRF91UXNTMzA1aEVoVzJLX2twRE83bFJTOTQyT3lBZ2NWM3hWVEtmM2NpZmNHVG1mbEJqbEFiQVljeDR0NmFWWXN3YW1LdVhuOUJib0xVVEJ3dlpranJtQWl4b0JiSnE3aVkydjRjVUFuZzJWSm5aalZlSWJtZmduWHlJMEpkUHFGS3Vvelg4ZTNTc1E0YTRxMjFTcmhRR0pYYTk4SWo0UDdVdUlwMlJVbGpndHJ6ZkVkRGNLLXNlVGs0MWRhQ1VzWnVWYmtzZ0Faa0J2ZkpEVzduV3VBMFJyU2l3OVhodXl5QlNj?oc=5",
+   "data": "2026-11-03T01:36:40+00:00"
   }
  ]
 }
