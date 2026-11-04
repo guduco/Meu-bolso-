@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-04T05:59:26+00:00",
+ "atualizado": "2026-11-04T07:14:39+00:00",
  "indicadores": {
   "selic": {
    "valor": 13.75,
@@ -16,6 +16,24 @@
  },
  "cotacoes": {},
  "noticias": [
+  {
+   "titulo": "O novo mapa dos investimentos do agro no Espírito Santo",
+   "fonte": "Conexão Safra",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPS0dQR3l2MjBYN3BxV0oxUndtZVZueV9WalhhVjJsZjNGaUFuNkdMNTRIaGVuTk1KT002NkN6bXc5cFZVNVBSSDlMdkVmSXlOOHYzQ2ZGdDZUcWNETUJ1V1FlLWwwc3luOTk1bFhrR0JlZzRVbDc0OE9wRlJsQi1VNWZRY1dfUU9mNFRaLVJWNTJScG9OLTFpck9rSFU?oc=5",
+   "data": "2026-11-04T07:09:00+00:00"
+  },
+  {
+   "titulo": "Copom deve manter Selic em 13,75% e interromper ciclo de cortes",
+   "fonte": "Folha de S.Paulo",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPYXpzUm82YjNVVTBJSmZlb05EU0JpMld5NFBjYWJsR3I2Xy1oUjF0QVZtRHEtcmpvbEpyZFJOVTRJSnlSaXgtSzNKYWhaYWdDQlhVbkxNSEpnZFBnazBsNWRvcVlwTGM5T2lNWHpmcGZ0c1JjTVMtNHYyQVZtejU2c1ladEc2T1JQZEVZT1RGQUNYVEF4R1NQdDlmRUo0SEU3OUs5U0FjQXNIN3FEZmZNLXJoQQ?oc=5",
+   "data": "2026-11-04T07:00:00+00:00"
+  },
+  {
+   "titulo": "Estados Unidos: bolsas asiáticas e dólar caem com avanço democrata nas intercalares",
+   "fonte": "Euronews.com",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQY2QtUTRNZUVvRXJwUkFOVXJweGJaZ29MRTRFTlhtaHNpV3NsQ2o4TWZvYVJyRGU4SlNVbjVReGNJSEF6QkFfT2Z1RHVvcnpGYm5ubk9zRjJNZ1pSWURGcGhzRnIxM2FiV19VY1lBT3FVckVSVW1qaFVhM0Z3T1Y4enNjemNyZnRMd0ZVOGhNY3dfZDN0bDRoTnh2OXNnTzU4cmt2ek5wZjBfUm94ano2c0dxSVItb1k0?oc=5",
+   "data": "2026-11-04T05:48:34+00:00"
+  },
   {
    "titulo": "IBOVESPA fecha hoje com queda 1,42%",
    "fonte": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
@@ -67,26 +85,8 @@
   {
    "titulo": "Por que o silêncio de Lula sobre a equipe econômica do novo mandato mexe tanto com o dólar?",
    "fonte": "O GLOBO",
-   "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQQW5adWhkNThXQTRscWxKX215bW5TWm00Ti1ocS10bWhOanV4Q0F6NFdTZVk1N05paGJYYjk3ZTZXZjcwWXNEM0dDQTRva05iU2FKaG5KbF81MjRDcFJHdXQwMUwybVhRNFVlcFYwalN3cDhaOFBTUy1oRGNQNGYxdkNyTGdLV1FhRXN1bmlhMWZFRXIyRlFMZThRUVd3S1p1bVAwUGJ4SElNRnRXSUo5OF9rZGZpSS02SkFlLXJ6ZDR0VmJjNlRiZ2pVS0pTaTJWUGFJbmNkcmFvRXh6S1g0bWJSd0RIVGxhTVk2ekVMb9IB_gFBVV95cUxOVnpydDdTWHF2M2NTNE8wc0xkZUY0cHBHd3RYdFVYX1c5NS1qRVBQZWdveU9xUTQtLUxMbXF1ZHQwbTdhenZWRlZCSTRBVmNKeWJ2YkNQSDRJQmJsYzhqQ2ZuQjhCelVDTjMwdHBTUEMwUTB0TkswZjBlMGs1TGRLRjdjVWRWUTN3bWNxZlRTVkVtWlp1TS1KaVhoMUlxR0ZXNkhaenk4UlJSVXM4bl9fSFZNenkyeUFYYk9nOHk1ajZaT0d3VXpJX0pTZzBVMlo2OGQ0bXpQWmhkYk5BVzhJRTBjMHB6UjBtZDRwWjdaaW5OUUxOeWdyd0Jkc2FUQQ?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOVnpydDdTWHF2M2NTNE8wc0xkZUY0cHBHd3RYdFVYX1c5NS1qRVBQZWdveU9xUTQtLUxMbXF1ZHQwbTdhenZWRlZCSTRBVmNKeWJ2YkNQSDRJQmJsYzhqQ2ZuQjhCelVDTjMwdHBTUEMwUTB0TkswZjBlMGs1TGRLRjdjVWRWUTN3bWNxZlRTVkVtWlp1TS1KaVhoMUlxR0ZXNkhaenk4UlJSVXM4bl9fSFZNenkyeUFYYk9nOHk1ajZaT0d3VXpJX0pTZzBVMlo2OGQ0bXpQWmhkYk5BVzhJRTBjMHB6UjBtZDRwWjdaaW5OUUxOeWdyd0Jkc2FUQdIB_gFBVV95cUxOVnpydDdTWHF2M2NTNE8wc0xkZUY0cHBHd3RYdFVYX1c5NS1qRVBQZWdveU9xUTQtLUxMbXF1ZHQwbTdhenZWRlZCSTRBVmNKeWJ2YkNQSDRJQmJsYzhqQ2ZuQjhCelVDTjMwdHBTUEMwUTB0TkswZjBlMGs1TGRLRjdjVWRWUTN3bWNxZlRTVkVtWlp1TS1KaVhoMUlxR0ZXNkhaenk4UlJSVXM4bl9fSFZNenkyeUFYYk9nOHk1ajZaT0d3VXpJX0pTZzBVMlo2OGQ0bXpQWmhkYk5BVzhJRTBjMHB6UjBtZDRwWjdaaW5OUUxOeWdyd0Jkc2FUQQ?oc=5",
    "data": "2026-11-04T03:00:01+00:00"
-  },
-  {
-   "titulo": "Dólar fecha a R$ 5,48, maior valor do ano, e Bolsa cai 1,42%",
-   "fonte": "Vero Notícias",
-   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQM2hRU2pvOHlfRFE4NEhjWUJrQUhfVEEwUEtCU2JGc2tuaGY0eEE0eEJYT2hqYkRGdTB4U3BOYy1UdHJ1M1BDSmIxNHJvT3J6VTJYQ3RXVko5cnlvRlEzSnU2VEJDSVJDZkRtcnR2TGR6QzB5eW8yWmVld05LUlRhREwyVFlxYlNhd0FWUU1xTzlRRFk?oc=5",
-   "data": "2026-11-04T02:45:00+00:00"
-  },
-  {
-   "titulo": "Dólar sobe 0,74% e fecha a R$ 5,4863 no Brasil",
-   "fonte": "Brasil 247",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxORU5KWS1CM1FLQlhNWG8zUVZrMGJTd2Z2T1lTSk9VUkx2b3dpbWd1dGJwT21vckFpamZETm5JM0I3NWYxbXBtZllFS2pVZVFjalo1ZTEzdTVpbEFMM3dKOFBmT2dHNVh5VWJ3SjlzaDAwOE5CcmdPc0thaVFmWHd5MFp3RnI?oc=5",
-   "data": "2026-11-04T02:18:00+00:00"
-  },
-  {
-   "titulo": "Tendências 04/11/2026 | das principais ações da Bolsa",
-   "fonte": "XP Investimentos",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZHBSYmIxa0lybVBJbUFNZlVIYjkycVFHYjF3VVpyaW5uU1M2TWVPaTFyWmMyeUU2RXBsTnlISVVIbWplNkplN1RtMGNUTkZqM2xmOGV4TVpZUnItbnFub3Q5ZFdNVHBVc25RaFJ6LW9wR3d2RUFmUE5SVGU4QnpnZkJuRks3TmFOcUVETEltcUdoVXdWbjdmN1BUQS1yM1h3XzZ6RUREQ2c3RWlP?oc=5",
-   "data": "2026-11-04T01:39:01+00:00"
   }
  ]
 }
