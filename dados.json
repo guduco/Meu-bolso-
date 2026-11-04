@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-04T03:54:28+00:00",
+ "atualizado": "2026-11-04T04:58:27+00:00",
  "indicadores": {
   "selic": {
    "valor": 13.75,
@@ -16,6 +16,24 @@
  },
  "cotacoes": {},
  "noticias": [
+  {
+   "titulo": "Copom deve optar por pausa nos cortes da Selic",
+   "fonte": "Bom Dia Mercado",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOVDh2REZEcXZsaEMydEN2dFAta00xdnJEOXo3WHVLQzl3TUV2MDRzeTFDUm1iSUkya19wdHprS3lteUk2ZXNYWXpEVm5GQV82NzJYVkNENXctcjl5T05sNTMyUmlWbmIzVlUxNUhMSjJYOGMwdjZfdkNyN3JwdHZoSmVOOGNweGJDX2MyUWUta3JSSHc2SFQtWQ?oc=5",
+   "data": "2026-11-04T04:32:50+00:00"
+  },
+  {
+   "titulo": "Copom anuncia nesta quarta-feira (4) a nova taxa Selic, que define os juros básicos da economia",
+   "fonte": "R7",
+   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNeVl2R2trZzYwb1lKOWVlcGw3RjdWQ05xZFhYNmpESEM2dnZSRTMwZUFoZ0FNaHRkUE13Q0xsbUdoc3EzR3RlWkR6NFZuTXluMk1aZWtVTTItVkxSWFpUUm9JYnVIUlhUSHFRWGRyNWVDU21DSEYzaXpJc090ZUtzalVLUGctRjZfc0h3dF9sSTFWbHBsOVlOcUhUeDBYVndtekRTMmVfaWtxMWoxanY5dklPYzhabGk3Nl9mOFdDcmZ0a2FFREhwUXhtY1pBUThtcDhwcEdydlZEcUtyelZZRnJQcmlITnZaUkE?oc=5",
+   "data": "2026-11-04T04:28:56+00:00"
+  },
+  {
+   "titulo": "Moedas asiáticas sobem com queda do dólar; iuane recua após medida do banco central chinês",
+   "fonte": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOWmEwYmlUc2g2NDNSeFBCamZ6V2x1bTNZSkdqRi1ScWM1dldhbXhBeS0tYi1ka2tvQnFWRWhKbXl3M2lUSGx6WWZhUG5hbHdFN2VPcTlvejVJNkdzLUs2aWltbHAzbnptS3pMTXhUTEQwNWg2aGN2OGlSZzRYRjJxQTUzXzVKUGM2NVlGOFFYcFZrckQtbUJTQWUyVGVtVk5HNUNqWTNvRHVsN3ctMXdGazVTM2U?oc=5",
+   "data": "2026-11-04T03:55:00+00:00"
+  },
   {
    "titulo": "Embraer renova recorde, impulsionada por fundamentos sólidos e dólar alto: o Ibovespa nesta terça",
    "fonte": "Estadão",
@@ -35,15 +53,15 @@
    "data": "2026-11-04T03:00:01+00:00"
   },
   {
-   "titulo": "Com mercado dividido após reeleição de Lula, BC decide nesta quarta entre novo corte ou manutenção da taxa de juros",
-   "fonte": "G1",
-   "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQQTBOaFZqVTRqM0VCR0wtNHdZdzZWZFR2aXJITl9kZFR5ZUhDWUZIWGdoRlY4MDRXclpvX2wzNnRNTWYybl9GX25LUUVKU1pKRGRWcnlhRmVXR1VtYUxIcm1TWUFReUdIcDhRNlA5MEFScWFpUnBlQW1MUmZFbHNKSnNkM3daeHlDekpSMVlhdlZqNGpFaFFUSjFVVGZvOGh3WmJ6SmRMRFV2elBmcktFSmNCZFhyUHRtWUZ5UWZyZGo0clBuU0NtTkdLT3ZzeGhKR2V5blVLY1lWaTdnLUNrRWZnTzNqbTdjVXlpeGRVb2wyUnJmTE5Wa0VYMGFIQdIBjAJBVV95cUxQWHV5TF9NdjB4VHhmRzVGbmZ3aGtfZXp1SFUtaHBmMzdlc0tTWGl5Z25ybERoaFptSGlnZmgyTXhwd3dWZDY4U3FaTHIyVldNc3BHUmthbFVZOGw5dEhhVWZXQlM5d29WRm5IQXVfVFVlUGJSbTQzVG1BaTVfQl9Ia3BYaGpiaHNGOVctWUtLMlNfNjB3QnEtZ0w0c2gtUk14YUk4TENRR2F6a1hIckF4Ri1UV2VFU3dncWdtb2t5V19KYTZLSFFwUThGdjdjR2ZqY1Rhd0MwcGFQMWQwdjVKc0NQWnJhRlYtcm5EWmR1Q29SVDJLM29fdk1oeXZ2VzkzaXhzRjE1SmdoUEpS?oc=5",
+   "titulo": "Por que o silêncio de Lula sobre a equipe econômica do novo mandato mexe tanto com o dólar?",
+   "fonte": "O GLOBO",
+   "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOVnpydDdTWHF2M2NTNE8wc0xkZUY0cHBHd3RYdFVYX1c5NS1qRVBQZWdveU9xUTQtLUxMbXF1ZHQwbTdhenZWRlZCSTRBVmNKeWJ2YkNQSDRJQmJsYzhqQ2ZuQjhCelVDTjMwdHBTUEMwUTB0TkswZjBlMGs1TGRLRjdjVWRWUTN3bWNxZlRTVkVtWlp1TS1KaVhoMUlxR0ZXNkhaenk4UlJSVXM4bl9fSFZNenkyeUFYYk9nOHk1ajZaT0d3VXpJX0pTZzBVMlo2OGQ0bXpQWmhkYk5BVzhJRTBjMHB6UjBtZDRwWjdaaW5OUUxOeWdyd0Jkc2FUQdIB_gFBVV95cUxOVnpydDdTWHF2M2NTNE8wc0xkZUY0cHBHd3RYdFVYX1c5NS1qRVBQZWdveU9xUTQtLUxMbXF1ZHQwbTdhenZWRlZCSTRBVmNKeWJ2YkNQSDRJQmJsYzhqQ2ZuQjhCelVDTjMwdHBTUEMwUTB0TkswZjBlMGs1TGRLRjdjVWRWUTN3bWNxZlRTVkVtWlp1TS1KaVhoMUlxR0ZXNkhaenk4UlJSVXM4bl9fSFZNenkyeUFYYk9nOHk1ajZaT0d3VXpJX0pTZzBVMlo2OGQ0bXpQWmhkYk5BVzhJRTBjMHB6UjBtZDRwWjdaaW5OUUxOeWdyd0Jkc2FUQQ?oc=5",
    "data": "2026-11-04T03:00:01+00:00"
   },
   {
-   "titulo": "Por que o silêncio de Lula sobre a equipe econômica do novo mandato mexe tanto com o dólar?",
-   "fonte": "O GLOBO",
-   "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQQW5adWhkNThXQTRscWxKX215bW5TWm00Ti1ocS10bWhOanV4Q0F6NFdTZVk1N05paGJYYjk3ZTZXZjcwWXNEM0dDQTRva05iU2FKaG5KbF81MjRDcFJHdXQwMUwybVhRNFVlcFYwalN3cDhaOFBTUy1oRGNQNGYxdkNyTGdLV1FhRXN1bmlhMWZFRXIyRlFMZThRUVd3S1p1bVAwUGJ4SElNRnRXSUo5OF9rZGZpSS02SkFlLXJ6ZDR0VmJjNlRiZ2pVS0pTaTJWUGFJbmNkcmFvRXh6S1g0bWJSd0RIVGxhTVk2ekVMb9IB_gFBVV95cUxOVnpydDdTWHF2M2NTNE8wc0xkZUY0cHBHd3RYdFVYX1c5NS1qRVBQZWdveU9xUTQtLUxMbXF1ZHQwbTdhenZWRlZCSTRBVmNKeWJ2YkNQSDRJQmJsYzhqQ2ZuQjhCelVDTjMwdHBTUEMwUTB0TkswZjBlMGs1TGRLRjdjVWRWUTN3bWNxZlRTVkVtWlp1TS1KaVhoMUlxR0ZXNkhaenk4UlJSVXM4bl9fSFZNenkyeUFYYk9nOHk1ajZaT0d3VXpJX0pTZzBVMlo2OGQ0bXpQWmhkYk5BVzhJRTBjMHB6UjBtZDRwWjdaaW5OUUxOeWdyd0Jkc2FUQQ?oc=5",
+   "titulo": "Com mercado dividido após reeleição de Lula, BC decide nesta quarta entre novo corte ou manutenção da taxa de juros",
+   "fonte": "G1",
+   "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQQTBOaFZqVTRqM0VCR0wtNHdZdzZWZFR2aXJITl9kZFR5ZUhDWUZIWGdoRlY4MDRXclpvX2wzNnRNTWYybl9GX25LUUVKU1pKRGRWcnlhRmVXR1VtYUxIcm1TWUFReUdIcDhRNlA5MEFScWFpUnBlQW1MUmZFbHNKSnNkM3daeHlDekpSMVlhdlZqNGpFaFFUSjFVVGZvOGh3WmJ6SmRMRFV2elBmcktFSmNCZFhyUHRtWUZ5UWZyZGo0clBuU0NtTkdLT3ZzeGhKR2V5blVLY1lWaTdnLUNrRWZnTzNqbTdjVXlpeGRVb2wyUnJmTE5Wa0VYMGFIQdIBjAJBVV95cUxQWHV5TF9NdjB4VHhmRzVGbmZ3aGtfZXp1SFUtaHBmMzdlc0tTWGl5Z25ybERoaFptSGlnZmgyTXhwd3dWZDY4U3FaTHIyVldNc3BHUmthbFVZOGw5dEhhVWZXQlM5d29WRm5IQXVfVFVlUGJSbTQzVG1BaTVfQl9Ia3BYaGpiaHNGOVctWUtLMlNfNjB3QnEtZ0w0c2gtUk14YUk4TENRR2F6a1hIckF4Ri1UV2VFU3dncWdtb2t5V19KYTZLSFFwUThGdjdjR2ZqY1Rhd0MwcGFQMWQwdjVKc0NQWnJhRlYtcm5EWmR1Q29SVDJLM29fdk1oeXZ2VzkzaXhzRjE1SmdoUEpS?oc=5",
    "data": "2026-11-04T03:00:01+00:00"
   },
   {
@@ -69,24 +87,6 @@
    "fonte": "Valor Econômico",
    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQWTZXMWtCOE9WQlVCU29nSmNCY2w2N0RxMU1MSHIxY0RXNWpZNWZyMDk5Vi1LbTRZMFBHVE1SUXVGd2xkTUtEYkJzcDVwZkpLWFZzN0ZXYXdoWC1zNTNxdEtTWTUzamxCZWx5UDFaQkRyVWdNdllzSVFCQW91aWZSeEFVTHpGSUxTWktfTXo2LU1HSU5GbTZhaUlHSGNnM0hSenMzOTl5aVdKRUxYUlZ6NFhVYmR1c0FJSXZsZVZwWUV4MHBD0gHTAUFVX3lxTE1fam0wVjg3ZzFkV09WeWJkUUc1MFlRY2pETGJRNTVaZEtzbTBsZ1lhbm9CdXBodG4yVS12b25fSUNJdEFZeXRNdEdmSDl1U1hKdEt1ME5oUms1bV9zeFpMQXFkZWlxMVRCQTJiWnIwYklPam0wOC0tYkJiQ2xUVGgtOHVsdkJaOVAzc3B6bzNEeF9idHRiVmZBT3ZRdlVIZ0VXdkJ1YU1PWmtsRHhjRHhsUFoySnM5U0xvQWw2a0pYMTJFWTBKRnhndVhQWVZTb052Z0E?oc=5",
    "data": "2026-11-04T01:11:46+00:00"
-  },
-  {
-   "titulo": "Copom decide Selic nesta quarta-feira com mercado dividido entre manutenção e corte dos juros",
-   "fonte": "Times Brasil",
-   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOeElZWE9LdjFGcmVJRXpLYldLd2lKNmlSdWo3YzhrMWRfMXpYcXJTOExwei1nRVRxcjg0SzNnWE1UX3dpNjV6c0V1RUFtUEJ5SHFFRjRYM0h0aHpFQi1JczdGQ3NHOUFIeGdmWTVsMTFfTUdNMXJGUjN1TUtTVEZHUEZwaUgzajQtS1NrbEVscl9sMHhvV09nZGxjendfTVNNSFEtLU1FRm5xcFFMeDllb0Vfd1dpNWZJMk1qMmdLTDFjUlMxemlF?oc=5",
-   "data": "2026-11-04T01:03:00+00:00"
-  },
-  {
-   "titulo": "Economista citado por Lara Resende diz que ideia do brasileiro não foi testada",
-   "fonte": "Estadão",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQVmhicDNhVDhDMDhjRkhnLTRGbHZLMTRSeWMyXzZoeEYwdm93dlJyQ1VQVDRpWUZKWGRfR09raWt5TkY2QlkxUnl0V09GYk04bzlwR3VpdlZVamFZVlFIZ0hzdVR4ZFJtYVA5bmxBRmp6c0Y0QmhYdV90SU0wa0thUi05R2JRU3ZyZmx0bF9DQ2g1aVhhQ3V1blNyQkJneEdPU04wcGJkZ3lWRlhzMDJOZ252Yk9Jd9IBuwFBVV95cUxNNk9DNU5IR1ZBLVFJOHdXVVMzNkU5UV9BUm9FUUVKckwzUVk5b2ZFQ2UzVEh0cWh6Mkxmcm9HYzVNS1pOY1lLYURmZEhLZjJobHhIY1JQcE0yR2trb2J1bGJ3MF81T0dzUG5ReE5vTEdjZXBpd3BadllYbjN1SFNIczV4a2xkVHo5ZTVmcS1NdDFvdWJvU2llTnNmTndIWldIWV92NmY3VFJkZ0xvbWVCdmlPV1ZGSUVDZmQ4?oc=5",
-   "data": "2026-11-04T00:56:00+00:00"
-  },
-  {
-   "titulo": "Maior IVA do mundo preocupa empresários e paralisa investimentos",
-   "fonte": "Gazeta do Povo",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTi01ZV91bndJRjNOcVpHbjVmYUFhTlRGYmczaUFxSmZJLUVtVXZyN29YTFJSZGU5eXBTQnIzYV96cGFBYjM4RE5QT1Zvb21QZDJoNU5LQjBEdXRvenZ0SjdrT2ozbm81ZWY5ZHU1Y3lscF9pcWlrWUlqWkVtTUZmUUhuMHF2NXhHSXVwSTRENEllZ0tyTXpldjEyZld4dHl6TGVxSlFn?oc=5",
-   "data": "2026-11-04T00:44:00+00:00"
   }
  ]
 }
