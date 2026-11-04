@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-04T15:56:35+00:00",
+ "atualizado": "2026-11-04T16:57:23+00:00",
  "indicadores": {
   "selic": {
    "valor": 13.75,
@@ -17,10 +17,58 @@
  "cotacoes": {},
  "noticias": [
   {
-   "titulo": "Tesouro Direto hoje: taxas recuam com alívio externo e IPCA+ volta a ficar abaixo de 8%",
-   "fonte": "EuQueroInvestir",
-   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPNVRwdkRYWkdYQ3hkd0tmWGUtOTZ0ZS1MTTFxdGFORDBYSTdPSG9iNlBHWnVnTkdpSndLc2FmMTkyd3R0Ym5ZeVRvMGoyTlQtbExsWjZnaFhPYndjaHBPY0ZTZEZGdkpIMUpTaGRZVC1OS09LVXRoSmN6WjlaN0l2Q0xsMmlyU0h3YXc?oc=5",
-   "data": "2026-11-04T15:48:11+00:00"
+   "titulo": "“Espaço para queda da Selic é estreito”, alerta Blue3",
+   "fonte": "BPMoney",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPMm5VTVdaMjFSVFhFRTFaWTUzSmdlLUdNRWZYQllFaXNoWjhFek55WVBUOEpnR285cWhLTFRRQ2lYc0FhX1ZnUF81Vmh5QjhObTk3Vk1TR0w5UG82ekI2RzRvcDZsSjRmVlRCXzRPeWtwYzF4VTFjbkZDc0J5bjltVmYxaG5odlA1NWc?oc=5",
+   "data": "2026-11-04T16:53:55+00:00"
+  },
+  {
+   "titulo": "CCT aprova incentivos para investimentos em pesquisa na saúde",
+   "fonte": "Senado",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNYTJHbXJFcl8zU1BBSE1GbERCOEJPb1dkZlZZY3ItcHJIb3VFVkJKenJqT0Q3NFVUc3dPNDlqWEpsR0tOa1FSSjhkbXNkSTdCQzNtcGRVUjloa1dQOUFURU51Yk96UFNLM19xcUE2bllVQmhhTWQ1RlUwajRORkJfTHhVQXNIVlJqeU5LY2h4MkZXWUtqVXR2dEs3QTdYdzBlZXpJTDQ3ZDRBM093YnNMck1TRGoyNjFzT2c?oc=5",
+   "data": "2026-11-04T16:48:15+00:00"
+  },
+  {
+   "titulo": "CEO do Itaú alerta que corte forçado da Selic pode elevar juros de longo prazo",
+   "fonte": "Times Brasil | CNBC",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQcUN2ZFhBc1NWcElBNWJGZXBqek9LUUZBV2QzRGhCVEtwZWJhOTZVam42WFhWYnBnRTdsMWJnZkF2LVRmZHZlSl9Db21rbGUwaUFMemZoY2MyX2dCZGV6bFVKcVNrU1hJMk9zZ3hJV1NZOXpucG8zUEZBeW83ZzQweDBBUU8wMDdKS2xhUkFDVEtwaTRmbmF1ekJ2MHc4RXExQkJnV1ZNbXQ1enVNTkZ1MkM4bw?oc=5",
+   "data": "2026-11-04T16:28:00+00:00"
+  },
+  {
+   "titulo": "Clima favorece o plantio, dólar impulsiona as vendas e safra de soja é revisada; ouça o comentário",
+   "fonte": "Globo Rural",
+   "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOLUkyN0hOdTR5T1lWc3JxeXp4R25OS1E5dktSYS1vY20tZzY3RjJSZWNQb0NqTHpvcnhJM1hzVEpYX1RNdzJtYUpYVHZtazFrQnBUMHBpX1VLVzhFRVVoUHlId1EyR0Y3WFR1b1Nhei1aRmVOZXRDWTJpeFhsbG5WN1dqNUlKR3Y1a0kxbEtyV2kxZ2p4X1lzTTBhbExKenBEOGQ5ZGQ0eklaclp3bGduUkY5LVJnM3M4X29UU2ZqNGhQRnI5MGstX1J5WHYwMlRwc0w1a0p3alZ3d09LVVI0TTNsMUJCYVY5MTVPSWRocnZMcGl0UzBSbNIBhwJBVV95cUxQMVllX1FUUFJKM3BrWmlueXpPQzF3bHl5Q0RraGlTNWhhazdPVFRINUV1eW41bnhMLTFlRE4tVFpUYTRqbFFaWnlyQUVUOUlFZjJaT1lQQmozdDhQcXVJaEsxZDhJTkZoUnRVSDJwMi02cEtTY3BpZEc2OEJxUHVTODJ5aTFJdWFjdXA2bWhlU3hTbm9BMlRnQlVvT0FCYUttRUNTNzBadmNTRnkzSmREWEQzcF9xY1E2bUJpUDM5WmtIMnd4TUQ2amNpUmJxQ2xFQlVDcUE5YW5naGNiVElfLWpJMzJTX2xJOFF0WXpQWjloUDNxRm1FdDVqWWMwS3VyTDE3WDFkRQ?oc=5",
+   "data": "2026-11-04T16:19:17+00:00"
+  },
+  {
+   "titulo": "O mercado desistiu do Brasil? Gestores reduzem apostas em bolsa e reforçam dólar antes do Copom",
+   "fonte": "Seu Dinheiro",
+   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPS2RvRVdzbzN5ck1zNmN0TE16YXktdGVDSjZvX3lFUjR2MGdkZWM3aGtyZXRzYUpyS2xYa29YTGZOb3ZjZ09zWFVVaHFKV2JHWEhjZFEtRmpkWUhWbnp2dTRmSzZJVzhQb1hLY0tsRXV1RDRueU12bmZMQVltNktUSUNGTmQzNGgwWTc0T0VhT0hVM3hYalpEZGFhSWNyNjdxZGk5N3N5bmYyaUFfTU1yT1lPQXRvOFR2cHZJeHhHR1k1dnlFQkotSy1nUm16N3BreVZCaFFNc0NFVjItNGc?oc=5",
+   "data": "2026-11-04T16:15:00+00:00"
+  },
+  {
+   "titulo": "Ibovespa sobe mais de 1% e dólar acompanha a alta -",
+   "fonte": "Folha de Campo Grande -",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQbFhtWWZxN3I2d1Q3VXhzVzNPOU9OV0ptSFJ2Y0hySExaWmozZjMzR3M5T0N3N2FZU1VDWERqNmxUTzlvUTByWmNjWTZFN0dfQ3FfOW4tVk9KdG9PNmlFNkdkaHBHVlpRNFl0Sy1yTFlVTGJZZ3RKX0FJOVhsaUt2ZWZIUXZvWU9JZzkxaG5Vdm43eFhUT1E?oc=5",
+   "data": "2026-11-04T16:09:56+00:00"
+  },
+  {
+   "titulo": "IF Sudeste MG e MEC consolidam investimentos e parcerias na Zona da Mata",
+   "fonte": "IF Sudeste MG",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNOGlWSUZac1dKc0plRFFyWDAzcl9KRHZHd0FuUWlYSUVuUEdSV2paZnZiSWNPYUVfVW9YNFRSWVpLQ3cwb2xLbU1uTDd2OWlOV1JjMmNERWtkVHNXR1QxU0RHNzVfMW5TdXJBVTF5OHBreXVIeXg1VlI2bFdCSXA2YnR1TzhWT2FSYzEzM2sxZC02QmtHZmM4WXdjWVpoSW5YVGlBRDVyRWRzN2JvdUFCN1ZFa1ZaU0c1NHgzdzl3?oc=5",
+   "data": "2026-11-04T16:08:49+00:00"
+  },
+  {
+   "titulo": "Ibovespa sobe e dólar vira à espera do Copom; bolsas em NY disparam",
+   "fonte": "Valor Investe",
+   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPbU5ZTTBvR1JzM29saE9abUxETVhrRW1lc1BRZjVwLU13S3l1aThCVHJrbVhGWXJtdTRZTHM5WlBmVjVndnoza0JldkhEZHZnRGVldHdtekJEN09ydFdCR1ZRNTdxTm9mRkkyUlUxZEtJTURvM0JtS2o3ZlJUWmJnYmRicjRxaTNjYlN5UjlxNjNjX2l3aDFzRExZSE01VFBZNGpCNXZ6QnpuQWl0Z2R2NUtCTVMzWFpfTHNicDFzMExraUE2emxxbFRLY05wX0lXM0lSSHdwc9IB5gFBVV95cUxOUmF5OFlKNzd1MHk0aXhCdWtrTTcyMC02WHg3RWo3Z2Z5S3NnZWQ0Q19sR3ZySDV6LXVaR19tY3dVb2N6QkpMb3Z0N2VEUGhCdi1HQnBtZUNEb1ltX3o3OGNnY0pzODRQenNQS3dNSTVnVElpNWY4ZHJLb1lndFBHTXNGTHplZmN5b3huRDBDWHIySHVVR0ZhTklNdGF4M2xra2QxMUxJVUpzWUtyVXhpYy1SMkJiZGNpWHI1M0JsY0EyYXVhUjJNZlVmcldFX1NUbmk0TEVKdFVwUXFHNzkzeTVjWVFVUQ?oc=5",
+   "data": "2026-11-04T16:08:45+00:00"
+  },
+  {
+   "titulo": "Rivalidade entre EUA e China impulsiona investimentos em mineração no Brasil",
+   "fonte": "Folha de S.Paulo",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQS3NlZ1lWdWRmZ2pody1MUFRERlBJNmlCNG0wSFFkNVh6NVNUZi1lMUVKeUI4ang1WE1wNFhUc0N2bjA0S0NpYlZvX2F3c0g5djBzSFNrN0YwS1NoYzZqUmhqbmkzUFZaVWg4dldDbVVQeDR5QmZKUWRkU2x4a1pVcGk3RnZfT0lkSGlKTGxfMS1ERVZJMy01anl5YkRNTTNhcTdOYW1xa09RLTBNZ3RueEdTSlM5WkhjcUMtbFFWRl9MN1VLeGxN?oc=5",
+   "data": "2026-11-04T15:55:00+00:00"
   },
   {
    "titulo": "Coca-Cola anuncia US$ 7 bilhões em investimentos na América Latina: 'Estamos só começando'",
@@ -29,64 +77,16 @@
    "data": "2026-11-04T15:48:04+00:00"
   },
   {
+   "titulo": "Tesouro Direto hoje: taxas recuam com alívio externo e IPCA+ volta a ficar abaixo de 8%",
+   "fonte": "EuQueroInvestir",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPNVRwdkRYWkdYQ3hkd0tmWGUtOTZ0ZS1MTTFxdGFORDBYSTdPSG9iNlBHWnVnTkdpSndLc2FmMTkyd3R0Ym5ZeVRvMGoyTlQtbExsWjZnaFhPYndjaHBPY0ZTZEZGdkpIMUpTaGRZVC1OS09LVXRoSmN6WjlaN0l2Q0xsMmlyU0h3YXc?oc=5",
+   "data": "2026-11-04T15:47:12+00:00"
+  },
+  {
    "titulo": "Gestores desmontam 'kit Brasil' e apostam no dólar antes do Copom; maioria agora vê Selic estável",
    "fonte": "Money Times",
    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQNklrV3ZtLVQ5VTgtMXlEU09MSjU5bHZLV1hKWkpwVFJad3FZN2pTTDJ1XzFWbUQ3R3NIZkNMcWRHWWdRYXdlQk0tdHN1MFlOMGsyUmNzMm5jQWV6R29ESlIwUml3Ym50Y0xKNjhKek5ja1pQMVh5N1BqaW55dkpKRk0zLVpvdFVMa2wtVXMyQmo1WEdpekktZElvZ255UQ?oc=5",
    "data": "2026-11-04T15:44:00+00:00"
-  },
-  {
-   "titulo": "Moody’s atribui nota de alta qualidade à gestão de investimentos da Funpresp-Exe",
-   "fonte": "Valor Econômico",
-   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNZmNfYlZQM284Z3JRbXA4MTlEOW1COHNyaUpsdWVSTFlfVkl5eWZyNUZxOXNEWDVoTUJ3al92UmNVbWlBU2hHdWprdmoxV2ZwdVh3cXd4OEVheElEamlvM2lveFFETDVaSkQ0YU80amlUMV92ejdTWjNFbUVNNEEtVzQ1a3NzNldIUlE3dWRSa2lyU1hTRHZtVEM2N05taU8zWVpYd2RUMk5wUUhXeHpoVWtoNzNBTDIzeE41aTVtUDFnVF9NNlFMNTZCclVtZjjSAd4BQVVfeXFMUHhzWTVDLVRuRnVtVndtUUwyaFNraUdqWXZWQVRhTGQyNzZsN0c4WkNoR2JkeGJJQW84WUVIZmRaMFZqRUxQdmFXX2xLY251bU1KSnhsSGpubGlvc0Jlc3V5X0xTUTJtbDJxajVMNDR5Vm9lRW5sYzc3ekJnN0J5X055VkJ3X1VFNjROdnZMb1ltY0pPMDJUQmdTMEc5SnE2OHpFdzRIZnFiVngzcjZYOG93RnJXM1l6a0ZBdEx6a2F2UHJVOHo0OHROYUw4VkNqYVZuRFNtdzNnYThGY2VB?oc=5",
-   "data": "2026-11-04T15:43:48+00:00"
-  },
-  {
-   "titulo": "RD Saúde vê potencial de maior penetração no segmento GLP-1 em 2027, diz CEO",
-   "fonte": "InfoMoney",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOcnpROGtycU9Eei1oNDZyVFZWNkZYSVF0VTV2RXo4UEtfWTdzQWdOd0lnUVVnTlhWOU5TSVR6eWtxMHZxMWluSGRXT040Nlpra0F1QTJlSU1RZXBJcmxOWG1EY3ZMbG1KNFZxbV93R011Tnd1cWdtalhaZGxpWjBUclVZTjdBMndmVVhheTV2MHFVZ0hkYWpXYTA5a25Edzdpakt3SWZMcFUwTVIzbkJOOUZUU07SAboBQVVfeXFMT3Z1M096RkhVN1RkQVF1TVZnOGNOY2tfT2ktQUhtVGthVTRrLUtrYnZFY3RUQktPLUpEN1ROTWtxUkVUbnRWRXJiWmpLLWxLUF9hQ1IwTS13Uzd3ZXpKNTFYNDNHNll0Q3FEM3pwR2dRcmxuNlZrM0lqb3Z2S1hYVFlCTXowZ2s4X3BtUmg3Y0lkQXFabHkwS2R2Z2dha0tLOWpnb3Z0V3dtZ1dkaV85djBuVHY1UmpEWXp3?oc=5",
-   "data": "2026-11-04T15:43:32+00:00"
-  },
-  {
-   "titulo": "Diante das incertezas, pausa nos cortes da Selic é necessária, diz FecomercioSP",
-   "fonte": "Panrotas",
-   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPZUg1azdmUHhRX0FMZGxjcG14NjI3NnVxSDhOa25pT09nMGhjcWg2RUtBUExSRHRtNkJXbnVmTmZqLTZzT3kxMkduOHpmYVNzRXBObzVhaVFHSHZWeVNBR25BX3BtMUhCVEhNODFJYUlYVDBQa2Vtdm00cVZDeFZVYlNRSHV1V1NCdWNXcUlOMTV3UWNiVERMMEM2bkFaVGxNVUs1TFUzSkp0aFBJcUlUM3UyRTJiY2Nzd1JQU3QxWkU0VVNtX3F6ME8xSlZIY192bUhoUkhnZXV0MjVIR1F5VzUzU1c2Y21E?oc=5",
-   "data": "2026-11-04T15:42:00+00:00"
-  },
-  {
-   "titulo": "Por que Ibovespa sobe forte após vitória dos democratas nos EUA?",
-   "fonte": "InfoMoney",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxORTRFMTVYcExJYXlaY1l1N2Z0V3NncktIbnBBS21NdnVzT2tnRmJRaE5Kc1lZb3BBOXF0YWZrM0hNLW95S3BINXF2NlFQWWJ0Z3BqTEswVjBVUEFROHg1NldCeTBlN3AzbkZ3ZkxsRkZ4b1BQelMzc3VtbWxjTXFfYWo3ajdLQnJBazgtam5WWXdaT3NRTUQ2Z204eHlnU0pwQ2U4eFVobVBDbFVWYTViUQ?oc=5",
-   "data": "2026-11-04T15:30:19+00:00"
-  },
-  {
-   "titulo": "Enel acelera investimentos e amplia equipes para melhorar atendimento em São Paulo",
-   "fonte": "VEJA",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNR0VfbGkwZTFpQ0o5OVA5U1R1N3p1SHVIQkFfdkp4XzE3Q21qMUoxYkN4WUwteHRaVm5nNlEwTGc0U0JrUl8xTjFGbTNLMVNLcnI2T2NzWjE4b2J5V3Ruc2dNWTRwUVlnOG5TRXA3ODdSYXVFV1BUQkFkZjVBbU1MOVZEdVMxOE8xSTJ5TFk2SXNEMVNnVEZ2VFRHT3lBY3o4dHo4UW5pVW82aENkUmRwUi1WXzFoVzZDdUE?oc=5",
-   "data": "2026-11-04T15:30:14+00:00"
-  },
-  {
-   "titulo": "Dólar hoje: siga ao vivo o valor da cotação",
-   "fonte": "GZH",
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPbGZDN0NXazFBUXlfZS15Nlowcm9WMVNsMk05OFJhb2Rrd0lrd3k5eWtMNjd0NkxtNjNrNmgxVHhmQWtSTkk4SlJTNnlXTGJ2VTg0UTJHLTBQLVRoUkZEd05pZ3QtNGd3UzdUOEVGOGdCemZTdnlidUN3QUdhUWMwSUNtdnpfZXI0bk5UdHIxXzBjQ2JwOWhoOE1xWVktNjFnd0g0ODNtRHo0ZVZYSEhlazlXN2h0NlVac2NRUTVad1BkUTdhZ0E?oc=5",
-   "data": "2026-11-04T15:22:30+00:00"
-  },
-  {
-   "titulo": "Dólar recua para R$ 5,46 após eleições nos EUA e antes de decisão do Copom",
-   "fonte": "Brasilturis",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOOG1fOHZmX0tacmd1NWd3cDRmYVZjR2JVREdtX1Z3YTFyUTRiREF4V0l2MGZqR2lzUlFxMExEVzhrcGpHT1V5WE5YMHRSM1h1UE1uOGxIX1V6Z3E2S2tsNWVuQk13b0xUR0Rtb3dZcnctZnBuVFpyN2Z4aGpJWm5BQjMtbmdBNG96aXRNUEl2Vnp5VURDZzBMaW5ZRFI1T2lhX1JtWlkzalhOQVoydlUxNg?oc=5",
-   "data": "2026-11-04T15:10:58+00:00"
-  },
-  {
-   "titulo": "Vamos salta mais de 7% e lidera ganhos do Ibovespa hoje; veja maiores altas e baixas",
-   "fonte": "Estadão",
-   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQem1tamdfR3htTDMzSmw3UlRrbnNIWWJNVmFQR0Mwa015VHdvS3AtbHdNNG4tVWtnUnViaWNwaG5mX2pkVWl6SkVVQTVWSHNRZFI0ZkJEYk1LS1RKQW1Zd1h1NVNZZ0wyd05sWU5Kd3dwbWstMnp1aW5IY3EzT0k4MWRVbkNrTVpGLWRSYW9VajhVejM0cTlWaFgtN2VlRHhSNnZtTm5CSTRoM2RhZzhnbHJ3V09rWk9mMUdYa3J0bnRJS1lnbXh0X2ZtTmV3d3RYRmVrZUg5N1hYS001MFNMWEtZWQ?oc=5",
-   "data": "2026-11-04T15:06:43+00:00"
-  },
-  {
-   "titulo": "CDB e GCF assinam acordo para ampliar energia limpa em Barbados, Belize e Jamaica",
-   "fonte": "BNamericas",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZ19Ka1d5dU9UbXhWdHpLSWJad1BhWFVLYllkTUZ3dHdFYTBHY3NaVm1IbjdxdEJYLV9wMldyM0NoOWdOZkZOMWo0QWpITEZvaUlxR2hMOWJEeTdXb3FVdi12Z05pa29vQkxIUHBiRTZkZnY5ZzB5NTBJenpkbGx6MkQ2bkhfS2F4eGZueTNnQ3F4ZzNUODNYWmppUm4yZmRrNzVid3ZXd3d1OGJPTGcxVjdybllBbzgyNXBn?oc=5",
-   "data": "2026-11-04T15:02:46+00:00"
   }
  ]
 }
