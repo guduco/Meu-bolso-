@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-04T01:01:53+00:00",
+ "atualizado": "2026-11-04T01:59:58+00:00",
  "indicadores": {
   "selic": {
    "valor": 13.75,
@@ -16,6 +16,30 @@
  },
  "cotacoes": {},
  "noticias": [
+  {
+   "titulo": "Tendências 04/11/2026 | das principais ações da Bolsa",
+   "fonte": "XP Investimentos",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZHBSYmIxa0lybVBJbUFNZlVIYjkycVFHYjF3VVpyaW5uU1M2TWVPaTFyWmMyeUU2RXBsTnlISVVIbWplNkplN1RtMGNUTkZqM2xmOGV4TVpZUnItbnFub3Q5ZFdNVHBVc25RaFJ6LW9wR3d2RUFmUE5SVGU4QnpnZkJuRks3TmFOcUVETEltcUdoVXdWbjdmN1BUQS1yM1h3XzZ6RUREQ2c3RWlP?oc=5",
+   "data": "2026-11-04T01:39:01+00:00"
+  },
+  {
+   "titulo": "Temor de guinada heterodoxa no BC faz prêmio de inflação disparar no mercado",
+   "fonte": "Valor Econômico",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQWTZXMWtCOE9WQlVCU29nSmNCY2w2N0RxMU1MSHIxY0RXNWpZNWZyMDk5Vi1LbTRZMFBHVE1SUXVGd2xkTUtEYkJzcDVwZkpLWFZzN0ZXYXdoWC1zNTNxdEtTWTUzamxCZWx5UDFaQkRyVWdNdllzSVFCQW91aWZSeEFVTHpGSUxTWktfTXo2LU1HSU5GbTZhaUlHSGNnM0hSenMzOTl5aVdKRUxYUlZ6NFhVYmR1c0FJSXZsZVZwWUV4MHBD0gHTAUFVX3lxTE1fam0wVjg3ZzFkV09WeWJkUUc1MFlRY2pETGJRNTVaZEtzbTBsZ1lhbm9CdXBodG4yVS12b25fSUNJdEFZeXRNdEdmSDl1U1hKdEt1ME5oUms1bV9zeFpMQXFkZWlxMVRCQTJiWnIwYklPam0wOC0tYkJiQ2xUVGgtOHVsdkJaOVAzc3B6bzNEeF9idHRiVmZBT3ZRdlVIZ0VXdkJ1YU1PWmtsRHhjRHhsUFoySnM5U0xvQWw2a0pYMTJFWTBKRnhndVhQWVZTb052Z0E?oc=5",
+   "data": "2026-11-04T01:11:46+00:00"
+  },
+  {
+   "titulo": "Copom decide Selic nesta quarta-feira com mercado dividido entre manutenção e corte dos juros",
+   "fonte": "Times Brasil",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOeElZWE9LdjFGcmVJRXpLYldLd2lKNmlSdWo3YzhrMWRfMXpYcXJTOExwei1nRVRxcjg0SzNnWE1UX3dpNjV6c0V1RUFtUEJ5SHFFRjRYM0h0aHpFQi1JczdGQ3NHOUFIeGdmWTVsMTFfTUdNMXJGUjN1TUtTVEZHUEZwaUgzajQtS1NrbEVscl9sMHhvV09nZGxjendfTVNNSFEtLU1FRm5xcFFMeDllb0Vfd1dpNWZJMk1qMmdLTDFjUlMxemlF?oc=5",
+   "data": "2026-11-04T01:03:00+00:00"
+  },
+  {
+   "titulo": "Economista citado por Lara Resende diz que ideia do brasileiro não foi testada",
+   "fonte": "Estadão",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQVmhicDNhVDhDMDhjRkhnLTRGbHZLMTRSeWMyXzZoeEYwdm93dlJyQ1VQVDRpWUZKWGRfR09raWt5TkY2QlkxUnl0V09GYk04bzlwR3VpdlZVamFZVlFIZ0hzdVR4ZFJtYVA5bmxBRmp6c0Y0QmhYdV90SU0wa0thUi05R2JRU3ZyZmx0bF9DQ2g1aVhhQ3V1blNyQkJneEdPU04wcGJkZ3lWRlhzMDJOZ252Yk9Jd9IBuwFBVV95cUxNNk9DNU5IR1ZBLVFJOHdXVVMzNkU5UV9BUm9FUUVKckwzUVk5b2ZFQ2UzVEh0cWh6Mkxmcm9HYzVNS1pOY1lLYURmZEhLZjJobHhIY1JQcE0yR2trb2J1bGJ3MF81T0dzUG5ReE5vTEdjZXBpd3BadllYbjN1SFNIczV4a2xkVHo5ZTVmcS1NdDFvdWJvU2llTnNmTndIWldIWV92NmY3VFJkZ0xvbWVCdmlPV1ZGSUVDZmQ4?oc=5",
+   "data": "2026-11-04T00:56:00+00:00"
+  },
   {
    "titulo": "Dólar atinge o maior valor do ano a R$ 5,48, e Ibovespa cai pela 6ª vez seguida | #SBTBrasil",
    "fonte": "SBT News",
@@ -63,30 +87,6 @@
    "fonte": "EG NEWS",
    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPWkhfM1ZpUzl4bDB5cGV1YUNKYzh2ZVEzdHAzRDhFcHFfRnkzaTFfWGdXR2ZGWGF5YlQwMmtodXRsRVNFRU5CMVdudEpZVGZjR0JqOElYVHphM0JqbDl3dmZxelVwdDVjeHM1a0lWNkdIMVU4R3pFbHBuVHZ4OXh4ZFQ0VW5NcHVhbHNyS1Q3cXRXSDFlX1JqZlFsV3kzRnRHZWN6YUUwZ2Q2bGhz?oc=5",
    "data": "2026-11-04T00:18:00+00:00"
-  },
-  {
-   "titulo": "Ibovespa cai 1,48% com expectativa pela decisão do Copom sobre a Selic",
-   "fonte": "Brasil 61",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNUWJiODBHNzR3cDhGd2VqRk1MUVd3T2ZISzl0SUNkY2lVR2tRQWdDbm5KTGt1SXR3NFMyT3NkaF9BVHY3N0l2bzdmMkdESXVvczJVb0lsbzdtbU10OXpZam1PcDhpSGtOQWRtanFTOHhncy1KRE5UR2JOS3dWbVY2UG92MnVBTUFTTlo2WmZkLU9fOGJqZzZOQ0podzhTWlh6TXBtTGJjc9IBrAFBVV95cUxNQlZVb1ZBblVxUUZ4Y0FZdEFiQjVEWEEtS0ZSUkFsWkttUE50QzdFa2NZU1hlT3NYNndJaHZWdXpKR25IcVhCdmVvU0tianNPY2Y0N2dIcEZPZTZjc3BUMnZHclVReE5ud2YzLW9UQ1VadGxmeUwtWVktTjB6cHBtdl94OVlXcTh2RW5vNGxCR2c1Q01OMVRoNUtraThWSl9EQURVWENXekg1a2ZG?oc=5",
-   "data": "2026-11-04T00:00:00+00:00"
-  },
-  {
-   "titulo": "Ibovespa cai mais de 1% e dólar sobe a R$5,48 com temores sobre agenda econômica do governo",
-   "fonte": "TradingView",
-   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9QRFBKTUJOdHBUeG5GcnlYSzI5bGZ3SGpmS1lCTjhGOWI1QXJHWlAwVUlkcjdKQ3BnM084V1BuR3pzUGNqalQ0RS1xX3BqUG41Q180OE9TNWZoQldkdTIxeUxrbzZrYV93bmFhNkhUVnFPNndtalpz?oc=5",
-   "data": "2026-11-03T23:54:00+00:00"
-  },
-  {
-   "titulo": "Ibovespa encerra primeiro pregão de novembro aos 165,5 mil pontos",
-   "fonte": "Brasil 247",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQd3ZrdTZwaFJZRE96MklvSkFoUHN6ZHUwT3NPVjkwa1pvTkFLd2g1V3ljUjRpaDR2b2E1ZGczQ2EzY1BQWTMwVk1fT01obUhRLW4tWUk4b3JhMDlvbG5jekdiN3VRbFlNZzRFMVJBT1BkUU11OGJ0TjRFYzJSbXFjU21hX0ZmWE1ndlZsdkpWYV9FQkt5Mm9vN2gyb05zb003d3c?oc=5",
-   "data": "2026-11-03T23:53:58+00:00"
-  },
-  {
-   "titulo": "Com a crise da sócia @apex.partners , a gestora Carbyne Investimentos tem buscado aumentar a liquidez de curto prazo dos fundos enquanto negocia um movimento societário para evitar um esvaziamento maior de patrimônio por meio de resgates ou migr",
-   "fonte": "Instagram",
-   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5MYzJ3a19qY3pQdzhVZVJ1U0pMeGdNOVZZaDQ0d0djZFh5TmZtZHUxMDZ1NGtOOWpVdjM1WDRBZ0d0ZVdQTUNDd21DQ3pDaXhqSHc?oc=5",
-   "data": "2026-11-03T23:44:07+00:00"
   }
  ]
 }
