@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-04T01:59:58+00:00",
+ "atualizado": "2026-11-04T02:52:08+00:00",
  "indicadores": {
   "selic": {
    "valor": 13.75,
@@ -17,6 +17,18 @@
  "cotacoes": {},
  "noticias": [
   {
+   "titulo": "Dólar fecha a R$ 5,48, maior valor do ano, e Bolsa cai 1,42%",
+   "fonte": "Vero Notícias",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQM2hRU2pvOHlfRFE4NEhjWUJrQUhfVEEwUEtCU2JGc2tuaGY0eEE0eEJYT2hqYkRGdTB4U3BOYy1UdHJ1M1BDSmIxNHJvT3J6VTJYQ3RXVko5cnlvRlEzSnU2VEJDSVJDZkRtcnR2TGR6QzB5eW8yWmVld05LUlRhREwyVFlxYlNhd0FWUU1xTzlRRFk?oc=5",
+   "data": "2026-11-04T02:45:00+00:00"
+  },
+  {
+   "titulo": "Dólar sobe 0,74% e fecha a R$ 5,4863 no Brasil",
+   "fonte": "Brasil 247",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxORU5KWS1CM1FLQlhNWG8zUVZrMGJTd2Z2T1lTSk9VUkx2b3dpbWd1dGJwT21vckFpamZETm5JM0I3NWYxbXBtZllFS2pVZVFjalo1ZTEzdTVpbEFMM3dKOFBmT2dHNVh5VWJ3SjlzaDAwOE5CcmdPc0thaVFmWHd5MFp3RnI?oc=5",
+   "data": "2026-11-04T02:18:00+00:00"
+  },
+  {
    "titulo": "Tendências 04/11/2026 | das principais ações da Bolsa",
    "fonte": "XP Investimentos",
    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZHBSYmIxa0lybVBJbUFNZlVIYjkycVFHYjF3VVpyaW5uU1M2TWVPaTFyWmMyeUU2RXBsTnlISVVIbWplNkplN1RtMGNUTkZqM2xmOGV4TVpZUnItbnFub3Q5ZFdNVHBVc25RaFJ6LW9wR3d2RUFmUE5SVGU4QnpnZkJuRks3TmFOcUVETEltcUdoVXdWbjdmN1BUQS1yM1h3XzZ6RUREQ2c3RWlP?oc=5",
@@ -33,6 +45,12 @@
    "fonte": "Times Brasil",
    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOeElZWE9LdjFGcmVJRXpLYldLd2lKNmlSdWo3YzhrMWRfMXpYcXJTOExwei1nRVRxcjg0SzNnWE1UX3dpNjV6c0V1RUFtUEJ5SHFFRjRYM0h0aHpFQi1JczdGQ3NHOUFIeGdmWTVsMTFfTUdNMXJGUjN1TUtTVEZHUEZwaUgzajQtS1NrbEVscl9sMHhvV09nZGxjendfTVNNSFEtLU1FRm5xcFFMeDllb0Vfd1dpNWZJMk1qMmdLTDFjUlMxemlF?oc=5",
    "data": "2026-11-04T01:03:00+00:00"
+  },
+  {
+   "titulo": "Equipe econômica de Lula não deveria interpretar reação do mercado como pessoal ou especulativa",
+   "fonte": "Estadão",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPTGFsUXJuYzNuNXp0RVIzal9nLXVOYWpHMnlEb3NnMnZ0NkxUUjFIT3VrQW55SDdrR3UxLTJuMTk1Z2JmVkg5MTZsWjU0NGEzbldyMzZnR1NERENYeko5ZFg0X3Qta0JTajM1OFlhaDlrUDQyTW5CT21ORzF6TEJpREg1QUVBbUNZTnlMN0VPYTZhRXRWd213R1RQQ1QzTkIyclNHc244clpLMDZ0VmhSN0JLUTNodmpmdk12ZlByc1htc1pYdjJTMXZhNUzSAdIBQVVfeXFMUGU0Tm44Z1FTZ251ZDJKMzZkWXRTZE1wYnpSRXA0R19EVGVzSi1DbGNUU3h0YW9rTWFKaVVtalpmV3pEMmV2MW51cVI1UFdtQTU5c0JFWFo2cTRjbXZnREtoRXYxc0VKOTBENGkwR2M4dHYxQmpCNlVLWW0zUFdSWEh6a2pQX2phS2hVU01wVFdmeDY0d1dBUXZfNUwxb3g3ekJOZ01qRlNIMnU4Z0dkcFpaVEJzYUFVSXR0ZjU1SC12UWR2X01mcFJWV2NWSFMxRlFn?oc=5",
+   "data": "2026-11-04T01:00:00+00:00"
   },
   {
    "titulo": "Economista citado por Lara Resende diz que ideia do brasileiro não foi testada",
@@ -55,7 +73,7 @@
   {
    "titulo": "Dólar fecha na maior cotação do ano",
    "fonte": "G1",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNR3kwcy1ranB6S09VWlVJd3o3bXdpVHpFTTJFUFpqU0hkZVlKaEVIU2FkWkxqQ1Zfbjd3MFEyWGE0MlY2U0xjRXVRd3FsOXh5X2daXzB1TGxPa1hwUzc1aXBTUU1kTmVJZklhOElRaVdsSzhvRUtsRExvUlNEZnc5c3hJcHFQdUNsYWo0QnY2QW1NVjVIaURUTtIBpwFBVV95cUxPUGlTdVQ5ZU9qLWFrRHFJMkxnR3A1Zk5Pc2ZRSERBTkVCd3JONHZfQ3NtNTVyVjYzUDNuMHRJUGRwdEp2c2xmdWtYcUZtSzRnYjVIazh2Q0Zmdnl4QTMzdGJTUnVhd2JpODNCZkttZ1pzemxxMVlvRVJKV3NFMmpicmdaSV82OTRyOXFicVZuZTZVNXk1Z3M2aHZmSEFMclVDd0l3Sl9zYw?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPUGlTdVQ5ZU9qLWFrRHFJMkxnR3A1Zk5Pc2ZRSERBTkVCd3JONHZfQ3NtNTVyVjYzUDNuMHRJUGRwdEp2c2xmdWtYcUZtSzRnYjVIazh2Q0Zmdnl4QTMzdGJTUnVhd2JpODNCZkttZ1pzemxxMVlvRVJKV3NFMmpicmdaSV82OTRyOXFicVZuZTZVNXk1Z3M2aHZmSEFMclVDd0l3Sl9zY9IBpwFBVV95cUxPUGlTdVQ5ZU9qLWFrRHFJMkxnR3A1Zk5Pc2ZRSERBTkVCd3JONHZfQ3NtNTVyVjYzUDNuMHRJUGRwdEp2c2xmdWtYcUZtSzRnYjVIazh2Q0Zmdnl4QTMzdGJTUnVhd2JpODNCZkttZ1pzemxxMVlvRVJKV3NFMmpicmdaSV82OTRyOXFicVZuZTZVNXk1Z3M2aHZmSEFMclVDd0l3Sl9zYw?oc=5",
    "data": "2026-11-04T00:40:00+00:00"
   },
   {
@@ -69,24 +87,6 @@
    "fonte": "Acia Araçatuba",
    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9Sc1pQMXFHZzZQLTRNU3dDMlRUSElJVHMtNXdEcjFUY2tveDc2Ul9NdkJtejBxaWxQQ0FmMUk2VDhDTDNFMlhwd0M0amdpQWVObUlLTWdUd05nbVFRdDZtZXlfcXdPdjlFX1BWUk0zbzVFV3NxakNwRHhPaU8?oc=5",
    "data": "2026-11-04T00:34:39+00:00"
-  },
-  {
-   "titulo": "Cotação do dólar hoje: moeda sobe a R$ 5,48",
-   "fonte": "Acia Araçatuba",
-   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5OR1p6VlJTdFhFY1lRY1NIMXp4MkFOWHlfS0NhSTgwMEdIcFZfWGVLUk9SZElLRDZvWTQta1RIcGxWRHNQZkRoU1JPZlVKZHN6QkladXM3dVRJM2xzNGc4WHpmbThJZw?oc=5",
-   "data": "2026-11-04T00:34:39+00:00"
-  },
-  {
-   "titulo": "Fábio ramalho ressalta importância de investimentos na área da saúde mental",
-   "fonte": "Blog Milton Figueiredo",
-   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOalJlUFBzakdXVFJ3Rm0zZGRkTFRMVDNtSG05al9mSE0xSVhBYkdrUy1Hb0dMM2ZGOEtOUFNjWjhUSDhSRVlNU3lxWDhHTFpEQzJZZnlyYUpGZDcySkQyWVRrU2VVQmRTZ1B4TUxteVhsT3FoVmRCRlduUFdlSXNWS3drWFBXNEdPa0RMbUJxZ0I2RVVCbXZvNm1sLXIzQXV2ZVFMNWpuTWY1NWhMUEJoQ0VhZi01VW1VQ2hUbnY3UFhwaVBKUHhGYw?oc=5",
-   "data": "2026-11-04T00:25:02+00:00"
-  },
-  {
-   "titulo": "Brasil registra US$ 5,6 bilhões em investimentos estrangeiros no setor de comunicações",
-   "fonte": "EG NEWS",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPWkhfM1ZpUzl4bDB5cGV1YUNKYzh2ZVEzdHAzRDhFcHFfRnkzaTFfWGdXR2ZGWGF5YlQwMmtodXRsRVNFRU5CMVdudEpZVGZjR0JqOElYVHphM0JqbDl3dmZxelVwdDVjeHM1a0lWNkdIMVU4R3pFbHBuVHZ4OXh4ZFQ0VW5NcHVhbHNyS1Q3cXRXSDFlX1JqZlFsV3kzRnRHZWN6YUUwZ2Q2bGhz?oc=5",
-   "data": "2026-11-04T00:18:00+00:00"
   }
  ]
 }
