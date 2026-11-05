@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-05T13:11:07+00:00",
+ "atualizado": "2026-11-05T14:58:55+00:00",
  "indicadores": {
   "selic": {
    "valor": 13.75,
@@ -17,76 +17,76 @@
  "cotacoes": {},
  "noticias": [
   {
-   "titulo": "Juros longos sobem após decisão do Copom e de olho em política fiscal",
-   "fonte": "CNN Brasil",
-   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOZi1JU0pTb2ItQVdOdVBJQlVSRUdfaTFjUDRkX0tZT2ZUOXlBOGI0M2huNDRBV1F5UDVYX3N3SlNHdWZSbzZuZHF3R19rMUFBTUdQdVRTZ2t6UXI3NGwtQ21UMjNsYkxDMTdSV1NmbXZwc2ZMWkZYem42UUE3UThlVHVublFNVGxwek1QaTBrd2g?oc=5",
-   "data": "2026-11-05T13:03:35+00:00"
+   "titulo": "Ibovespa sobe após Copom com juros e balanços no radar",
+   "fonte": "VEJA",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPWFhOVnFIOWFFSFUxS3czdVl3dWlpSVVNNFgtal9qU1J4S28yUTdDbEJja09hbkxlUDZfRXdPQ3JsWFQ4Q2J6MWt3RHlpWGtyUXFEUm03blNhMFJURWJTUmg0VHhEdU9Ua2ZxZGJCeUxNUTFNR0pzLWJLZzVqYVBkWVM2aF9UMzNLLXZvYm5VR01JbzZn?oc=5",
+   "data": "2026-11-05T14:56:48+00:00"
   },
   {
-   "titulo": "Dólar hoje oscila após Selic mantida; veja a cotação",
-   "fonte": "ISTOÉ DINHEIRO",
-   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8zMXRCaTJZU1h2OHNvLV82Z2NKMEJfdTBRZUNOanRaVjZyOXpHb3dLVWExaldOS2xDLTgtYUhabDNDS1A0TW5CU1A4VzZBdzVGVWtNTDloemxFNTFrLUNGbHBHUzJldVVxc2lyUUNabFk?oc=5",
-   "data": "2026-11-05T12:59:25+00:00"
-  },
-  {
-   "titulo": "Durigan diz que Selic a 13,75% é alta e que governo deve dar condições para queda sustentável",
+   "titulo": "BoE eleva projeções de inflação e crescimento do Reino Unido para 2026 e 2027",
    "fonte": "UOL Economia",
-   "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPdFRacTN2aXR2bDRSVWhSTk1BOUxBNERyWjdPYjRib05tT1h3a1JYNjNuTVFKeXYwcXVOcERBb084QnlUeXlrTW91VC1oNmd2Qkw2aVpIaG1ST0JCTHY5MFEwZDA3TmFJdE9UbDdhdW51MjZ4VXlBRXpZWmdFVWNoVkxjZ29vbHZoY29qNXN0TmIxTmxSRTY2ejFoUk41MXZ0RFdsWXVCNERzSWRGQU5OREw0OEcwUjVRbDFRRFVXbzAxblVuZFZNck1UR3lDbWNnXzNyeEJReUxQMGJWR0FMWW03aGU0NHJyOWVVVC1oWGZSQQ?oc=5",
-   "data": "2026-11-05T12:59:00+00:00"
+   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQWlNwMGVGbEk3SlZHN3E0T3VPZXNQTnREN1hzcXdFRUxNOFNESFQ3dHZpZTFNamI1Z2JINUllRlBXN05qdUEza2RVVVZRMW9zS0tJYWxPSEI4SE82QzlPOG11SFUyM2RZcmJzaTBPZE9XR2tZclAxaVN4MDRQZ2RVV2c2ZTAwMkNFRXhUVEEwd0NkcEdUT1JXaXlIZFN2eUxZZVJQamNrTnFNQnYzVFhhOEtpc3J3VlhhVnFkd01Gd18taVE5c0F5OUZiZHc5RjlnazRHYTBacEZKOFFxcnlj?oc=5",
+   "data": "2026-11-05T14:47:00+00:00"
   },
   {
-   "titulo": "Tesouro Direto hoje: após Copom, taxas sobem e IPCA+ paga até 7,92%",
-   "fonte": "Valor Investe",
-   "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPRTVJZ0VOLUFfV0lieDJKamRGV3dMZGNQQWdSTE1VZzdMYktyUDVPUnY0SkFuOWtra1pVeHlNamdjcWlTQmpjb3NUakxnMWQzMDN5VjlLUnE2Q3JsS184bG5iNTBmRzZIcDZOUGFSUVNNM283Y3FqYWxxdDNFLWo1SHNTXzJMMlBtaDJPZVRXX2ZDczhRMzJ4OVRaVjdoVldiR1NCVGZ2T0VKbVI1aG1MNy1GenZCUy03ZzFtc2ZSMzV5UDBxeHNwWC1LeEluT1JrOEdzUmdiZlppcjJUYm9KSjlLTkoxYjjSAfYBQVVfeXFMTm13WVZZZk5DSnRXNzRTTUw0TFRoQ2xjVG9IRWxQQ09uakxYZkNWWC03NWIyVTctVU81OTdTay15ajVvQlVrSkJ0SnNVdTRFYm5FUDVtQ3lTcndLOGxkd2E1TGx1Sko5OWxZY3Y3cFNUSm50bEZCZUJkNlJkUjQ4RnEwa1lrZi1aRHpTeG0xRUxwOUJ3UURPQUlnb0tVeUFDRzJOdHhicklNbmZzRVNuRlpKVkNHNXFLZWxrd2FoUTRXWE14VVlLc05zdlRmNi1YRk1wcmtBUUFHN2lOZnRkN0h0ekhuRXhuSXdoSkhqTXd0TDRVR3Fn?oc=5",
-   "data": "2026-11-05T12:53:41+00:00"
+   "titulo": "Dólar oscila e Ibovespa sobe após Copom manter a Selic em 13,75%",
+   "fonte": "Suno - Investimentos Inteligentes",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBPTE1GbFQyRE03NjhKSzhMNGtxOXpkUk16c1hGZi05NUtKREwtcDBXQzVmZmxVbkhtcVBpWU5Jd2pTVDZKaWF2c1U5MS1OTnQwWkY1b05CZXZHd2ZQVFBzckpJZDk5cFpUZjI2YkNtNkxPdzExbUdrWXFzWU_SAYIBQVVfeXFMTU92cnp3Ti1OcEtnaExoTHNzeTF3T3JxZ2gzWUJyNnBMclFrdUcxM1JVbUlwMmJvT05ISHhGT3E5WlZHNFM1NDdKLW12V2dVRkNxQTdJLXllWVA0RllTSWJ5cmNLcFdRLXRPRVo4cjh3QmdmanN6NDR2YU9jNklEbzRjZw?oc=5",
+   "data": "2026-11-05T14:46:27+00:00"
   },
   {
-   "titulo": "Cortes da Selic dependem de ajuste fiscal, diz Polo Capital",
-   "fonte": "ISTOÉ DINHEIRO",
-   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFB0aHJXa3RnbXZJMHZhUVJjdERZUjczOTcyRkJ1ZThoYmlpZXNpQmlLMlQ5RnYzUXMwZGNtRlh1WU5FNHRFVDlaekVKYmd0UnlJQzI2QnYyRWctTW1VT2NXTE9CdnhzZ0loLXVJeVR3SEJnbUNSWEw0?oc=5",
-   "data": "2026-11-05T12:52:21+00:00"
-  },
-  {
-   "titulo": "Taxa Selic: crédito caro continuará no caminho do varejo",
-   "fonte": "Sindilojas-SP",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOaXBqMkpZTmttdkVnczU0QU1kLWIzN0VvZEhhYng4aXJiQ2E0UTNNeUs2SlFDclFQbHRHRks5QUZ2QmFfSlJKQkk5Q3hMWEtxYm14QUlhSlBwYzFSR2NDam50RXFyVkthUHRxT29TamVnZ05WcElHWkg0b25QSUZ6VmVXaV9KTTcwX1FJdXVR?oc=5",
-   "data": "2026-11-05T12:51:27+00:00"
-  },
-  {
-   "titulo": "Banco Central mantém juros em 13,75% ao ano",
-   "fonte": "Contec Brasil",
-   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1XNWhpNHlkQXMtMFdtM3dNNVJiWEhVNmVlSXF0SjYzeWxqR2xTc2tUUWtPMnlPS2lZZ3dxMXJBV1NWSFNzY2pUeVRDOTB3SFFuQXVRRVZJdkRrOTFOQ2VqNmdUVmRUeWN0TmY5QzBEYVNrdw?oc=5",
-   "data": "2026-11-05T12:50:35+00:00"
-  },
-  {
-   "titulo": "Dólar sobe no pós-Copom e devolve parte do alívio da véspera",
-   "fonte": "Valor Econômico",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZm5XcEpKdUJOYlVLNVNsdndwOTlBaHBOTmgxZTJsek9yb3ZUUHJEazhoeDV2OFNlemlQd25IanQxdmxyaWN0TXIzc1NKRWR4eENkNXN4S1E0RmpFcGl6ZFBrMWpETTVWWFpDSGFId2E5LW5Bcl91STZZQmJTWnI4UlF2VFpmNUZTN1ZrV2d6aFFHdjZxakFhenFTNlUybHpPd3piSk1LMVFmYjl3N3o1bGxSOURvMHh5M0E?oc=5",
-   "data": "2026-11-05T12:48:35+00:00"
-  },
-  {
-   "titulo": "Dólar abre em alta após Copom manter Selic em 13,75%; juros futuros sobem",
-   "fonte": "Folha de S.Paulo",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOQmROdUN3YW1ZWDBBR1ZNb2ZHV1JNdWsxZWFBYzVwODNSWGhZcm93V0NrZ3d1THc4SVdOZU5JSnJDMDBFeHIzeTRoTTdhQk1MU3ZOS0E3UmZpbGUyNUVVZnBnRTA4bUNXZnJ1ZUwtOGxtOTQ5LTRESjBxMEJkSko2dkZKWjd4MDBqcEdTaUM5WTMyMFpFRFp2dERBa2lIbzIwQUpVdA?oc=5",
-   "data": "2026-11-05T12:48:00+00:00"
-  },
-  {
-   "titulo": "Mercados hoje: investidores repercutem decisão do Copom e produção industrial",
-   "fonte": "Bora Investir",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOLWxxZHdUajFWMWdhenJZX3prV1hMWkNyOXVKSGVwQ2JoUWt1XzVTdFZKQjl0b0wtdDJ4SmwydTNac00ydnBibzlBMndRU2RpbFV2WEpvTTdVSkNHaF9FaEIxQUpKZFNTNW5aZkwxQW1pc19GenpELWlpWHlXMEJSamVkdVhybEt2cFdMbVQ5bG5mbWd5dkZZWUFCT2RRcGtMWXQyMDM5SUJ1RkJ5U2k0N2ttNFRXdDRCaXpjbjVaVlZrV0U?oc=5",
-   "data": "2026-11-05T12:44:00+00:00"
-  },
-  {
-   "titulo": "Dólar sobe após abertura, seguindo alta global após \"onda azul\" nos EUA",
-   "fonte": "UOL Economia",
-   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPLWNCS3EySS1XMHFpZmNOczQwQnBkTnMtX3hPbnhPak1KcS1lSHVTdnJWRWdBUmtyVFhDQUtPc0V3Tk9SbV9Lc3BnUnZJVUJaMEZTWDFuVmt0YWdIMzRBU1ZkRlh4VlpzSi1hcnVaZnZSRnNIU1BWczNBcEg3eGQ4N0tnYy1TR2t5M2Z6V3gtTmpHU1U5dk1XUmk4VkExV1JvQWQxMnFZWnJiYWVCekZtTENHaUZTel9yUFh2RGJTbDFSa0x2bkxMbjcwR2Vtcnot?oc=5",
-   "data": "2026-11-05T12:43:17+00:00"
-  },
-  {
-   "titulo": "Dutch Bros acelera expansão para 2027 e eleva investimentos apesar de alerta nas vendas",
+   "titulo": "Meio-Dia Mercado: O Ibovespa operava instável, mercados americanos preocupados com regulamentação mais rígida da IA",
    "fonte": "ADVFN",
-   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOQjN2eXB1WnBnbW5Ka1BFVFFvSXBDbUJPVy10N0hMeGFvVTVGLUN6aWlldEM5cUpEYmNvdnVlOEM4YWs0NXlYalpiandLczJ4MXFLWHpyMkpCN1NkZnRMUXlid2QyUU13RHc2WW0yVnNRbXFHZU9nZ0dQTE1nY2V4Ml9nR1MtQjVmXzItekpDWQ?oc=5",
-   "data": "2026-11-05T12:42:07+00:00"
+   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOV3Z5TWFEYzQzUDcwWEV1Y2syaDFSbkROdmc4NFlHb2NoZjYtU2pST1N1Wm5pUTFVaEZmaGVhMGdvUzl2R01Dc2ZYenljVUdwMV9XbGFVZFpSeTlkVDhmNXM4bTkxNmxkbDhsc0hpVXZOekNKLXR2Q1pSTVRRS3RhU3YzLTdhemk4WXFjOFZzQWMzVzdxbjBGTkpVdnpHNG1WU2lIMDQyWHhmVFQwZGVFbE94V1RIYVM4UG9JSUdJeFQ5ZXpzb1FXeDV6Tld1Yl90TlhIeG5rZ0g2b2thYnpkaDA2bw?oc=5",
+   "data": "2026-11-05T14:45:48+00:00"
+  },
+  {
+   "titulo": "Será necessário levar política monetária a uma postura restritiva, diz Hammack, do Fed",
+   "fonte": "Valor Econômico",
+   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOQ1I3Y0pBM3lHZjk2WEh6aGxVVzNTZEExQlFiLVcwMmhVTi1fUjdMMkc0Z3lhbWQxdl9hbkFUT1dtc1UzZ2owb2dxdHJPbWNjU3gtWjZyUnJtZktVcnVYUzRxSlM3dzllUURsUElHLTY0V2ZOMVU5ZHVPQlRiN2Q3TzBPV0JOZWdPMlBHaEZPT2lJMGFtTU03dXZiS0xHYUV5N0RaYmNpQnZoaUdSLUxwbDlGM3I0alR4ZHlDNzB6dUdVU2U0OWJ4akctbWRSd0VNX2wzajRaVTJkTnlZ0gHrAUFVX3lxTFBNcE9nanVJazhzX0QwbHQ4bW9mNWgtVGR1eWNzWnYtZ183TExyZHZ5R0lkV0kwMEdwZkg5TDRHYVpOLXVBR3NlLWxHTlhmeXF4dnFGR3lYZU85OUNielhNVHRlSTVBOXJTb0loOWl4OExkYlY5U1o4dVYzV2E0SkZRdzlsbFFxMlBKa0pRenNxS21KNDh5Zy1mWVhOWFoxV3lJTTNyVm9sdGJBRFM3STd6VXFlUmViUEVBc0xHaVFCTlBjYUJ0ek1XVnJ5WnZ2clZobnM3WGg4QndWWjJXWm5KdExDcEFLdGt5cnM?oc=5",
+   "data": "2026-11-05T14:43:16+00:00"
+  },
+  {
+   "titulo": "Copom anunciou Selic como amplamente esperado pelo mercado",
+   "fonte": "Monitor Mercantil",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPX0ZKYkFoejZOTXkxdmxzQWtoZlMxX3ZNUVktVnRkY0NCZUdTUHpfTHpYOGtXbG5tMUQ5UU0zRkVBTmZQazNVdGU2UEtySTI2Nm5YekNHOVpNdkhOUTlPR3dwNU9zY2tkd05pdC1waXk1dDhNUU1aNWNqX3BmY3JRcWM2RFBtdUJYTzRsSURLaTZIcEhXY2c?oc=5",
+   "data": "2026-11-05T14:41:28+00:00"
+  },
+  {
+   "titulo": "LOA 2027 é aprovada na Câmara de Vereadores de Itabaiana; orçamento prevê R$ 776,5 milhões para investimentos e manutenção dos serviços públicos",
+   "fonte": "Prefeitura Municipal de Itabaiana",
+   "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPMlJGdEh6S2J2eWo3V3hqRUEyTU5xYXhpUWJ0SV9QWUl1eFk3OTZObWJsbEc5bU9DMlh4b250Q3lzYmUwQ1gwdC1jM1pvbERXb0pxcm1XS0MxcDlUUXc1SFJ0OGl4ZGs1YTRTQ29FN2V6Y3BTM2lHcU9jZkRlQ3BidEZtOEtoRk4wb0lNVzhDdGM1RzlYWTJOUGJqbkgxczlmVDdaQWdjLXhYcnNWRjE1R2FKS0pMVTA2Mmc5OFNYTXVlWExOZzNMY0c0b2NLQnYyd3EzYWdfb29ucXd3SEtxLXJCbWhPenFxQ0pqSmJBNlltVGY4UG1rQ0NfbndwSE03dUtqamdHRXg5cW1zN2JJTA?oc=5",
+   "data": "2026-11-05T14:37:34+00:00"
+  },
+  {
+   "titulo": "Crédito no agro fica mais caro mesmo com Selic estável",
+   "fonte": "Agrolink",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTEswajkwQ3o4MTY3bll3TEUxLW1NaFppYWJKU1FES0dlb0Y4cXplelZvSEJsLVFhU29qdEhfMUhzWk9GZ0xzVTU4cjJrQlZWV3hjakhqQWU5UnpJR1hNTWp6dGlqNmRLSmMxNlY3MXRGWXpNUEFYOGpmR3psMmdBT3FWLTVYMzlJVjZLejA2SWJPRXhacmg2QVA3VVVZSGVaeGNEUldR?oc=5",
+   "data": "2026-11-05T14:24:00+00:00"
+  },
+  {
+   "titulo": "Economistas veem pausa prolongada no ciclo de cortes de juros após decisão do Copom",
+   "fonte": "Exame",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPM1pMWHAtR3pyTUJ3QWhXR0J6T1JDSDMzcEViRlhlaEdoMEFReHNzU0xhb2JEZlRELWRDTzh2bHRJSlBDcjhLQnpFWE5wRWtCc1NKSENVdnNHSld0Q3VfZWlMb3FGTjM3cVk1LXc2UFJHTzc2MFhrc3NtaG1QekZxcFY1bmhIeEtkbVZMd2NyWlNJeW02Um9PMEU2QXBrR1g2azBpUVRIVHhkWkR4YUdKag?oc=5",
+   "data": "2026-11-05T14:20:42+00:00"
+  },
+  {
+   "titulo": "Indústria deve seguir fraca, com juros estacionados em 13,75% ao ano",
+   "fonte": "Safra",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPNWRNemhqc2NJYVdlSi1hdklTWmtoVW9Ta1dvSWN2ekx3ajlGUVhpQ2NUaW04ZzR3NjctWkhIeXpJSGlfak44TzNhLWw5X1BBdDNjS0IySGUxa3F4OUVjS2k4MGJ2Uk1FWWppOEdWMElYMjlsMmFMdTUtREVXaHlFVVlFUGJQaG1zNVBORGZUUUFFNWdFREE?oc=5",
+   "data": "2026-11-05T14:19:34+00:00"
+  },
+  {
+   "titulo": "Banco Central mantém Selic em 13,75% e alerta para cenário de incertezas",
+   "fonte": "CONTEE",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNeXkycENMa3Y2d19HNG43RWRlM1E0ZUlVZWw2NWFjU2FlcVM5X3J6eUtTZTlHelNDbXdtWjg2VW96SFdhVlBUM3hiN0tlRnA2WWtMQlJkbWtYblo1NF8td1YtYk9MYUMyRVZlZURPb2NGaE5HWHc1ZXB4Z0k1ZXNIQjdIOFRxRndUUGlFVExzSWtfaEkxWUc0Vw?oc=5",
+   "data": "2026-11-05T14:16:06+00:00"
+  },
+  {
+   "titulo": "Copom mantém Selic em 13,75% e interrompe ciclo de cortes de juros",
+   "fonte": "Portal do Agronegócio",
+   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNdVlNS1hqVTJpMjZlNVNPSXEta2ZBU1l2MUJVY09GdmxTWTFxTC1VTk9BaWs0d2llX3I0VTlpY3UzMEkzd0c3V0ZUc01pNlp5OHA0Qy02RjRJNElLRFFSb1lYZVlCRXM2UDRWU29UOXpSWE82bU0tc2czSE1jaVhRdXV1UzcxZzZYQ1I1am9rS190LXNFaEYwSnNkSkpsQUVBdHUxa0ozdWplRWVtWlUtS1FkQ191MHRBZjRvTGtuZGNHQm15ZmV2bXNyX2ZnWFplVm9lVDVUblc?oc=5",
+   "data": "2026-11-05T14:15:00+00:00"
   }
  ]
 }
