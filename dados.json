@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-05T01:04:17+00:00",
+ "atualizado": "2026-11-05T02:15:10+00:00",
  "indicadores": {
   "selic": {
    "valor": 13.75,
@@ -17,7 +17,55 @@
  "cotacoes": {},
  "noticias": [
   {
-   "titulo": "Taxa Selic: Copom mantém juros em 13,75% e surpreende",
+   "titulo": "Dólar cai a R$ 5,45 e Ibovespa recupera os 167 mil pontos",
+   "fonte": "Poder360",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQQ2NLaFcxQlNkQVY3OUxkZkdPR25IX1BDb3FzRVVrTmFZd2Y0a1g0d0t5ZGszdUdNU2VnaWxxR2lEdGRjNW9ZSE0tWU9yY2pPYVhOZlR2V0NZYUNjenp2ODRQYm1QcnBORHNTQWVvd1BzV3FZdkgxdE1vSmZoeGJVSURHVXg3am9YaXJoSnJHQzY4VDhKYWxGbnhsUEhrUG5x?oc=5",
+   "data": "2026-11-05T02:12:22+00:00"
+  },
+  {
+   "titulo": "Futuro da Selic depende do governo Lula após Copom manter taxa em 13,75%, dizem analistas",
+   "fonte": "Folha de S.Paulo",
+   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQbEhtREsxTDJpblFOS1hwdXhkZDZHb0dXY2RaSGhFLTlCQU90bVNXMzZueDY1R3l1RDVWZnlGTURBLVhFS0w0ZVlPTlFhZGdLUW5qX04yaUN4Q1BfOGMtRGRzZDM0TDZjbkYxdUJpWTZnNkFiTW1MVzF5Z3pfSkxnbE5DTF95b24yU0NEdEw5U2FTNVFRRVJRMjcwYjZZSGtxOFY0bUdCTW5zOWhuM0tHSG1HYURiZDB3aXQ1c3RjeGhyR2pYTTFVd1R5ZEpSUzNHWjhUSw?oc=5",
+   "data": "2026-11-05T02:00:00+00:00"
+  },
+  {
+   "titulo": "Dólar cai a R$ 5,45 com eleições nos EUA e taxa básica de juros",
+   "fonte": "Portal ABC do ABC",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9lcEVHSFFVUmRrbXpfMDR6Wm5OVkxTREMtWGVKcWItX1JuVUdvOTZaYWJ6VTNFWFNuSkNBal91UTl0T3JvVzJUWlBJelRwUDR6WXJ6dzNKS1dCcDFZXzlCUXNaWWNGaWgtTS1sa1FHMXB3UQ?oc=5",
+   "data": "2026-11-05T01:58:39+00:00"
+  },
+  {
+   "titulo": "Selic a 13,75%: como turbinar os investimentos?",
+   "fonte": "UOL Economia",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOY3ItdEJzeDRYMkl2OFY0cXpMdUxBY2I5T2VTZjdsdmRvWVh5Q3lhZk44eWRwT05fWGNNWVhxcnJQM0pucE5ZMXV6RHZUVi1HWUpNZnZ1MW1NeElETmNXNUVPR0tYN1lBR1ExOV8wSWFLc3RRWGlJZUttRHBuY2RJVWpSdmlUOVhINlAyYmd2T0p3dWZuRmNQQ2RBc1F3WDBsOXVFRXVR?oc=5",
+   "data": "2026-11-05T01:46:41+00:00"
+  },
+  {
+   "titulo": "Desconfiança fiscal forçou BC a paralisar corte na Selic, dizem economistas",
+   "fonte": "UOL Economia",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNa01qdTZsT1dLdDEybXVKZXdqZXNROUprczNMVXpaVTNnYTViN0ExU0lNWlhUeWNYbEhjYmFtLVNiVXYza3hlazZaazh2SkJMZy1MSmxkaFdfSUZlSURtOERaeFJ1WUoxMXNXRld0WTQ0SzlEdkIyV2FPc0hTSkhlMWFn?oc=5",
+   "data": "2026-11-05T01:46:41+00:00"
+  },
+  {
+   "titulo": "Copom mantém Selic em 13,75% a.a.",
+   "fonte": "InvesTalk",
+   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE54ZkhBOFhVcGtkY3RHVHJSUEFpRE05ZzNCVjJYbXZOd0JkMDFpaHd4OFlPVC1qazRaZ0tXVmJWMmZyeDNLMHcyZTlNcFFILVFTR1lhZEU1dlRldFBLN3hlMnFkSTdwTmRtbWl5bFl4YzlieVE?oc=5",
+   "data": "2026-11-05T01:32:00+00:00"
+  },
+  {
+   "titulo": "Lindbergh Farias diz que manutenção da Selic é ‘vergonha’ e chama mercado de ‘barões da Faria Lima’",
+   "fonte": "Valor Econômico",
+   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQakFRYU4yR0RhdlVRdjRmSDdIdTVuTjJDNUVkX3doS0ZlaDZHTVVmNURDSmVPX2dySkZjZGVjVEc3dmo5X0lKaGVYXzFFRS1aVFRSeGwzT0NSVmtGdGc4bjNBNUF0WE91aE8xd0JVOUkzdWMzbGd0V3VKTTBiRjlLQmlsbzRBeE4zUGhsckN2SXBVV0I2dGpCT2FOLS1RSXhuUWpUVWVXQ2xfX09ieUs5NFVjTTRXa3Ryb3BJZUtsdkhhaXA5c3FCYmpjZXBDbV9OUUQtamZ3ZUJhRlBSMldmTEJR0gHwAUFVX3lxTFBFNDNkOHpPWVZfWWY3ZVlNbG5YbWlMYTdjM0FiOWI4TFVCUUptaUg1eXRkeHZSZzZZVERscnZ4QVE0cDgySWlMQTMyRm51aW1mNmthYTU2WUJvR3VxSHYyZzdiTjQ3WnZWMUxmRllsYXNVR0lDZGowZjNITUJKTXZjTURlbW94cENfZUFhdnBqa3pVWkhZYnIyamhQVU1KZHlYRkd3cng4ZUVCTEdldnEyU0VkSUpyanZYa0NHRTV1Rl96a0pSUjVhWU04M3JaNzdLZi1hVDdsUzBnQjFHTEh1R2kxaXJkUlpvSVZtbWxwQQ?oc=5",
+   "data": "2026-11-05T01:29:17+00:00"
+  },
+  {
+   "titulo": "Vitória democrata nos EUA impacta economia e investimentos no Brasil",
+   "fonte": "Gazeta do Povo",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQYnlQV0pxUnR5bDFQdHlkRW5pWmZIZGt4MjZIdUZob3p0cXdzNVMyYlZneWNkTVBTSlF5Sk5IT2pWckEtUTUwSGFkaFVzbXBIanNoREI5VnJyN2FKUjkzTVM5X2JkV1J3TDlNelJWVndwNDZURFpYdkZhMmdCNzItanJvcjZpQlVLOFF1MlBvaXNkaXhjNGc2d2J6NHRxUl9xR3ZuamdKbmF0YXNzbHdWR1NSME9wd0lnazZxaThB?oc=5",
+   "data": "2026-11-05T00:56:00+00:00"
+  },
+  {
+   "titulo": "Copom mantém Selic em 13,75% e surpreende o mercado",
    "fonte": "ES Brasil",
    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5qbjRYWENsb0FDNGZLQkZmbU56MnZCdEZhNzFrMldwUWl4NUN1OHU0SW5ydWZReXVSWHR3YlBCS0d3NllDT3ZzTWtLT2xkbmloUldEcGhDeWJLNEcwWHBpaS0zbEo?oc=5",
    "data": "2026-11-05T00:55:25+00:00"
@@ -39,54 +87,6 @@
    "fonte": "GZH",
    "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNYS1mMGVhTEM1RWR6cG4zeU05aGlRZzgwNnFhVGNidTR0S3Jsa0pOMWotakRtMnRZQm5hNUFmTzhfWnRyWkNwU2NXZFpwc3gwYTIxa0loTjRxTXphU3lzcmpxdGZOUk1pSml1R3BTV09mWkhfUUdFZFYtQmUxQUFHOGlrdjVoNDdzaHQxX2FBZXN0YlRzSE8ybmtVYnZYbnc0cE1fR0ZTUjJzZU1BcGhKZnRrOGg0RWJyTTJzekMxRG9CYWVZbXU5bkw0TVlkb3dCSFF0UkRKcmdFLW9LSWc?oc=5",
    "data": "2026-11-05T00:42:24+00:00"
-  },
-  {
-   "titulo": "Após cinco cortes seguidos, Banco Central mantém taxa de juros em 13,75% ao ano",
-   "fonte": "G1",
-   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPcnItWHdSeUZlUWJKS2lTa0xmdjNyclYyQlBjTUlsb0otcVVUcDVhYnhpZGxtSG04Y1VuWkxab05XRE1hQ0JVcVpLRFY5bTJGVFNNT1VKSmszWHFZSHhfLWlKaXNLMDYxaW8xbkRWWElLNm9McGFEVVM5b09neG5hUEEwTWFQNkQwOW1PbEs1d244akZBTnZMSUdlMmlEb3Z5VGV1RUlwcDhYZ3NTOURDdFhyRnZnR2pxZHpZeVVYQzNwbm5pWld4U3lobW5kWGNZamJWa1YxQk5tdGNlSVHSAewBQVVfeXFMTnRuWHN0Mk54WjVUM1VPRzhDMFJrOGI2RFJYWHhFcEp4YmlXcE4tNzUxR0tGQWtnUGxZV3dVY0U1RUFhcmgwLW5tQ1FNYzJIM0gtVVpkZ1lOVXhsVVRycGFyMnN4aVNONHdLM2xlLXRrQk50c0hzM3I1RldqbDh6dWZIUTJEaEgtZUE1WEdLcmFPUHJrOWJfY2plQ3hWTmlzWWw4M2FQVDNESmk2ZTVKbGRfRXplRFlQOUpGLUhPVEdrejRoVVVUSnlJcjZKMUFYRTVkWnJJdlRTLVRVRXAxcHpiTHBiTEZhUFZveXc?oc=5",
-   "data": "2026-11-05T00:17:27+00:00"
-  },
-  {
-   "titulo": "Força Sindical: Selic em 13,75% deve reduzir investimentos em 2027",
-   "fonte": "UOL Economia",
-   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNc0dtY2NQdC1aVEE1VkhUTTM0N2hhblJSS3hRVEFCMkN4b3A2NHIxWWNHQXgxVEFlTlNQRlZjQ2tVRE9xajRVMzl1NE1BSTNKclF4a0l5dzBfdjZ1UDVDOWt0RVpqbEJPUEdNX0NWNmxHWk8zWWZNZ21COUZPRVJRMDh4Y29tcDVtTHJmeGVjUGNvWElwa1pHczBvQ1N6VGI4eFJnb3J1NE5nLVg1TmpWSndFaTg5dmhhWVF6bzByZ1VNR2t5aXJzc0pKVFk?oc=5",
-   "data": "2026-11-05T00:11:00+00:00"
-  },
-  {
-   "titulo": "Tendências 05/11/2026 | das principais ações da Bolsa",
-   "fonte": "XP Investimentos",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPQ3pncjU0MkVDT0VxbkxwTC10VjF1NS1Day1MZGE2QUlTRTRqTUdFY05Hb2NvaFhZYzYyUW5GUVlDZExRSDZIaXJGZ1ZQakh2UVFvM2hQR25XOXRQclpHaGFMNmpUdndPZXQ4VVhNNDhEN0ZLdldRS1pCaGxvUlpKYWlhQ2FhQUFzX3hjT3hDRnR5NzNVUDQ4YVg5QXBMaVBMUFdlOHF0VEhqT09S?oc=5",
-   "data": "2026-11-05T00:02:58+00:00"
-  },
-  {
-   "titulo": "Dólar fecha em queda de 0,64% e é cotado a R$ 5,45",
-   "fonte": "Brasil 61",
-   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQVlZyek9pU3FWSm11UnliQjk2Z2Ewd0VUemtnbnVNWVZ3d21QVmtGUXl1RVFROUVYbFR5cTJGbVlvZnlZRTFITzRwZzQzVDVULW54ZGRTVWhTQ2pBZGtDU2F2NnR1ZE52eml5WXBkNVpxWG1zZjlMQXhEVmpxUEEwOUh1Z3ZDREx2eTk40gGQAUFVX3lxTE5RQ1pZTmxfTThZaENCWlJUaGsxOHcta2NqcXNBcC1TNkppekxUaU5BMFBuSUZtTXdsTFVOYkJ1OFpKa0JtODd6N3B2WWx3enNBd3pucHdRdTQzVVNHTjdOREFxdjU2c3Q4VHl6TEZZYTdlRUQxUjA1MjdKWVdOVWxSREJUNWRwNVR5T0FjRUVxVg?oc=5",
-   "data": "2026-11-05T00:00:00+00:00"
-  },
-  {
-   "titulo": "Axia tem lucro de R$ 7,1 bi e amplia investimentos em 28% em 2026",
-   "fonte": "Agência iNFRA",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPUGQzV2gxU0tiLXp3eURyUVhyUXJNb01RRXNxQm9DWnBjSmRUV2pST25hNGRHclVDczlObFRyb3l4U1o5V0k3eWVjY2hUMlNpVjFMMEE2UkphS1hERlB6TXdaUlZHa3BBTHl2S2ZIV19EUU5yTG00YkcxZTN0MzYyaVV6R0djZTRSTDZaVGVhcG1LR21tQmxQVw?oc=5",
-   "data": "2026-11-04T23:50:17+00:00"
-  },
-  {
-   "titulo": "Dólar fecha em queda a R$ 5,4518 e Ibovespa sobe 1,23%",
-   "fonte": "Campo Grande News",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQSVFIdFRUbVhheXl5dDVtRTZITmhSa0Yycm54MktsRWlpSlc5cHpGUm4wdDhZRTZiY0dZWnI2MHQ0RGtDZjMySG1GZURublVvSWIzYjMzMkFjclJHZzVIdWcwLW1aR1VpRThxNXUyWE5pSGVfUjNnU2RDZ3lFbHFEak4zRERkWVgtcTRFZXFqZzNXdWFJMmJrbDV0X3QzN21leF9vd2ROc9IBpwFBVV95cUxPMHIxa2NRQUJwUk0zamt0YzEyRHRQb1V3UkxOTmctQkd5enNkSzRWaUFGZ2kzTWhNZHhjSHpySkdOOUNzT3V6eVk3T20zUkNwbi1JWDlma3pXclBRRDV5SlVOdkZWbExWU3Q5Tm5LSEpBdFJXR0cyUGlUbHBuZmNvSFdEdWY0ckhHamZDZlpLMHIyeWFzbHNSNDhEOUxmSnJuVXlUY0Vjdw?oc=5",
-   "data": "2026-11-04T23:38:00+00:00"
-  },
-  {
-   "titulo": "Banco Central mantém Taxa Selic em 13,75% a.a.",
-   "fonte": "G1",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQZ2k3dFA2bnpOOXMtdEFWb3N5VFRjQnA5YzJQazJZOTdtTFVLWnQ2SU9sSjJIRFp5TDBDMkRXV3l4VnBVX2J5TlVmOFo5WDhIQW9TSFQySkQ5b1ZnQ21CX3laT3l6Qi1BUEFwanNCcmRRYS1VcHA4NHlMczdJZS05SW1aY1RiQU9Wb3NpSmVBZFNzbFhNQnU0aVJkMWxBc2paaHfSAbABQVVfeXFMUFB3UzJzM0lBMzJ4NGhtc2RMUkNlWGNMX2IyalhyWE0yMGo2cmdRczQxY3hsamc4T0xqdXVUM0xNbGlESVl3TkV0VnowLW04NGVJUHpyZzBuWGJwN3MwMHc4eldfVlQ3M0RfLUwtcFdBSE9mZlBrallGNGdNM25KZVFCSndwR3VQTEZiUENqOV9idlhFUFNpU3lEUVlTdTNMZVc1TUVGRTlVYUlDRVgyQ1U?oc=5",
-   "data": "2026-11-04T23:36:21+00:00"
-  },
-  {
-   "titulo": "‘Irracional’ e ‘vergonha’: Setor produtivo reage a manutenção da Selic em 13,75% ao ano",
-   "fonte": "CartaCapital",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQMVVWajZiS0pQU2VueUdyZ0pKSWlENDI5dlRLQXpvSzl2eUVjR2Y0Y1ZmMTBOUU5pQmdNRUlJR2JuZEVPLTRRQUI2TFNCTTZLQjhDMjBWMlZZT3Uxa0JEUERHYmU0Q0p1Sng2dXp5cjRPY3RTNGJhWUpvQllrOWlGNTRRWEhBTlU3dk1CNjFUUHl5QmpkOGhQdEdjUXUzZU9lTVRzSXBvUjhHR0otNTMwc1RxckM1bGl6TC14Q21LQQ?oc=5",
-   "data": "2026-11-04T23:31:00+00:00"
   }
  ]
 }
