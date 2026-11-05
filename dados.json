@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-05T06:02:12+00:00",
+ "atualizado": "2026-11-05T07:19:01+00:00",
  "indicadores": {
   "selic": {
    "valor": 13.75,
@@ -16,6 +16,24 @@
  },
  "cotacoes": {},
  "noticias": [
+  {
+   "titulo": "Quando os juros voltarão a cair? Entenda o que pode influenciar as próximas decisões do Copom",
+   "fonte": "GZH",
+   "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNOFBVTWduSDFRWkRld1VXbXVHelktRmJiTEhCYkJteURlMXBLb3lHNk16VFU3LXV0V0xHOFBVdjB5RG9RZkZ0U253ZUlFdExVa0F4RFB4eHRZblJGQXpwYzBLMnZtQnJxSGRUVWtPZ0EtWFowTjRzSnVvLXNiS2E5VldBMndGVUFaNGFxMnVfaVQzdkE3eTY0Mnl5MXBQVmh3enNCbjQwOUd1clRsd0hZRGR4Y0o5YlBXU1M4SGZuRGk1STg1cVV5NTFOdXpjOVFXbXIwdTFFc09RM3ZXeG5pUkxpVGRjMGVkU0dtSkFMS0g2WGJTaDl3YVlJZkFjU0tqWTh1Z3Y2NEJGYkVD?oc=5",
+   "data": "2026-11-05T07:05:01+00:00"
+  },
+  {
+   "titulo": "O que o Copom não disse – e por que foi melhor assim",
+   "fonte": "CNN Brasil",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPSTBzMTdjQ2VTMzJuWGV2bFBPd2JMaThWNnFyeXlBa01va0FwYU1Tb1d5TzF0S1RlcXVVZkFGR2ZTWjF3UHJJdjAwVlZVd3JINkVSeXVXSlR4X0tTMFRTd2VKN2xJRUQzSENtcEE4SXJ4dExlMFpTRU40bzFYS1gtYTVjaEpvWFJPQjc0ZWIwYzF6Zko0M2ZfeUpJUlJPOERMTDFwQzhLMThKRGQzZGNxeTNpd1BEa1FXRm1IRUdUcWFodnNjVlBPXw?oc=5",
+   "data": "2026-11-05T07:00:09+00:00"
+  },
+  {
+   "titulo": "Mercado avalia possibilidade de Selic seguir em 13,75% até o final de 2027",
+   "fonte": "CNN Brasil",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPbTRNeWQ5NThmU2dMRF9LN3F5TGRZY0dzX25zV0djNHRzQnFNcnFmcnhORGVmdzJ2Qmg2LTk1N2w4dTZLNXl4aHRJWWR2b2JCUS0tMzlqdVhhS2JBeVhxc2lZMmo2WHYtSFgtTlRxVFAzeW5ERVNDZW1pTENjLVJEVUZ6amVmaWZLeUhoR0t1X2lxQjZmcU0zbjk3ZUk3bjQ4VkcxbTdjTTZKQmVSWF8yN0FwUmQwd2k3THNFTGp1cEtEZ0lmYTlCLXc3cw?oc=5",
+   "data": "2026-11-05T06:54:13+00:00"
+  },
   {
    "titulo": "Dólar e inflação elevam pressão sobre a economia",
    "fonte": "Agrolink",
@@ -69,24 +87,6 @@
    "fonte": "XP Investimentos",
    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNYW5IaXN0X1NvQ2U0S0R5bElTRU1mVEFPazl1NHFPSGxkX2tMWGtVbGhuM3lJbUVjZm5KT1NUY1VNSW1RLWE4OUxMbWdMNUVLR0ZOdzRWcUozU1g3ZzVIZ0ZISzVqXzNQWVVpVDJLZHFXVFc0Q05iR2FvRjd2OEJNMlJxek8?oc=5",
    "data": "2026-11-05T02:07:28+00:00"
-  },
-  {
-   "titulo": "Futuro da Selic depende do governo Lula após Copom manter taxa em 13,75%, dizem analistas",
-   "fonte": "Folha de S.Paulo",
-   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQbEhtREsxTDJpblFOS1hwdXhkZDZHb0dXY2RaSGhFLTlCQU90bVNXMzZueDY1R3l1RDVWZnlGTURBLVhFS0w0ZVlPTlFhZGdLUW5qX04yaUN4Q1BfOGMtRGRzZDM0TDZjbkYxdUJpWTZnNkFiTW1MVzF5Z3pfSkxnbE5DTF95b24yU0NEdEw5U2FTNVFRRVJRMjcwYjZZSGtxOFY0bUdCTW5zOWhuM0tHSG1HYURiZDB3aXQ1c3RjeGhyR2pYTTFVd1R5ZEpSUzNHWjhUSw?oc=5",
-   "data": "2026-11-05T02:00:00+00:00"
-  },
-  {
-   "titulo": "Dólar cai a R$ 5,45 com eleições nos EUA e taxa básica de juros",
-   "fonte": "Portal ABC do ABC",
-   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9lcEVHSFFVUmRrbXpfMDR6Wm5OVkxTREMtWGVKcWItX1JuVUdvOTZaYWJ6VTNFWFNuSkNBal91UTl0T3JvVzJUWlBJelRwUDR6WXJ6dzNKS1dCcDFZXzlCUXNaWWNGaWgtTS1sa1FHMXB3UQ?oc=5",
-   "data": "2026-11-05T01:58:39+00:00"
-  },
-  {
-   "titulo": "Decisão do Copom vem da incerteza das contas públicas, diz Rafaela Vitória",
-   "fonte": "CNN Brasil",
-   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOQm9kN1Vtc0xycm9yQllpVl9kVm5POTJDRDlDbUxvcXNKTk14T2c3dk80bmp2WHB6eTZNZEthMUx6TGJ4eXZDSDJ0M0pUNlM1a3A3MHk4OERWbzNsbEFtQlp1LTFoMWlFSmxnNUY1NnVBU0R1ZHZDWTBzYURNTE02b1BnQzEzc2U0T0FmUXVPaXM4bGNiNTk1NzBZU3JCcUd6Y25Jb1pib09rV05WRTkyTUdiTjFCd1k2Tl9LN3ZjYUQ2LXI1OHhQRE40QjQ?oc=5",
-   "data": "2026-11-05T01:46:15+00:00"
   }
  ]
 }
