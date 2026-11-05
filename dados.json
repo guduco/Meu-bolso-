@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-05T22:50:12+00:00",
+ "atualizado": "2026-11-05T23:45:56+00:00",
  "indicadores": {
   "selic": {
    "valor": 13.75,
@@ -17,10 +17,64 @@
  "cotacoes": {},
  "noticias": [
   {
-   "titulo": "Dólar fecha em R$ 5,49, maior cotação do ano; Bolsa cai 0,82% com turbulência em Wall Street",
-   "fonte": "Rádio Pampa",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQNE95NzExMG5pMXNEYUI2NzdnX1pjVVUxQ2JUYkt0U3ZsUEduZlR2T0VnWFBBRHJqRkwtVHcxemNPbGcza0hRc2l5T2taTEFKdEpQa0VqandWRkVVaWVlN3dMLXMtSUhvclppX0NhSUNualViX3JTcU55cEhJbVFnOGVYR19TN2praTAwTVlPNzBGTFBCMzFid1lxNnRuSWpLYVd0eV9lOWVHRERpN05rRFNRZS1CZFpt?oc=5",
-   "data": "2026-11-05T22:33:49+00:00"
+   "titulo": "Dólar fecha a R$ 5,4885 e Ibovespa cai 0,82% após Copom",
+   "fonte": "Campo Grande News",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOVHB6dGx6VlNJZFo5WWY1SkEwcVdJbGZsNGQwR2c2NWFWSnNkbjRBWElfOWFxUHFtNDA1YVF5X0IxelE5SnpYZEFKd2VVaTJOTnFCMWJmN1hackdYbVNQMTAya2FLRGNJVG5PdVp5UEExQzcxOVh1WHJTMFllY3lVVkI4VWhwSEhiMm5BUnVnR3hWd0ZZeGxuSVhoV1pBUFRJaWlpcFRzUFdsZ9IBqgFBVV95cUxQempKeHhSTy1YU0N1RFg4WXNKRUVLX3Y1VmhLQW9RVHlyYlF3Vm9GY2lyZFBrb2FpM3Voa3R2OGJ5Zl9Idy1OSXJLMDJpS1FaRUhZUXNoQXJPRFdXSlhTU1NFMnVNb0s2bS1oRDR2dEtDc3g5VmxLd1prTndTd1JCYVR2N0ltS1MxOWVDcTNLX0dpajJMWV9oRkxZYm13WVBnR1FIcV9oSG5NUQ?oc=5",
+   "data": "2026-11-05T23:30:00+00:00"
+  },
+  {
+   "titulo": "Lucros do Trisura Group sobem com ganhos de investimentos",
+   "fonte": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPSEJhSV9RNTRlNmtabnZiNHdkRU96TjN5TGJOV1RXQkh1TU5TbmVGSVpGb0x5Z0dCYXdhdEdibEdHdDB4bnd2U3VHRi1NRG9mMGtWX1o5c3NkSENTN3JYSUhuQV94ZEFqSXRfdDg0VDJCbmZSaW9wdHN0a1Y2ek1uV1l1SS1SOURnZDE4b0R2cVJWMl81WU1jSVcySDNMcDZGQzZYbHJHNA?oc=5",
+   "data": "2026-11-05T23:28:00+00:00"
+  },
+  {
+   "titulo": "Lula defende responsabilidade fiscal para atrair investimentos: 'Economia precisa estar arrumada'",
+   "fonte": "Exame",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPczZvWWJMUFhCY3dPUWR6MU9qdl9jQVJOQ3oydnpFRUFyRmNQWll1QWxsS0JiU1U2dEFEWUdwTktFR1JYWi15dlBiQUxNY0hmUU5aUG9sYU93YUFRRlFmVWhHTnZnenlYQnNWZlE1NGt1VHg3eC1jXzlMZmx5YUxqcnIyelhtN1JRRlNzc21PYV8wTXZSMG9tZDNBMm9jenRXcVlDY2R4ZTV1X0cxeFBsaERaQU5qNHdrYVhZWVlsTQ?oc=5",
+   "data": "2026-11-05T23:22:48+00:00"
+  },
+  {
+   "titulo": "Dólar sobe e Bolsa cai com instabilidade global e juros mantidos",
+   "fonte": "A Crítica de Campo Grande",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPbDVJT01MMFhvZ3h5SFhKcWZQLTVOMElOei0zOXZvdU5JbWV5Vzlka3FxSDRRSVY5d29feTlKUTF4M2NJOFFjRXZ0UTZzeV9sanlBdzJNYTlTX2NoZkFpazdfbXBNVmZra0ZyMm9NLWtZNUNiLUFhV3dvNy1VakdmV0gxMHNJLXNjaUxQU2tXZzYtN19iSHZsWVprZWFDTnpwSkZz?oc=5",
+   "data": "2026-11-05T23:20:00+00:00"
+  },
+  {
+   "titulo": "Lula defende responsabilidade fiscal jurídica para atrair investimentos",
+   "fonte": "Jovem Pan",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPYnk4bEVoZEFEM3JNLVY1YWk3WEtubENMOXFYZUdsNjJSWHN3NFFjN2hBc2lkRDhfV3JnM0tvRWFKSUNSY3YtejFKV3M2SFp5YTM0ZUdCWDhrcktsZmlnaEV2VFRjMUNSNlpsdzlWeGVWYlZDUU5ZbkJVQ3Q5TDVkTnMxQktPaUhNeGJ4cGItTHN2YzJQVFZCUkdmZU9xYjVnRU9oTWhMV2s?oc=5",
+   "data": "2026-11-05T23:07:15+00:00"
+  },
+  {
+   "titulo": "Dólar fecha em alta de 0,62% após oscilações e repercussão de cenários econômicos",
+   "fonte": "Brasil 61",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNUTVkZlhzeGI3U3gwVzRuS1d4bEhoVDZYaVVjVGppWEJLc1JRRHExWjBobnQ2c1UwSUsyX3U1MEMxS2VNRXdLNmJWeHl3aWFoWG9KQnI5MHlPRGVhUGRmQUpMZ0JSYkhhV2lkQ0RCaGNVeEoxSU5wcWJzMWRRTVdOWmNEay05SGVHQ3Z5TjNOOGVLbElIcHhsQXdkWnBBN3ZMR0piOUhvOG80dWI1XzRXQ3Y5TG9VUdIBuwFBVV95cUxOcFR1NVV1Ui02RnFpcktnVzdiczg1Y2pmWnlvV3JzYWpjX0ZLa1RwVlpWaEc4bDZSbDVSVFlyUWZYNDdveDVna1JnUGg4WnVGY3kxNUdqcGlDVFpTdlluQzlnYTVMQ0NpeHhhSENuUjFCS0ZXamR0UTdZZkdzU1VmdHVDWUxYRTl2SDZWX2p0ZG1NT2FUY1ZpenJQV3NEaWNFN3kyeWJkNnBqdURIdzdrTWpONXZ5azhlWGRv?oc=5",
+   "data": "2026-11-05T23:00:00+00:00"
+  },
+  {
+   "titulo": "Banco Central mantém Selic a 13,75% a.a. –culpa é do governo",
+   "fonte": "Jovem Pan",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPLW9GOHY0cEdDRHZrU0FNZGM2RnBBelNqVDdaTG9EUkw5N2hnS2kwM2liM3RZUHNpNkNON2hEdFM0VWFOSEVyNGNyak5WZGZHZ0FKV3dKSjdZUGpCTGlsU3BLYlY1Rm9MYVBVTW5sV2tpb3M1R3VENldLTXJSOVIzMlBaU3hLbGxacnRkOHhvR2pOSVNTZU1tR0hReWotU0tmc3hyQmtR?oc=5",
+   "data": "2026-11-05T22:59:01+00:00"
+  },
+  {
+   "titulo": "Governo define minerais críticos prioritários para investimentos",
+   "fonte": "Agência Brasil",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNMzhFVnZ6ZXNLWWlFdWt0VTE1em5oSnBvVm5vV2hSbnpFbFF2V2hYcE54eVBWX2JqZ1hQVWlfN2gtaWZDUUY1SGRSQ3hmZmtib2hyNXdSMzU2MFVHYjlOemxJVmhYQ1BPVTNReThndUU2U2hUYnh1SXplcWdZWS0wQWNMdFp2ckVJTDlQUU4wQUt0T0hIRzNLMElORkNfRUx2OTJ6V0RHaVRwY0R4T0Y2dG9XQjlweElES2lYUjFYYw?oc=5",
+   "data": "2026-11-05T22:55:00+00:00"
+  },
+  {
+   "titulo": "+10,34%; Ação escolhida por IA sobreviveu à carnificina do Ibovespa",
+   "fonte": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQd21GdUxYVVV1MFc3WUhnejZlZm5ydFlmQTV1MzNLWHJYaDBJcGlwTVB6RHUzempDS1FBV25icUIweDFqMlVfS2lteE5qZFZsSnpta01mOEZJTl9zVGlCZFVqeUFKQ0wwNk9yMzl6alZMUXRQNzI0bzBvQzlhaVpVVDdSWWw5aHlReml4eXhfaEt5YmpJZS1yMmZ3RWFILTYxYXFxWjhJR01rZGdTbU1NbjZUQXU4OWQzbkJB?oc=5",
+   "data": "2026-11-05T22:51:00+00:00"
+  },
+  {
+   "titulo": "NTS suspende investimentos no país e ajuíza medida contra a ANP",
+   "fonte": "Agência iNFRA",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNRXhSa1RtTnREUFAtMEU5MnJEWEE0MnM3UmdsTWJfYzlyTEtwa2tfeEY3Q3VSbTBiUTV6SGwxQ0U4V081RUdVa2tOMC1HM0dJZmFJdGhWczA2T0hQNzFYcmZiSE9QeFhvQXk2ZmJocXE4UjhpQ2VIWEVrNGJWZW5ieFRpbzctTVBlYXZCcTlMaHJPSGp1dlp1THBB?oc=5",
+   "data": "2026-11-05T22:50:09+00:00"
   },
   {
    "titulo": "Governo vai discutir critérios para controle de investimentos em minerais críticos, diz Elias Rosa",
@@ -33,60 +87,6 @@
    "fonte": "CNN Brasil",
    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOeFJuYlZZTDBwbk13MDQ2b1N3SHExNUFzS3RuR0NTYXZoU3lia3FzajhzYlFTT1BrdzNJdXlDNjJuMUpXdXBUYmZZTS1LblVGSURkSTFtb3JrcTlxcnhnTE9DWnREUllBRDZLMXdILXNBeHlPNDRBbmhhZDlLMGxubVdxNkY3S2xBaGtTcXNkV2ZxY1BYYWZSMmZSd21KUUxOZ3B1djhPOU5DbnFzWHVj?oc=5",
    "data": "2026-11-05T22:28:18+00:00"
-  },
-  {
-   "titulo": "Lula diz que é preciso ter responsabilidade fiscal e ‘economia arrumada’ para atrair investimentos",
-   "fonte": "Estadão",
-   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOdVRYVUhoeVdIT2gyUnJCSTlUVm9PSVJWcTg2aDFtMnN3Ym5zcHpnMWdTTGcyYUZQcW94dTJKbk1QNEcwZkVjYlFhdFVieENySlQyOWVjMGg2d1I1MjlBeS00QVB6MENQWlZtU2pyQjBxNVN2TGtwQlgwM2MyNFRuZE9Xdk5DTFhaRVZMUUVTTndjLXJ5Z3duM1BKeDZxbElIclV6VzVSYVQ3VUh3NkxpQzV2WnpYejRLZVBNTF9MQ3B3N1pVUEQwelFGMk8wTzdOaURLVm9aaGQ?oc=5",
-   "data": "2026-11-05T22:22:27+00:00"
-  },
-  {
-   "titulo": "Dólar volta a aproximar-se de R$ 5,49 em dia de instabilidade global",
-   "fonte": "Agência Brasil",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNcGVaSHRobUxNdDJNWXRwdHJrejEybjNrZXZla1FmVnRtdUNwWXhUVzhleGdvaDdxNzl2VnhBYndMUkZxbnpXanRycW9ZbVlDWk1BWHloWUo3YjZyRzNhWl9vWkNtdjZfYXFtUmdJT3VhOWFhS3lvaHhpMC1lMno1NFdBczNKSW1BaDRQYXRUdDdfSV9wX05ZQXZnSzdsUWxydFRnWTdRR1laLXYzLTVKcWR3ajBjcXVhWkF4UDJscw?oc=5",
-   "data": "2026-11-05T22:11:00+00:00"
-  },
-  {
-   "titulo": "Lula quer economia arrumada para atrair investimentos",
-   "fonte": "Agência Brasil",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOZWNIWXhsdlVZR3lYTFduUEJEYlh2WlFFc1RveHFFVUZCVV82Y3A5MVo5TkxTdi0tUzhLS3JwYkNNeTFNTEdSNmRyODNBbUxmbzJCQ1loZ1dYUi1qYVRhUW4tUXRqUVc4NGU2TTZCXzdpUFhyalNaRGJ0SUtTc0pQeDBncm04T0tYQkJ0bmFpRXFOWVFVVzBiRGt0SUFUdjN6ZWtVV2oxdE55STFIVkJuUQ?oc=5",
-   "data": "2026-11-05T22:07:00+00:00"
-  },
-  {
-   "titulo": "Lula cobra responsabilidade fiscal para atrair investimentos",
-   "fonte": "Poder360",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNV1lRSEgydlgwR0V4N09QbEtLbHJtb2MwangyaGdrb2RMRDFfMzJRRUZQNDR0WEduWHNVYnpJdXVuS1dMN1ZucW1IU253eExod3pFaHZjV0l5eU5WVmtmSVpGR19iU2piZTZiQ0MtR2Rvek5heGs5YXNEZFh2NS00dGRyT1BhYzRBZkxjekFvSDJzMS11MFdjVjNPeWlSSTdTenFNclhR?oc=5",
-   "data": "2026-11-05T22:03:17+00:00"
-  },
-  {
-   "titulo": "Ibovespa hoje recua 0,82% e acompanha onda de perdas em Nova York",
-   "fonte": "EuQueroInvestir",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNRG0tbGE2ZGJRby1UcTJVVkhXbzZEVnVXTFA1LWR4N3ZldFE2Q3VQbERNbThfcHhBUTNHcS1xZ3VtRWdkMm9DR1BsNHFGTHh3blpsckh6Y3N3TkVQS3g5aHItaDlTRkVJR2dqeEVVU3RIM21pWnZ0UG1yd1BpeG8yb0k5d1hSVFVxTF84aE5tZGNXVE9PVWdPbmdpOXpnUQ?oc=5",
-   "data": "2026-11-05T21:59:55+00:00"
-  },
-  {
-   "titulo": "Lula diz que economia “arrumada” é indispensável para atrair novos investimentos ao Brasil",
-   "fonte": "Brasil 247",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQOHFrQXAza0taWG9TOE5YVThrX1ZNbW5OMXhSRVZ2dEZVOURMUTZxczQ5Z1YzYWRPS0VnU0VnRVU2M2JaUkhSc0lBVkhMbHM2QVN6X3dIazgyck9SdVBjZmNZdnlrakN1Tk9yRkhZYnlmQWdDX3JPSE50THA0WVdfN2V3S1EtdG5IWmFJaUVaS2xMdjgyWlRnVzh3Mm1fTDc2VklpUWpDN1o5VVMwQlluX00wNFRzbENKTjRxU0VMOA?oc=5",
-   "data": "2026-11-05T21:57:23+00:00"
-  },
-  {
-   "titulo": "Dólar sobe 0,67% e fecha a R$ 5,489; Ibovespa cai 0,82%",
-   "fonte": "Poder360",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNSEFhMFE1dlgyX1lKQURtWHhFX3ozRnBQS3ZKdFR2V3lPS2lKamd5UDBYWGJIVlNtTmctNE9vY0JTa2wwcl9aanhIank5OVdzdWhKem14dXAtcTNaV0owSTM0RWxUdm9kN2FwaUZUejhQa3V4Um9rR083UHJsWnJWeWgxZ1BwY3RURk05NU1rTzFYNTlFbFIw?oc=5",
-   "data": "2026-11-05T21:52:57+00:00"
-  },
-  {
-   "titulo": "Banco da Inglaterra eleva juros para 4% e prevê novos aumentos diante da inflação",
-   "fonte": "Vero Notícias",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPNElpRG5QeEdyUG5pR3hSMmNrTVQ3OENicFh6OF9mNWJoUER6WDNGeDF4UWhfZHI5SmJGeGJsdGFCM2huMmFUY3hnenJ1OHVHekpvNXFzVk1icnZtQXBlVHVxd2xfTVFVd1pzQlBLNFJPWGRiMldGelVwN0FFVHJqWkZsUnl0NWkxQnc2RDBnUkNsY3RkMWJ5aWdWRC1ySWlRMG93Q2RpTkpFaWtLcXctYmNoTV9HZw?oc=5",
-   "data": "2026-11-05T21:51:11+00:00"
-  },
-  {
-   "titulo": "Ibovespa volta a cair, Petrobras (PETR4) perde 2,48% e C&A (CEAB3) dispara 9%",
-   "fonte": "Suno - Investimentos Inteligentes",
-   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9IWXFiZkM1dmh6X2VjWWRqalFXNnVUZ3ZLNnMwRDh0SG4xQW9PRXUyQ3pvVjZKUGVBUFV0Nmw3aWFVSGJmOHNraUlrdzcxMTdnUFlBQW1LbG1xaU50Y3pvVk9TakF3VGUyaTlMbGRhNTE3Z9IBd0FVX3lxTE9FZ1FiQ0lyY0wzQkl0SlgxckRoSHFnT3hfZWpqbjlmYk8zNTRza3FqcVdIcUNYUmxEWk5ibUtVa3JDTjUwVkpOVDNjLUlsV2prcVgxVnBpY1NTbDhuWFA4UVFzSHpVUVRZVWo3QTBtNG1iUEJ0MDlJ?oc=5",
-   "data": "2026-11-05T21:51:04+00:00"
   }
  ]
 }
