@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-05T09:01:05+00:00",
+ "atualizado": "2026-11-05T10:04:35+00:00",
  "indicadores": {
   "selic": {
    "valor": 13.75,
@@ -17,6 +17,60 @@
  "cotacoes": {},
  "noticias": [
   {
+   "titulo": "Buscando universalização, Corsan ultrapassa R$ 300 milhões em investimentos",
+   "fonte": "CNN Brasil",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxObW9obHBLR01UMFpRbEVxRS1nTUw5Wkw0NVVadUtxZ1F3MVQ0Umc3S0s4N015QTdkSWtaSlJvRlVTdFNxSnk4U0JUYVJxQVFlQUJYaGFkajVkRVRKMDd4VENUbi1rT2E4QjByNHVEYVcyZ3k0bDhBTlJGUEM0WGVqak5tY05ONC04SnBQTG1HR2JqdHcwX2ptQWVYb2hBSDJiUUNaY21aOEdfTW5yb1E?oc=5",
+   "data": "2026-11-05T10:00:34+00:00"
+  },
+  {
+   "titulo": "Ibovespa B3 sobe 1,23% e dólar cai a R$ 5,45",
+   "fonte": "Rádio Guaíba",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE00cDdzZTJQZWVLSzVrdF9JM3cwdlFyUWNDczF3Wms1cFQwRmtsN0xmVkxUQlJMRGNxM1ZQV3dMclFraVFQUG5nMk9VZ2RGSDV0bDhiWmhKYlg1WTEwdXFaSjFPV3Rybnc2b296aEstaEE?oc=5",
+   "data": "2026-11-05T10:00:00+00:00"
+  },
+  {
+   "titulo": "Inflação na Suécia recua para 1,1% ao ano em outubro, mostram prévias",
+   "fonte": "Valor Econômico",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPQ3ZlWXJQVlhLQXJMeTd4Z2NyTUVYMFcyQXh2M29SdjRnTXJqdlhDcV8xNTd3Y2pESEZMbzU0alAycWtFVFFfRDJaUEZYdmQ2T2x0MjdkdlNWR2w4ZVlNeU9ac1Z1MzluUHVJSEhMNi0zSWw3cHlhQlFSMVNLMDc5RTlMcnFaTmp4cVpNdGZRbmJSaWdWX0t4UkF3RkY3Q3hSOERFck1sdG5JX2EyVFpGTk5haVhyai1nU0RCUzU4dDNvZy12NER30gHWAUFVX3lxTFByUTIyLXoxa2I5Vm9CTDRUWFdfekxsb3VaTVIwaU9uYnBBTEFsMVJpeEpSMmx3MDJfNWZoTFMyYjBXNDJfSldRdXNRZzczWlBJdnFUSGl2NjBqSWVURHUta3RQakt6cVdnMTRzRHZITEJ5MVdxelp1aTJOREhTWFRydUZEV2lLdW94Y21BM2EzcGluWGxtU2VpbW5CRC1DbDZNanpMMVJWMlJoZnpmUjZ4T0swSmRuMmEtVG9jMVlnTGZhZFFEa0Etc3BQUUgtYzN3dmJSZnc?oc=5",
+   "data": "2026-11-05T09:40:47+00:00"
+  },
+  {
+   "titulo": "Agenda econômica: o que pode mexer com a Bolsa e o dólar nesta quinta-feira (5)",
+   "fonte": "Money Times",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPNWozQXBFSDZVaThKTUNMN2YyWVZoSkxnWDNfaDZvRVl0ZC1RQmtWVXo0RHFncTFJQXN5QXZhbXRIS2I3cnBlV0k4OUhBN2lrdUdLM0pYdzI2c0Q1eVAtY3Bxc2RTTVBKbjVUbGRJRzNtdlhUT3NGOXJqcTJxQ2FVWkFXa3FXWW5uWmZqQ0VCMEJmY2Z5d1NQQnEtX1QtWURWTktHVFJPR2FudmowSWM2OTl3?oc=5",
+   "data": "2026-11-05T09:30:00+00:00"
+  },
+  {
+   "titulo": "Caruso, do Santander: barra para novos cortes da Selic agora parece ser alta",
+   "fonte": "Valor Econômico",
+   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPYlpvVDZraFNIQTYxbHc4ZENqQ2RjcVpnV3dscjluRVE1NnU3ZlR0eXZvc0I4eXhaeVNKQmZfY2VoSTAxLUgxbkJSV3pkQWVJTGtBWDZYOEdMYW9fclBRVFdBNGxoa0RBVi1STVR4dWdCcFdVUEdndnJSV093Tk4zWnZ2eERfbDZndzF3ODVRU0szTG5XNUNEM2R2VkdrV293d0VPUUY1bDhjOHpLeTdQNUplNExRTkhySF96UEtvSmo3V1ZDcmdfam5uN1lTV1UxR3dTbHJR0gHkAUFVX3lxTE1qMW5LcmY4TUFGckZhYUNBbHNfN3JmVTF0a2JlelA5akJ6aGdaa2dYVnJvcUQ5anFRRGxaclVuelBkdHlHQTZ3WE9vQlpMZzdWaDZwNDNKRVZELVVZd0UzaG5makQtcVNOWTcyQ3NNWWNEa2t5NklyNkFoUVpQODJ4N2pWaVZBakdoZGRMaDBfMDktR1k5VlZYYm1jRTc3VXcyY3pzNXp3MGdtaUJwcG5YYW9PclB3dlA2SkNpdFVVMkNtSVgwRUo2M3BEUVhnN2lYNXRtRmhtdDBNR2hHcXN4bjRVSg?oc=5",
+   "data": "2026-11-05T09:22:40+00:00"
+  },
+  {
+   "titulo": "Dilema do Copom escancara risco de estagflação",
+   "fonte": "Valor Econômico",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQcU12YzFzRmdYb2ZTMllqYUVCYmFqb0NYdXU2SlVSM3AxSWNzb3cyY2pOZFBkM3JpaTE3cEhoR1ZmMUhyT0pzTzlnR0pUa3ZwWVpSOFNVT0tyamtYLWREWE4waC0zSnNRVUgwM1F1eVpjdDM2ek1pWVBwUUJCeWhCRnBRbC1Sa1J1ZW1RTEpDVjJSRXAxNF9sNzhqQVFqUWhLMV8zX1EyamlFd2vSAboBQVVfeXFMTjZNTXdxd1NoLXBRWDZkR3V0amRKMnJHdlpzRktxZGVqWEs4U25YVHU1NktSWW5wckVJbUNsV0hKSTc1dm5tX05TaTFlb2dPeEFsOG9seFJ0dVA4SmxXQ3hBaXREQ1hUWkIzX1V1ZGxoQXB4SV9IT3k2ZEdocWFxbkNUOVNPc3pCS0o3SmgxdFlHTGpOU29fRThWTGM2MWVsMlp2OTc1WU1qQ3VsWXl3d0tOY3RubzFsWEt3?oc=5",
+   "data": "2026-11-05T09:15:28+00:00"
+  },
+  {
+   "titulo": "Reação ao Copom, indústria, balanços, BoE e mais destaques desta quinta-feira",
+   "fonte": "InfoMoney",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQa1pocEVwcm9QYmJDLUJDTFZ6S0p2Z1g4VkVuS2hmdE50OXoxTnhaU1M5eHVod2VXWFFSTFp6VnQ1ZFhQOXl5b3ZRT0thdDNibjlqaDlLdUxNazNVc2FxMEsyWURvYmEtMVUzaWdWeUd2aUppVEtSRTFsMHVrS1lBcjg5ck1DVk15eFE00gGQAUFVX3lxTE5LYVdYVFJBY1cxNFNlLTJDRHRya1JmSVNfM1YzWGU1S0xLS2ZkTDRLc085MVo2Tk51d05CR0lhOExkTDFMUDB2TzBBNVlOS1lXV3I0dlJKQVh5cUJDN0h3Y0F6a3JaMkdlSEU2Q3RyM3E0a2dDT2MxUUw2LU1UTnFtUUpzX0d4RmVwbVBlZzI3aw?oc=5",
+   "data": "2026-11-05T09:06:45+00:00"
+  },
+  {
+   "titulo": "A Selic pousou, mas a renda fixa continua voando; gestor da Armor Capital diz onde investir no Tesouro Direto agora",
+   "fonte": "Seu Dinheiro",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQWTNxcVBQTDN3Z3pOcGZENE9vYktyVFdBbEFkRGw2TG1QNlN5NzVBdHhmVjNfWHpfT09EQlpyUWF3VzNRa3hZNVRXamJ3OTFNVEtidkFLbUY1N2w5VHNYd2NZLWhFTTBrLVpnQ01xa0dQbDVBdUN1QlduaHhZNm5aVTFSM3QxRFlFc3ZXZlFRclFET1VEcHJyUTFVY1VPNDhlZEFZUjhlcmpsbFo5bkNkY0I4b3ZZbnJBZnp5U2JHQ0NHakY5Smp0Vg?oc=5",
+   "data": "2026-11-05T09:01:00+00:00"
+  },
+  {
+   "titulo": "Selic trava a 13,75%: o que muda para quem quer financiar imóvel?",
+   "fonte": "Valor Investe",
+   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxORUJLNzJVNjNxSDloWFhvSWc3UksxamlFcVZlTE9XNUlLbFItdkRkcVhMU1g1d0t5N0pRME9oS3NESUFyS2p6XzVRU0wxS2tHRXpyUzZlajN2TXlqZkNwWjF3NHhJMUh0cUk4WG1jNTZJVklXR294TDR6TG9OR05sMG5LbVJwcXhSRDBGNlVZQVdfWlFIS1M2akZ3c1BaN0U5QVJTM29Cc2dwcVV1ajJSdFl5OGV4U2d2RGFlcmtDNGNNYWhJTkxaYTBrazlNbjNGYmZadUZ2aXjSAecBQVVfeXFMTTRwZ215SC00X0d2czRwY3BYeFNOYW9Vb1BvUDRWcW5NUUhYZjRzSl9WdE11UC04TUMxbEtUSFpCYi14bXUxMHNHR25NSFdLUEpOUWszLV9vVHpmc1ZCdXJtLVFjSzNJT2tTN1ViczRGbDQ2WEg0X2Zhcks5NFI2b3J2aDVuRlN1Wi1yanRjUVhLVDB5WHk0dVVFMERwTUVSVHBYa3Z1QUdlNnR6Vm1BQlRyY3ZtU2lTZkpFRk5TRXlCdnc2TUNpZWhVTXNSR3ljZ24xSkN1YlJwSF9UZ2RCTXBPcHFNeEZn?oc=5",
+   "data": "2026-11-05T09:00:01+00:00"
+  },
+  {
    "titulo": "Sem ajuste fiscal, Brasil entra em recessão, diz Tony Volpon",
    "fonte": "InvestNews",
    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQUmw4ZTZBaG93VFZGX2paZm9JcktUb2lGaDl1RXNWYnJHbWZOLURPU3hURWpKODR4ZHhLQ2E4MTZMWlpKNU5aeGpxb05mMTVOeE5Mbl9mazhyVW04YTZoOVIycHMyWlU3MHNsSXZLeVU2RmowU0h1UVZVdm93U2k1OXRzRWRnZ2xhS3BhdDFFazRGdE1y0gGaAUFVX3lxTE15ZWFsMlZlbjZMOGtmall3WTJrN1NRbjc0OWJMWGdOVEFOa1ZNcE5XZ3J3Sm9ZenkxWHpzTkdEQnVMOTBaZ3pDTHFxSG52MUNmTk1URXVWSm9BVkoxOWY3LUFyaU9ibHFPVnkxWEFmNi0zcjJSMnZWdWxrdnJaR2RKQnRxN0hWNWVtRDIzeE5jd3ZuZ1BzY2d5dXc?oc=5",
@@ -29,64 +83,10 @@
    "data": "2026-11-05T08:36:02+00:00"
   },
   {
-   "titulo": "Indústria no Brasil e balanços: o que move os mercados após reação da Bolsa e pausa do Copom",
+   "titulo": "Sabesp, Suzano, Renner e produção industrial: o que move os mercados hoje",
    "fonte": "Exame",
    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOclFZODJYbXdwV0ZMNUZkYlF1WFVFb1FWX1oydlo1ZVFPckpYaC1KWm8xYzRYSFVyWGFXenJVcFFnMzQ1WjZYLWhvckZySkVFa2VpdkQ5RmFxTTlZdGJndjRoYldjXzJxV2w0TG50UVhleE1NUE1sMEloRVYtSzVCdWJVMktFQWJwZDNYV203bmF4UFN2UEtKSVVpOHRaRnlwR096dzV6TDZhVzFvU1ZVNldmMlNYWGdEQ1VSS1FfWC0zLXpq?oc=5",
    "data": "2026-11-05T08:33:02+00:00"
-  },
-  {
-   "titulo": "BC deve manter Selic em 13,75% até pelo menos abril, diz Fernanda Guardado",
-   "fonte": "Estadão",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQS3lQamsxV053dDBHeDZBbVJicG9RUkNTcnVQeUxRRzdUSHlfSkU1d2tobTZOdjBiYXJiR0xyYkFsOWpPZmQzTjFXblpEZ09VSHVJYWRNUkNNdlBiRTh0UWp3RHkyV3YyYTZ2eVVVMW1YbnVfMlQ2cUdyelN3Z3plOEItZUZWNXlBdTN2RTR2SnRkaTRhTWlvWGxTSVhIOGNqQ0tNcWFWQnlHQ3d20gGyAUFVX3lxTE5OTmFrREpjVkJtWWpSMkFNZXVnVVpoZXplXzI4Yml0VXRsR29fbGZRNVFlempXRUh6M25SRVBGNk1BVjZSRkJPbG9xRGwzTUhaVGNHcFU2NWlRR0NwRWhXY2NmMm5US0FpWl8yQUl0VUF1MGdLd0xMV05JZ29kLXdoM01mNjJMU1dUekptQ01lcm8yZ1lnWm9XR2JjbE0weFNhdVh0b2hpbEV0bXB6dUJoZ1E?oc=5",
-   "data": "2026-11-05T08:30:00+00:00"
-  },
-  {
-   "titulo": "Dólar sobe 9,2%, mas soja e milho têm ganhos menores",
-   "fonte": "Agrolink",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNTDRrY00zWWo2Y1FKZ0xTcDNlaWpKVVJlSV9fUFhUWVBFTDhwQ0VfOWNnWDJmcmhFbTFNOTJ6OTVuRGZtWF81eHRKSTFzckhvSVp1TW9yRXdYaENnd2w1ZmxLREJpem5MeWlMNkpJQnhGMWFfZnFOWHZhLU01WXBUSFZ4cUkybFJHMDJ1eWR6V2FoWV9LZklYcGVoTENfRENCUDBn?oc=5",
-   "data": "2026-11-05T08:18:00+00:00"
-  },
-  {
-   "titulo": "BC interrompe ciclo de afrouxamento monetário",
-   "fonte": "Valor Econômico",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNaEF6azRjTzJKT3lWODNGS1RyS1Zwc3B0cHRjR0diUWx6b2xYUlF2UV9XZXpZU1hSVkp1S3JHdC11ZWtoVGRDeDBubnIteXBiVWJtYVVlcjF3U1lnVGNZQVJxeUdnN3lDTlpFRFdLQ3lyOUtHZlNVRWc5Q0xEdWt5RG9pR1FHZ3Y1NUExcDNBZUQ1V05P?oc=5",
-   "data": "2026-11-05T08:17:17+00:00"
-  },
-  {
-   "titulo": "André Lara Resende: juros na dívida no Copom?",
-   "fonte": "Acia Araçatuba",
-   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1oNnRLcjRTQkJ2dldNZG9kUmZRendyZGhVM2oxamRqc2RYWUxDTWZHaGNRbHNOV1lOdDUzNGpRSXJIUFF0cGQxdnpwdWRjckJkYzZOZGlHZ3BlRjRHQ2x1ZUZsdHZfQkxEdDhVdXR6cUlmb1ZJ?oc=5",
-   "data": "2026-11-05T08:07:42+00:00"
-  },
-  {
-   "titulo": "Mercado prevê manutenção da Selic até dezembro",
-   "fonte": "Agrolink",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOUzNDM25UX0tqa0ZNY2xMVS1KdmFlR1ZDbDR2YlotcDNzY2l5a3hXS2s2UnR6RWVjaXRNZDJVbDRiZ2tfS3NFSEVuZU03ZWdyeVpBaWV2em51LUFybDhKU2g4a2JOMkV2Uk0xRGFJZ0xMMVdLVUpPUDdxSTJsaUlRRlBtallWdkpMbUs5aUdwQzNldlBTeTFRcERJNA?oc=5",
-   "data": "2026-11-05T08:07:00+00:00"
-  },
-  {
-   "titulo": "Selic estaciona em 13,75%, mas bancos já cobram até 15% na casa própria",
-   "fonte": "Exame",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQMFRzYWdmVWZ2OG1zdXZxYmxFelNyalNhdnhBTU5jM2ZKRURKSW1XNGk2eFRnNG5KTVJTSjVWYlduakk1ZlVkVzJjVTRpb3Nzc1RwaXhBN2o4RmxWVUQwOEFGUjdJZER4cVA0MlhQU001TkhoX0xaMjN2b1JvTnFNakNzUmZidEYwbkJwZUV4Y1g5RTFkVXFzYUMtOEFpQWpZNnhfLV9OWjRldw?oc=5",
-   "data": "2026-11-05T08:03:45+00:00"
-  },
-  {
-   "titulo": "Como investir em renda fixa e ações agora que o Copom parou de cortar juros",
-   "fonte": "Exame",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNR3lTS1RzUmRFdGFrUlpHZmR2Qm1KekhDZTdxenR3aWEzak5IeEhKNk5GanE4MXZwb1hienoyWVladlE4YUgzYlFSdHROc0h4T1VQSzQ1ZHhsYU1sczFUMzBDbElzN2JBdlFRaThLRTVVV3VrTlExZkxQaHZhM3RiVXRqWjUyRVJoWV82SV9mcUR6aHBEMU5UVFFqVFZSVUh6ZjBETUhOWnFVQ1F3TlNF?oc=5",
-   "data": "2026-11-05T08:01:42+00:00"
-  },
-  {
-   "titulo": "Aliados de Lula criticam decisão do Copom",
-   "fonte": "Valor Econômico",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNM2NHYWxwMzdkTTBpNjhmcEtGY2w1SEI0WmpDcmhXSEZxYW1tRFlRRWxWZWJwbGhiZnozRUY2M05vdVZHaUJtdEYybE54dHR0RFVMdW5BS3VUZ3pibEJaWjEwOEJlY1l5RXJLY05CeFFXNFZCY05aU2tWckU4RkZHbjVKQ2tOUURacFNXUkRUczNGT1FSSU0zdE9iU3RzM0lB0gGvAUFVX3lxTE9uMHFPUTA2aFNycmotcFI1T2RSY3lEWUpzNXVBd1RmNTd0WXR3QTBGSW5vcTM1VGpiMzdlSFVvQW94dzVKdE5seXdGeG1IMi1pZ0Zzbm0yMkY0MzJkTUJJZkxkb0VfT1c5aWFxS1hlWkw3UG5NTlBGQUlURkkyYm1Ja0tJcnBDc2JOTjBzVWk5TnBpVHAxWVZRTTFHTDhRNXRCNUdmR1c0VmcxOEdCcUE?oc=5",
-   "data": "2026-11-05T08:00:02+00:00"
-  },
-  {
-   "titulo": "Barra para novos cortes da Selic agora parece ser alta, diz Caruso, do Santander",
-   "fonte": "Valor Econômico",
-   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPU3FmajhCM3BCWEdtc1RhU3lmemFicERwTzBlWUxqdGJTNFFJQ1IxVnZZSXk2SWJKQ2pHbU56MlYzVjRNZDd4dDB1aEptWlM5aGRNZTVFWUxyR3FrRnBCaDRfZ2tsMHNqRUt2UW05VE9fODZ5WC1VeDRoWmlEZ2VtVGNENzRqOUJzbW9HdHdXLUpVRDExd0hQMmQyWGlxeks0SVJzeDlzbzJDVXZpaU5HeXRXR2lzRUE3V3VBMUp2UVZUd1M5bjlkNFFyUmhLSWkycmfSAeABQVVfeXFMT3JGMXprZ1pxMERVdVVZcjZUVlpGOFpKRFVyV1FMb1FZVVZaczdLQUNzZWRrdU9zV3ZBS3pnNUItRXAwQkNnRXBQTTJSbUlXOVUtLWV5Z0tVYnZadlJ0NHBqdGRkNnhONF9Yb0JxdlpOZ3VGY21qbTBXZ2l2QjNQUVMyNWgzOEdqaXZfclJQRjcxZTl5X3o1SWtsRWY3V20ydFpMOUEwaTVmazQzR0lidGt5R24tZmsyRGpZWFZvYTN3OXFGdmRxcDhDd0s5TEZ2Y1JwR3JZX0o3R1Jzb2pKSVA?oc=5",
-   "data": "2026-11-05T08:00:01+00:00"
   }
  ]
 }
