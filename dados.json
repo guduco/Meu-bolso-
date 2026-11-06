@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-06T07:15:51+00:00",
+ "atualizado": "2026-11-06T08:58:33+00:00",
  "indicadores": {
   "selic": {
    "valor": 13.75,
@@ -16,6 +16,36 @@
  },
  "cotacoes": {},
  "noticias": [
+  {
+   "titulo": "Dólar sobe e fecha a R$ 5,48; Ibovespa cai 0,82 aos 166.191 pontos",
+   "fonte": "brasilagro.com.br",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNd29PQ3poNnhtUzJjU3pXRS01b1JyNHFBcXZIUTRiSnhzZG11aEhtTURtelVrMnFIcXZIa1RoZDFIb1dwV1k3S1RSY0xuQTJSbTJYQldvSU8wNEI3dlhBeFQ3NHJvUHF1djBRaDNjSWNHd0hLMWp1OHJzaVVvQTJ5N0k4V21MNUh3endRX1ZpOVplRXZOamZwS0txa3Z1cWdkS3RlejYyT3Ftdw?oc=5",
+   "data": "2026-11-06T08:20:04+00:00"
+  },
+  {
+   "titulo": "Bolsa cai e dólar sobe à espera de medidas fiscais",
+   "fonte": "Valor Econômico",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNSmwxTTlGakNWaUJxVUd0VHJjdDhhMndiTW1kcHk1MDRlSDRseV9UUndDQ1FlbjZsb19JNDFYaVZscmNmT0U4MVNvNElWeGlJNjNLLXdqWGktanl4WEhiaFVYMEtLZjd1RTM0cjJDbGtJeVNSclUxSm44QndYWUUydTdNcENNLXpwbURQR1dpZE9DWDhmSlBGa0FnOGlZZnI5LVo3cWVobmtLNUJV0gG7AUFVX3lxTE42c2x5SkpGWV9JOFlWenJNOFBaY1VxWGVZU0JxcmJTdW8wTmxYY0hCRDZSSDBOUGJhdkl3ZEVJU3piVlhpWlhRaGxFZUlYTjFqeVIzTFB0UEs1aVhuUDJCVTA2UV9BOG96dkRVNDF3UzVlR29GcjlnNmh0OGhPM2FlQTdhWWdKNHpfUVlzTldyNjdyN0Q3c0RJX1pNd1J5ZzdGd2ZMNWh0bkZoMU5MZlBDckVDaXZJdVFnME0?oc=5",
+   "data": "2026-11-06T08:00:02+00:00"
+  },
+  {
+   "titulo": "Histórico de juros altos precisa ser interrompido",
+   "fonte": "Valor Econômico",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOTGhYNzJPc0Y0dktZM00tWVNxUlc5X0dPQUNSQzhqQWV1a1JZX21LRzBzdzJyZ0kyX1NqV2J4RnZyRWZ4VzZZRnFkYVM1RGpfQ25oYkdvZU9HS1pzS2VxbVozYWQ5a0ViNnZRR29DMkRYTW1GTnRadEJsVDAydHVGTnkwbVUzOHR5YTRMQ0dUOTE4NldXbnpyeFB4c9IBqgFBVV95cUxORUpVcDJVclI4d1FNSHdSN0JmcUd1enlzTXF4Y1NlZDdLc1FRWU55UkhNNHdYdjRTeE84NEQyMWdjMjM5TDNpMWE4Wk5EVVR4VnNJYmg3NG5XVS1INmpCdzhkeElvc2xoWllfbVRpZzRuSXlUU2hyc2swQ2dfMWJaRU13XzI1dkQ4STlBNHVmb2twSlNiSlRFb1QtQldrc2M0UVZWUG1nUkJEdw?oc=5",
+   "data": "2026-11-06T08:00:02+00:00"
+  },
+  {
+   "titulo": "Tombo da Bolsa infla dividend yield, e 15 ações pagam acima do CDI; veja quais",
+   "fonte": "InfoMoney",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQVWhSZUt4M1lpcE55aHRQcnoybVNyZVhRSFgwbU5yYUhmdV9QR2RwVGJIZFF3QjVXZ1ZoclpWeWlGUGpjbFpUWl9yYThJN0VlenRLVVh0OUh6NUhQWTNfbUNyLU1nTU55aDA1cVlrRFN1SDJsNzZycnNUYzRRMVJHczJtQ2U0LVo1VWZyRFJuS3Z6ZU1YSXc1dWhNNTMzRGJQdEdZ0gGoAUFVX3lxTE5Wd2dLTm5PQ1ZUZEVyT0xUYTQ5LU1OOW9YdjNNeEV6Um5SRUdBempCdzN5ekRIelNDZmNUYUhpLWp2SmlkTDF0ZWJrV283UXJlQkVWTmpBZEFROFJHQXlxbzUxQXR1TFNNTEg5QUtHaVppYVhaRW9QSVZxaG4wR2NSSDBoMHA0ZmdlSHRpMjlPem14TTdUQThJQ3BNWGpoNzFoaDUwV2F6Mg?oc=5",
+   "data": "2026-11-06T08:00:00+00:00"
+  },
+  {
+   "titulo": "Ibovespa sob tensão: tombo em Nova York eleva cautela antes de dado crucial dos EUA",
+   "fonte": "Estadão",
+   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNWW95cnk4ZnA0N1lPLUxSNnl0eEdLSEg3RlowSUZRTVJhVW12S0NMQXd4LUJzM1pweUdJRnVPVXpxb2lqMTh5NVR4UmYyYmlsMjJpbkZONDBUN0Eyb1Bwcl9taTlVZkNFcUFleHhRT1lsczZDdG02a0E3UmkwYUVSQVpHWEd1d1FGdENBY2lFdkF4QVdwRFdnSmdneDJwR3d3TFNQQ0M2TF9jZHNzSUxXcVFiVjlCT0Y4QVNndnpyZ2xTaW12VjB1cGZ3Y2dTa0FaX1prdFZUaXFPOTN3MVA1Z3RCcw?oc=5",
+   "data": "2026-11-06T07:32:47+00:00"
+  },
   {
    "titulo": "Reversão do dólar e correção em tecnologia pressionam os mercados financeiros",
    "fonte": "Brasil Inovador",
@@ -35,6 +65,12 @@
    "data": "2026-11-06T06:02:00+00:00"
   },
   {
+   "titulo": "Inflação na Tailândia atinge maior nível em quase quatro anos em outubro",
+   "fonte": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPcnVXNV94bGd6YXI4MVNKU3djY0tNbXV4WWc4WHJ5b3FvNjZGUkZxamNvV3J2eWZuVkUxZDRYU1J4MlJHNExFSnFkUTQ2ckNUcHZyMlFZMlhPcmhrYXpaZmIzLXd5WWlJcUdZbnl6eGt2RC10ZnlyQ2xBMjBTM3pTaDFPVlR4X3Atb2FMMThZVDRGOTBfNk5NeDUtVEpOako2WGJ1ZHFMSnFYdFBrZHFqLUJ1bGl5QzdiTldtMHVmbmlpNVNYZkQzeGxR?oc=5",
+   "data": "2026-11-06T05:21:00+00:00"
+  },
+  {
    "titulo": "COP31: Brasil busca atrair investimentos e setor de seguros apresenta propostas para reduzir riscos",
    "fonte": "Sonho Seguro",
    "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQNzRIdDZwWEhFY3RFZkJhWDRUb0RLbnpxREhNX2l0S1dhSGRkSFhlQmZhM0NRVVFRLTZnbkZISUsxelhaN19odWVaRWJtU01KLUxjV1NueUdKMVA0V1R5NHdJTlJja3Fva29pVjFtT1JZLXczZnhwRHdkeTJLWVRCRTJtNGZ4M1JqWExBWmVfanBxVkkta1BWNW52M2dtbzZMRWpIcXVGbXc0NWV2MUhxdm1od1M5NjVFNHBtVGdKQU9KazhiNENXYjUycExNQm9rRE1JRQ?oc=5",
@@ -51,42 +87,6 @@
    "fonte": "O GLOBO",
    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOblJKZHVPTGhldDVuZFJRY3JzMzRQdkhVcGJ0OENUSUtfT3JqRHVmVVhXaDFuaF9xWXdBZ1drLUNaZkgzU2VYanQxSDRBRElDVG5hNzJ3ZWVtR09FUW13ajdTMnUzUTYwQ180QUpiUWRVR0lQNEl1dUR2NmxNT1pWdWM5TlgxTkFZeW9FN0tKMTVwMWg1YnI4MFN6eE9sd1ZPTDY4cnFBc0lfV1RzWE5GbGRRNm9WZjFhMmExei13YzdQM1Bh0gHTAUFVX3lxTE1GTmJ3emlCU0pIZnZQZFBpd3BhVTdhUGJfSEFDVEdkYjYxU3ZwdGo3b1NRUnZZY21qaDdRMTR0dUdVWkZSTWQ5Ml84cGdic2JaX0FaZWdrcEwxTDJGSU4ta2NvMFpXcElvQ3E2ZVlHc2pzRW9OUVRpWGVmOEduZXpjM21MMkFZQW1rWEVoQlBGV3BURnpKZ2hBVWhrLXF0TURVQ2JZZWcxdFd0WjNVY001bUJvdVVQQ29zTDJhQmtQMU5GTjh0QU9JSGp1d25pQXJTSDg?oc=5",
    "data": "2026-11-06T03:09:00+00:00"
-  },
-  {
-   "titulo": "Juros longos oscilam após Copom e foco fiscal",
-   "fonte": "Acia Araçatuba",
-   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE0yYmtfZ2lOWmZzSl8xYnRGVW8tT09yY3JpbV8wMHJHLVU0U2tfc1Y1YkNtblNBNkNmbTVVak9Ca0J6b3hiSWIxbEpZYXJPWW1BeXcyOXE4TG0yc0hfUG1LcjV1YlhBLVdoRzR4QXdYS285Zm9J?oc=5",
-   "data": "2026-11-06T02:07:56+00:00"
-  },
-  {
-   "titulo": "Ata do Copom aponta risco de estagflação no Brasil",
-   "fonte": "Acia Araçatuba",
-   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBQMVF3Sl9JY2U3UzRyRExVVDJlckt2aWk4MVpXUVBLZFlpWG5aaXlsWm9Gb0gzdWlSUW9vRWlfSlozUjdZLVZ1TWxOcUtBUUpkQXJYa0ZZRjVtQVBJUHU4bkVGSVJjZFJBQlV0OGM0dHRHUmgtRzJkVzAwTmJPQQ?oc=5",
-   "data": "2026-11-06T02:07:56+00:00"
-  },
-  {
-   "titulo": "Dólar sobe a R$ 5,489 e Ibovespa recua com pressão dos EUA",
-   "fonte": "Vero Notícias",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPc0txRW5KM0ZDdUh5VU1sVDE3dTh6VzdzaWhlQmxLMTVIT1QySmZwejl0WjJpTjg4Q1kyb1NreFNrYnJ6MnE1NnJEQW4tWXgzOTkxVENuVlZ1a3R2VWR4YmtKNGV6RDVJRnRMOU5WellWeTJHZjJtRjdmUmxoYTFSN09rZHlwRlhGTi1NUWdqcE1IZFpLSGc?oc=5",
-   "data": "2026-11-06T02:00:00+00:00"
-  },
-  {
-   "titulo": "Tendências 06/11/2026 | das principais ações da Bolsa",
-   "fonte": "XP Investimentos",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPdmQ1bzFXaUFTRTdBMTk4MmJ3bzQxWHhLb1QyVzEyaTdWbDhNSm5CdFZ3Z3REOWhWTEttQWlVYVhvRVdzRGhIbzNwdzZWT0l5OGRNcVRualVUV0JqX1NzMHhSVGJ1OUhiMDBSTFpuMklwdTBTQ24waEJyTjhmMFBOOUNnTTU2WjQ3RktOb28zd18tNWVRcmZWMHk3elljWVdSMVNFSWhRZEhmTmVR?oc=5",
-   "data": "2026-11-06T01:40:50+00:00"
-  },
-  {
-   "titulo": "NTS suspende investimentos no país e ajuíza medida contra a ANP",
-   "fonte": "Agência iNFRA",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNRXhSa1RtTnREUFAtMEU5MnJEWEE0MnM3UmdsTWJfYzlyTEtwa2tfeEY3Q3VSbTBiUTV6SGwxQ0U4V081RUdVa2tOMC1HM0dJZmFJdGhWczA2T0hQNzFYcmZiSE9QeFhvQXk2ZmJocXE4UjhpQ2VIWEVrNGJWZW5ieFRpbzctTVBlYXZCcTlMaHJPSGp1dlp1THBB?oc=5",
-   "data": "2026-11-06T01:18:45+00:00"
-  },
-  {
-   "titulo": "BC do Paraguai revoga medida que suspendia resgates de fundo em dólar do BNB",
-   "fonte": "UOL Economia",
-   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQal9XZXNHTzBLd1N4M1VnRi1HRElaY1hhVmJaNXFZWDl4MTVBc09PNWhMRzdHc3E2NkhpUm1QQXMydzBISTREc1gteG9Nb1dXOWVjTHg1enBWUnZrOXJscUlqUHg5SDJlRW1SN09ESWR4emdteEFlcHM2Q0RDLTFGc0p3Ukp4M0k3RjBWTXBPbUtucmtYd1NhMlhlSEo2RVIwckVYWnV3T3BtSDRFMWJUajBIam14ekktN2lMM0kzcUNPRzJnbENoZDBjT24zdEJoYXI2NktSbmdqTUhBM2c?oc=5",
-   "data": "2026-11-06T01:04:00+00:00"
   }
  ]
 }
