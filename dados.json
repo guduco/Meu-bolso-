@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-06T02:53:47+00:00",
+ "atualizado": "2026-11-06T03:54:51+00:00",
  "indicadores": {
   "selic": {
    "valor": 13.75,
@@ -16,6 +16,12 @@
  },
  "cotacoes": {},
  "noticias": [
+  {
+   "titulo": "Decisão do Copom revela que ajuste fiscal não pode mais tardar",
+   "fonte": "O GLOBO",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOblJKZHVPTGhldDVuZFJRY3JzMzRQdkhVcGJ0OENUSUtfT3JqRHVmVVhXaDFuaF9xWXdBZ1drLUNaZkgzU2VYanQxSDRBRElDVG5hNzJ3ZWVtR09FUW13ajdTMnUzUTYwQ180QUpiUWRVR0lQNEl1dUR2NmxNT1pWdWM5TlgxTkFZeW9FN0tKMTVwMWg1YnI4MFN6eE9sd1ZPTDY4cnFBc0lfV1RzWE5GbGRRNm9WZjFhMmExei13YzdQM1Bh0gHTAUFVX3lxTE1GTmJ3emlCU0pIZnZQZFBpd3BhVTdhUGJfSEFDVEdkYjYxU3ZwdGo3b1NRUnZZY21qaDdRMTR0dUdVWkZSTWQ5Ml84cGdic2JaX0FaZWdrcEwxTDJGSU4ta2NvMFpXcElvQ3E2ZVlHc2pzRW9OUVRpWGVmOEduZXpjM21MMkFZQW1rWEVoQlBGV3BURnpKZ2hBVWhrLXF0TURVQ2JZZWcxdFd0WjNVY001bUJvdVVQQ29zTDJhQmtQMU5GTjh0QU9JSGp1d25pQXJTSDg?oc=5",
+   "data": "2026-11-06T03:09:00+00:00"
+  },
   {
    "titulo": "Juros longos oscilam após Copom e foco fiscal",
    "fonte": "Acia Araçatuba",
@@ -39,6 +45,12 @@
    "fonte": "XP Investimentos",
    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPdmQ1bzFXaUFTRTdBMTk4MmJ3bzQxWHhLb1QyVzEyaTdWbDhNSm5CdFZ3Z3REOWhWTEttQWlVYVhvRVdzRGhIbzNwdzZWT0l5OGRNcVRualVUV0JqX1NzMHhSVGJ1OUhiMDBSTFpuMklwdTBTQ24waEJyTjhmMFBOOUNnTTU2WjQ3RktOb28zd18tNWVRcmZWMHk3elljWVdSMVNFSWhRZEhmTmVR?oc=5",
    "data": "2026-11-06T01:40:50+00:00"
+  },
+  {
+   "titulo": "NTS suspende investimentos no país e ajuíza medida contra a ANP",
+   "fonte": "Agência iNFRA",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNRXhSa1RtTnREUFAtMEU5MnJEWEE0MnM3UmdsTWJfYzlyTEtwa2tfeEY3Q3VSbTBiUTV6SGwxQ0U4V081RUdVa2tOMC1HM0dJZmFJdGhWczA2T0hQNzFYcmZiSE9QeFhvQXk2ZmJocXE4UjhpQ2VIWEVrNGJWZW5ieFRpbzctTVBlYXZCcTlMaHJPSGp1dlp1THBB?oc=5",
+   "data": "2026-11-06T01:18:45+00:00"
   },
   {
    "titulo": "Lula admite que desordem fiscal afasta investimentos e promete correção",
@@ -75,18 +87,6 @@
    "fonte": "ba.gov.br",
    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNelk1T29CYjhDU29pTlRkMlhMSDMwSV9rdzQ2OVVhNUJ4UXROT28wVmtjejRuR004R1R4MUJRdDZVQXY5ckJOVU5GeGpXWG01allod2l4MDdBSnFCMHF6ZGRqRUlST05oeDJma2hlQ05aNm94V0dtXzJaWWY5TWRfNE50bDFhUGlqd0hkaEQyX0N2eTd1NFdRM2diUVRMVVgyMTBheEhlbG5aWE9BR0lKdXVPOHN6S0x0WWNlRUhjaThRU0xJekk2V29SUQ?oc=5",
    "data": "2026-11-06T00:20:27+00:00"
-  },
-  {
-   "titulo": "CEO da Totvs: Ampliamos investimentos para IA",
-   "fonte": "CNN Brasil",
-   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNUEFMQUpWc3ZtRkFCaW5WWm9nb3VEZkRfRkhZYXBtOGUwa3RWcy1OTUR4WngyVkxZa0JGMklvZWUtaEhQeWdvVFV4amlSYVFQS2s5Ti15dDlGdWVpZzcyMWJVZ1dzNGMtSjNNWUNlb0hiRzg2Qmx3S29zamFONElxZ1dVY0xnY0F2Tkhv?oc=5",
-   "data": "2026-11-06T00:08:02+00:00"
-  },
-  {
-   "titulo": "Lula diz que é preciso ter responsabilidade fiscal e jurídica para atrair investimentos",
-   "fonte": "GZH",
-   "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQVzVwNl9KQ3lTMzVWek5WaHdVUHEzbWlQRGtmQi1tNmRpMi1vRC1HYWJsUnZxV3dBYktYLWlsMEtITjV0S01tNk84eGhNVHhFUzBsM1lLcm9WOGk4cmxRX0QwMEdqcnlLUnJjYTg1d25pblY3QTJwaUx1S0hiYi1lX2h5bjlXZlYwSm5Kblc4V2l0NzJDbXRCTWxlMllhOFlScWVvMDVIUUNFMThpYWdoSGZXWE5lVWVtcUVkTl8yQUNoM1BHeHMzc0ttdmtXcndxelM3RFNQR0tUV0RBSDVqR05RcXlSdVMtSnZzWE9PdVUxS3hMWnZaUjlVY0tYNnNNUkZFOVZB?oc=5",
-   "data": "2026-11-05T23:50:58+00:00"
   }
  ]
 }
