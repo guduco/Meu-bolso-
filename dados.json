@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-06T11:05:03+00:00",
+ "atualizado": "2026-11-06T11:55:51+00:00",
  "indicadores": {
   "selic": {
    "valor": 13.75,
@@ -17,6 +17,60 @@
  "cotacoes": {},
  "noticias": [
   {
+   "titulo": "Selic a 13,75%: por que a cautela deve orientar investidores e consumidores",
+   "fonte": "A Gazeta",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQdzFJWklGSHJ0T1lyZFkzSFhGOTZlZ1R5RW92T3RIaHZLbC1jYVd2UHFuanYwa0lLYlZrWmg4Z2JwdzdWU3RUaXh0alRtYVBqNUFpWGFhVURfbkwxeVdQWGZybmhSVnl3UF9wTjRkVzVKTXF3QTBSemJKUFVRM0hhSE5Xb3ZHUnJ5cTNrN2ljcDJDNEFLMUcwcFJpM1VjcE01OUNtQUFxLXQ4Y1gtZjlWcWpnbEFLdkp0Q0tpZ1Nwa2dvWFRaTEE?oc=5",
+   "data": "2026-11-06T11:15:00+00:00"
+  },
+  {
+   "titulo": "Juros altos no Brasil: por que as taxas não caem com a Selic",
+   "fonte": "Acia Araçatuba",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOYTdZelRBd3lwVTdtd0dpNTAwWWpWcENTcUdWU1JWZHdtbmZOd1dlMjFxbjd2U1k0WWF1LVJFdVV1Z0Rxb2poSjhDNEN1bGphdUFHNUFFR3VfQUlnRUNPN3pQVVh2UmdJNkFaQlJKNTFUSy0xRDZUUTlBaUhRRnhrVHhTRnlHLU0?oc=5",
+   "data": "2026-11-06T11:09:09+00:00"
+  },
+  {
+   "titulo": "Manutenção da Selic em 13,75% reflete cautela inflacionária e risco fiscal, aponta Banco Bmg",
+   "fonte": "Brasil Inovador",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPZkxFNTBkNk5ySTBVMEVFbVhpZWd5TmlmcFdoUXJvXzdPMm5YQThaY2lKdDNmMjZYd1VEcTg0WFkyUDFUalk4cmVJOHV1NTMzcXowRDhXOTFMQ3oyUVRvMDJJX1owRF84MW1ERWVyekx3c01EX3c3cVVBNHBtOFZRdzg0b0JoSnVFRE9KWVZFSE5HNHR0dXYweHpRQkFHY1NSRTJVb0hlV3JrQUJpSE9aQTBVTkR4ZlhWbFgtOQ?oc=5",
+   "data": "2026-11-06T11:05:03+00:00"
+  },
+  {
+   "titulo": "Ibovespa e dólar hoje: payroll, queda das techs e fiscal no radar",
+   "fonte": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOTUVheWZ2UGJxdTR4bU1PSmNXZ29rUEVZV05kbzM4WncwdUdpbzVJTmlQNk9MTEhrdXBtTzF5MWJJb0JRUUxUdXRDRVBfUGp0R3YyUl94U1F3cmpBZzd6dFA2RWpvakhqZVZmUWZKVHJfMXB3OTdGZnphaHdBYlJsMnBZc25mU3ZfS3AtZ1VydmtOZzQ4VnotWHgyZkV3M2RnWnRmdmRRbUlWRDk3MXpTOEJMQnBZVGhUb1hr?oc=5",
+   "data": "2026-11-06T11:05:00+00:00"
+  },
+  {
+   "titulo": "Lula defende responsabilidade fiscal para atrair investimentos",
+   "fonte": "Acia Araçatuba",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPRVFpRk9uQ19ZejQ1enRZQzlEQVBfXzBDdFc3Ymc4ZjFlQklGRVRlR29CN21seHF1Qkw1LS1JMU9yazVGYUtOUEdnRDhvU1F6WjBjMUpVMzhKQkxaZ3dMa29iaVgtNGMzSUIwWG5VM1FyRHhQc0lxX0FfOE9STW9pOXhpZjVoS3ZabHpkdnFR?oc=5",
+   "data": "2026-11-06T11:04:07+00:00"
+  },
+  {
+   "titulo": "Selic elevada afeta orçamento familiar e de empresas, alerta economista",
+   "fonte": "O Liberal",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPR0JOQmVoOEkzUEJ0TDBnbGNJZmxNaGxkT2I5cHJoaDhYN3FzQ2J4OGhST09Ka3d6TlI3TEhKSnBpOXNXaHUwbFk2aGdwbGJaNWxPSjJFOWIxZmFsMzE1VzEtNUstdklPTC12elo1TmU0UUdkRjBQXzNEY3VpT2NJZGhGcUI2Z1o0Sy02SlFaNVR6WXhjcmt0NGE5WnR2VXVZTC1uLXF0c2ZRTWFubzBZR0JzTTE?oc=5",
+   "data": "2026-11-06T11:03:11+00:00"
+  },
+  {
+   "titulo": "Banco ABC Brasil oferece condições exclusivas para investimentos em sua plataforma",
+   "fonte": "Valor Econômico",
+   "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOTWs1REU0WkZPd3NHNVJiVHJPdk1Nb0d6Ty1NdkFLREhoOE4zNDJmX05Rc25fM2c0eHh3OEVieGtXTVpWWlN3Q0UxNmV4bkFIZnZpa3lxdGpmQlFTa0lBVlNXakFnMi1VNWlQVG9tZU9XOW83MDktSWxKUHpJNHpzZ0c2Q0twbGl1RzRISjhYemRweG8xMUNLU251Z3hEcmNndU5kc2dURXlweW1KVDFkNjRneklCblJaa1Q2SkpiQ05PVWdwcHRfdUZsMmtTdUdUQ0RtVUprQlRleHVXX3QycFh3U1JoRklyNElQMFp3THRyZVFPRW81d3NR0gGIAkFVX3lxTE1kbWZ1RTRvRy02UXhPNXR3UXY0MTZrTXJ1Q0dkVnBGNWFsM1BRcUY3VGRvNTBrLUhUdW10NUxXbVZZdGYyNGZIcWYzOFYxMElXdW5Icmd2a0FPR0FBS08tR09HVU5seWZfME9RVlUyZW4yZ3c4OXpadzVScEtpVzIxZUVSbm5uVHFFbFNScl9TVElib0Z4a2ZldzhIVTdkQVB0Nzd6NzVTS21QcnhYM1M3cGVKUElUZWxfd29Ea3J6QjV0MW1ZWEVtWmlCbXFYV1lSOVVvQlVpd2dCM1lSNEIweG9uOHNRcXNZaTZldnFiS3psZXQweTItUXk1YXBjVmtMTEZDTWFEeA?oc=5",
+   "data": "2026-11-06T11:00:00+00:00"
+  },
+  {
+   "titulo": "Ibovespa Hoje Ao Vivo: Confira o que movimenta Bolsa, Dólar e Juros nesta sexta",
+   "fonte": "InfoMoney",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOd1FIcEw4RTIxbDZ3VUU0eUFTMmpPOUhyakhDZXNvcFlKYWdhYmxpZnVySm9nMU1BYm53d3h0cGRVdFdwWVdiU3Z0TC1qZ09SZjFRdUg1OWZzdWE4ZktnTTJ0ZUNFMlFIRWthRUN2S1hmcXctS0FEOU8xLV9ZVm5jeXJFN1dRb290clVOSk4yVQ?oc=5",
+   "data": "2026-11-06T10:58:31+00:00"
+  },
+  {
+   "titulo": "Dólar e Bolsa hoje: mercados da Ásia despencam após tombo de US$ 2,3 trilhões na Nasdaq",
+   "fonte": "O GLOBO",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZEdydVpuT09ndThOYnh5MlBnUUJ4Ym9IVmtwZi1SZ21zMWpGVVFoWjQxemJsVDZ1UTE3b1ptQ1NGb3lNNlNYNEVLX3BsaHF2cmlmRHBtRHZJZmYteUN6UmZaN25QTTFna0wxaEdyUHhzSmZ3TGRncTg2WWZ1SWVXb3NmNXM0aGpBMjFZNXpCTllhLTI1SFY0N3dyUlAxRXd2cmVhVmV2ZWZCNkhOOXJz0gG-AUFVX3lxTFBramZieTJiTGJxZXJURzZzc3JkN1lTRGQxVHVVMUhQNmtqWG9ZZ2QxdGR1YUtiRFZ0MUF5NTRtUm5BX3B4b3pjdmdtcDVRb0ZHR2VYTWR6RXRvdUhhbWR1em9fQ0I5RG5oVlppRVFjV1pSZXVDNlVPQ3lmaUdUdDZpWmc4SkpIajNFUUJUYzc0YlVuNW1PaGhuU05fNmRUcThEdXFzdUdIb3ZDejA3cFVmUklvc2xPR1B1NG5YTlE?oc=5",
+   "data": "2026-11-06T10:52:35+00:00"
+  },
+  {
    "titulo": "Preço do açúcar sobe na ICE com dólar mais fraco e alta do petróleo",
    "fonte": "NovaCana",
    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNdU9Ia0wzVEVzdjVnNEtlSjhHU3pBV2M2T0xHZ28zWUMxQmVQTGxyQzhub3lWWUxWU2NiVUl6aGtPN1BtS0RwVUhlcFVxN3RYc3Qtdy15MWhlTHJXVlJ1TXd3aERrSjY0R2dlX3JsYVVsOFFiTENNWFlFdG8tSTdmRUhEclhIUDlHTmhKYjBlOTI0eHcydEx5VV9DNTNPUWhEZEMw?oc=5",
@@ -25,7 +79,7 @@
   {
    "titulo": "Governo de SP soma R$ 495 milhões em investimentos nas rodovias Castello Branco e Raposo Tavares",
    "fonte": "agenciasp.sp.gov.br",
-   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5GUjhlcjR6eXdRV1Qxdkt1MlNFeFBReF9BR1pVcGxXSmk2M0JxekNydlFIeXV4VlFuSGQwbTgycjNheldwWFRwQWJ6UVFmdjBaem1HTENldGs4Wk5zYnVscTlyNEljamZyTmpQcDZ6V1RBLTVtWGJVVE0xMzBFdw?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQQ0ZncHlhSklhb0FMamFZVXF0N0pVZ0dxeVdMWGl4a0FDNXJRVmM5NDBtVTJ6V0tqOVBMZHh0WHRnLXczN1F4eEpTd2Nsc0xpRTM3TjFoMmFjZExpT2NwdDg1Z1NKeVN6SEcxMUFVdGVFV3BTU3ZIbnJyNUZWc0NXRk5nOE5MZ1FuXzlBYVRWaXNhcWRDZDBqUlZaWEJYRHBaaWFuWDIwWkR0TFZoR0dFSUNuNnVaT2FIaEkta21lWTd6TUwzb2pocGZEVmpLLUdkLTkxV1hDN0hqT3NiTGVVcF9EWjg?oc=5",
    "data": "2026-11-06T10:50:02+00:00"
   },
   {
@@ -33,60 +87,6 @@
    "fonte": "GZH",
    "link": "https://news.google.com/rss/articles/CBMisgJBVV95cUxOeHRvY0lWSVNUZ0JjM01Jc1VUMmlHYURmeUZEa3ZCSlJsQ1RaRHVlNGxSLW5fSW5YWVQxQnZuRnhuVjUwOElBYUJENE11ZGFqWFVZVkNUdmN5dGNuMGtNTmpHczhJR1JLbnB4Wno5dXNoTGFiNVY4cmFTWnU1Q1VLTXRYczVNUHFWTEtHenR1UXpZUDFiZkRfcDUxUENyTWJfLWNLbHg2RDBmd2dXb2ZiQU1SVFdNUElHY2RRel95TF9MWkR4ZUdqUGtJeWlzbEYxb1ZxOHgxMXJTTUstaloyWDJkZVBVNlBpQUNZQU9uY3pLTl83ajdfWWl3T2ZJQ3ZOVE5mSHl5dEdGWHpvaFp4VjRtSDBsVXBTYXV3aXBoOHZQRlRyQng2R2dNLXdZSkJJcEE?oc=5",
    "data": "2026-11-06T10:44:52+00:00"
-  },
-  {
-   "titulo": "Libra esterlina recua enquanto dólar se mantém firme antes dos dados de emprego dos EUA",
-   "fonte": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
-   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPY2hrVmNZS1BybFNSTjF0dDJ1cWJEQThrSGcxRWlycUJzWmVVX3pLNzktNS1GY0FhMDVrbG8xRnA3YW9EdkJBY3M5aDNHdkdwVnYxVWN0WlU4ekp4UzE4WklQNGtSY1JEc1hINnBETGJMS2N0RzFBOGw3b01NdGhwYUhTcWgweW9HLW9UWERnNFdTOWF6VUx3Q29MSEhkUHNoUXhXMUxwaHBmVXZoQWIzbEZSRTE1REwzUnFFVTlKdVpmY0JldUs2V0VNaG9LQVpZX2c?oc=5",
-   "data": "2026-11-06T10:44:00+00:00"
-  },
-  {
-   "titulo": "Dólar sobe devido à demanda por ativos seguros, queda no setor de IA afeta mercados asiáticos",
-   "fonte": "TradingView",
-   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE05cFBkUWk4YVhZVWJsOV92VzRwc0M5UE9EVmtqZDdtVzVDblNRWVFVdlVVXzhoeFh0SUF4WnM2QWRtc3hmcFY3bUJiTlNpZ3NOYnBGS2tjcFQtVDdyUkllN3ZiR0Y2dUcyWC1ncWsyWlFHeU5WS0RB?oc=5",
-   "data": "2026-11-06T10:42:21+00:00"
-  },
-  {
-   "titulo": "Lucro da Unicharm cai 18% no 3º tri com custos e investimentos mais altos",
-   "fonte": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOWDRvYWdQS25BOFVJVlhKTU91V0FJTGk4WUhUMG9tX2FKQ2ltaGFBWThreFhCaUF5NllMeFBxblVIUnRES3pMNm9SOFdVdWtscko5VjkzM2NzNVdlYV9IR1V6Um1XUkxYcTBEdnp4WkJIZmF4N0h2NWpldkJpdi1pYjAxVEZkWXZQb280RVVhSTA1YjZxQVlWZjhLSGgzNHZLZHZyVFRwU050TUtuTmw5eUJWMzQyb19EellpZU9pbkd4Zw?oc=5",
-   "data": "2026-11-06T10:40:00+00:00"
-  },
-  {
-   "titulo": "São Paulo recebe GP de Fórmula 1 com autódromo ampliado e R$ 500 milhões em investimentos em Interlagos",
-   "fonte": "Prefeitura de São Paulo",
-   "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNX2d1VVAwRy13anRrcUNYLWlCdzFvUzltWHFwUjZESDhBSDJEWGZFRHNJRUoxZGgza1lGdnZZV2ZyTlZQOHptLWtJWlpxVFc5ZTRLdEs4WEFpY2hQSG0zM1psNDBpMVJCcm1iR0hwMGlnd0ExQzhpbWUxZjU5c2VTaVdOcmYyOUIxSndrOTAyaHh1bWRXbVBXQ2pmbGtHRDBfNFNnaU9yQkVnWXZSSlB1dUt2bk1tTlE5TlYyM0pzNm91QWIzN1ZydjNLSTM4ZF9KeTRqZ1dPSlNSSzQ4WF9McjBjeHktRWJLbjlSM3c0QkVUOWp0TlpKWQ?oc=5",
-   "data": "2026-11-06T10:31:05+00:00"
-  },
-  {
-   "titulo": "Presidente defende responsabilidade fiscal e diz que economia precisa estar 'arrumada' para atrair investimentos",
-   "fonte": "Extra online",
-   "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQaTRydmFfNm9zbS1oaWlZZGJpWHJfWldUWlJkbnVabjd4dGRYRTNwaEU4eUhHdEU0aTZ1WDF4ZjdmWndjT2Y4Sng2Wm5TVnJOYmdZME5WWWZwd3JZc1JYa3V5ai1Dd0FyMjV6SFh6Q2tTcWJZcUoxWVFFUklpMHpHRlZza0tmcW02S2twcy1UeGpsYUlHMEhWREFMX1pBS2NIX2pjbldOZjBKTGpQZjFhZHVqT3BnWWVfdElJYXdzazlIRkdHRzliem1fQ3BfbEIyazVoWXQwS25kbFdvZXpmTkJaMlFtRTlmcVRXTUMyN3BjWXpxeDZmX9IBhwJBVV95cUxQSmFubjByc2dKUk1rNldyWVgzdHZSS0R1R2lORk5zRWpjV1gzcHh5SVdTeGtQNkRqSUFPN29nZXBrX3RJdTc0U0YyeGdxYUpsWkYtRHZZMnBKX21sX05CclhuenJHZC1WQWNUQmdzeFZOOHd2X242YzN4bEExZTB4M1VRSzlFODZIRFhXWWY4M3pYRkx4M19LNTNEckdmd3ZVWk5icjhwaDhobmZJbUpxdkE5V3RYWXNmX2NzQ1poX0k3T0xNVkh4Q2J6ZXFYLXpzc0dITThxd0Zud3VBMnBsOUNhQU95Z2ZYTUxJaEEycUc4LVVHeWMyX1F5cngzSktqZnp2ckZHZw?oc=5",
-   "data": "2026-11-06T10:29:59+00:00"
-  },
-  {
-   "titulo": "Inflação nos EUA está alta demais; é essencial voltar aos 2%: Williams, do Fed",
-   "fonte": "TradingView",
-   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1HbG1qLUNMdTBGZWMwS0JRbjF1Ylp0OWx0T2hKVlZlS09Ma0t0WThsSnZGYjZPZGZsMnhhcFFyb21ES1RvZmVwWU14VDN6ZzA4ZFZXOTEtNE83WXRFckdOamUzX2lMc2hJY01LZ2JYakdQTmRpY3JN?oc=5",
-   "data": "2026-11-06T10:28:38+00:00"
-  },
-  {
-   "titulo": "Brasilprev avalia decisões do Copom e os reflexos na alocação de ativos e previdência complementar",
-   "fonte": "Brasil Inovador",
-   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQR050ck8yZzdtVzRPWVh6aF8tcFZEZ3pjOTBmN19QU3JBRlY3bll3Z2VrYmZEd0xYUk5XZnBSRkNVTzd4TG4zQXRhdmY1UTY5TEZjVFBrdG9VV1BEX0JwN1dwbTJ0b01UTWFJSHQtbFZDdWdQYTNIOVFPQVlNVUowLUpXdVl1cXZLTWhPM280UnNlb0pLa21qLXY1U1RIbjU0UmZoUEFmOU9Ca2ZjeVJVUzhHNnU0eklDcjZneWd2WEhwVW9lTWp0Nw?oc=5",
-   "data": "2026-11-06T10:25:04+00:00"
-  },
-  {
-   "titulo": "Lula: Economia arrumada é indispensável para atrair investimentos",
-   "fonte": "Opinião em Pauta",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNRDZlNTdISFhFZl8yWVFmM2Y3Z3BLa2ljamVvamNtdTV2RC1zUVQyQXNjVWFwSFZpaEVoSThqYklLMmRBcnl6T2hLVDZHckFTbnhPbGxyQjc1Rm1UdWlTdFlsU09TOGhyWG5FdjVGRlotWk5OZDlTcDBiMHM4Y0ZsdmFvSUNhTmFSTTdRUFhxdHJIaWh0a2NEbUxuNA?oc=5",
-   "data": "2026-11-06T10:15:00+00:00"
-  },
-  {
-   "titulo": "Minidólar (WDOZ26) testa máxima com payroll e cenário fiscal no foco",
-   "fonte": "InfoMoney",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPc21IZU1abWs3M01lYTU1UlFQeWFsSzFoRGNFeGJ6c21ZRXlSS1Z6OHJTT2s5MVY2alBMaDFNeDBVWFNla2tsb292WndXR29UR0R3anE5aGRxZlQxdGR1ZVdqdVJsLTNKcjVzUkpXblB5dHFYeGQwUWlZd0w0VGJuSVlVaWZiOXVqZW52RkNR0gGTAUFVX3lxTE5NWV9kN0NXbHQ3UE1HbU9mSkpILUdGOVo4VFQxdVR5Wm55WTlRYXlVaDZWdWY0dmxSUDlVZEh6TUd1WUdfOWpsV0FnRktVblBnVE93Q1ROYnk5ejJQUFB4NVVoWjg5WERBUENBVU9DdzZTaV9YQkU0djI1dldSTy1YeURIYmItNkswUzdJMEJUUzZpbw?oc=5",
-   "data": "2026-11-06T10:09:00+00:00"
   }
  ]
 }
