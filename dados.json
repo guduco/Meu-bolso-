@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-05T23:45:56+00:00",
+ "atualizado": "2026-11-06T01:07:38+00:00",
  "indicadores": {
   "selic": {
    "valor": 13.75,
@@ -17,76 +17,76 @@
  "cotacoes": {},
  "noticias": [
   {
+   "titulo": "Lula admite que desordem fiscal afasta investimentos e promete correção",
+   "fonte": "brazileconomy.com.br",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOYjdNWWtLcEJqZHROdmxRZXVLUEhOUjdqY3ZuMUdYS0g2VGtjZlVSYjJ4VmdYZ3FUYUJDU3JBUzJXd1Vyb2V1c2Nwc0U0OFJjUmZ6SW9wc21DNWJBVTFjTUduQ01EWUlpSjJWZ1hTQmJDRnMxcnRtLV9pbDAzUUVxbzNFX3Y1MklPcVdydmVVWDh6LW1vSHJ3ZlV1dWF5c2Fvc2lvZ1NxSHN0LW13ME9scTRNcC1pRV9nRDAyUU5ncU5BVWVDODk4TzlB?oc=5",
+   "data": "2026-11-06T00:52:18+00:00"
+  },
+  {
+   "titulo": "“Selic alta não dá mais. Juros altos estão sufocando o país”, afirma Jandira",
+   "fonte": "Hora do Povo",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQVjNicHI4NDdkcnhJaU01bkl0bDBzT3F3NWJpMnBVTWFSdmc4VEtaa1lYMzBWZlQyRHVIMjVMNzFCTW90cWtsREx4dVlDdUxBTzBXdnlKZjBwb3dYa0g2T2NucV92ZDQ1MGxZS0daUnFTNUlIcFVFSWJSeGJMeG1Oc0ZtSE5KVmdsaEEzNHROYnRTbGVuS045X2dlZ3ZKQVBE?oc=5",
+   "data": "2026-11-06T00:37:48+00:00"
+  },
+  {
+   "titulo": "Lula defende responsabilidade fiscal e diz que economia precisa estar 'arrumada' para atrair investimentos",
+   "fonte": "O GLOBO",
+   "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNVU50RWRkTU9TTXJ4Z1VXZVlqWUcxWlB5eXNPRUlxeWJoM3N6M2JsNUM2eVJ4azcxcnkyYkd3SnhTUzBOa1hVSWVwbkFWUXlrMGRxVWJncWJKb29mN25LZkFvVVlKMXAxLTBXWGZCQkFYSEQ0Ynk5dWVrYUFLYWd1NmlpdzVualQ5eFY3NDVyb0p4b0N4V1BHd2daV0JVQmVWUm1MN0tiMFhFRHBQR2poMDF1UGRjY2IwTzFpREd4V2c3TThTUm4tbjZoMkdGREctTHFuekg1ajNacWFMX2Z0MlhzQW9xV2tIWDNpWmVhUGlDaTI3VkHSAYQCQVVfeXFMUHNYb1JsN05vU3BGaDJnb01NaUhfTEh1cjlLS0tpN1piMlVVak5kZ2FKSG1nYlVVM3AwWnJUZFYtcm5OdXJlQ3hUMGFwa0Fka2pVQlk3Q3M3ZURqTDhzeEl1VUt6b05RZ2h4VTlIRUQ5SDFmTzZfOExCX01BVWl3dno5MkdDdFRGaHRMX1ozZG1mZlNUWmdZVEktSS1TLXVkM1pOTmNlRDVyQmJNaFVRQjRidFZMQklHMDJ0VWIzcmEyQVpTSkxEXzFEaXhqX21lMXVRZnRXeHJOY0V2YjNhd1FVckM3aG5rU0dmM1BNS2dhVWZtQjhaT3YzVGZFMDl4R3B5dFA?oc=5",
+   "data": "2026-11-06T00:37:19+00:00"
+  },
+  {
+   "titulo": "Brasil mantém maior taxa real de juros do mundo; veja ranking",
+   "fonte": "CNN Brasil",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNN0RncnpWRXVDeDJfNXRSLUxOZWdNQ2xsWm8xdU5uNW5wYnIwcEtNOHprZmdLY0dzVS1HeG9qSElOM0J4NGNLcW1kTkMyb1pvbUZyUlJiaHh0czVxTVBBUXNHMWdwZ3d5OGZkVm8zTF91TFNZUms1NVlLYTJiQVVxQkdFelZZMXVGYzYtNDFWQ2hWOWVNVS1tQnNON2ZNUlBtajZHMXczTjhBeUxqSUYweGI1NmpwSmZlT1RocEszam9oVVhmOEpkcmJqc3o?oc=5",
+   "data": "2026-11-06T00:33:55+00:00"
+  },
+  {
+   "titulo": "Banco Mundial e Governo da Bahia fazem balanço de investimentos no Estado",
+   "fonte": "ba.gov.br",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNelk1T29CYjhDU29pTlRkMlhMSDMwSV9rdzQ2OVVhNUJ4UXROT28wVmtjejRuR004R1R4MUJRdDZVQXY5ckJOVU5GeGpXWG01allod2l4MDdBSnFCMHF6ZGRqRUlST05oeDJma2hlQ05aNm94V0dtXzJaWWY5TWRfNE50bDFhUGlqd0hkaEQyX0N2eTd1NFdRM2diUVRMVVgyMTBheEhlbG5aWE9BR0lKdXVPOHN6S0x0WWNlRUhjaThRU0xJekk2V29SUQ?oc=5",
+   "data": "2026-11-06T00:20:27+00:00"
+  },
+  {
+   "titulo": "CEO da Totvs: Ampliamos investimentos para IA",
+   "fonte": "CNN Brasil",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNUEFMQUpWc3ZtRkFCaW5WWm9nb3VEZkRfRkhZYXBtOGUwa3RWcy1OTUR4WngyVkxZa0JGMklvZWUtaEhQeWdvVFV4amlSYVFQS2s5Ti15dDlGdWVpZzcyMWJVZ1dzNGMtSjNNWUNlb0hiRzg2Qmx3S29zamFONElxZ1dVY0xnY0F2Tkhv?oc=5",
+   "data": "2026-11-06T00:08:02+00:00"
+  },
+  {
+   "titulo": "Lula diz que é preciso ter responsabilidade fiscal e jurídica para atrair investimentos",
+   "fonte": "GZH",
+   "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQVzVwNl9KQ3lTMzVWek5WaHdVUHEzbWlQRGtmQi1tNmRpMi1vRC1HYWJsUnZxV3dBYktYLWlsMEtITjV0S01tNk84eGhNVHhFUzBsM1lLcm9WOGk4cmxRX0QwMEdqcnlLUnJjYTg1d25pblY3QTJwaUx1S0hiYi1lX2h5bjlXZlYwSm5Kblc4V2l0NzJDbXRCTWxlMllhOFlScWVvMDVIUUNFMThpYWdoSGZXWE5lVWVtcUVkTl8yQUNoM1BHeHMzc0ttdmtXcndxelM3RFNQR0tUV0RBSDVqR05RcXlSdVMtSnZzWE9PdVUxS3hMWnZaUjlVY0tYNnNNUkZFOVZB?oc=5",
+   "data": "2026-11-05T23:50:58+00:00"
+  },
+  {
+   "titulo": "Ibovespa cai e dólar sobe com pressão externa e de olho em política econômica",
+   "fonte": "TradingView",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1SQk1odVdFU2VqM1FvQTdZMEU5bWwwX3JEYnN0TktqN0tieC1rRGlfVnRKQ3I0dFRGdFphcG14OUZMQ01QUDZVaDlUSEkxbXBONkM4Ry1PS1JQYXo2TTQ1bHJRZGNNRGZ4T3lIREtTeFBaU3p6UEtR?oc=5",
+   "data": "2026-11-05T23:50:10+00:00"
+  },
+  {
+   "titulo": "Ibovespa fecha hoje com queda de 0,82%",
+   "fonte": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNekdSYXdZUWQxc1pUZ00tLXlIaE13LVFCaVVPUGI0T1poMkJjVVRWY1NvUktOaVVYN0FPejEyOU9zN2diNFBZRDU5ODdvYjlOTnBGSzMyRV9tZEZpZDVBMjFFMWNQUjk0TXFGN09hR05xbzh0SEZhTnhRZWJyVTYwSkdpUGhkaGc?oc=5",
+   "data": "2026-11-05T23:42:00+00:00"
+  },
+  {
+   "titulo": "Responsabilidade fiscal e jurídica atrai investimentos, afirma Lula",
+   "fonte": "Correio do Povo",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPZmlFelU1T2NPNGNCZktEbXFTa2U2Qm91UUFETWJwZTFBdnRTWjNaVkh1ZllsMVd2b2xHbW5vSUppVGF1RFFhN09ndm1MN0ZZaDBMc2FOVmdna0xHSDI5QlIwR0pUcjRBdzhkQmJ5S18yM3lYdHBpN1lnTk1lb3JIbFNpaklVVmhIS2FLUWF0S1l0eEoxWk43ZUlpb3M0YzFNTGN6QXE3NnFaTXFYREZTSG9kVEI3b2VQYmtVR3k2cXhuUlFYTWNLVkxrelM?oc=5",
+   "data": "2026-11-05T23:31:35+00:00"
+  },
+  {
+   "titulo": "Ibovespa sobe 1,71% e fecha aos 166.191 pontos após decisão do Copom",
+   "fonte": "Brasil 61",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNSGpIR29aYXBHQlpNTUgxbjlxNlJvLWRwMFlaSFlpMEJlekRLak9DcWI3cHZrTjY5U1R3ZVNza0dxWFJLdXFfQU5DNkc5SlNlVUhqMmU1V01fNG5VMW1MX096SVI1MjZDUUdZSXNaME9waEUtczV2dW05MVk2UF9NMGNtUnRyZHk3NkJDcEE1UTVHSjUzUVN4emp3NmIwWkNrS05satIBqgFBVV95cUxPM2hDc1ZjSTI0bWt4d0JhRzlvcnBZWHZrdFp2bmVMTlBmTkFHeFZqaWV1Nk1lY2NGWE1JdW85YjhyN0RyeGRDS21TYU4zaEE1YW1PNGZMV2hoTFRMakJUNHBCbmRkbG5BM25XVVFYRzJRMUxDX2o0LTIwMEpTYlRyMGFJdjROYTJ4cl9DYTJEU2tRdDJxV1IyVHpkZzE3UDZFY1Q2TW9nX0JtZw?oc=5",
+   "data": "2026-11-05T23:30:00+00:00"
+  },
+  {
    "titulo": "Dólar fecha a R$ 5,4885 e Ibovespa cai 0,82% após Copom",
    "fonte": "Campo Grande News",
    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOVHB6dGx6VlNJZFo5WWY1SkEwcVdJbGZsNGQwR2c2NWFWSnNkbjRBWElfOWFxUHFtNDA1YVF5X0IxelE5SnpYZEFKd2VVaTJOTnFCMWJmN1hackdYbVNQMTAya2FLRGNJVG5PdVp5UEExQzcxOVh1WHJTMFllY3lVVkI4VWhwSEhiMm5BUnVnR3hWd0ZZeGxuSVhoV1pBUFRJaWlpcFRzUFdsZ9IBqgFBVV95cUxQempKeHhSTy1YU0N1RFg4WXNKRUVLX3Y1VmhLQW9RVHlyYlF3Vm9GY2lyZFBrb2FpM3Voa3R2OGJ5Zl9Idy1OSXJLMDJpS1FaRUhZUXNoQXJPRFdXSlhTU1NFMnVNb0s2bS1oRDR2dEtDc3g5VmxLd1prTndTd1JCYVR2N0ltS1MxOWVDcTNLX0dpajJMWV9oRkxZYm13WVBnR1FIcV9oSG5NUQ?oc=5",
    "data": "2026-11-05T23:30:00+00:00"
-  },
-  {
-   "titulo": "Lucros do Trisura Group sobem com ganhos de investimentos",
-   "fonte": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPSEJhSV9RNTRlNmtabnZiNHdkRU96TjN5TGJOV1RXQkh1TU5TbmVGSVpGb0x5Z0dCYXdhdEdibEdHdDB4bnd2U3VHRi1NRG9mMGtWX1o5c3NkSENTN3JYSUhuQV94ZEFqSXRfdDg0VDJCbmZSaW9wdHN0a1Y2ek1uV1l1SS1SOURnZDE4b0R2cVJWMl81WU1jSVcySDNMcDZGQzZYbHJHNA?oc=5",
-   "data": "2026-11-05T23:28:00+00:00"
-  },
-  {
-   "titulo": "Lula defende responsabilidade fiscal para atrair investimentos: 'Economia precisa estar arrumada'",
-   "fonte": "Exame",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPczZvWWJMUFhCY3dPUWR6MU9qdl9jQVJOQ3oydnpFRUFyRmNQWll1QWxsS0JiU1U2dEFEWUdwTktFR1JYWi15dlBiQUxNY0hmUU5aUG9sYU93YUFRRlFmVWhHTnZnenlYQnNWZlE1NGt1VHg3eC1jXzlMZmx5YUxqcnIyelhtN1JRRlNzc21PYV8wTXZSMG9tZDNBMm9jenRXcVlDY2R4ZTV1X0cxeFBsaERaQU5qNHdrYVhZWVlsTQ?oc=5",
-   "data": "2026-11-05T23:22:48+00:00"
-  },
-  {
-   "titulo": "Dólar sobe e Bolsa cai com instabilidade global e juros mantidos",
-   "fonte": "A Crítica de Campo Grande",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPbDVJT01MMFhvZ3h5SFhKcWZQLTVOMElOei0zOXZvdU5JbWV5Vzlka3FxSDRRSVY5d29feTlKUTF4M2NJOFFjRXZ0UTZzeV9sanlBdzJNYTlTX2NoZkFpazdfbXBNVmZra0ZyMm9NLWtZNUNiLUFhV3dvNy1VakdmV0gxMHNJLXNjaUxQU2tXZzYtN19iSHZsWVprZWFDTnpwSkZz?oc=5",
-   "data": "2026-11-05T23:20:00+00:00"
-  },
-  {
-   "titulo": "Lula defende responsabilidade fiscal jurídica para atrair investimentos",
-   "fonte": "Jovem Pan",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPYnk4bEVoZEFEM3JNLVY1YWk3WEtubENMOXFYZUdsNjJSWHN3NFFjN2hBc2lkRDhfV3JnM0tvRWFKSUNSY3YtejFKV3M2SFp5YTM0ZUdCWDhrcktsZmlnaEV2VFRjMUNSNlpsdzlWeGVWYlZDUU5ZbkJVQ3Q5TDVkTnMxQktPaUhNeGJ4cGItTHN2YzJQVFZCUkdmZU9xYjVnRU9oTWhMV2s?oc=5",
-   "data": "2026-11-05T23:07:15+00:00"
-  },
-  {
-   "titulo": "Dólar fecha em alta de 0,62% após oscilações e repercussão de cenários econômicos",
-   "fonte": "Brasil 61",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNUTVkZlhzeGI3U3gwVzRuS1d4bEhoVDZYaVVjVGppWEJLc1JRRHExWjBobnQ2c1UwSUsyX3U1MEMxS2VNRXdLNmJWeHl3aWFoWG9KQnI5MHlPRGVhUGRmQUpMZ0JSYkhhV2lkQ0RCaGNVeEoxSU5wcWJzMWRRTVdOWmNEay05SGVHQ3Z5TjNOOGVLbElIcHhsQXdkWnBBN3ZMR0piOUhvOG80dWI1XzRXQ3Y5TG9VUdIBuwFBVV95cUxOcFR1NVV1Ui02RnFpcktnVzdiczg1Y2pmWnlvV3JzYWpjX0ZLa1RwVlpWaEc4bDZSbDVSVFlyUWZYNDdveDVna1JnUGg4WnVGY3kxNUdqcGlDVFpTdlluQzlnYTVMQ0NpeHhhSENuUjFCS0ZXamR0UTdZZkdzU1VmdHVDWUxYRTl2SDZWX2p0ZG1NT2FUY1ZpenJQV3NEaWNFN3kyeWJkNnBqdURIdzdrTWpONXZ5azhlWGRv?oc=5",
-   "data": "2026-11-05T23:00:00+00:00"
-  },
-  {
-   "titulo": "Banco Central mantém Selic a 13,75% a.a. –culpa é do governo",
-   "fonte": "Jovem Pan",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPLW9GOHY0cEdDRHZrU0FNZGM2RnBBelNqVDdaTG9EUkw5N2hnS2kwM2liM3RZUHNpNkNON2hEdFM0VWFOSEVyNGNyak5WZGZHZ0FKV3dKSjdZUGpCTGlsU3BLYlY1Rm9MYVBVTW5sV2tpb3M1R3VENldLTXJSOVIzMlBaU3hLbGxacnRkOHhvR2pOSVNTZU1tR0hReWotU0tmc3hyQmtR?oc=5",
-   "data": "2026-11-05T22:59:01+00:00"
-  },
-  {
-   "titulo": "Governo define minerais críticos prioritários para investimentos",
-   "fonte": "Agência Brasil",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNMzhFVnZ6ZXNLWWlFdWt0VTE1em5oSnBvVm5vV2hSbnpFbFF2V2hYcE54eVBWX2JqZ1hQVWlfN2gtaWZDUUY1SGRSQ3hmZmtib2hyNXdSMzU2MFVHYjlOemxJVmhYQ1BPVTNReThndUU2U2hUYnh1SXplcWdZWS0wQWNMdFp2ckVJTDlQUU4wQUt0T0hIRzNLMElORkNfRUx2OTJ6V0RHaVRwY0R4T0Y2dG9XQjlweElES2lYUjFYYw?oc=5",
-   "data": "2026-11-05T22:55:00+00:00"
-  },
-  {
-   "titulo": "+10,34%; Ação escolhida por IA sobreviveu à carnificina do Ibovespa",
-   "fonte": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQd21GdUxYVVV1MFc3WUhnejZlZm5ydFlmQTV1MzNLWHJYaDBJcGlwTVB6RHUzempDS1FBV25icUIweDFqMlVfS2lteE5qZFZsSnpta01mOEZJTl9zVGlCZFVqeUFKQ0wwNk9yMzl6alZMUXRQNzI0bzBvQzlhaVpVVDdSWWw5aHlReml4eXhfaEt5YmpJZS1yMmZ3RWFILTYxYXFxWjhJR01rZGdTbU1NbjZUQXU4OWQzbkJB?oc=5",
-   "data": "2026-11-05T22:51:00+00:00"
-  },
-  {
-   "titulo": "NTS suspende investimentos no país e ajuíza medida contra a ANP",
-   "fonte": "Agência iNFRA",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNRXhSa1RtTnREUFAtMEU5MnJEWEE0MnM3UmdsTWJfYzlyTEtwa2tfeEY3Q3VSbTBiUTV6SGwxQ0U4V081RUdVa2tOMC1HM0dJZmFJdGhWczA2T0hQNzFYcmZiSE9QeFhvQXk2ZmJocXE4UjhpQ2VIWEVrNGJWZW5ieFRpbzctTVBlYXZCcTlMaHJPSGp1dlp1THBB?oc=5",
-   "data": "2026-11-05T22:50:09+00:00"
-  },
-  {
-   "titulo": "Governo vai discutir critérios para controle de investimentos em minerais críticos, diz Elias Rosa",
-   "fonte": "Valor Econômico",
-   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNZk5YMjRnU2JLZG1qRkttVjRfb0dfSXg3SEJlalFFd3FfS3RLcndnZjlqV3Y3dnBCWFRadUZaby0xMHFhRmZxRGZjWWxlMC0zS1ZwSnlGdWlyUjJ6czBjUDR5cFcyVjQ0YmduTWQwYTNmMGF1eEZDRnJWNXdSV3VYdmJCZm45Zm1oTVlyWkZmb0ZDQ3RBaEFINkVybjBwYVZsaWhzN2dLT3FnQ1Zzc0U4VmZrNWVNbXpxRm02bThzNXY1MWY2bjlGelQ3c0xhTHRjc09qQ1hQUXBsRmc0SHhuRFZ0cFUtbG9L0gH3AUFVX3lxTFBiWG92ZGgyM1E4Z3hORHdGUGJtM0xKWTVrU2VJNC1QbExvcEZHdC1LQ0ZENkFJNWRuZXY4WUd4LU5taFY3TkJIU2kwT1JuWS1OZ283eTdXc0tKS3dfM0hreEVHZXNYTWRrTnI2SEV3S0Iwamc2dS1GWnVuSXpUSElGQ19DWWNUN0NkMkZsZzJnd2w5MXlCTXdMRDlqTjd1RjZTSkVXNHk0cDVnUjRpWkJJdlRnTG5mU1QwOE05WjlvSlBUMFJ2N1Rzbi10aTdzdmFNOHFpdlVicmo2UVRPMHpBejcxYjQ5Yk9PWFp5cDdoeGdDc0NoX0k?oc=5",
-   "data": "2026-11-05T22:33:19+00:00"
-  },
-  {
-   "titulo": "NTS suspende novos investimentos diante de impasse sobre gasodutos com ANP",
-   "fonte": "CNN Brasil",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOeFJuYlZZTDBwbk13MDQ2b1N3SHExNUFzS3RuR0NTYXZoU3lia3FzajhzYlFTT1BrdzNJdXlDNjJuMUpXdXBUYmZZTS1LblVGSURkSTFtb3JrcTlxcnhnTE9DWnREUllBRDZLMXdILXNBeHlPNDRBbmhhZDlLMGxubVdxNkY3S2xBaGtTcXNkV2ZxY1BYYWZSMmZSd21KUUxOZ3B1djhPOU5DbnFzWHVj?oc=5",
-   "data": "2026-11-05T22:28:18+00:00"
   }
  ]
 }
