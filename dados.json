@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-06T04:58:29+00:00",
+ "atualizado": "2026-11-06T05:59:29+00:00",
  "indicadores": {
   "selic": {
    "valor": 13.75,
@@ -16,6 +16,12 @@
  },
  "cotacoes": {},
  "noticias": [
+  {
+   "titulo": "COP31: Brasil busca atrair investimentos e setor de seguros apresenta propostas para reduzir riscos",
+   "fonte": "Sonho Seguro",
+   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQNzRIdDZwWEhFY3RFZkJhWDRUb0RLbnpxREhNX2l0S1dhSGRkSFhlQmZhM0NRVVFRLTZnbkZISUsxelhaN19odWVaRWJtU01KLUxjV1NueUdKMVA0V1R5NHdJTlJja3Fva29pVjFtT1JZLXczZnhwRHdkeTJLWVRCRTJtNGZ4M1JqWExBWmVfanBxVkkta1BWNW52M2dtbzZMRWpIcXVGbXc0NWV2MUhxdm1od1M5NjVFNHBtVGdKQU9KazhiNENXYjUycExNQm9rRE1JRQ?oc=5",
+   "data": "2026-11-06T05:14:34+00:00"
+  },
   {
    "titulo": "Câmbio asiático misto: iene sobe com aversão ao risco e dólar de Taiwan rompe 33",
    "fonte": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
@@ -59,6 +65,12 @@
    "data": "2026-11-06T01:18:45+00:00"
   },
   {
+   "titulo": "BC do Paraguai revoga medida que suspendia resgates de fundo em dólar do BNB",
+   "fonte": "UOL Economia",
+   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQal9XZXNHTzBLd1N4M1VnRi1HRElaY1hhVmJaNXFZWDl4MTVBc09PNWhMRzdHc3E2NkhpUm1QQXMydzBISTREc1gteG9Nb1dXOWVjTHg1enBWUnZrOXJscUlqUHg5SDJlRW1SN09ESWR4emdteEFlcHM2Q0RDLTFGc0p3Ukp4M0k3RjBWTXBPbUtucmtYd1NhMlhlSEo2RVIwckVYWnV3T3BtSDRFMWJUajBIam14ekktN2lMM0kzcUNPRzJnbENoZDBjT24zdEJoYXI2NktSbmdqTUhBM2c?oc=5",
+   "data": "2026-11-06T01:04:00+00:00"
+  },
+  {
    "titulo": "Lula admite que desordem fiscal afasta investimentos e promete correção",
    "fonte": "brazileconomy.com.br",
    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOYjdNWWtLcEJqZHROdmxRZXVLUEhOUjdqY3ZuMUdYS0g2VGtjZlVSYjJ4VmdYZ3FUYUJDU3JBUzJXd1Vyb2V1c2Nwc0U0OFJjUmZ6SW9wc21DNWJBVTFjTUduQ01EWUlpSjJWZ1hTQmJDRnMxcnRtLV9pbDAzUUVxbzNFX3Y1MklPcVdydmVVWDh6LW1vSHJ3ZlV1dWF5c2Fvc2lvZ1NxSHN0LW13ME9scTRNcC1pRV9nRDAyUU5ncU5BVWVDODk4TzlB?oc=5",
@@ -75,18 +87,6 @@
    "fonte": "Hora do Povo",
    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQVjNicHI4NDdkcnhJaU01bkl0bDBzT3F3NWJpMnBVTWFSdmc4VEtaa1lYMzBWZlQyRHVIMjVMNzFCTW90cWtsREx4dVlDdUxBTzBXdnlKZjBwb3dYa0g2T2NucV92ZDQ1MGxZS0daUnFTNUlIcFVFSWJSeGJMeG1Oc0ZtSE5KVmdsaEEzNHROYnRTbGVuS045X2dlZ3ZKQVBE?oc=5",
    "data": "2026-11-06T00:42:47+00:00"
-  },
-  {
-   "titulo": "Banco Mundial e Governo da Bahia fazem balanço de investimentos no Estado",
-   "fonte": "ba.gov.br",
-   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNelk1T29CYjhDU29pTlRkMlhMSDMwSV9rdzQ2OVVhNUJ4UXROT28wVmtjejRuR004R1R4MUJRdDZVQXY5ckJOVU5GeGpXWG01allod2l4MDdBSnFCMHF6ZGRqRUlST05oeDJma2hlQ05aNm94V0dtXzJaWWY5TWRfNE50bDFhUGlqd0hkaEQyX0N2eTd1NFdRM2diUVRMVVgyMTBheEhlbG5aWE9BR0lKdXVPOHN6S0x0WWNlRUhjaThRU0xJekk2V29SUQ?oc=5",
-   "data": "2026-11-06T00:20:27+00:00"
-  },
-  {
-   "titulo": "CEO da Totvs: Ampliamos investimentos para IA",
-   "fonte": "CNN Brasil",
-   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNUEFMQUpWc3ZtRkFCaW5WWm9nb3VEZkRfRkhZYXBtOGUwa3RWcy1OTUR4WngyVkxZa0JGMklvZWUtaEhQeWdvVFV4amlSYVFQS2s5Ti15dDlGdWVpZzcyMWJVZ1dzNGMtSjNNWUNlb0hiRzg2Qmx3S29zamFONElxZ1dVY0xnY0F2Tkhv?oc=5",
-   "data": "2026-11-06T00:08:02+00:00"
   }
  ]
 }
