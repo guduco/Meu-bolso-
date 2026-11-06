@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-06T22:43:15+00:00",
+ "atualizado": "2026-11-06T23:40:30+00:00",
  "indicadores": {
   "selic": {
    "valor": 13.75,
@@ -17,6 +17,42 @@
  "cotacoes": {},
  "noticias": [
   {
+   "titulo": "Dólar fecha a R$ 5,51 com alta de 0,44% após dados dos EUA",
+   "fonte": "Tribuna do Paraná",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQRUtBajlJRzU3UG9wbkNoSVpGNGJuV2tkd3BkTnJjV3gwLTU5c0lydHdhaWZVWXlPbkNoX2wtVG5GNE05ZTFrR2RVQXU4YllHbUhROW1ZUm5BWUMtbXhxVVB0TEJZdmthZUN5MGtTSDdIazl3TkxfaXB3eVhxdVpfZlJySlNfeHpVYVBKb0R3TVhHUTVoMHpKYVNQaUbSAaIBQVVfeXFMT1QweTZiTTJBNjRMNUlyZ3lwMGFhZklZR0xUUXlId1BrbWVjYTZCQUEycWpnTE04NmNMVWE0X01hRUpKbTRhTHhSbDJGVlJuX1NidGc5X09jU2l3QUFWWjJaQXVlNVNhcWdPNk1KNjVWZ2luQm5RRUVTNjRjOWx2eTVvS1N2NXlQVGZhSXM5bzJhdWpSb1lKWFRfZ09hVmhVVzFn?oc=5",
+   "data": "2026-11-06T23:07:00+00:00"
+  },
+  {
+   "titulo": "TJPR reforça investimentos na modernização da estrutura do Poder Judiciário",
+   "fonte": "TJPR",
+   "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPcndIUHpFSHdybXZVaVVhWjZXaUdZQ3pyQjFCMHFIUm51WjV5dWFDaVFjVUhDSGlKLWI2dXd6QzlRNElzb2VpOVRqWnVEVDNoYXdvUmpyMTN0eWhTRm05c1NQQVctQk1XWmJiZ09Wd1lfTVZMYVgzbF9ISEctRno0R3FFdTkxdnJpcmR3Y21BQ3VNc2lQWm5IQUFYU1Uwc2xKbzlOVzl4MWRNV2NtajRza0psX0E5VVgtZ3YzVUJRc2NUTDlCd0tmWGxNc1JjMUFvSTQ1RXUwUHVVbnBHYk9Rb0hwemk0S21oWVNBbGJGVzZjY3F1N1puZQ?oc=5",
+   "data": "2026-11-06T23:05:40+00:00"
+  },
+  {
+   "titulo": "Maiores altas e baixas do ibovespa na semana",
+   "fonte": "TradeMap",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1nSll1eHhtZF9uWGJTWFFiWUxsUFV2M1lQYlhmaHQxUlJJRWZ0UXZ0QjBZdHNvZ3UyYjZnQjdXRS1XTVVtbnM5cHJKMGRhTHF4V1NnR3VrWUg?oc=5",
+   "data": "2026-11-06T23:05:00+00:00"
+  },
+  {
+   "titulo": "Bolsa sobe 1,39%; em alta, dólar fecha a R$ 5,508",
+   "fonte": "Poder360",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOcUZqQ204dWNyTmhtU3BSYmRNazR4WjY4SWwweTZVRFB5azJHMXhnZ3VTRjdLZzZwaWpqb3phMnE2TEJleW5xMHh0TXlGcWxYczkxZzNRaC1waDJHOEs1SFRRaUt1RnEtYXRaUUN1M2tqQlZSdWpmXzhsUENDeklSeVJCZXlZSEdqRk9ial90Zng?oc=5",
+   "data": "2026-11-06T22:50:36+00:00"
+  },
+  {
+   "titulo": "Auditoria Cidadã apresenta propostas ao governo Lula 4 para equilíbrio das contas públicas com investimentos sociais",
+   "fonte": "Sintrajud",
+   "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQby0yNUQ3MFRCUDN1S1BrSkZUMzVHQUdkaW5NdHlXaGo5bnFMc2xjSWo2emZrNmlHNlVsaUxaVUdmOElsQldUZGttcUgyQm1HVGh5eEIxR29STGdydFc5b2NfZ0tnN3RLWms3REJOdkJmOU1XSUE3ZEEyZkVrbXlvRUxJcWs4NXcxc19faXZUcERmWnFCdFpQTDdTWnBDVzEycnFfelB6SWI2QllhT0xRaUVqNTVJQTFFNXpFX01fYTF2MmVJRHlLRUM5STdhMTdsLUctTldsZnlBaDBNbXBISjhUZHBVRGVER3QtcA?oc=5",
+   "data": "2026-11-06T22:45:36+00:00"
+  },
+  {
+   "titulo": "Dólar fecha em alta e chega a R$ 5,51; Ibovespa avança 1,39%",
+   "fonte": "TV Guararapes",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPS0xBR0JVMXMtamNpLXYzRGs2YzNxa1V4QjB1RjJTVmIxVlRpSHIzNTRVOHNWVDFOajcxRDhMT3NIbkwxa1plZkppUkI3bXlROHFCb0tmWnNPMDN6NzU1cGVLc2RvcG54R3Vsa0g4U19rbkRmNFJKazBZS1BDRzMtSURPMlFvdFA3bHNTTlh4aEdIMV9KbDMwazd1TFBvWTAtbW1OVlJFY1kwRnZkaTZzVVB3?oc=5",
+   "data": "2026-11-06T22:45:00+00:00"
+  },
+  {
    "titulo": "Bradesco e XP elevam projeções de inflação e reduzem previsão do PIB para 2027",
    "fonte": "Vero Notícias",
    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPRmxuSjRYSUM5ZXpmdG5GNlhMX3RkVWZyMzJuNEJnMzRFMmxMLTVrTGFtWmg4OWxVZmRGNnFEekN0a0xGbGxRT3B4N3ZlX3hmekpvWHZITTZ4TElsdHRBb3NwekVXeG92eDRIUnI3MWZWWUQ3bGZwWHN6WERSN0FJd3JuTXZqZ2FucDdzLWhrN04zb1VSaWVLS2d3T0pGZjdvOWxCWEFxbG9MYUFxZW5KRGhaaw?oc=5",
@@ -26,7 +62,7 @@
    "titulo": "ATGás: suspensão de investimentos é consequência da percepção de risco",
    "fonte": "Agência iNFRA",
    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQU3UwVjdaYmZNRmk5YVdSNl92UzRTR0lQVkVnMnNyVUNTMExtUk55bGhtSFhiX1FLcHJuVnVxT1NSb3pXb0hXS3NPRmVCc3pYWVE1YXYtWXVPMHhTbXhwVUVGaDVMcktTTXpFai1YS1ZydWxkeGY4bGpjd1kyTkpoY0NQUGFQOTNzcU1RTnhpaUxhOXRydU1iVUhFNVB6c0lSMVE?oc=5",
-   "data": "2026-11-06T22:31:09+00:00"
+   "data": "2026-11-06T22:30:51+00:00"
   },
   {
    "titulo": "Dólar acumula alta de 1,2% na semana com incertezas domésticas; Bolsa sobe",
@@ -51,42 +87,6 @@
    "fonte": "Bahia Econômica",
    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOQW1feTAyRFNMbVVzNlVabGx0VmRfVEtRMzl5Y3RZenFnd1dZMk5lZzh0YnhWQ2tXWWpJOFg2Q3gzckVBVjdET2dFN2E4MGs1cm9xZmpDU3Z2VnlKTDJLSU5yaEVac2xiSzdhQ3NtMldjUVpaRkVaTDEwLUx1c21RNTB2WlFqbWtaeG1vRWJ3eC1wWW02alJXMGpxc2ctNlI3VDZVUkF3?oc=5",
    "data": "2026-11-06T22:19:50+00:00"
-  },
-  {
-   "titulo": "No pós-Copom, Galapagos desliga 45 pessoas",
-   "fonte": "Valor Econômico",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOTWNBQUV4QTV2N2g1U1hERTJDU0V6RDRsQndVNjNmVVBGdWw5OHFTUkpyYV9uajVuRkVnMkM1YzdHek05MkszQ1pOSVlSQVhFazlRbmNDQ1FyV1RQaWJZRkxSQmxNVEJFOWZJWUVJcnZsZk1tZlE1UXNxazhLc1Z2WVZqMncyU0w2aVg0cnZGYURDdkhaZlVtc1Rkc3h6OFnSAa4BQVVfeXFMTjVfSnFXRTRadGVoUzk4Tjk3eFNBNlFLazVULXZRZ1RsR2dPQzlwd0ZTR3h2SklEU0R4TUhzc1dQSDBvUl9vd2pya3dPS1lHa3EzR01mTGlXUlRyeFRLcFF0VVprM0R0RUt2bUtWdmxTYWRFYk10WVB6ang1WDNlaUVEWUFJVlVuVWFWZDZmaFQ5cTR2eFRnbUtOTWMxeVhKWll3UXZ0MTJ0TlNBeWhR?oc=5",
-   "data": "2026-11-06T22:15:35+00:00"
-  },
-  {
-   "titulo": "Dólar sobe para R$ 5,51, com dados de emprego nos EUA",
-   "fonte": "Agência Brasil",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNTk9SYmJsZmF6TkxzU0FfV3JhV2N6dHcyd1FCano1MW9OWkR6MGRFU2tpUXlQclRCR3BFbGxkZlRUekZUTTQ1YmZIeUpuVktURkVGNUlmaUZpYmFGRkdCZk5GdFplN3h3Ry00UWFtREZoV3JYQ1RlYmx1YWlxUlJFZjEwXzZpbzVDbDRKWmdTUW5EbDJmQjdKdmZlWksxLTB4R0dxMEIwYl9YSlRU?oc=5",
-   "data": "2026-11-06T22:10:00+00:00"
-  },
-  {
-   "titulo": "Dólar bate máxima em 2026 e até explica repique das ações da VALE3",
-   "fonte": "Investidor10",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxObWpodnEtcFY0MElQcDB5UVJrNHFkMEY4WHdYQmExMU50Wk5kQXZhV2t1dVdwQnp1aVVPbFZ2R0RFWVdma3BqSGljYXQ4OC01dEtYTEhHR20xeE5CSUoxd25XRXM5SkNrb1hNMk51U1hDTDlVQ0FBTmVrbnFITHVtMTluSktIR1MzNGZnMUhVdFF2Zi1kUlRTTEk0Y0poNmJOX20tc0ViSnFxeWNvSkxNedIBtgFBVV95cUxOSTdaQzFXdGs1UmVoWnVPWGp5dzBOYkxHUVJxUllWeGx6MkZpdjE2SFFjUlJJQ2VQMm56TDNzTlZTbjdvX3h1dldVOVREZUkya21LNXJEdjhsNUZBVUwyZ0JuTzFJZTdSV3VZV2swblJPTndzN0NzbkVxLU9PRTNDVC1sRFQ5S0l1R3NjclI0bUlOQXFDUExNMjI5THVYSkwxTmRCNUVYLUhKRUFTQTdDUGg1NjZUQQ?oc=5",
-   "data": "2026-11-06T22:08:00+00:00"
-  },
-  {
-   "titulo": "Ibovespa hoje fecha em alta de 1,39% e encerra a semana praticamente estável",
-   "fonte": "EuQueroInvestir",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQdVVzOUxubGFacHg0SFR2Q3dRXzhmWVBPZGNTcDBYTzVra014emNiTmQ3UzFaZGxvVEwxb1VtcnBIdXFPa18zbG53OU5lTnRkY29GUHJqTXhpeFBzZjAwenI2TDhyaU1zWW50dmJ6dlM4WWZieFRXWlNmQXdJSXJQV1BSVmdURElRdHJuUzlmWXg4azdIcFkwT245SU5mc1ZsM1YzR0VwaVpMeWZP?oc=5",
-   "data": "2026-11-06T21:53:47+00:00"
-  },
-  {
-   "titulo": "Ibovespa volta a superar os 168 mil pontos com apoio de Wall Street",
-   "fonte": "Money Times",
-   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE04QlhoYlJXUnMySDVVdGEzNzJpNG01QUhMVnZIMk5Wc0kwUmVZWjFhZ2p3ZTNHTHZZVnR0VHM5TkUwRlVKWGh3VTREZ1c5SFBFblZxTG9uNXZQb3gzNVFsMkJXUXVEQQ?oc=5",
-   "data": "2026-11-06T21:52:00+00:00"
-  },
-  {
-   "titulo": "Ibovespa B3 sobe 1,39% e termina semana no azul; dólar vai a R$ 5,50",
-   "fonte": "Bora Investir",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPVGVCVk8xRUE1Wmg4ZXBYbFprYVpwY0VtdDZZbHFDRTc0VFhjMFRXMDFFdS1iZi1kUmtQRlM1UzJ3YnVQR2MxT2djMGZDMzQ3MVVLZEV4RjBtTERJR1lLT1VmQ25rd043OWJHRXM2WTNGVUdBNnN0Yy1SUW8zZ2ZTX25xbTdHem9ZYVNVdTMxd0IybHNCSVpDSm5XbFg4cE5hX1hLNWs4czdnOVpqcVVBVG5R?oc=5",
-   "data": "2026-11-06T21:48:00+00:00"
   }
  ]
 }
