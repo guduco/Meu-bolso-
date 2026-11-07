@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-07T00:58:36+00:00",
+ "atualizado": "2026-11-07T01:58:23+00:00",
  "indicadores": {
   "selic": {
    "valor": 13.75,
@@ -17,22 +17,64 @@
  "cotacoes": {},
  "noticias": [
   {
+   "titulo": "Dólar encerra sessão em alta com atenção à economia dos EUA e ao cenário fiscal brasileiro",
+   "fonte": "Brasil 247",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQMjVvRVYzZ2pnTkpCLVZVbG9BV2NYbDBueHZKeHlGQ3dVRlpoWlJ1TWwyNXZibFJxT2c0RG5UeGZQMDJ3dVBucUN1dmtSa3k3dVZwX0FXMEVIUHdaQmJoNjZCN2NPY1ltQnJueG1KdDd1S01IWlEteXZRZEEtcGhLZGdZRFpRbjdhRXY3TXZBX2RhZ0w3d29na0NEa3RTNGVlZFRhZlJvUDlNVlc4c01KUlg1bGdtTno1TlIyMy1HbF9SVjFw?oc=5",
+   "data": "2026-11-07T01:53:00+00:00"
+  },
+  {
+   "titulo": "Ibovespa sobe impulsionado por bolsas globais",
+   "fonte": "Brasil 247",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNbENtbVlUM2Y4SUtTWThvd1RXZUw0ZUZGanJfOWozUnJGb1FDa3dPU2ZLQ1o3cXdNcnRadFAtYXk0cHBDN0tCSllUMnlMUXhTMi1hQTA1SC1iQVMwZWFnTDV3RFBpUUk3WlJOLUx5UDlSZTRRck9MaXR1bHdJUFliVldkUWFfMjNP?oc=5",
+   "data": "2026-11-07T01:41:00+00:00"
+  },
+  {
+   "titulo": "TCE-ES alerta 75 prefeituras capixabas por investimentos insuficientes em Saúde e Educação",
+   "fonte": "Grafitti News",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNd0dzc1JHUnhKQ2gySEw5M0Y5R1EyYzdBc2RkbVJBVEsyV3J6NEM2OU84MTB3cmpPNHdPZU5IZE1KYVIzdHBlckFwa0lkS2RLaXZCQXJ0SmU3QTVtQWFFYkxHS1pIdkpLbnJIM0g5aHVWZVJnMjBaUDEySFhtNWxzR1ZXSnljSmh3OU9nb2RfSWQ2YV8zUnZVc0Q0QnBBOS1pMEIwZDFtemJPUjNWX2lxb19iQmRXVUJKVlBn?oc=5",
+   "data": "2026-11-07T01:01:00+00:00"
+  },
+  {
+   "titulo": "Juros: combinação de fatores compõe cenário em que dificilmente Copom evitará novas altas na Selic",
+   "fonte": "Estadão",
+   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxON2FTaHRGRmxUclItdmp2OWdMZERTTEZNN1hxU1U3MWFvLVBWek8ybS1sYzMyaUp3V3JXWVhiYlREMWcxMTR5Y0QxNlM1RVRoOHFVX0NYQkJqekR0NGdrVHR5dWtGWEczb0RVVnBhWEtGZXF5NjA4VUVXVTNXbGw0M3lwWEtnOUhZOTNPVEpmY1h1Z0hzU21tNGcySUFVdUczNjNCQTN1TWkyRXJpQllfQkR6bFlMckplaHowbUZKQ1IzdDdhZk1haHA2NkJFcjd6SnZIU1djRDgtYlNPbzlBQlQzc01YSjJOcVHSAe8BQVVfeXFMUHJCV2ttUHlkWnNZeTdfcjdmTm43Y2EzdDlFV1NOcE82ZG9oTGtZbDZvek5aVUF4aEh5MXZpekJXVkxBTGVQVU81V3pWdkRZWkVQLWZVMUZmZUw3NjFmTFl2eTBJVDNHV2YtTkhzMHVXZHYzcF9UcXZPUUVRQU9SQnFHaHpmOFdDcTAzc0tLSkd6VUE2MnV6MHpHRENKaTRuNDJLeDJOUEtfUEY0aGNtWlBVRk9uZkVpSURRLWFBaS03dGo5aklreDh6VmR0Wm5IU3BxUElyaUJrX3lqUmVvM191TVFPM21nQnViWmctSm8?oc=5",
+   "data": "2026-11-07T01:00:00+00:00"
+  },
+  {
+   "titulo": "Dólar fecha em alta, a R$ 5,50; Ibovespa avança mais de 1% com Vale e Itaú",
+   "fonte": "UOL Economia",
+   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQWERBMzNlSDMzTzZxOThKSHhDcWg2ZFlUeG5OZnkwT1BTZWNZbWZuTFdLYUdTUURGSTNFOTk1WEoxQUJ0akhFSVhYN2RSWUg2d09QajUxNXFtaktucGctSENIb0dPakNXM1ZRMXJmQm1uTEE0bGt3VnR5aUFjaXRvV0pQcHNyVlNnai1LejZFTHpDS0dYSXJCWUMxUEE5TVNGTGdxM1Y5OWZwS0dXWEJrSnhUUVBBaUwyQ1l0SG4tQjJ5WkdkWTdhZVdjR2ZkNHFWal9jd0V3?oc=5",
+   "data": "2026-11-07T00:58:48+00:00"
+  },
+  {
+   "titulo": "Dólar sobe 0,44% e fecha a sexta-feira cotado a R$ 5,52",
+   "fonte": "Brasil 61",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPXzAxa0tEWWcwRVJLc0VEX09QazN0RjdXUG50NWJtTC1QZVlBbUpIZHBQdGV5SDNUQlVhaHBiTUh2ekFZYWhyQmhRY1dzMndtcjZBLWUtOExYeTlqYV9mQlhUejVnYWZoNGxrVTMyYTZCb091TUVkOUZTOVM2dXhxSEpSdmxXaHh2a3paLUd5ODZDd9IBlwFBVV95cUxPc21ZcWxBdHpXUExVUjFsaE5IVzRTRHhzdkl1eVJDRGl4NEgwXzJablIzRTJ4Q1diT3lXdnlocHhoUW9sbFp4a2lrWF9aUkJQelBRSy1EclNmZndQbVNEVjJNWWRfeFZOam90eHdYZ0F3NmREM1VmaXYtRjlhMW1ramY0Zm1TMTZid3BFVVFMcGlQZjBLeXlN?oc=5",
+   "data": "2026-11-07T00:30:00+00:00"
+  },
+  {
    "titulo": "Banco Mundial e Governo de Jerônimo avaliam US$ 250 milhões em investimentos para rodovias e desenvolvimento rural",
    "fonte": "Jornal Grande Bahia",
    "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQTGs5SWxtNGZnV0JoM3gwdGNSdUdCNFRMYTFzS0xla1VxaE9QZDdWa0dRbXI4dzZmbDlabVM3czVRa25Ca2xIY1VXSlJWYU9UVmZiMlp2OGxsUFEyRlBLRTZ2YTNiUFRoOVRWcjA4c0tWMGJuQ1VXMHJLWUtDTUZuTkxwZ01CbnNSNWlwMVo1Zkhzb0haeDJfZDNpLW1GVnBsZUdnT1praXYwc3J5WVZDN3V4a0ZjZ1FobnZ2enJRN1VYNjNEaTlXYTFMVEVqRjF5RHJQVEFHUWpneG5DTm5vRlk0WXVjWXNBaVlZ?oc=5",
    "data": "2026-11-07T00:10:19+00:00"
   },
   {
+   "titulo": "Dólar fecha em alta a R$ 5,5082; Ibovespa sobe 1,39%",
+   "fonte": "Campo Grande News",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxObndLd1k4Ukx5U2pWN3ItTDBXXzA3R2hSRnNvSXdLZThuSWxsWXAtcVZjaW9JdlFNVVYxWjd1R0Ntdnh1WnE0SmlmUjROSjZWVGhDeWxMSnZjd010OUhZQkR1ZTltZXF0dVprZ2JXYzVScjJLU21uUlRCRHAxZmpzZ0pXd2huczU5UWw1UXBtbV9VeXNZaldoREhSM3hVdXowellpVG5TSHFlVDhwM251adIBsAFBVV95cUxQem90MXN3NTFNNUhQbTVuNm1rXy14NnludDZIcUk0cjNNVmJIcGR3WUpuNS1xdFU0Y2xZUXluUVFfaEdQcXBNN1VxMENUWWF6NUdvZFZ6ZkRlNndLdXBKT0lyNXhiNTJQOWhFdnRjbGVpd183NE95dUVNdWJSX1VlMEhCaVVIelNyc1EzREZaeGF6bjAzMG95d1d0NksxcFVfbDhtd1k3Q0FrR1BIeE55Sw?oc=5",
+   "data": "2026-11-07T00:00:00+00:00"
+  },
+  {
+   "titulo": "Ibovespa sobe 1,39% e fecha aos 168.498,45 pontos nesta sexta-feira (6)",
+   "fonte": "Brasil 61",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOYzJDYmZoMWdoc0pOMWJVeWN5eDlTaUx2SzRHX2V3dVZIdDdXMDBOZmFxYjRVbzZDcFoyRDJGSkxHZElYZENrbG12by1IeU1USDJZOGtmR2dYTUpZUWRnRUZ3MTlFazdTVUZ1Q19FZjFxVkNZc3BfNEtLOF9BVXY5Y1pjbjAwcS1PNFZ2cHc0aU9EN0c3NVdEaHVfSGxVRTNzZFZmUEd30gGrAUFVX3lxTFBBYU53WTJIcWJjSDU5RlNMMTNyTkxYNGg3TEVMTnduTExTMDRTWXc4eVFIdEt6UzJ6RUFNTm9sdGRWLVhwLTgzaHFfMjdnR0dwUk9qdURQQnl2MUpmS25sYjJ2bDJxanR3amZOUy1XdmRmeFNVTEtvNE1oRXAzTVRYazVUdm9ieGFfMnNxSlJzLVRKcWNQLXZfTFMwaFNHOGFGeWs3b0IzV0M5RQ?oc=5",
+   "data": "2026-11-07T00:00:00+00:00"
+  },
+  {
    "titulo": "Dólar sobe para R$ 5,51, enquanto Ibovespa avança 1,39% e recupera perdas",
    "fonte": "Diário da Guanabara",
    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOZFVuRGo0V1g4LXUtcU5Zd283V0hFbFhtMXNJb013cEdWdy04ZkdQQmZUblhmSjZQRWVLRWlfQU9NRThPX3RuYUNxQjJqSnV2bEdTQWdZRkxqZ05odWNINVVJa2tNZlpzMFJFVzVtb3M2dXNUYlNRenhueUZJd2RUUy0zd1ZQWnR6eUdMZmVGT3pGc2NKQmFpenFJV2x5dw?oc=5",
    "data": "2026-11-06T23:47:13+00:00"
-  },
-  {
-   "titulo": "Dólar fecha a R$ 5,51 com alta de 0,44% após dados dos EUA",
-   "fonte": "Tribuna do Paraná",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQRUtBajlJRzU3UG9wbkNoSVpGNGJuV2tkd3BkTnJjV3gwLTU5c0lydHdhaWZVWXlPbkNoX2wtVG5GNE05ZTFrR2RVQXU4YllHbUhROW1ZUm5BWUMtbXhxVVB0TEJZdmthZUN5MGtTSDdIazl3TkxfaXB3eVhxdVpfZlJySlNfeHpVYVBKb0R3TVhHUTVoMHpKYVNQaUbSAaIBQVVfeXFMT1QweTZiTTJBNjRMNUlyZ3lwMGFhZklZR0xUUXlId1BrbWVjYTZCQUEycWpnTE04NmNMVWE0X01hRUpKbTRhTHhSbDJGVlJuX1NidGc5X09jU2l3QUFWWjJaQXVlNVNhcWdPNk1KNjVWZ2luQm5RRUVTNjRjOWx2eTVvS1N2NXlQVGZhSXM5bzJhdWpSb1lKWFRfZ09hVmhVVzFn?oc=5",
-   "data": "2026-11-06T23:07:00+00:00"
   },
   {
    "titulo": "TJPR reforça investimentos na modernização da estrutura do Poder Judiciário",
@@ -45,48 +87,6 @@
    "fonte": "TradeMap",
    "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1nSll1eHhtZF9uWGJTWFFiWUxsUFV2M1lQYlhmaHQxUlJJRWZ0UXZ0QjBZdHNvZ3UyYjZnQjdXRS1XTVVtbnM5cHJKMGRhTHF4V1NnR3VrWUg?oc=5",
    "data": "2026-11-06T23:05:00+00:00"
-  },
-  {
-   "titulo": "Bolsa sobe 1,39%; em alta, dólar fecha a R$ 5,508",
-   "fonte": "Poder360",
-   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOcUZqQ204dWNyTmhtU3BSYmRNazR4WjY4SWwweTZVRFB5azJHMXhnZ3VTRjdLZzZwaWpqb3phMnE2TEJleW5xMHh0TXlGcWxYczkxZzNRaC1waDJHOEs1SFRRaUt1RnEtYXRaUUN1M2tqQlZSdWpmXzhsUENDeklSeVJCZXlZSEdqRk9ial90Zng?oc=5",
-   "data": "2026-11-06T22:50:36+00:00"
-  },
-  {
-   "titulo": "Auditoria Cidadã apresenta propostas ao governo Lula 4 para equilíbrio das contas públicas com investimentos sociais",
-   "fonte": "Sintrajud",
-   "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQby0yNUQ3MFRCUDN1S1BrSkZUMzVHQUdkaW5NdHlXaGo5bnFMc2xjSWo2emZrNmlHNlVsaUxaVUdmOElsQldUZGttcUgyQm1HVGh5eEIxR29STGdydFc5b2NfZ0tnN3RLWms3REJOdkJmOU1XSUE3ZEEyZkVrbXlvRUxJcWs4NXcxc19faXZUcERmWnFCdFpQTDdTWnBDVzEycnFfelB6SWI2QllhT0xRaUVqNTVJQTFFNXpFX01fYTF2MmVJRHlLRUM5STdhMTdsLUctTldsZnlBaDBNbXBISjhUZHBVRGVER3QtcA?oc=5",
-   "data": "2026-11-06T22:45:36+00:00"
-  },
-  {
-   "titulo": "Dólar fecha em alta e chega a R$ 5,51; Ibovespa avança 1,39%",
-   "fonte": "TV Guararapes",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPS0xBR0JVMXMtamNpLXYzRGs2YzNxa1V4QjB1RjJTVmIxVlRpSHIzNTRVOHNWVDFOajcxRDhMT3NIbkwxa1plZkppUkI3bXlROHFCb0tmWnNPMDN6NzU1cGVLc2RvcG54R3Vsa0g4U19rbkRmNFJKazBZS1BDRzMtSURPMlFvdFA3bHNTTlh4aEdIMV9KbDMwazd1TFBvWTAtbW1OVlJFY1kwRnZkaTZzVVB3?oc=5",
-   "data": "2026-11-06T22:45:00+00:00"
-  },
-  {
-   "titulo": "Bradesco e XP elevam projeções de inflação e reduzem previsão do PIB para 2027",
-   "fonte": "Vero Notícias",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPRmxuSjRYSUM5ZXpmdG5GNlhMX3RkVWZyMzJuNEJnMzRFMmxMLTVrTGFtWmg4OWxVZmRGNnFEekN0a0xGbGxRT3B4N3ZlX3hmekpvWHZITTZ4TElsdHRBb3NwekVXeG92eDRIUnI3MWZWWUQ3bGZwWHN6WERSN0FJd3JuTXZqZ2FucDdzLWhrN04zb1VSaWVLS2d3T0pGZjdvOWxCWEFxbG9MYUFxZW5KRGhaaw?oc=5",
-   "data": "2026-11-06T22:39:48+00:00"
-  },
-  {
-   "titulo": "Juliane Furno: se optar por ajuste fiscal, Lula precisa arrecadar dos mais ricos, não cortar investimentos",
-   "fonte": "Brasil de Fato",
-   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNakd2bEZjTkFXeUdPYzN3YmJZM2Q3akhKTEVhR29mSld3cFE5OU1LdUJmOGVfdVV6MjMtcFBsdU5WT3poZS1jb1Y0aEdGRlJrcVJFRlNvSk1HLVBRQUlxVkRtamxrTEZFWHI2eHFYQ2ZHOUFiYnhNVDd4aVdETDBFOWxidUprajByRVFfZUJZSy1WZUw4RjJ1OW9sSVZMZWtNUkhrWmxmMzNpZDJhdzF4VkI5TUJlTlFLcUhzOVJGQmR4UHhuTnZNV2liM013YW81aWlSZWNLbE5CY05ZdFM3UQ?oc=5",
-   "data": "2026-11-06T22:34:00+00:00"
-  },
-  {
-   "titulo": "ATGás: suspensão de investimentos é consequência da percepção de risco",
-   "fonte": "Agência iNFRA",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQU3UwVjdaYmZNRmk5YVdSNl92UzRTR0lQVkVnMnNyVUNTMExtUk55bGhtSFhiX1FLcHJuVnVxT1NSb3pXb0hXS3NPRmVCc3pYWVE1YXYtWXVPMHhTbXhwVUVGaDVMcktTTXpFai1YS1ZydWxkeGY4bGpjd1kyTkpoY0NQUGFQOTNzcU1RTnhpaUxhOXRydU1iVUhFNVB6c0lSMVE?oc=5",
-   "data": "2026-11-06T22:30:51+00:00"
-  },
-  {
-   "titulo": "Dólar sobe a R$ 5,51 e Ibovespa avança 1,39% em dia de reação dos mercados",
-   "fonte": "Jornal de Brasília",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNNzRNa3ZkMUZqQjlUVmZmVjFYWEZaSzNiblZ2WGdqV3I2S0Jld3l2ci1OUjRsbS10bW9nUGZHX0xmOF8yUG02WWx5elZid3k1S09JX0JuSVQ4UkREUndKV25BTUVvSGRXQk5RMzBEbllTYjF0Vlo2N09ndnRncVVHWWtkNXRZakM3LTJBWlFZYk82RDVIclNKQlk2UnpxTkEwWjU4V25Cdm9aMUJZR1huZlh6amUzYy02VkkwX2FR?oc=5",
-   "data": "2026-11-06T22:27:07+00:00"
   }
  ]
 }
