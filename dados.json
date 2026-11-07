@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-07T16:42:46+00:00",
+ "atualizado": "2026-11-07T17:38:29+00:00",
  "indicadores": {
   "selic": {
    "valor": 13.75,
@@ -16,6 +16,36 @@
  },
  "cotacoes": {},
  "noticias": [
+  {
+   "titulo": "Febre por proteínas impulsiona boom de investimentos na saúde animal",
+   "fonte": "O GLOBO",
+   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOVnJHLXNzQmw5MVZ5d3N2V0JwNnZCRkdHajhhUFFrQTEyZTZlRTUzcVNXRnFZS3dJakJTcDFHRVk0Q0U3NC1GbUY5Q3VoeDc4c1g2ZGxwa05xczdoUVpNNEh0Z3BQYnhFWk9QZUNlb0U5TUZUSy13QkhzUlExSjhNaFpYVjBBNnBiTGNhV1M3UHFNamlTZVlmdG1LM2h6WFhSc2l1a0JYTFo3NEhMeXY3VXRhNWt6QkZ6QXQ2LTNzeTUwRXlHMW1Pb3BjbzB0UVg4OFE?oc=5",
+   "data": "2026-11-07T17:09:20+00:00"
+  },
+  {
+   "titulo": "A ilusão da ‘canetada’: Paulo Gala alerta que proposta de Lara Resende para cortar Selic arrisca jogar o Brasil no abismo cambial",
+   "fonte": "Brasil 247",
+   "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOMG02YlZBbF9BOGE0REpyR0NHUU5mYjZLRDVKZHR0YzN6QmRGdUhnYlpjSTk4UDR2cGNlemZxQWpmX2pWdzRFdmRlZW5ULWlQVlV0Xzh3cDBaZ0RsQkEtM1daVjVESEVlazV3SnRxTG5qdjdGdlhLN2NtVGc0QVhDeXhveTZlcWwtTS0xVnZXZm9CbWVRWVY0SEhSOWphNnp5V1JSTTd0NFZ5ZDVza2ZwaWlVOEtweWVKM19LWk55Q2xBTjVVbzdlWHNPcDV0bGwyY1lBQkwyT3dhU3l1LTBaVU94bGJOX0J6VExDQzRrem1SdzJD?oc=5",
+   "data": "2026-11-07T17:07:40+00:00"
+  },
+  {
+   "titulo": "Obras em postos de saúde de Hulha Negra somam investimentos de mais de R$ 700 mil",
+   "fonte": "Jornal Tribuna do Pampa",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxON3ZNclVQUE9wUndpb1I0cnVmRXFmU3FxYmxJdERpNG1ZNUl0TzV4WTVYUDVfR0hQZjhUXzY5V3NJa0hOTFREY0drTmJVNDJrTWgxMXNUaFdMVC1KUThRcHRCeWMxZTEyV21wa3BRRHBKUEZrYmh5T0x4MS1ITXNrMGVUWC1tUGtNb2tUeDd4ckxlRmpDd0FHRWhOOFRrMVdUMUhtam50X1FRNkVRU2xrYXZ3dXN3dw?oc=5",
+   "data": "2026-11-07T17:00:11+00:00"
+  },
+  {
+   "titulo": "O que é gás não convencional e por que ele atrai investimentos bilionários?",
+   "fonte": "Times Brasil | CNBC",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPWVFBRHR4eVZQYWpMaHI1akloNloxWmNsR2lxNnhsUWZUSzcyTGlrY21EZldpSmcwTHY3alNaRHU5cllnVmdqMlRaYU9MZWN5VE80azlpN0lfOHdjbGlIVFpJY2tia0J2T25uTWMydFRaaHN1SWZIX09paV9rY3FER3dyMWozMWYxT1BDVFVzWklFWHhtVnBNZkJtRjdGUHBQQVNKTjNMMlZoS0lPYjdlSjlZMDItckRUeG9NZU1QWVJKSDMzUWVfRDRR?oc=5",
+   "data": "2026-11-07T17:00:00+00:00"
+  },
+  {
+   "titulo": "Christine Lagarde, do BCE, afirma que inflação deverá permanecer elevada nos próximos meses",
+   "fonte": "O GLOBO",
+   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQd2VPMGZOdHJGa2ZIal9fVF9ISWd5cWtuR21DZzM5RjJ4MGZ6a3hVNkF6eUI2cWM3UmlmbTc2aGpXYnczRGpOcHFKYUY4X1ZubTA1bURfQ2FXNmE5TXJjeXdHYUwxT05GR3ZDRUFadTZndDFvLVM1ZVpmRWlfbDN6YTBHRlkzMm9jd3hVSjBsUU5OcVpUVTIyYl9hM2xaaUxnTEUzTnlfcm5lV3BZaGgzcEhFbzVTZkpKYU5KNFlOR2Fhb3VremU3QkxGUlRHRTBjT3pNUGlXU3VXajRRNWZ3TWdB0gHwAUFVX3lxTE5WdlB3Z1RadjRrTndESXlpWGk3enIzN2lKWDRYQ3B3dlNVVFVyTjZxUS1LZkhBMnFfV2ZPS1lubWUwYzdqcDFVQmVINElidjVQTlJiSVM0b3VwNWVmVkR3ZXY2TW5JTFJkdGdkdHl3OG5TaWZabHJvMG96S2dtWlNHRlljRWdldmRpS2gyREVUSEN1NlRPelFETFpuRXlPTS1vWXZoVkUwLXdGZGNINE1TRkEycHI1anhCZzBSQk9OTlBReHo2TEUwQlVvZHM3dnZCWE5feVBzWXBlS01DYUtKdzlNOVVxOFM4RU41Yl9TTw?oc=5",
+   "data": "2026-11-07T16:58:08+00:00"
+  },
   {
    "titulo": "Dólar sobe 10% após eleições e bancos veem exagero do mercado",
    "fonte": "Brasil 247",
@@ -57,36 +87,6 @@
    "fonte": "Portal Terra da Luz",
    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPVUpiQXV0SXVNTUtfVGJpZDAtSmVNMy1LajdoLXFsRnVZRVRtM1dUTHNwcFpKSDZzQXo2RG5xQnJhV3Q1cWprcWFZU0xsSXJRX1huYVRYSU5Fa1VocjJPRWZJaXlUM0RlbmtlVzVGdVUzRmJyVVRvcGtFbHBPclU0Y0ZRbFNodFpoRXdvRU1BTzdTMEdYdEpGTVBpWVZBWDlkOTdyZ19YSVl6S0JHeDdXamNmaGJEbG8?oc=5",
    "data": "2026-11-07T15:17:38+00:00"
-  },
-  {
-   "titulo": "Grupo regula abastecimento de veículos híbridos e elétricos",
-   "fonte": "correiodobrasil.com.br",
-   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOTE9tWElSN0lWMlUwbGVyMjFKNlpIcFNrRHcycnpoUHYxR2NqZmVHLUx2T1VhRW10VDRWckpCNFl0eE1ZTjhLREdUbVExVlBvdEdOTHUxYXBNeWJkWFlvLVQ0ZER6RlVVdGk2N0hFRXBrME9KZjZNR05fdmhFUDZvWkxUd1pSdXZpcWRCNzEzYVg?oc=5",
-   "data": "2026-11-07T15:04:46+00:00"
-  },
-  {
-   "titulo": "Tendências 09/11/2026 | das principais ações da Bolsa",
-   "fonte": "XP Investimentos",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxONTN6UGd0d0dDbjRGZGFTWnpqMTRvckZXX0dHMXA5WHVXYVV6SFFlYlhFS29WeHBDc0p4VjJOYlNZeWpCMnc0V2VVZ3BaSVJwYUc0c0wwa182bEU4YUtKcXlFVHpGdTB3ZzVXcjcyRE0wOFJ1VnlzRmpFUEFmWXJMRGRieEVsNlJhZDFfMUhiMmRkZWFyX2kwaEVTQVl4VFNCN3Q1c1dFM1hOdlB6?oc=5",
-   "data": "2026-11-07T15:02:52+00:00"
-  },
-  {
-   "titulo": "Deputada Ivana Bastos recebe catálogo de emendas parlamentares da SDR/CAR para 2027 e anuncia distribuição aos deputados da ALBA",
-   "fonte": "Jornal Grande Bahia",
-   "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxObUhxMXBsd1hqSFJPMEM0UVh4RXpxdmZHV0NhWTd1VWkwRWd6R3BJeHNjeHVxZkNMdFZNWENidkxaSkYwNldjcU9tUERrWWxaTVR6NXlsVUpiSEh4Znc0b3pranRxRDZwZUlGUi1sb0doOEFlc1hmSENqZy1IaWdDandkZmVRTVduV0dxMW9aVWhTX0VSc0FBb2dkdkpKblh1a2lubmhUdGoybEJJQ1BzRlVkeS1ZZ3ZTRnF5M2E2YWNGbkFVVkQ5VGgtbVNvVm1xV2Q1UTlyNXlScE5hYS1RbXQ0YkFTaUVNcUp6Nm1NWjNDUzZmbWVCRXBUdldJN0U?oc=5",
-   "data": "2026-11-07T15:00:41+00:00"
-  },
-  {
-   "titulo": "Brasil inclui mais minerais na lista de recursos estratégicos",
-   "fonte": "Jornal Correio do Brasil",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQR0V3Wlk1U0FCbWo2dWZvejh3LWxMakl4ZnhSWEZXSWJhREVRMmJ0QUdncy1VNWxoYkJuZnl6WVVjZjZ2ejRzbjFVUHJPakkwN0JTQVRhVnNuZlVFaTBJNTRmR2VFa0hkOFB5eFFtQWdiNDNBSmE0R2NDYVp5YVJqUVNRWFVEelFSOTN4UlMxQmxxWTFEX0tj?oc=5",
-   "data": "2026-11-07T14:59:07+00:00"
-  },
-  {
-   "titulo": "Entra Itaú (ITUB4) e Axia Energia (AXIA3): 5 ações para bater o Ibovespa na semana, segundo a Terra Investimentos",
-   "fonte": "Money Times",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQeDRJVE0xTDhXTFlVTF8zb2h4NXVzV09Tc29OVHRBUjM0LUNYV1FBbVFVQUJETnlEcWtTZXFka0pIZkhpZzFZMktzUi1oNGdxYW4tLTlxQ3FlVE1HMm51YXhac05jdDI0NVhJd01vOVM3dzRkZTRrLVdOTTItaEZZdWZpaHhRdWIyUURzZmtkVnBBNG5XZGd0aS1la21LbEZmUTMzNE9DaUFzVUN5TFljNnVMZw?oc=5",
-   "data": "2026-11-07T14:50:00+00:00"
   }
  ]
 }
