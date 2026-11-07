@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-07T06:56:33+00:00",
+ "atualizado": "2026-11-07T08:01:35+00:00",
  "indicadores": {
   "selic": {
    "valor": 13.75,
@@ -17,6 +17,12 @@
  "cotacoes": {},
  "noticias": [
   {
+   "titulo": "Bancos cortam previsão de crescimento do PIB em 2027, com mais juros e inflação",
+   "fonte": "O GLOBO",
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPcmRnN1dTbU83Z3FDckVGTTRlNGhsNUlZTy00Y29ZNVJEczZuQ0Ffc09DTzNTQWxhZU1JeUh1Y3pTak5CejY0NE5NMFBvODhKRVB5R04xem5ha05BUmpBWTRfbm44dmJIRjY3ZHBiV1Q1dVFiVWRWT1ZLQlMxdEZEU2JPcW4wekNHRTZTZGxoV2Z2cjVGa1ZNQldaSWQ0R2xBRFVOS3NlM2ctaGRZdUdrdXh3dDZBSWs3dDNTcjV4elBCZUg3OFd4S3JSLUVuUzBkc1Br0gHiAUFVX3lxTE9KbnN3b2dDRERJVXZJVUVCLWdGVTFSdkdpTGwydWEzcFU5ZFMwWi1TQzZxR2ppUUFVNVBrNWtCRTU5LUNZRC1BYmhvVEh0Z3VINDlYS2hPNDBqS1pqbDQycXF2YWt3S19aeVprS3BTVTlQU29pMVg5b0hrSGI4Rlo4RGY3a2lTYVRvNW1ncVk0U0NRMU1ZcVdFMlk4bldOV2JIdkY3VVV5ZDdpN2lSV2lpc0xVdDRZRkc0bnJYWHUzUUsySUpmNWlVclFYMUNtbTc2RkhZUktNN2Z6X1A2SDBud2c?oc=5",
+   "data": "2026-11-07T07:00:01+00:00"
+  },
+  {
    "titulo": "XP reduz projeção do PIB 2027 para 0,3%; dólar a R$ 5,50",
    "fonte": "Acia Araçatuba",
    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1ic1RBUTgtcUg2ODdvOGJ6enpFUXpRUkhBYWV6czlvbkNDSm5JQTRtdGQ3cm1NU3hmRFMwN0Z4Y2Y0eGtCU192QmtZdGhsNWJ5Vy11d0lhNE1GR0hWVTVTYWRKWm5rZ0RTMTExUXZkaGk?oc=5",
@@ -27,6 +33,12 @@
    "fonte": "Acia Araçatuba",
    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNV2c3TTl5WGh5NUlvVWZLY1RxTVhYVVNEQlZQRWVobDBnaVMtWVdacnVtVnZWWGF0NG1VeGUtTURlWlRIRjlDSjdpcmduejUzYlRjS2FsTndWTzFwZnNTeFBVQmt2My1nVXU1V1BWU1JXY1p1MF90bHVRWlBTX1NpVm9JU01HOG5O?oc=5",
    "data": "2026-11-07T05:05:10+00:00"
+  },
+  {
+   "titulo": "A Semana na Renda Fixa (02/11/26 a 06/11/26)",
+   "fonte": "XP Investimentos",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNQXgwQXlpTVh4NW9IUjRJZ0xzbS1qcVk0M1lrd2ZEekIzU2JLSHBDOFl3YjNQcnRLRUZPSVJZbUd2dVBjem9xXzgzbjVtWk1JMl9BUld6d1AyTGpxVGpLazdQTmN0MHNGMWNhNGdhMk5sX29KY2otZGdpZjhJWjVUY3RKa19WSHRLdzQ4UE1HdXV0SHFDSk5KbnpB?oc=5",
+   "data": "2026-11-07T04:05:35+00:00"
   },
   {
    "titulo": "Ibovespa sobe 1,39% e fecha semana positiva; dólar vai a R$ 5,50",
@@ -75,18 +87,6 @@
    "fonte": "Grafitti News",
    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNd0dzc1JHUnhKQ2gySEw5M0Y5R1EyYzdBc2RkbVJBVEsyV3J6NEM2OU84MTB3cmpPNHdPZU5IZE1KYVIzdHBlckFwa0lkS2RLaXZCQXJ0SmU3QTVtQWFFYkxHS1pIdkpLbnJIM0g5aHVWZVJnMjBaUDEySFhtNWxzR1ZXSnljSmh3OU9nb2RfSWQ2YV8zUnZVc0Q0QnBBOS1pMEIwZDFtemJPUjNWX2lxb19iQmRXVUJKVlBn?oc=5",
    "data": "2026-11-07T01:01:00+00:00"
-  },
-  {
-   "titulo": "Juros: combinação de fatores compõe cenário em que dificilmente Copom evitará novas altas na Selic",
-   "fonte": "Estadão",
-   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxON2FTaHRGRmxUclItdmp2OWdMZERTTEZNN1hxU1U3MWFvLVBWek8ybS1sYzMyaUp3V3JXWVhiYlREMWcxMTR5Y0QxNlM1RVRoOHFVX0NYQkJqekR0NGdrVHR5dWtGWEczb0RVVnBhWEtGZXF5NjA4VUVXVTNXbGw0M3lwWEtnOUhZOTNPVEpmY1h1Z0hzU21tNGcySUFVdUczNjNCQTN1TWkyRXJpQllfQkR6bFlMckplaHowbUZKQ1IzdDdhZk1haHA2NkJFcjd6SnZIU1djRDgtYlNPbzlBQlQzc01YSjJOcVHSAe8BQVVfeXFMUHJCV2ttUHlkWnNZeTdfcjdmTm43Y2EzdDlFV1NOcE82ZG9oTGtZbDZvek5aVUF4aEh5MXZpekJXVkxBTGVQVU81V3pWdkRZWkVQLWZVMUZmZUw3NjFmTFl2eTBJVDNHV2YtTkhzMHVXZHYzcF9UcXZPUUVRQU9SQnFHaHpmOFdDcTAzc0tLSkd6VUE2MnV6MHpHRENKaTRuNDJLeDJOUEtfUEY0aGNtWlBVRk9uZkVpSURRLWFBaS03dGo5aklreDh6VmR0Wm5IU3BxUElyaUJrX3lqUmVvM191TVFPM21nQnViWmctSm8?oc=5",
-   "data": "2026-11-07T01:00:00+00:00"
-  },
-  {
-   "titulo": "Dólar e Ibovespa hoje: alta com dados dos EUA e IA",
-   "fonte": "Acia Araçatuba",
-   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5Tc3lZNXh4TEpsYlQxUVBqdUhUT1NXTmhQMFViTDdDT3ZkX2FvUFNjLWZ3TzhkV25VYWJ5Tm9IV3R5U0d4VC10TElSYjBfczUtbVpnQ0x1OG1KZUpnMXRpRHE2OGFCOVJPNVBoTnVDSzJHQVoyZ2Zv?oc=5",
-   "data": "2026-11-07T00:35:08+00:00"
   }
  ]
 }
