@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-07T12:51:34+00:00",
+ "atualizado": "2026-11-07T13:53:09+00:00",
  "indicadores": {
   "selic": {
    "valor": 13.75,
@@ -16,6 +16,42 @@
  },
  "cotacoes": {},
  "noticias": [
+  {
+   "titulo": "C&A (CEAB3) dispara 23,82%, enquanto Brava Energia (BRAV3) é a pior ação da semana; veja o que rolou no Ibovespa",
+   "fonte": "Money Times",
+   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQMV9tS3JUOUJZVW9fT3RISmpkdkRnRkN1U3hXSEpCbHR1cmg4NkRYVnRleE81Z3V6ajBWWEFhV0lfSmNQcExaaXdBRjRKelNPMWRIN1Vsbi1PV01nNzZUYjEzdl9uRGpNWmtfdVJWenQ4aWdSUDJ5TURGUlRib1k4R3pRejktMlotZFlkbHBINjBhcWRFUGIxZmhGS3Z2ZmdTSFZJQ0Zpd3BJLTNxUlZVd05hUjlnOHhGWU1jMkJHbnNxdXFWSmMzYnZYUDJLQXNXWFBaT0Jn?oc=5",
+   "data": "2026-11-07T13:24:00+00:00"
+  },
+  {
+   "titulo": "Economista explica tese de André Lara para a redução da Taxa Selic: \"Juro alto é a causa do desequilíbrio fiscal\"",
+   "fonte": "Diário de Goiás",
+   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOMnhzZ1hZRmt2Qk9nOExJZFYzOHVDSkc1cHFlcVpvWTFFQXc3NmpDUlNhX3FrcGtWSkYtSkVSM1FKN1BoVkQ2YnVqX3lrMnhVLVJhT21xZ2pORmlhNU9rTk96eWlGMWNCUXIzcXgtX1IzSHJSMG1ZV2dCcWFJdlJ6bXQ0bkVUV1RtLUc2Z2swTEZ1WmdOaDlncmhZTENiMUJZN0J0NUhseEs3VXhDeEpLS3ZMTGNqc3A2RXpKb19ldUx1dTVtSVlSZm1ycFctY1cybjZkLXQ2RDBqa3JTbkhnbw?oc=5",
+   "data": "2026-11-07T13:10:23+00:00"
+  },
+  {
+   "titulo": "Governo projeta 113 leilões e ao menos R$ 470 bi em investimentos até 2030",
+   "fonte": "Poder360",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOd2duQ1FfbXc4QzU2ZE1oRl82QVJCMVM5Nm1lTWNVSW5RWGdCS2N3ZG1tU2o2ZFVsYXZSRGdRamlEYjZNQnRTS1YyVjZZUTUtcnRZaWxWN1J6N3dzNFhmRm9odVJrSVdMTVFoT1dJSVJUMW0zdW51RnBwWGk3OUlFQXUwQ1V2a0k1RndIU1FkNTJiUjNoZFE0UC1Dak92eTVnSk9oZm45Wk4wTDBveDRoMkluX28?oc=5",
+   "data": "2026-11-07T13:01:45+00:00"
+  },
+  {
+   "titulo": "Brasil tem maior juro real do mundo, com taxa de 9,05%, aponta ranking",
+   "fonte": "Impactto News",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQaDFfeUlyV0NTWENmaV9NVXVzTkg0UXVDa01vU3BBSWwta0dELUFudVJaSDNZc2VfX2xxd1hzdFpfeXpXVy1BSzl4Y0hLMHVxVWE3OVlVSXFNa1dmSlJZdG9BVTB5MS1KSzdpVHFhU0JqOEFTaTRGWkE4dDRncFhHbDQxcURKODJXY0ZrdWVVYWQyZVgyWlBoUzBYdzJSUkR0R2I5Q2VjbFVyd2lRc1NKMQ?oc=5",
+   "data": "2026-11-07T13:00:00+00:00"
+  },
+  {
+   "titulo": "Selic em 13,75%: como comparar renda fixa com liquidez diária",
+   "fonte": "O Petróleo",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQRlZzWXhXWldEQkF0NXd6WGJEUkVaQ2RVRjlCcUlJdWdGM0lYVng5dkpZdGJKUHdHamdRc3BOYUxfODNNMlR4U0NJWDZ4Tl9vOU4xZEYzWk9jSWJsOVgta2dSZS1lYlRFTTdtSm9wVTVfVFlPUnZ4RG1NT3UxQVE3SkcxUFBIZWhNLWdXNw?oc=5",
+   "data": "2026-11-07T12:50:34+00:00"
+  },
+  {
+   "titulo": "Por que Bradesco, XP e Itaú pioraram as projeções para 2027",
+   "fonte": "TV Sim Brasil",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPdjNWN1d3Sm1tUzFZRTFQSFVTQWFieWdqOFNROVJBZDQza2tCMUlteUtkVHMxQ0RsLWRWc1p3YTMwREdZQlJ2WV9DVXhDU0FrMXZUeE00c1U4RDY3aUE0NzRSX2JvaVI2V0JNcEliU2c4SzNUeEJzTkdnMVAzVldwdkNUcTVLNmFDZUxYczN4Y2FGNHJkTTBNZVJuTzh4c3ZvUlBvVEtGam95SVF4UTU0NEZGaHlNZ1E?oc=5",
+   "data": "2026-11-07T12:43:38+00:00"
+  },
   {
    "titulo": "Selic mantida em 13,75% pelo Copom trava potencial da bolsa e exige revisão de estratégia para investidores",
    "fonte": "BlockTrends",
@@ -51,42 +87,6 @@
    "fonte": "InfoMoney",
    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNWlQwUTc2ZEFnRTJiMktNSHh0YmJoOThMaDB0WWFGSldtQlRRd2kwdllpSkRobi14MnlPMDhuTkpvdWF4ODlWUXU1VGdYQ1B0S1IyS3JMLU5QVjhPcDhTbjRsbEJ5S016eHRha045LTg3YUZJeU1CR1lST2t5ZEpTZUFPdG8tUGZtWXpPWmo3anBUckZKQnlTOFBMRnQ2RFdPRE5ISFEtTm5iUy1TWUFkQ0Nn0gG3AUFVX3lxTE1vN1hCM050dWNnOExONVZFTUctSloxVXUxbDEzQXdJUFRQeVRGYkZHd05uLU1XdVlkdlRfck5XS1A1LXVvOWZQNnBTUFJCbF9qNjNlUWJrZEpDalU1QWVfakVhVVZ0M29sS1ZFcE1tc250ZEEwWm9sbjVlLVhjTjdEa2w1bURFY1ZVTkk1YTVTeGlCeUNvNmJaaVpST190c3dSd1FMTC1XN2xDUm5vN2cxY1NKQnROcw?oc=5",
    "data": "2026-11-07T11:00:00+00:00"
-  },
-  {
-   "titulo": "Bancos cortam previsão do PIB para 2027 diante de juros altos e inflação",
-   "fonte": "Brasil 247",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOcHN3aWs4SERoZnFXUnJoQng2UWJreTZmZkhXTG1TQmNBT1lwV1oxT2h5T09kN0I3d29uQlROWGgzcFNWeEV0VHJocTNVQ1FncGVNYThtWnpkeDFZeDlNLTlNaEo1UnJQV2RiREJKVEFYU1NUczQwX3kzd2NaczhmX1ZpeF9WLUxxOEk3N01EWkZGYUNUWlBLZE91dUhtQVhmRG14dndwdjUzR3dD?oc=5",
-   "data": "2026-11-07T10:55:24+00:00"
-  },
-  {
-   "titulo": "Candidato ao BCE de Cos alerta para riscos de inflação com guerra no Irã mantendo energia cara",
-   "fonte": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
-   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPVVlXemNkSUY2ZWk3MUJHbnhHb1lRaWk0bGdGQU9UbDRKM1ZXcnJETlZkU1JEcDBmY0NzUGdqRk4wWl9feWJtc2IxLVRDVUVQM1I2T3BLZXBCNkMzbW5ydVBEeE10TkVLU0lXaTFIX1dfRXlpU3E2MDVVU2U2U3pmQ3J2LVFTanhBaEt1QlpmLXk2X2g0YnQtVzJ4aHc1LUZnaDIyRERHRFV4WGdSQ05LRk1SWTRKOUVBQkJKNXJIajJlN05peU9lMUdGWEdhWXdLUVVFRktHc3JiZjZ3S1E?oc=5",
-   "data": "2026-11-07T10:48:00+00:00"
-  },
-  {
-   "titulo": "Manutenção da Selic, dólar, balanços do 3T26; veja os destaques da semana",
-   "fonte": "InfoMoney",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNVnNmaGd0V1cwSFBvc182VWpkNTFUUEhVbjNTTGhpbU41QTJaOGx2Ml9SdUpsSmZJUmRfb0pXRWIyUFJYa1p5bnRuUndHRndVUEJiNUZJSERDS1diOXRTbHdXV1RYZ3ZXekZ0d2tsd2NUS1FudFBIRUVHcjEyYUhObnVJNVBPTkc0clpqOFVRblVsWU84dVV1TnlGb3FwRjVSYjc5S2VyUHhlelBlekVlYk1mWjLSAboBQVVfeXFMTzNJWW56ZlF6V1hheE1zb3M1OHdFbUJEMGlHc3o1bmw4NFBETE9CXzZzRi1GLTdpeEp3SlpxaUJURXlOQXpoX2NOYnNTQnhwRjhuMnNSSGxlaG9mcVFvR21vbHZSY3ZERy1EMWg2cE9ndXVZOVk2MzRqNDY3WC1tQlgxWTdwX0tfUV95Ujdsalg0UDJTZ0FxSTAxdy1NQUE2WHhYal9oSUZ0UjhuOW9ySjJ6cFI5NWoxNGVR?oc=5",
-   "data": "2026-11-07T10:39:00+00:00"
-  },
-  {
-   "titulo": "BYD REÚNE 80 EMPRESAS NA CHINA PARA DISCUTIR INVESTIMENTOS EM CAMAÇARI",
-   "fonte": "Bahia Econômica",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQMm5WcENXTmhGMy1pOXJWU3hGcWxrQTkzQUx0R1RkT3VhOGVOYzB3cXpZWmVxZEZLazVucC00eVcxOHBoY0VfWnlpank5ZjA1ejlDRVJMWC1ieWl6TF9BTFp6YThTSEJXNlZzTmNtd3F5MkNlUWJqUmF1TExhYzVpWnFGYlZtbDNmd2NjcFlUc3RnSGc4bUpzUnMyTVNGQXZ6TlI1aUttemkyUVFLWnB1QjZKdkMzYVo3NTVFdQ?oc=5",
-   "data": "2026-11-07T10:34:32+00:00"
-  },
-  {
-   "titulo": "Bolsa em queda, Selic sob pressão e dividendos: o que movimentou os investidores na semana",
-   "fonte": "Estadão",
-   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNcWMwT3ZHOFlJOFBpa0hVeS0tR0FwUXFWR0F3UXozX2JKWF96Vnh4TG1vdVJHeUJxMm94MDl1UzJ0MGwxQjlMRlhnZjRTdzdCeWlmcmthX0RUa1BQTXM1ZWFRaVZOLXBhd1RKQjJVcncxdGJmWkZwdk9IYmZtdDkwQjdmVE1LZEQzR3I5am54MjRsNUFmeDNMMnVZT05oMWdhQkhfY1BZVVhSUlgwc2NSN0J4N1h5LTJLdmNDakhUczQyVTExbEZMTzZfLS1taVXSAdQBQVVfeXFMTkQyZUIxcjVfU0VNb2FMbXAzbENobThta21jOXhXRmY2UFNTbUJKVWRaWGVtSlJBR3plSnBKdnNtMEtudzhsNzNkVFdoQnVoRGF3ZUVVb1FON3F6ckUxXy1KY1pSeG15TDhRdHoxVjlFMG1wb21XMVdHc1MyelRGeWs3cXhmSFFzOHVhTnFqNm5qblozTW4tT0JQUTYtX2x4MlY2dmhSQ3NIMmlBRFNjdG9sODhoalFyVDMxWHhXYmk1RUEwNnY4SV93RzBWRTcyZm5HcXM?oc=5",
-   "data": "2026-11-07T10:30:00+00:00"
-  },
-  {
-   "titulo": "Ibovespa, dólar hoje, BPAC11, VALE3, ITUB4, SBSP3, SMFT3 e mais: Giro de Gráficos",
-   "fonte": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQUEtScnpGaEhUUU5GbUxDYTdBS01mMVRRaFFwbzU5OHhHUmZFM3VUYzVFSjJRT3hxTnc5UUVqYzhIVkRwRGI0WlMxd0lwekFjODM3OVd5UzVrWEttNncySGQ1SFpWa0Q0SkVYTmYtZzVfYVJYSzZ6Uzk5MWpaODNyTG9qMERseWk0Z1ZMVGRnWlFqR2ZXVzk2SFEtVms1a0E2QlZhZkdQZWpJRFdNOXlRWkdjd3BTRkhXSVE?oc=5",
-   "data": "2026-11-07T10:23:00+00:00"
   }
  ]
 }
