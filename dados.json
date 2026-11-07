@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-07T03:51:14+00:00",
+ "atualizado": "2026-11-07T04:53:52+00:00",
  "indicadores": {
   "selic": {
    "valor": 13.75,
@@ -17,6 +17,12 @@
  "cotacoes": {},
  "noticias": [
   {
+   "titulo": "Ibovespa sobe 1,39% e fecha semana positiva; dólar vai a R$ 5,50",
+   "fonte": "Vero Notícias",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOTlZ0R3dpNlcxWVA0ZjROdG1zSzd6QTVOQ0JCOHZreHVFSkVmVnJ0YVRHYjNhcXBpM3JiMktZOGRPQU1vU2NHb1FsREpscVRmelBUX2FjVmZwWHFPUGRlTUtzLWljQlZHcWdSTVBZOFRCLWUxLXZCOEVPQWRDZjJ1QmZjdnp2bXFna2JRSlM5U1NRaVJ1U2lNdTFn?oc=5",
+   "data": "2026-11-07T04:00:00+00:00"
+  },
+  {
    "titulo": "Presidente do SINDLEITE-RN destaca recorde de produção e investimentos no setor lácteo em entrevista ao ‘Fala, Indústria!’ – FIERN",
    "fonte": "FIERN",
    "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOd1VYWWhzekpwQ2NlVHo2RW1PUzdkVmdtWm5oaVlzY1ZEdHB3ejlzSG5hZWJ5WDd6Qjc1NlRsdDJEWVBCakRKdXdHak5leklyMGduREo3NVVMN0pQWHZoME00MmR6M2QwRjR0SVZuNktiV3ZzbmdBSW5hSFN5eFh4MHppZ210UjhILWtZcTl1cWRNMUpDWFZJVEt2bHQxTW9YNXFDYkVObVVGX2pEenBYR2VpWTF3WFZTLXNpR0FfOFNDS1cxZUNLTVFlQnZ5MV9TckFXWk1QVUhoZE1YRUE?oc=5",
@@ -27,6 +33,12 @@
    "fonte": "Confederação Nacional do Transporte - CNT",
    "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPcjdVaWxwWjhKeDMtMzR4b1pTbE12RDJHeHhxdTVFcjZnak5LRkR3UnpxeXZQaGRteTlNVVl3UFRLRGswcUxPV1FPWWx2REVQOUhNUkhsNVVmVGM1NGU4NnhyWjk5aVdzR0hUNHBDTV9kTHVMMk45elpZdkh3Y2xBSVNjd3AwZHZaR2ppWFl5d2RSR3VzaXRxZm4tQ0EzMDlMUkdKWXJpSVhveVo2Z0FyMjZGSW9CU2JwZnhkdkZqZHBNYS02MDZZdU9MVXJmUWFqdDU4aDNR?oc=5",
    "data": "2026-11-07T02:29:03+00:00"
+  },
+  {
+   "titulo": "Dólar fecha em alta, a R$ 5,50; Ibovespa avança mais de 1% com Vale e Itaú",
+   "fonte": "UOL Economia",
+   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQWERBMzNlSDMzTzZxOThKSHhDcWg2ZFlUeG5OZnkwT1BTZWNZbWZuTFdLYUdTUURGSTNFOTk1WEoxQUJ0akhFSVhYN2RSWUg2d09QajUxNXFtaktucGctSENIb0dPakNXM1ZRMXJmQm1uTEE0bGt3VnR5aUFjaXRvV0pQcHNyVlNnai1LejZFTHpDS0dYSXJCWUMxUEE5TVNGTGdxM1Y5OWZwS0dXWEJrSnhUUVBBaUwyQ1l0SG4tQjJ5WkdkWTdhZVdjR2ZkNHFWal9jd0V3?oc=5",
+   "data": "2026-11-07T02:07:20+00:00"
   },
   {
    "titulo": "Esquenta do Copom | Reação ao cenário de inflação mais desfavorável: vemos agora uma pausa para avaliação",
@@ -53,10 +65,10 @@
    "data": "2026-11-07T01:00:00+00:00"
   },
   {
-   "titulo": "Dólar fecha em alta, a R$ 5,50; Ibovespa avança mais de 1% com Vale e Itaú",
-   "fonte": "UOL Economia",
-   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQWERBMzNlSDMzTzZxOThKSHhDcWg2ZFlUeG5OZnkwT1BTZWNZbWZuTFdLYUdTUURGSTNFOTk1WEoxQUJ0akhFSVhYN2RSWUg2d09QajUxNXFtaktucGctSENIb0dPakNXM1ZRMXJmQm1uTEE0bGt3VnR5aUFjaXRvV0pQcHNyVlNnai1LejZFTHpDS0dYSXJCWUMxUEE5TVNGTGdxM1Y5OWZwS0dXWEJrSnhUUVBBaUwyQ1l0SG4tQjJ5WkdkWTdhZVdjR2ZkNHFWal9jd0V3?oc=5",
-   "data": "2026-11-07T00:58:48+00:00"
+   "titulo": "Bradesco e XP pioram projeções de PIB e inflação para 2027",
+   "fonte": "Revista Oeste",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPQ01IRjBfcHJCZzdLSTNNOGFyRllxSHJ0a1lqRC01Ui11Tk9jcVhzRE5JdTZkWUppLXFnNFgxVUp4MW5fRWota21nODdCVFhyNmFaYWdhekd2OXpHclZLZU9rYXJQVjVCZ2JrMWd6R2tleVBuSURBYTZHYWZOVDZIZjFPbnRIWDlCYjBHUElJZ2Zzb2FwOXVXYQ?oc=5",
+   "data": "2026-11-07T00:24:37+00:00"
   },
   {
    "titulo": "Banco Mundial e Governo de Jerônimo avaliam US$ 250 milhões em investimentos para rodovias e desenvolvimento rural",
@@ -75,18 +87,6 @@
    "fonte": "Brasil 61",
    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOYzJDYmZoMWdoc0pOMWJVeWN5eDlTaUx2SzRHX2V3dVZIdDdXMDBOZmFxYjRVbzZDcFoyRDJGSkxHZElYZENrbG12by1IeU1USDJZOGtmR2dYTUpZUWRnRUZ3MTlFazdTVUZ1Q19FZjFxVkNZc3BfNEtLOF9BVXY5Y1pjbjAwcS1PNFZ2cHc0aU9EN0c3NVdEaHVfSGxVRTNzZFZmUEd30gGrAUFVX3lxTFBBYU53WTJIcWJjSDU5RlNMMTNyTkxYNGg3TEVMTnduTExTMDRTWXc4eVFIdEt6UzJ6RUFNTm9sdGRWLVhwLTgzaHFfMjdnR0dwUk9qdURQQnl2MUpmS25sYjJ2bDJxanR3amZOUy1XdmRmeFNVTEtvNE1oRXAzTVRYazVUdm9ieGFfMnNxSlJzLVRKcWNQLXZfTFMwaFNHOGFGeWs3b0IzV0M5RQ?oc=5",
    "data": "2026-11-07T00:00:00+00:00"
-  },
-  {
-   "titulo": "Dólar sobe para R$ 5,51, enquanto Ibovespa avança 1,39% e recupera perdas",
-   "fonte": "Diário da Guanabara",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOZFVuRGo0V1g4LXUtcU5Zd283V0hFbFhtMXNJb013cEdWdy04ZkdQQmZUblhmSjZQRWVLRWlfQU9NRThPX3RuYUNxQjJqSnV2bEdTQWdZRkxqZ05odWNINVVJa2tNZlpzMFJFVzVtb3M2dXNUYlNRenhueUZJd2RUUy0zd1ZQWnR6eUdMZmVGT3pGc2NKQmFpenFJV2x5dw?oc=5",
-   "data": "2026-11-06T23:47:13+00:00"
-  },
-  {
-   "titulo": "TJPR reforça investimentos na modernização da estrutura do Poder Judiciário",
-   "fonte": "TJPR",
-   "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPcndIUHpFSHdybXZVaVVhWjZXaUdZQ3pyQjFCMHFIUm51WjV5dWFDaVFjVUhDSGlKLWI2dXd6QzlRNElzb2VpOVRqWnVEVDNoYXdvUmpyMTN0eWhTRm05c1NQQVctQk1XWmJiZ09Wd1lfTVZMYVgzbF9ISEctRno0R3FFdTkxdnJpcmR3Y21BQ3VNc2lQWm5IQUFYU1Uwc2xKbzlOVzl4MWRNV2NtajRza0psX0E5VVgtZ3YzVUJRc2NUTDlCd0tmWGxNc1JjMUFvSTQ1RXUwUHVVbnBHYk9Rb0hwemk0S21oWVNBbGJGVzZjY3F1N1puZQ?oc=5",
-   "data": "2026-11-06T23:05:40+00:00"
   }
  ]
 }
