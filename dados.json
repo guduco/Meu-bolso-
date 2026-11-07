@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-07T01:58:23+00:00",
+ "atualizado": "2026-11-07T02:50:54+00:00",
  "indicadores": {
   "selic": {
    "valor": 13.75,
@@ -17,16 +17,22 @@
  "cotacoes": {},
  "noticias": [
   {
-   "titulo": "Dólar encerra sessão em alta com atenção à economia dos EUA e ao cenário fiscal brasileiro",
-   "fonte": "Brasil 247",
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQMjVvRVYzZ2pnTkpCLVZVbG9BV2NYbDBueHZKeHlGQ3dVRlpoWlJ1TWwyNXZibFJxT2c0RG5UeGZQMDJ3dVBucUN1dmtSa3k3dVZwX0FXMEVIUHdaQmJoNjZCN2NPY1ltQnJueG1KdDd1S01IWlEteXZRZEEtcGhLZGdZRFpRbjdhRXY3TXZBX2RhZ0w3d29na0NEa3RTNGVlZFRhZlJvUDlNVlc4c01KUlg1bGdtTno1TlIyMy1HbF9SVjFw?oc=5",
-   "data": "2026-11-07T01:53:00+00:00"
+   "titulo": "Pesquisa CNT de Rodovias 2026 aponta melhora na qualidade da malha, mas conservação ainda exige investimentos",
+   "fonte": "Confederação Nacional do Transporte - CNT",
+   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPcjdVaWxwWjhKeDMtMzR4b1pTbE12RDJHeHhxdTVFcjZnak5LRkR3UnpxeXZQaGRteTlNVVl3UFRLRGswcUxPV1FPWWx2REVQOUhNUkhsNVVmVGM1NGU4NnhyWjk5aVdzR0hUNHBDTV9kTHVMMk45elpZdkh3Y2xBSVNjd3AwZHZaR2ppWFl5d2RSR3VzaXRxZm4tQ0EzMDlMUkdKWXJpSVhveVo2Z0FyMjZGSW9CU2JwZnhkdkZqZHBNYS02MDZZdU9MVXJmUWFqdDU4aDNR?oc=5",
+   "data": "2026-11-07T02:29:03+00:00"
   },
   {
    "titulo": "Ibovespa sobe impulsionado por bolsas globais",
    "fonte": "Brasil 247",
    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNbENtbVlUM2Y4SUtTWThvd1RXZUw0ZUZGanJfOWozUnJGb1FDa3dPU2ZLQ1o3cXdNcnRadFAtYXk0cHBDN0tCSllUMnlMUXhTMi1hQTA1SC1iQVMwZWFnTDV3RFBpUUk3WlJOLUx5UDlSZTRRck9MaXR1bHdJUFliVldkUWFfMjNP?oc=5",
    "data": "2026-11-07T01:41:00+00:00"
+  },
+  {
+   "titulo": "Por que o dólar subiu 4,5 vezes mais que a Bolsa na semana",
+   "fonte": "TV Sim Brasil",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQaEduNHNOXy1iejhOZ3BleVcyd3ZqWXR6dDMzaGVxNmh0cGlqSGhfY2Z1c012OGxsQmVKSDF1Z2oyc1pqZEd6UzZBTUktdkwzR1ZsVHJxVnpfWFpRemdKemVjbENHeHl0a3hyREd3R0N4Wk9Xd040ajJKaG1rMk9KTTlQcTMxZ3ctQVhUVWsxQ2RCRWI3XzlfZm9ZVTBwa3JyQk5sMjZR?oc=5",
+   "data": "2026-11-07T01:33:00+00:00"
   },
   {
    "titulo": "TCE-ES alerta 75 prefeituras capixabas por investimentos insuficientes em Saúde e Educação",
@@ -45,12 +51,6 @@
    "fonte": "UOL Economia",
    "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQWERBMzNlSDMzTzZxOThKSHhDcWg2ZFlUeG5OZnkwT1BTZWNZbWZuTFdLYUdTUURGSTNFOTk1WEoxQUJ0akhFSVhYN2RSWUg2d09QajUxNXFtaktucGctSENIb0dPakNXM1ZRMXJmQm1uTEE0bGt3VnR5aUFjaXRvV0pQcHNyVlNnai1LejZFTHpDS0dYSXJCWUMxUEE5TVNGTGdxM1Y5OWZwS0dXWEJrSnhUUVBBaUwyQ1l0SG4tQjJ5WkdkWTdhZVdjR2ZkNHFWal9jd0V3?oc=5",
    "data": "2026-11-07T00:58:48+00:00"
-  },
-  {
-   "titulo": "Dólar sobe 0,44% e fecha a sexta-feira cotado a R$ 5,52",
-   "fonte": "Brasil 61",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPXzAxa0tEWWcwRVJLc0VEX09QazN0RjdXUG50NWJtTC1QZVlBbUpIZHBQdGV5SDNUQlVhaHBiTUh2ekFZYWhyQmhRY1dzMndtcjZBLWUtOExYeTlqYV9mQlhUejVnYWZoNGxrVTMyYTZCb091TUVkOUZTOVM2dXhxSEpSdmxXaHh2a3paLUd5ODZDd9IBlwFBVV95cUxPc21ZcWxBdHpXUExVUjFsaE5IVzRTRHhzdkl1eVJDRGl4NEgwXzJablIzRTJ4Q1diT3lXdnlocHhoUW9sbFp4a2lrWF9aUkJQelBRSy1EclNmZndQbVNEVjJNWWRfeFZOam90eHdYZ0F3NmREM1VmaXYtRjlhMW1ramY0Zm1TMTZid3BFVVFMcGlQZjBLeXlN?oc=5",
-   "data": "2026-11-07T00:30:00+00:00"
   },
   {
    "titulo": "Banco Mundial e Governo de Jerônimo avaliam US$ 250 milhões em investimentos para rodovias e desenvolvimento rural",
