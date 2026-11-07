@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-06T23:40:30+00:00",
+ "atualizado": "2026-11-07T00:58:36+00:00",
  "indicadores": {
   "selic": {
    "valor": 13.75,
@@ -16,6 +16,18 @@
  },
  "cotacoes": {},
  "noticias": [
+  {
+   "titulo": "Banco Mundial e Governo de Jerônimo avaliam US$ 250 milhões em investimentos para rodovias e desenvolvimento rural",
+   "fonte": "Jornal Grande Bahia",
+   "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQTGs5SWxtNGZnV0JoM3gwdGNSdUdCNFRMYTFzS0xla1VxaE9QZDdWa0dRbXI4dzZmbDlabVM3czVRa25Ca2xIY1VXSlJWYU9UVmZiMlp2OGxsUFEyRlBLRTZ2YTNiUFRoOVRWcjA4c0tWMGJuQ1VXMHJLWUtDTUZuTkxwZ01CbnNSNWlwMVo1Zkhzb0haeDJfZDNpLW1GVnBsZUdnT1praXYwc3J5WVZDN3V4a0ZjZ1FobnZ2enJRN1VYNjNEaTlXYTFMVEVqRjF5RHJQVEFHUWpneG5DTm5vRlk0WXVjWXNBaVlZ?oc=5",
+   "data": "2026-11-07T00:10:19+00:00"
+  },
+  {
+   "titulo": "Dólar sobe para R$ 5,51, enquanto Ibovespa avança 1,39% e recupera perdas",
+   "fonte": "Diário da Guanabara",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOZFVuRGo0V1g4LXUtcU5Zd283V0hFbFhtMXNJb013cEdWdy04ZkdQQmZUblhmSjZQRWVLRWlfQU9NRThPX3RuYUNxQjJqSnV2bEdTQWdZRkxqZ05odWNINVVJa2tNZlpzMFJFVzVtb3M2dXNUYlNRenhueUZJd2RUUy0zd1ZQWnR6eUdMZmVGT3pGc2NKQmFpenFJV2x5dw?oc=5",
+   "data": "2026-11-06T23:47:13+00:00"
+  },
   {
    "titulo": "Dólar fecha a R$ 5,51 com alta de 0,44% após dados dos EUA",
    "fonte": "Tribuna do Paraná",
@@ -59,34 +71,22 @@
    "data": "2026-11-06T22:39:48+00:00"
   },
   {
+   "titulo": "Juliane Furno: se optar por ajuste fiscal, Lula precisa arrecadar dos mais ricos, não cortar investimentos",
+   "fonte": "Brasil de Fato",
+   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNakd2bEZjTkFXeUdPYzN3YmJZM2Q3akhKTEVhR29mSld3cFE5OU1LdUJmOGVfdVV6MjMtcFBsdU5WT3poZS1jb1Y0aEdGRlJrcVJFRlNvSk1HLVBRQUlxVkRtamxrTEZFWHI2eHFYQ2ZHOUFiYnhNVDd4aVdETDBFOWxidUprajByRVFfZUJZSy1WZUw4RjJ1OW9sSVZMZWtNUkhrWmxmMzNpZDJhdzF4VkI5TUJlTlFLcUhzOVJGQmR4UHhuTnZNV2liM013YW81aWlSZWNLbE5CY05ZdFM3UQ?oc=5",
+   "data": "2026-11-06T22:34:00+00:00"
+  },
+  {
    "titulo": "ATGás: suspensão de investimentos é consequência da percepção de risco",
    "fonte": "Agência iNFRA",
    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQU3UwVjdaYmZNRmk5YVdSNl92UzRTR0lQVkVnMnNyVUNTMExtUk55bGhtSFhiX1FLcHJuVnVxT1NSb3pXb0hXS3NPRmVCc3pYWVE1YXYtWXVPMHhTbXhwVUVGaDVMcktTTXpFai1YS1ZydWxkeGY4bGpjd1kyTkpoY0NQUGFQOTNzcU1RTnhpaUxhOXRydU1iVUhFNVB6c0lSMVE?oc=5",
    "data": "2026-11-06T22:30:51+00:00"
   },
   {
-   "titulo": "Dólar acumula alta de 1,2% na semana com incertezas domésticas; Bolsa sobe",
-   "fonte": "CNN Brasil",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPLTFPLU0tb0VBc2hHRU91YWZzeV83MDloMThZdmk4TTBRM0dOeWpVcWJSSFNzQ0dGYjZCaWEtOUNpT1FraWlubE9wYVltWjhYSUtmM2ttS21jMnc2YkRVRUxYSkFTeXB4VzczZjN6UTl0T2xOa0NjdkREMmxiY0h3dWxXYWtjYVlCQzM0ZnBGR21pV2VLQTVuMGdBQWhBSTFGbGdNLQ?oc=5",
-   "data": "2026-11-06T22:29:57+00:00"
-  },
-  {
    "titulo": "Dólar sobe a R$ 5,51 e Ibovespa avança 1,39% em dia de reação dos mercados",
    "fonte": "Jornal de Brasília",
    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNNzRNa3ZkMUZqQjlUVmZmVjFYWEZaSzNiblZ2WGdqV3I2S0Jld3l2ci1OUjRsbS10bW9nUGZHX0xmOF8yUG02WWx5elZid3k1S09JX0JuSVQ4UkREUndKV25BTUVvSGRXQk5RMzBEbllTYjF0Vlo2N09ndnRncVVHWWtkNXRZakM3LTJBWlFZYk82RDVIclNKQlk2UnpxTkEwWjU4V25Cdm9aMUJZR1huZlh6amUzYy02VkkwX2FR?oc=5",
    "data": "2026-11-06T22:27:07+00:00"
-  },
-  {
-   "titulo": "2027 será ano difícil útil, ou ano difícil inútil?",
-   "fonte": "Estadão",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOdUtabTFycWI3U3BNV1hrMTFoVG9zTHRjaFBqd3JmVDRUN2ZXYURmODVrWlU3WFNmWjhPV2xMSDFuTmlVS2t4RWs4dUplcHlpX1lKLUIzdUNvN01fSWFseU84Y19WTUJ4SEJjS3poRnZ3bmNQdVgxTk4zMXdvSmN2TkwycFg2cVFRel85ZGZhODE5cDdIUnhMaGJJSGRrejRoWjFR0gGoAUFVX3lxTE9TOWlhVHVkanltNWtwQ3FDS05lb2RFMVVEMnhXNm12SUJsdGpWTXoxajdIZWlzM0NGbjNkcXlyTURZaXNUUzhnTWJBNDQ5NWxUNld3SGNnZVJ2czgtNEJuOVlGMWNkS3VYUzU2VGxoMmt3V3JEa0szV19abUpoM21fNC04Mi1lTFRWM1JzVEJPOGVNZHZuRGhBUDRUeG9oRFBBSlVMWGt0YQ?oc=5",
-   "data": "2026-11-06T22:21:23+00:00"
-  },
-  {
-   "titulo": "IBOVESPA SOBE 1,39% E DÓLAR FECHA SEMANA A R$ 5,50",
-   "fonte": "Bahia Econômica",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOQW1feTAyRFNMbVVzNlVabGx0VmRfVEtRMzl5Y3RZenFnd1dZMk5lZzh0YnhWQ2tXWWpJOFg2Q3gzckVBVjdET2dFN2E4MGs1cm9xZmpDU3Z2VnlKTDJLSU5yaEVac2xiSzdhQ3NtMldjUVpaRkVaTDEwLUx1c21RNTB2WlFqbWtaeG1vRWJ3eC1wWW02alJXMGpxc2ctNlI3VDZVUkF3?oc=5",
-   "data": "2026-11-06T22:19:50+00:00"
   }
  ]
 }
