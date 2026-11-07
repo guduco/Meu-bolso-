@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-07T11:41:38+00:00",
+ "atualizado": "2026-11-07T12:51:34+00:00",
  "indicadores": {
   "selic": {
    "valor": 13.75,
@@ -17,6 +17,24 @@
  "cotacoes": {},
  "noticias": [
   {
+   "titulo": "Selic mantida em 13,75% pelo Copom trava potencial da bolsa e exige revisão de estratégia para investidores",
+   "fonte": "BlockTrends",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOQWEyTUZaNS13d1dnYUZRdDNIQ3hobUlhc3pReDZTeVBUNTRlSGpNNGlkemVQOFoxaXhpQllVOUxORnA2a3oxMXdNSGg1WGxha1dobVVMY19YUjdPclJENjZkQlZTY2ZqTFF5WTAxd1VmLVktdlVIS2Q2cDJpU3dzeVNHLU8wUnN0?oc=5",
+   "data": "2026-11-07T12:32:13+00:00"
+  },
+  {
+   "titulo": "Luciano Hang mantém confiança em investimentos e negócios no Paraguai",
+   "fonte": "Portal VV8",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOTGQtckdKQnlRWW5ndE5WQ0ZudmZ6SmgzTDg0YW8taVVLRnFESTBTWlU5enl0Vk1fekNOWU9MMEh4YUNaWW1DU2prbmJIZzJuendYcW0yQWlhSXRsc3ZUODNzR3lMdzJOQU1Na2JTY3NPTTVFeEpTZkhrbnVpSTZSZTAyNVFGWEUtOFpsZDVaS0Vwa0ZTcUcxTnhoejE0TDlxNU9KTkdpbTkwM3pi?oc=5",
+   "data": "2026-11-07T12:05:22+00:00"
+  },
+  {
+   "titulo": "Por que o Brasil está atraindo investimentos bilionários em data centers?",
+   "fonte": "Times Brasil | CNBC",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNUhwMVBhSWtPbUJzeGctZDFXSUJzVUNqLWRvMjBDZ1JCQ2JKal9pcThtNU5raWhfOWMtRHc5RUt1bFhZV2c3UWZIbFpDZEtvX0I2NEZqeklSWDFtTGxhRzdvclYwTnRYWDhGcy01VkNVSExqNTVlenNWcjR1b3NFN0xURDh4dmIzYWxHZ0U5SVRSSU1oc28xMG5jZWxNUk53blZxanllV183RjQ?oc=5",
+   "data": "2026-11-07T12:00:00+00:00"
+  },
+  {
    "titulo": "A Taxa Selic e os Rumos de Lula 4, por Ítalo de Aquino",
    "fonte": "Jornal GGN",
    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNdmdxMlZxWlY2UUM2M3YzU2M0dWl1SFhQQ1d6T0RKNVJpeDRzTWxJczFuc3FPMU9UOU9JSVp2Z2U2RnRiTVNxY0lUWjhRa2k3WmtkQmVsUmhBY2Rncl9TcWtRZl9SejZYOFV1R29sWW4tVXZqV0FsT3RwdzBweDZ5NW1YYmdZZnRxM0R0YV9zaHI?oc=5",
@@ -27,6 +45,12 @@
    "fonte": "Valor Econômico",
    "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNZ3lBX3VyR0hsRlZVczN2YnJUSnJZYjQzc1VTQ3JCSFdEYTZmSDFfeUxlb2Q4SHFXTkdpMjcySTI1em1VTDJEU25yZVZxM2ZncTFfOTZjRkNxbUVGeEpSS2RRRU5GWkxFMkU3NnRkNkkyQmc3ZllQb2ZtZWthdlZBalJWTXVMbHBkXzBSQWR4amJuelc3V25qV1IwQmZWTjNxazVzSXlIT1ZaaE1EQkJ3Q1FmbUNXWUZRRWxSMGFfOEdvRUlrc1ZtOFBObDNTQzE3S3ZRXzFSMUg5RXd1LWfSAewBQVVfeXFMT0d2ZG5mcmFuNFRNNnlNWmFWZ0s0dlJXMmJWYkRaOThSMm5HZlVnUFNNVGl1RlRaYlhsRnFYem52QkxjV0JHZ1FnRl94dGwyT3NQRVFqcWhQZmZXSWVUZlJEUTFlVjF6YlB4RTV0VllMM01XcHZTWHYxUUNrUjRXS2hxaElIVzhHbWxhV2lrUVdLMW0tQUxHcE9HeTdaSkZmNF82TTRMdzdQWDRDaDBhaXZuRnpXeUN4VVpTNUFEeFgyR1dtV2FzcEhwbS1pdm1zUEhDTzdWaV9nelhDYzBqOWVNa2tiUWFwQk1pR20?oc=5",
    "data": "2026-11-07T11:02:00+00:00"
+  },
+  {
+   "titulo": "De R$ 5 mil negativos a R$ 12,7 mil positivos: o papel da análise macro na virada",
+   "fonte": "InfoMoney",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNWlQwUTc2ZEFnRTJiMktNSHh0YmJoOThMaDB0WWFGSldtQlRRd2kwdllpSkRobi14MnlPMDhuTkpvdWF4ODlWUXU1VGdYQ1B0S1IyS3JMLU5QVjhPcDhTbjRsbEJ5S016eHRha045LTg3YUZJeU1CR1lST2t5ZEpTZUFPdG8tUGZtWXpPWmo3anBUckZKQnlTOFBMRnQ2RFdPRE5ISFEtTm5iUy1TWUFkQ0Nn0gG3AUFVX3lxTE1vN1hCM050dWNnOExONVZFTUctSloxVXUxbDEzQXdJUFRQeVRGYkZHd05uLU1XdVlkdlRfck5XS1A1LXVvOWZQNnBTUFJCbF9qNjNlUWJrZEpDalU1QWVfakVhVVZ0M29sS1ZFcE1tc250ZEEwWm9sbjVlLVhjTjdEa2w1bURFY1ZVTkk1YTVTeGlCeUNvNmJaaVpST190c3dSd1FMTC1XN2xDUm5vN2cxY1NKQnROcw?oc=5",
+   "data": "2026-11-07T11:00:00+00:00"
   },
   {
    "titulo": "Bancos cortam previsão do PIB para 2027 diante de juros altos e inflação",
@@ -63,30 +87,6 @@
    "fonte": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQUEtScnpGaEhUUU5GbUxDYTdBS01mMVRRaFFwbzU5OHhHUmZFM3VUYzVFSjJRT3hxTnc5UUVqYzhIVkRwRGI0WlMxd0lwekFjODM3OVd5UzVrWEttNncySGQ1SFpWa0Q0SkVYTmYtZzVfYVJYSzZ6Uzk5MWpaODNyTG9qMERseWk0Z1ZMVGRnWlFqR2ZXVzk2SFEtVms1a0E2QlZhZkdQZWpJRFdNOXlRWkdjd3BTRkhXSVE?oc=5",
    "data": "2026-11-07T10:23:00+00:00"
-  },
-  {
-   "titulo": "Ibovespa fecha hoje com alta de 1,39%",
-   "fonte": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
-   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOZ3ZZNkhTOThEaWpxcDU0Yy1fT2lhX3d4bGZfNlQ4NDNOeEliZGNNclhONk9kMEdiU3ZCQVlHRWhqSUdtc01OQk4zdklqTDhsdkVlRUVNNjNjSE9KMGw0OEFCZ0UzemVnUEFYWnFUWkNmeEZpTFd1WkZvNHU3LUtyNnZjWUlRUQ?oc=5",
-   "data": "2026-11-07T10:15:00+00:00"
-  },
-  {
-   "titulo": "Estratégia de hedge pode proteger patrimônio contra variações do mercado",
-   "fonte": "CNN Brasil",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNOFEyYXpQdHp4NkFZS2swa2ZkNkQyM3Nwakx3QWRtV2VnNy1ON3R5WnhIMDZDa3hySkM1cGlETlotd3Vod2EyRDhKby1uSE9lSmVEbmJFamN0SmtUUlEzVVQxWllqdXI3dWh2a0Flb25GWVU4N1BqOUhoU3E1bWx0clB5ZkxBbWlLLWxpZGFDWkF6ZDhrMlFDQkg2SDlYWDdEcXc4VG40aGNBX0tzdWdJb2J0Wk1HU3c3d25hbUN6cjUxUjg?oc=5",
-   "data": "2026-11-07T10:00:20+00:00"
-  },
-  {
-   "titulo": "Opções com Selic e ajuste econômico",
-   "fonte": "A Tribuna",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPV2NFd1Q1d0RfQlNjem1taVJ1TlFTSHQ2cVJzdVNITTNjclo2NksyMndQTWVPa0VkbUNrY0h5UElHNVRpQVFVeXBHQ2NCZUl3OVFiYkZPYk5FX3hNZWhYeVBuU0gwYzZMWWljaF9iYnY1Q1RyRno2SGwtaHdsdVpkajByTXY5Z09uR1VGVFIwYnBOd1BmdzdaUjI5RQ?oc=5",
-   "data": "2026-11-07T09:41:00+00:00"
-  },
-  {
-   "titulo": "Brasil mantém liderança mundial em juros reais, com taxa de 9,05%",
-   "fonte": "Opinião em Pauta",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPWEp5b1dsN3pJWUJwSG9wUkdWSHVta29pYzdmV2dsZnhnYXdpUkRDaUxYSWRSRm5xMmJaN01BQXhjdW9ZRU9wTXlVWTZwVm1sY3FBVjlpOXZJRk9uZ2pGZWxMWVNXN0YzZExLQUJSWTF0cnpOVzZhcDZIRUJMSEI4T2NFeVkyaHF6VHZXaTJ3cF9XMUo5SDV3Qg?oc=5",
-   "data": "2026-11-07T09:18:00+00:00"
   }
  ]
 }
