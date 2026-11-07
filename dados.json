@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-07T02:50:54+00:00",
+ "atualizado": "2026-11-07T03:51:14+00:00",
  "indicadores": {
   "selic": {
    "valor": 13.75,
@@ -17,16 +17,22 @@
  "cotacoes": {},
  "noticias": [
   {
+   "titulo": "Presidente do SINDLEITE-RN destaca recorde de produção e investimentos no setor lácteo em entrevista ao ‘Fala, Indústria!’ – FIERN",
+   "fonte": "FIERN",
+   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOd1VYWWhzekpwQ2NlVHo2RW1PUzdkVmdtWm5oaVlzY1ZEdHB3ejlzSG5hZWJ5WDd6Qjc1NlRsdDJEWVBCakRKdXdHak5leklyMGduREo3NVVMN0pQWHZoME00MmR6M2QwRjR0SVZuNktiV3ZzbmdBSW5hSFN5eFh4MHppZ210UjhILWtZcTl1cWRNMUpDWFZJVEt2bHQxTW9YNXFDYkVObVVGX2pEenBYR2VpWTF3WFZTLXNpR0FfOFNDS1cxZUNLTVFlQnZ5MV9TckFXWk1QVUhoZE1YRUE?oc=5",
+   "data": "2026-11-07T03:17:02+00:00"
+  },
+  {
    "titulo": "Pesquisa CNT de Rodovias 2026 aponta melhora na qualidade da malha, mas conservação ainda exige investimentos",
    "fonte": "Confederação Nacional do Transporte - CNT",
    "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPcjdVaWxwWjhKeDMtMzR4b1pTbE12RDJHeHhxdTVFcjZnak5LRkR3UnpxeXZQaGRteTlNVVl3UFRLRGswcUxPV1FPWWx2REVQOUhNUkhsNVVmVGM1NGU4NnhyWjk5aVdzR0hUNHBDTV9kTHVMMk45elpZdkh3Y2xBSVNjd3AwZHZaR2ppWFl5d2RSR3VzaXRxZm4tQ0EzMDlMUkdKWXJpSVhveVo2Z0FyMjZGSW9CU2JwZnhkdkZqZHBNYS02MDZZdU9MVXJmUWFqdDU4aDNR?oc=5",
    "data": "2026-11-07T02:29:03+00:00"
   },
   {
-   "titulo": "Ibovespa sobe impulsionado por bolsas globais",
-   "fonte": "Brasil 247",
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNbENtbVlUM2Y4SUtTWThvd1RXZUw0ZUZGanJfOWozUnJGb1FDa3dPU2ZLQ1o3cXdNcnRadFAtYXk0cHBDN0tCSllUMnlMUXhTMi1hQTA1SC1iQVMwZWFnTDV3RFBpUUk3WlJOLUx5UDlSZTRRck9MaXR1bHdJUFliVldkUWFfMjNP?oc=5",
-   "data": "2026-11-07T01:41:00+00:00"
+   "titulo": "Esquenta do Copom | Reação ao cenário de inflação mais desfavorável: vemos agora uma pausa para avaliação",
+   "fonte": "XP Investimentos",
+   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQYWp4LWtJeXQ1VTV5Z2czaWVUNDFTdF9YYXBTTlRRRFQ2OVpvRnptWTNENzh0V1lDblBYWUZTUzcxWmYxSU9hNVJoREY0WUVoeFhHMFlMZ3NKRzE4OWltdVV0MlFfZzZmVzZRcTRNZGhjbDgzM1RwSjZOLWgxVDN5czVHVE9aY045OWhHWDdnTWtHS013OWFzT0xWcktVN3ZuY1hKdUYwRTM1NnJSX1ZRUHAtbnV0a0VKdmh2Vnp6c0U2RWltdVNJdjdjeFRMQk9TNUNzZFFfb2s?oc=5",
+   "data": "2026-11-07T01:42:39+00:00"
   },
   {
    "titulo": "Por que o dólar subiu 4,5 vezes mais que a Bolsa na semana",
@@ -81,12 +87,6 @@
    "fonte": "TJPR",
    "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPcndIUHpFSHdybXZVaVVhWjZXaUdZQ3pyQjFCMHFIUm51WjV5dWFDaVFjVUhDSGlKLWI2dXd6QzlRNElzb2VpOVRqWnVEVDNoYXdvUmpyMTN0eWhTRm05c1NQQVctQk1XWmJiZ09Wd1lfTVZMYVgzbF9ISEctRno0R3FFdTkxdnJpcmR3Y21BQ3VNc2lQWm5IQUFYU1Uwc2xKbzlOVzl4MWRNV2NtajRza0psX0E5VVgtZ3YzVUJRc2NUTDlCd0tmWGxNc1JjMUFvSTQ1RXUwUHVVbnBHYk9Rb0hwemk0S21oWVNBbGJGVzZjY3F1N1puZQ?oc=5",
    "data": "2026-11-06T23:05:40+00:00"
-  },
-  {
-   "titulo": "Maiores altas e baixas do ibovespa na semana",
-   "fonte": "TradeMap",
-   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1nSll1eHhtZF9uWGJTWFFiWUxsUFV2M1lQYlhmaHQxUlJJRWZ0UXZ0QjBZdHNvZ3UyYjZnQjdXRS1XTVVtbnM5cHJKMGRhTHF4V1NnR3VrWUg?oc=5",
-   "data": "2026-11-06T23:05:00+00:00"
   }
  ]
 }
