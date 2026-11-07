@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-07T13:53:09+00:00",
+ "atualizado": "2026-11-07T14:44:16+00:00",
  "indicadores": {
   "selic": {
    "valor": 13.75,
@@ -16,6 +16,36 @@
  },
  "cotacoes": {},
  "noticias": [
+  {
+   "titulo": "Pesquisa CNT de Rodovias 2026 aponta melhora na qualidade da malha, mas conservação ainda exige investimentos",
+   "fonte": "Confederação Nacional do Transporte - CNT",
+   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPcjdVaWxwWjhKeDMtMzR4b1pTbE12RDJHeHhxdTVFcjZnak5LRkR3UnpxeXZQaGRteTlNVVl3UFRLRGswcUxPV1FPWWx2REVQOUhNUkhsNVVmVGM1NGU4NnhyWjk5aVdzR0hUNHBDTV9kTHVMMk45elpZdkh3Y2xBSVNjd3AwZHZaR2ppWFl5d2RSR3VzaXRxZm4tQ0EzMDlMUkdKWXJpSVhveVo2Z0FyMjZGSW9CU2JwZnhkdkZqZHBNYS02MDZZdU9MVXJmUWFqdDU4aDNR?oc=5",
+   "data": "2026-11-07T14:29:03+00:00"
+  },
+  {
+   "titulo": "Roberto Justus alerta sobre golpe com IA para divulgar investimentos",
+   "fonte": "UOL",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPQlJubGdaeFJxcU5RRDVocE82MDAtMzg5TkIzT1dGODZtLUVRYlFHZndlemZyaHNBcWtreEN5UjVkQ0tuLXlKeUlLSlIwQlFJZlloSWNSdFI5b2VGUzZmTkFFa3dzdlA3bkJtOERxV2xybXU0STYzcElJOGE2c19qUFVRRGtTNEJDZDc0SXBFV2hselB5cjkyZzVYNFJ4NG9FTDBSdWRqMDFkRkpDWG13dDI4OEFGczFTaWduLTJjQQ?oc=5",
+   "data": "2026-11-07T14:18:36+00:00"
+  },
+  {
+   "titulo": "Selic fica em 13,75% e mantém crédito caro",
+   "fonte": "Jornal O Fluminense",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA5eEhEQUZBVl8tMXBDN3ZLLXNqTlRsaFZqNHY1ZmJKMFpzdWlBZVl4OXZzS2xxS2NfaHlvS1V4d09ORmtUSUltY09sYlRqMWx6ZEF6WFNTWTgtY1oyZW9BTlFqMEhHd2hWcWdwX1NGX2NkUkstTnc?oc=5",
+   "data": "2026-11-07T14:03:00+00:00"
+  },
+  {
+   "titulo": "Dólar fecha a R$ 5,51 após dados dos EUA",
+   "fonte": "Jornal O Fluminense",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5SdkxTS0xxT0ZEUmJFdkQzR2U4NmJrRVFRSXRPazhoM2hIWkljM2t2d1o4eGV0eXNjMWcwNEFsZHYtUUptM0VFZHFaZjFHdXZrTV9fbFhRdmFyWnhlN3hraTJtMkRYN3RabV90bmtBWml4THp3WlNqcVdfODM?oc=5",
+   "data": "2026-11-07T14:03:00+00:00"
+  },
+  {
+   "titulo": "Investimentos estaduais ampliam armazenamento de água e fortalecem prevenção à seca no Espírito Santo",
+   "fonte": "Montanhas Capixabas",
+   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOdmZyTU95Qzhwb0FPdm1xT1J5M3R0X1M2SGZyUXQ4aDZwVFcwUUp1YWd5dGdsaDFvVHhrTmcyLVhOOVJHd1UtR1BCWnJNeEI2T29tZEhaUy0tSmliVHAtZER1SHJaWlhuUUNTR0E3dXoxSk53anJHbEN4UTJNY3pMbTI1VHlhUkxJd0o5enItRFlWaG9RMVYwSUFWc1FvS0FHVzNpbmdnbWtkNmZFUURkbU9BOXRySkFXYjE3T25yckJfMk45UnpXQXM2Z01rdjZOemgzODdiZw?oc=5",
+   "data": "2026-11-07T14:00:41+00:00"
+  },
   {
    "titulo": "C&A (CEAB3) dispara 23,82%, enquanto Brava Energia (BRAV3) é a pior ação da semana; veja o que rolou no Ibovespa",
    "fonte": "Money Times",
@@ -35,6 +65,12 @@
    "data": "2026-11-07T13:01:45+00:00"
   },
   {
+   "titulo": "Metodologia de cálculo do teto do consignado INSS considera impacto direto da Selic",
+   "fonte": "JOTA Info",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOWlRMQW84OXVzN3hGWFlTcW40azFxZWprUm9XVGc4NGtuajdZRDlfMC15bXg5ZThCT0pCOTlVUDlnTklmaWRKME14M3puUUFUS1k2TXZZYVd5bzhpMTgwRlN5UG5tekpnZ2RfekVSM2t3ZnEwZmdJNHdxRGc2cWZKRkR4QkhZV3lWRk00bV9yVU1sQkk3OXR6VGlTX2ZxcUM0c0Fmd21mMzkwMWhOaHEtN2daLXJtRFBNQjBEcXphTlY1Z2o0c0NBNXA4c1ZVQQ?oc=5",
+   "data": "2026-11-07T13:01:35+00:00"
+  },
+  {
    "titulo": "Brasil tem maior juro real do mundo, com taxa de 9,05%, aponta ranking",
    "fonte": "Impactto News",
    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQaDFfeUlyV0NTWENmaV9NVXVzTkg0UXVDa01vU3BBSWwta0dELUFudVJaSDNZc2VfX2xxd1hzdFpfeXpXVy1BSzl4Y0hLMHVxVWE3OVlVSXFNa1dmSlJZdG9BVTB5MS1KSzdpVHFhU0JqOEFTaTRGWkE4dDRncFhHbDQxcURKODJXY0ZrdWVVYWQyZVgyWlBoUzBYdzJSUkR0R2I5Q2VjbFVyd2lRc1NKMQ?oc=5",
@@ -47,46 +83,10 @@
    "data": "2026-11-07T12:50:34+00:00"
   },
   {
-   "titulo": "Por que Bradesco, XP e Itaú pioraram as projeções para 2027",
-   "fonte": "TV Sim Brasil",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPdjNWN1d3Sm1tUzFZRTFQSFVTQWFieWdqOFNROVJBZDQza2tCMUlteUtkVHMxQ0RsLWRWc1p3YTMwREdZQlJ2WV9DVXhDU0FrMXZUeE00c1U4RDY3aUE0NzRSX2JvaVI2V0JNcEliU2c4SzNUeEJzTkdnMVAzVldwdkNUcTVLNmFDZUxYczN4Y2FGNHJkTTBNZVJuTzh4c3ZvUlBvVEtGam95SVF4UTU0NEZGaHlNZ1E?oc=5",
-   "data": "2026-11-07T12:43:38+00:00"
-  },
-  {
    "titulo": "Selic mantida em 13,75% pelo Copom trava potencial da bolsa e exige revisão de estratégia para investidores",
    "fonte": "BlockTrends",
    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOQWEyTUZaNS13d1dnYUZRdDNIQ3hobUlhc3pReDZTeVBUNTRlSGpNNGlkemVQOFoxaXhpQllVOUxORnA2a3oxMXdNSGg1WGxha1dobVVMY19YUjdPclJENjZkQlZTY2ZqTFF5WTAxd1VmLVktdlVIS2Q2cDJpU3dzeVNHLU8wUnN0?oc=5",
    "data": "2026-11-07T12:32:13+00:00"
-  },
-  {
-   "titulo": "Luciano Hang mantém confiança em investimentos e negócios no Paraguai",
-   "fonte": "Portal VV8",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOTGQtckdKQnlRWW5ndE5WQ0ZudmZ6SmgzTDg0YW8taVVLRnFESTBTWlU5enl0Vk1fekNOWU9MMEh4YUNaWW1DU2prbmJIZzJuendYcW0yQWlhSXRsc3ZUODNzR3lMdzJOQU1Na2JTY3NPTTVFeEpTZkhrbnVpSTZSZTAyNVFGWEUtOFpsZDVaS0Vwa0ZTcUcxTnhoejE0TDlxNU9KTkdpbTkwM3pi?oc=5",
-   "data": "2026-11-07T12:05:22+00:00"
-  },
-  {
-   "titulo": "Por que o Brasil está atraindo investimentos bilionários em data centers?",
-   "fonte": "Times Brasil | CNBC",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNUhwMVBhSWtPbUJzeGctZDFXSUJzVUNqLWRvMjBDZ1JCQ2JKal9pcThtNU5raWhfOWMtRHc5RUt1bFhZV2c3UWZIbFpDZEtvX0I2NEZqeklSWDFtTGxhRzdvclYwTnRYWDhGcy01VkNVSExqNTVlenNWcjR1b3NFN0xURDh4dmIzYWxHZ0U5SVRSSU1oc28xMG5jZWxNUk53blZxanllV183RjQ?oc=5",
-   "data": "2026-11-07T12:00:00+00:00"
-  },
-  {
-   "titulo": "A Taxa Selic e os Rumos de Lula 4, por Ítalo de Aquino",
-   "fonte": "Jornal GGN",
-   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNdmdxMlZxWlY2UUM2M3YzU2M0dWl1SFhQQ1d6T0RKNVJpeDRzTWxJczFuc3FPMU9UOU9JSVp2Z2U2RnRiTVNxY0lUWjhRa2k3WmtkQmVsUmhBY2Rncl9TcWtRZl9SejZYOFV1R29sWW4tVXZqV0FsT3RwdzBweDZ5NW1YYmdZZnRxM0R0YV9zaHI?oc=5",
-   "data": "2026-11-07T11:34:00+00:00"
-  },
-  {
-   "titulo": "No recado do BTG sobre mudar a meta de inflação, as lições de quem tentou e fracassou",
-   "fonte": "Valor Econômico",
-   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNZ3lBX3VyR0hsRlZVczN2YnJUSnJZYjQzc1VTQ3JCSFdEYTZmSDFfeUxlb2Q4SHFXTkdpMjcySTI1em1VTDJEU25yZVZxM2ZncTFfOTZjRkNxbUVGeEpSS2RRRU5GWkxFMkU3NnRkNkkyQmc3ZllQb2ZtZWthdlZBalJWTXVMbHBkXzBSQWR4amJuelc3V25qV1IwQmZWTjNxazVzSXlIT1ZaaE1EQkJ3Q1FmbUNXWUZRRWxSMGFfOEdvRUlrc1ZtOFBObDNTQzE3S3ZRXzFSMUg5RXd1LWfSAewBQVVfeXFMT0d2ZG5mcmFuNFRNNnlNWmFWZ0s0dlJXMmJWYkRaOThSMm5HZlVnUFNNVGl1RlRaYlhsRnFYem52QkxjV0JHZ1FnRl94dGwyT3NQRVFqcWhQZmZXSWVUZlJEUTFlVjF6YlB4RTV0VllMM01XcHZTWHYxUUNrUjRXS2hxaElIVzhHbWxhV2lrUVdLMW0tQUxHcE9HeTdaSkZmNF82TTRMdzdQWDRDaDBhaXZuRnpXeUN4VVpTNUFEeFgyR1dtV2FzcEhwbS1pdm1zUEhDTzdWaV9nelhDYzBqOWVNa2tiUWFwQk1pR20?oc=5",
-   "data": "2026-11-07T11:02:00+00:00"
-  },
-  {
-   "titulo": "De R$ 5 mil negativos a R$ 12,7 mil positivos: o papel da análise macro na virada",
-   "fonte": "InfoMoney",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNWlQwUTc2ZEFnRTJiMktNSHh0YmJoOThMaDB0WWFGSldtQlRRd2kwdllpSkRobi14MnlPMDhuTkpvdWF4ODlWUXU1VGdYQ1B0S1IyS3JMLU5QVjhPcDhTbjRsbEJ5S016eHRha045LTg3YUZJeU1CR1lST2t5ZEpTZUFPdG8tUGZtWXpPWmo3anBUckZKQnlTOFBMRnQ2RFdPRE5ISFEtTm5iUy1TWUFkQ0Nn0gG3AUFVX3lxTE1vN1hCM050dWNnOExONVZFTUctSloxVXUxbDEzQXdJUFRQeVRGYkZHd05uLU1XdVlkdlRfck5XS1A1LXVvOWZQNnBTUFJCbF9qNjNlUWJrZEpDalU1QWVfakVhVVZ0M29sS1ZFcE1tc250ZEEwWm9sbjVlLVhjTjdEa2w1bURFY1ZVTkk1YTVTeGlCeUNvNmJaaVpST190c3dSd1FMTC1XN2xDUm5vN2cxY1NKQnROcw?oc=5",
-   "data": "2026-11-07T11:00:00+00:00"
   }
  ]
 }
