@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-07T22:39:44+00:00",
+ "atualizado": "2026-11-07T23:38:19+00:00",
  "indicadores": {
   "selic": {
    "valor": 13.75,
@@ -16,6 +16,24 @@
  },
  "cotacoes": {},
  "noticias": [
+  {
+   "titulo": "Roberto Justus denuncia uso de IA com sua imagem para divulgar investimentos: 'Lamentável'",
+   "fonte": "Diário do Nordeste",
+   "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQaXJrZFB6MEVkQ1lzRTlRUXNQZ183VUhlVW1lSGNlZVJieEU5cnhPQUFGNmNacFZXSHlVeUJCM3NTQkUtR3VpZkk3bjVHbXpOb3BzMllOTl93VmR0cXFZTWlhV2tldW1wRUJNQ284X0c0YWthMlZLWndVdjJLbzBjdlExXzVmWVYyb0prZTBiV1g1dEU4clJYRHVtNUtvQVlKREMwZDdRbmhBZTZkU0NzU3hReGNYLVZCZ2ZsX3JuQk1uWng5WnVxM05USF9OUGs0Qm1WNkJVNDlWZmRQNXE5T3dwdHR3aFl1TEY3RDBUMA?oc=5",
+   "data": "2026-11-07T23:10:09+00:00"
+  },
+  {
+   "titulo": "Há grande chance para que ajuste fiscal no Brasil ocorra pela disparada da inflação, diz Ibiuna Investimentos",
+   "fonte": "Valor Econômico",
+   "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOOG1DekNjTllwMEZxd01RZ2lGY0NfNDhraDNNRy1sVHFuNkdDM1hidUQ0RFN4bDcxTUVhekJpOUMyWWtQRDJ4ck5CNWtDUzQ1eHRmZUJqR3lsVVdmMjJoNDFtZEFLQlJTQ1lXdjBxN0JGNmpjQXE5aXZ5bE9GSHRscGIxYmVXZUdUZmwweDBhaFQ2Y2FySlZuZmRvTl9xaVV5ektJREhVVnBzRmJ4YnlGdWZ3RFJmN3VCdzhSd21GV3ktUWFBMC1Fa0tTVDZFU0poUGllZzVBNFBBZUl6czU3SURQNmxIZWp6VVVQcllPLUdzTTBEVjVPWkRR0gGIAkFVX3lxTE4xeldtN1JnTk5JT3duWGNHX1lON1lFcFdqUFRZX05hcnB0WXFRMFI3Z1l4aVFWREh0TUN0YzlSSTlCUTJuRjZKX1RURjkyRklGaS01OGJxSkY1clZGZV9fTktGZnlOdFY2Tlh4YzY5Q3FuczV6bWtleUZfc1pDelJNSERibjlXOEt1SzJUa0g2Zk1BYVZBUHN1UGVRa25xMURhbV9OeHJyb2o4MVZlTXp1T3oyU21aQ1ZtY29lN3A0eF9IcW9MMTNzSmZrcFhMSC1qdlpEczNwWmtST2FmRWQxeTdBeWZabTNQQzRKMnU4THA3VzEyOG1WU3Q5MnZWRkxCekl0Ql9seA?oc=5",
+   "data": "2026-11-07T23:07:29+00:00"
+  },
+  {
+   "titulo": "Dólar fecha no maior nível do ano com emprego forte nos EUA",
+   "fonte": "O Cafezinho",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNSWJzeThZTUZFRFZydXY5VWhXQVhqbWswMWR4ZHYyNzJzX1F5YlB0LWR6RDM5NEp2SGNhQnh2RXJublZUSVdEcmZZNGpHbUg2OEx6a3dlT3E2Qi1CQ0ppalY3MTdUUENQcE5DcmtGY3FkbmVyYjRtNEt2UVROSmtKZnVIMFlWbXQySU5sLTJUNUFLM1FVTjFSQ2ZzM09vNTDSAaQBQVVfeXFMTXNOcmtPU2NGY0RHUm1XdWRtdWpQbERWcVB0dXNiRDJ0WTQxNVlDSlh4V1FLbnhUajBHaXlUS0c4c2c3U2ZzOXV3TEc1d0FrdVIxMndlcWFUNDNPd2tTX2Q5T1BZZDBMNGN4a1lXMWpyWnBVV3ZZWHNwOVZLUWVEZ3l5b1dKR2g2UFVOVGVwNTFQT1lmWnN2ZURrZ1dPV3AwSC1SZFQ?oc=5",
+   "data": "2026-11-07T21:57:00+00:00"
+  },
   {
    "titulo": "Inflação, habitação, emprego e lucros empresariais dominarão a agenda econômica na próxima semana nos EUA",
    "fonte": "Valor Econômico",
@@ -47,6 +65,12 @@
    "data": "2026-11-07T21:19:08+00:00"
   },
   {
+   "titulo": "CSN Mineração salta mais de 13% e lidera ganhos do Ibovespa hoje; veja maiores altas e baixas",
+   "fonte": "Estadão",
+   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQem1tamdfR3htTDMzSmw3UlRrbnNIWWJNVmFQR0Mwa015VHdvS3AtbHdNNG4tVWtnUnViaWNwaG5mX2pkVWl6SkVVQTVWSHNRZFI0ZkJEYk1LS1RKQW1Zd1h1NVNZZ0wyd05sWU5Kd3dwbWstMnp1aW5IY3EzT0k4MWRVbkNrTVpGLWRSYW9VajhVejM0cTlWaFgtN2VlRHhSNnZtTm5CSTRoM2RhZzhnbHJ3V09rWk9mMUdYa3J0bnRJS1lnbXh0X2ZtTmV3d3RYRmVrZUg5N1hYS001MFNMWEtZWQ?oc=5",
+   "data": "2026-11-07T21:08:22+00:00"
+  },
+  {
    "titulo": "Prefeita Elaine Brambilla nomeia próprio cunhado para presidir conselho estratégico de investimentos em Araras, SP",
    "fonte": "Repórter Beto Ribeiro",
    "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNRXYtaTZIQ09KN0gtQVN2N1hyam1FbmVwbEV2ZTR0TjBzeDRqbFJPWlBUX0NIcy11R3BsMUxYbnZLOHFoVUt3T3pCSElWOHdLd2Y1MktJejE0OUlyQjVCWmRZa1dNWnNwcHozemYzNU5yRmVEQ0NJOW1fbFl3bXowckY1bnVDMG42ZDIyZVhDNkl3eVlYcFFkNWE4dVU2d1hIYkZ4VktpY3M3OXRRV3VUYnFkMExQTXN2QXRGZkI0bl9WN3pvUldTQTAydGhQeXVVQ0pKcHphcHVuR2tVRFBVdVNZTQ?oc=5",
@@ -63,30 +87,6 @@
    "fonte": "Times Brasil | CNBC",
    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQY3pjdUw3WXktYVF0NzVGWmpwdVpiX3pMWjduRUUwOUY2R3dsMjY5endQTnJCN09qVnJDTDdraFd5YnZVdlNBYUNUdUxkTzQ3Smp1VURBYmpvM3pBRVRWVlNjdzNhTFEybEJTenVXMmNHaGtYMDd4RG1QLUpMQldTQnMzai1Na1J6Y01qNzVIOWkzNlA1TTF3Z3ktMi1IRm5jVU9feTVjOGp2cDI2VzF0V0dtem5FZw?oc=5",
    "data": "2026-11-07T21:00:00+00:00"
-  },
-  {
-   "titulo": "Achados e perdidos: Os itens mais esquecidos por passageiros do Uber em 2022",
-   "fonte": "Diário da Guanabara",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOdGdFQ3R5S3NNT2pnUGtEaXVzbmI4YmVSTmdVYzNXbkFDc3FCUkpUbWpOa1VIS2hBM01iUF9YVjJOZU1SUjRaVmdnTEhURzRyTVU2VndVdDRrWmc3bks5LWJqV0xyRDl3d2FTNTZDWmtJdGpyNlRYRFhha05KNjVXLXpPdVc5VlJGcldlTURZcW9CdmZDU3R0SDV2OTNjV1lqRFBFMm4wb1MteklmMkE?oc=5",
-   "data": "2026-11-07T20:54:15+00:00"
-  },
-  {
-   "titulo": "Reino Unido submeteu soldados gays a choques elétricos",
-   "fonte": "Diário da Guanabara",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxObmlPNll4aFU0M2g2c0lQVlAwOHJEMVp5aHdIajJhU0xyNHM3TXp6dTBzdmhydkstVUR1UkU1cWh2MjQ1aG5mQmUtSXZFeG8xaXhGV2lyMVdfLUFZaERheWxUU3JIX3JZSmhaRFVNVDd4MnQ3S3lUMW5BdmVURFVLaUh1TEpERjNqLWltenNsV0g5UQ?oc=5",
-   "data": "2026-11-07T20:53:57+00:00"
-  },
-  {
-   "titulo": "\"Procura segue grande, mas novos investimentos aguardarão desenrolar da crise\", diz presidente da Câmara Brasil-Paraguai",
-   "fonte": "GZH",
-   "link": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxQd0E5MmVtSDFwaWk5eWUzcFlaYURwcWIzZ2tCb1VCdTNoaXQyX3pibVp2NmhSUldQQ1lWRl9lbU1hM3hBR2YtZ19BZkdLN2tSSEE4VjJCUWF1R0xjVTRHS19YRjVtSjB3a1Rhc2R5UG4xYmJHSEpsajZUMFVGSHk1c0ZoSzh0RHIyaEo4Q2lQM3MtaFkxM1M5S3I5UTdLVnVnNTFnZUV0c3V5bV95LUVDT0FJS3Q4ZjlINVFvLXlwWXJWSWh3c0owck42ei1GME1RWng3MDVxUjNOXzRxLWp6VVd1eEJ1a2RKVld4SGsydUxrYk5ab3hLNFpacTNobWR2YllFSmtPLUNQeEtRNFVic2hSZWlvdXZTRTRuNFBCeC1LQ0tUNWcyVk1PNm1wU1JqT0xkLVc4ZXB1c3FGbVFiQw?oc=5",
-   "data": "2026-11-07T20:16:25+00:00"
-  },
-  {
-   "titulo": "Pombini II – o retorno: o ‘plano’ de Lara Resende é só repeteco do pombinato",
-   "fonte": "Estadão",
-   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPVFhYVGx4SUZKcVNpTEx5T1ZWaVVKYksxS2dIS1ppMGNqNXBpRWhCOWNCcVgzYWUxdG1GZmtub0RlOHNQZmZ1a2g3WmZockZGWVhsa3VVMHQtb3VYVkR3cUIzcVdtRXNNbU1wMzZEbkNDR2ZvQjNNTzdiSFBTcFFpZDBOemJLUGZFem1MWGtPUmtMTHM1ci04c0hDd2xRRklGZmNTTXVtU1B2cjZrRmVyazdKSEVKR2V5ZldvTEV5enIzVWpoeGdnRDRB0gHPAUFVX3lxTFBtSzZhS1hZMGg3N3Uzc1FUVGNpWHRIWm5fYThyQmtTV1ltdHFobG9NRlpaNWJHZE5yeEdsQzRxMEp6aVBsVFVWVzVIZjV6UW5XbUhKXzFqRTJSSng0TGoyb0h4U2lkMF9tdUpmcmlaNy01aHhZY2hRT0NsX3ZaYTJXUEItWXBZb1hiRmtUa1VEdGliX3RjNy1PY00zU2VnaWNzazJnQzlzSUpMTnc1MW40N01wdEpiVE02N0d1TTFZREozaWNqdGhvLUl3c1ZETQ?oc=5",
-   "data": "2026-11-07T20:00:00+00:00"
   }
  ]
 }
