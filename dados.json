@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-07T18:45:19+00:00",
+ "atualizado": "2026-11-07T19:44:07+00:00",
  "indicadores": {
   "selic": {
    "valor": 13.75,
@@ -17,22 +17,28 @@
  "cotacoes": {},
  "noticias": [
   {
+   "titulo": "8 cartões de crédito que permitem aumentar sua pontuação por gastos ou relacionamento",
+   "fonte": "Melhores Cartões",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE80c25abkxBZ3hzLUVCN01zTDBCdEhRTExpdzd0Z1pRay1hNVdRak10OExBb0RsRTRJODNYT1Zac01BeU9MdUxEVFpOZDVFMjhhNFpqakl4cUw3bzF1MGllOXVtd3R1RlZGTHl3ZmktZUFSMFhYT1B4S2dHODhILWs?oc=5",
+   "data": "2026-11-07T19:00:00+00:00"
+  },
+  {
+   "titulo": "A proposta André Lara: 'Acabar com indexação'",
+   "fonte": "Jornal do Brasil",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNV3I1cHJTOWxjOWVpNzFfY1FPV0pmcGxYQWZKR2xqVFBFbVBKVGpOeTdLdFZKUUE1ODd5THdoMnBTLU5nX19IVVRQbHJKY2ZhQkR4SGZubnEwa3g1OWhVM2gtWjRzLXFXSUNQWHIwZk9qMEI5WDRHM3RRd0szYlZRM3QxNjVjVEJnMHN1TEZwWlE0MHBEdHhZWU0wdUNfVzExQnBNbGhpY0RWa3FE0gGyAUFVX3lxTE1zbGlXY29DQ21Vc2hzX21QSWtTN0txbEpoTHU1TWJNUXVUekJBY1NpN0FldGRnSVJUMmtPTHN1OVdudzc5TnBzQ0tJa0hBMmZ4VXl2Q3Z5OHRiOWhWVGZnSVZocTA5bHNucU5CSlUxSlNWZm4xaTZrSFFWaTlWSzM3S1FsT29VZERSSjAySFYwWTVOMjVDSWlZdmlSYlNzN0xaQUloLTZhWWN5VTl6Mkl6blE?oc=5",
+   "data": "2026-11-07T18:55:00+00:00"
+  },
+  {
    "titulo": "Líder do PT denuncia taxa de juros mantida pelo BC: “é abusiva e criminosa”",
    "fonte": "Hora do Povo",
    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPeTZqNjhZU2M4eENPY3lFZ2JzcXhPQkFRTUFNYlY3UlhkbHZuZXA4T2RYTjA4dUpkYVZhcGRQV2RPSjlDRnI1STNfZXY4RUNYc1RPSGdPcHV4WGFwekpXc216VHQwendCY1FuWklIYkhvSnQ3eTRGOVdoNkNFOWs4RGtVTGM2R0hWZEM4M1psZTN5VU0zemdIRk1jMlZvRWRH?oc=5",
-   "data": "2026-11-07T18:44:16+00:00"
+   "data": "2026-11-07T18:44:56+00:00"
   },
   {
    "titulo": "Justus comunica golpe com uso de sua imagem e voz por IA",
    "fonte": "Poder360",
    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPcFdqN1JzUXVPMWc0VUdCMWtiSHUzWkpMVDVOQVdudm4wX2VVYW1xSW1RTWhjbnF3elBWbF9MMmpRTHhJTXRIcXQ1OS03TU5zaDBxSy16MGFJZGpzWGlNUW96aUh4UHlTNnc2Q1l6VFdISm50N2c1azA2MTR0UEs5NjM5VU5rNXZ5NDZpOUR3ZzNRSmgwMTcw?oc=5",
    "data": "2026-11-07T18:36:51+00:00"
-  },
-  {
-   "titulo": "Dólar sobe e fecha a R$ 5,50 com dados de emprego dos EUA e temor com IA; Ibovespa avança",
-   "fonte": "Expressão Rondônia",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNZTdSNUpUaEJHc3dkdHozVlJISmwtSlFEcXl4Tm5tdjNES0JwdzdPLUR2aXVyaXFiSnJVaEJvSHg4VndueVZnZUR0SVJlejF5MUlvaWkxeDdZZy1yMlhrMnRLN2M3Tm5uS1FuLUFVcmFUM3c2aEI3bkZCNXJhSWdlSVd0M2tWcEJpR0hvV3BhWmpvSFZlWE5vVmNFLVhKUkloTEl4S1B1TjNOQkF0UFZ3ZkJwb1lJSjhZdmJ6bw?oc=5",
-   "data": "2026-11-07T18:18:16+00:00"
   },
   {
    "titulo": "Dólar acumula alta de 10,33% após reeleição de Lula, mas bancos preveem recuperação do real",
@@ -53,15 +59,15 @@
    "data": "2026-11-07T18:00:35+00:00"
   },
   {
-   "titulo": "A dívida é a culpada pelos juros altos? Os números do Banco Central contam uma história mais complexa",
-   "fonte": "Rede Estação Democracia",
-   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNZVU1Slpua0pRU3ZFeGVTTlRDdmtsWkUwZmRYcXNlSXY3YkNPLXgxMHdYWU1CM3UtektfVU5JZzJPTkdBQmdvTFlfdWpoYXM4eU9ncDlFeElOVGJldmdIdWVHcUlxZnVRMVJjNU1CTTdGNjNHUFZNYlBWSEFsZTZkeWNSM1JvWm5la3lLMHFlanMtRXpuX0J4OHdFNWFIaTdFdGlTTnQxZ3NVUzFQSU4tMG9naXpOaEo0U0hrcWxqZWpua1pzMExpOA?oc=5",
-   "data": "2026-11-07T18:00:00+00:00"
-  },
-  {
    "titulo": "Roberto Justus denuncia golpe que usa IA para simular vídeo dele sobre investimentos",
    "fonte": "Terra",
    "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNMlEtekVBckhaYTFYS1c4V2VVamQ1Q3l2c3Jxal9SRXZQZVVwWVdlRHk5Q2JnU1VBbjZqTEFNcVJlV1Q5Rm9CNUpjTG5OYjBDLXI2bGNqUVlpUUlUSndYSlY4VWl0UXdjMnV6V1l1VDBIMXRWZUpOcGZ4MzRpbXhlbUkyS2xHR3RlVnpBd001ekFQZnJ0c05pZlV3eEplREVfNzA0NXBKMTBidUNlODhZVWh1V042eTE5Y3k0UXpwNUQzakZCVkFMQkZtUHloNWlyNGh2V2VyY0ZmaFNTeXFJWndkVlpyMkZ6SnV1X2liR041eTktN3ZoMkJKRmIzY0k?oc=5",
+   "data": "2026-11-07T18:00:18+00:00"
+  },
+  {
+   "titulo": "A dívida é a culpada pelos juros altos? Os números do Banco Central contam uma história mais complexa",
+   "fonte": "Rede Estação Democracia",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNZVU1Slpua0pRU3ZFeGVTTlRDdmtsWkUwZmRYcXNlSXY3YkNPLXgxMHdYWU1CM3UtektfVU5JZzJPTkdBQmdvTFlfdWpoYXM4eU9ncDlFeElOVGJldmdIdWVHcUlxZnVRMVJjNU1CTTdGNjNHUFZNYlBWSEFsZTZkeWNSM1JvWm5la3lLMHFlanMtRXpuX0J4OHdFNWFIaTdFdGlTTnQxZ3NVUzFQSU4tMG9naXpOaEo0U0hrcWxqZWpua1pzMExpOA?oc=5",
    "data": "2026-11-07T18:00:00+00:00"
   },
   {
@@ -81,12 +87,6 @@
    "fonte": "TV Sim Brasil",
    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOa0FDMUZVb210VGo4dWNpWmRxMU9udUFzSTJYai1zZmZfY2JnZGJQanhESHVDaGhSQ3FDLWJnRWZwc004SzAtS0pqSnRsdDFiTEgtVnJZWGNBd3g4bUFUYlI1eVAyaFc4THJJejRENmREYWI0cERtaFdXOVdLaHdfZkhIWTZKelB6NG5HQUVndXRMenFZLWRxdmVNaklCdGFNT0pSSWliOXhmakxVTF95MWltYk9DZkxDY2NNVHJjUQ?oc=5",
    "data": "2026-11-07T17:36:33+00:00"
-  },
-  {
-   "titulo": "Febre por proteínas impulsiona boom de investimentos na saúde animal",
-   "fonte": "O GLOBO",
-   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOVnJHLXNzQmw5MVZ5d3N2V0JwNnZCRkdHajhhUFFrQTEyZTZlRTUzcVNXRnFZS3dJakJTcDFHRVk0Q0U3NC1GbUY5Q3VoeDc4c1g2ZGxwa05xczdoUVpNNEh0Z3BQYnhFWk9QZUNlb0U5TUZUSy13QkhzUlExSjhNaFpYVjBBNnBiTGNhV1M3UHFNamlTZVlmdG1LM2h6WFhSc2l1a0JYTFo3NEhMeXY3VXRhNWt6QkZ6QXQ2LTNzeTUwRXlHMW1Pb3BjbzB0UVg4OFE?oc=5",
-   "data": "2026-11-07T17:09:20+00:00"
   }
  ]
 }
