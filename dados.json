@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-07T09:49:11+00:00",
+ "atualizado": "2026-11-07T10:44:37+00:00",
  "indicadores": {
   "selic": {
    "valor": 13.75,
@@ -16,6 +16,30 @@
  },
  "cotacoes": {},
  "noticias": [
+  {
+   "titulo": "Manutenção da Selic, dólar, balanços do 3T26; veja os destaques da semana",
+   "fonte": "InfoMoney",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNVnNmaGd0V1cwSFBvc182VWpkNTFUUEhVbjNTTGhpbU41QTJaOGx2Ml9SdUpsSmZJUmRfb0pXRWIyUFJYa1p5bnRuUndHRndVUEJiNUZJSERDS1diOXRTbHdXV1RYZ3ZXekZ0d2tsd2NUS1FudFBIRUVHcjEyYUhObnVJNVBPTkc0clpqOFVRblVsWU84dVV1TnlGb3FwRjVSYjc5S2VyUHhlelBlekVlYk1mWjLSAboBQVVfeXFMTzNJWW56ZlF6V1hheE1zb3M1OHdFbUJEMGlHc3o1bmw4NFBETE9CXzZzRi1GLTdpeEp3SlpxaUJURXlOQXpoX2NOYnNTQnhwRjhuMnNSSGxlaG9mcVFvR21vbHZSY3ZERy1EMWg2cE9ndXVZOVk2MzRqNDY3WC1tQlgxWTdwX0tfUV95Ujdsalg0UDJTZ0FxSTAxdy1NQUE2WHhYal9oSUZ0UjhuOW9ySjJ6cFI5NWoxNGVR?oc=5",
+   "data": "2026-11-07T10:39:00+00:00"
+  },
+  {
+   "titulo": "Bolsa em queda, Selic sob pressão e dividendos: o que movimentou os investidores na semana",
+   "fonte": "Estadão",
+   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPREdsVWRPQmw3SmdabU45V1pSZkUzVmt4cGVOMmxRVk1RVFUxQ3JLWUgtZ2pQbDJadl9BUTNNbUhIaGlRRmhpX3NkcDVxbEduaXo0RER5dUpLU1Z4UEt1OUgwT3plZnd5bHp2RXk4ZTNtekxSbzdfa1BDeXJvTXZlYVZmT2JhLVZGTlk2cW8tT3JzR2EyeWNkbU0yQnhpWlhmQTRZS3lIOV9wREFsNVV4QXVhcXlnamxGd0FyTVg4Zk43LXVZZmVHdnBTWklsZlhMMjN1amlobGdhUQ?oc=5",
+   "data": "2026-11-07T10:37:07+00:00"
+  },
+  {
+   "titulo": "Ibovespa, dólar hoje, BPAC11, VALE3, ITUB4, SBSP3, SMFT3 e mais: Giro de Gráficos",
+   "fonte": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQUEtScnpGaEhUUU5GbUxDYTdBS01mMVRRaFFwbzU5OHhHUmZFM3VUYzVFSjJRT3hxTnc5UUVqYzhIVkRwRGI0WlMxd0lwekFjODM3OVd5UzVrWEttNncySGQ1SFpWa0Q0SkVYTmYtZzVfYVJYSzZ6Uzk5MWpaODNyTG9qMERseWk0Z1ZMVGRnWlFqR2ZXVzk2SFEtVms1a0E2QlZhZkdQZWpJRFdNOXlRWkdjd3BTRkhXSVE?oc=5",
+   "data": "2026-11-07T10:23:00+00:00"
+  },
+  {
+   "titulo": "Ibovespa fecha hoje com alta de 1,39%",
+   "fonte": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOZ3ZZNkhTOThEaWpxcDU0Yy1fT2lhX3d4bGZfNlQ4NDNOeEliZGNNclhONk9kMEdiU3ZCQVlHRWhqSUdtc01OQk4zdklqTDhsdkVlRUVNNjNjSE9KMGw0OEFCZ0UzemVnUEFYWnFUWkNmeEZpTFd1WkZvNHU3LUtyNnZjWUlRUQ?oc=5",
+   "data": "2026-11-07T10:15:00+00:00"
+  },
   {
    "titulo": "Opções com Selic e ajuste econômico",
    "fonte": "A Tribuna",
@@ -63,30 +87,6 @@
    "fonte": "CNN Brasil",
    "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPOHRtSkNnY182WDNUcjZrdFdBTXY4NlNRN0Y1bXVJMHNXMklBVUxabndqTlB6RmJXa0U3LVE1UGdabkNYMHZrcHBsZlNWZmN1REZzODJEa2dGTkhoWUlJOEYxVlpzUWxFM0RVSHF4eXpmQkFLbUJQc1FKcjRuT3RDbm5UdURsd1VIUldmRm5NVUFfekZMbWVjeTkxYjd5ZXVhSDNtR3IxSUtnRmU3WVlVb01iNXlfUDdSb2tTNFJQS2t6ZG94V05lbUVzZW00UzFfUWdUUl9UZS04aFhDb3Jj?oc=5",
    "data": "2026-11-07T08:08:53+00:00"
-  },
-  {
-   "titulo": "Etiópia e União Europeia discutem investimentos no setor financeiro e ampliação da cooperação econômica",
-   "fonte": "Diplomacia Business",
-   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNZXFqSkV4MVhwb1dXOGlVMDBHdW9FS1hjdjZhUjB4R0x3TW52Z1czWHp4TDRDX3NWWlRwUGhBLXhlaW5sYll4SWhuaVZHSUdIY3dyaHh3TEwwNEJrQ2Q2dm9Fdm8wMWhMcGstOVhNNXhvMlBZSVRFamxTRUdvNm9yb0RhYnFJMDNDMGFlekZVSlpQQ3RESmlaU3k4MC1ZZ2ZVemFDUlhSa0czMEhna2xRbUhaQjg0Mm9OR0lmMGhNNUVKSXcwV3FtZ2NuN0ppY0NwS0I2VWc0YUhvbzNqRG1r?oc=5",
-   "data": "2026-11-07T08:08:46+00:00"
-  },
-  {
-   "titulo": "Bancos cortam previsão de crescimento do PIB em 2027, com mais juros e inflação",
-   "fonte": "O GLOBO",
-   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPcmRnN1dTbU83Z3FDckVGTTRlNGhsNUlZTy00Y29ZNVJEczZuQ0Ffc09DTzNTQWxhZU1JeUh1Y3pTak5CejY0NE5NMFBvODhKRVB5R04xem5ha05BUmpBWTRfbm44dmJIRjY3ZHBiV1Q1dVFiVWRWT1ZLQlMxdEZEU2JPcW4wekNHRTZTZGxoV2Z2cjVGa1ZNQldaSWQ0R2xBRFVOS3NlM2ctaGRZdUdrdXh3dDZBSWs3dDNTcjV4elBCZUg3OFd4S3JSLUVuUzBkc1Br0gHiAUFVX3lxTE9KbnN3b2dDRERJVXZJVUVCLWdGVTFSdkdpTGwydWEzcFU5ZFMwWi1TQzZxR2ppUUFVNVBrNWtCRTU5LUNZRC1BYmhvVEh0Z3VINDlYS2hPNDBqS1pqbDQycXF2YWt3S19aeVprS3BTVTlQU29pMVg5b0hrSGI4Rlo4RGY3a2lTYVRvNW1ncVk0U0NRMU1ZcVdFMlk4bldOV2JIdkY3VVV5ZDdpN2lSV2lpc0xVdDRZRkc0bnJYWHUzUUsySUpmNWlVclFYMUNtbTc2RkhZUktNN2Z6X1A2SDBud2c?oc=5",
-   "data": "2026-11-07T07:00:01+00:00"
-  },
-  {
-   "titulo": "A Semana na Renda Fixa (02/11/26 a 06/11/26)",
-   "fonte": "XP Investimentos",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNQXgwQXlpTVh4NW9IUjRJZ0xzbS1qcVk0M1lrd2ZEekIzU2JLSHBDOFl3YjNQcnRLRUZPSVJZbUd2dVBjem9xXzgzbjVtWk1JMl9BUld6d1AyTGpxVGpLazdQTmN0MHNGMWNhNGdhMk5sX29KY2otZGdpZjhJWjVUY3RKa19WSHRLdzQ4UE1HdXV0SHFDSk5KbnpB?oc=5",
-   "data": "2026-11-07T05:26:15+00:00"
-  },
-  {
-   "titulo": "XP reduz projeção do PIB 2027 para 0,3%; dólar a R$ 5,50",
-   "fonte": "Acia Araçatuba",
-   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1ic1RBUTgtcUg2ODdvOGJ6enpFUXpRUkhBYWV6czlvbkNDSm5JQTRtdGQ3cm1NU3hmRFMwN0Z4Y2Y0eGtCU192QmtZdGhsNWJ5Vy11d0lhNE1GR0hWVTVTYWRKWm5rZ0RTMTExUXZkaGk?oc=5",
-   "data": "2026-11-07T05:05:26+00:00"
   }
  ]
 }
