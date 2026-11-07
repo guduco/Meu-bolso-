@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-07T08:53:14+00:00",
+ "atualizado": "2026-11-07T09:49:11+00:00",
  "indicadores": {
   "selic": {
    "valor": 13.75,
@@ -17,9 +17,33 @@
  "cotacoes": {},
  "noticias": [
   {
-   "titulo": "Autonomia financeira feminina: mulheres avançam na Bolsa, mas enfrentam barreiras",
+   "titulo": "Opções com Selic e ajuste econômico",
+   "fonte": "A Tribuna",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPV2NFd1Q1d0RfQlNjem1taVJ1TlFTSHQ2cVJzdVNITTNjclo2NksyMndQTWVPa0VkbUNrY0h5UElHNVRpQVFVeXBHQ2NCZUl3OVFiYkZPYk5FX3hNZWhYeVBuU0gwYzZMWWljaF9iYnY1Q1RyRno2SGwtaHdsdVpkajByTXY5Z09uR1VGVFIwYnBOd1BmdzdaUjI5RQ?oc=5",
+   "data": "2026-11-07T09:41:00+00:00"
+  },
+  {
+   "titulo": "Brasil mantém liderança mundial em juros reais, com taxa de 9,05%",
+   "fonte": "Opinião em Pauta",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPWEp5b1dsN3pJWUJwSG9wUkdWSHVta29pYzdmV2dsZnhnYXdpUkRDaUxYSWRSRm5xMmJaN01BQXhjdW9ZRU9wTXlVWTZwVm1sY3FBVjlpOXZJRk9uZ2pGZWxMWVNXN0YzZExLQUJSWTF0cnpOVzZhcDZIRUJMSEI4T2NFeVkyaHF6VHZXaTJ3cF9XMUo5SDV3Qg?oc=5",
+   "data": "2026-11-07T09:18:00+00:00"
+  },
+  {
+   "titulo": "Wall Street perde US$ 3 tri em ações de IA, mas Ibovespa sobe 1,39%",
+   "fonte": "TV Sim Brasil",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQeEZ4YWl1SE5UbkJfeXBKQVowWWFCSVlxQVlDZHYwa3VUTzgtQlFySDVIU3ozTFpmM0QtVEpFeFNGMXdGbHBhSnlPYm1zcnM5dWhhZWFlbFVKR2ZXUzRZaWl1cUJHQkEwc1RGUmpYeHFsOHB0S05lb2pNV2lPUUw4LVMxRE1xaHFQN1VRbkpNdmhKQmxXTEFaMGZrSVRmR1RMX2oyVE1hbVI1bUJP?oc=5",
+   "data": "2026-11-07T09:12:09+00:00"
+  },
+  {
+   "titulo": "ASA, de Alberto Safra, chega a Recife de olho no mercado de investimentos do NE",
+   "fonte": "Movimento Econômico",
+   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPd1k2UnA5RjQ5NUU2TmhWeVlGemlDdXNXbnNhLW5YbC0wZmo3R1o1cUR5SGhuemJwTWJicHZOLXVWaDRaQ01GR3F0cVNENndzQ0tVUDZBcnJJaWxZaDl2S29VLXU3TVNpYno4NmRHQXJPaG1kVEpkcU9maUtJOUZMcm1RX19nbGdQNHFEMXhQbmo5cVlDUG1wVlVlT2FiNE1Pelk4N2JsY2VKMENqbWxMUlZHX1V2c0Q4T2NxUUZtdy1XejRFY18tTkJjSmhzY2dNbWxZLWFZZndJTHFvOWcxRW96QU16UQ?oc=5",
+   "data": "2026-11-07T09:00:00+00:00"
+  },
+  {
+   "titulo": "Mais mulheres investem no Brasil. Isso já significa mais autonomia financeira?",
    "fonte": "Estadão",
-   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOY0VwaC1kaG5xeC1aWlRUUElQa29EWmlDaHZTS3ItN1BpY3hQUkVPS2FUX2hLS2lSc1N5UEJPUWVLZ0dhQU9MMTgtZG1OLXd2R0FfMHZsZGxkQWhza19sc1RQTm5VdUFKVERGcFlBZnMzWVB3ZzlKanJaZFVVNGJoN3pOV1ZVWmxMWXYzcjA2UkthT3RsX29QZ3FIaHRveTVxTEplaGpvdlFOR1JYcnRuV1hiajA1cm42TWJlS1hBNGtySWNITmJ0QVBSSUZpc2M?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOY0VwaC1kaG5xeC1aWlRUUElQa29EWmlDaHZTS3ItN1BpY3hQUkVPS2FUX2hLS2lSc1N5UEJPUWVLZ0dhQU9MMTgtZG1OLXd2R0FfMHZsZGxkQWhza19sc1RQTm5VdUFKVERGcFlBZnMzWVB3ZzlKanJaZFVVNGJoN3pOV1ZVWmxMWXYzcjA2UkthT3RsX29QZ3FIaHRveTVxTEplaGpvdlFOR1JYcnRuV1hiajA1cm42TWJlS1hBNGtySWNITmJ0QVBSSUZpc2PSAdQBQVVfeXFMUDlVNXA3cjBRcE5mY3R6bW9oZzB4V3FGdHRuYVpmMXE4eWNVU0dGRjgtX3JidTRqN2lybUl6REpTV3ZyVDF6Q0RkU0ZmSVVrU056STJTd2k2R290UUppc1laMFBSQUpGMGxpdnB1WXJtd0JuaHdpclAtYm1xeXdpN3R2S0FEel9hRV9fa3ZPZG1GOVRxd1hkSTJuZ24tTk9MZHlpeDY4ZHRuckl6VmIwVUtRYXFKS3luN0pNSXN2T09IaE9XWUk0ZzJrTGd6dkZBbHFvMWo?oc=5",
    "data": "2026-11-07T08:30:00+00:00"
   },
   {
@@ -53,40 +77,16 @@
    "data": "2026-11-07T07:00:01+00:00"
   },
   {
+   "titulo": "A Semana na Renda Fixa (02/11/26 a 06/11/26)",
+   "fonte": "XP Investimentos",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNQXgwQXlpTVh4NW9IUjRJZ0xzbS1qcVk0M1lrd2ZEekIzU2JLSHBDOFl3YjNQcnRLRUZPSVJZbUd2dVBjem9xXzgzbjVtWk1JMl9BUld6d1AyTGpxVGpLazdQTmN0MHNGMWNhNGdhMk5sX29KY2otZGdpZjhJWjVUY3RKa19WSHRLdzQ4UE1HdXV0SHFDSk5KbnpB?oc=5",
+   "data": "2026-11-07T05:26:15+00:00"
+  },
+  {
    "titulo": "XP reduz projeção do PIB 2027 para 0,3%; dólar a R$ 5,50",
    "fonte": "Acia Araçatuba",
    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1ic1RBUTgtcUg2ODdvOGJ6enpFUXpRUkhBYWV6czlvbkNDSm5JQTRtdGQ3cm1NU3hmRFMwN0Z4Y2Y0eGtCU192QmtZdGhsNWJ5Vy11d0lhNE1GR0hWVTVTYWRKWm5rZ0RTMTExUXZkaGk?oc=5",
    "data": "2026-11-07T05:05:26+00:00"
-  },
-  {
-   "titulo": "Payroll forte nos EUA pressiona Fed e ameaça cortes na Selic",
-   "fonte": "Acia Araçatuba",
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNV2c3TTl5WGh5NUlvVWZLY1RxTVhYVVNEQlZQRWVobDBnaVMtWVdacnVtVnZWWGF0NG1VeGUtTURlWlRIRjlDSjdpcmduejUzYlRjS2FsTndWTzFwZnNTeFBVQmt2My1nVXU1V1BWU1JXY1p1MF90bHVRWlBTX1NpVm9JU01HOG5O?oc=5",
-   "data": "2026-11-07T05:05:10+00:00"
-  },
-  {
-   "titulo": "A Semana na Renda Fixa (02/11/26 a 06/11/26)",
-   "fonte": "XP Investimentos",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNQXgwQXlpTVh4NW9IUjRJZ0xzbS1qcVk0M1lrd2ZEekIzU2JLSHBDOFl3YjNQcnRLRUZPSVJZbUd2dVBjem9xXzgzbjVtWk1JMl9BUld6d1AyTGpxVGpLazdQTmN0MHNGMWNhNGdhMk5sX29KY2otZGdpZjhJWjVUY3RKa19WSHRLdzQ4UE1HdXV0SHFDSk5KbnpB?oc=5",
-   "data": "2026-11-07T04:05:35+00:00"
-  },
-  {
-   "titulo": "Ibovespa sobe 1,39% e fecha semana positiva; dólar vai a R$ 5,50",
-   "fonte": "Vero Notícias",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOTlZ0R3dpNlcxWVA0ZjROdG1zSzd6QTVOQ0JCOHZreHVFSkVmVnJ0YVRHYjNhcXBpM3JiMktZOGRPQU1vU2NHb1FsREpscVRmelBUX2FjVmZwWHFPUGRlTUtzLWljQlZHcWdSTVBZOFRCLWUxLXZCOEVPQWRDZjJ1QmZjdnp2bXFna2JRSlM5U1NRaVJ1U2lNdTFn?oc=5",
-   "data": "2026-11-07T04:00:00+00:00"
-  },
-  {
-   "titulo": "Presidente do SINDLEITE-RN destaca recorde de produção e investimentos no setor lácteo em entrevista ao ‘Fala, Indústria!’ – FIERN",
-   "fonte": "FIERN",
-   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOd1VYWWhzekpwQ2NlVHo2RW1PUzdkVmdtWm5oaVlzY1ZEdHB3ejlzSG5hZWJ5WDd6Qjc1NlRsdDJEWVBCakRKdXdHak5leklyMGduREo3NVVMN0pQWHZoME00MmR6M2QwRjR0SVZuNktiV3ZzbmdBSW5hSFN5eFh4MHppZ210UjhILWtZcTl1cWRNMUpDWFZJVEt2bHQxTW9YNXFDYkVObVVGX2pEenBYR2VpWTF3WFZTLXNpR0FfOFNDS1cxZUNLTVFlQnZ5MV9TckFXWk1QVUhoZE1YRUE?oc=5",
-   "data": "2026-11-07T03:17:02+00:00"
-  },
-  {
-   "titulo": "Dólar fecha em alta, a R$ 5,50; Ibovespa avança mais de 1% com Vale e Itaú",
-   "fonte": "UOL Economia",
-   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQWERBMzNlSDMzTzZxOThKSHhDcWg2ZFlUeG5OZnkwT1BTZWNZbWZuTFdLYUdTUURGSTNFOTk1WEoxQUJ0akhFSVhYN2RSWUg2d09QajUxNXFtaktucGctSENIb0dPakNXM1ZRMXJmQm1uTEE0bGt3VnR5aUFjaXRvV0pQcHNyVlNnai1LejZFTHpDS0dYSXJCWUMxUEE5TVNGTGdxM1Y5OWZwS0dXWEJrSnhUUVBBaUwyQ1l0SG4tQjJ5WkdkWTdhZVdjR2ZkNHFWal9jd0V3?oc=5",
-   "data": "2026-11-07T02:07:20+00:00"
   }
  ]
 }
