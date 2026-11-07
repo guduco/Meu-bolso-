@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-07T08:01:35+00:00",
+ "atualizado": "2026-11-07T08:53:14+00:00",
  "indicadores": {
   "selic": {
    "valor": 13.75,
@@ -16,6 +16,36 @@
  },
  "cotacoes": {},
  "noticias": [
+  {
+   "titulo": "Autonomia financeira feminina: mulheres avançam na Bolsa, mas enfrentam barreiras",
+   "fonte": "Estadão",
+   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOY0VwaC1kaG5xeC1aWlRUUElQa29EWmlDaHZTS3ItN1BpY3hQUkVPS2FUX2hLS2lSc1N5UEJPUWVLZ0dhQU9MMTgtZG1OLXd2R0FfMHZsZGxkQWhza19sc1RQTm5VdUFKVERGcFlBZnMzWVB3ZzlKanJaZFVVNGJoN3pOV1ZVWmxMWXYzcjA2UkthT3RsX29QZ3FIaHRveTVxTEplaGpvdlFOR1JYcnRuV1hiajA1cm42TWJlS1hBNGtySWNITmJ0QVBSSUZpc2M?oc=5",
+   "data": "2026-11-07T08:30:00+00:00"
+  },
+  {
+   "titulo": "Taxa de condomínio dispara em SP e muda a conta na hora de escolher um imóvel",
+   "fonte": "Estadão",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQVDJScEpYTFQ0TVVSY1BCOW9fclJFWk9fbVYzUFJtbWNfM29PSUNmVUY1NDBtNndhSUhDZkVYNHIzcDJZek1JTDJncUsyN25tVXlxYkx4MnpBU2U2OGxsM1VEczRSVW1jQ29qWmtYeXFidnVOcmdXVndlTjFCY2ozQ01reVZWUEdoZ3JDUWl0cy1SbV9xUkRHRFFUMmVFNjgtSGw3cXNaVXA5MnpxbHlmZmltc0R3TjdUczU1LXNiWkPSAcYBQVVfeXFMTkRCcm9qUG9YbXdNOS1OcFdXZ3V1WTg0ZlRRSS1uYVNza0l4TFZBbHg1Y0wzUkRsUnJ3R1JwSVVZQzBPczcwX1IxeGZLU3cydjVpQTlzenhWYnB3TUV6UHJ4OEhFUjN2Q1JaYlBncnJpNkhzblBvZWtaRTlOd3VHMXZlZkVIcjJKX1dfSHhNWEdvWW5LQXhoNEFpWDB0SGFRd3ZjS2hBYXlvWjFIU3g3NzliR3FyQnVUSUlSZ21Rd3piakpLd01B?oc=5",
+   "data": "2026-11-07T08:30:00+00:00"
+  },
+  {
+   "titulo": "Pesquisa CNT de Rodovias 2026 aponta melhora na qualidade da malha, mas conservação ainda exige investimentos",
+   "fonte": "Confederação Nacional do Transporte - CNT",
+   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPcjdVaWxwWjhKeDMtMzR4b1pTbE12RDJHeHhxdTVFcjZnak5LRkR3UnpxeXZQaGRteTlNVVl3UFRLRGswcUxPV1FPWWx2REVQOUhNUkhsNVVmVGM1NGU4NnhyWjk5aVdzR0hUNHBDTV9kTHVMMk45elpZdkh3Y2xBSVNjd3AwZHZaR2ppWFl5d2RSR3VzaXRxZm4tQ0EzMDlMUkdKWXJpSVhveVo2Z0FyMjZGSW9CU2JwZnhkdkZqZHBNYS02MDZZdU9MVXJmUWFqdDU4aDNR?oc=5",
+   "data": "2026-11-07T08:29:03+00:00"
+  },
+  {
+   "titulo": "Com ajuste fiscal limitado, mercado vê indicações ao BC como próximo risco",
+   "fonte": "CNN Brasil",
+   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPOHRtSkNnY182WDNUcjZrdFdBTXY4NlNRN0Y1bXVJMHNXMklBVUxabndqTlB6RmJXa0U3LVE1UGdabkNYMHZrcHBsZlNWZmN1REZzODJEa2dGTkhoWUlJOEYxVlpzUWxFM0RVSHF4eXpmQkFLbUJQc1FKcjRuT3RDbm5UdURsd1VIUldmRm5NVUFfekZMbWVjeTkxYjd5ZXVhSDNtR3IxSUtnRmU3WVlVb01iNXlfUDdSb2tTNFJQS2t6ZG94V05lbUVzZW00UzFfUWdUUl9UZS04aFhDb3Jj?oc=5",
+   "data": "2026-11-07T08:08:53+00:00"
+  },
+  {
+   "titulo": "Etiópia e União Europeia discutem investimentos no setor financeiro e ampliação da cooperação econômica",
+   "fonte": "Diplomacia Business",
+   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNZXFqSkV4MVhwb1dXOGlVMDBHdW9FS1hjdjZhUjB4R0x3TW52Z1czWHp4TDRDX3NWWlRwUGhBLXhlaW5sYll4SWhuaVZHSUdIY3dyaHh3TEwwNEJrQ2Q2dm9Fdm8wMWhMcGstOVhNNXhvMlBZSVRFamxTRUdvNm9yb0RhYnFJMDNDMGFlekZVSlpQQ3RESmlaU3k4MC1ZZ2ZVemFDUlhSa0czMEhna2xRbUhaQjg0Mm9OR0lmMGhNNUVKSXcwV3FtZ2NuN0ppY0NwS0I2VWc0YUhvbzNqRG1r?oc=5",
+   "data": "2026-11-07T08:08:46+00:00"
+  },
   {
    "titulo": "Bancos cortam previsão de crescimento do PIB em 2027, com mais juros e inflação",
    "fonte": "O GLOBO",
@@ -53,40 +83,10 @@
    "data": "2026-11-07T03:17:02+00:00"
   },
   {
-   "titulo": "Pesquisa CNT de Rodovias 2026 aponta melhora na qualidade da malha, mas conservação ainda exige investimentos",
-   "fonte": "Confederação Nacional do Transporte - CNT",
-   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPcjdVaWxwWjhKeDMtMzR4b1pTbE12RDJHeHhxdTVFcjZnak5LRkR3UnpxeXZQaGRteTlNVVl3UFRLRGswcUxPV1FPWWx2REVQOUhNUkhsNVVmVGM1NGU4NnhyWjk5aVdzR0hUNHBDTV9kTHVMMk45elpZdkh3Y2xBSVNjd3AwZHZaR2ppWFl5d2RSR3VzaXRxZm4tQ0EzMDlMUkdKWXJpSVhveVo2Z0FyMjZGSW9CU2JwZnhkdkZqZHBNYS02MDZZdU9MVXJmUWFqdDU4aDNR?oc=5",
-   "data": "2026-11-07T02:29:03+00:00"
-  },
-  {
    "titulo": "Dólar fecha em alta, a R$ 5,50; Ibovespa avança mais de 1% com Vale e Itaú",
    "fonte": "UOL Economia",
    "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQWERBMzNlSDMzTzZxOThKSHhDcWg2ZFlUeG5OZnkwT1BTZWNZbWZuTFdLYUdTUURGSTNFOTk1WEoxQUJ0akhFSVhYN2RSWUg2d09QajUxNXFtaktucGctSENIb0dPakNXM1ZRMXJmQm1uTEE0bGt3VnR5aUFjaXRvV0pQcHNyVlNnai1LejZFTHpDS0dYSXJCWUMxUEE5TVNGTGdxM1Y5OWZwS0dXWEJrSnhUUVBBaUwyQ1l0SG4tQjJ5WkdkWTdhZVdjR2ZkNHFWal9jd0V3?oc=5",
    "data": "2026-11-07T02:07:20+00:00"
-  },
-  {
-   "titulo": "Esquenta do Copom | Reação ao cenário de inflação mais desfavorável: vemos agora uma pausa para avaliação",
-   "fonte": "XP Investimentos",
-   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQYWp4LWtJeXQ1VTV5Z2czaWVUNDFTdF9YYXBTTlRRRFQ2OVpvRnptWTNENzh0V1lDblBYWUZTUzcxWmYxSU9hNVJoREY0WUVoeFhHMFlMZ3NKRzE4OWltdVV0MlFfZzZmVzZRcTRNZGhjbDgzM1RwSjZOLWgxVDN5czVHVE9aY045OWhHWDdnTWtHS013OWFzT0xWcktVN3ZuY1hKdUYwRTM1NnJSX1ZRUHAtbnV0a0VKdmh2Vnp6c0U2RWltdVNJdjdjeFRMQk9TNUNzZFFfb2s?oc=5",
-   "data": "2026-11-07T01:42:39+00:00"
-  },
-  {
-   "titulo": "Ibovespa sobe impulsionado por bolsas globais",
-   "fonte": "Brasil 247",
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNbENtbVlUM2Y4SUtTWThvd1RXZUw0ZUZGanJfOWozUnJGb1FDa3dPU2ZLQ1o3cXdNcnRadFAtYXk0cHBDN0tCSllUMnlMUXhTMi1hQTA1SC1iQVMwZWFnTDV3RFBpUUk3WlJOLUx5UDlSZTRRck9MaXR1bHdJUFliVldkUWFfMjNP?oc=5",
-   "data": "2026-11-07T01:41:00+00:00"
-  },
-  {
-   "titulo": "Por que o dólar subiu 4,5 vezes mais que a Bolsa na semana",
-   "fonte": "TV Sim Brasil",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQaEduNHNOXy1iejhOZ3BleVcyd3ZqWXR6dDMzaGVxNmh0cGlqSGhfY2Z1c012OGxsQmVKSDF1Z2oyc1pqZEd6UzZBTUktdkwzR1ZsVHJxVnpfWFpRemdKemVjbENHeHl0a3hyREd3R0N4Wk9Xd040ajJKaG1rMk9KTTlQcTMxZ3ctQVhUVWsxQ2RCRWI3XzlfZm9ZVTBwa3JyQk5sMjZR?oc=5",
-   "data": "2026-11-07T01:33:00+00:00"
-  },
-  {
-   "titulo": "TCE-ES alerta 75 prefeituras capixabas por investimentos insuficientes em Saúde e Educação",
-   "fonte": "Grafitti News",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNd0dzc1JHUnhKQ2gySEw5M0Y5R1EyYzdBc2RkbVJBVEsyV3J6NEM2OU84MTB3cmpPNHdPZU5IZE1KYVIzdHBlckFwa0lkS2RLaXZCQXJ0SmU3QTVtQWFFYkxHS1pIdkpLbnJIM0g5aHVWZVJnMjBaUDEySFhtNWxzR1ZXSnljSmh3OU9nb2RfSWQ2YV8zUnZVc0Q0QnBBOS1pMEIwZDFtemJPUjNWX2lxb19iQmRXVUJKVlBn?oc=5",
-   "data": "2026-11-07T01:01:00+00:00"
   }
  ]
 }
