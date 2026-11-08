@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-08T12:51:48+00:00",
+ "atualizado": "2026-11-08T13:51:40+00:00",
  "indicadores": {
   "selic": {
    "valor": 13.75,
@@ -16,6 +16,48 @@
  },
  "cotacoes": {},
  "noticias": [
+  {
+   "titulo": "Por que o ceticismo predomina no mercado financeiro após discurso de Lula",
+   "fonte": "Diário do Estado",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQaC0zanBkczc4X2RGbVRkdWQzQjlJeU5xOTR3WThKX1pJWk1iOTZrWE5KaFI0OU1hYTNQVXJCR3BGR0lHZ0VHUWN1OGd2Ulg2MHpoNjlGT09QcUJ3YkJVSWc0SHBDeGJLUVNpVi00SU5Fa1lERW5vclZjNEFXOW5jZzlNMGhYakxpekV0Vm9zMmRxbjhCVS1rM1NDcE1LZzA1cE9xZXhIWElSUQ?oc=5",
+   "data": "2026-11-08T13:46:21+00:00"
+  },
+  {
+   "titulo": "Brasil entra em 2027 sob a ameaça de juros altos e crescimento quase estagnado",
+   "fonte": "Tribuna da Internet",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOVGxVRmVXZS1sU0ROazVYeTFaY05wMGxDanhld3didXZBaFNlMTVkM0JpRFhEamNZdmYtQXNYdDdRWnA1VVlBY2xyRUZNaXhscXNLSXo0UUZyNGFKWnU5LXNQemNiVVpCckRYUGkwZjFUbFZIallsa1BpMjZ2bGNPRmd2VER5M3ppLTdrUjBHNU1iekRHNjNxRUxaUUlhUklVZDh2Z3VHNDQ0S2w5SU44dklSUUhxcThFMUt6T2RGYUc?oc=5",
+   "data": "2026-11-08T13:03:16+00:00"
+  },
+  {
+   "titulo": "Juros em alta em países ricos dificultam queda da Selic",
+   "fonte": "Poder360",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOUmEtRWVBYjRVaHFjZHZlX2RCYlpabHUwMWFGSi10TnZwZVdJY3dzRno4b0V5dGJoMU0xYUxKQjJEeDZTLVJTV05wc3QzZUtGTDlTUUhLUkl5YTlING5QdkFQWm1CTE1XaXlVVU1ibDcyTjVyMlQtaHlDdFRWMW51WkpMUHN1TmUtdDhwbWJibnMxVmhUa0JSaWE5X3ZlMlg4?oc=5",
+   "data": "2026-11-08T13:02:36+00:00"
+  },
+  {
+   "titulo": "Selic fica no patamar inicial de Lula 3 e dívida sobe",
+   "fonte": "Poder360",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQQ0gtQmRZZVdhOGx5Z1c1OGI1eDZPdW1tU0JCTDRxZlNJMzUybGpnRERpb3FSLVdjbWQ0bjVzMl9nWHp5RjN3VDR3NlVMbzc3eXVJWWd6Z3RlRjJMLVpMN0FPZFFSUmtoVGM0SkpfYUxJSHRHSlprYzR3VDY4WUVIbXVDUjBENkViZXdFcEQ0S2hIbU55X0pTTDBXUnZ2UQ?oc=5",
+   "data": "2026-11-08T13:02:27+00:00"
+  },
+  {
+   "titulo": "\"Como transformar cenários macroeconômicos em decisões financeiras e geração de valor\" - Por Fabiano Mapurunga",
+   "fonte": "Blog do Eliomar",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQQ0ZXdmFKcnN5M3dHUjZKVUpPaGxzTThjNmpaSC1PdkFmaTU3YVc4NHAyMmk4MWtFYWhFdUFXdXM5MXlubF9DQmpGaTBYUXNyaVltRkdNS080T3c5akRaNE9taHNJUTg0bU5FY1RYSUZTa0NLbnR2Y3RfMGZLdU1WOV9vb3ZmdVJpelQ1TmpuTnZTQmF1UTRqWExKaFRiYXNPbHRLcWxURFhlSUVMUDM2Y1VERUxjMEhETDNYRDAtVmJXd2F1YTh4R2RsU3lsUQ?oc=5",
+   "data": "2026-11-08T13:00:34+00:00"
+  },
+  {
+   "titulo": "A parcimônia nos investimentos do family office dos fundadores da 3G Capital",
+   "fonte": "O GLOBO",
+   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNUV9qQnBvajktaFlvb2tmbmphdTAySEw0VjktV3JnVzJWMVJjRWVhMTZvX2JSa1Y5a3UwcWZjZThNcXhYX1ZJamhiUkJ5YnNUTlhKY1NpZ0JSbHRiYmxPRDNZdk9Bc1FOVVNFeDJvMzNWVzVUSXRfOUVXcHFsOWpkdV81WFBNUW1PdE9fUVlSOXltWUV3ejIxVzIweWNydEY2czZoVTZrVnZROUNGM2o4UXV2RkhJUHRDYUJ2cXotdVJxSkxvZ2pOT21DQVhmRmM0M2pkWThn0gHkAUFVX3lxTFBKTEE4Wmo1Ykl6OVY3ZUNORWhrajJNTkhTZHp6VWwtUVhMOHBnQVNIamt2VWtEaEpFWUdFT05qZFBpT05rN2JKbWZNV2dfY0l1V09ZcXJqWXd3OGJGdHdxdHdiUGFpaVlvcDR3WGhqVXFEbVpyVHVvUzk3Y2N6MTBiWWVPcWY0WlVLSkZwdWhQbTJQOGt3anN5NXNUNkc3QVg5WC1SZ1dZbnZGN3NPMU1ET0NGeVhLelBsU3RhZ2JUQ0N2N3hQZm9uRGtaanZraTFUTHJIUE1SVFZMaTlma0MzYlZiVg?oc=5",
+   "data": "2026-11-08T13:00:00+00:00"
+  },
+  {
+   "titulo": "C&A dispara 23%, mas Brava Energia desaba 15%: veja quem ganhou e quem perdeu no Ibovespa esta semana",
+   "fonte": "Seu Dinheiro",
+   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPOEZpZ055ZG8xSm1NV1lKQlV4UzJWRThkQWY3ZGVKSjlDXzlfZzFJUUNSbG1FUzA1QjM3aEhPbGpLN1Z5OGlwckFxNEFiMTU0VF9pY01CUUs4bG5xQjlLdUU5MUlZM0wwRVZaTFhHeHBhc1NKZ1VuSk91aGlBMlJrbHdfa1liQ3lHcWo0azVhQ1laOVZzbVNMWnFVcHBMT21PeEJlUW9zTTBXb0lBWDRESkhDMWxGaUhrSkhrNTdRa2w3RHhzU3hIczM0eUlEUW9NMWQ0WHZQTXNObmtJOXhEYw?oc=5",
+   "data": "2026-11-08T13:00:00+00:00"
+  },
   {
    "titulo": "Copom, inflação e pronunciamento de Lula movimentam agenda econômica da semana",
    "fonte": "Vero Notícias",
@@ -45,48 +87,6 @@
    "fonte": "Diário 360",
    "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNdjB5d2owWG5IWDBmQjNKOUlmSml0MHVLR2JWRW1QUUZ5clBENkd0aUV5WXRtVXM4azRSRDlIbnlQQnQ2ZkFiMGo1Vkh2cTV5WkJSazhERlI0bXhwVWtQUmFxUWRWY0dkOEc1U25ERDZVUG4tTVJsb1NXNlFQWEpXTThjcVowS3ZjaTB1anNtbUVseEFqV0U5bUxkTldlT29VenlQU0E3OTVDWnB0YW1QNWdoM0gzZTMzS240R1RaVF95RXlfOExtQW9RbFJSTlpnQTJzMA?oc=5",
    "data": "2026-11-08T12:20:00+00:00"
-  },
-  {
-   "titulo": "Roberto Justus alerta sobre golpe com inteligência artificial que usa rosto e voz do apresentador para divulgar falsos investimentos",
-   "fonte": "Gazeta de São Paulo",
-   "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxObklZTlZEWkszR25pMWFBWjgxMko1UVhPRWI0dHQyYkhVZktLTVl0RkdYNDNTTUJWSVBEQnZJQUhNRHVVQlVSSXhvQm9iRFdoTF8tdjllWHRBejZzbWNtT1lhLW90ZkxMYVNwNmM5eGhEeHVPSFcxV2NYRVVHRFFLa3B3STU1TDQydnBWTHl6aWplRFA3Uk5MdjV6ZXdWQmJ3ZFA4MjdpVl9oTjBFRWxqYmhXTi1LNHlUdWd5V2RlOEM0YW9iaUUtRlA3emtaQTk0MmdHcG9PYUw5Rko4aGZzSklKYXUyQm11OHl5czJ0LWdzZFRjSUtOeEhlUkNhalljdGdFQmwxbw?oc=5",
-   "data": "2026-11-08T12:00:00+00:00"
-  },
-  {
-   "titulo": "O Mês na Renda Fixa – Novembro/2026",
-   "fonte": "XP Investimentos",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQMXljbkJfaW9OUThMRGwwVzl3X3RORnRWclE5TGdWRmRKYUZNN1dPZHNEeHB3d09kQXhPZ3dNNE9DcG9GdjFHOGJEcW5STE5pS0ZoWUFWeXh1Vi1MSUxTdVVsejdES2NHWWUydmJmRTI1Z2s0eVRIVl83ZW14VC1VN1dlVU16T2FzS0xQOUtR?oc=5",
-   "data": "2026-11-08T11:54:00+00:00"
-  },
-  {
-   "titulo": "Ata do Copom sai na terça-feira e explica por que a Selic parou em 13,75%",
-   "fonte": "TV Sim Brasil",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPbHM3UEg2WnlPNm1RbGRnSzZsRGVCRE85a2F6QzBYMXVJaXBscUhvU0Z2bk9fZklMb2tnYlRsMFlRbUFVUk9ET0EwblBlVGRsa0lId3R2UFhKVEpqWkVVUlhfVVVlNVNZUEhkel9jV0M2Q2R0UXh3LTBFVk5RNTJYWjV2M0VUeGdwckI2ejdjakVUcnhFM0lCTlRPZDAwdEl5WUkyTDJYcw?oc=5",
-   "data": "2026-11-08T11:53:58+00:00"
-  },
-  {
-   "titulo": "Tier list de clãs em Shibuya dispara preço de reroll e escancara a inflação dos Robux",
-   "fonte": "Rádio Geek",
-   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1ndkFGOGhNamdSSHNJMGN1eHZxS1NUNUF5MmRaU1k0TjF3cnlJM0hsblpyNEZlNXktLXhJMGN6eFdiZkY2eG5vdnJkN3d6TEw2bWUwRWtnRGJLdTBkb3dIc1BzWVZ5ZWRDZmJCaW1zSFA1bUE?oc=5",
-   "data": "2026-11-08T11:26:37+00:00"
-  },
-  {
-   "titulo": "Ranma 1/2, Black Clover e mais: os lançamentos de animes da semana (08/11)",
-   "fonte": "Estadão",
-   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQTXV1Q0ZwczA5U29zS3Z2UkZQVDZoaGMyRHlmZzY2R3d0SVMtVEZMRGdlUFVkbVNmcDVBQjdqRzNIWDBDM2hZMHNURHBEOXdoMVhMN1BnZ2tUVTdfb2dneXNVb2t2d0EzcE4wVks0UzJEU3hwNUlnVFBlU05JZzlPTFpLc2I5OVc3LWF4ZXFMQnRpdzBUNHB4dXR4NERHbmZYSkZxWEp6TzJIX3JqTDdGNWc2dmljbnA1bHRrOXl3ODN1LTlSSXdnTkcxemlkZw?oc=5",
-   "data": "2026-11-08T11:21:02+00:00"
-  },
-  {
-   "titulo": "Epic Games libera dois jogos grátis no celular! Resgate agora no Android (08)",
-   "fonte": "Estadão",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQTWVFbldvc1FtT0xiQjNXbU83bHZtUnBHaUtEamZmMzFRRHhzS3R4REgyRWRtLU52QlNERDR5ZWY4dFFYVGJfaEd1VGtRS3Z6eHpmb0p5U3QxUWJwMDRQWWRocUk0Z2NfcmRWVHZIbDl5bWpSV21rcFhZNGk1ZXBGanpGeG9vZEQ2bWdxN2dwOVdqWmN4YjNBZXA0WmxqTmUtbmN3ZVdxMVg0VVY2aGowSGxfS0RyVWRCXzFtcDdaXzhVWlU?oc=5",
-   "data": "2026-11-08T11:21:02+00:00"
-  },
-  {
-   "titulo": "Ata da reunião do Copom é destaque da semana da agenda do BC",
-   "fonte": "Valor Econômico",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOWUw0Nk5NazRHTlFlcmFHdmthbFhIR2tJWkI5N1hZaDBlcDRTaHg3dFdNcVRyM0U2d2RNaFJzcDF5cnFEcHNYNW9VUEE1YlZmLXVYVmxmSmRRcVFyMjc2QlBreGRlZ2RhbnRQRXlnWXZScmZ2MDdRRGZfSTZHZlhXVG9wQloycGdQLUhfSmttY015bGpTYlROZTdDTVBBUVZPRmFFclZJSmxaeXNfaVpvLUpQaGhGMzdFbnfSAcgBQVVfeXFMTjN5S1ppbnVuOWVBZ3ltRUhpM044MjNvd1BOUm5TV3BpaU1ZR2hWQkNvb0RMbklDZk1RMGp0YmdDSUxRdlZJX3hIMjM5UVlDVDVxU0RYSWVjZEhZVi1TZzhwODQ4VV9HS3BNNTlpT2FQWmRSOUtaT3ZuSWZXTXNHa3VCNGFnckt0b0p1aHFwT0FpX2xpUnIwVVZoNEpfV1Q2UWVUejE5UTdqYlZJU0lUcG9aTG9KMHltUkt0eTlWX2xiemM0UUhHakE?oc=5",
-   "data": "2026-11-08T11:19:56+00:00"
   }
  ]
 }
