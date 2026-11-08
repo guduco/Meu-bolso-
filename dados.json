@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-08T11:41:30+00:00",
+ "atualizado": "2026-11-08T12:51:48+00:00",
  "indicadores": {
   "selic": {
    "valor": 13.75,
@@ -17,6 +17,60 @@
  "cotacoes": {},
  "noticias": [
   {
+   "titulo": "Copom, inflação e pronunciamento de Lula movimentam agenda econômica da semana",
+   "fonte": "Vero Notícias",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOY3JKTXZFWGVYUEp0UDFoN2V4dl9xaURuYVU5MWpSd2lHdHN3azI3TmdiVHl4dkFGLW9yQnpfUTRPYnlRcTZZdDN1SEl3UUI0Vm9RazRMRnZURHI5VUZCX1drYmRsWnZuVlRkbjRjSERDaDdGTG1JVnBRZll4UWk3MFBwT09hWlFNSFpSenlkUWpCbkY5NG5YTFdpQl8wYUpjNW1NTnQ1QUFRb05lU05zM0Z3?oc=5",
+   "data": "2026-11-08T12:45:00+00:00"
+  },
+  {
+   "titulo": "Bolsa fecha em alta de 1,39% e dólar encerra semana cotado a R$ 5,50",
+   "fonte": "Isso É Notícia",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPR2hCdFFmM3psTlZ3MDhtRDdXWi10VWhPUkdiaXhLRXFWZWlzd0sxWUJxc1N1Y0hOU1k4RVN1T1lxaWhsbjVEbzVYVGFnaTRxZXo0UDY2VnNYOGtKYW5peExTc0htVzNHQ2JLcWRxWjhOZlhOZU5nNEpPb29DVWNGVFh2SlZ0N1hpVlU2S0paU3RXSy1tM0I0WUdWRndTUTBPNy04U2VKMGR2RlZZLWF0eGtTVQ?oc=5",
+   "data": "2026-11-08T12:42:00+00:00"
+  },
+  {
+   "titulo": "André Lara Resende vê barulho por nada sobre Selic",
+   "fonte": "Acia Araçatuba",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBOa0FNbGxLTHBVZl9qZGp6ZUxLNWgzLXJZZExtV3pfMG9ybkVtemFzV3VMbjRhRTVla2xjV2ZYNmN3N3RBQUNSWkc0aDdVRWJaRFVSLV8yR21HT2VZYkx4dVBzQUpTdXVuSF9Pd2lDWTNhWXNZRWUwQnZ1bG9tQQ?oc=5",
+   "data": "2026-11-08T12:35:53+00:00"
+  },
+  {
+   "titulo": "Mercado prevê estagflação no Brasil em 2027 e cenário como no governo Dilma",
+   "fonte": "Acia Araçatuba",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQbEgydDlSVldkaE5WaWNqdXJITmtjZER1VkdMZkwxNFU3T1BMNmM3b2hmTjRZNTdNTkh3UDhzc1JUY0FUeDNrdng1c2lZdVJzbm43RWttcFZTT3R3S0JybEZPUWVKQTlHclAyNVdWU1MwZTRVRWY1QjMtSWwteXEtUU9kVXRFZ052aHFJUU5JamtSV0xSR3NQSzVFaS0?oc=5",
+   "data": "2026-11-08T12:35:53+00:00"
+  },
+  {
+   "titulo": "BRADESCO E XP PIORAM PERSPECTIVAS ECONÔMICAS PARA 2027 E PROJETAM INFLAÇÃO ACIMA DE 5% NO GOVERNO LULA",
+   "fonte": "Diário 360",
+   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNdjB5d2owWG5IWDBmQjNKOUlmSml0MHVLR2JWRW1QUUZ5clBENkd0aUV5WXRtVXM4azRSRDlIbnlQQnQ2ZkFiMGo1Vkh2cTV5WkJSazhERlI0bXhwVWtQUmFxUWRWY0dkOEc1U25ERDZVUG4tTVJsb1NXNlFQWEpXTThjcVowS3ZjaTB1anNtbUVseEFqV0U5bUxkTldlT29VenlQU0E3OTVDWnB0YW1QNWdoM0gzZTMzS240R1RaVF95RXlfOExtQW9RbFJSTlpnQTJzMA?oc=5",
+   "data": "2026-11-08T12:20:00+00:00"
+  },
+  {
+   "titulo": "Roberto Justus alerta sobre golpe com inteligência artificial que usa rosto e voz do apresentador para divulgar falsos investimentos",
+   "fonte": "Gazeta de São Paulo",
+   "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxObklZTlZEWkszR25pMWFBWjgxMko1UVhPRWI0dHQyYkhVZktLTVl0RkdYNDNTTUJWSVBEQnZJQUhNRHVVQlVSSXhvQm9iRFdoTF8tdjllWHRBejZzbWNtT1lhLW90ZkxMYVNwNmM5eGhEeHVPSFcxV2NYRVVHRFFLa3B3STU1TDQydnBWTHl6aWplRFA3Uk5MdjV6ZXdWQmJ3ZFA4MjdpVl9oTjBFRWxqYmhXTi1LNHlUdWd5V2RlOEM0YW9iaUUtRlA3emtaQTk0MmdHcG9PYUw5Rko4aGZzSklKYXUyQm11OHl5czJ0LWdzZFRjSUtOeEhlUkNhalljdGdFQmwxbw?oc=5",
+   "data": "2026-11-08T12:00:00+00:00"
+  },
+  {
+   "titulo": "O Mês na Renda Fixa – Novembro/2026",
+   "fonte": "XP Investimentos",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQMXljbkJfaW9OUThMRGwwVzl3X3RORnRWclE5TGdWRmRKYUZNN1dPZHNEeHB3d09kQXhPZ3dNNE9DcG9GdjFHOGJEcW5STE5pS0ZoWUFWeXh1Vi1MSUxTdVVsejdES2NHWWUydmJmRTI1Z2s0eVRIVl83ZW14VC1VN1dlVU16T2FzS0xQOUtR?oc=5",
+   "data": "2026-11-08T11:54:00+00:00"
+  },
+  {
+   "titulo": "Ata do Copom sai na terça-feira e explica por que a Selic parou em 13,75%",
+   "fonte": "TV Sim Brasil",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPbHM3UEg2WnlPNm1RbGRnSzZsRGVCRE85a2F6QzBYMXVJaXBscUhvU0Z2bk9fZklMb2tnYlRsMFlRbUFVUk9ET0EwblBlVGRsa0lId3R2UFhKVEpqWkVVUlhfVVVlNVNZUEhkel9jV0M2Q2R0UXh3LTBFVk5RNTJYWjV2M0VUeGdwckI2ejdjakVUcnhFM0lCTlRPZDAwdEl5WUkyTDJYcw?oc=5",
+   "data": "2026-11-08T11:53:58+00:00"
+  },
+  {
+   "titulo": "Tier list de clãs em Shibuya dispara preço de reroll e escancara a inflação dos Robux",
+   "fonte": "Rádio Geek",
+   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1ndkFGOGhNamdSSHNJMGN1eHZxS1NUNUF5MmRaU1k0TjF3cnlJM0hsblpyNEZlNXktLXhJMGN6eFdiZkY2eG5vdnJkN3d6TEw2bWUwRWtnRGJLdTBkb3dIc1BzWVZ5ZWRDZmJCaW1zSFA1bUE?oc=5",
+   "data": "2026-11-08T11:26:37+00:00"
+  },
+  {
    "titulo": "Ranma 1/2, Black Clover e mais: os lançamentos de animes da semana (08/11)",
    "fonte": "Estadão",
    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQTXV1Q0ZwczA5U29zS3Z2UkZQVDZoaGMyRHlmZzY2R3d0SVMtVEZMRGdlUFVkbVNmcDVBQjdqRzNIWDBDM2hZMHNURHBEOXdoMVhMN1BnZ2tUVTdfb2dneXNVb2t2d0EzcE4wVks0UzJEU3hwNUlnVFBlU05JZzlPTFpLc2I5OVc3LWF4ZXFMQnRpdzBUNHB4dXR4NERHbmZYSkZxWEp6TzJIX3JqTDdGNWc2dmljbnA1bHRrOXl3ODN1LTlSSXdnTkcxemlkZw?oc=5",
@@ -33,60 +87,6 @@
    "fonte": "Valor Econômico",
    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOWUw0Nk5NazRHTlFlcmFHdmthbFhIR2tJWkI5N1hZaDBlcDRTaHg3dFdNcVRyM0U2d2RNaFJzcDF5cnFEcHNYNW9VUEE1YlZmLXVYVmxmSmRRcVFyMjc2QlBreGRlZ2RhbnRQRXlnWXZScmZ2MDdRRGZfSTZHZlhXVG9wQloycGdQLUhfSmttY015bGpTYlROZTdDTVBBUVZPRmFFclZJSmxaeXNfaVpvLUpQaGhGMzdFbnfSAcgBQVVfeXFMTjN5S1ppbnVuOWVBZ3ltRUhpM044MjNvd1BOUm5TV3BpaU1ZR2hWQkNvb0RMbklDZk1RMGp0YmdDSUxRdlZJX3hIMjM5UVlDVDVxU0RYSWVjZEhZVi1TZzhwODQ4VV9HS3BNNTlpT2FQWmRSOUtaT3ZuSWZXTXNHa3VCNGFnckt0b0p1aHFwT0FpX2xpUnIwVVZoNEpfV1Q2UWVUejE5UTdqYlZJU0lUcG9aTG9KMHltUkt0eTlWX2xiemM0UUhHakE?oc=5",
    "data": "2026-11-08T11:19:56+00:00"
-  },
-  {
-   "titulo": "Copom, IPCA e pronunciamento de Lula dividem agenda da semana com nova rodada de inflação nos EUA",
-   "fonte": "Estadão",
-   "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPQXRFZXYzZ3dsZVZMYkgxbmhia0JIbEZsc2plakhyMmtxdzFmY1dtZjB4dzhXWjhsbko5aHN1QlVTcjRUVmwzemJvLUpWZ2tkSXdpc2szd25TMGNvczlSUWNxQlNocXpHMlNtN0ZvXzMtSE1JcmJjODJ2d245ZmlIV1ZlTzVfZ3FXbUkyc3BXT0tqYmJWRXg5ejJnVEtUWnJSZUQwS2lGMWptWndSZkRKdjY4TDREcG9maFg5bWw2YU5tUEprZmtzWF8zODI5NUotOTl5QVdqWVlILV9kdzdLQlBjOVZ3ZWo1bk8tNy0wem5qaDYzblE?oc=5",
-   "data": "2026-11-08T11:07:52+00:00"
-  },
-  {
-   "titulo": "Secretário de Desenvolvimento Agrário fala dos investimentos no setor",
-   "fonte": "G1",
-   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOWXJhcXZfNk5fUS15RkNpeTFHNmFxWDhwLW83Um9jZXk4SHNKM2pnaVN3c3BfQjYxM1d6M0tKbFFxclc2ZlptU1JFa0kxYmQ5N09vSmhZalJ5NlZDcW5mTVMyZTExZDhzcWhMV2EwdjVmTmlDWUpYLTRyYUZTYUQyMjdINGtmRFdqV2xiSnZYRXp1RWZwM0VHSW5ROU0wRmt5VzFKaUF2cU5mVll4YVVsOGI0aXNNZjJuWUJqSWU1MENVSHRFSm5zdzVOdW1zNlRx0gHfAUFVX3lxTE5vY2xfVlpMZy1OZGNmMzlabkhJZTdQUHJOSEZrVDI2Y0xDa3RHV2FqejlnZkZWcS1zTDVtZzBuNUJ4ZUlkZDQ0MFJtSVBpTFVQdGRWVDg2eXlHbTRRM3JEaWxqdGY2a04xMmtFeWN1dVRNT2I0YWM0Z2RoT1FOTU1CTTAzWmozeU51VGJuTHRGd1RYVXNHcm9KSVVCOFpEdFh3Z3ZFQ1ZoZlhsVUJRZXhEVU5jWUpTekEwR3dlQWd6dDFmTm55N2pvWWJXMThRZENQbmZ6OEFVcmV5S0ZXclE?oc=5",
-   "data": "2026-11-08T11:00:02+00:00"
-  },
-  {
-   "titulo": "Modelo de política econômica do PT é muito desequilibrado, avalia Azevedo, da Ibiuna",
-   "fonte": "InfoMoney",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQWWhTVGZlSEJCMU1HRkl0SUJsMl9SdG9uZG96V3RfR3dVTkMxblhKZEFaYkFkQV8yQmlhMkF1RU1OOElsQTBsSnRRaERJbzI0Yy1GdTZ6ZnhnT3Jkbkg2S3pqZzNDNUdYU2djM1NvYnhvYWpkNjl4SUpzMjdIazNUUWh3QXNFdV9UeUNJOVZJV28zQ2lzeENJa1NEM3RIdVUxeTI4SmdfeUpwZjg2RC0wdTRVRkZld0xJN3FYLWd30gHDAUFVX3lxTE5JN2x6LXlucFUyR01NRlFjTW9uYUhhS3lQV3g2cFZsU1V1SUxyeV9QX25RUm12X2h4MFJtd3JFUFJOT0RhTV91N0dfOTRhbHlkN053TzNLSmItQy1tSWFoRUNiR1JxUVBleEt2RUVhSjZCRFhOcGFaSktQOWxybmc1Mm94ZDNrLVFMUGVFb2lObWVsSU1udmZPT1E0ZDRDVjlMWWFzV3dzV0Y2ejhJUnBtTlh0MU1WX2s5RkdCRUUwUmVXQQ?oc=5",
-   "data": "2026-11-08T11:00:00+00:00"
-  },
-  {
-   "titulo": "178 municípios do Piauí têm obras do Novo PAC; só 20% foram concluídas",
-   "fonte": "CidadeVerde.com",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPdk10WWJDdWtkcTVUeGdzTWtRTEx0amtKRjVYMUh0cThUX2ZFQTRUTUFtS00xQXV5Mi1TM3d0YUpFcmE1LUpYUmJVYjlTYjI1RlIxNU1GeGhoWVVxRnZsY3BBblJDeG9yUDBUNjhFRi1yOWUzMWdETHZqRmV3WldTSHlmMVpXMHhPSDZRc3AtdEY4eHNWSnNqZEx0RGN4Y1RhSnM5WGpDSmVtdU0?oc=5",
-   "data": "2026-11-08T11:00:00+00:00"
-  },
-  {
-   "titulo": "Ata do Copom, IPCA e inflação nos EUA marcam a semana de 9 a 13 de novembro",
-   "fonte": "Estadão",
-   "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOQmVEOGFWUnlUSHBYY04wbWluZnB6R3dRYUUzaW9MTm5ubl9SN2p2aDdad1lpYXpJRTh6dU1BbjAwLXB5TXNUMGYweE1iNmZwby1hQmw2WGJNaHlwTW9BZDBGSDhjMWZwb0NzSl95Q2tFNGVGQ1R2WW9mdHFEWTFlaERTSWc0bGg0a2ZSbEl3dUhTRmZCUG5neC0xWnJEZzRkNkJnRmdzMm11dUpZTVNNUkdIUG5aN0VBbS00SjNsVWJFZkw3V0I1Zm9Fam43X2hCZmFjRElQWXdLYjRvaHFoQ25PbThueHlqQksw?oc=5",
-   "data": "2026-11-08T11:00:00+00:00"
-  },
-  {
-   "titulo": "Conflito distributivo e inflação no Brasil",
-   "fonte": "Rede Estação Democracia",
-   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQcHk5eTdGalpVdlN5YnUtd0tjdG5jeUZ0cmtZLUszdklHdG5QUWNKZVFzbnU5c2YxcDh4andYY3NtZWJ4Y0Q3X2FUUlBRS0hjTkN0WUd0WldSc1lqT2Nsckg3bHZvVnVZaUF2dER0alRLcTRQWE9ZckxyRlk5U0c3Mmh6d1VwZkxHQlA5Qg?oc=5",
-   "data": "2026-11-08T11:00:00+00:00"
-  },
-  {
-   "titulo": "Agenda de mercados: IPCA, ata do Copom e inflação nos EUA no foco",
-   "fonte": "Valor Econômico",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPX1BKOTkwdDZfM3JMY2NvNEtOQ044aXNHS1BxeE43WGt6WWRmaU5TbDNfVVNIUGhxMzY0RFFrVHJRdzB6bXMtamIzY2gwZ2VmLTRKVHc4SVV5TUUzLVZ6LWJYTlQxMmVqU2xqOUpOdWIzYlJjSkZqd1FkM0QzcG5QQjlXNE1sN3BzUTd4dC1WOTVzQnN2WkJzSXEwUUFGMGpsYk5lbHpnenQzOVhycUhlOXNJWV9tUVdlYy1qTGJR0gHMAUFVX3lxTFBsVk5XMUVHaDVtMk5HdmlnOEZMN3h4QzVBTkdWeXZtS3RvWkZkdksxQkxKcWNvWHZLMWpheUlrQkZTWC1MUVpsM3JXY1lQeTJVdzdrUlRPWmJwM2FTSnhrTjN5NlN5blFRaFVBall6UDVVTG8yQ0ZIQlI3RnNDdFZWbUhDbF9oUjZaSHo2Mzh0RkFkX09GMVNKNzJuTDZOUng1cDRXRUJWZmNRbzFLZWE4cGo0a1lXdlduSUVRN2tQVGx2V0RMZTlzd2R3Tg?oc=5",
-   "data": "2026-11-08T10:55:00+00:00"
-  },
-  {
-   "titulo": "Mega-Sena sorteia prêmio acumulado de R$ 60 milhões neste domingo (8)",
-   "fonte": "TV KZ",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQR3oyUTVlNlhJd05oVkw1cTdWazc2bGpueGVPTWxLR2tPNTFGMzRpZHdTYldzSXNxbHltM3c2VnBMOWRhMjVTSkZnN01YcUdUT25ldDFkYl9DMnRua1dGWm83OURZX2JBejl1Q1lNTzRhVnpoYS1uaW9iZnVITHpYZ1B3UWJkdGg5ZXZaQjMzQVRNTzlvb3lpSHZrTFdPSFdJUEpkT1dMSEdKZEZqdXVXNmJB?oc=5",
-   "data": "2026-11-08T10:51:00+00:00"
-  },
-  {
-   "titulo": "Veja a cotação do dólar e grãos deste domingo (08)",
-   "fonte": "Correio do Lago",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOalU1dy1pcWVSNDktZzd4TFViNXZkS0hXdWdnZm5xSHNsd0c0RVNzY2xMT0Z1a0wtNHRGQnRqZzlOQVlsTVRJT1F4Wk90UkNuZWZWUU44TmFRemtJS0hBYkxvVjhpTHYzQk1mRVV3YTdvbEVMNkFHNHJwY05abTBfMl9wb3BNOXFBYUlqdER4NWlaNG1UZUVZRWJ0UVdZdw?oc=5",
-   "data": "2026-11-08T10:48:23+00:00"
   }
  ]
 }
