@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-08T03:54:30+00:00",
+ "atualizado": "2026-11-08T04:55:00+00:00",
  "indicadores": {
   "selic": {
    "valor": 13.75,
@@ -16,6 +16,12 @@
  },
  "cotacoes": {},
  "noticias": [
+  {
+   "titulo": "Mercado prevê estagflação em 2027 e cenário econômico similar ao governo Dilma",
+   "fonte": "Gazeta do Povo",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQTDZzb2U2V243Vl9aZEdDNG1DWW9YQkxwbGZmcGhvOEpEQlI3UWZFUTd0SXBodHBJQkxRcW1sX1NmRTZ4S2tLZm9KRVJwNmNUelItSkxZcDRScUZiZWx1a2lEQmEtVktXQlV1SUN2TXNDejk3TWE2YUFJc1VSNW5KUFZZb3pVMGg1Q1JNQmFxZ2hPejlEUld6SENuVm9GZXdNckFCVW1VdkR3OGJob2lrQQ?oc=5",
+   "data": "2026-11-08T04:33:00+00:00"
+  },
   {
    "titulo": "Bancos projetam inflação de 6,1% e crescimento de 0,5% para 2027",
    "fonte": "Tribuna do Paraná",
@@ -81,12 +87,6 @@
    "fonte": "Jornal O Sul",
    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQOHpwcGMwcHAyb0lZa3Z3dUVjUlNEQ2RrYUdyb0RvMnhuWTlWb09OR3pjVHEtb2ZnMy0wSGlXNEtNMW5BTmFZeXpiRXluSVR2WmVRSUxPSjFLNzVfdjY5aTM4c2hTYVVRd3N4dGtxOElFV3N0WnljbF9lcUtidnlyS0pRMGdfODZkLTFmRVUtVFBPVTFKUFlqcmY4OFduYVRna0J5UFdRUzMweWR3UXlaaWk0ekREYjRCbGRxOG5qa9IBxAFBVV95cUxNN1FLYTNqRmtrYmRUZGNLdFZUejVVRjd4cmxwVVVMTXM4eFhZczd2QzJfWW5tVTRNd1dEMmY3XzB5U1RlaGlzMU1mQlZKaGpsZG9URFZfNmtWeTNmVnFsMzAxZE9TUFlGVzIzd3lVYWRYZ3NXbEFVbXlCSTJRcElZRUttSTdaWmVld3RaREhuYlBURGlqWnpCdENNN1JVMlVLLUV5SUdTeVJlMkE4Vmw3MUEyMFVDWnltRGZTSmlsUUpUTE9i?oc=5",
    "data": "2026-11-08T01:18:32+00:00"
-  },
-  {
-   "titulo": "Cotação do dólar americano hoje, 8 de novembro: O dólar global se recupera fortemente após o relatório de empregos dos EUA.",
-   "fonte": "Vietnam.vn",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQNlFQRjl0ZUwwUVdhempjVlBMc29Gdl9Td2l2ZFZSVUtYTmU3ci1ERXJOcVFSeGNCWDB6ZjAtYzFlaXAyVVVNcThkLUd3NllxLUozelZCVGZEejBCVHpoZFRmSEdSYlNSN3ZKQlg5XzNhQzkxa2MzVGxjRkNJMnhRclFUSHlnNnZOZ2FFVzM3SEVuVjFjR0MwTmxZOGV5QWtTelE?oc=5",
-   "data": "2026-11-08T01:11:14+00:00"
   }
  ]
 }
