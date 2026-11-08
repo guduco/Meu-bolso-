@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-08T09:48:59+00:00",
+ "atualizado": "2026-11-08T10:45:21+00:00",
  "indicadores": {
   "selic": {
    "valor": 13.75,
@@ -16,6 +16,18 @@
  },
  "cotacoes": {},
  "noticias": [
+  {
+   "titulo": "Inflação acelera em Moçambique puxada novamente pelos preços da cebola e carros em 2ª mão",
+   "fonte": "verdade.co.mz",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOal9vLTNQSXljb05hQVRwbzJBbU1oN2VXTEhxLXpQREYwY0hIVU1ydGRwOTAya05zMlFSa3VBZERpWE82NGVCd0tNbm92MVFoSURRSDBNNF8xcDAzMWhrUVlYOUpRRGdEMDNnQ3B1aTVXVUc2N2lGZThScW1GY1VpZ2hGMmdsS1VrbTExTXpLQ2piYVN6emtQT1J3XzBDcjBsNkplU1lhVG03WHFHbmZKUEtR?oc=5",
+   "data": "2026-11-08T10:42:26+00:00"
+  },
+  {
+   "titulo": "Veja a cotação do dólar e grãos deste domingo (08)",
+   "fonte": "Correio do Lago",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOalU1dy1pcWVSNDktZzd4TFViNXZkS0hXdWdnZm5xSHNsd0c0RVNzY2xMT0Z1a0wtNHRGQnRqZzlOQVlsTVRJT1F4Wk90UkNuZWZWUU44TmFRemtJS0hBYkxvVjhpTHYzQk1mRVV3YTdvbEVMNkFHNHJwY05abTBfMl9wb3BNOXFBYUlqdER4NWlaNG1UZUVZRWJ0UVdZdw?oc=5",
+   "data": "2026-11-08T10:34:04+00:00"
+  },
   {
    "titulo": "Ibovespa tenta reagir: o que vem a seguir?",
    "fonte": "Acionista.com.br",
@@ -75,18 +87,6 @@
    "fonte": "TV Sim Brasil",
    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPZU5uZHdaSWpOZnV0NEkwM2hoZXI0eUNqRkl2WDhKT1RlZ3dTZU0zNlhBMUg5Mk9qdkJyYmNQbTRfZVM4M1JESGlmRi1jRTFlLXJkYWhMdTM3S1ZpZGVoRG5KNzl3dHRIdWFxOHJuT1ZnZDZIaWZ5OHpGYWhLNWxBTXBWZ3BmdmUydmhXVlU1eTJXOFdzY1kwWkpleHNQbU5xMEJJN0t3QUU4ZnJrdFZiYnZzNTRHdw?oc=5",
    "data": "2026-11-08T07:24:40+00:00"
-  },
-  {
-   "titulo": "Muitos membros do Fed apoiam o aumento das taxas de juros para conter a inflação.",
-   "fonte": "Vietnam.vn",
-   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNQXV0R0hnR01yc0I1RTBlOTZYRkZzQ2ZKVnBHd3pMRU0xSXMtR2hfQ2ozR2N0V2p5YTFMM3lReXo0bWd1OG5QVDhHcFM2Rk1PVzEzVDdfMkdhdVFOdnp2aTJKZ01JUFJZMXVZb3YxUnFPd3EzYlJ3SXA3dkp5X1kyYTViLTVpUFdVQ2lSdHV3VWU?oc=5",
-   "data": "2026-11-08T07:20:05+00:00"
-  },
-  {
-   "titulo": "Ajuste fiscal gradual de Lula perde força desde 2024, e gasto cresce 5% acima da inflação",
-   "fonte": "O GLOBO",
-   "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQaGZiLUJfMnBsVjFjN292UVZXd0w5S3NWeW5JWm9hcVJ0cmhxOXJxWnNzWHVvZkpkWkx3WTBlUER1MzdBNlpHOU1DUEVfRnlWU1haUzVTY1BpQTZubm42enFrTlh5YXlMdTdGcThhUXBHSmFYNksycWxBUDM2MWhzWlZhYVBja2U5Uk93cWM2QUVQbklTS3lOSHdRVWVjN05vR3FXaVRLbEJUMFRzVDFqUWZiNE1QNHBTSHJJX1NMak9BbjUta2YtdTBKd3hrdy1aSUI5ZXpLeFF0Rk93aXAwOEYyekQwNnRKOERpdFZlbjQwZ9IBgAJBVV95cUxQU19fUGFjUmlUaFE1UEZ2LVlIMlJROTkweWUzbnZUZERCU2hwYXE3MEEzenlkekowZThJeWpYbEVKdWM5OG1kWTN3TGsycnFBLVU4SmJEWUNTXzdmU3F4WUdnbE1Cdl85dTY0bzl4WjdPWUZadzU1SnpRQl9PaGFJcWxVVkF3QllVUFUyMEpRNDltdTJBMk1LYVpDekJKSVp4dElqaU81WkVuTWtRSU53b2NZYVdudm1BTEJJZTJrVnh0c2RfY0o3V2F2QXV0azkwTnRpU2FYTHcwQVRfODhHcHJOczA0UFp2a0FFUVVWRUdHZXBQdWNNSzhQSzM2Y2Z5?oc=5",
-   "data": "2026-11-08T07:00:00+00:00"
   }
  ]
 }
