@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-08T02:06:23+00:00",
+ "atualizado": "2026-11-08T02:56:39+00:00",
  "indicadores": {
   "selic": {
    "valor": 13.75,
@@ -17,10 +17,28 @@
  "cotacoes": {},
  "noticias": [
   {
+   "titulo": "Cotação do dólar americano hoje, 8 de novembro de 2026: Juntamente com o euro e o iene japonês, os preços despencam.",
+   "fonte": "Vietnam.vn",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOWE9PWkN0UnRkdW05eUZpQ1dFUGlRRTdqZnhKd2N0VHRUdGgtRXktem05UDkzTWtBMWc3VGlnX20wQzc4b3ZkaXFRSk0yUEFVOEpDSGYwVGZlc2tYWFUybEJSalBxcXQzdVFVMElRREgxTzNmYzFyUVRLUTZvN09vajJQa1FNSGljekZuWlVMT3puUQ?oc=5",
+   "data": "2026-11-08T02:41:19+00:00"
+  },
+  {
+   "titulo": "Dólar sobe e fecha a R$ 5,48 após decisão do Copom e com política econômica no radar; Ibovespa cai",
+   "fonte": "Expressão Rondônia",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOWTl4cTFrU3Rod2lCVUM2TE1TTlJjdWMyX0lOSTlCanBVUGQydnJHejZpaEozY3d1djk4bVllWGhFVXQ5aWtCUm9Pek5GT2hoS1ZWcXJvZkdRMEdxdFlzVkZmZ1oyLXg3VVNxR2oxWEZmd0JYTFA0LU5fcW9aTHRiTGVXcVBDX0QydXJvZzVrdkMwQ1o3MnpMbk40WFpFZVdhWmVsTWYzSElUS0JsSUpjZ2U3R2JPbGdFOTlsOWk3dWxnR2FPQWRiTw?oc=5",
+   "data": "2026-11-08T02:27:12+00:00"
+  },
+  {
    "titulo": "André Lara Resende se pronuncia sobre proposta econômica polêmica",
    "fonte": "Diário do Estado",
    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNb1lVQUVvNEx1Wml5Mm0zaVgxODBaNkhGcUt3SEFCcE9McUpWcXdNWlpNWGQ3QnA5MzQwYzdEV3RGUEI5YXVEWlJFTmtDeDE1Yy0xeGtKSnEta1IxazZ1ZW1PNlZxZWZhemFuWUlacXJQRmd0clk3MlZmNG1CaFotR2R5aVlfU1VnUnVnSVQ3VUpaRm9XZTZhY3pWU2hzZ0E?oc=5",
    "data": "2026-11-08T01:46:40+00:00"
+  },
+  {
+   "titulo": "Focus: expectativa para dólar dispara após eleição; mercado eleva projeções para inflação e Selic",
+   "fonte": "Estadão",
+   "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQNzctRmdVZlNDUjJCUXEyUk5BajB6SHdIMmJ6TjZwcjNfNTNvMnZ1ZEVhRzEwV0EzUFpQRUl1aWI4eTY5dkZDd2ZQTk9HM2x2NTc0Njk3Nzd0c3J6LWZwS0Vvay01WHpaQ202UHFoXzZYLUdNZ0JGQnlEczYybnV3X0lNbzZ2WFEtVjRkMlFKUl9FTTRtbFZCR2VZOWtwY0lNdGhNRnNZRXhmbVZCMnFlWjlNaWNkell6Y0U5Y2xrTDRPZlN4cXF0OHNrcEhZWTMwaE16VmZ2NE1nWG8tWEs0MFAxakJfRU0?oc=5",
+   "data": "2026-11-08T01:43:17+00:00"
   },
   {
    "titulo": "A humanidade está ameaçada pela Inteligência Artificial, diz pesquisador",
@@ -35,12 +53,6 @@
    "data": "2026-11-08T01:23:31+00:00"
   },
   {
-   "titulo": "Uibaí recebe ônibus escolar, microtrator e novos investimentos em infraestrutura",
-   "fonte": "REDE BRASIL DE TELEVISÃO",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOdGZRRHJ2cFRxcU9venBtZUJuRy1LeDJqS2dMTUlsMnd0RUlEUmlMV3RVY0kwODRGMDZLOFRUU24ybjE2M09Qek50M3Y1LUFDV3pScHpndURGZ3czT3RUS3UzUWtHQlRzNWd0REVpdUVWWGZmWFA5eVNpVHpyY0RXc0Z0ZUhoclQ2czdGZjV4VEpEX1UwaXViNzlNdkhJV2w4d2NQVFNrbzg1VWw0Sk1KRDBhaw?oc=5",
-   "data": "2026-11-08T01:21:34+00:00"
-  },
-  {
    "titulo": "Presidente do Supremo valida delação de dono da empresa que geria investimentos de Daniel Vorcaro",
    "fonte": "Jornal O Sul",
    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQOHpwcGMwcHAyb0lZa3Z3dUVjUlNEQ2RrYUdyb0RvMnhuWTlWb09OR3pjVHEtb2ZnMy0wSGlXNEtNMW5BTmFZeXpiRXluSVR2WmVRSUxPSjFLNzVfdjY5aTM4c2hTYVVRd3N4dGtxOElFV3N0WnljbF9lcUtidnlyS0pRMGdfODZkLTFmRVUtVFBPVTFKUFlqcmY4OFduYVRna0J5UFdRUzMweWR3UXlaaWk0ekREYjRCbGRxOG5qa9IBxAFBVV95cUxNN1FLYTNqRmtrYmRUZGNLdFZUejVVRjd4cmxwVVVMTXM4eFhZczd2QzJfWW5tVTRNd1dEMmY3XzB5U1RlaGlzMU1mQlZKaGpsZG9URFZfNmtWeTNmVnFsMzAxZE9TUFlGVzIzd3lVYWRYZ3NXbEFVbXlCSTJRcElZRUttSTdaWmVld3RaREhuYlBURGlqWnpCdENNN1JVMlVLLUV5SUdTeVJlMkE4Vmw3MUEyMFVDWnltRGZTSmlsUUpUTE9i?oc=5",
@@ -53,40 +65,28 @@
    "data": "2026-11-08T01:11:14+00:00"
   },
   {
+   "titulo": "Copom mantém Selic em 13,75% ao ano; veja como o mercado avalia a decisão",
+   "fonte": "Estadão",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOd3Utek94M0FFSldLcDVrZ0Mzdm5EQnhOYzk0VUwxWmRYSUdRZi16TFZBX3F3T3JlZ0hrZEJZdmxIN0V1TGU1MVlCc1AwUW00RVpOZl9OSk1RS0cyQzBXYW4wb2ZJVkU3QnVEVTk3c2s3ZmtZdWt1dmdUek9KYmc2MUs4QjZZRkE5MjFBZWVSYmxKSVVGTFoxWDN0R01vUmVuRnZLWGNadnNCcFl1V2RoQW5wRmhvT2czMFpzcWk1ZWNjNmVmc1Nuakpn?oc=5",
+   "data": "2026-11-08T00:48:59+00:00"
+  },
+  {
+   "titulo": "Embraer renova recorde, impulsionada por fundamentos sólidos e dólar alto: o Ibovespa nesta terça",
+   "fonte": "Estadão",
+   "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNOEpFaUExR3p3bmVoa1Q1R0h2cWxZZ2RKU0NGTUZOQlFRa3pCT2IxRkdlNkNTOGxSdXd2NTVBOXlDN3FLNE5FeE1vbFhKeVRVX3pXYy1oMWpNNVZFNmNSRWIzU3dGUWlKSHJaeTZwTVVUYzM2Wk1MM2V1YjdrTW9IZGQySkt1QW9ZXzM5UWtQRGNBS0k5V0h3clgwWW9YMUxZMXRhOEt2NFFaVFAwZUZpMjdiNkJ5OTRhM29pR0Y5eG9CSlU1YzJmOGRDQ3pMZTFBblc4TC0xQkFCd2hXS1FFNGVPbTZ3dXJIMHFMS3ppTEdyZ0tu?oc=5",
+   "data": "2026-11-08T00:46:04+00:00"
+  },
+  {
+   "titulo": "Uibaí recebe ônibus escolar, microtrator e novos investimentos em infraestrutura",
+   "fonte": "ba.gov.br",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPWGotVWw5RVN6bHRucE9hTmpQbkNyQjVDRlVoemFPX1pXU2x5S3Rsck5kVGY4MlQ1UzltSlA3dDZTai13THA2UmNLNzllakQycnN1NkM0NEFzWk1za3N0ZnZHU0hSMzN2QVE0WVl2Q1VwQ2RWdG4xS014LTlvYm1CcnlJbW5TX181ZHpqWWJ2N19YUEFuMllXSW5mS3NJX3d1dldpLUtPZVhjdXBMUW8ydFhORXNhU3R5NHRfTkRNaw?oc=5",
+   "data": "2026-11-08T00:39:42+00:00"
+  },
+  {
    "titulo": "Antes do Copom, Ibovespa sobe 1,2% e tem 1ª alta desde as eleições com apoio do exterior e petróleo",
    "fonte": "Estadão",
    "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNa0VpRnZTX2NtTTVCYjMyVUNLLWZpd0lvYnozZUF6RGpRZmlrQnJoVkJNRDB6VTVqaGt1Z0FJU2FNTnY3cVQxVGthU0ZrT2tIQkhHMmViYXA4YXhGaFNXN01WaGsxcnNDdHJQbWFvWkVLQUxydTJ2b2NrSE12LXZnMFIwOVhqTnlTOVVSZGNFWVZiWkgwM3R0eWJKTnF2TFNMLXd4ZU13a2hQRU5HT2RsckxuNmhtTzVrT0dqNFdVMFg1cDgwTXZDbHpuMEhRUmJWRmx6WHEyQnpMb04tRDFJNHAxRDE?oc=5",
    "data": "2026-11-08T00:39:00+00:00"
-  },
-  {
-   "titulo": "Cotação do dólar americano hoje (8 de novembro): O dólar americano apresentou uma semana de movimentos mistos.",
-   "fonte": "Vietnam.vn",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOYm13V2d2ZzVDTVJDVTNXNXNMelo3ZXZfYUdUUlk4NEVCbVNqMUJ2SVZORjlQNFdPLWVKdEdodC00UFVvMzhVb0xjcl9ORVlUMFhxOE8tWXc2aGNvbm95SWxuRUJSZ05vek5IZDVsdERGS09GcUxCQXljbEFkdkVISFNTTVhqVGs2SEhHbURJQWNPdFI2SXhQYg?oc=5",
-   "data": "2026-11-08T00:38:42+00:00"
-  },
-  {
-   "titulo": "Mercado prevê estagflação em 2027 e cenário parecido com o da era Dilma",
-   "fonte": "Gazeta do Povo",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQbF9TaGRaLUhVYmt1LUJ2R1NUUHVrN2tCcXI5d2dnSXpnejVDRjFaMXltZi1RN0ZiSXlyUzRXWkMwTlgzQmxVeDVHYmktSFo0OV9RdUptYVZjU0JfNGpPRGdoa3lJR3BoWldBd3E2V1hEaTFUem5KNzFVNGFmMzNROU9WX3UxaV9kTXcxbG5FWWZFREVGczBqQmxiNFllM0Y4dE1fWWZsREN3TGhYN2kteTEzbw?oc=5",
-   "data": "2026-11-08T00:32:00+00:00"
-  },
-  {
-   "titulo": "Pesquisa CNT de Rodovias 2026 aponta melhora na qualidade da malha, mas conservação ainda exige investimentos",
-   "fonte": "Confederação Nacional do Transporte - CNT",
-   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPcjdVaWxwWjhKeDMtMzR4b1pTbE12RDJHeHhxdTVFcjZnak5LRkR3UnpxeXZQaGRteTlNVVl3UFRLRGswcUxPV1FPWWx2REVQOUhNUkhsNVVmVGM1NGU4NnhyWjk5aVdzR0hUNHBDTV9kTHVMMk45elpZdkh3Y2xBSVNjd3AwZHZaR2ppWFl5d2RSR3VzaXRxZm4tQ0EzMDlMUkdKWXJpSVhveVo2Z0FyMjZGSW9CU2JwZnhkdkZqZHBNYS02MDZZdU9MVXJmUWFqdDU4aDNR?oc=5",
-   "data": "2026-11-08T00:27:03+00:00"
-  },
-  {
-   "titulo": "Tier list de clãs em Shibuya dispara preço de reroll e escancara a inflação dos Robux",
-   "fonte": "radiogeekbr.com.br",
-   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1ndkFGOGhNamdSSHNJMGN1eHZxS1NUNUF5MmRaU1k0TjF3cnlJM0hsblpyNEZlNXktLXhJMGN6eFdiZkY2eG5vdnJkN3d6TEw2bWUwRWtnRGJLdTBkb3dIc1BzWVZ5ZWRDZmJCaW1zSFA1bUE?oc=5",
-   "data": "2026-11-08T00:11:49+00:00"
-  },
-  {
-   "titulo": "Proposta de Lara Resende para Selic: o que dizem especialistas de Goiás sobre viabilidade e impactos?",
-   "fonte": "Jornal Opção",
-   "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNcW81RlZRMkg2YUx4dXcwXzNtYkVxT2wxdWtESEJCS3R4YS1fQ0pkOXZSZko2ZE1faEVTdFM2TUlxb0U5VU95a05EQk83Wm5qYnNxY0ZUZ3dSX0lGM1NhVGNOamtxTEtjMXpvaWt4dE9sNTdGQ1dSTXFnQnRpeFlhaHJUdTQ3VW1VSzhoMDc5SWVzRVVRSlMzVnd1dDJ1cXJWNU9yb0I1X1hiMXdGbWRXUkkyVG10N1RDT1I5a016MWlwcjNZSDlVYmx2bXFsdkQ1akFCSEJpamo1YWNSNWc3cTdjSWdMSmEycUNhNnJLM01oQ2JsUWV0VVNnTQ?oc=5",
-   "data": "2026-11-08T00:02:00+00:00"
   }
  ]
 }
