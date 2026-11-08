@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-08T05:51:35+00:00",
+ "atualizado": "2026-11-08T06:58:31+00:00",
  "indicadores": {
   "selic": {
    "valor": 13.75,
@@ -16,6 +16,18 @@
  },
  "cotacoes": {},
  "noticias": [
+  {
+   "titulo": "Brasil — Bancos cortam previsão de crescimento do PIB do Brasil em 2027, com mais juros e inflação",
+   "fonte": "Prensa Mercosur",
+   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPM0dnVWNXMDAya25Ic3ozYktGdXNpN18zNXJHQldQZXBhcm5OM1RXNXU2a0I2dE5UZTZzczQ1eW8tS1JPTEZ0QmQ2ekc3eHJKT1N2Tk5QTDRtQzNZTWhHRDBxUGZVaS03WVZSa0t4OXk3NFNVbTFqaTZXNDcwbVo1T3VKNDN2Wk5WelRrT29MRnlfNUI5UFd1ZTkydXVsQmdQVHdlVjFiV0NSVXpvNUI3UV9iM0JnVTk0UXRlYkI5QndPd1pTWjljM0JESkFoQWs?oc=5",
+   "data": "2026-11-08T06:43:12+00:00"
+  },
+  {
+   "titulo": "Derretimento de geleiras pode provocar uma nova pandemia, diz estudo",
+   "fonte": "Diário da Guanabara",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNVmhsSWlxb0lIQ3BORkRPRHdwUmd4ZTNIZkpLaE5lbWY5cFpURml3VGo2MzNhQl9jNmlud1B2TDhnV0N0eEl6TnFQLXBWTFBVX3dfODBaazVQVUxjdXZycHgweklqODZ4LUtfUVJRQUJsUkpTQm42YlVBemFDNTM4ck9Lc1hKRU0xVTBka1VkZll3cmtWRjlpUUtJVm81TWlQVXhn?oc=5",
+   "data": "2026-11-08T06:32:38+00:00"
+  },
   {
    "titulo": "Dólar sobe para R$ 5,51, enquanto Ibovespa avança 1,39% e recupera perdas",
    "fonte": "Diário da Guanabara",
@@ -75,18 +87,6 @@
    "fonte": "Diário do Estado",
    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNb1lVQUVvNEx1Wml5Mm0zaVgxODBaNkhGcUt3SEFCcE9McUpWcXdNWlpNWGQ3QnA5MzQwYzdEV3RGUEI5YXVEWlJFTmtDeDE1Yy0xeGtKSnEta1IxazZ1ZW1PNlZxZWZhemFuWUlacXJQRmd0clk3MlZmNG1CaFotR2R5aVlfU1VnUnVnSVQ3VUpaRm9XZTZhY3pWU2hzZ0E?oc=5",
    "data": "2026-11-08T01:46:40+00:00"
-  },
-  {
-   "titulo": "Focus: expectativa para dólar dispara após eleição; mercado eleva projeções para inflação e Selic",
-   "fonte": "Estadão",
-   "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQNzctRmdVZlNDUjJCUXEyUk5BajB6SHdIMmJ6TjZwcjNfNTNvMnZ1ZEVhRzEwV0EzUFpQRUl1aWI4eTY5dkZDd2ZQTk9HM2x2NTc0Njk3Nzd0c3J6LWZwS0Vvay01WHpaQ202UHFoXzZYLUdNZ0JGQnlEczYybnV3X0lNbzZ2WFEtVjRkMlFKUl9FTTRtbFZCR2VZOWtwY0lNdGhNRnNZRXhmbVZCMnFlWjlNaWNkell6Y0U5Y2xrTDRPZlN4cXF0OHNrcEhZWTMwaE16VmZ2NE1nWG8tWEs0MFAxakJfRU0?oc=5",
-   "data": "2026-11-08T01:43:17+00:00"
-  },
-  {
-   "titulo": "A humanidade está ameaçada pela Inteligência Artificial, diz pesquisador",
-   "fonte": "Diário da Guanabara",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOelRVa2Nta0N6MFVfYTlTUnpVYVpxLVBJME5sLVZJVThTSXpZRjhFb1hwNjc2d2FTTXJsVG9VVnF6bm5hY1ZwRUZ3MHl3aUlBUFg3Qlo0b0xrelBfR0FnLTUzNFE4UzJ4NFlYZXlUb1Zwb0FRZzY0X0NDdk9MTkRsOF9ubXdDTkEwbFpURmVtLWxzRVYzLVkyLWlOQ3FfUTBwYXdqeVFTOFY?oc=5",
-   "data": "2026-11-08T01:35:09+00:00"
   }
  ]
 }
