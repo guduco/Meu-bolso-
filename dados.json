@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-08T08:53:38+00:00",
+ "atualizado": "2026-11-08T09:48:59+00:00",
  "indicadores": {
   "selic": {
    "valor": 13.75,
@@ -16,6 +16,36 @@
  },
  "cotacoes": {},
  "noticias": [
+  {
+   "titulo": "Ibovespa tenta reagir: o que vem a seguir?",
+   "fonte": "Acionista.com.br",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5NWmhyQTJaUEdQSlBUQVN2YldiMVNnYldtR0lES09HVFFydkdKZU9Mb0dGRVY4azFTLVhQYmkyTnUwcU5PWHVwRFRyYUNoY3U1a0dqY0sxN0szTF9vNVUxNktCVWN6anJyelpqQW1iVU9IQ0RN?oc=5",
+   "data": "2026-11-08T09:06:58+00:00"
+  },
+  {
+   "titulo": "Nasdaq derrete e reforça velha lição do mercado: diversificar investimentos",
+   "fonte": "CNN Brasil",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOanVIYWlnb3hNeU1teWJNa2dscmxZc2g5UGhPN0ZoNFB2Vl9CR3lwbkJfaGs2SHJucUFSQ1A0NENlb3ZwU3lHTUE5SzJjV01HbU55b0ZwUUp2cXN4OEoyUjFwVjd1cEVQNHE2dnFBOGJRZDNodUkyZURIQXEzRVQxMzhxZG90Q0pQTmo5TVZhWHZUOXFYTFpqdTZndTJCT01ySzM3Y2FaT0ZwMXdPZ25DU0VubkhvMG1uazg0dkIzemJOaGtSMkE?oc=5",
+   "data": "2026-11-08T09:04:02+00:00"
+  },
+  {
+   "titulo": "Entrevista | Sem ajuste fiscal, vem crise e aumento de inflação, diz Eduardo Giannetti",
+   "fonte": "Estadão",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNR25Xbl9TcG1OaExJdFRfRUx4N1JYRXd6MkJqVEVOYmhiRjVnYVZnY3h3dmNibnlDdmhQdUhWVUNJVWtMaEZtN0p3QW45N2x1amVSUWtVX1dQUnlYV0t0Q2FoXzBxNHNMOTdlSGZOVDlrSjU4RktpQ3RIQ1c5ck0zSkJRbGpxVl81Qld6MU5yNkRNZmVHYUlpMG8zNklObXNXQ2dyZ1NzcjNsVlA5ZTFObjJCbkxKU1c3R3ZfTk5RdElKTFFEcG8w?oc=5",
+   "data": "2026-11-08T09:03:46+00:00"
+  },
+  {
+   "titulo": "Elevar meta de inflação não garante juros menores e pode enfraquecer ainda mais a credibilidade monetária",
+   "fonte": "Money Report",
+   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNVTZUUjNqb1M3RXBaS2dRc1NfTWNGTUZRbFdubUZicmFQcFpEMWsydm9zRFRjbWZCeGNPTnBnakRHc1RnNFF6cWpYQzZMMkxGX2NEUDVpMXFTQmdsaWFFM0ViaWlzMXFJRlJ4anZaSk9jWHdvT0VKWkFkX0tIa2I0SHZlcFVXZ1hoaDJjcmJLN3dnOENYNGlZRlNZajM4UlNJS0wybzNEaDNBQkJRUkNEZGptbkxqMzVKSl9QRmRZSVJJaVJuX0U3RURydmQ5ZTdib05tdUZYRzlrUDFrSmJJ?oc=5",
+   "data": "2026-11-08T09:03:01+00:00"
+  },
+  {
+   "titulo": "Mega-Sena de R$ 60 milhões: poupança, Tesouro Direto ou CDB, onde renderia mais",
+   "fonte": "Folha de Curitiba",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNQm4xSkx2cVFvdkVQakdMaWk5cmhPNHJ2dnhsdnA4c2h2ZGxCcFhEWkFQQ3lRX2QtdGg2eHdjWDVkRlhxVXlseHpyb3FidVpId0N4QWhZSHEwYzBDQ3pHdWt4UUNrWkZyUHJ3MHhncUd0bGpRMEotWnEwTEV4N3NQWVZFOEJ5TG40THVrRGl5VHhIWXd5dG5PMG1zS0FqNnUtUUh5anljTXVSUGc?oc=5",
+   "data": "2026-11-08T08:50:12+00:00"
+  },
   {
    "titulo": "Corte da Selic: Gala alerta para risco cambial na proposta",
    "fonte": "Acia Araçatuba",
@@ -35,6 +65,12 @@
    "data": "2026-11-08T08:05:17+00:00"
   },
   {
+   "titulo": "Cogna tomba 12% e lidera perdas do Ibovespa hoje; veja maiores altas e baixas",
+   "fonte": "Estadão",
+   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNVnhGSmh0R1VObnlEVWlFQy1LeUpsaG9fNHNNNGZOUVJnNGZHajlzUHNGV01DdTB1SUI2a1UzOWwzTlAycV83c1VZN3BKVmVFQllHd2QxMUdwMFlxQ0o5akk3YTYtdzNNeVVXbXZINE1RYzFsWklSc0puVW1vTGI2R0FWalpWYWIxT1ZvaGViRmlWcXJORmdGaU1zMUhEZDk5TTJRZmVqdUE3UVpfT0F5Wk1lUmFsRGQ3VC0ySEFpbktaSVJrLXlGT3RDRS1lb1pxR21hcWJHODBBNFdf?oc=5",
+   "data": "2026-11-08T07:54:23+00:00"
+  },
+  {
    "titulo": "Bancos preveem estagflação em 2027 parecida com a era Dilma",
    "fonte": "TV Sim Brasil",
    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPZU5uZHdaSWpOZnV0NEkwM2hoZXI0eUNqRkl2WDhKT1RlZ3dTZU0zNlhBMUg5Mk9qdkJyYmNQbTRfZVM4M1JESGlmRi1jRTFlLXJkYWhMdTM3S1ZpZGVoRG5KNzl3dHRIdWFxOHJuT1ZnZDZIaWZ5OHpGYWhLNWxBTXBWZ3BmdmUydmhXVlU1eTJXOFdzY1kwWkpleHNQbU5xMEJJN0t3QUU4ZnJrdFZiYnZzNTRHdw?oc=5",
@@ -51,42 +87,6 @@
    "fonte": "O GLOBO",
    "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQaGZiLUJfMnBsVjFjN292UVZXd0w5S3NWeW5JWm9hcVJ0cmhxOXJxWnNzWHVvZkpkWkx3WTBlUER1MzdBNlpHOU1DUEVfRnlWU1haUzVTY1BpQTZubm42enFrTlh5YXlMdTdGcThhUXBHSmFYNksycWxBUDM2MWhzWlZhYVBja2U5Uk93cWM2QUVQbklTS3lOSHdRVWVjN05vR3FXaVRLbEJUMFRzVDFqUWZiNE1QNHBTSHJJX1NMak9BbjUta2YtdTBKd3hrdy1aSUI5ZXpLeFF0Rk93aXAwOEYyekQwNnRKOERpdFZlbjQwZ9IBgAJBVV95cUxQU19fUGFjUmlUaFE1UEZ2LVlIMlJROTkweWUzbnZUZERCU2hwYXE3MEEzenlkekowZThJeWpYbEVKdWM5OG1kWTN3TGsycnFBLVU4SmJEWUNTXzdmU3F4WUdnbE1Cdl85dTY0bzl4WjdPWUZadzU1SnpRQl9PaGFJcWxVVkF3QllVUFUyMEpRNDltdTJBMk1LYVpDekJKSVp4dElqaU81WkVuTWtRSU53b2NZYVdudm1BTEJJZTJrVnh0c2RfY0o3V2F2QXV0azkwTnRpU2FYTHcwQVRfODhHcHJOczA0UFp2a0FFUVVWRUdHZXBQdWNNSzhQSzM2Y2Z5?oc=5",
    "data": "2026-11-08T07:00:00+00:00"
-  },
-  {
-   "titulo": "Brasil — Bancos cortam previsão de crescimento do PIB do Brasil em 2027, com mais juros e inflação",
-   "fonte": "Prensa Mercosur",
-   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPM0dnVWNXMDAya25Ic3ozYktGdXNpN18zNXJHQldQZXBhcm5OM1RXNXU2a0I2dE5UZTZzczQ1eW8tS1JPTEZ0QmQ2ekc3eHJKT1N2Tk5QTDRtQzNZTWhHRDBxUGZVaS03WVZSa0t4OXk3NFNVbTFqaTZXNDcwbVo1T3VKNDN2Wk5WelRrT29MRnlfNUI5UFd1ZTkydXVsQmdQVHdlVjFiV0NSVXpvNUI3UV9iM0JnVTk0UXRlYkI5QndPd1pTWjljM0JESkFoQWs?oc=5",
-   "data": "2026-11-08T06:43:12+00:00"
-  },
-  {
-   "titulo": "Derretimento de geleiras pode provocar uma nova pandemia, diz estudo",
-   "fonte": "Diário da Guanabara",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNVmhsSWlxb0lIQ3BORkRPRHdwUmd4ZTNIZkpLaE5lbWY5cFpURml3VGo2MzNhQl9jNmlud1B2TDhnV0N0eEl6TnFQLXBWTFBVX3dfODBaazVQVUxjdXZycHgweklqODZ4LUtfUVJRQUJsUkpTQm42YlVBemFDNTM4ck9Lc1hKRU0xVTBka1VkZll3cmtWRjlpUUtJVm81TWlQVXhn?oc=5",
-   "data": "2026-11-08T06:32:38+00:00"
-  },
-  {
-   "titulo": "Copom: mercado vê interrupção no ciclo de corte da Selic, mas afasta chance de alta da taxa",
-   "fonte": "Estadão",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTEhPRXZXSld0NkJrWi1DaHNHWkxkaGtuYzdUSFpRYlRQZV9xR01qNlZmLXlNdmFYaC1iRWFvNkVUbXNRWkw2amlrN1I4WWg2cEZhR2FSa2hhSE9xWEVwdzdxd1JfczdzbFZTZTROaTlGRDN6YjdNT3Q4c1RtVGVjSFJ6b0tTWW44dDBSZ1prbmFVdEl1M2ZzekJISWxucjFtQ3NYWUM1QXRGUQ?oc=5",
-   "data": "2026-11-08T06:05:56+00:00"
-  },
-  {
-   "titulo": "Dólar sobe para R$ 5,51, enquanto Ibovespa avança 1,39% e recupera perdas",
-   "fonte": "Diário da Guanabara",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOZFVuRGo0V1g4LXUtcU5Zd283V0hFbFhtMXNJb013cEdWdy04ZkdQQmZUblhmSjZQRWVLRWlfQU9NRThPX3RuYUNxQjJqSnV2bEdTQWdZRkxqZ05odWNINVVJa2tNZlpzMFJFVzVtb3M2dXNUYlNRenhueUZJd2RUUy0zd1ZQWnR6eUdMZmVGT3pGc2NKQmFpenFJV2x5dw?oc=5",
-   "data": "2026-11-08T05:47:47+00:00"
-  },
-  {
-   "titulo": "Atração de investimentos: Lucas do Rio Verde fortalece desenvolvimento econômico com novo complexo logístico",
-   "fonte": "Prefeitura de Lucas do Rio Verde",
-   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE8zSnZDdHJjeEVnNVdEQVhTZlBPTDRETDJ2RmpwdV96X0VZQUFWWFNudzRmcW5wWDBXY2dhY09VajdTbXc5VlllWnNVSXZQeUpoaU4taWEtSDNvSWZFY1dRSWRZWQ?oc=5",
-   "data": "2026-11-08T05:17:58+00:00"
-  },
-  {
-   "titulo": "Frete mais barato ajudou na queda da inflação de alimentos, diz economista",
-   "fonte": "CNN Brasil",
-   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPSVZXWWVHUm5OU2RIdnQzMXlWem5pQ0F3TWFtQy1Sa2J1VVhOd05GMGt1MlZSSWFFSXhMdHYxcHFzdnVheXNMZzlXYUFRRlBIYzZ3UWkxa21aN1NwVjBPdkh4WktDVUFjV0UyRE1yZ21qbWM0SV9VcnlCQ3pRV2FCa1dZOVN6N2pnOVdvRXFTczE4YVFlQkotVkRFWEswUDUwYTR1SHo5S1lWZGRDTmlQNmZSTWhqS18xRUJmSnBuRGdwNGdFeE1DVFlSOUg?oc=5",
-   "data": "2026-11-08T04:34:17+00:00"
   }
  ]
 }
