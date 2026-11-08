@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-07T23:38:19+00:00",
+ "atualizado": "2026-11-08T01:03:26+00:00",
  "indicadores": {
   "selic": {
    "valor": 13.75,
@@ -17,6 +17,42 @@
  "cotacoes": {},
  "noticias": [
   {
+   "titulo": "Uibaí recebe ônibus escolar, microtrator e novos investimentos em infraestrutura",
+   "fonte": "ba.gov.br",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPWGotVWw5RVN6bHRucE9hTmpQbkNyQjVDRlVoemFPX1pXU2x5S3Rsck5kVGY4MlQ1UzltSlA3dDZTai13THA2UmNLNzllakQycnN1NkM0NEFzWk1za3N0ZnZHU0hSMzN2QVE0WVl2Q1VwQ2RWdG4xS014LTlvYm1CcnlJbW5TX181ZHpqWWJ2N19YUEFuMllXSW5mS3NJX3d1dldpLUtPZVhjdXBMUW8ydFhORXNhU3R5NHRfTkRNaw?oc=5",
+   "data": "2026-11-08T00:39:42+00:00"
+  },
+  {
+   "titulo": "Cotação do dólar americano hoje (8 de novembro): O dólar americano apresentou uma semana de movimentos mistos.",
+   "fonte": "Vietnam.vn",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOYm13V2d2ZzVDTVJDVTNXNXNMelo3ZXZfYUdUUlk4NEVCbVNqMUJ2SVZORjlQNFdPLWVKdEdodC00UFVvMzhVb0xjcl9ORVlUMFhxOE8tWXc2aGNvbm95SWxuRUJSZ05vek5IZDVsdERGS09GcUxCQXljbEFkdkVISFNTTVhqVGs2SEhHbURJQWNPdFI2SXhQYg?oc=5",
+   "data": "2026-11-08T00:38:42+00:00"
+  },
+  {
+   "titulo": "Mercado prevê estagflação em 2027 e cenário parecido com o da era Dilma",
+   "fonte": "Gazeta do Povo",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQbF9TaGRaLUhVYmt1LUJ2R1NUUHVrN2tCcXI5d2dnSXpnejVDRjFaMXltZi1RN0ZiSXlyUzRXWkMwTlgzQmxVeDVHYmktSFo0OV9RdUptYVZjU0JfNGpPRGdoa3lJR3BoWldBd3E2V1hEaTFUem5KNzFVNGFmMzNROU9WX3UxaV9kTXcxbG5FWWZFREVGczBqQmxiNFllM0Y4dE1fWWZsREN3TGhYN2kteTEzbw?oc=5",
+   "data": "2026-11-08T00:32:00+00:00"
+  },
+  {
+   "titulo": "Pesquisa CNT de Rodovias 2026 aponta melhora na qualidade da malha, mas conservação ainda exige investimentos",
+   "fonte": "Confederação Nacional do Transporte - CNT",
+   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPcjdVaWxwWjhKeDMtMzR4b1pTbE12RDJHeHhxdTVFcjZnak5LRkR3UnpxeXZQaGRteTlNVVl3UFRLRGswcUxPV1FPWWx2REVQOUhNUkhsNVVmVGM1NGU4NnhyWjk5aVdzR0hUNHBDTV9kTHVMMk45elpZdkh3Y2xBSVNjd3AwZHZaR2ppWFl5d2RSR3VzaXRxZm4tQ0EzMDlMUkdKWXJpSVhveVo2Z0FyMjZGSW9CU2JwZnhkdkZqZHBNYS02MDZZdU9MVXJmUWFqdDU4aDNR?oc=5",
+   "data": "2026-11-08T00:27:03+00:00"
+  },
+  {
+   "titulo": "Barra do Mendes recebe obras de infraestrutura com investimentos de mais de R$ 50 milhões ao todo",
+   "fonte": "Notícia Livre",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQdVozYU9wMWJVb013cmppSll4Um1ZRXRCSWljZG1qdlJvb2hjS2ZkRElrTlI4S01VWG00cnVvd2hjcVp2bVE1STluSmJDdEFad1Fid1FTZTVLMnJxcUNlQnU3VF8yaXF4aldwSk5vMWFnQjlnZFBXYzd0WC03UndjOFVuRlI4ZkE3ejdJTmEzSGtvU01yVGthZ2dDSGo0aTU1QTQwY1QySjdmN1JqMjc4dHBuNXRUaThDNy12UXIxbUZ3aXc?oc=5",
+   "data": "2026-11-08T00:11:00+00:00"
+  },
+  {
+   "titulo": "Proposta de Lara Resende para Selic: o que dizem especialistas de Goiás sobre viabilidade e impactos?",
+   "fonte": "Jornal Opção",
+   "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNcW81RlZRMkg2YUx4dXcwXzNtYkVxT2wxdWtESEJCS3R4YS1fQ0pkOXZSZko2ZE1faEVTdFM2TUlxb0U5VU95a05EQk83Wm5qYnNxY0ZUZ3dSX0lGM1NhVGNOamtxTEtjMXpvaWt4dE9sNTdGQ1dSTXFnQnRpeFlhaHJUdTQ3VW1VSzhoMDc5SWVzRVVRSlMzVnd1dDJ1cXJWNU9yb0I1X1hiMXdGbWRXUkkyVG10N1RDT1I5a016MWlwcjNZSDlVYmx2bXFsdkQ1akFCSEJpamo1YWNSNWc3cTdjSWdMSmEycUNhNnJLM01oQ2JsUWV0VVNnTQ?oc=5",
+   "data": "2026-11-08T00:02:00+00:00"
+  },
+  {
    "titulo": "Roberto Justus denuncia uso de IA com sua imagem para divulgar investimentos: 'Lamentável'",
    "fonte": "Diário do Nordeste",
    "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQaXJrZFB6MEVkQ1lzRTlRUXNQZ183VUhlVW1lSGNlZVJieEU5cnhPQUFGNmNacFZXSHlVeUJCM3NTQkUtR3VpZkk3bjVHbXpOb3BzMllOTl93VmR0cXFZTWlhV2tldW1wRUJNQ284X0c0YWthMlZLWndVdjJLbzBjdlExXzVmWVYyb0prZTBiV1g1dEU4clJYRHVtNUtvQVlKREMwZDdRbmhBZTZkU0NzU3hReGNYLVZCZ2ZsX3JuQk1uWng5WnVxM05USF9OUGs0Qm1WNkJVNDlWZmRQNXE5T3dwdHR3aFl1TEY3RDBUMA?oc=5",
@@ -27,6 +63,12 @@
    "fonte": "Valor Econômico",
    "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOOG1DekNjTllwMEZxd01RZ2lGY0NfNDhraDNNRy1sVHFuNkdDM1hidUQ0RFN4bDcxTUVhekJpOUMyWWtQRDJ4ck5CNWtDUzQ1eHRmZUJqR3lsVVdmMjJoNDFtZEFLQlJTQ1lXdjBxN0JGNmpjQXE5aXZ5bE9GSHRscGIxYmVXZUdUZmwweDBhaFQ2Y2FySlZuZmRvTl9xaVV5ektJREhVVnBzRmJ4YnlGdWZ3RFJmN3VCdzhSd21GV3ktUWFBMC1Fa0tTVDZFU0poUGllZzVBNFBBZUl6czU3SURQNmxIZWp6VVVQcllPLUdzTTBEVjVPWkRR0gGIAkFVX3lxTE4xeldtN1JnTk5JT3duWGNHX1lON1lFcFdqUFRZX05hcnB0WXFRMFI3Z1l4aVFWREh0TUN0YzlSSTlCUTJuRjZKX1RURjkyRklGaS01OGJxSkY1clZGZV9fTktGZnlOdFY2Tlh4YzY5Q3FuczV6bWtleUZfc1pDelJNSERibjlXOEt1SzJUa0g2Zk1BYVZBUHN1UGVRa25xMURhbV9OeHJyb2o4MVZlTXp1T3oyU21aQ1ZtY29lN3A0eF9IcW9MMTNzSmZrcFhMSC1qdlpEczNwWmtST2FmRWQxeTdBeWZabTNQQzRKMnU4THA3VzEyOG1WU3Q5MnZWRkxCekl0Ql9seA?oc=5",
    "data": "2026-11-07T23:07:29+00:00"
+  },
+  {
+   "titulo": "Brasil corre risco de estagflação? Entenda o alerta",
+   "fonte": "Seu Crédito Digital",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE4xRDI1aWMxSFJXWmpnajNCbk00WGx6eVFfZUNaekRsdy1NcEFmUFE4UDhxUjJMRzBsbGRjTUlHX25iZVNhbzRwS3pKcGtjOXBYNlFqRkRBSE13M0FjZzhIMGg4UnF3UDlNQ3hpbGdsQkZUSFJMbmc?oc=5",
+   "data": "2026-11-07T22:00:00+00:00"
   },
   {
    "titulo": "Dólar fecha no maior nível do ano com emprego forte nos EUA",
@@ -45,48 +87,6 @@
    "fonte": "Brasil Inovador",
    "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPcFlNUy15bUJkTWtxbDQ4eTZBdjlFdUpqNXNVRWRzd0tkOUpaNVpVRVZyWFlCU013V2tIVURlY1hJYmtqazJOUFdOQmNTdmVzRWJucmFHbzFXeUIyWTJiVER3VThOQUQ0dTNyR0VEVWh3MElWTXhjeHlFNlR6VjMxZ0otdjlHT1l1bVNpWWJvVmFPMnZYOUN5em9OTjlyVG9kb0dzTlFtQTVNYzhmQ2NCSVNKcFR0UnZyRjBCYlJEWHJ5ckE5MXIzbmdjQktmRkVJeTkydjQ2S0lnVEFNNUFVY01yUVY1U3M?oc=5",
    "data": "2026-11-07T21:35:04+00:00"
-  },
-  {
-   "titulo": "Bancos centrais de mercados emergentes adotam postura mais dura diante da inflação",
-   "fonte": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
-   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQeDJESW5pczZmMWdMZ2QzanpMZVdFc3FWd3YwZVRZc2EtcnFnUDBQU3FCOG03SnE0bWVxTFJfYko2dlpqMmp4UmEzZU5HT25BQnZXamlnSlFWMGFha1VoTUNWWTZMSmt2TVc5c0x5RDcyLW9RZzBoRHY2d0sxSTJ0VERjbDYxUkZWZHNOQU1HZW8tVThkaGtadzRNbll1X3Rvc284OTR5UGlZM0FBNjdKd3JXeUs0T1J4SnROeG1Gd2ZQWGpYMTZ5VTh3UUlmZw?oc=5",
-   "data": "2026-11-07T21:32:00+00:00"
-  },
-  {
-   "titulo": "Selic: PT e ala na equipe de Lula atacam BC após Copom manter juros",
-   "fonte": "Expressão Rondônia",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOcWJzZ3Q0b3k0UXJQaDVwMWNIaXpOYXgtemZLUl9xcVB2akdjM1diWjVyNXBuZ1NqZ0lhZ01lVnM0Qjg5TmZfVG9LWWZSSkJCVGRjUkc2cGFRY3NCTU1TS2xlWjcyRmo4dnlSc1dXOUtGeVdCUTF6S3hnYlQtdEFIQk8wd21SWXkzNk9US2lKOXFkZVBOaXdtUFhrRS11UmJhU2c?oc=5",
-   "data": "2026-11-07T21:22:13+00:00"
-  },
-  {
-   "titulo": "Dólar sobe e bolsa brasileira fecha em queda nesta quinta-feira",
-   "fonte": "planetaosasco.com",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPbnh5QlZtQ1J5ZTRXajMtNnlYYnAyWkRhWmY4Nk9PSk15aXBlenhJdGYyWUk0RzFSWWw5YnRwTUtiR2RNNlZWZFBiaFg5RDdTME9kQThKV0dCNjI1WFZWcS1EMFQxSnp6WmxSSzk3VW9MNUxWVXFpTHpVMEl1VU1JY0FqWExvTmhkRVp3azRQOXJtaGlUYnlNSzNGT0gtXzRUUzVmR1U2UFg?oc=5",
-   "data": "2026-11-07T21:19:08+00:00"
-  },
-  {
-   "titulo": "CSN Mineração salta mais de 13% e lidera ganhos do Ibovespa hoje; veja maiores altas e baixas",
-   "fonte": "Estadão",
-   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQem1tamdfR3htTDMzSmw3UlRrbnNIWWJNVmFQR0Mwa015VHdvS3AtbHdNNG4tVWtnUnViaWNwaG5mX2pkVWl6SkVVQTVWSHNRZFI0ZkJEYk1LS1RKQW1Zd1h1NVNZZ0wyd05sWU5Kd3dwbWstMnp1aW5IY3EzT0k4MWRVbkNrTVpGLWRSYW9VajhVejM0cTlWaFgtN2VlRHhSNnZtTm5CSTRoM2RhZzhnbHJ3V09rWk9mMUdYa3J0bnRJS1lnbXh0X2ZtTmV3d3RYRmVrZUg5N1hYS001MFNMWEtZWQ?oc=5",
-   "data": "2026-11-07T21:08:22+00:00"
-  },
-  {
-   "titulo": "Prefeita Elaine Brambilla nomeia próprio cunhado para presidir conselho estratégico de investimentos em Araras, SP",
-   "fonte": "Repórter Beto Ribeiro",
-   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNRXYtaTZIQ09KN0gtQVN2N1hyam1FbmVwbEV2ZTR0TjBzeDRqbFJPWlBUX0NIcy11R3BsMUxYbnZLOHFoVUt3T3pCSElWOHdLd2Y1MktJejE0OUlyQjVCWmRZa1dNWnNwcHozemYzNU5yRmVEQ0NJOW1fbFl3bXowckY1bnVDMG42ZDIyZVhDNkl3eVlYcFFkNWE4dVU2d1hIYkZ4VktpY3M3OXRRV3VUYnFkMExQTXN2QXRGZkI0bl9WN3pvUldTQTAydGhQeXVVQ0pKcHphcHVuR2tVRFBVdVNZTQ?oc=5",
-   "data": "2026-11-07T21:05:47+00:00"
-  },
-  {
-   "titulo": "O secretário-executivo do Ministério dos Transportes, George Santoro, anunciou investimentos superiores a R$ 1,2 bilhão em obras de infraestrutura na BR-101, em Sergipe. Os recursos estão previstos para intervenções no trecho sul da rodovia, incluindo s",
-   "fonte": "Instagram",
-   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0zaGJUbk82MmdwdHROcUVvenVVb2xjWkM4UW54NmppWjNCd1R3aUtVZ3I1X1JKbkFHZUctMzNmX0p3TVZseHA2SEg0UEdWT3c3SXJRN3ZR?oc=5",
-   "data": "2026-11-07T21:04:19+00:00"
-  },
-  {
-   "titulo": "Juros altos e inflação: entenda a tese econômica defendida por André Lara Resende",
-   "fonte": "Times Brasil | CNBC",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQY3pjdUw3WXktYVF0NzVGWmpwdVpiX3pMWjduRUUwOUY2R3dsMjY5endQTnJCN09qVnJDTDdraFd5YnZVdlNBYUNUdUxkTzQ3Smp1VURBYmpvM3pBRVRWVlNjdzNhTFEybEJTenVXMmNHaGtYMDd4RG1QLUpMQldTQnMzai1Na1J6Y01qNzVIOWkzNlA1TTF3Z3ktMi1IRm5jVU9feTVjOGp2cDI2VzF0V0dtem5FZw?oc=5",
-   "data": "2026-11-07T21:00:00+00:00"
   }
  ]
 }
