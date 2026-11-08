@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-08T20:40:27+00:00",
+ "atualizado": "2026-11-08T21:39:24+00:00",
  "indicadores": {
   "selic": {
    "valor": 13.75,
@@ -17,8 +17,38 @@
  "cotacoes": {},
  "noticias": [
   {
+   "titulo": "Governo avalia estender subsídio ao diesel para conter inflação",
+   "fonte": "MundoBA",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPdG1XbTMyVmM1VkVvV1pwRkMxMXZRemlfajQ3eVFMLXZjS3lZTnZNZTE1NnZZM3huWGVzX19qb3JXa0ZqWUtHREplemstMTVmTkZrSmw5YWE2Wnk4X2JRanhjV2F6bDBWcmxIYkl2ZHZRNjNwemh0MnpNWjZLclU2MDRuVWx5TlhXM2tTNXZlWV9majNpcFlHNjRjaHI?oc=5",
+   "data": "2026-11-08T21:30:00+00:00"
+  },
+  {
+   "titulo": "Líder do Vietnã busca expandir investimentos no Japão",
+   "fonte": "Radio Shiga",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQT0l1RGFURDVMYi1UQ3I4eEh4M1EzVklTOFZaLWQ2YTRsSDlXVGlqdlNYMmFrbnR6S1psSm8wUkl3REZlZThKV2M5SDg5alBCWFEtYkFIZkJvcTdfSkxfcGN3Rm5mM3RmZlp4ZkFROVpxYllSYUUzbjdtZ3lVcGY1VFh6a3FMNmh5VGtpeWR2YXBGdw?oc=5",
+   "data": "2026-11-08T21:03:55+00:00"
+  },
+  {
+   "titulo": "Copom precisará observar o impacto de diversos choques para voltar a reduzir a taxa Selic",
+   "fonte": "Estadão",
+   "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPZE05UlJiYWZzZ1FhZEtWRU5DLV9IRkFaQXFBU0VNR1ZlZFh1VDNfVEwya0w0MFlUc2xaMDNXZy00VUgwNVRPei1tbzBhNWhGcnYzdHlRdUctdmRMSFU1bm5OekFLOXhNcWlXREs4c194dE5DWHhmMURYSXRLb2R5TmNabWNwV0FGLUxhUjZCckVTdkhCb01GN0ZhX3NkVWdXLUowMGZDbTdsUTFHYjRORjBGYlZOLWhtcXgxb19vVzRhVnk3WDJ5VUpYMlpES2hSdkNkdUJGbzc5UlhSUXBLVHVPdVNUTDg?oc=5",
+   "data": "2026-11-08T20:55:27+00:00"
+  },
+  {
+   "titulo": "Copom, IPCA e CPI dos EUA pautam a semana",
+   "fonte": "SpaceMoney",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQdXFzVXFnN3FPYTFBdjh2b1Q5LW1TcExEN2JHUUpsNmE2UmllUU4xeS1uNElGcGVJUExFeDZ2cXM3dm94VVgwRUdMS0YtSkZSN0tuc0hWc1lRYVRQMFE1di1lMWVPUHRUaUFUVl9HZzFUUExKLW9VamdjZUc3Wjd0aW9KVV94Zw?oc=5",
+   "data": "2026-11-08T20:43:50+00:00"
+  },
+  {
+   "titulo": "Espanha resgata duas embarcações lotadas de migrantes",
+   "fonte": "Jornal Correio do Brasil",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNQ1lUSENULTRnUTlqUG1nMzV1T2Z3aGZNZVdJWlY1c3BPR2pPa3hRMy1RVjFfeVBUR2hWRnhRLW5keVNnZE9qVE1QOFphYy1pV0Q3SmxWek1lZVF1bktrS05hUzExdjNuQ0JweThkdzNONDVrSDNjVGpZVFFqNU9BbXJoeWMtZmhVNmlF?oc=5",
+   "data": "2026-11-08T20:39:05+00:00"
+  },
+  {
    "titulo": "Polônia investiga ataque terrorista a tiros, com vítimas fatais",
-   "fonte": "correiodobrasil.com.br",
+   "fonte": "Jornal Correio do Brasil",
    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOMVVoaFBXUUlPSV8zUVBXaW5jVHdELTlaOTk0STFhY3VMTTJJRTFOdjZLdEprU2FfX1pQTTNKQWYzMndSWEJMRTFFOEQ1cDhUeWt6TUxUT3hfenlMd1d2Zm1rUHlfc3o1ZzNpVUh2dzlMc2hGdlIzb0hhYkhQTTNTWHB1dk43U0V2TXZxNV9hTl9MQlU?oc=5",
    "data": "2026-11-08T20:33:13+00:00"
   },
@@ -57,36 +87,6 @@
    "fonte": "CNN Brasil",
    "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPWTJCMFpYcU02X1hFdlB0YWVFem54cVVFaXMtYjZCWjNtaXJ3aHVrRVFDc3NnZkhQdVJYTy1uQmllOWVoaVpJNjlUM3NDa3cyZmlmOW95NFdyWlJMU1dUcDVneDVLOTlELXA4RHBMOXBwZjk1M2lMRUs0R0dMc1ZtaTJCT3RpUUE2amk4WEN1LWg0eHMtY25ncFJ0OHZKYmVNYVFiYkM3T1BOY05FblJZeGFERHcyUDA0bHlDN19xczk5WGM0T3I5WW5GVnJxcTlGZ29J?oc=5",
    "data": "2026-11-08T20:01:24+00:00"
-  },
-  {
-   "titulo": "O argumento de Lara Resende é incômodo: reduzir juros sem condições macroeconômicas é arriscado",
-   "fonte": "Estadão",
-   "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQaUVRX2J1S1E1NkhiZXpLRE1NMGRMNE1PeXY3SmwtaUwyZm15S3VSQnZRUG1jSHF2QkRwT0RVV1p5SG81Y0NXb0ROQXM0bXNjVEpoTVN0d1JKTDd0TW1tTDNSd2Vyd21CclFCLXBraThHQnU3eGt4VjNYcFB0ZjRqVzFvamVnbUJhWUVKemZDTXpOMHRwZ09QSlpRTUROUWFGOHBMbjVRa3lmZHlaU2NDLXJ2VFd3d182SnljbXFsTVkwV3JuUUw1ekNQLWZDcjE5OXByMWxOZ2ZkZjE3STBpRDRNTG5BcS1OWUpjR9IB8gFBVV95cUxPenpNT3VsTkphUFd1a2xXLWo5X0lpRDdqdlRxcEwyTy1mNXJLSGh6YktFNmxqenZkblBnei1DbmxnVVUyM3FycHZjSkJQVnlHbTFEMWF2dnNWLWItUWFHbE9rY3VfdS1uNllKbU1zeWtuUFVZYVd2M3dlSXFMeDdGa2E1ZktRVnhEN2J4T3QzN3BNYzluLV85ZTRxdzRFcjROMGhaSDZEU3U5VUdIdEFxR3d5TnJzaDAwRkEtbGVkcDJEVmF0bWIwMzc4eWhnUUJaazRxVWVLR2tuRHpVTERNclRLSDBxSzh4Y09MRHpxUUJJZw?oc=5",
-   "data": "2026-11-08T20:00:00+00:00"
-  },
-  {
-   "titulo": "Agenda da semana traz ata do Copom, IPCA de outubro e inflação dos EUA no radar",
-   "fonte": "BPMoney",
-   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPTjRlNDVWX0V1andKZkkxQ2RMVlV5RVpIWkNXSWRVbDlBUE9CU19sQUw4a2EzbHVWYTJleVpISE1kU0ZpTGhWdlVVWGVVa255YVlWYm1xTWlzSEtjeUNiN1BWeEFsa1JnNE8tUnp1TEl3Q09xQVhQRVhiWVl1Z3Frc0hVVlZzVEVaNkZNWQ?oc=5",
-   "data": "2026-11-08T20:00:00+00:00"
-  },
-  {
-   "titulo": "Norris vence GP de São Paulo e Mercedes conquista o título de construtores da F1",
-   "fonte": "InfoMoney",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPX1lYNTVoQTN5bVg4ZmoyVExNdm9rOVotLXBPeUhhU3N1NmZFUnJmdi1oSnRFNHhCenFYc0lCTzF3ZFNycjVuR045MVB1Q2pLbXZYbkNPaEExTHAwSklOYzI5dHBJb3dNenQ3NzFaU3M1Y083V3BFVjNndkVJWkNTQ25fVi1DQnRrN0dSajdnVV9ES0xMLTBCWF9hWDV2RVF0eTNwZS1lM0g2LXdSZ29YUk1JZFhDSkUtN0Rj0gHAAUFVX3lxTE1YZDdlTnc3LTZZb3M4c1RDZjFMaEpxS1kzTmFCLVloMmY5RHdsUTl6Z3FtbEt1TEgzMEhmeXVBYUwxOE95NjRJRVRpTDJqR2pRUElrdGtJY3ctU2REWlJXTS05Q3RnNnp2VWdqS1BCR29jUDlMcnZkdHU5NTM5ZmlzYU13ZDJhdWh2ZTJDTkF0Qk1iVEpmTl9sOUViRGJUNlBpMl9mbEhMNGF2NFZ1OVlidDM2c3ZvUm9BM1RQWDY0WA?oc=5",
-   "data": "2026-11-08T19:52:48+00:00"
-  },
-  {
-   "titulo": "Mauro Vieira avalia vitória de Jerônimo e Lula e projeta novos investimentos para Anguera",
-   "fonte": "deolhonacidade.net",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNdGhXdkpkelRPSHlIX1hGZUpOY2hiUGdOTVNQOVFsVU5nYy13YmlWRlJTQ3pWZXBVaXNJNGtKSGkxenBPMnc0c2tqS00wdTRmVFRnaEx4d3RFSkthaVE3bTdKYktUNmo4amU2cFgtMG5XQktvN3VocE9wLS1KczZpVm1XaTh2SFJUeUgtcWotSnZQd2NWSnpQMFBGdFdyQnllWWk0UGhrdXdTNmx3UEtkVXRDa3RoZFFyLXN6Sw?oc=5",
-   "data": "2026-11-08T19:45:21+00:00"
-  },
-  {
-   "titulo": "Concorrente chinesa da BYD anuncia R$ 7,1 bilhões em investimentos no Brasil e quer vender 50 mil veículos em 2027",
-   "fonte": "www.jornalcruzeiro.com.br",
-   "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxOdnJSVzMwdWpYMkdpTE1Eczc0VzFWZVlZVmtjajhaSVFPYVdDcE9fTWYyOFBGUExsOFlNSkkwRkpNeXFvSGU4NGl3THVSUURhbUJXMGtCWUE0YVFzb3lnRGE4czQtN2ZTSzdfMTJwejBtSlJ1eWQ3dmg0YThCZGlCTGt0SUJrSGVLRmtUMnlYaXhodTREeUdkMHpHeXQtdTl4aVc0QlR6dENrX3BnYmcyVjZNVk1zbTZpUzJVQnZuY0xlekM0Skk2MVVqVV9aT0tqajQzLTJJUndnMXNfQUlVU09GNDdCb21WajcwckRCdjVLM21ZdllxbHgtcXk1VF9HR09ZZVZLa25hYXJRbFE?oc=5",
-   "data": "2026-11-08T19:38:00+00:00"
   }
  ]
 }
