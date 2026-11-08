@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-08T04:55:00+00:00",
+ "atualizado": "2026-11-08T05:51:35+00:00",
  "indicadores": {
   "selic": {
    "valor": 13.75,
@@ -16,6 +16,12 @@
  },
  "cotacoes": {},
  "noticias": [
+  {
+   "titulo": "Dólar sobe para R$ 5,51, enquanto Ibovespa avança 1,39% e recupera perdas",
+   "fonte": "Diário da Guanabara",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOZFVuRGo0V1g4LXUtcU5Zd283V0hFbFhtMXNJb013cEdWdy04ZkdQQmZUblhmSjZQRWVLRWlfQU9NRThPX3RuYUNxQjJqSnV2bEdTQWdZRkxqZ05odWNINVVJa2tNZlpzMFJFVzVtb3M2dXNUYlNRenhueUZJd2RUUy0zd1ZQWnR6eUdMZmVGT3pGc2NKQmFpenFJV2x5dw?oc=5",
+   "data": "2026-11-08T05:47:47+00:00"
+  },
   {
    "titulo": "Mercado prevê estagflação em 2027 e cenário econômico similar ao governo Dilma",
    "fonte": "Gazeta do Povo",
@@ -47,6 +53,12 @@
    "data": "2026-11-08T03:01:00+00:00"
   },
   {
+   "titulo": "Ajuste nas contas públicas: o que está na mesa de Lula e o que está fora do radar do presidente",
+   "fonte": "G1",
+   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOOHY1dE0wWUZ4RkE3RlFGTDM3Rm9aRDdBS3FibUo0dDF4Qzk2OFI0VENibUVLR0pRZWNoQUtncmR6UTJRLVYzX0hYSmFmNG1jZUNnV05pcWRrd2FuR2JPdUN4b2gtTEFlMVhfZ2pnREd0LXZXZFp1WVZfYW00aGh0dTI3VzNRdjM1eFhGdFhUakN1aE5YVHZfT2FVX0loajF2MmlOU09XdmFHRGszRFpRMEliemJ6VUpnYTA2U0NEX0w0aHhxNGZoeTVKcU9LNm9NUlNxeEI2OWgwcHZ0clNPbUtaWdIB8gFBVV95cUxQRHA0dl9xQ1VDZUlZdXlsU3lRNkUtdkdXckVreDBwcEpoSXNibjFLWndVZmJWX2JTMmNSUlBzNmc3VUh4UktmbGRaTjJULWx6LV95MDJ6V1FJcE9ObGQ4Q2szeHVxMlg1aWxYTG5YY01SN2IzZXlkX1N0anJEMHRTQUJha3hzVkczaktTSkVULXdQQWRxZm5rYnVvczQ5X2VrWEF4WFlZdndsRzVPQ3RGN1pFQndyNDlvaXJaV3AzTVpOdG9KVjNIaVB5Ml9DaVU4Z0hsRFhTMVBpTEctb2huMkloNUxHbkl4ZVNFVjRzRWVGZw?oc=5",
+   "data": "2026-11-08T03:00:00+00:00"
+  },
+  {
    "titulo": "Cotação do dólar americano hoje, 8 de novembro de 2026: Juntamente com o euro e o iene japonês, os preços despencam.",
    "fonte": "Vietnam.vn",
    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOWE9PWkN0UnRkdW05eUZpQ1dFUGlRRTdqZnhKd2N0VHRUdGgtRXktem05UDkzTWtBMWc3VGlnX20wQzc4b3ZkaXFRSk0yUEFVOEpDSGYwVGZlc2tYWFUybEJSalBxcXQzdVFVMElRREgxTzNmYzFyUVRLUTZvN09vajJQa1FNSGljekZuWlVMT3puUQ?oc=5",
@@ -75,18 +87,6 @@
    "fonte": "Diário da Guanabara",
    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOelRVa2Nta0N6MFVfYTlTUnpVYVpxLVBJME5sLVZJVThTSXpZRjhFb1hwNjc2d2FTTXJsVG9VVnF6bm5hY1ZwRUZ3MHl3aUlBUFg3Qlo0b0xrelBfR0FnLTUzNFE4UzJ4NFlYZXlUb1Zwb0FRZzY0X0NDdk9MTkRsOF9ubXdDTkEwbFpURmVtLWxzRVYzLVkyLWlOQ3FfUTBwYXdqeVFTOFY?oc=5",
    "data": "2026-11-08T01:35:09+00:00"
-  },
-  {
-   "titulo": "Com a decisão de manter a Selic em 13,75%, o Banco Central dá a Lula a chance de sinalizar disposição para algum ajuste fiscal",
-   "fonte": "Jornal O Sul",
-   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOTmtTc1plNjFEMlhZZldEWGI5SktMd2R6dXJQU1E3eDNReFowMFFMYnZWSWNtV2xoU1Z1N09Oc0pHT1BhSW1fYmtoekZ2bHloZTBlamF4VXJLYVpCeGhnWmNENGtMZnhSTXJDOGFqemZYbFk3aGRJdHFpZ3B4dThoZUcyX3hnOU5VSVpNa2RabVEwbGJMZmlTYVIzU1VGZWVPUHlwMUc0VndNclQtLVJNQ05CNHdGSXhVWHpOUTNZMU1CNjY4OEdUQ2tmVjNGVzZnZUhXZHBCeHR6d1NlVU5FdGxB0gHnAUFVX3lxTE9iZWMtblZMR3hMWm5ZZ2I0S3hTdE13VkYyQXU5enNyeUZuTkk1WjhKM21LanpfNVBNekhEd1pkLWM4aXlWVXZZa1pSc2ZNcjBySktaMS1TamRBSUlmYUVzQ3h5ZC1qVktJR2ZTRHd4YTM3d1VKZUdIY3RnWVluMHNsY2RBdHd4UHBNSWtnZkFmSE50MUNIZjczZXFMN3ZPUFZTMkNnTUoxM3JJY3hka2I2Nkc3c0cyU1BlZXB0RVFsNGNvTWR0QTNuMzdIbXFFU0lCR2N4ZllGNGd4MUdUaWgxSHNVU3VnNA?oc=5",
-   "data": "2026-11-08T01:23:31+00:00"
-  },
-  {
-   "titulo": "Presidente do Supremo valida delação de dono da empresa que geria investimentos de Daniel Vorcaro",
-   "fonte": "Jornal O Sul",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQOHpwcGMwcHAyb0lZa3Z3dUVjUlNEQ2RrYUdyb0RvMnhuWTlWb09OR3pjVHEtb2ZnMy0wSGlXNEtNMW5BTmFZeXpiRXluSVR2WmVRSUxPSjFLNzVfdjY5aTM4c2hTYVVRd3N4dGtxOElFV3N0WnljbF9lcUtidnlyS0pRMGdfODZkLTFmRVUtVFBPVTFKUFlqcmY4OFduYVRna0J5UFdRUzMweWR3UXlaaWk0ekREYjRCbGRxOG5qa9IBxAFBVV95cUxNN1FLYTNqRmtrYmRUZGNLdFZUejVVRjd4cmxwVVVMTXM4eFhZczd2QzJfWW5tVTRNd1dEMmY3XzB5U1RlaGlzMU1mQlZKaGpsZG9URFZfNmtWeTNmVnFsMzAxZE9TUFlGVzIzd3lVYWRYZ3NXbEFVbXlCSTJRcElZRUttSTdaWmVld3RaREhuYlBURGlqWnpCdENNN1JVMlVLLUV5SUdTeVJlMkE4Vmw3MUEyMFVDWnltRGZTSmlsUUpUTE9i?oc=5",
-   "data": "2026-11-08T01:18:32+00:00"
   }
  ]
 }
