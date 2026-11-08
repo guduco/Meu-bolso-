@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-08T08:02:52+00:00",
+ "atualizado": "2026-11-08T08:53:38+00:00",
  "indicadores": {
   "selic": {
    "valor": 13.75,
@@ -16,6 +16,24 @@
  },
  "cotacoes": {},
  "noticias": [
+  {
+   "titulo": "Corte da Selic: Gala alerta para risco cambial na proposta",
+   "fonte": "Acia Araçatuba",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQSmZ6M0h1NTBCS2JXWXhGZzBmN2ZaUWpJY3FGaS10RWNWZksxUzdOTGdmWVdIRUp6ZnBpYUZ3SnJia29aYVhZSmc3amc0YWFEZ1VqbU1nejRQTVZ5UlZ0WDUzOUJQQWk0NlBBRDZ2enh0T3VnNmMtQXZVS1YyTlVvOWtLakI2SXM?oc=5",
+   "data": "2026-11-08T08:05:50+00:00"
+  },
+  {
+   "titulo": "Plano Real 2.0: economistas preveem desemprego e inflação",
+   "fonte": "Acia Araçatuba",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBlQWFNRTN3dFNJdmpDazVLQmxSWllSczliSlgzRFdiZDV4bGt2T0kxVzlnVmRzX3k0SFk2YnlqUmVCcjJPVXNuNnVWUkFVb21Ha2U3MGh6SDdJWWtKLUZob0lXdE5kU1RxUVo4dVVuMGJwMS1IVEZCbXdBaV84dw?oc=5",
+   "data": "2026-11-08T08:05:50+00:00"
+  },
+  {
+   "titulo": "Mega-Sena: quanto rendem R$ 60 milhões na poupança, Tesouro Direto ou CDB",
+   "fonte": "CNN Brasil",
+   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPd2hYR3dpcThNWW1BSTJsLWlwcWQzMDEtQS1Ja0VSV3pJdC1JSUZBaWQyNU9RdUJoMlg2dUZUZTdaYmdLUDdoNDNxUFFuR1Zaa1B6X29IbTRuOFhKSFUtQmN0d0RjQkFoT0EybTNPUV9VbjVmbS1ycExZS29RQ19JZDd1MHQzOEN3Nl82Y3hoazd4cnlTNDE0NEZmeVQ1dHllWUdlV0Q0WHgzMVo4OWVka2MyOXFaejdaZF82SUkwVl9rUWFxV2dadUs0RzFXeUk?oc=5",
+   "data": "2026-11-08T08:05:17+00:00"
+  },
   {
    "titulo": "Bancos preveem estagflação em 2027 parecida com a era Dilma",
    "fonte": "TV Sim Brasil",
@@ -65,28 +83,10 @@
    "data": "2026-11-08T05:17:58+00:00"
   },
   {
-   "titulo": "Mercado prevê estagflação em 2027 e cenário econômico similar ao governo Dilma",
-   "fonte": "Gazeta do Povo",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQTDZzb2U2V243Vl9aZEdDNG1DWW9YQkxwbGZmcGhvOEpEQlI3UWZFUTd0SXBodHBJQkxRcW1sX1NmRTZ4S2tLZm9KRVJwNmNUelItSkxZcDRScUZiZWx1a2lEQmEtVktXQlV1SUN2TXNDejk3TWE2YUFJc1VSNW5KUFZZb3pVMGg1Q1JNQmFxZ2hPejlEUld6SENuVm9GZXdNckFCVW1VdkR3OGJob2lrQQ?oc=5",
-   "data": "2026-11-08T04:33:00+00:00"
-  },
-  {
-   "titulo": "Bancos projetam inflação de 6,1% e crescimento de 0,5% para 2027",
-   "fonte": "Tribuna do Paraná",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPcGF2YmdQSmhYNzBNVE8zQndmdnkzWVh2ZUx4Q09aNENZT2ZCcEpBSXdOVWNWTFNJYS1jbFdSVm4xN2U4M25CUl8wOTB5YWZvT3JpY2VLTzdLcFlkZHl3ZlRxSXNhV240WV9LSWlzWENjTHQ4eVUxUU5ZcmVqdzlUSW14VTZFMGFvVXNNYnlxWFRDQzhZNUp3akJiQ3MzVjJZZ0RHUGJjR2hON3dM0gGyAUFVX3lxTE94am4tamhrTXZaVkQ1LWFxcTdEMWYtZFRGbUMyYWIxVS0tSVE5N2RObGJQQkg2WmFZM2N0RHdsZE1yN09NNi0xX0VrTkpMR0FnbVRfdnpjR0dCc0tFcVBHZHN1anhIakR2ODJoWTBxZDNTeFhOMTNxd3VrMFBocnV2QUVrTGg4SGNjMmhHWVo0SWdjb2FYWlhjZUpQZW5zYnVtS3o1NnFVaGRybFVldF9lZ3c?oc=5",
-   "data": "2026-11-08T03:07:00+00:00"
-  },
-  {
-   "titulo": "Dona do TikTok avalia ampliar data center no Ceará com investimento superior a US$ 10 bilhões",
-   "fonte": "Portal IN - Pompeu Vasconcelos",
-   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQZ2xQRUJBVG9FMlVQcUh1SXozY0JaQzk0WXdzNGFKUFNMeklwaHFwUTFFS2RQSExua0hhbV9lUElCSlpSeDltNEhZWlBpMjVNUXJwcXZaYldxS0dlaU9JX2x3X25CUmdaRGNBZW4zbjJoOTFTOTVWM29MVDNjUV9jU3lWUmdHTUUtbVNVdXJsdHpfelJqdHg3dnJ4QmN6czRXZ1BBU0ZFRnVxNGtxdEJqLU9JeHRSSmZjZmNGN2ZXa1Y5bTBxZEFibHBn?oc=5",
-   "data": "2026-11-08T03:02:00+00:00"
-  },
-  {
-   "titulo": "Brasil registra US$ 5,6 bilhões em investimentos estrangeiros no setor de comunicações",
-   "fonte": "Diário de Petrópolis",
-   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOY1RuRGFXNE9XeG94Q1Z1TVlNcWV2dWF3aE1xbFNzSVpoZVpmRlBGTENJdklZRmZQVURDR3lxSS1EXzVyUEZKUmRZN3pCVl9QZzFzVjl4MVdRa0Y3V3lFMmR0OURIbWJCQ2g4U2JNX3labXBQSF9CQU15cmQyS3VRcHF1YXJkanEzbmtXVU1nQ2htel9nOEktMWN0WDNzemwwdThFU2czY0x2WHJob3YyU055NldaS29qbHJLZXc0bURRT2Z6Z1lLbXFieGc?oc=5",
-   "data": "2026-11-08T03:01:21+00:00"
+   "titulo": "Frete mais barato ajudou na queda da inflação de alimentos, diz economista",
+   "fonte": "CNN Brasil",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPSVZXWWVHUm5OU2RIdnQzMXlWem5pQ0F3TWFtQy1Sa2J1VVhOd05GMGt1MlZSSWFFSXhMdHYxcHFzdnVheXNMZzlXYUFRRlBIYzZ3UWkxa21aN1NwVjBPdkh4WktDVUFjV0UyRE1yZ21qbWM0SV9VcnlCQ3pRV2FCa1dZOVN6N2pnOVdvRXFTczE4YVFlQkotVkRFWEswUDUwYTR1SHo5S1lWZGRDTmlQNmZSTWhqS18xRUJmSnBuRGdwNGdFeE1DVFlSOUg?oc=5",
+   "data": "2026-11-08T04:34:17+00:00"
   }
  ]
 }
