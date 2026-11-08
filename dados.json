@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-08T15:39:29+00:00",
+ "atualizado": "2026-11-08T16:41:13+00:00",
  "indicadores": {
   "selic": {
    "valor": 13.75,
@@ -16,6 +16,42 @@
  },
  "cotacoes": {},
  "noticias": [
+  {
+   "titulo": "Dólar sobe para R$ 5,51, com dados de emprego nos EUA",
+   "fonte": "Portal Rondon",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNdmg0UTBsQ1FxSWI0WXpwci1URXkzaVE3Nks5enRxTU9ZLUxQX3VheEJHZjhoVDh1bU9EWURFMEtoWThhbkRCMXphQ2xVelYtaDNmT19vM1F3YllTRGNhcXNXbDlyd05SeEJDX3BuX2pGT055Y3NULWo4bG9JNVh0cmVaeXlaSWR5VjRrb3Z2NFA?oc=5",
+   "data": "2026-11-08T16:35:45+00:00"
+  },
+  {
+   "titulo": "O boom de investimentos em IA é sustentável após a queda de quinta-feira?",
+   "fonte": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPR2VjQkpHdVBMWkthZlBNaU1JakNWVnh0NGxxeFdrbVJXU2Y0d0tRajA0bkpyd09DOFB6OWk4UnJYQ1FVS3ZNVEVMM3oxRTlzQmN0RWhTcDVQTzFNTlhmeU5pM2drQTM2YXFXSlpTSVpMX3UyekdhSmIzS1g0N3VuSlkwSVhPWWdFUEtqLWNQVjRvd05Na1A5aUFaZVhyaVNFRjhBY3Y3YU94T3kzb2dQdDhvYWY2dzYxQ1RKOTBfTkd0WmJRWEE?oc=5",
+   "data": "2026-11-08T16:17:00+00:00"
+  },
+  {
+   "titulo": "\"Lula presidente é a certeza de maior cooperação Brasil-China\", afirma Caetano durante fórum de investimentos na China",
+   "fonte": "Panorama da Bahia",
+   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOU2dWcHBkRkN1UXJSZzd5NnR1VTZtT0NjVDFTQ1p4OEdQa0F3NC1ZZk1iV3owd2pURzk3cXprelppbmRNeUlzVFhLb1pNeU5YOUZIU0REMWVUNXdTeGZoOUxlRWlvZWNPZEowUm92MGZlYVRIX3ZBOUlSb1VzZVdsWEtvQ2pEN0o4WEtYTmZFRUFzWk00OFlXUjFadFJGY2pnUFhQTDN1ajc1NURTNElsTzRQMHhocDR2cXk1UEctUExVZnVobTJVdE51MDdJVXFiRUpYU0hIeURkc3BkcjlmLQ?oc=5",
+   "data": "2026-11-08T16:08:00+00:00"
+  },
+  {
+   "titulo": "BYD reúne 80 empresas em Shenzhen para atrair fornecedores ao polo automotivo de Camaçari e ampliar investimentos na Bahia",
+   "fonte": "Jornal Grande Bahia",
+   "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOQWVWWGZYb095Ty1OSmc0WWUyd19zaE4tX216eXdoeGZ5a3lwQUltSlo0QUpaTHpPaDhDTTNPbmsyN1VWMDBaTXl3WExueUlBUEI2TmtULWhFbGRoX2c1RExPbmxOMFZhZWhvcm54RXNLQVZNZHdSMkxhbjZUWnVlTGpZMkNIV3VVSFFiekhEZVFWc3dyQlNIeXRpSVdyNDNkazZMdkFVSmMxUXJLRnJieUFyd3ZCQzZqTXphZHVpZVI5ZEdNeXU2d2haUXNKRkN1eFRZUTMwbEQxY2xESHdFYVdUSDhJR2MzcFZJVzlFME8wbTJaU3B3?oc=5",
+   "data": "2026-11-08T16:00:17+00:00"
+  },
+  {
+   "titulo": "'Novos investimentos estão em stand-by', diz presidente da Câmara de Comércio Brasil-Paraguai após crise no país vizinho",
+   "fonte": "G1",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPeFVoZFE1Yl9tOFpTQWJlUC0xSXBzUFRjZEMwczhkQ3pFLXhLR3RkMG83ZWFERUJ1VjFrSmRWOVNOMUZiQnlzVVBqRjQwbDF6TmFrdkdla3NXTVYyZlBibTRrSFJhUGp2Z0l0dXZyQ1NYaFRiaXlvWm1JQUh0cHlkUHhZOE9MSFVZdmxqZzlHUFlwQkZaTTBCRTdGcEVPOFdqUGlDcm1ibHhhQ1NkZERXX2FPYnJVMkxsMXFMN3pJR3VIeU1TMEZr0gHWAUFVX3lxTFBoSWtxVWNMUVdRMi1zU0Q1WVprTHIyY2pzNmpZOHNyaExmX25ieEttM3lVR0QyUGs4ZFJLN1ZQZHJkYTN5ZkVLeUNZcUNBTk5TdFlKZ1dUZDg2RjdrUHowNEYtRnhRcHE2SFB4X2FIRjF6RlZuNVBYQ2Jscjd1S29ZSFJWbGRuUDdFdUNBMU1HOGdIdzFSS3VmZ2VCZUk0LU40QThsUXNjQ3htX0syRDAyWE5TckNPS3lwSXplVGJrODNTR1JkV1Qzb3dpZDJ2NDNCSUpiZXc?oc=5",
+   "data": "2026-11-08T15:46:14+00:00"
+  },
+  {
+   "titulo": "Governo de SP inicia nova etapa das Travessias Litorâneas com R$ 2,5 bilhões em investimentos previstos e modernização da frota",
+   "fonte": "BS9",
+   "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOX1ZzbXVsbERTZ1QtSlk1QWJBU2RTMlFVUlBxSkNRTEdWa1g4QWo2dl9NbDFJNzBTdTlGNlFiRk1RSDh5eWJpYVEzTXNKY0xfaUJ1MmVoSm1oSV9keFA4TENHclpyOFRFZHBJSGZXQUw3UG44NzA0YWpjT05HVlk3OW16OS1ITER3OFNqT3ptOHg0QzYzbUpXMEhpQUNmTVd2cUEyY1ZYT2Fscm1kazZGRU5EQlRLQ0gyeGFQNnRESGJsOUpiNHNuZWNtX3JuakQtX3NIcWFSaTBRbndIcE1QLU4tME11Vld0X3dDTkxpajhkZm03Wkc0OWszampLUkF5?oc=5",
+   "data": "2026-11-08T15:45:26+00:00"
+  },
   {
    "titulo": "Mega-Sena: quanto rendem R$ 59,5 milhões por mês?",
    "fonte": "Game Overdrive",
@@ -51,42 +87,6 @@
    "fonte": "Money Times",
    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPRnJXZjZza3Q0bjBXLVo4d2VhSkdZYlYwN21GY1RaNU5wZmgtNW9IdXdfYlVVdDY2S2kxc3NGUFNRTzNQS1ZfVFloSTRfS3NqS2JSb05QRVZpcHRUVFo5dmNMbzRvbXBkVlZxOUNmdngyWTlSblJIUEZlQnAtbDBtY1d5eU9xbjdzYTc3bllWaG9wSUpYR2pIY3A4MWF4SXVXUVB0UDRaU3Y3cnF1a1hGaTFB?oc=5",
    "data": "2026-11-08T14:50:00+00:00"
-  },
-  {
-   "titulo": "China deve liderar investimentos globais em energia em 2026, diz emissora estatal",
-   "fonte": "O GLOBO",
-   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQRHRVTm5TWjZOaENsTHh1LW55LV9MbHI0Z0E3b01DejlKdzRzSkdnRlV2a19aQUszWTVCUkZxV0JkVGNqeEpMamhDZGJNdzlyTXRYRWo0ZWNSdTA5VHpzeTdLNFk1VGdiYXhhNXljN2lSNF8td2RveXpwYjJ3VlJSaVRYNERVU3JPNjV4c0QzamMwWV90eEtHUXpONGxjYWZYVktzejNBbFBKdVpJNGpzYmpYeFp2S3U4enQ2VUZsVUpVc05mY2Znb0xNTjktYU5NcFJjM1p6Sjd3S0w4bDA5bXJR0gHwAUFVX3lxTFAtYWc5cUJ0NDREa3ptSXRqV2ttRDAwWW1TcGpGYjdOdHFGOUFtSUlzUnRLZmhzR3VXNVc0bnZqcDk2TmpBNG1LRVdHdjc4ZWNLTExoXzlla0ZISUE3b1V3elRLTGkxbmZjV2xyMG1SemVYYTdRVkVQQ05ZYlJtYklFbXlVNVVYR0hDWmxKRElrUVdxSndBQWRkY29id2V4WU92WUZsNmZUUW83ZW04YmtJWEFJc2JIWHNQNHBsaDcxU2xpUUhJcjA5MTNGeUhWeTNhRURWYnI0dHRtQVdjYTNwYlRTOXBaeXRfQm5FQVFoVg?oc=5",
-   "data": "2026-11-08T14:38:58+00:00"
-  },
-  {
-   "titulo": "Professor de Cambridge propõe limitar reajuste do mínimo à inflação até as contas se equilibrar",
-   "fonte": "PIRANOT",
-   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQUjNrQTZrVTRGdDdCd3ZEQlFfeVJSWHpNZFJ1cElYUEpZbzJuYzY3LVRDZGRjbUc4bzJ3a1ZWdDJCaEpETElVVUN6NjlZdjVIZnB1X3NpM3BvZmIwclpXNzdDLUVHVXExNFU5VUUxb0JiLU96dXN1SHlFU0lPWlh5ZWJKVmQ1cmVCOGZOS3lWQUV4bWs?oc=5",
-   "data": "2026-11-08T14:30:18+00:00"
-  },
-  {
-   "titulo": "DUELO DE ACUSAÇÕES",
-   "fonte": "Portal O Dia",
-   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE03aG8yS2V1Mnotb2liRldZeEYwYlFBTTNBekRramZNQ0lTUUdKZFJWQ3ZsU2ZVOXdZZG83bEg0VmlOWW5MVV9ubG1wUEZUbkJzbnp4WWUydDgzUjV5clk0N2dWREU5dlY5cWF1ajVsbm5qdmZxUjRtZndNaw?oc=5",
-   "data": "2026-11-08T14:26:25+00:00"
-  },
-  {
-   "titulo": "IPCA: veja os alimentos que ficaram mais caros e mais baratos em julho",
-   "fonte": "CNN Brasil",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOeGFDcC1mWHZVaUtHelpKcmhRX2JnalNYUEktQmUxVnFOSXAwTGdlVFpDZVhHQ2FEU2hBOUZjMGxMLVExdmRYSkhVcHNnTjZXS05hSEM5RFZyM01IZVZJSi1uck40ZEMwaTNoZ19ydEFMX1drQ1I4eHVUS3pKLWg2NDFzbFQ3MkV2XzlwQ0h5SmVUaU5nc1ZsUjVvSlNSa0RhZGFVMUdJZw?oc=5",
-   "data": "2026-11-08T14:17:11+00:00"
-  },
-  {
-   "titulo": "Notícia Inflação, ata do Copom: os indicadores que movimentam os mercados na próxima semana",
-   "fonte": "Kinvo",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNYzNaNDF4RVhHUjdOVGZfd2p5ZE8wZEdQRVE4a1N6bE56NWR2MEJzZE1ndFhTWm1vcW1KMlZVN0p6SGNLX3VTZ1Bfd1hzTnQwdXVodmRUTHc1c1NWc1BKZmQ3ajNMc1d0Vl9rOV94NUlWWWVtRmZLTFlIMzJSeVVVMlV5eElDbm02S2xsd01YaFFEaEZpOEdIa1Rxdm9iSVduUVphc0JUZGhGbzYzWldJ?oc=5",
-   "data": "2026-11-08T14:11:00+00:00"
-  },
-  {
-   "titulo": "Por que o ceticismo predomina no mercado financeiro após discurso de Lula",
-   "fonte": "Diário do Estado",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQaC0zanBkczc4X2RGbVRkdWQzQjlJeU5xOTR3WThKX1pJWk1iOTZrWE5KaFI0OU1hYTNQVXJCR3BGR0lHZ0VHUWN1OGd2Ulg2MHpoNjlGT09QcUJ3YkJVSWc0SHBDeGJLUVNpVi00SU5Fa1lERW5vclZjNEFXOW5jZzlNMGhYakxpekV0Vm9zMmRxbjhCVS1rM1NDcE1LZzA1cE9xZXhIWElSUQ?oc=5",
-   "data": "2026-11-08T13:46:21+00:00"
   }
  ]
 }
