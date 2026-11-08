@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-08T06:58:31+00:00",
+ "atualizado": "2026-11-08T08:02:52+00:00",
  "indicadores": {
   "selic": {
    "valor": 13.75,
@@ -17,6 +17,24 @@
  "cotacoes": {},
  "noticias": [
   {
+   "titulo": "Bancos preveem estagflação em 2027 parecida com a era Dilma",
+   "fonte": "TV Sim Brasil",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPZU5uZHdaSWpOZnV0NEkwM2hoZXI0eUNqRkl2WDhKT1RlZ3dTZU0zNlhBMUg5Mk9qdkJyYmNQbTRfZVM4M1JESGlmRi1jRTFlLXJkYWhMdTM3S1ZpZGVoRG5KNzl3dHRIdWFxOHJuT1ZnZDZIaWZ5OHpGYWhLNWxBTXBWZ3BmdmUydmhXVlU1eTJXOFdzY1kwWkpleHNQbU5xMEJJN0t3QUU4ZnJrdFZiYnZzNTRHdw?oc=5",
+   "data": "2026-11-08T07:24:40+00:00"
+  },
+  {
+   "titulo": "Muitos membros do Fed apoiam o aumento das taxas de juros para conter a inflação.",
+   "fonte": "Vietnam.vn",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNQXV0R0hnR01yc0I1RTBlOTZYRkZzQ2ZKVnBHd3pMRU0xSXMtR2hfQ2ozR2N0V2p5YTFMM3lReXo0bWd1OG5QVDhHcFM2Rk1PVzEzVDdfMkdhdVFOdnp2aTJKZ01JUFJZMXVZb3YxUnFPd3EzYlJ3SXA3dkp5X1kyYTViLTVpUFdVQ2lSdHV3VWU?oc=5",
+   "data": "2026-11-08T07:20:05+00:00"
+  },
+  {
+   "titulo": "Ajuste fiscal gradual de Lula perde força desde 2024, e gasto cresce 5% acima da inflação",
+   "fonte": "O GLOBO",
+   "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQaGZiLUJfMnBsVjFjN292UVZXd0w5S3NWeW5JWm9hcVJ0cmhxOXJxWnNzWHVvZkpkWkx3WTBlUER1MzdBNlpHOU1DUEVfRnlWU1haUzVTY1BpQTZubm42enFrTlh5YXlMdTdGcThhUXBHSmFYNksycWxBUDM2MWhzWlZhYVBja2U5Uk93cWM2QUVQbklTS3lOSHdRVWVjN05vR3FXaVRLbEJUMFRzVDFqUWZiNE1QNHBTSHJJX1NMak9BbjUta2YtdTBKd3hrdy1aSUI5ZXpLeFF0Rk93aXAwOEYyekQwNnRKOERpdFZlbjQwZ9IBgAJBVV95cUxQU19fUGFjUmlUaFE1UEZ2LVlIMlJROTkweWUzbnZUZERCU2hwYXE3MEEzenlkekowZThJeWpYbEVKdWM5OG1kWTN3TGsycnFBLVU4SmJEWUNTXzdmU3F4WUdnbE1Cdl85dTY0bzl4WjdPWUZadzU1SnpRQl9PaGFJcWxVVkF3QllVUFUyMEpRNDltdTJBMk1LYVpDekJKSVp4dElqaU81WkVuTWtRSU53b2NZYVdudm1BTEJJZTJrVnh0c2RfY0o3V2F2QXV0azkwTnRpU2FYTHcwQVRfODhHcHJOczA0UFp2a0FFUVVWRUdHZXBQdWNNSzhQSzM2Y2Z5?oc=5",
+   "data": "2026-11-08T07:00:00+00:00"
+  },
+  {
    "titulo": "Brasil — Bancos cortam previsão de crescimento do PIB do Brasil em 2027, com mais juros e inflação",
    "fonte": "Prensa Mercosur",
    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPM0dnVWNXMDAya25Ic3ozYktGdXNpN18zNXJHQldQZXBhcm5OM1RXNXU2a0I2dE5UZTZzczQ1eW8tS1JPTEZ0QmQ2ekc3eHJKT1N2Tk5QTDRtQzNZTWhHRDBxUGZVaS03WVZSa0t4OXk3NFNVbTFqaTZXNDcwbVo1T3VKNDN2Wk5WelRrT29MRnlfNUI5UFd1ZTkydXVsQmdQVHdlVjFiV0NSVXpvNUI3UV9iM0JnVTk0UXRlYkI5QndPd1pTWjljM0JESkFoQWs?oc=5",
@@ -29,10 +47,22 @@
    "data": "2026-11-08T06:32:38+00:00"
   },
   {
+   "titulo": "Copom: mercado vê interrupção no ciclo de corte da Selic, mas afasta chance de alta da taxa",
+   "fonte": "Estadão",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTEhPRXZXSld0NkJrWi1DaHNHWkxkaGtuYzdUSFpRYlRQZV9xR01qNlZmLXlNdmFYaC1iRWFvNkVUbXNRWkw2amlrN1I4WWg2cEZhR2FSa2hhSE9xWEVwdzdxd1JfczdzbFZTZTROaTlGRDN6YjdNT3Q4c1RtVGVjSFJ6b0tTWW44dDBSZ1prbmFVdEl1M2ZzekJISWxucjFtQ3NYWUM1QXRGUQ?oc=5",
+   "data": "2026-11-08T06:05:56+00:00"
+  },
+  {
    "titulo": "Dólar sobe para R$ 5,51, enquanto Ibovespa avança 1,39% e recupera perdas",
    "fonte": "Diário da Guanabara",
    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOZFVuRGo0V1g4LXUtcU5Zd283V0hFbFhtMXNJb013cEdWdy04ZkdQQmZUblhmSjZQRWVLRWlfQU9NRThPX3RuYUNxQjJqSnV2bEdTQWdZRkxqZ05odWNINVVJa2tNZlpzMFJFVzVtb3M2dXNUYlNRenhueUZJd2RUUy0zd1ZQWnR6eUdMZmVGT3pGc2NKQmFpenFJV2x5dw?oc=5",
    "data": "2026-11-08T05:47:47+00:00"
+  },
+  {
+   "titulo": "Atração de investimentos: Lucas do Rio Verde fortalece desenvolvimento econômico com novo complexo logístico",
+   "fonte": "Prefeitura de Lucas do Rio Verde",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE8zSnZDdHJjeEVnNVdEQVhTZlBPTDRETDJ2RmpwdV96X0VZQUFWWFNudzRmcW5wWDBXY2dhY09VajdTbXc5VlllWnNVSXZQeUpoaU4taWEtSDNvSWZFY1dRSWRZWQ?oc=5",
+   "data": "2026-11-08T05:17:58+00:00"
   },
   {
    "titulo": "Mercado prevê estagflação em 2027 e cenário econômico similar ao governo Dilma",
@@ -57,36 +87,6 @@
    "fonte": "Diário de Petrópolis",
    "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOY1RuRGFXNE9XeG94Q1Z1TVlNcWV2dWF3aE1xbFNzSVpoZVpmRlBGTENJdklZRmZQVURDR3lxSS1EXzVyUEZKUmRZN3pCVl9QZzFzVjl4MVdRa0Y3V3lFMmR0OURIbWJCQ2g4U2JNX3labXBQSF9CQU15cmQyS3VRcHF1YXJkanEzbmtXVU1nQ2htel9nOEktMWN0WDNzemwwdThFU2czY0x2WHJob3YyU055NldaS29qbHJLZXc0bURRT2Z6Z1lLbXFieGc?oc=5",
    "data": "2026-11-08T03:01:21+00:00"
-  },
-  {
-   "titulo": "Lucro da Berkshire Hathaway cai 28,2% no 3º trimestre, para US$ 22,1 bilhões - Portal IN - Pompeu Vasconcelos",
-   "fonte": "Portal IN - Pompeu Vasconcelos",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQenM1MFhmMGVSRFFHaFl0c2M3ajhGbUNqcXFnbjhSTlRna2YyaW1jbHBWaEdwbW5RazVQcWF5UHhONlRpWnZSVDBpeHRhclVQOFY0NTkyQ3VvS0dCclUxY1Z6ckhQNGE2NjNGLVRvSTBUX2t0QWc0QWJ5MkNWQ3I5a2tidFB2QVJaakNTMlE5bWdmcVIzRkV6U2RqNk1MZkphWU0yeHppQUs2cnNmZlE?oc=5",
-   "data": "2026-11-08T03:01:00+00:00"
-  },
-  {
-   "titulo": "Ajuste nas contas públicas: o que está na mesa de Lula e o que está fora do radar do presidente",
-   "fonte": "G1",
-   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOOHY1dE0wWUZ4RkE3RlFGTDM3Rm9aRDdBS3FibUo0dDF4Qzk2OFI0VENibUVLR0pRZWNoQUtncmR6UTJRLVYzX0hYSmFmNG1jZUNnV05pcWRrd2FuR2JPdUN4b2gtTEFlMVhfZ2pnREd0LXZXZFp1WVZfYW00aGh0dTI3VzNRdjM1eFhGdFhUakN1aE5YVHZfT2FVX0loajF2MmlOU09XdmFHRGszRFpRMEliemJ6VUpnYTA2U0NEX0w0aHhxNGZoeTVKcU9LNm9NUlNxeEI2OWgwcHZ0clNPbUtaWdIB8gFBVV95cUxQRHA0dl9xQ1VDZUlZdXlsU3lRNkUtdkdXckVreDBwcEpoSXNibjFLWndVZmJWX2JTMmNSUlBzNmc3VUh4UktmbGRaTjJULWx6LV95MDJ6V1FJcE9ObGQ4Q2szeHVxMlg1aWxYTG5YY01SN2IzZXlkX1N0anJEMHRTQUJha3hzVkczaktTSkVULXdQQWRxZm5rYnVvczQ5X2VrWEF4WFlZdndsRzVPQ3RGN1pFQndyNDlvaXJaV3AzTVpOdG9KVjNIaVB5Ml9DaVU4Z0hsRFhTMVBpTEctb2huMkloNUxHbkl4ZVNFVjRzRWVGZw?oc=5",
-   "data": "2026-11-08T03:00:00+00:00"
-  },
-  {
-   "titulo": "Cotação do dólar americano hoje, 8 de novembro de 2026: Juntamente com o euro e o iene japonês, os preços despencam.",
-   "fonte": "Vietnam.vn",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOWE9PWkN0UnRkdW05eUZpQ1dFUGlRRTdqZnhKd2N0VHRUdGgtRXktem05UDkzTWtBMWc3VGlnX20wQzc4b3ZkaXFRSk0yUEFVOEpDSGYwVGZlc2tYWFUybEJSalBxcXQzdVFVMElRREgxTzNmYzFyUVRLUTZvN09vajJQa1FNSGljekZuWlVMT3puUQ?oc=5",
-   "data": "2026-11-08T02:41:19+00:00"
-  },
-  {
-   "titulo": "Dólar sobe e fecha a R$ 5,48 após decisão do Copom e com política econômica no radar; Ibovespa cai",
-   "fonte": "Expressão Rondônia",
-   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOWTl4cTFrU3Rod2lCVUM2TE1TTlJjdWMyX0lOSTlCanBVUGQydnJHejZpaEozY3d1djk4bVllWGhFVXQ5aWtCUm9Pek5GT2hoS1ZWcXJvZkdRMEdxdFlzVkZmZ1oyLXg3VVNxR2oxWEZmd0JYTFA0LU5fcW9aTHRiTGVXcVBDX0QydXJvZzVrdkMwQ1o3MnpMbk40WFpFZVdhWmVsTWYzSElUS0JsSUpjZ2U3R2JPbGdFOTlsOWk3dWxnR2FPQWRiTw?oc=5",
-   "data": "2026-11-08T02:27:12+00:00"
-  },
-  {
-   "titulo": "André Lara Resende se pronuncia sobre proposta econômica polêmica",
-   "fonte": "Diário do Estado",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNb1lVQUVvNEx1Wml5Mm0zaVgxODBaNkhGcUt3SEFCcE9McUpWcXdNWlpNWGQ3QnA5MzQwYzdEV3RGUEI5YXVEWlJFTmtDeDE1Yy0xeGtKSnEta1IxazZ1ZW1PNlZxZWZhemFuWUlacXJQRmd0clk3MlZmNG1CaFotR2R5aVlfU1VnUnVnSVQ3VUpaRm9XZTZhY3pWU2hzZ0E?oc=5",
-   "data": "2026-11-08T01:46:40+00:00"
   }
  ]
 }
