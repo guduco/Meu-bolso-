@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-08T13:51:40+00:00",
+ "atualizado": "2026-11-08T14:42:08+00:00",
  "indicadores": {
   "selic": {
    "valor": 13.75,
@@ -16,6 +16,12 @@
  },
  "cotacoes": {},
  "noticias": [
+  {
+   "titulo": "Professor de Cambridge propõe limitar reajuste do mínimo à inflação até as contas se equilibrar",
+   "fonte": "PIRANOT",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQUjNrQTZrVTRGdDdCd3ZEQlFfeVJSWHpNZFJ1cElYUEpZbzJuYzY3LVRDZGRjbUc4bzJ3a1ZWdDJCaEpETElVVUN6NjlZdjVIZnB1X3NpM3BvZmIwclpXNzdDLUVHVXExNFU5VUUxb0JiLU96dXN1SHlFU0lPWlh5ZWJKVmQ1cmVCOGZOS3lWQUV4bWs?oc=5",
+   "data": "2026-11-08T14:30:18+00:00"
+  },
   {
    "titulo": "Por que o ceticismo predomina no mercado financeiro após discurso de Lula",
    "fonte": "Diário do Estado",
@@ -65,6 +71,12 @@
    "data": "2026-11-08T12:45:00+00:00"
   },
   {
+   "titulo": "Bônus de Itaipu deve aliviar pressão de energia elétrica no IPCA de agosto",
+   "fonte": "CNN Brasil",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNU3NKQUlVdXF4SGszU2dPRWZpYnFlb1Z3VG1XVXJsek9rRnpCYmgtSXhIS3NFbUN1REtmYUkwaGUwUTZzVEI4clBCUDgzRktXZzdackROQ3dRaEhwQ2MxQXpEV2hPSWpjcWtpejFRSGlsRm1FbURoSGJTYVJxRUNXYXlDQUdQcjZwQUhmanhmQXRoUXZBOFFoRVFpNkhEeldidWdKbjR0dUEzOXFvenJF?oc=5",
+   "data": "2026-11-08T12:43:58+00:00"
+  },
+  {
    "titulo": "Bolsa fecha em alta de 1,39% e dólar encerra semana cotado a R$ 5,50",
    "fonte": "Isso É Notícia",
    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPR2hCdFFmM3psTlZ3MDhtRDdXWi10VWhPUkdiaXhLRXFWZWlzd0sxWUJxc1N1Y0hOU1k4RVN1T1lxaWhsbjVEbzVYVGFnaTRxZXo0UDY2VnNYOGtKYW5peExTc0htVzNHQ2JLcWRxWjhOZlhOZU5nNEpPb29DVWNGVFh2SlZ0N1hpVlU2S0paU3RXSy1tM0I0WUdWRndTUTBPNy04U2VKMGR2RlZZLWF0eGtTVQ?oc=5",
@@ -75,18 +87,6 @@
    "fonte": "Acia Araçatuba",
    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBOa0FNbGxLTHBVZl9qZGp6ZUxLNWgzLXJZZExtV3pfMG9ybkVtemFzV3VMbjRhRTVla2xjV2ZYNmN3N3RBQUNSWkc0aDdVRWJaRFVSLV8yR21HT2VZYkx4dVBzQUpTdXVuSF9Pd2lDWTNhWXNZRWUwQnZ1bG9tQQ?oc=5",
    "data": "2026-11-08T12:35:53+00:00"
-  },
-  {
-   "titulo": "Mercado prevê estagflação no Brasil em 2027 e cenário como no governo Dilma",
-   "fonte": "Acia Araçatuba",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQbEgydDlSVldkaE5WaWNqdXJITmtjZER1VkdMZkwxNFU3T1BMNmM3b2hmTjRZNTdNTkh3UDhzc1JUY0FUeDNrdng1c2lZdVJzbm43RWttcFZTT3R3S0JybEZPUWVKQTlHclAyNVdWU1MwZTRVRWY1QjMtSWwteXEtUU9kVXRFZ052aHFJUU5JamtSV0xSR3NQSzVFaS0?oc=5",
-   "data": "2026-11-08T12:35:53+00:00"
-  },
-  {
-   "titulo": "BRADESCO E XP PIORAM PERSPECTIVAS ECONÔMICAS PARA 2027 E PROJETAM INFLAÇÃO ACIMA DE 5% NO GOVERNO LULA",
-   "fonte": "Diário 360",
-   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNdjB5d2owWG5IWDBmQjNKOUlmSml0MHVLR2JWRW1QUUZ5clBENkd0aUV5WXRtVXM4azRSRDlIbnlQQnQ2ZkFiMGo1Vkh2cTV5WkJSazhERlI0bXhwVWtQUmFxUWRWY0dkOEc1U25ERDZVUG4tTVJsb1NXNlFQWEpXTThjcVowS3ZjaTB1anNtbUVseEFqV0U5bUxkTldlT29VenlQU0E3OTVDWnB0YW1QNWdoM0gzZTMzS240R1RaVF95RXlfOExtQW9RbFJSTlpnQTJzMA?oc=5",
-   "data": "2026-11-08T12:20:00+00:00"
   }
  ]
 }
