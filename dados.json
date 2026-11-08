@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-08T16:41:13+00:00",
+ "atualizado": "2026-11-08T17:38:34+00:00",
  "indicadores": {
   "selic": {
    "valor": 13.75,
@@ -16,6 +16,48 @@
  },
  "cotacoes": {},
  "noticias": [
+  {
+   "titulo": "ECO da Semana: Corrida ao BCE, inflação e Web Summit",
+   "fonte": "ECO",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNQ2hqT19UY05qV2VCMDZCRktZaHhEdVh1Z0dxY1NJRVNUR1VROEJvRFJhaVJUUWxnbFJXNWw4ZjA5TVFNaENPbkdjR2hULWx5czlKWkNwamVyWndLLUVvMVdudm9xSlotX1RkdGw2dFVoMG93SGVqX01yVmJtQmIzMTlfUjlVNy0yRVE?oc=5",
+   "data": "2026-11-08T17:21:50+00:00"
+  },
+  {
+   "titulo": "Brasil entre a inflação que sobe e a PIB que cai",
+   "fonte": "TradeNews",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1PTGVVMnZWdFZGNzhxZ1dPalFmSEh5bDJEZk9zSHFlVWtyNkpyZ0JFTW5sOXpCZjduMzBVMjdhSGFmb0VWY25BQzJZNWpxYXFsTjd1dDRpcGF3Qm5CdEtYc29haGE2QU9YQ0puS3ZCSV8?oc=5",
+   "data": "2026-11-08T17:19:22+00:00"
+  },
+  {
+   "titulo": "Governo deve prorrogar subsídio ao diesel para conter inflação e greve",
+   "fonte": "Metrópoles",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQMm5mY2RyelNfQlllQ1pzTXpVamtOZDVLQnVoVGswMk9BdkU1RG5WQnU2bk9tdGw3VEV0VjlwdlVlZ1VZeVA0M3FuTEZPVGxsTUNjRC04eWxOTUFVWHlwXzZfZ0lkaWdRUVM4eTI2RzNRSWhYV1JNMWQ1akRZNGhuX0JYWWdxNWJLQW1aaHBuV3VuR2tCVDVRa3lOQU5xTF9NUGl0azNmcmRNWlJ2eDVnTm9tQzhzWEtlU1NwWQ?oc=5",
+   "data": "2026-11-08T17:19:00+00:00"
+  },
+  {
+   "titulo": "Inflação Brasil: BC pode tolerar alta para evitar recessão",
+   "fonte": "Acia Araçatuba",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNMDlvbFlSLTZaallEQmVZQXVETExsLWRXVVJDNnpZM2RiNnB3RE1WSnRiV1RfRGxKdWZfVXBiMG43YWxqMGp3OV8xMldJRGg3dm5ZeGMtaldsMWtiN0E0THZrS2p5M3FpR2RnOEtBVl9ZR0E5NWV4Um0zQzNhNGhxSWluNU1mN1k?oc=5",
+   "data": "2026-11-08T17:05:33+00:00"
+  },
+  {
+   "titulo": "Loyola: Postura do Banco Central sobre Selic foi correta e cautelosa",
+   "fonte": "CNN Brasil",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQd3hGMGpTVkFhbTZabHkzaDBfSERNa0R4UWdUcGJ1c2JMZkp1REdpUUJueGlULV9oaXppTG45czVPb2owSm50S0pJeGVwd3hwRVYtTVY3YmNLTVZuMkVJMW1UeHJoeVFrQmkyTklEUEFYWG1LMnZfdTZ5SWN0VExoQl9HSFI2NWJJdmFTUkRSS0tNdmlhUlhnUFRDQWZUWS1PMS1QSWR5cXVMWDFpb0t0TnIwZU9iQ0JvVFc2NmFBcDZJMEF3?oc=5",
+   "data": "2026-11-08T17:00:41+00:00"
+  },
+  {
+   "titulo": "Alta do combustível e do dólar pressiona tarifas aéreas e reduz oferta de voos no Brasil",
+   "fonte": "ParaibaOnline",
+   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOSHVfcXAwWllJQ1ctOXdOWkVHSHRKSlFqa1pCZGgtVUhuQXhrdHo1NFdteGc5dUFEb25PWjJQLVZ6dkpPTDlLcV9BTVdFa2t5ZFJNYjVoRWh5a3RVbERqMmFuZzQwX3IxM2xYOVh0VVhoWDgycU14b0ZSVTNKN0hZMWJFRkdSNmxJVVozTGNVMzQ4LVNibkgxaUltQklBbE1VSlRjX0tlNGFjTFlqelE1QTlUTFdRSXZEbmJGUkVLc0JpZUxnRmtZYXo3TWJzdUdzcmg4SHJ5Tm5UYTUxaDdfUUpsMA?oc=5",
+   "data": "2026-11-08T17:00:07+00:00"
+  },
+  {
+   "titulo": "Lula quer “economia arrumada” para atrair investimentos",
+   "fonte": "Gazeta de Palmeira",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPcXdqaHhMdlEwcDRmOHNsZmd4Y1R5UUY2emdaTWRUTWJPaFpTdWhDdVh3clBiZ0pPSlZfTnNRSHV4Wjl5VEdIcjRwLXhuZUh0U1AwdXp6VEFIWjgwbWc4d0ZYdWxPNlFHYkxtYmxETnVKc2g4MTF2blhVM2t3Y2NlSFRxbC1CbkdGZnZyOFc0ajJzbl92Q21EVlFTejFVY2tE?oc=5",
+   "data": "2026-11-08T16:48:46+00:00"
+  },
   {
    "titulo": "Dólar sobe para R$ 5,51, com dados de emprego nos EUA",
    "fonte": "Portal Rondon",
@@ -45,48 +87,6 @@
    "fonte": "G1",
    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPeFVoZFE1Yl9tOFpTQWJlUC0xSXBzUFRjZEMwczhkQ3pFLXhLR3RkMG83ZWFERUJ1VjFrSmRWOVNOMUZiQnlzVVBqRjQwbDF6TmFrdkdla3NXTVYyZlBibTRrSFJhUGp2Z0l0dXZyQ1NYaFRiaXlvWm1JQUh0cHlkUHhZOE9MSFVZdmxqZzlHUFlwQkZaTTBCRTdGcEVPOFdqUGlDcm1ibHhhQ1NkZERXX2FPYnJVMkxsMXFMN3pJR3VIeU1TMEZr0gHWAUFVX3lxTFBoSWtxVWNMUVdRMi1zU0Q1WVprTHIyY2pzNmpZOHNyaExmX25ieEttM3lVR0QyUGs4ZFJLN1ZQZHJkYTN5ZkVLeUNZcUNBTk5TdFlKZ1dUZDg2RjdrUHowNEYtRnhRcHE2SFB4X2FIRjF6RlZuNVBYQ2Jscjd1S29ZSFJWbGRuUDdFdUNBMU1HOGdIdzFSS3VmZ2VCZUk0LU40QThsUXNjQ3htX0syRDAyWE5TckNPS3lwSXplVGJrODNTR1JkV1Qzb3dpZDJ2NDNCSUpiZXc?oc=5",
    "data": "2026-11-08T15:46:14+00:00"
-  },
-  {
-   "titulo": "Governo de SP inicia nova etapa das Travessias Litorâneas com R$ 2,5 bilhões em investimentos previstos e modernização da frota",
-   "fonte": "BS9",
-   "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOX1ZzbXVsbERTZ1QtSlk1QWJBU2RTMlFVUlBxSkNRTEdWa1g4QWo2dl9NbDFJNzBTdTlGNlFiRk1RSDh5eWJpYVEzTXNKY0xfaUJ1MmVoSm1oSV9keFA4TENHclpyOFRFZHBJSGZXQUw3UG44NzA0YWpjT05HVlk3OW16OS1ITER3OFNqT3ptOHg0QzYzbUpXMEhpQUNmTVd2cUEyY1ZYT2Fscm1kazZGRU5EQlRLQ0gyeGFQNnRESGJsOUpiNHNuZWNtX3JuakQtX3NIcWFSaTBRbndIcE1QLU4tME11Vld0X3dDTkxpajhkZm03Wkc0OWszampLUkF5?oc=5",
-   "data": "2026-11-08T15:45:26+00:00"
-  },
-  {
-   "titulo": "Mega-Sena: quanto rendem R$ 59,5 milhões por mês?",
-   "fonte": "Game Overdrive",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQTlpocEZDbm43dlFhbU81aXFET3NfMUN2dEFrb2xBbFRjZmxZYk0xZzhrR1htY2tTa3R4akR3LWVpUHU2NXdTV1c1c21QZUhsMzA2MXJuZnZpU1BpQ25UQnU5Qmo4Z3ctYlg1RURpbUEzNHN5RWkxTndyMzZreXE3Qk1vNEVXRWM?oc=5",
-   "data": "2026-11-08T15:11:51+00:00"
-  },
-  {
-   "titulo": "Petróleo atrapalhou o Copom de novembro, diz economista",
-   "fonte": "CNN Brasil",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNNnd6cGtCVXR2MWxoWWk4U28wbDVVV1RfSUZsUDVxajlGUGhNdTZCbDNFdU5LWmM0RkozTEF2STVrVUk1LVNIZnItVlM2SW9WRjdQLW55d2k5TE1NeHFSMGtRWXNqWW5jR0JJbFpfaUpLNk1vaTlIeFVkMTBFMDVQdDA4ejc2WWxHTlNNeDBBek1lRE9kamhJa3BZQzR0RlpFbUQ4Wm8ybC1hdUtNcXN1N2FYZw?oc=5",
-   "data": "2026-11-08T15:00:52+00:00"
-  },
-  {
-   "titulo": "A indignação de Justus após golpe com IA: “Pessoas já perderam dinheiro”",
-   "fonte": "Jornal de Brasília",
-   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNYXZuWG5KWDdkMTd1a2hBTkNXS2lLbDJLVWYtSGxybUxWd2dHMUI2dGd0aU9oeWhrUGtlR0czUlhkVTcyWTE1cnJ5Ym5QOGxaaVozOTdlVG10X29rcmJMZ29nUnFYSlFTcDN4YmtxYmVxdGYtRHJvQmQ0MFltSGE2RDFUV2R4MllJci1Vam9FN2Q2Mmw3aWFhWEo2TTJMYzQ4Wm5GTWpUdFNXMVl0QVpZaXN0UVo1WXdNZ2hfVW1xMW5XaFVVQjJOdll3?oc=5",
-   "data": "2026-11-08T14:59:03+00:00"
-  },
-  {
-   "titulo": "Assista ao estudo do Ibovespa, Vale3, Petr4, Wege3, Bbas3, Bbdc4 e de Bpac11",
-   "fonte": "Finance News",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQOUpmemVFeHJ6YWxMTC1TY1FUb0tPVmtJOXJuSmdqWHhOc0JHRlNxcmticEMwY3JwOVdTX1JJc2xSRGtOSnRoRWZiZ3FOLUZTT2tmY3pzc25OUmJGTElkUzVCQU03ZXVEdTE5NE01aFpnZ0ZJakQ0eTJXQmNtOC1hRmV3ejZxUmtQNXNIbDlrb1RRbHEyeHpEeXM5Vk5kNVdBdzlTeElyNFBucm8?oc=5",
-   "data": "2026-11-08T14:52:00+00:00"
-  },
-  {
-   "titulo": "Fecomércio-RS aponta incertezas fiscais e cambiais como entraves para redução da Selic",
-   "fonte": "Rádio Caxias",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNcUxfUFQ3TE0xTFpRd1NjM3djVE92Q3ZrRUEyNG40YkwwbEh6enA5M1FOWkVYMHhXaFJGUXk2bWJVZXh2LXR1VDVRdDVmV3AzNmcxRUxKU1FtTmpTUTlkbFNRRUZRV1E4elNaYkp1VDhKeENwY3pxS1FnM2lSbk1IYTl1VlZKdkE5Wnd2Ri1SNDVjX1NEUUlqYmowZS11WGdUQ3RBR19ycE5iV0owcmtYR0hfVEsxZFRaSkE?oc=5",
-   "data": "2026-11-08T14:50:36+00:00"
-  },
-  {
-   "titulo": "Inflação, ata do Copom: os indicadores que movimentam os mercados na próxima semana",
-   "fonte": "Money Times",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPRnJXZjZza3Q0bjBXLVo4d2VhSkdZYlYwN21GY1RaNU5wZmgtNW9IdXdfYlVVdDY2S2kxc3NGUFNRTzNQS1ZfVFloSTRfS3NqS2JSb05QRVZpcHRUVFo5dmNMbzRvbXBkVlZxOUNmdngyWTlSblJIUEZlQnAtbDBtY1d5eU9xbjdzYTc3bllWaG9wSUpYR2pIY3A4MWF4SXVXUVB0UDRaU3Y3cnF1a1hGaTFB?oc=5",
-   "data": "2026-11-08T14:50:00+00:00"
   }
  ]
 }
