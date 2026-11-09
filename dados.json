@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-09T05:06:19+00:00",
+ "atualizado": "2026-11-09T06:14:46+00:00",
  "indicadores": {
   "selic": {
    "valor": 13.75,
@@ -17,10 +17,40 @@
  "cotacoes": {},
  "noticias": [
   {
+   "titulo": "Tema 1.484: quanto custa ao credor aplicar o IPCA mais 2% antes do requisitório",
+   "fonte": "JOTA Info",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPQnlTNE9xb3ZrYVc5anJTeWpGdjdNRVpVQXBLMzE2a3JWbFZSR1NGX3cxcVdBT1ZUUDVPXzJ0S2JlNi05OHFJVEp0dmFtTi1URXMxVzRrNUs0X2hqc3YycnA5Zjk4LVB4eXdQNFQyYmladEN5UHhHUHJTcGZpdExsVjlDcXVpb3VvVlhNN2JIeXlEb0xsUUh4enVZR3hDdlZWWGs4TnZ3TVBkLVNPS1pHbUhTbm5pSHVNczBjYzVqdnBMZDA?oc=5",
+   "data": "2026-11-09T05:51:21+00:00"
+  },
+  {
+   "titulo": "Com os mercados financeiros se apertando por conta própria, o Fed precisa continuar aumentando as taxas de juros?",
+   "fonte": "Vietnam.vn",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPTW5tLWVmZklQdUI0YmNTd0hnNjllUGtMSG5HNGVrSWsxTmVMYjBBVS1rblltWGdZb2llQzJTNDliOTFySXp3M0RWS29HZWJDb2N1ZXVmOExEdmotWE1DWU5BUWFwTEZaNmtHUGJCbGNDYWluVVMwR1hZcWIxOFU3ZG9QbGprTlhCdWFqR1o5cVZ5eVltRlAtWQ?oc=5",
+   "data": "2026-11-09T05:45:19+00:00"
+  },
+  {
+   "titulo": "Bancos chineses aumentam as taxas de juros dos depósitos em dólar, segundo fontes, enquanto Pequim busca amenizar a valorização do iuan",
+   "fonte": "TradingView",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBNbXl4RjhZZmI3UDNnS2xuaTF4TmJTZGFPVHVGTDBDV1FlUllhZ29Tb2Q3QTdjUnY0elBXWklXRURmRXVFRElRU2g2Y3NBVDhuLTlUMXFxSjhiY0lPQmtwUkc4MlVNSGVlZC1TWEVFQ2h1UHhxaThj?oc=5",
+   "data": "2026-11-09T05:33:00+00:00"
+  },
+  {
+   "titulo": "Expansão da Autoestrada Norte-Sul: Será considerada a possibilidade de atribuir investimentos a empresas privadas.",
+   "fonte": "Vietnam.vn",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOby15QUJiVklCQXh5YV9YZjhGbnpkSXZmZ3lJTjQtSXBZNXNGRS1TcVFrZzU2b2M0ZzJTVlhJMnM1aENPZldtcXBTTENZSjJSZ1dldzFJR2k0QmJhOFI3MDgwZVhoSUd0b3hiVnZGeFRIVjZQSUlXSjNQRFBmY2IxZlhldkFucU9zdVM4NjNWWGZxQQ?oc=5",
+   "data": "2026-11-09T05:29:19+00:00"
+  },
+  {
    "titulo": "Pra começar a semana: Semana tem IPCA, viagem de Lula à COP e debate sobre escala 6x1",
    "fonte": "UOL Notícias",
    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNdWFjcVVWbHRrSlp4QmUxYk5qYTYzZ1U0dDBzRHQ3WlR5X1JmeElGbHRfWndmU1ZiNkJhX2RGb25INy1LWkVrMkZIQTAtUHNSenBBRWdRRUF4UFF4SV82QmJzaGxJWXhVcWFkQmcwdEs2aUZlSWE0RlFaSFVMOXVKYVZnbGtybS12NmpZaTNVSFpUZTZ3WU1xeFRUNWRXNER5aG5VTnU3S0tSd19FSGhQMXpRZ3RJejVmeDdpR2UwdFVZeG5oeDlheXFlT3I4cmM?oc=5",
    "data": "2026-11-09T05:00:38+00:00"
+  },
+  {
+   "titulo": "Ações asiáticas se recuperam com o recuo das preocupações com a IA e o Oriente Médio; dólar se mantém firme diante das expectativas em relação ao Fed",
+   "fonte": "TradingView",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1QOEVzT3Vhd3c0U0F2UEJRMW9TVDN4d080d3RwcnlBWFlKSEY3Rmp5WVJCYkJTS3BHMUxzZXVXd2N3dXlRdTF1YmJ1S0o0NllyYnNZMnV6WTFwZEZYeEJJZXIwMDFZS2Vhb2ZkdS0ya2luSWNYX0lr?oc=5",
+   "data": "2026-11-09T04:55:00+00:00"
   },
   {
    "titulo": "Trump e Lula avaliam encontro em Washington e destacam diálogo sobre comércio e minerais críticos",
@@ -47,46 +77,16 @@
    "data": "2026-11-09T04:07:00+00:00"
   },
   {
+   "titulo": "Juros: combinação de fatores compõe cenário em que dificilmente Copom evitará novas altas na Selic",
+   "fonte": "Estadão",
+   "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOc1JlUHl2aFhxMVJEaHRvcXRWeUxwWTRkSHFfMTdIakN4X1ZCV3I4cE05aGR3dUgwZXNwOURsb0dqTDhPWjZwc3FLU21Gc0lqX0JaS2gxcTNOOThSN1lCZWZnemJsUndpX1o3eFp4NDgybnZndUlsT2Y1Rzh6S2x3VUtXVDRuZm45UkV0Z19sY1dUanpod3ZSU1o5NGR6VWJTdldTX2hOeFFqemtsYmliUjYwSW9Bb05VYlNnYTBnbXZhNkxpemFvcVFaSnFyU1A4d0tnRFBzSXc2cnU4OWQzVHZIR01CNGg0QlYzbktwQlpxYmxx?oc=5",
+   "data": "2026-11-09T04:04:48+00:00"
+  },
+  {
    "titulo": "Lula eleito, bolsa fez o L: quem vendeu agora vai se arrepender (eu mostro os números)",
    "fonte": "Investidor Sardinha",
    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQZHNDSG1FcGxGUVFGVVlEQ082WG9aVWRKdGhkeGJycHdZaklvUVJORC1aR1kxNnhCVzJIZDFQQU96ei1LQV9ud2lRVTFBVGVTOXJ1Nmx2c3Z3YXhMcV8ycl95QjByMHRQN0RseUUxVjRscG5Qa0ZMbER4QjNjZU1yX0hRZWZncDNOMTdnSjJ5aE1MOTBlMTNUSGdKMDZpSDRic2lqdlplQUlMaHJuS0ZzVU5kWTljX0pqMzRBX1hrRFozOVU?oc=5",
    "data": "2026-11-09T03:54:48+00:00"
-  },
-  {
-   "titulo": "Preços ao produtor na China sobem 5,7% em outubro",
-   "fonte": "SpaceMoney",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQLXZCT2JSSDJXa2w0R21CYy1vVk1sX21aekxIeW5RbGstVUtqc3NiV2RaaUZZNHVITjl1YXJUdENVOERrYUUzOVN3M1psc00yWC1IU1dYMXVfa09ZVDlCMWUzRTN3WlBLb2lCU1ozQlN6VGZUeEl5Tm14azBITDhQd0loSkQzZjJkZmtaWlhLTEJLNVQzSU9EZzJ3?oc=5",
-   "data": "2026-11-09T03:48:54+00:00"
-  },
-  {
-   "titulo": "Lula promete responsabilidade fiscal em rede nacional e mira Selic",
-   "fonte": "Agora Litoral",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPdklzMXluQWJweDhndlE5aVdqa201YmdmVmhIUkpnbmRQVkEwdF9nUVVTTzdoRFlZT1hZLXNUcGNPLUVuaUV3YVJyNXY4X3Vta0xBMmd3NFNkQTV0b1BpZVpPQ3N4SnFoMFZHSlRGa3NreXRWTjlJZ3pxdDZmTF9mUGJIZmdoa3JqNjJTalNZdlJtWi1GeXh1LXV0cUFhTEUxNVloSm96Ni1Pdw?oc=5",
-   "data": "2026-11-09T03:16:54+00:00"
-  },
-  {
-   "titulo": "O Índice de Reajuste Que Você Escolheu em 2022 Pode Estar Prejudicando Você Hoje",
-   "fonte": "Portal Loft",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPT01XOVdUWkJqT1ZZeHB6RC16QldoWVRMX0VWdWNGN3c1QkthWDNSWUdueG8teHFBSDBUenlhU3JoMnRHU2NSS2tSQ2p4U1dUb2dJT3Y4dlhXakYzb3dubTU0NzlTZ1hPV21BbkJyZnNQbjRQdU1rMHpoOUVoOUR3X0VzTTItUHNsV2Vjbjc3TVJJXzV5VEJNSjhZR2EwbzNfclI0djBlYTFHUDVS?oc=5",
-   "data": "2026-11-09T03:13:35+00:00"
-  },
-  {
-   "titulo": "Os preços globais do ouro subiram ligeiramente com o alívio das preocupações com a inflação.",
-   "fonte": "Vietnam.vn",
-   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPdmk0dXhsS2o3WVRydkdIOXpGVmNGSy1oSUNlbmxHcE5zR0tFN1lwOE15clpicWRVZ1QxaXN5MlMybTBmdVU3dmdfVUJJd014VkNWMXRXeVNGRVo0MEJrUEhqbmdxUGR1Uk1XX01tdE1vQVJVNk4zdEZKT1A0UnUzTUF0QTdLelNIVEpr?oc=5",
-   "data": "2026-11-09T03:11:04+00:00"
-  },
-  {
-   "titulo": "Inflação na China abranda para 0,7% em outubro mas preços industriais aceleram",
-   "fonte": "Correio da Manhã Canadá",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNbUd1WkltZ1JsX05TQWxVQlR4QXpkTEctODNrSVlScWx2M2hEREJhaVZRaWlNUTlzTmloSEVOc19BZVVLWFBUdUVRdE9ObV90V2RWLVhwVkxhNU1YTFV6czlXYXdfaVV3Q09uaWg5OWIzM29rT3hTRENOWjFiTENLbnQ5bVRPUmpYcU9sVDhReE5jT090M1ZpM3NXRW5ubkUteVpPNW5lend2YTNDNzVYa01tSmU?oc=5",
-   "data": "2026-11-09T03:03:24+00:00"
-  },
-  {
-   "titulo": "Brasil registra US$ 5,6 bilhões em investimentos estrangeiros no setor de comunicações",
-   "fonte": "Diário de Petrópolis",
-   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQQllyNzVpbHlSQUxLS3hLWVFzTC1qcnNxTlgzcGhvSEJ3SVFseGRvdFdLejdub0t1Nmt0emd0a3ZiX0ZsR25XRWhFaVZNbVhBbGlOblFuWkhXZVJoclFUbFVacnZCR1F3VTVjQTcwUFBuMWduMjhTN2tVVkE5aUREX29JajZ6MXB1cnd1YzQxYTVET280anp1c2JmbDZuLVlJam9FX0FlUmFCcGlvd0dXV3BBdF9WZnFRS2ktZ0RpaXcwXzBQcWFxSmlCTVg?oc=5",
-   "data": "2026-11-09T03:00:33+00:00"
   }
  ]
 }
