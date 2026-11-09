@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-08T23:39:06+00:00",
+ "atualizado": "2026-11-09T01:06:52+00:00",
  "indicadores": {
   "selic": {
    "valor": 13.75,
@@ -17,6 +17,60 @@
  "cotacoes": {},
  "noticias": [
   {
+   "titulo": "Lula vai à TV e diz que trajetória da dívida preocupa",
+   "fonte": "JORNAL DA REGIÃO",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOZjUwbWNVMmdRZWZadk1GS3lQTEFYbXNGLWVDeERaSVRGUkxic3NOYXRvb2VTQWdRTlJld2RWX3pBM0hmME0wUUN5ZVJ3NHBtX3g0R3FHaUhqTGpJOVBrYTZFa2lSOHNpWkJlYUh2amxOOTR3X0pUemVIUHBjREZHRmo1aDI0bEs1Q3Nz?oc=5",
+   "data": "2026-11-09T00:43:45+00:00"
+  },
+  {
+   "titulo": "Discurso de Lula à Nação pode impactar os mercados nesta segunda-feira? Saiba o que esperar",
+   "fonte": "InvestNews",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOSzBVdmp3aVd5Sm53bmFaeTgwTV9pTkk3cjlJRW04V3dTajF6X0JhTUNtZFp3QllXZTJmeC1VbTVROTRsMlZZRHN0YkNDTENsMXJ6bDdnSW5XNXVMclpiR3NGUXdsdWxjOU16Z0FNRFBxUVduOFByR2R2WG80am1aaFU4czNaNklxSkYwY1duT1FNZ1otdzh5aS04S09uVC1OUWpSTzhOQS0yU2xHaHlUOUpGTlhoZGZDTEYtVWF5bl9la0QyQkxDamZYRdIB0AFBVV95cUxONnI4bUt3Sk1hRHVhZGNrcGhLZklxcl8yb0lHOWw5UHhEQ1pWam4zSVF6S0RyNS1VTHdiX2dJNGw1aUI0dnJfd25Jc3R0X0x6UURFcm9FMW1HWmE3MHBuSXA1dFg4T2xveFQ1ZUZLbUlfVXNrODVSRlZRdzZRNkR4QXJTdk1WTUhETlBLczBDWWJMb3dhVG5fTE5oLW41NkdGTUF0Sng2ZEQ1MVBoVGZmZ0ZFM0c4VzRNR2d2OUZubFVsVjJ0ZmpIcHdWYUpnZ3dW?oc=5",
+   "data": "2026-11-09T00:34:29+00:00"
+  },
+  {
+   "titulo": "Pra começar a semana: Semana tem IPCA, viagem de Lula à COP e debate sobre escala 6x1",
+   "fonte": "UOL Notícias",
+   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNdWFjcVVWbHRrSlp4QmUxYk5qYTYzZ1U0dDBzRHQ3WlR5X1JmeElGbHRfWndmU1ZiNkJhX2RGb25INy1LWkVrMkZIQTAtUHNSenBBRWdRRUF4UFF4SV82QmJzaGxJWXhVcWFkQmcwdEs2aUZlSWE0RlFaSFVMOXVKYVZnbGtybS12NmpZaTNVSFpUZTZ3WU1xeFRUNWRXNER5aG5VTnU3S0tSd19FSGhQMXpRZ3RJejVmeDdpR2UwdFVZeG5oeDlheXFlT3I4cmM?oc=5",
+   "data": "2026-11-09T00:33:42+00:00"
+  },
+  {
+   "titulo": "Bancos veem exagero em alta de 10% do dólar após reeleição de Lula",
+   "fonte": "O Cafezinho",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOdTZxTm5BeHJHRl83S0dWalV4eE1NaFFidlJoc3lMNDhmTkZubXhDbVJHNFhkT3J1TlRMYVZLOFVIR0pwUmlTVktYUlBmbWRxOXN1QzVZbWtYOWlYeGdfUmlRVXc3R0J5dWZTbVR5NXdZUkFFSEJYTkFFMEZGbHhVTGk5WUxGcG0xQ0tTbGtqY3laQ05FMVlmbWFjYV9JTkhjXzRVNFp3TdIBrAFBVV95cUxPYlktVW81ZWhFMXh2aVJuVkNJZkNLNjhhd0F2MDBUNjV6NlJGcEtKQ1I5b1hsWkhNZ1F6cnJFNDNLUlJMMlg2Snh6dEZ1UVFRd0dqczU1X3A0dHJ3U2M0VkZHdGxqZjVGUVhHaU9KbGRPcUw4bER0OWVVSFVkZENCSmthQUtzbGpqSkRzeVVPclNLQVdZZTRnQWNyZDJTbkFtRnZiT2s4bFB1NFI4?oc=5",
+   "data": "2026-11-09T00:17:00+00:00"
+  },
+  {
+   "titulo": "Lula diz que governo atuará para reduzir juros e viabilizar investimentos",
+   "fonte": "UOL Notícias",
+   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNUVlpQzYtckdZSmRFWFB5Qzg4UHR0UTJuQk8xWncwMkxIS3dDME1WekFpMGJUQnZUQ0Q5bmgteDgwcmVUS2lza1JsVVkxU0d3NlA4NlNvUkswdlhVQWVibmhGM1d6R21qdW9vczExWU85NW5XZFZoT3JUMzduMUhUQU83M0NUR1ZPTUVqelhCamhOdlZkUnpnT1ptUmVBcEhZbG1uaUdfLW5jQmNLdWlpb0t3ZjhIR2xQYUllY19fSkp1dmZUREE2eXdpdzBhX2JKbE5JSUpSRGg?oc=5",
+   "data": "2026-11-09T00:09:59+00:00"
+  },
+  {
+   "titulo": "Lula, em pronunciamento na TV: “A inflação está sob controle e a renda do trabalhador está crescendo. A trajetória da dívida pública e os juros altos me preocupam”",
+   "fonte": "Diário do Litoral",
+   "link": "https://news.google.com/rss/articles/CBMitwJBVV95cUxPeEl1eW00cE5ld0Y5MWMwWGREN3I5R0cybHB4NTZYTGwzYlpVaHhQM0ZhQl9kQXVxa1lNSFBQSGxfYUFtUDBlY19WaUxlQ183aXJqSzVtVWVtMFlNckFyR1NkRy1PeFZGLWducThyZDB4NUVfdnRQaHExUUtpa2I1a3ZVRlZNTnRNSlB3MEJJNFVDU2h1MHZpSkY3WjlUdkNEamJRT2VwZTBGMzAtd054RTFRSUptdWZGV0JCY092a0w2MUktelVpb0Nnb3RmMzJGMmxCZno0MFFtMm5PaUNaV2lxbmFGNHVjdXA0TG05bjlrRnBSRHNIX0txOUhZSjlPZHF3OVhkdW9IVU9HeDFpQVFpc1ZCUzB3UmtkWVVZTWlsdURIcE12ZnJBQ0JNRFJGYUtkOXlNNA?oc=5",
+   "data": "2026-11-09T00:01:42+00:00"
+  },
+  {
+   "titulo": "\"Muitas pessoas fizeram investimentos e não podem ser confrontadas com uma situação em que não podem aumentar rendas ou têm dificuldade para despejar pessoas que não pagam\"",
+   "fonte": "CNN Portugal",
+   "link": "https://news.google.com/rss/articles/CBMizgJBVV95cUxOT0t5TUxHZkxrM1R3d3p0TV8yNXRPamx3aFJQZ1Y5VzNmSjBCdXR2cm5MMllGT0JGSFpKSWxfTkVBWnNFMXdiMVFqZHdWYmNtT1FPZFRmUjQ3dGFiNXozcmNrcXo0MWNFa1I0WkdwSzEwanBGOE9qTmZENkVJM3dKUTdhcjZHSDNRRjRrTzJBY29wWl9iQXNwZHJjRFF3OTNjOUNhOVRJQmpPQk9hNFlTUFdhSTRRQjlMampjbXNlNEVZcUxIZklIX2FhLVFSSWd1RkVLMDJuSWM5Wl81WHpETjl3cmF1RlR5V19vZ1c0TUNuejFpSmhua2swSklHTEdaeTdPZXZ5eC1ZN1c4TE9zcTgtN0poem9ZSlhFNWh3b0o0cFAxbWRvb2xFaDBqTXZxdDI3X3hjQzdvMXNxTXlMbnpaUENBYkprVnl3OVFB?oc=5",
+   "data": "2026-11-09T00:01:00+00:00"
+  },
+  {
+   "titulo": "Lula vai à TV e fala sobre dívida, mas não detalha medidas de controle",
+   "fonte": "Tribuna do Sertão",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQSUFxdkx2am81YmF0NHdIVHI5bE1HeUFnUzJEbjRNMkhYS0pwUGFoYjd4VThhaUlQUUp4dDh0WURBZHJHRUdlcUlJSF9nWlJIVUxxTm5KdlJmb3Y4TnU2TVF3eUtQTndmdTc3UGducFgtS0FDeHNEUFQxY250V1VPdnJGSGlUY1VKRkQ4Tm1xcy1lY1NEWms2dFdaVXpFOHhXTm9OSTVCRmZLNGVySjI0b3hla1VNZlVUTlV0UTV2Z1VtVnJNcFl6cw?oc=5",
+   "data": "2026-11-09T00:01:00+00:00"
+  },
+  {
+   "titulo": "Lula vai à TV, diz que trajetória da dívida preocupa, mas não detalha como pretende controlá-la - TNOnline",
+   "fonte": "TNOnline",
+   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQeEdxWXl2R1IyUjUtTy1kVmFRTEhFWUpkN1VhQ2JQc2hIdjliUGNsRnY5ejdodzlxU3BWVXM3bDQ5NmlqMGY2TjUxQmtmUmZGU01VWFFLaG1nQ2ZIeW5pMlN1T0I1a0xrb29IbEdJLUZHUDZicEVEQWtEMU1XNUtMSkN4ZVN2ZHlLTFFRYVJsTkJ5WnptSDItSDB5WGFLSXhNTHlONy1XTE1FdHMyVWJuSi0zWkRBdUtMR3JHeDJ2VW5uSHlibEZKSUxKNE5jWXB4V0owZko5MG81bWphSV9YOdIB6wFBVV95cUxOY0c3bF94QU5lOEw2OVlzN0FTVk8xczJ2dk9KTmdzZ3pZNmd4SlFqNExVTDNBWThBcU05UkRodzkzUnl2Mml5VzlFMklWUDZGUGFsUl81d0dTdk9hZU95eUpFMEdERER6ZHZFcFJMajlXRGFBeWFUczI5Yy11YW5zQTRLWk9IdEZ3Y0t0M2tCWkNucVFpU1BhbFYxd1M5VWw3dExhY21ZTkNfRGppUDNFQmsxTWtIQjBzdnFvRDRoRzdWVVR0UkNHSVFRZWxXWUE0NDhPR1VER3hKSnNrYUt4blQzTFR0bGV4M044?oc=5",
+   "data": "2026-11-09T00:01:00+00:00"
+  },
+  {
    "titulo": "Governador Eduardo Leite cumpre agenda de entregas e investimentos em Tenente Portela",
    "fonte": "Complexo Luz e Alegria",
    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQZzNPQmVWWTFJSmhvbHVvazFzQ1dIQVYxZmtLdi1vZ2docF9TdE5fQy1KWS1tYllfRjZFT1h4ajF5dnlmUE9xWVp5TW5JWnZBcVI3VXE3cEJsRFlIb045OUNpN2dUTHdKOGJoVlB3RWUxV1duNUVUblFONW1wdVNfbGZRbm9SWjR6eHJWNlZnTThySHR6NXlMa195YU9NOFpVRnd0NGZDXzZsakVEVDljbzhwVFJ1WTZnSUVPN1l3?oc=5",
@@ -33,60 +87,6 @@
    "fonte": "Vietnam.vn",
    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPbVJQQlRVMzJVSGFtSDZ4V3p5a2UtY1pWS1hYRzZBcGl0S0kybU1IRUcyemxUaFNMbjhtLVhLRUpWMnFlYS1zZTFZSGxOeWdfQkFSdGRYN0pYS3lJOUNmNWwzNmtZaHJjWGludmFIdXU5Y1owcjNRdmd0aEZaX2VjZDZZV1hXNlctQkJiVTJfR0p0NWhiemN6cQ?oc=5",
    "data": "2026-11-08T23:19:23+00:00"
-  },
-  {
-   "titulo": "Mercados asiáticos podem sofrer pressão após investigação sobre a Nvidia",
-   "fonte": "InfoMoney",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPeUFKVzlsTzlzNnZEMDFzV1FhMmFBU2pSLXU2b2VWVEN1NkRiTDhkclQxRnNpUTdDUzBtTzdwbWpoWmNsdFYzSXo5Tks2U2tmTXA3dXNwVzlVZU9ERFhjaV9fSUVpT1VkcHJyWTBzU2oyRzBtXzJIZTZ2LThSTG9xMjdMQ0tJdlR0RDFLcjF6RWtGZlZfOTV5MnZ3cGVXaE1KcnE5ZWd3c29yRzUxR0hNR9IBtgFBVV95cUxNYVBncEFXUXRIS043cDlrU2FIZUp6WDYyY0ZGcWVES3FUeEUwanhyU1FPakE3b281ZnNYVmNxNi0wM0duamVxUTlCbmpJcDRpQXRfNVpiRXVSVlo4UXI1Zl9jOHVEQTJWT0pFZ0MzZXlDcXBXVjh2WGhFYTlFUEI0V0xmaFdrNE9JV2thTDRRaUxNQ2kyOWZxTjNqVE1UdDFYa3dIM0FxeEdUUGZCM3NoME5hdVh5dw?oc=5",
-   "data": "2026-11-08T23:19:09+00:00"
-  },
-  {
-   "titulo": "Mulher morre após policial atirar contra van em Brasília; quatro ficam feridos",
-   "fonte": "Diário da Guanabara",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZllFQ3MzOFdQRURvZ1Vnc2xaanZXTFJBLUZqM1F1enRsVlVfd2l3aHhwRGExRWtMUlZsN1hIWTBaN2NJLXdmQjVNcndYdmNLdlA2N1o3U2Q5TEZKLXRtMVhqUzlubld2TnNmdTVCSEhrUDR5YXQ5WGNFNkpMcVhqalBXMEtOSndhamtVU3JleUdTcjVLdjZPUUh0WGE2RWF6MzRXN2lPaw?oc=5",
-   "data": "2026-11-08T23:06:38+00:00"
-  },
-  {
-   "titulo": "Belluzzo propõe aliança estratégica com China e Banco dos BRICS como alternativa ao dólar",
-   "fonte": "Plantão Brasil",
-   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNVlZKaUJCU05xd3g5Z3JWd2IyM1U3enRlMWtKakF3WkNYYlBsX24xZW5JM1lmb0RGbDlxLTRqSGw4aWNEUjQ4OXgwZGFiQlRCNkVGSFNNX1lmcTNtOGFuYjZ1QlpnQU1UMEJVZkNnWjNsVGZ4R1h6ajlZVXZ3OTdkcDFRS2ZsYUo3eFVaS29peEtrbzBLa0hGTThmZVNKeTNUd1NVYkI2MmhnNjQ3bUh6V05aS0kzdDNRVDl5Yncyc2ZFLURLaUlqbTJZX3o2dU1z?oc=5",
-   "data": "2026-11-08T23:02:57+00:00"
-  },
-  {
-   "titulo": "ANGOLA: MAIS PRODUÇÃO NACIONAL PARA MENOR INFLAÇÃO",
-   "fonte": "24Horas.pt",
-   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNNDB3WkIxVV96bTJWR0s5YjA2MnJxYTlITkxXcEdWRm52ZTRrVUdqRzFaYi1ueEdTdUtSWGVFeHczRkt2OEs0a2Q5UnBXYkx6b2V3WHV0Ymplb0FZd3FfQlpJNzVUWlhBTGZaRUNra05Uc2JaTFByR1VTVVJfNzRzWTFB?oc=5",
-   "data": "2026-11-08T23:00:00+00:00"
-  },
-  {
-   "titulo": "Para escapar do dólar, Belluzzo defende salto na aliança com a China e Banco dos BRICS como ‘BNDES global’",
-   "fonte": "Brasil 247",
-   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNcU01cGZMaTBfQlE1X2tKbEc3MVUyZl9wZUN3XzFhcTNBZ0FfUl9aLXdtWkFKb1VkV3N4TlFiOGJ5RkRrWlV5TEgtNDA1Q2NQYjk5TDJjN003UDZZa3hCWGQyLXZnOEliaUlyTkVoek93amNEakZHdklTT0kzU3VDSlRaaDhzM210TVZsUHZwMFl6dHZkSGJERm1CNWJBWFM1eGhxaWZVa1lkMFAwOHA3SGNjQzY2ZDJ4dWh2a2QySV83bDJfUWlzRVo2QTh3NUktLURLUS14UmU?oc=5",
-   "data": "2026-11-08T22:55:21+00:00"
-  },
-  {
-   "titulo": "Cogna tomba 12% e lidera perdas do Ibovespa hoje; veja maiores altas e baixas",
-   "fonte": "Estadão",
-   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNVnhGSmh0R1VObnlEVWlFQy1LeUpsaG9fNHNNNGZOUVJnNGZHajlzUHNGV01DdTB1SUI2a1UzOWwzTlAycV83c1VZN3BKVmVFQllHd2QxMUdwMFlxQ0o5akk3YTYtdzNNeVVXbXZINE1RYzFsWklSc0puVW1vTGI2R0FWalpWYWIxT1ZvaGViRmlWcXJORmdGaU1zMUhEZDk5TTJRZmVqdUE3UVpfT0F5Wk1lUmFsRGQ3VC0ySEFpbktaSVJrLXlGT3RDRS1lb1pxR21hcWJHODBBNFdf?oc=5",
-   "data": "2026-11-08T22:52:31+00:00"
-  },
-  {
-   "titulo": "Quando a Selic caiu a 5% – Paulo Gala",
-   "fonte": "Brasil 247",
-   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBUZFB0dnJGZ0pyTEVNb19ldHlrNnFGYjJRcGdiQkhWRVMybDFvQWxWNVJNN3l3T2F3SEF6aTNJaW12aTh4ZmFvT1lzY0JyMEd5c05PU3dnZmhWMUhkOG1oYldoWHljUQ?oc=5",
-   "data": "2026-11-08T22:22:19+00:00"
-  },
-  {
-   "titulo": "Calendário econômico da semana: inflação é destaque no Brasil e nos Estados Unidos",
-   "fonte": "ContilNet",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxObkoxWmdSbjlWN1BVYTQyVFFUZUI4dEZHVVpERTdxMTJSWlVjT1N6ZzZXdEsyRFA0enNPcWpmOVpvVHpELVhRTklPUWVrXzVCdkJlSlEwdXVfV0VEeGpDd05ZYndEUEpteV9MaFcyNjlVT2lYcVBXd3pBY1NBbzhvQ0tKNjNQQWRoZ002R3VRZGdpWmNNTDBxdmg1VDVHdXJLZWVhNDMyQWotZmwwbURtTXV4SF9UdzlDa3p5QkFpOHpEUQ?oc=5",
-   "data": "2026-11-08T22:07:12+00:00"
-  },
-  {
-   "titulo": "Quanto custaria um Volkswagen TL 1600 hoje, com a inflação?",
-   "fonte": "Canaltech",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNQkhhZDdFZlUzQ3lheHNpaGxZNXJmZFRkSXI1WVQ5ZXp1V1RldkMyR1pKcm5TUzdjXzRqZ3JKOTBRYUQzOGRlMGRJR3JZMXg5Xzh3a3haX0NybUd0Y3AtdlhyYjkzX244U1c2TGtKdTE0R293NjFhbzZVa2RxemY1cEIzbHZzOFVseXVZVTF2T0xNODlp?oc=5",
-   "data": "2026-11-08T22:06:00+00:00"
   }
  ]
 }
