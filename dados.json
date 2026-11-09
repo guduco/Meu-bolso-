@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-09T22:48:07+00:00",
+ "atualizado": "2026-11-09T23:42:37+00:00",
  "indicadores": {
   "selic": {
    "valor": 13.75,
@@ -17,10 +17,46 @@
  "cotacoes": {},
  "noticias": [
   {
+   "titulo": "Mercado financeiro eleva projeção da Selic para 13,75% em 2026",
+   "fonte": "Monitor Mercantil",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOSEc0eTFmeTV6dVNkdmE2N1c1VWd1WVNfZGRUVGFlckdGMlhBQ0JhVFFrRE9nWmwtS1I3a0FVY2NzOWFLbjJrUUJKZ3hKbzkySk56Q0NyakFlcEVVWV9uem1yQi1WZW8tM09wai1tYUctQ3VvLV9OSWs3d3RralVXTzQ3bHJUcVpTQ0hpY1FFTnBhaWJBSzR1Xw?oc=5",
+   "data": "2026-11-09T23:33:37+00:00"
+  },
+  {
+   "titulo": "De Belém a Antália: Pavilhão do Brasil abre na COP31 para ampliar cooperação e atrair investimentos",
+   "fonte": "Exame",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPVDNndmFaeEdaUTBxb0tORlEzbm9yemJ0QWVoS05zX3FDS0lMblFwYU0wSU5FQ1lSeDl4azJiX2RudHMxR2E1dWRPdE5uUlc1SXFZRjN4WFNxUVJ6NlNqcFduRUtIbDQyY0UtcEVXZ1pnVC1IbkZUa3JTVXZ0cnJ2Vm4ya0dTX0NfaElzcmZhOVE4QkFkMTVvVDJJZ2hxV3NGRFcwbmlic1VKLWVGRGswdFpLdDN3NVRIOHVjUUdn?oc=5",
+   "data": "2026-11-09T23:12:01+00:00"
+  },
+  {
+   "titulo": "Sebrae leva à COP31 parcerias para ampliar investimentos na bioeconomia",
+   "fonte": "Brasil 247",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOUERWUm5GRm1kRElkalRJcTM4M1loRC1YYzVhTVpEMGpxWVhEXy15elNMN2ptZVgxUzVhd3VWUkVwMmpoNHoyT3FKUktvMkIwcnFLTFN2TVM0bXFIQmJ2YnVDSXlIWThISmZMaWFkcDItT29lR1NmWEZrNkx4WEVMV0k0THk0b1ZyenFmSzZLYlRqUFZ1a0RUSVp3cGpBU0FXSHFJN3BfaHA?oc=5",
+   "data": "2026-11-09T23:00:27+00:00"
+  },
+  {
+   "titulo": "Ceará lança plataforma visando conectar startups e universidades a investimentos de R$ 230 bilhões",
+   "fonte": "Portal IN - Pompeu Vasconcelos",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPZVJkdUpMZUVaUDRmUGwxTHZNM2hFRjhvMU5qTS1QX0xmMkF3T2tRc3NSSHFwTFVZajlsY1NScERlc19yRnNYQXhJRzRTMmlxUTVXZ2l6N3pKMlp3eFI2ZG1wYlBta1ZQQkRqXzJoUFFoWTlscTZLSTh5V2Y3SXlqQlhNWDVSbm5qLUFTenJKVl81aENNZFZ6VlZ5bkZORWlZZWJhT1g5RVpiZVl5VVBDWHRVZGFBRnJCd1hCb3NZTDd5Tkxjc1Q1MkRVWQ?oc=5",
+   "data": "2026-11-09T22:51:00+00:00"
+  },
+  {
    "titulo": "Tendências 10/11/2026 | das principais ações da Bolsa",
    "fonte": "XP Investimentos",
    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOVjVvLS1ab2FFM0VqY1VBQ2E0d3RHSWlFLWEyY2ZsNEU3SGxQUGFhLWV6ZUQ4NlFyS3FNdS16LXY1dGVrR04tcUdfbzd4WURFTW1qWmk3a0VNckxXdzhiRVNDVlRxX0pIMlUwYzE2aXFtXzNWN044VzFsc1FCOS1EYk9iZG96ci1scUpWU043dkwyU3h3aWUwMktGZ3UzRjYxUHZ5TTgzVDYwZlZs?oc=5",
-   "data": "2026-11-09T22:40:14+00:00"
+   "data": "2026-11-09T22:50:06+00:00"
+  },
+  {
+   "titulo": "Banco Central aumenta projeção de inflação para 2027",
+   "fonte": "R7",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOMXVjVU1scjh1UmF1azNnN1RDUnRXTTdDbTlEU1hYa2NMTXFodXBvMTRDRThGUXR2b0t5QmFpa2ZtV0htcEF2dnpwTUNVbFYxVnV0T3ZjTFVwWkN1dVNWRjN0bHo4cmpHSVNRUTQ0bVZ6QkJOa0tjR2JXMUFFS1dUNzE1cW5XTFM4Vm9JVVYtN0ZQQlZjVWh3V3lmektCZWNSdTNJQ3o0d3J2aDVMRDRFcy1zUTZOdkJRUnBfNHdKaUxUdw?oc=5",
+   "data": "2026-11-09T22:46:16+00:00"
+  },
+  {
+   "titulo": "Ibovespa fecha em alta e retoma a marca dos 171 mil pontos",
+   "fonte": "- Misto Brasil",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNVXpnNXFtX2xJaXQ2d1k2OU45OS04NXl1RXVKNW1QRWZiUEJkNUZ1T1RDZTQ1YVpPY0IxbnIwR210THp2bTNacHIyRDRHMHQxYUdON1JBc3pyVE9mRkF4OHlIdG4wV0tRWVotckJWYngyYUhNeWFFN3hHQ3pQUTB1TDZFeS1ZMk9WZmJQRFZPck8yUG9GV212VU1n0gGiAUFVX3lxTE8zRzZuRzNJUDNHT0g2WkRIRVF4OE9JXzB4MW5Wc1NUWjhqUDQxbUFnMWp2VkFZdVduYXM1bGZmZjBxWE8yd0I5YllWd3pkRGdxUUM3QkhjSHpQUzUycnYtOEtFLXJIN3NOWmExM01mejR0UHp3eHFSX29HR3FpQVVRVUxFeThhNUVnVGVRdjVPZzZ3cGJmeUhDcGZoSXVLNFI0dw?oc=5",
+   "data": "2026-11-09T22:41:15+00:00"
   },
   {
    "titulo": "Mercado projeta Selic em 13,75% até o fim de 2026",
@@ -35,6 +71,12 @@
    "data": "2026-11-09T22:38:00+00:00"
   },
   {
+   "titulo": "Dólar fecha em R$ 5,50 e Bolsa sobe 1,85% com recuperação das bolsas internacionais",
+   "fonte": "Rádio Pampa",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQaDUzWEgtVnlYeGM4V3Nyc3RSN3lxOExGVHNfUERfNFNZYU1wbDVQbkxDTWlBQUM2bkhSUkE5NTZMcUJ0U0JkWHJLY25Oa3l5QjMwbTBzQXp5ZElUZlBjZGFvbmxjNU1PelZmeE9UVUpORndZV1pvTW80N09GRmdTNHc4NENxZ2tzQ2QzcjFyY19VWG5peWQ2ZzFPRW5kdGl5cEk4N3gtQU9fNzVCWnYw?oc=5",
+   "data": "2026-11-09T22:34:00+00:00"
+  },
+  {
    "titulo": "Bolsa A5X terá parceria com MSCI para derivativos de índices",
    "fonte": "InvestNews",
    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPdkxpTXBNb1J5WUpNdGRITTRYSEFhcXBsb3l5REJwMkVmQWFYMG1GWjJmb0NrQTA3aGZVUkVwX192RHdyZkNPWU52Um5oaVY3NU9VNi1TNVBFT1JFaFVuLTJWQkl6alhRVEJOU3otNk03eWJTd2NnQ0hkcmpFS3RwbDRvVVrSAYoBQVVfeXFMUFdBU2Fnaml4ancyRUtxN0Z2WjVEUEQ1M0EwdDJPZVZJbHUxZ1hRRnZFUWpacldxZU9XdTVydWxLay0yb0gtUGJZaFF4dy1JZHI5b2xMY1Y3dE9MemllUlE1Zkp2MUZuajJ4WUZWVlBZYmlwSmdQRldiRl9lRXoxX3BIRWpRM3Q3YUJ3?oc=5",
@@ -45,48 +87,6 @@
    "fonte": "Correio do Povo",
    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOcDhLLXRvMVdUU1lXNm1DalBIU1MyOVJveGp4WW1WTXlSNE5LQjdnY2RtbHc4QXhRUWNmVlh5TXRsUWFKQnRqSHBMNUo3aldIclVTQm5hd08tcGpkVjFJMXlQZ21mMlpjMFpiczJvZ2JPdnBPOTZSR0VPZU51VFBQN0FyUi1vVHVRRy1XTFRhc2RzdUxZV0pCOXBMaWV3dWRsU3BRUTBJOWQzNlJJM0F5SnMxeHpWa21INW1ScFM4bGsxQQ?oc=5",
    "data": "2026-11-09T22:11:15+00:00"
-  },
-  {
-   "titulo": "Ibovespa salta mais de 2%, puxado por exterior; dólar reverte alta",
-   "fonte": "InvestNews",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQdng3dDZUcngzNDE5VzJJWjNkVGxYWHlJSTBINDRGOGJWa0NvZURCR1laWmJVOTJOOWNDOTFvVU9RbWJscEVlZGlrTWdyTFZ5TlJYT0tpQUlZNGduOUc1U242UE5MUDZKV1p5dHJRSFRMbmhMeWRWNWtNM2xGZjQtdzJrcVF1aGFvSHhQSUZ3MzBZRmxkeUwyZDktVzA3dU81ajh1RDVuTdIBrAFBVV95cUxOSlpORXpZOWtTc3B4Q1NQRnp6SC1VSU9VandMb1k1UnJZamJkalgzOW1peGhXVU13Mkx4QmFqMTI1VGVCRFhMWGszdmozY3VneVRQWUtISHEtTm4zVWtoMXYxclpTRTRKTXdOQlVwUGlEMi1LNDBDRW1RQUxlNEU5RWl6TllrNlh6NENKVEctN1I3Y04xTlVkUXRBckZhVjRYcU5QZjdOVS1BODRE?oc=5",
-   "data": "2026-11-09T22:09:44+00:00"
-  },
-  {
-   "titulo": "Ibovespa sobe 2,22%. Dólar tem baixa e termina o dia cotado a R$ 5,50",
-   "fonte": "Metrópoles",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPbXZPeG5LbnpTM2txSlRTdTEyR0RRYW05cjQ5ODdicVB2bE1LNFVzeGI2WXBLeV9pZXRLUER3QXFpTl9vNHo3dGpqVFBsRTN2dWtVY1E1VkNfUnhVd1dlWmE0Mm42NVMzQ29hZEJPMUoyOS1rNDViXzladmFPaFUwb01FUG5TUXRxRFZpWEcxaEdIcGxQVkRPamtwQmtNVDg?oc=5",
-   "data": "2026-11-09T22:06:00+00:00"
-  },
-  {
-   "titulo": "Apesar de polêmica, Nvidia é central em investimentos em IA, diz professor",
-   "fonte": "UOL Notícias",
-   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOSGNRdTFRYWlTcDhOX1BKMUV3QjEybFRGRnpzTjNJT0pmWEhrNzZveHFtY0tkSHg2cFoyRGNnX0luY2MxRkF6S1JfbFFuQlUtMlRfVzFpLWEyUzMzTkRtNGJueURYMU1wZEw0aUVMVmdDVTB2M3pySklWekRmU09UblpHbjBsem9fTGtPMnc0ak5GbUZCandGSTR3WXpDNFFFVVRPS1hieHZxY3Zad1ZqcHczdXhhcjAtSHJXU1lpa3NlMXlZVnBzUmVjX1FoeDZEZ1QxYzc1LWY1ZHBfM0Jz?oc=5",
-   "data": "2026-11-09T22:01:22+00:00"
-  },
-  {
-   "titulo": "Ibovespa sobe 2,2%, maior ganho diário desde eleição de Lula",
-   "fonte": "SBT News",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNcV9EUHJLRzFsLW15bDVkNE5NVG44VHRVUUowVUkzdmNoMmZrZ3otNXVvLXlSY3FnTmdWai1SMGlzc2F3MTVKVElPMGxuTjE1MWgybmtqMDVQME9JX1lIYkRYTDJ1Z2c1eGxyM09ibDhUNU1iUkxRTlRIRjZvM194eDl1dElESlZHdFowS0xvRDYtdXJfd1VMemFjQjhMUW9pM200Qg?oc=5",
-   "data": "2026-11-09T21:56:03+00:00"
-  },
-  {
-   "titulo": "Ibovespa sobe forte com impulso de Wall Street e alcança os 172 mil pontos",
-   "fonte": "Money Times",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOUWIwdDEyWC13UUVYckdBZlhjMTJkQlZ5N0FzU3ljREZXT3p6QTk1X3Nza3AwUk85djlscFk5NGJXTUwwZWU1RWNDTFEzclphVU5WNmVsNUp2UVVqZ243WEk5UWVIazRiTG80dG9vNVVqSkhTb3BBMU11a2tjbzBySVRGR0lqajgxMlVST3ZmbXpyODBDbWR1YzlGN1VfRDJFSHQxQmc4TS1yQnZJekdV?oc=5",
-   "data": "2026-11-09T21:56:00+00:00"
-  },
-  {
-   "titulo": "Mirella destaca investimentos em infraestrutura e confirma novas obras em Olinda",
-   "fonte": "Blog Edmar Lyra",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPejdYUHNOdXRJdll1b1BmWEw5eVBzZ0VWRWpWWFZ1OFIzczR3cnlnNTNzSTRtOEJEdUljRkt6VjBabVoxRGFfQU9VT0RRMzJjWTZSS3J6UTg2RHJwaVVKRWVGZ2ZPNUpyNVZ0N2t5WGxuSnlJQV9ORkRDUk4xZjF3M1RicjdxLUx0bVAySlRaNEZPV0hMM0doY1NlUkk2WkcxZ2Q3OGMwWlJvNTA?oc=5",
-   "data": "2026-11-09T21:49:08+00:00"
-  },
-  {
-   "titulo": "Ibovespa fecha em alta puxada pela Vale e endossada por NY; Dólar recua",
-   "fonte": "Forbes Brasil",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPN2trYnhjMF9oQlQ3dm9MU3RyOXJIUEpzbWcwZUxrUlp6WmVQTVhLQ25zN2I4MXhXOXNlYlpFRGZ0M2xQYkNwLXo3YU9OQml4U1JNQ3dSZl9MQTliS0hzNW41aGN3eXBLMl9lV0JrUWxtMVVGX21XMkZGUTNKcGpNQTVkQ200LXQ0UjJHMjNCeDd3bE1KcC04VUh4Q1Z0OGcydnlQZnFjdTNTcHpJQi1sSGNoQlQ?oc=5",
-   "data": "2026-11-09T21:48:30+00:00"
   }
  ]
 }
