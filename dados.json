@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-10T22:45:47+00:00",
+ "atualizado": "2026-11-10T23:39:05+00:00",
  "indicadores": {
   "selic": {
    "valor": 13.75,
@@ -17,76 +17,76 @@
  "cotacoes": {},
  "noticias": [
   {
-   "titulo": "Progresso na redução da inflação pelo BC americano tem sido decepcionante, diz Michelle Bowman",
-   "fonte": "UOL Economia",
-   "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNUGlsbDI3cFVrbUctZGtOQWgzTWMyV0JGcnRuVHhJRDBHNXVudXA2V1dNbHNENUNIS0s2c0VVWUdvNmRsUHZIcXdVNU5LcFZWeDd0OEdmRDVkZHc4c0V0UElFaVk4NkU5Mkw2SHhjUmtBVWVkUk0zZTNxT3FuaUZ4ZkRlaEJvNUpNTC0tdjJTeWhVU3puS052aVVmTVNNVlVvc0NmUlItVFVEb01obDFfbUREeFl1eVUzb2s4WVBBdUNONFU3NXlBOUNLRmw0b29UdHVIM1VkNjN4NFZoUEVlUFZRQ0x5ZXAyOGtxRDd5alRpbnox?oc=5",
-   "data": "2026-11-10T22:21:00+00:00"
+   "titulo": "Dólar sobe 1,46% e fecha no maior valor em 15 meses",
+   "fonte": "Agência Brasil",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNWWNIcmJWMXAzSGtmUHByQmc1bWxON0ZaQVJvY2RzLWItbXFNaFRZbmhCbnVrSktWNktvTlJZMGlfa254MXEtOC1fR01fcVU2R01LNnJXQTd1bHNxOVZvWHktaThxUjJFVktQMVc3V01LYXRHOVlIQURYRUNzNllBdGJwQjE1QWtMOUZwenVoN3oyV0Z4VTZvM1ZvdUlwclFpel9LN3lJS0tnWlU?oc=5",
+   "data": "2026-11-10T23:25:00+00:00"
   },
   {
-   "titulo": "Inflação nos EUA volta a assombrar mercados",
-   "fonte": "VEJA",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPVWtFaWtpRm02eUxGZnJfcGdLS0RTLXVmWGhhcEt4T1hTUXA2aFBXSlB1UnhwaDRkbk5TWlZ4NGpzQkdUSmtOMGp3RkFQVXhhczdUdkdodFNpQVhieTRlbGp1SHB3QmdzRE1zMVFtQVVKSDF1akVtbENqbVVUTWl0dEJFVTF6NThPdjAyLXNtM0ZKc24tUThxS21ta04?oc=5",
-   "data": "2026-11-10T22:19:34+00:00"
+   "titulo": "Nova plataforma do MDIC identificará oportunidades de comércio com UE",
+   "fonte": "Agência Brasil",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQaGpLY2NZVVF4cHNHUGNoRmxVTjVKMk16YTNNMDNUbGNuVk42dkFIUDAza1ZqeHU1Yi1BRnFvbS1VX3JDSEVXRGtUcEdFR0xVNFdtajBVRGlGdHNwVkd5Wjh4VUY3X1I5eDdvS2picU1Fd0dRdkFVeWVjdGNCb0RHb0JNQ3VZdnRaSDJ5Rjl6a09CLUVIb09Oa2NYU0dOOGpITi1LU1JvSDNReXVobnRETG8tc0Q2U1kyalpJa253N2hzT3ZMTkE?oc=5",
+   "data": "2026-11-10T23:08:00+00:00"
   },
   {
-   "titulo": "Wall Street fecha em queda após dados de inflação dos EUA elevarem temores sobre juros",
-   "fonte": "Money Times",
-   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1TSjJxZzRSRGZBSjhxZlZ1LUZNTTI4MmlUSlIyQjQtbU55Zm5jUThObGhHUFBIMl9LVDV2S0dDNTRiY3otOWp4UXNBT29rRVNGN0xvXy1nRE5FZ182VkExNmNHWWxoRzZaQVE?oc=5",
-   "data": "2026-11-10T22:19:00+00:00"
+   "titulo": "Petrobras eleva previsão de produção de petróleo e gás em 2026 e aumenta projeção de investimentos",
+   "fonte": "O GLOBO",
+   "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNekhweWRYeWNvTmNYSnZxZWt0dHdIdDllM1pYV1Rzd2ZVZXR1TWNZSDg4SzlNRmJpdVAzd3BPcENHSm04aEZscThFLVRhazJya01Tc1JPdTN4M3dZVmh2b2JidTYxeV9LQlJsVWNUVFNQQ09IZlMzb1RtV2hmVUtiQ0JkRnhxUzF1bWJPN2hUMEduRzJPU0w1eDdWclBhX1cwaFV4NExMSzBWSVNGUkFoTjR6N3BJSy1ZV1oyYzRENEJfUEw2TUJkb05Ld1RUX2hZYkF6VlgtQnczN1NQTUJpVW1LODhVN0JaeDlBVEZKMkIwS29iTlZMYkdB0gGIAkFVX3lxTE81a3c0OHBySUdBMmxSMXIwSG15M1dZSHdVMFZhRXZaUV91MkVTUWJ1QjVYOFNmcWdsLWtiTGNWcHJRckNqUHlPLXBlS2RHaWpodFdUSjBTRnhzTTNpVmNYTlgxeGVPSHlTU0puZC1ObnJyeEozbDVBT0NhdEw5RUEzV3YxcEpSazljN3NoOGpOd3VMM0F3eFdnSzdReWZCRVN2d2pWTVhzM1h4OVdHS1hWQXlzTFBaQ0wwOVV5Qk5HWUJDRXdjdUFwZVZLY1ZySFNtLWJfaEpnQWZiOVFFcDRqX3dGeDBocGVLRjJRNk5QNTlqZ3pUNmJGVzdaZGJxTER6TnhfQjNVaA?oc=5",
+   "data": "2026-11-10T23:06:40+00:00"
   },
   {
-   "titulo": "Ibovespa fecha em queda com apostas de alta de juros nos EUA; Magazine Luiza sobe 10%",
-   "fonte": "InvestNews",
-   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5QRnB4NXd1cDE0bGo3UVZIT3Rtbk02UE5Jbm5QRTdSQ1VaNXlPYlVab1FKYjAxQ0M0UVA1amVoeXJ6a3Y3Q1Radml6MXRRS09PV3FWejB4VlIzcDZFU24yUGJUWVpMcVl3REVDNjQ0cHRBQ0I5OWFpOUwwMHXSAYIBQVVfeXFMTXVPc2J0MU41Mm55NzcxQzNZTWlxaF9BcnZwV1YwUWEyTU9DWWRRQTZCV21VeGM0b2w0ZDB1aGNCOXVYRkI4Z2hCdFduUXdnY2k5V2FiOFhiZUI5RXJlaWFFQWF0V2xMSDNJSTJSdlBfNGVyZ2xOcUFRNlNZUV9pal8tZw?oc=5",
-   "data": "2026-11-10T22:18:57+00:00"
+   "titulo": "Brasil está preparado para receber investimentos bilionários em data centers, diz CEO da LAWINFRA Sérgio Leverdi",
+   "fonte": "Times Brasil | CNBC",
+   "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNR2tMc2lnc1RXX3oxdkJoOUdXcmRZNXVEdFliU29OZFNiX3JlWjR6Q2VtXzZWQWJjT2UzekJQemhSc2xPLW5qLWFmd2N2MGNXOWRFaGxsVVJmWkVlbFJhMDYxRC05WTh6V1RVVGJFTUtRNWRSSHJpTFR1ZU00YjAxYjJib213dnptbVRteWVXY2xwRDdVSm5rVElXMjRfV3hjeW1ZdGpzY2hFNDZjN2JKR2pjTEpkbU1JNG4tNnFjam91X2xiaHJLSXZlY2txZmo0d0NqRnhULUxTLThSMVVySTFyR0VMOTNJTU5ZR09HZTA?oc=5",
+   "data": "2026-11-10T23:04:00+00:00"
   },
   {
-   "titulo": "Taxa Selic alta é uma das maiores causas da falta de investimento em infraestrutura no Brasil",
-   "fonte": "Senado",
-   "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQblRuQ2dLZ0tRM3RkWFlmQU4yX1dpN2hBSVRQcVE4UTFvX2UwaWtmMnJWekxnVVphYVRaV2hJcXF2WlhubkdUTGZ6ZGZvNV9VT2dDTTVoNHlZamZ2d2FLb1dTb0RjMnFPQXc3aHBtTFNmeEFJU01hb2hIbTAyQldzODB6M2VZYU11QmJacE5sQzhIdGo2RlRsTTVMb2VSS090d2VsZGlzeFVCcUp1Rjg2QlBSa01ZLTZ5VWY3WGtlcTk1VlRnb242Z0c5ZmN0eGUyakllcWdqM3dZT0hicXJxbDAta2tWVjJMS1hkUHpWRFY?oc=5",
-   "data": "2026-11-10T22:15:47+00:00"
+   "titulo": "A discussão sobre o ajuste fiscal impacta os investimentos no Tesouro Direto?",
+   "fonte": "CBN",
+   "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQS05NVHBxMzFNazFnVFlDQnhlODVSYk5iY3RIZ184VHN6aUFBdkFhMUg4dVJsWWdmS24wMk1UblpsQWZ6QkRBbUl2aHMyVmxWSXhWVVlMbmxQWU1wTTJPUzJzNFpzRUZZSDRUUW1wQzlSWmJfcXdUT2NLMDNYVG83c1U2eEdtczRyY3JUbFdRVGJ1TFY3dDB1dV82MFY5bVhqbndrRXBOUy0xTHhXSXZmNlg2LTQxWG9iMXZlMG1vVXVwcXBNdll2bGkyWnB1RHpBbmQ4Mkh0bkJhemMtOTM1a2ZHenFSSHhkR3BFWWsyX2JjNHPSAYICQVVfeXFMTzNuTmR3bWpReXRwVV9FczFHazZGcnRlYXNZaXJLWDdNVHBNLUdZM2tRUFBOME5wTjFGUFFsdWlQWFNtaGpWakZyUzNIaDU3b1Fka1NvODVBQTNudENfdlZuWHRNMF9iaFFkcURfVWpyR1p6Q3U3ZjdvUnd4M3A1aExZdzJMeE9LM19FVkhjeUQ5UmRhYl9SZ29RaU9OaXpLN2hlWkpYVzJJNHhNSF9DTE1tUkdQWmlWTDQ1ekJRZktGRGYyblAwUGpuMGlJV0N5N2FIcHVFbmJTVU4tX2RheFQ3aUV0WEhQZFNCZFdPYVFGUmw4alZ3NGxQYXM2TDlDSXRn?oc=5",
+   "data": "2026-11-10T23:02:44+00:00"
   },
   {
-   "titulo": "Para CEO do Assaí, juros em alta são \"sinal amarelo\" para investimentos",
-   "fonte": "Consumidor Moderno",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOYUFUUUUtUkNtbDhMYThYMTRGQVFRbDg4ZW5KUGVmY0FfX1lNZXJIRVhvb1dMTzhFaVp1VW0wVDRjajFEZl9lbnRTQnZXQnlrZGFDOHgyTmxGb3BhdG5vdFppMFhxNkdMckxYQ0xHSG9vcl9fZVBfVG5uVEhJTzVEVmRIVDM?oc=5",
-   "data": "2026-11-10T22:15:40+00:00"
+   "titulo": "Ibovespa futuro em 174,3 mil pontos",
+   "fonte": "Acia Araçatuba",
+   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE8yQ3R6MHBUNUY1VFZGOFNBdDRmS1FxdDVQOHhqLXkzcElZbmx0RkhsSWVEUm9aRmJZc0EzR2ljY05odnpvS2dfcW1RMnNIWDhMZjFfSkpPUURKMEdLcUxfU1FB?oc=5",
+   "data": "2026-11-10T23:00:58+00:00"
   },
   {
-   "titulo": "Ibovespa ensaia terceira alta, mas inflação dos EUA vira o jogo; dólar dispara",
-   "fonte": "Suno - Investimentos Inteligentes",
-   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1WejZwXzZPeUlPMTl3WkJ0NmVfT2J0SGFzbEJBa0dOZi1UVXJ6WlM5MFJsaDRUMG5aT2VUS0NpOUNlZFdzUE1GOEtSaW5maHVTLXM0MDJ4Zl8xSENrRVZycEdjMktDODVJSjlKTU5n0gFzQVVfeXFMUEV6YlVVbE5KMlVzYWktcHRyU0xaNmY0VG9pSjVPSmNLc3YyamhfSzJVWUpSd0pialN0X3V5cGctQ2tMQnNrVlkxRURvQ0p6RmlEYWF0ZHlUc0lBLW1fOTBEU1VDMm16SjNWbzhRVmh6V2VMYw?oc=5",
-   "data": "2026-11-10T22:15:23+00:00"
+   "titulo": "Fracasso de não trazer inflação à meta cobra fatura amarga de consumidores e empresas também nos EUA",
+   "fonte": "Estadão",
+   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPdkJBdGwzMHIxcXN1c3VCOTQzQ2VGVXQtdzVuQk1LampaM2drT21BaHoxWG9LSGduLTVQbGJrUElENmkyd1FaekV2ZU9PSnk0V21kZEM2U0V0M1A0ZmZWUE9jVEdQbjRlaE5jQXBrdkhXQTlUTEJ0ZHc4OEtkX3g2U3FJMGVWbUhsTnFzTnViczFTQXRTM2ZRTWV0Vk85TmxhUDZwaGxyZzRpUXFIdC1IUFRQNmdnNXNrWnQ2ekRlMkc4NTFCa1QyaW1rbmkzM2xFSXFMeXlWRDhZb1k5cVdHYmtWQdIB6AFBVV95cUxONEZwalBBRFJpNkZ0V2F1Tm1rZ0I0V3V6bTN4enA1LWNhLUluT3lzejZzSXZwWUUwd3M4MWlGRDNXWkhkRDRFVXBrMFFhbWQ1a3JWWUc2QUFVWi12VXpvWmNjdDMtNFRGMHFHV2lhNDBMXzRDaS1JZi12elVJN20tcGEwYi1NbFExZWtqOGpXNWFYbi1CaDM0YWdqaWNrbkdDUEV6RzloRDdxTVI0M1VqdlpPTzNtZVBRRnhWWkpkWWlta2ZoVW9hc2RUbzYtajBXNHA0VEdwVGttc1F1QVktdGw2aGluTU1z?oc=5",
+   "data": "2026-11-10T23:00:00+00:00"
   },
   {
-   "titulo": "Ibovespa fecha em queda após inflação dos EUA reforçar expectativa de alta dos juros",
-   "fonte": "Money Times",
-   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1tYzlzTVBWZ29DM3ZJdDU3NVlhZFVmRUktRTNZdU01TXVUekgzeU1qbTdzSmlKR2RLU080YzEzUlluRVZna3BLTGVTMXlZdm5jX3JLZFUtTFo3aUE5aEZwSVNzUk9BQQ?oc=5",
-   "data": "2026-11-10T22:04:00+00:00"
+   "titulo": "Ibovespa recua 0,52% e fecha aos 171.336 pontos nesta terça-feira (10)",
+   "fonte": "Brasil 61",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPWEliWHY4R09mWUpzaHhCLU5vOHE3eTFBQVZ3VTBvUUpsUjZtZm5QaWlYT0ViSHVLVEZ3dGp6WnBwaVc1N2tQRnlvV3RxRDhKWGViOURjRHhJZ0NlNDRFNk1FaWg5OEc1bTd2VHUybmdwbmk1S3JvaElWdWxPcWdPeHNLOGtKWTFKZXd0Z25FOS1aZmd3SnEyUXc3dnI1R1piWGJlbtIBqgFBVV95cUxOUF9yY055Snk1NGNSbkpoVTBTcktqaExNRUhEQjJZTHFONjZDQTFZazlzRG9nV09VdWJVa1BVaUlIcWJpbFBsM0gtX2NWNXIyZS1MbUdfUVltbTM2SzY2N3VKR0txaUhCMm5Nai13TUQtRlV4YVUxLUlZdm51TzVTTWVOWWxOVjZVbkNTS2pQem9vd0NBd0dJNzRQblRsaGdCQ01Wa2dYblR2UQ?oc=5",
+   "data": "2026-11-10T23:00:00+00:00"
   },
   {
-   "titulo": "Prefeita Pollyanna Abreu cumpre agenda em Brasília em busca de investimentos para Sertânia",
-   "fonte": "Blog Edmar Lyra",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZW5MRXktVVNLdC0xdmp2VnIyVVQxZmFfWjFoUXdTc2kzRVdRMERkcm93cDZUM1VYVVZNcEpfcDcydkdsdXE4RzNIcVlGcnc5MGc1OGM5c0xDay13LWpJV3ZJckxwS1J5ZHM3TFVTS1NSUWtSWUlQSVBhaE4zYVZWWUhTMUdHbWxETHpyWjVRZkh4dHQ3NzhUUml5ei1YRVI5M1FGTVFoOTJsMjV6ZVFlbUdFaWlCcVVt?oc=5",
-   "data": "2026-11-10T22:03:54+00:00"
+   "titulo": "Wall Street fecha em baixa após dados de inflação reacenderem temores de novas altas de juros",
+   "fonte": "UOL Notícias",
+   "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOTWtpSXY1M2tYUzE0R1dSWTJtT09DZzV4bEhERF9oaFBHeENJR1pvT2pZOVlsOG1TXzZHaUVfaG9aZEI5QUhldHp4ekxwaW1QN3c5V3dnVi1memFXOWRNbjFrbURVSVY4UjFoU1BSWnF4U2JibXVqMzJDN1JORkItQUtzem1qRGZ2aTVIZ09JVl82cmR5Tnp1T3l2d3czUk40Q1BDNWk1WFZGQjUwY2VDeVlMUWpYaHJ3RmxqX0J5MzF0MVBaMVRvQUY5MGZ3aFlZa1hqaDdmNDJpS1ljdVl4bVctM1o2TVlsQ3FDNmRB?oc=5",
+   "data": "2026-11-10T22:54:07+00:00"
   },
   {
-   "titulo": "CoreWeave (CRWV): Racks Vera Rubin entram em operação, mas financiamento segue no centro - 3T26",
-   "fonte": "XP Investimentos",
-   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBtVG1mM2p5Z0xVN2pwUE1ia0tSUWkxWkVXbUd3Z3FWaUVGWjNHZXNDa3BPcG83M1YzNl9Xak1vS1FFMkhFWjd6LTh2V0lIRl84VmZWRThFU0lDRVBBc2prZjVGZFhDTGEtSlp3dWFWYy0yYzNqSjNfYw?oc=5",
-   "data": "2026-11-10T22:00:57+00:00"
+   "titulo": "Engie fatura mais, mas lucra menos; disputa por baterias pode exigir novos investimentos",
+   "fonte": "Estadão",
+   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQd0Z6NENCYnVIVEd4c08zdTBoSkpfM09WQVFWbURXNGVjczBrM0lTcEllUzFtRmluSDVVdVc1dkxsR0N5UlAwLVBpdFg5UnI3eHRGaDNjblNzN2J3NXdrdnBtdWtONE9Ib21uREFhYUxkUXJFcnNCck13YmhzWDdtNXdmWk9NZHNteHZpUzd0b0VNaG0yUUNmWHVna29oTjdUUFh5YS11SHJmZ1NrUUdUeFgwNE1HYk82VWloWTYyQWxzLUkzQ09uZU1ZZGtwZE02aVd5TkxRdEVadjVydGJTX1hEU1pVY0NE?oc=5",
+   "data": "2026-11-10T22:48:37+00:00"
   },
   {
-   "titulo": "Ibovespa cai 0,52% com inflação dos EUA e ata do Copom no radar",
-   "fonte": "Metrópoles",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNemlrLW5PVE5FMlVqd3BUbkI5NFhxVTBGS21UWDliUkJBb3hpNklTUkdxVXpwT2VzbFN4REdZQjVOazdxMHRPZFpMZlJoanBKSHNhTGUycG81ZUU3aEZjalBhZEtCS2dFTWFWaUtFdlBjWlg2NDJvaEhoSkc4SnZENkVHNUlGQ1ZRdHVIZ212RkJKTy1aS2otM2d0VQ?oc=5",
-   "data": "2026-11-10T21:51:00+00:00"
+   "titulo": "Dólar bate maior valor desde julho de 2025 e Bolsa cai com EUA e Copom",
+   "fonte": "CNN Brasil",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNV0Z0cFExdVljSnNFejFqQllTRHF1ODVLMURCOHlpcXpnUzFQZ3Z3QS1qNUpIMU4xdExRNWk1ZGJSdEJJb3ZvQm51WVlrM0lWUl9ZTkRHZzRWS2d1MWVtSlFzSFFXNGY2Sk1jcDJMSFJWb2ppeHdWalFXRVhyMF84R2hoOHk4akVDWG9VNUpCM05ieUwyNXNfVy1jeDNvVzhSZGpXSlRn?oc=5",
+   "data": "2026-11-10T22:44:21+00:00"
   },
   {
-   "titulo": "Depois de anos no deserto, renda fixa global vive momento raro, diz BlackRock; veja o que a maior gestora do mundo está comprando",
-   "fonte": "Seu Dinheiro",
-   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPNjBXMV84a2JGWDdaT0dwTkE5ZER5S3BmUUdZUjdJQ3dDYlE0dXJKYy1wWWw0dnVwLXZIbm04ekpmVF9ubmhvMU5GVC1sSjFuVnB3WFJ4UlNueVliYmE2UjVILVJ6RDNqM1VZRXB0clZSWlJVLWxhOUxJZGEzMEI5cHdiT2xWQkg3WjFaZ0RWUm1QelRlZEtVd0VDUmVsaWp4SjQtenV4Ykk2VVJNZUxYUl8wR2F4bjB3Y1lDQjJFcHFpN20zbGlj?oc=5",
-   "data": "2026-11-10T21:50:00+00:00"
+   "titulo": "Vicentinho Júnior mira investimentos e discute oportunidades com dois dos maiores bancos públicos do país",
+   "fonte": "Portal O Girassol",
+   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNeFZqOWhUdnlEeUFNai1tS0FsVFQtOURleUV4VFBJeXllVXNhcTVPcHZxWFVqRWFWMkNDdno0N0wybEVFTUpac2ZYVzgwVnkwMW1vYTFoSHhONjY3UnVyR0V3Y0pMRGhzc2Q3TG1ZdkFNUFhHUVYtV3Nua1VxY0tWTHgwWVY0YXB3ajRTcjFtLWR2Y2JzakZlellkMWxjSFloVVcwVEJPMFJfRFp5QlZ0MnRvX2tkcjNXOG9IMC1yZmN0U01EZkczZmw4Rk5ua3dsSTAxbnI0SQ?oc=5",
+   "data": "2026-11-10T22:43:23+00:00"
   }
  ]
 }
