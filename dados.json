@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-10T03:52:36+00:00",
+ "atualizado": "2026-11-10T04:55:55+00:00",
  "indicadores": {
   "selic": {
    "valor": 13.75,
@@ -16,6 +16,24 @@
  },
  "cotacoes": {},
  "noticias": [
+  {
+   "titulo": "Ibovespa fecha em alta de 2,2% com avanço dos bancos e ajuda de Wall Street",
+   "fonte": "brazileconomy.com.br",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOMDVuYWxCQVlvUXBmeHJNaExGUXF2Y1pYc0ZlMWJoRlMzcFktbjltdEJQbFdScklvRS11eE5kU1N6cFAtOV9yU2tELXdRUXRWdl9qei1LbWF4Y2o3OFBXb2NpYVduWl9NS0dFSHdUdlhYTGV3ZmxpMmZYcE1HYjhQVE1FVG1Ca0EyTzB1VU9jTmp6emI1am5aa0FheG1TQk82bTNtNU9LVm0tMU1vLW9uXzFocEtPeXQ5UDRWTQ?oc=5",
+   "data": "2026-11-10T04:30:43+00:00"
+  },
+  {
+   "titulo": "Moedas asiáticas recuam enquanto dólar aguarda dados de inflação dos EUA",
+   "fonte": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPSkR4LUJrc1FNVnlvemE2UmxwSUJ0YkJ1RUs2dXRjbmJ4ZXBBQ2ljN2JDMzFPY1llaDZIZDhGdEVONzJ1YUp1a0t6cWRHU05ua1dvWnZtbHI1T0d0dkk1aE83T0ROX3cxNFNObmtWb2dscVRHU3BSZHFmeWRiVy1VdzRsaXBOU2ZGbWt1X21BRnRXY1ptdlhKNE1PSjdsWElmVjJ2QmhrOWNzYVBxYXEtSXV6M2g0Vk9NMEJ1UjdB?oc=5",
+   "data": "2026-11-10T04:21:00+00:00"
+  },
+  {
+   "titulo": "Bitcoin enfrenta teste do CPI dos EUA enquanto analistas alertam que alívio na inflação pode não ser suficiente",
+   "fonte": "CoinDesk",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNRkJkNTVkTHVqM2ZLT3NTUVE2QWlBTnJYdDJZSmw3SmNJaWY0Y3N6aTJTV3c5dklpSWFpZk9JOEZfY1VOdlNNX2ZtUnhHeERYX1JPaTYxR2FFTU1VbmxrbnB0YUZJOEFtSEVvbnFlZDRENl9mdGJEZE9KQTd3elhuM2ZEMnl2RV9wQ3dCMGNsbUE1T0w4N0VpemxBQk12U0w0QXJKU0JsTmd6RGRpWm9FckJ6VkMtUjFuWTU0cm0tQjZmQWkzcDVZ?oc=5",
+   "data": "2026-11-10T03:26:00+00:00"
+  },
   {
    "titulo": "ALICE FERRAZ ✍️ \"Sem ajuste fiscal, vem crise e aumento de inflação, diz Eduardo Giannetti \" O economista Eduardo Giannetti conversou com a Coluna em São Paulo. Para imortal da ABL, renda não é sinônimo de felicidade e País tem jeito desde que aci",
    "fonte": "Instagram",
@@ -69,24 +87,6 @@
    "fonte": "Estadão",
    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNNFcxZjdlVnZxVUM0cTZKUU9TWFhSaG5lMDVhdERDQmlnc2hqT1RjUmhUaUhsVm8wN3pxdkdEX2ZOSU5mQm1QOFRNcHFoYWFYSjBXWVRqZVpHSkU1dV9DZHVqSnZOekdNbGdaMXJsYVhscTJwUnlSR1k5MkhVUmNSQmI2MXJfVTRJbFBXaWdqYkxxUmVtUzZiWWpKa1BwWThlZEN3ZlZjbzY3R0ZRNjBFRlJNVGlZTlhkZTJkT19mMVA3UTdmSnREN2FBenhQUEHSAdQBQVVfeXFMT1VJRjFWd0FqbmVUQUJvV3pzX244SDlEV0xJdkVlX1FGSVZpRjNoSzZvVlFfdDBXTTZ0czNEREZNY0RoZm0tMnJQN3hTQ2VsUWdQekFkSDZvWjVLdWE2eDRWLXJLc2hEcUV1d2VXVDBURTNQRFozQ3o4b3BOWnU5TE5WT2Q4TkMwVzZDZUUtUlJtakVnci0tOHQ0OVB6Mm15WV9HQUF3cHVJMTB3QWxJbVU5Vy15clhtSkJBc1pFS2M2cTB0aGRzT0gxNllQQVdkNVlfMWk?oc=5",
    "data": "2026-11-10T00:59:00+00:00"
-  },
-  {
-   "titulo": "Dólar sobe hoje com inflação e balança no radar",
-   "fonte": "Acia Araçatuba",
-   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBUNDN4U1REVEg0RUsxUUJmYWg1NEpoRGxlbFpyU2VPVjdCMDZlaTdRNlhvUDZTNkxFQUtxeGNXT0o4Uk1kcmlmOG1Cb0RTOE1MUkpTVnpUMlMyRzhIaTNZTW0xdmxyTnppTnphekt6OXZxSlJIcXlB?oc=5",
-   "data": "2026-11-10T00:35:57+00:00"
-  },
-  {
-   "titulo": "Ibovespa na semana sobe 0,34% e para de cair; dólar avança 1,18% e vai a R$ 5,51",
-   "fonte": "Paranashop",
-   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBQWmVKS3dybGJsSGtkdm5rZ3VvVkwyUTBEbXM2eWw3WVRpWmJ2Nmd0bFdIQlVOcmdocUt3SHlzaFF4VEs4NGZxMk9HeWU3UGlqMndGZnFnWFp0QTg2OVpLTE9qWEhNVWpfUWxjUFZ3?oc=5",
-   "data": "2026-11-10T00:18:23+00:00"
-  },
-  {
-   "titulo": "Mercado imobiliário do RS: crescimento, investimentos e tendências",
-   "fonte": "Jornal do Comércio",
-   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQaEpqaDZ4XzNxVm1SdWJHM2lFaDFRdURnVFRoblNRZFpPbE1SYkNva2IyX3paWDJVVnFBbEFUbW1nZHRiR2VCNmNDTV9kOEUxZjRMSVR1MEw5SEVYc3RQbThKenlFV1ZnTUtZRVhEbnlSQy1Kd1luUEZqQXVhUEVwMEl0SmRvLXVJNFB3M0Q2bEFxcERjUXhxb3RqVkx2bnVlT01uM0ViTFFOb3VQRjA1Y0FnX1JFUS1KVFFLRlFCUm5GSmJIZlUwaFRnZjMtQXRSaXRESVljODNIdW9xeWc?oc=5",
-   "data": "2026-11-10T00:17:37+00:00"
   }
  ]
 }
