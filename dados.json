@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-10T01:02:04+00:00",
+ "atualizado": "2026-11-10T02:05:59+00:00",
  "indicadores": {
   "selic": {
    "valor": 13.75,
@@ -16,6 +16,24 @@
  },
  "cotacoes": {},
  "noticias": [
+  {
+   "titulo": "Ibovespa avança 2,22% e dólar recua para R$ 5,505 no fechamento",
+   "fonte": "Vero Notícias",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNWDZuWEFkSjRhZkF6U3FhT3RVZ0lyak1WQzNDZlZONVNlSFM0YUpjLUZQcWlWZWczY0lsa0NCQ3IxSWZKSTZhX2lZT2tWSGxkM3VpbV9lbERCSjJiOTBQTnZuQ2RFT3BKbXZuUnFFUW1xbjA1Z3U1WVpJVWhiV1JvanhtbEZvakRxenZqN3hQMFlJaDVmZ3Rrb2RB?oc=5",
+   "data": "2026-11-10T02:00:00+00:00"
+  },
+  {
+   "titulo": "IBOVESPA fecha hoje com alta de 2,22%",
+   "fonte": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOV2R0dC1EMkZVeklJWEtVVDVwNE1GVmc3LWp1SXlJdkxzam1uVUZfaFFDVkZ6ZVYtWlJzX3o3NnVQWU9FNFhmVUVIWkNSRnJublY1QVdLSjNxNzVpalJaWUlaZU5HSTJYT2UwWHRiazc5VkpjX2pKLVAwUlNmMWhfbG85S1llUQ?oc=5",
+   "data": "2026-11-10T01:47:00+00:00"
+  },
+  {
+   "titulo": "Bequest Capital adquire A2A Invest e passa a ter R$ 1,2 bi sob custódia no Nordeste",
+   "fonte": "Estadão",
+   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNNFcxZjdlVnZxVUM0cTZKUU9TWFhSaG5lMDVhdERDQmlnc2hqT1RjUmhUaUhsVm8wN3pxdkdEX2ZOSU5mQm1QOFRNcHFoYWFYSjBXWVRqZVpHSkU1dV9DZHVqSnZOekdNbGdaMXJsYVhscTJwUnlSR1k5MkhVUmNSQmI2MXJfVTRJbFBXaWdqYkxxUmVtUzZiWWpKa1BwWThlZEN3ZlZjbzY3R0ZRNjBFRlJNVGlZTlhkZTJkT19mMVA3UTdmSnREN2FBenhQUEHSAdQBQVVfeXFMT1VJRjFWd0FqbmVUQUJvV3pzX244SDlEV0xJdkVlX1FGSVZpRjNoSzZvVlFfdDBXTTZ0czNEREZNY0RoZm0tMnJQN3hTQ2VsUWdQekFkSDZvWjVLdWE2eDRWLXJLc2hEcUV1d2VXVDBURTNQRFozQ3o4b3BOWnU5TE5WT2Q4TkMwVzZDZUUtUlJtakVnci0tOHQ0OVB6Mm15WV9HQUF3cHVJMTB3QWxJbVU5Vy15clhtSkJBc1pFS2M2cTB0aGRzT0gxNllQQVdkNVlfMWk?oc=5",
+   "data": "2026-11-10T00:59:00+00:00"
+  },
   {
    "titulo": "Dólar sobe hoje com inflação e balança no radar",
    "fonte": "Acia Araçatuba",
@@ -41,6 +59,12 @@
    "data": "2026-11-10T00:02:07+00:00"
   },
   {
+   "titulo": "Ibovespa fecha em leve alta de 0,02% aos 172 mil pontos nesta segunda-feira (9)",
+   "fonte": "Brasil 61",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOczExM2xXblRtUmRPd25jUTVmOE95N3VaWU9xVlVXQ1JvSS1QQ25BTzFmZ3VjaVdsOXVRWFMwSmJ2RmtHNTNOSWgtODJmTjF0Tk4tRVJncjgxRU1rTF8tLVQwUkp0aV9EeTc3ZXlHZ3BneGtTX2dMQnNaeVJnazhhRklFTDQzTFVvLUw0NEpZbmRBNEFZZ0trU29sXzZqMVAxalUwNlVPRmRoV0pPMVVTbNIBtgFBVV95cUxPVFdObGJvSHVMcmhkQm5hV3V1b3JUUjNxamwzM2lmRXBNcE5HcGdDcVJyZ2RhQWlUM29CRHN0YVc1TGhMTU5OZ2RDZXZyQnRuQUdvVjBzTnRpUXp0a05SQ05Zd3pSSUlLSDVpSWVydE05ekZINFE1Z0xiNW9aS2pnc084a2lzemtZQ3daTG5iM2JLUGpocmlTNzNxTVd5dnNUYnBUcjdfUy1SWFpQdEs2ZjBBUkN6QQ?oc=5",
+   "data": "2026-11-09T23:40:00+00:00"
+  },
+  {
    "titulo": "Ibovespa sobe 2,22%, maior alta desde outubro, e fecha aos 172.236 pontos com queda do petróleo",
    "fonte": "A Crítica de Campo Grande",
    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNX043UTE2NjAwVFdsbkZxNmZHdmY5YXlTZVE2R0didHNlTTBLWUNUejZQX0I1TjVBRGtNNUF2V2syc1NHUjdqSEhqTWNmVDljRU5HSmZ3XzF2b3NsV0ZYYVA2M2U1dGZTZEw4T2FrVW5OYU83YUkxdVpjdXJFZWVzUmFNcDBuU3dpdWR5ajhiTWVWdi1aZG5VaC13alE4aU8yV1k5NnFOcEZNYzZMelJr?oc=5",
@@ -63,30 +87,6 @@
    "fonte": "TradingView",
    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5wbjdnTDdWUFgxandPQWJpbU5lRzl5X2xqUHVlM1hjdTVacW1hQ3Z6YWNmNUJkamR5WnVPMXBGVUNCc1lRdlZmaDZBNGxmdExTSkg3S3FRN2Q2TTdPWjNjWHVrSDZmVmJzRnV1dmFlNEhjN1ZSdnI4?oc=5",
    "data": "2026-11-09T23:32:37+00:00"
-  },
-  {
-   "titulo": "Acre na COP31: comitiva defende preservação, recursos hídricos e outras pautas durante evento na Turquia",
-   "fonte": "G1",
-   "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOQ29DQ29BSVlWSEVJR1gzamNBb3NJMlFxcFpXYUJsd0JCYlU3Tm5pRERORkFtV3FHd042RW80Rjd0UnAzZ1AxT2V0eU9UWkF2dDctQnhvTGtSWXhpTlN2eEJ1bmpFZEdVRHNGLUgweUlzUGRjSFF1T09UbmV6M2puX1E1WnFYa2dNckR1UGZlbWFpZXpCbi16S1pRWFBaTWZ2Q2M5R09pN3drckpXUkVveFFlYlQ2Rm5nU0hWSUJOeHlxNXEtbEhQNUpwdGFzdVlKeE96eGpLVEhMclZuY2xQUXRQcDAzWXRselVxQtIB-wFBVV95cUxPbmV1M3IzUjdjdU1HUkxTNFpJOEhlWE5LQk1vT3Q3LWczeE93a29tMnktSnEtRWt6Q09hT1Q4ME5tejktNTdsUFI4NTZTWnJmQ0otY1FkenJDU0phX085N3BYU2R3UWtQUzhyOUQzZWdMRTZHWVVJVHV1VFpMSEwtWVc1Zm0tODNvYUZkMDl3c3NxTnNIeG53dXhuNDNHN3hMSUFQVm91RS1LbmFPZ2Z0eGZVSWRCZUhiUEVjd1NWTV9ESk92Q1R0U1Y5LTBGUm5YMVFoOU9BcFFsalpXN004SWVCMkNxVDViT2NaZFdGbDBHMlZ3SV8tWlVXaw?oc=5",
-   "data": "2026-11-09T23:29:32+00:00"
-  },
-  {
-   "titulo": "Sebrae leva à COP31 parcerias para ampliar investimentos na bioeconomia",
-   "fonte": "Brasil 247",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOUERWUm5GRm1kRElkalRJcTM4M1loRC1YYzVhTVpEMGpxWVhEXy15elNMN2ptZVgxUzVhd3VWUkVwMmpoNHoyT3FKUktvMkIwcnFLTFN2TVM0bXFIQmJ2YnVDSXlIWThISmZMaWFkcDItT29lR1NmWEZrNkx4WEVMV0k0THk0b1ZyenFmSzZLYlRqUFZ1a0RUSVp3cGpBU0FXSHFJN3BfaHA?oc=5",
-   "data": "2026-11-09T23:00:27+00:00"
-  },
-  {
-   "titulo": "Ceará lança plataforma visando conectar startups e universidades a investimentos de R$ 230 bilhões",
-   "fonte": "Portal IN - Pompeu Vasconcelos",
-   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPZVJkdUpMZUVaUDRmUGwxTHZNM2hFRjhvMU5qTS1QX0xmMkF3T2tRc3NSSHFwTFVZajlsY1NScERlc19yRnNYQXhJRzRTMmlxUTVXZ2l6N3pKMlp3eFI2ZG1wYlBta1ZQQkRqXzJoUFFoWTlscTZLSTh5V2Y3SXlqQlhNWDVSbm5qLUFTenJKVl81aENNZFZ6VlZ5bkZORWlZZWJhT1g5RVpiZVl5VVBDWHRVZGFBRnJCd1hCb3NZTDd5Tkxjc1Q1MkRVWQ?oc=5",
-   "data": "2026-11-09T22:51:00+00:00"
-  },
-  {
-   "titulo": "Tendências 10/11/2026 | das principais ações da Bolsa",
-   "fonte": "XP Investimentos",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOVjVvLS1ab2FFM0VqY1VBQ2E0d3RHSWlFLWEyY2ZsNEU3SGxQUGFhLWV6ZUQ4NlFyS3FNdS16LXY1dGVrR04tcUdfbzd4WURFTW1qWmk3a0VNckxXdzhiRVNDVlRxX0pIMlUwYzE2aXFtXzNWN044VzFsc1FCOS1EYk9iZG96ci1scUpWU043dkwyU3h3aWUwMktGZ3UzRjYxUHZ5TTgzVDYwZlZs?oc=5",
-   "data": "2026-11-09T22:50:06+00:00"
   }
  ]
 }
