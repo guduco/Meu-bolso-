@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-10T02:05:59+00:00",
+ "atualizado": "2026-11-10T02:55:17+00:00",
  "indicadores": {
   "selic": {
    "valor": 13.75,
@@ -17,6 +17,12 @@
  "cotacoes": {},
  "noticias": [
   {
+   "titulo": "Por que o par dólar neozelandês/dólar americano está subindo hoje?",
+   "fonte": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOaHotMzFWUl94M21ManQtbjlwYS1YM2xfaG9aSlptTXlmOG94N0JqV1BlY3VJR0FINmhHQlQwOHVha0dpSnVMV1RKWDFpSkx5ZER1UzlIellYeFFLNjhCYXNfdVZaRGZlTjQ4RFNkOUVlMVIzVmJlaWp3X0RUdDVZSDFvM2R1SUJHcGYtWTd4UFVwX2NnbUJpc0xLZUZSZ0FwN2ZSWXRzU2JUWnVqUll6U2FnTk1UMHlrU2dNdk5fOEdwc2c?oc=5",
+   "data": "2026-11-10T02:32:00+00:00"
+  },
+  {
    "titulo": "Ibovespa avança 2,22% e dólar recua para R$ 5,505 no fechamento",
    "fonte": "Vero Notícias",
    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNWDZuWEFkSjRhZkF6U3FhT3RVZ0lyak1WQzNDZlZONVNlSFM0YUpjLUZQcWlWZWczY0lsa0NCQ3IxSWZKSTZhX2lZT2tWSGxkM3VpbV9lbERCSjJiOTBQTnZuQ2RFT3BKbXZuUnFFUW1xbjA1Z3U1WVpJVWhiV1JvanhtbEZvakRxenZqN3hQMFlJaDVmZ3Rrb2RB?oc=5",
@@ -27,6 +33,18 @@
    "fonte": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOV2R0dC1EMkZVeklJWEtVVDVwNE1GVmc3LWp1SXlJdkxzam1uVUZfaFFDVkZ6ZVYtWlJzX3o3NnVQWU9FNFhmVUVIWkNSRnJublY1QVdLSjNxNzVpalJaWUlaZU5HSTJYT2UwWHRiazc5VkpjX2pKLVAwUlNmMWhfbG85S1llUQ?oc=5",
    "data": "2026-11-10T01:47:00+00:00"
+  },
+  {
+   "titulo": "Análise WW: Investimentos no Brasil não vão crescer por mágica",
+   "fonte": "CNN Brasil",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOYm02MlpELUZUYnlWLUdndUloX2IyS1VSOXJtb1lZNkxweXMtSTQzQ3E0Mmo4UmdRd0Q5M0FtLUZCNGxnLWRKcmRXTUl4VDFuNWhBNDM5c19OV0EtTTQ4bzJOZlZPanF5TnNHcHRyakdNV29Vdnp2ZTZvaENuRkVmWDFMc2hqTWo3UGtpNGJMaDJneVgxVHY0QWpBUkVwWTBMMlE?oc=5",
+   "data": "2026-11-10T01:34:15+00:00"
+  },
+  {
+   "titulo": "Estimativa para a inflação fica estável nesta semana",
+   "fonte": "Bem Paraná",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPZWpYemR0dTI5LVNFZU9MaTA5V3JwOXU1akJjOHRXR094WXVtR2NKT3FzejBQZkFybjQ5ZmlIZHJ2cS1qdGJuRG5FbW55QzVYbWQ2a0QweGd1MDdsXzFoNkpUdTRDaEhJSlV6X2NGUGJXRmhaWjRXLUFjY1ctbVU4bF9pRERlbE5ZYjdqRWt0emFoMWVhUHJ1YldMMndFRWRDdlHSAacBQVVfeXFMUFZfZXBaUmVDQ3c3U0pOejJhdlpzbklLYnVzcWozT1dZcF9WV1AtM0R1RFM0MGR4eExmUVE0b0RRWWNCeFdhc0x5dDRjYzdGV1lBQzNQOGFyNnJyQzl4MmFJVjVMX0x0TjhWNTYxbUJnMkJoOWN0QkV2N2hJLVJsa3R3MUNsN25OXzR2SGdJSHJoYWowbkNpVV9RSHdVSE8waXNQSE9JdlU?oc=5",
+   "data": "2026-11-10T01:00:00+00:00"
   },
   {
    "titulo": "Bequest Capital adquire A2A Invest e passa a ter R$ 1,2 bi sob custódia no Nordeste",
@@ -69,24 +87,6 @@
    "fonte": "A Crítica de Campo Grande",
    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNX043UTE2NjAwVFdsbkZxNmZHdmY5YXlTZVE2R0didHNlTTBLWUNUejZQX0I1TjVBRGtNNUF2V2syc1NHUjdqSEhqTWNmVDljRU5HSmZ3XzF2b3NsV0ZYYVA2M2U1dGZTZEw4T2FrVW5OYU83YUkxdVpjdXJFZWVzUmFNcDBuU3dpdWR5ajhiTWVWdi1aZG5VaC13alE4aU8yV1k5NnFOcEZNYzZMelJr?oc=5",
    "data": "2026-11-09T23:40:00+00:00"
-  },
-  {
-   "titulo": "Ibovespa sobe 2,22%, mas ainda perde 16% desde o segundo turno",
-   "fonte": "Economic News Brasil",
-   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOV1NnWlRoeElCNlFGRTRfaUIydHJjSTlMejJpRDd3ZDhrMnd1ZE0xQklvTE43VmtsT2ZfT3BwT2hidXBYNFJ6eTcwN21jaF92UHROc1BVZFNXZk9EMGpSb0FYNWR0RFYxWmtmSG9LX3BWbkxoc3RKLUNrakFRNXVaVkJ5dWVpUQ?oc=5",
-   "data": "2026-11-09T23:37:00+00:00"
-  },
-  {
-   "titulo": "Mercado financeiro eleva projeção da Selic para 13,75% em 2026",
-   "fonte": "Monitor Mercantil",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOSEc0eTFmeTV6dVNkdmE2N1c1VWd1WVNfZGRUVGFlckdGMlhBQ0JhVFFrRE9nWmwtS1I3a0FVY2NzOWFLbjJrUUJKZ3hKbzkySk56Q0NyakFlcEVVWV9uem1yQi1WZW8tM09wai1tYUctQ3VvLV9OSWs3d3RralVXTzQ3bHJUcVpTQ0hpY1FFTnBhaWJBSzR1Xw?oc=5",
-   "data": "2026-11-09T23:33:37+00:00"
-  },
-  {
-   "titulo": "Ibovespa avança mais de 2% com aval de NY e dólar tem leve queda",
-   "fonte": "TradingView",
-   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5wbjdnTDdWUFgxandPQWJpbU5lRzl5X2xqUHVlM1hjdTVacW1hQ3Z6YWNmNUJkamR5WnVPMXBGVUNCc1lRdlZmaDZBNGxmdExTSkg3S3FRN2Q2TTdPWjNjWHVrSDZmVmJzRnV1dmFlNEhjN1ZSdnI4?oc=5",
-   "data": "2026-11-09T23:32:37+00:00"
   }
  ]
 }
