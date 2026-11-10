@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-10T11:53:21+00:00",
+ "atualizado": "2026-11-10T13:02:02+00:00",
  "indicadores": {
   "selic": {
    "valor": 13.75,
@@ -17,76 +17,76 @@
  "cotacoes": {},
  "noticias": [
   {
-   "titulo": "Indisciplina fiscal exige juros maiores, diz ata do Copom",
-   "fonte": "Poder360",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPdDlnYjRKN2YwbUVwcUtTUHVrR29VdFZrcE1pOTBqcFk2NEIxU19YZm5tSldJTkdEUlJZbVFwM1BTVWJlNnA2SVVFUFdQa3o3VmZyVDhJLUhzSnFZOE5jdEZvVkY2RzJEMmhoQ2pVRlRNZkxEa0V3STh4NUdWVDY5OVBhMXE1TjJxRUtVUjFicUVTcHlfMFhpU21mdGNhM1Q4T0E?oc=5",
-   "data": "2026-11-10T11:45:35+00:00"
+   "titulo": "Iberdrola mobiliza 300 fornecedores para duplicar seus investimentos em redes elétricas na Espanha para 6 bi de euros (2027-2030)",
+   "fonte": "Iberdrola",
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNd2E0ZXFTWW9OZjlaTzBXSnpfSWNPckl1UzMwNXZ1VV9HaXhaRXc5SF94bERuQmpPWlpqMzVpcHd4U2I0T2ptMEhqZllJZWltWVNRVk9yV3NPTXNld3hhWU1pZHFoVEpwUjNwWHJYSk13Y3pLOE1ORjJ5alRIZlJUVllmV0lmdU84WXpaLXFqWl9jX3BpVWlua1VpQWZfeFJkaGhiQVpOckdKWEFPYVNmZmxQcGRXanI3WGMzeDRlYUZwZFpOXzBJZ2J6OEQyUW9YMHZr?oc=5",
+   "data": "2026-11-10T12:57:36+00:00"
   },
   {
-   "titulo": "Ambiente de expectativas desancoradas requer juros altos por mais tempo, diz ata do Copom",
-   "fonte": "Valor Econômico",
-   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPTzBBUDJKTzQxR0lLVnBMQWtmTWVUcUE1Zk9zS1NVd0s1TFJpLXZkNVUzSHBudlpsbjBEbW8xRFFjbzZneTF0MjRCWlZiTXhCSTNMN3Ftdl9DZlVOcnlMNF9NVFA3RUFLUEk5dHNVSGFsbDhlNFpmTWdCeTRmazRSRHc2R1M4cy1RbklWVWs2MGItUlZRc0JqV1FmMnYxUVgyeFF2UlN4TU8wYzV3ZHJSUmM4X0puSHVFUGo0UVJxLWk3WUZLbG5VckltQnloUWdfRTJzSk1TdWJTVGQ1T3dj0gHuAUFVX3lxTE9OanoyV3N3TmhMNUVqTUY5YjV1aTQ2MnhQeXM3YlUwV0s3ZHFIMlQ5bnhnd0h5TGVtUWVfOXE2ODhWc1kwQTdMTEpfbzRSMjVHSHI0a011VDBORTZVWUlWd3VnaUNndVBMNVBsQVF0d1pLWFNFRjZQMzM3bkw2UG1xa2xtbHJheXdGSW1pUS02czNqTmFwcWtLcVVzTDVxanJFei0zZUtDWENBcGJ3UWJHeDd3eWR0VUVGUzJkandoTmdXcy1lUkEyMFRZMjVZa054ZkkwY1hocG1YUGV5UVBMem1JVGhWR2ZRSFhubFE?oc=5",
-   "data": "2026-11-10T11:41:47+00:00"
+   "titulo": "Copom aponta expectativas de inflação em alta e monitora desancoragem em prazos mais longos",
+   "fonte": "Jornal de Brasília",
+   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQNzJJemszWUpGQTNQSERsNWdhRzNwTm1QQTFhR0g3WTlxUDhkSXFibGtvekxWQ1AzY09yZHN6aldKMW1EbWRHaHpyQTNaMUl6cEhhZE04S01rM055SVZ6Q1RJX0lSR29XSlJibmF1VU5HU3BsN1F6bVE1NU1fQl9HN2ZnR1dWclVsUXdOWW5fQnozbWRsWi1nTTZvNXFwSlI5NVVJalMwV3A2VEE3YXpMenV6NTZ1UjRfM2FXNkJWX1RhNTVhUWxBczdZTkpraVNwcjFWWjFjWmQydw?oc=5",
+   "data": "2026-11-10T12:55:58+00:00"
   },
   {
-   "titulo": "Ferrovias concentram mais da metade dos investimentos do Plano CNT",
-   "fonte": "Transporte Moderno",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQODdjdHRDZ0VRRWJpS3VNTVpacXVabERzM09ZcVRYTktJN2lNZ1VERURvQlNqQ1FVVEVXRmM3X0luQnhNN0QyUnQ0TnJJUG50Z2NFdmVncFc0WWZsamtsaGhISHBtdHJPSmFNUnVNNEpscWtyQXEtbm9LbnlENWdDSzhUZUFhX3NYYzh6a2oxTjhXR3hUU1JhSWhQbFNRTFVSdXdmVm1YM2NlUWpHeEJsSg?oc=5",
-   "data": "2026-11-10T11:39:03+00:00"
+   "titulo": "Dólar abre em alta com ata do Copom e inflação dos EUA no radar",
+   "fonte": "Brasil 247",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQTk9NTE9JczZpSlpNR3FKU1prbEJtNHIxbUlrTkVqOFlOd0hwQkxhbF9jUTd4LWFlcmJkczR2Wm9ZSS1HNmlmNHI5M1lidUY3ZUpMWmU1anZHZVlldXVNRHYyZkYzdTctMldvcldDVjJCT2VZcjdTRWc0bUZweHphdmZmRWVTWEtZSFVDdDA5SGlEem85RWhLN2RMT0tMOUhY?oc=5",
+   "data": "2026-11-10T12:55:18+00:00"
   },
   {
-   "titulo": "Ata: contexto tem Selic substancialmente contracionista e aumento significativo da incerteza",
-   "fonte": "UOL Economia",
-   "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNWFJtOU96WmRNS3JZemtiZjRDa3dKTDN5QlRxLVJHMzJYbHJxNjlmeDVZQTBrY3IzOTZVU05kMkFLOHNxdmhwd3RNUDJnTlNJUkFIaTZfSU9aQk5zOENUbm1XUTR1RzJVRXNmekMzLUdOOGlVd2VkdExWSjlSUFI0cHJvQkE5VTlDNXh2RVAydlRHSkVuLVp4RjhSUDZFQmFVZVRRLVF6T3Zzc0xfVWdIaU85U2k4UDJyWDlSbkd6dmktWHVvdm43M0VPMF9HZkw4RE8tLU1Hb3NZdHVUQ2otZnllX2F4MkNueGpFVE1TSlliQQ?oc=5",
-   "data": "2026-11-10T11:39:00+00:00"
-  },
-  {
-   "titulo": "Luiz Caetano destaca força de Lula no exterior e busca ampliar investimentos chineses em Camaçari",
-   "fonte": "Rádio Metrópole",
-   "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOa05NMTNhUHBYaEQwdFlkVUR0LUt5TVBtZlVMVldJQUZ2dV8yc2JqZ2doeGdlVkUwdTZWZGxlai1WcWJ5Z2pnY3NTZm5iOVc1R1VjTXM5U2l0OWtfOE9DNFo0T3ZCS05NSmI2c1ltR2VEMEhxTGNNWlVNU2tNSmp4ZnBadVJnOS1zWmZhSC1BSzVjMG10eE9ZZWMtblU5NFFKVFJkM0pnUk55TVFGMldfTU9DWGdNVGZmT2FoekJ2eExLY2lhUll5dDVCMGVIckdpODNTdDBFT0ZhYTVHdkNtVUg2Ny1xTVpDbUhN?oc=5",
-   "data": "2026-11-10T11:38:00+00:00"
-  },
-  {
-   "titulo": "Ibovespa e dólar hoje: ata do Copom, inflação nos EUA e balanço da Petrobras",
-   "fonte": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
-   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOdzh0WmhMay10YTJCQ1NBTkwyMDhNUWpUeHRmd05TdWdCZk1iMGRaN0VVSE1pWlJYb3ZzWUNWWmdsNEU2c1hKZ3VTWmtQeEtkdzBuWUZXSzE5aDdhampsaDE1ZHc3Uk5sajhnNHNYVm85SXBwVUhTWU5VMGQyb2RCLVNiNVFPbnJMY2pfMjRURlhSMXhPZ3JBOFhxOWxOcXVVOWlKem9lQWQ4ODhUWGFSSEZHems1N0ctNmxacE1aTDB4bm9vXzhmRW93?oc=5",
-   "data": "2026-11-10T11:38:00+00:00"
-  },
-  {
-   "titulo": "BC vê fim da escala 6 X 1 como fator de pressão sobre a inflação",
-   "fonte": "Poder360",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQM0MyYW1CWUJTeFIxWmtLZmpmdHlSMEhfWlMzd2VMbnZqT3hfMWRybHBlRlp1a0loMWNYN0l5NFBOS3pNd21MSWJuLVd1SjlBVzhNQ3ZsNktrREZyMEVWRmRpQktqdmZnbUNWaktfY3JGT1pTSDFIc1UzY3FVeGxadGQxR294VGFJb3JzZ3g1UXhZMlk3TExjYnIxbUl1QWlQOWVkVk0zaWhSVVM2?oc=5",
-   "data": "2026-11-10T11:35:47+00:00"
-  },
-  {
-   "titulo": "Ata do Copom vê inflação pressionada e Selic em 13,75%",
-   "fonte": "ISTOÉ DINHEIRO",
-   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNMTVjaTQ1UGM4akNaa1lERFBHMGVzRVhuRTFha1hjMjBQUGVjNGloRzZaYjA0blRQbkFrbGduZjllQ0I2M1NSTVpaVFJ0QUx4SkZiUWVrRWFCQW16bTdveDhQQUxKdkhGMnhrMUpYV0pMVTFyb2RXSWs3V0QtS3VaRF9DMA?oc=5",
-   "data": "2026-11-10T11:35:05+00:00"
-  },
-  {
-   "titulo": "Ata do Copom mostra expectativa de inflação mais alta com guerra, El Niño, fim da 6x1 e disparada do dólar",
+   "titulo": "Dólar abre em alta com ata do Copom e expectativa por dados de inflação nos EUA",
    "fonte": "Folha de S.Paulo",
-   "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOT1J3NzlNMTY1by1PSGFmWXZtd2lEQkIxR1owZU9XcElQMXdsbzNNN2lJR2VwNmhuSlB5UFBKazdoMkZ5cXpZM3RTVGhPSF82NGxFa1hfam9sa2VBMlFQaGRZUXp0UmJEdjVST1NsUXhVNmJXVUNQRm5jeUlYUWpKeFp0aEI4MlRfVHhkTmZUVnNIN0xWR21sWG1XdGg5RTlZME1DX3pEWDRkMU01SHB6NnJ5M0hBOUZqaWpGUFhqUTRQOVFLaXlIeS1nMjBxX3JMWm81YVRiMTk1NVYwN0lVUUpMZHdsbS0ycER6MA?oc=5",
-   "data": "2026-11-10T11:35:00+00:00"
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOQkhDcjFUNDNtbkt0UTJzYkRKczhhbEFOd1RtYWpuQmd1d24tSlpfNGhkUExianp5OXZwcU5HOW5FRkJLcTJ0ZURXN1RzanlQdnQzM1J3Z3hRVGczbVNjQUhITDJDZVBOUGFEbkJINlFCN3ZwZGpLdU5HWHptVHY1MmdadVdiQkNJanFpcnJIMzFFa3oySlBBTHlFLUM5bXdDa05UanVFU2JFUzhMd3h2WmRGV3RCNWsyVmV0WEJrM1g0Ukh3SkthbVlKQQ?oc=5",
+   "data": "2026-11-10T12:55:00+00:00"
   },
   {
-   "titulo": "Banco Central diz que fim da escala 6x1 pressiona a inflação",
-   "fonte": "SBT News",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPczNhTEZad1F6YVlSdVlnaExhTnh4SmxBa0NNaVV3YllFODN4RDVsQldvdVBYVzBURjZHMFZhSVNJemtqQkp0SEgyVHhRS2RiVDhsUnNQaGNfbUpiZ3kzb2F6MDN2MnZmaHdlcE5xa1Y5SUY1UVdMekxxRWlnSzdTNFBqNmtUdm0yLTFKLVRHZmFYLWthX1NhRkh1aXZ3Um1UTkUxa3Bhbw?oc=5",
-   "data": "2026-11-10T11:34:58+00:00"
+   "titulo": "Ata do Banco Central aponta preocupação com contas públicas e projeta inflação acima da meta",
+   "fonte": "Portal VV8",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxONjBXdExscTZ6N3NOLVhsZVkzTHFpUjBqYmlJRjNFa1o2VnZITDFoemtrdFRUZ002YjVuU3ZWczNxUVBzYXZQb3VfVU91Qmk2aFREQWJQa0NVY0ZrV09lU09sTFdlT2JrZ2d5cDU1OXQwRG1aRTRTYm53Z3VGRGY5aW1CeERHQWxqUVFmOWpzNGN3YlkwZFU1ZGg3NkFOZFRqenZwaW5CR1dJUVlfZ1g5RFVIQWNXM0R2SDJBWEdjRmprbkYyYjV5UHl6OA?oc=5",
+   "data": "2026-11-10T12:54:17+00:00"
   },
   {
-   "titulo": "Ata do Copom aponta pressões de oferta e demanda na inflação",
-   "fonte": "Rádio Guaíba",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQWXpqNVpTdjhRckJuUW16YktSUk8yRWFjcTB0LW9CbE1yX2RzaV9VQk1oaVpDQXdmNWFkUmxoUjlWTlZBNF9PN2l5bk9IR3JjRHVlQkNkbGpvQjBFeWZoVWw3c1hTeDBUX19FYV9MeVZTQ21ya1JQNTVpLTRrNDhuTGs1SGE?oc=5",
-   "data": "2026-11-10T11:30:00+00:00"
+   "titulo": "Copom vê expectativas de inflação mais altas e cobra juros restritivos por mais tempo",
+   "fonte": "Canal Rural",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNQTQ5WllIaG1oaWp6ZUoyS09jSUJwX1hyM2V5Tlc2ZVNhYVJIY2JSakswb2lqRDJLUG1NbXRabmhIdDZ4TE0tRWJ1RHVMNklMYlE4X2taMHRpM2xjbUNuSjE3aDVsUExVSTJMYnVGTE43SzdYT2VtMHRaZmxybG5yMzIya3VSa2txSEZ1b3J6NW85M3RHdlNrczlUQ0RKUmpIR2F4NVhEalo1QkI1dnV6QjlKMHdpdTI5d0R6b3NVVEhCQ00?oc=5",
+   "data": "2026-11-10T12:53:17+00:00"
   },
   {
-   "titulo": "Fim da 6x1, El Niño e petróleo: Copom alerta para pressões inflacionárias",
-   "fonte": "CNN Brasil",
-   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxORkN1dnJlWjkzb090LXM4UU9hazdLQW9mVXVPTHpEOUQtWUlMRGtPQWlFRUs3Qjh5WWdHYkdMU0JpUlFaMDN2SGtza1M2T3RjSHFmVWdEN2VaTHFOSkJHOG5HOHdndlJHYlhuZC1scFFjU3YwVDRqYzNtNXRwbTFseFNRTXpHSjU5UTQ5MDhHYVAyVFV0NEcwb3VHTDZ2cEZzV0FtLVotUFFWQWFXekduUC1jOWJFUS1NYVZHUDV2LVcxdGY5X29WbnVR?oc=5",
-   "data": "2026-11-10T11:29:37+00:00"
+   "titulo": "Agência de Comunicação - Brasil precisa ampliar incentivos para atrair investimentos no refino de minerais críticos",
+   "fonte": "Estadão Blue Studio",
+   "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQSm5Vakk4T2s0NTd5aGNQb2NaU1FaSk9Pb0J5TEtuUFg5N3Z5bE14aXloOElZSm9OUlJ3T2o5WmpnOTZfUDJTb1ZOcDhsOE9LMWQyTE9BaVFjR1BlSjlFQ25QVU9EZEJaWlBBSmlzaFZTeUkwQ2M2VkFmV2tzN0hGSk5mcEJoNkVGbDJidzVwNXVZeUFhQi1OWW5qcXpGSERBRjlqeWlGdS1rY1RGVnVLLVY0MEltSWJzekdZYlVVSmlSVU8tTU5pd1VYaWtUR2FoTF8wYW9RbFQyaUR4aWF4TlpOVV9xNWxfaVJsVWN5SThlaU9jTktFTEQ5Z3JXVk0?oc=5",
+   "data": "2026-11-10T12:46:13+00:00"
+  },
+  {
+   "titulo": "Ata do Copom: BC diz que expectativas desancoradas exigem juro alto por mais tempo",
+   "fonte": "EuQueroInvestir",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQaURwbW84ZHlOUVpWckVaV3Q2MVI0Q3ZsVGU5cVJrNjV5ODhFdm9GTGxwY25QY1l5Z0otblU5SDU0d1JWQUVnWHRmUXRqdnM4bG5RQ2JIQk1hWTNiNDhWeXJnR2dSWk00SzdoYXJkRnktU1k4UEZKTkNGejdDY0k1cERxWWtjbFBybW1oa1FPQkNUT3ZNSk1zRU9EVG5yQjZpbkxIRkp2cWlYcEVDVHEzSjByTmlWWGF5b0E?oc=5",
+   "data": "2026-11-10T12:40:26+00:00"
+  },
+  {
+   "titulo": "Copom mantém Selic em 13,75% e alerta para inflação",
+   "fonte": "IstoÉ",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBMT2VTUUlEaHVaZUdnQmFQRkhGazZmNW5RMVk5WjdwbzdXMkhfeE1vUVNQZVo1TnFUT1JoazR4NUpPZVloNWxONmZ2QWttQllqeEFlRl9oc2tpSURzNU1WVWtZdDNoaFJGQ0E?oc=5",
+   "data": "2026-11-10T12:38:38+00:00"
+  },
+  {
+   "titulo": "Mercado digere ata do Copom, de olho na inflação dos EUA – RADAR DO DIA",
+   "fonte": "safras.com.br",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNTlliVldWWnZhSlNXX0lrVWJsYm9LZjROSDhkOHgxVTdFaXJvcHBfNGE2dnpsakM5X0VCWDY2aFNoTnRFS3BTeU1IR3JnV3dTQWZuS1F5XzVOR2Z0TEYzdlRiQjZGN3o0YUlqMDNJSHl2LXRlQ1A4ZEZ5MXp4dV9YNkFocjJIZ2dhcGFSQ1dLLU5uSmRfd1E?oc=5",
+   "data": "2026-11-10T12:35:04+00:00"
+  },
+  {
+   "titulo": "Ata do Copom reforça cenário de juros parados por longo período, dizem analistas",
+   "fonte": "O GLOBO",
+   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOS28yT2REUVVFbnF5bTRMZTR6QWM2QWZTX0Q4UE11ZWlpYldnX1ZxNHlWMGpFbFJWSTA5b0Q2ZVF5NzUxeDFzRjcxT01WcEJPa0VyNDBPU21tVDdaTnU2LUVMdFNFSzJITzc5V3RZRy11bjN3Unh0TUVpNXBtV3ZkdGJuekhVWUx6NTE3T202ajR4ZWgxeDFybUFqbkNNbjNheno4OTdTRGNHdzlIQU85R0VsTHpuQmFPZklKNWo0cWtkbkZ3aXZtRms5SGZTbEpBc09NT2Fwd2IxeknSAeoBQVVfeXFMTXZrdVdJY3JnendFTmxvb2JreWtTbWNTS3VaTnlxRFRxaEo1aElvNzVrSjdOR21TSmJmLW9TZkxvM19Ja09xamFrNzIxTGVsZndNZjBmQWU4ZlFhVURoZURodzBGeHRaOWh2ZXFyWjd0a0dwOHA0b3d2Y1BfSS1ZeUpXR0l2LWFYUlZFZHVfbThzTlhjWXdhM0xKazN6M1pwSmg0QUw0R2t1NjdLNUVOVHFYOFcxVkFoNzJRUTlGcFF2dHhFdVl0aFRfcjVvc1pha3laa01vMTVYUFJWR1ZyQmNCMVRMeFBGTTRB?oc=5",
+   "data": "2026-11-10T12:34:48+00:00"
+  },
+  {
+   "titulo": "BC aponta juros altos por mais tempo e não sinaliza retomada dos cortes, sinaliza ata do Copom",
+   "fonte": "Exame",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNdGJiWDB6cDd0RU54WENEcFV0eGpKUWxndUlGMEJNTDB0THAzOUVuMVRhLUtnVk15N3ktTkdkQjIwM0RxTDE4cFVZTDlRWVlpc0FFWjdfSFJLbXVxTFM2QUF6djJQYkRuQ0N3M3pTYVBYN202NnpRNXpOQUE1VlNJN3NJVVN2bS1ETTQtVkhPcnVOYVltdXAyeWgwUzFub19vV2tRNDZPQmZEWjdhbWZGVmE3VjlQZVcw?oc=5",
+   "data": "2026-11-10T12:34:10+00:00"
   }
  ]
 }
