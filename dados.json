@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-11T08:57:48+00:00",
+ "atualizado": "2026-11-11T10:00:23+00:00",
  "indicadores": {
   "selic": {
    "valor": 13.75,
@@ -17,76 +17,76 @@
  "cotacoes": {},
  "noticias": [
   {
+   "titulo": "Dados de inflação nos EUA são ‘perturbadores’, diz Goolsbee, do Fed",
+   "fonte": "Valor Econômico",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQU1JyX3o4V0VIdk94TEU4TUwtMnhoNUY5NTFfcDd4WG53N1VaV1hvWlk0aVVkQkdCSWFzNnZoYjgtbDdsZHdIcVJsZlQzY3hsVXAtWjAzMTF5TW56ZXBXTHpyT2M0eGpqVTFIR0M2cnVYUGFmOU1WZnk5RDRTOTBEdW85akVvd0p4dV93Rm1xS0lQZnpiNnpxNXcwVEIwemdONnFScUFRUWdjbGVTemR1OVI3RDRnc1R5ZWRqQzRn0gHMAUFVX3lxTFBUTXd4TWk5Qnhva3Yyb0h4RlAwOHpJMjZ6Q3kwREdpaEd1c3IzTUpNckZMRXpSRVBVblRIN3oxajJTSXdER2FuY0RIYmRTVkRaUGtxRVM3UzJ6UXV5NGNGaFRuNUYzeGkxQ2t3VnU5bThFTVh3RkVuLTlJMUhrZ016cWo2c2pyZHB1ei1HbjNPNXhJem9US1RTaEVRWkN4MkFnX0QzUzR0LS1PaThPM1ctdHRiNi1hWno0WWV2YzBtek5HZFd0TDJJQkNlaQ?oc=5",
+   "data": "2026-11-11T09:47:30+00:00"
+  },
+  {
+   "titulo": "Inflação na Alemanha cai para 2,8% em outubro",
+   "fonte": "Poder360",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQUkNxdDlhUzhkWW5FNXFwck1RZWhLWTk5VzZsR2dfYkRRNm8wOG5BNmFXeUR5NE1lMzVMek92aU9RS2ZVajZ2Sl9idmJmZXJHWXNpTGlXNUtGMTBQcDVYZGttZmNkZS1Pa0ZZY1BScERSMk9SaFRwN0R3QjhrQV9yQU1VdkU0Nk5Db1pHcVh3UlE?oc=5",
+   "data": "2026-11-11T09:44:20+00:00"
+  },
+  {
+   "titulo": "Inflação persistente leva dirigentes do Fed a defender altas mais rápidas",
+   "fonte": "UOL Economia",
+   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPUFZEWXJMeHdzSzlNS0Z4RUpadlpmcHNNRUZkMFdwWDFlV3cwRjR6VEE0elVxZThSWFR2akRLcmJfZkV3SFFBam9IRUxhT1M0M2l3ZmltTE8xV2o4UWpPdnJWREJvUHlyMVNjTDNJR0RNVFNfTzZDMGVjeEN2cjAzWTVqNmRyQTRacXhVclFRcHlRRjQ4Z0QxWXRWWGNnTzFZZ3JhOENIZ1JVc2NNV3dsRzBZRmIwaG1HRWpTNUFVTUR1N0kwM1lTc1RUdUVTeDg?oc=5",
+   "data": "2026-11-11T09:35:49+00:00"
+  },
+  {
+   "titulo": "Dólar em alta estreita margem de manobra do BC",
+   "fonte": "Valor Econômico",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNY0xKYmNpQlpmczIxN1BVZzl0MGI1Q0VvRkNNcThQQ0xOdVhTX0tEX2V5X0xvZElsVW1VNmJVWFZJV1ZEOElNTXl3SlhXZml2X0RBZFpYSHhsNi1OSXphVHVPYkhocG40QUJ5NGJKS3FLNE03UkNEMjE1QUtvX3NvMmRSenR6RUhsSVAySkZfaXdKZXJGNlBzQzlqZFlzWDBCNnNtWHAwckk0cEHSAboBQVVfeXFMUFlfOXdvS1UzdTljSXlncjNCMmVWREx4NzBlTUVoQUZReGZqWllPRWM4dy1uZlBhdGRpMjNveGd6bWdrSkRTVmxPX2JsX3UxUEVmSDdtRlBDaUNUY1lucWFXYWgwVE5fTnVZLVprUFdSbXRFVGhfRUx4MWRKd3F3d2h2Y0E5R29lcGNsQzNyVE9OSTFXX3RTT3A3X0NkQ2JEY0kySDZLSUlqa1RETGhoUHltdTkzYjZoNkVn?oc=5",
+   "data": "2026-11-11T09:30:42+00:00"
+  },
+  {
+   "titulo": "Agenda econômica: veja os indicadores que podem movimentar bolsa e dólar nesta quarta-feira (11)",
+   "fonte": "Money Times",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQM005WElxU0dKamc5YTJndW5vREw0aHFJdDRnRkx2RktWaElnajFpMm1zTk1lY0Z5OG1ud0o1N1NZVmtBVzBqUG5BZWV0aVI4TDRNYlRncVU1QUY4Vkc3Z29QRFU0QzVwUWV0NFA4YWhjUktRN2FKbURtQUdtczJvTTR6NnVOU1FsbzZwUjRyREdfaDJzbXlDMnNQVVV5Znk5NmtZc3VVdVhBbWN0eWdRREJCdGsyOU1mNUFiUGhBcW92VUNF?oc=5",
+   "data": "2026-11-11T09:30:00+00:00"
+  },
+  {
+   "titulo": "Libra recua com apostas no Fed e IPC quente impulsionando o dólar",
+   "fonte": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPcUJyTlF1Q2E3d1hzemUzcmY3MnJlaENIaFNvc1BtN3dLMVZyb2VlMFZkUkNWVk5PenRKcUFfOVFoOFhOZk1iWEpkZmFsUFBpOEs1X19oM3dsSzFJdXAwVmhtWW9vcEJGN3g5UXljLWd0R0JySW95ZUdPS2FWVmNVVmdvY29pWmU3MEpTNTU0b2pyRkY0Yy1teDB5MkpOa1hjaG1uNnJkeVAzNzFrUGlRQno2VDQ?oc=5",
+   "data": "2026-11-11T09:22:00+00:00"
+  },
+  {
+   "titulo": "ETF de títulos atrelados à inflação de mesmo prazo vira moda. É melhor que Tesouro Direto?",
+   "fonte": "Valor Investe",
+   "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNYUszWkZzUVF0SXVQeG9PSlZQMEswcGZJRk16ckRTWkRlTXFsMjNDcjF3c0dGR3NKMnp1UVVTQ1E0V2NjMDloRm05UjBfRmkyZHlsVTV0ckp5cDV5RHFEWVFuNkRMX1lIcWJHTkNoeWxIaGJ6cklHc0tXYzNPeDMwLUh2X0xKYVpoTEJWdHJ0bXR3eHBkWnlwSnI1MVFhU3g5Z2JZc0lsYlB0NjZ4VVBmYU1EdlFmd3A2b2sySlpYZ0FCa25NemxvYXBRdWJadnZVNVVJYkZCWV9kcGNlWXhoWVc0UTRsMk9wYzg5VkpTb0ZHX3FnVXNB0gGGAkFVX3lxTE9CemQ5cXJlMVNVVXJwdU9qLUlJWndNTUp1RUpGc01kS2czVi03YlVyeVVNYmNXQ1k3YmRtVU9GS3dzcnBKdTBycjAxckJiMUVaOUkxX2ZOOGtSdVdyNHJsVnVlZVVBcjVHQmRpT09kdlhVMjhfek5wNTRBNFcwQ1ZoSERoWU1sN3ZfbHpfZnRNbW1Xb1JGR0RTZ3gxRkRReWQ5ZFhrczJscnJPVV9KaU8tV3ZlQ25VRUlrSnpYYkFPUGdQRF85T082VWJ1WDZ2dV95aWRiRFVfbmczRmJHamNPZnpfQU5JbEdZallCQ1pVUnRJMC1JYXFPNm54U2lkX0h3OGNhWFE?oc=5",
+   "data": "2026-11-11T09:00:00+00:00"
+  },
+  {
+   "titulo": "Fernandópolis busca parcerias com a Itália para atrair investimentos",
+   "fonte": "O Extra.net",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQM3FSRWdoQzRSMDR5THM3c00taUFyVkVyV0JaUkxCQkdIV29qbXZTTFRhbFdJeHFIZFFEUVpTVzZjSTdfajAxZ2hxU2Y1dklCd2NmeG5TeEVqWnA5bmw1MVhuUFdqQWNhX0FzYWxpTVF3REhhMEwtQm0tcHhlWDV4bjVGS1N1UEZtWHBYMGFwSGlhejlDbHRSaw?oc=5",
+   "data": "2026-11-11T09:00:00+00:00"
+  },
+  {
    "titulo": "George Santoro | O Brasil deve incentivar investimentos, não só operações financeiras",
    "fonte": "Poder360",
    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQTjJXRmd0T3dZT2owbWtIOGtHd2V4YmxFWVFqOWNEUno4V2M3OUtZaEZUNUMzTmpPVmF6VS1zRTlrTVlQd3U0LTVWLVNCai1RYWg4QUdxNk1oRlpEc3E1Yi1QLVJjZTRVR1ZVMUlaVDQySzJMV09lMHdOYi1DRkNUZm5pYXZkejRnNFhSNFF1VG5hMEg4QXA4d3hWdzlSZ1BhaHpUUGVxdw?oc=5",
    "data": "2026-11-11T08:53:45+00:00"
   },
   {
-   "titulo": "Banco Central usa fim da escala 6×1 para justificar juros altos",
-   "fonte": "Portal Verdade",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNM0FmdXJfT2FwTnZVbVMyU3l1NXVHWWpoMU02dDNSeWtjeHFHZmctUnc5UWwybzB3bm50bU9EMzRyWjlQTFJad3R6RXVlZlhxa1EwR2NGdXJwWklVREVJblJVZVlRTWQxUGc3Rm9EcnluR2FpV2huLTVlRFEzazZjLWMtQ2RFLXhYUm9Jc1d3b0VvQ3VrWll0bw?oc=5",
-   "data": "2026-11-11T08:34:06+00:00"
+   "titulo": "Dow Jones Futuro sobe com otimismo sobre IA apesar de temor com inflação nos EUA",
+   "fonte": "InfoMoney",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQNGFXeGN6WkprNTRDamlXd3pVRThhYVdaSURvLTFtU2VFQTRMQ0N6UnlUeVNURFlVM0xCanI5QTRobGJFX1dsNmNKQ19oQmI1Q0t2RWp6M0lnTVFDV2dtQWRyZmdiQXJ4UHRSbTYweTI1QkpzWG5uYlhhWDN1Z3RmV0ItZ2NtOElESEpMY3YxeEZtWFBXZmxYSEd3ZzYta05EQzNnRC01Wk9HVlNpeENiUm45ZjFoc0IwRDg40gHAAUFVX3lxTE1nX1pZUXVodDlBNHEwWEVVcUx6Vnd0a3NfdXNuUkNGQUJEblo0aVp3U2ZSVmtLeUxDZU16bXZuUVl5QTBiNnl5TnhqWVNBT3FWUE1DMmRzZ0ZyRnUtLVM1b29rX1Fta0pldURnR1JGZ09SMGx5bm5hSnAwTklQa0VwRkV6MnBPejZ0QTF5ZmZES2R4TU1hNEhiaEVqUWxGN0lMcnNnNjdTTVQ4N0FiTGJETVNoQzZ5MlRId3VLd01yWA?oc=5",
+   "data": "2026-11-11T08:42:24+00:00"
+  },
+  {
+   "titulo": "Um atalho que pode trazer de volta o descontrole da inflação",
+   "fonte": "UOL Economia",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxObUotSFlNaEdqS0hoVTI4a2hEWjM2djItU2tlVmhDU05KZnZUSFF3STJ3YVVHMWdjbkpLcjFKbDBxeG1paXNJVWx3dU1wdDZtNWktcVhJRV9nRzFFVEowc0VVb19OYkFKeGtVLXhRbzJJdzY1bFBmdDZLNzRJdF9jbWM0WGlPLUctSF9KTVF0a21VLVBlX1Y5VndWazVEaVJKdDhnOE81NXJQZ21NQmpySDd3?oc=5",
+   "data": "2026-11-11T08:33:58+00:00"
   },
   {
    "titulo": "R$ 100 mil em CDB, LCI, LCA ou Tesouro: como investir diante do risco de tributação?",
    "fonte": "Estadão",
    "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQY1JLNk1IajFNM2RmcGlsSGtIcHFuNThZNWVYNWZvNEFuU05Qc1RiVXJKRjZWMmJ3MjEtWXF0RWRUOEFuZDd3Y3J2b2ZqTThSMXVBdUF5dGlTTWNUUFVDV3BjRENHS1QzNy1zc2pIc1JCYlQ4LTI4MFFXVWJUZ3BoRXJlQnpfcERZaEVBUkRPV3BHZER4UXVWZ0pnbEdhS0ljbC1TU3hvTVNHN3FyVXZqZ2VCaDNDQ2VwQlE2SVZDN05XaW5mVjhYb2F4YV9TaEl2cngxMUdDLXQ?oc=5",
    "data": "2026-11-11T08:33:18+00:00"
-  },
-  {
-   "titulo": "Ata do Copom afasta possibilidade de elevação da Selic",
-   "fonte": "Valor Econômico",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPU3o2eDVCSV9mekV2a1F6bVp6ZGc1VWJXcUJPazdidlpGeW1BWVNuazluaE1CLTUwWkZvUTl1OWYyanFmSzEydElCLUpUZzRKUkc5Rmk3eGQ2ZEdJR1F6ZFp0M0JfNVl0ZzZKWUdFeGlaWjgzbFZPOU5sRXF2VzlSM0t6bFZ1UHI1bHg1NGZMY3locnE2WmNkTVo4bW04dm45TTh4NzlzbllJNGU5c0VYQlBn?oc=5",
-   "data": "2026-11-11T08:07:56+00:00"
-  },
-  {
-   "titulo": "Turquia: seguradoras precisam participar das decisões antes dos investimentos",
-   "fonte": "Sonho Seguro",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPQ0Q2MHJ6N09iZDU2b0dOUG51V3VBLWtOOXBfeGp5ZVVLU2l1WXJfRWg5UmhGcGVCaFpaRUFhUzFqSjVGY0lxakNuN0RESmF0Y29RcGMza0tNdDgydEZlaDZqUWpTckFtRjJWaU11WU1CVndvNmJKTDNyTGY1TExMU3NvUXJIR08tN1NVSTdmMXZHb3lfVjFZLVc0eHRrNWlCV3k2VjJ6OENtcVZ5Z2I0bDFYRW9naEk?oc=5",
-   "data": "2026-11-11T08:04:32+00:00"
-  },
-  {
-   "titulo": "Aplicação conservadora, retorno de alto risco: Tesouro pode dobrar investimento em 5 anos",
-   "fonte": "Exame",
-   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNNWdLaDdUdjREaHN4bVZ6V29IaUxEZWxSWDRPUE80dno2RGNmRllEai1uRzJXQmFtM1JibVMtb2VUYjNHdFpUU1U2TEttbHd6aC01cm12N184Rk5RRDQzME85VFNwek9lNXZzck9kam5icFk2MmZYa2Vaa2cwcFdZTnVmczhkbU5iNG9IWlEzWmJ3QmhuY1NrVWR6cXQ5TFNSTEJHRFFHUk9pdnB6U2pkVFNVTEJNQmFOUzFaNkx6Nk16X2ptUGhVQw?oc=5",
-   "data": "2026-11-11T08:03:02+00:00"
-  },
-  {
-   "titulo": "Dólar vai à máxima em 15 meses com temor de BC brando e Fed duro",
-   "fonte": "Valor Econômico",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOMmo1ZnZNcmJab0l5R1k2bzFkVk5uMGprcHM2UkluOG1XRjNlMVR1U19ZTjNqMWJFRmV3Y2VBaWdxUm9ERGptU2lac0haSERrNTdOQVB4T1Z0RG0wajgxWndHSnF5cmJWcU55SGt6am1ZUVNoZ3NDVWh5UTdDcV9kWXlnOWk1a29TdGRyYldJYjBFdkN6Z0xMZjNaSWtPR2hBZm9MMmxlMzktbFNTMWVtTl9IYzhOcmYybHNDejU3c9IBzgFBVV95cUxNUG41MGYzR1ZhcGdxbEc1Z0hjLUVCZEhteGRoUlpZWm9SQTlUU0VGQzFkS2hDYnMzdVdXbU53bUx3VG1tVmc4T1BBdUEzdnB0LXJVak5NRV9YWWNNRF9NaXAybUxzdW5tRTA2RVJaSW84dzJ0T3VIODhENXBNbUFhNVBoOTdNdEpwVEtSRldYeXRJM1BGa1cwV3JpWHFCUUVJbndJcGpveDNFSUpqcVFBa2pEcGhXZ3Bnd1VINV9jc0h6cExEeXMwbmg5aHpNdw?oc=5",
-   "data": "2026-11-11T08:00:01+00:00"
-  },
-  {
-   "titulo": "Novos investimentos de empresas brasileiras no Paraguai entram em compasso de espera",
-   "fonte": "InfoMoney",
-   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOM01pczVHQTJVOXU5TmhOaEJUZlB2S3I0b0YteW4xUFA0VHQ1eTZlcGUyWTJKWWN2bFR6ZkFLYUl3OWdvVVFRWjc3Y3lKM1NRaXAySVNqRHhjdE5HQlptcU1DN0dPS255WlVOb01hUzBhQ3RBMFJzU3VKQXc2el9rb09KX2hmVTBxSHlvb3Y3MXd6NF9ZN0lFNWdjc3FObHgxX0RkVEFiaFJEM3ZKVHpLcjlJSXZZRnNlRXM1Sl9aRDLSAcYBQVVfeXFMTTVWNDJxWlpJeTM1MjF5RF9yRnpEZVVNQWYyX2paLS1xZElGVFo1bzFfN3pINDFlamt5OWlnZV90WkJ5NVRUWWJtNjFoaFBJMXpwUmdiaEdIMjM5U2FodEVYSi1GbTJWX0ltX0psSk1LWDVfQzM2WjJ1bEhVSGpOQ0l2RUZpNEh2WXlkdVFhaFpCQUowejlUYVdlZXBqeWVJNXpLRjc1MWx3cFRfcXRVbWxoZF83OWdXWkJoblRwYkVJX09fa2Zn?oc=5",
-   "data": "2026-11-11T08:00:00+00:00"
-  },
-  {
-   "titulo": "Quer investir em dólar e aproveitar os juros altos locais? Conheça os ETFs com proteção cambial",
-   "fonte": "InvestNews",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBmNGFjUGRfWFJmM29sam1MVWNkbk9vV3ltZldTQ3I4bnJRNGxrNFNsd2FGNDZ2UlZyLUlhVG94RGRockszemYtZUxKU0RxZU9KT3MzdkZ1NkVlaHBZbk1oVDFPTEhfMmQ0LTNONUp4VFYzVUFoMkk3bVBCaU1BM3fSAYQBQVVfeXFMTnFxOTBBdkJ0azNoWmFMbHBMVUdSZHV4YWlGVDNRSEIxQ3JRQXEtMU04RmJiNlpyanRyZE5ocE1zS2NfMTRxcHNfczM5eDhhN1QzbHV3ejg3bDZncXJyM2JkWE5Ic0o3enpzUXZTZEk2ME5jRUQwUnlOUDBXQkhUU2pZSUR5?oc=5",
-   "data": "2026-11-11T08:00:00+00:00"
-  },
-  {
-   "titulo": "Dólar em alta estreita margem de manobra do BC",
-   "fonte": "Valor Econômico",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNS1JVMVd0QXM4Q3ZZUEtTZ1cxcWNoSEFCTloxcW4xWEU4QlhWZ0ZrNXIzMHFmYm9XZ2d2bTVMUWdRTllXZE9ob2F4c2hRRDZfRTU5S0pnQy1mdERobmkxVmR1bks3UzBRdU9KOTQxN1BiTm1PTkMzRklwbGFlbzg5bXpDSUxta3g1bVI4VU5LUi1Cb2hhVDNLV3k0STR1S0JDdk9ZbENfb9IBtgFBVV95cUxNR245MlRxU3l4UkpzOW9ORDFFZ1JUakJndHRrVlg2UGQ2ZEk2SGlhajRtRzNjeTdPeHQzbHBJS2JNQlhEQkZ4QnFxX1lwUXhLMzNUaVBFNWdPSml4bzhUQWNKY1Mza0VpN3VIbmx6M19LaEE1TWNVdWtyeVo4WmZXbE8yejFRWTJFbXVmbzNCRHZzS1hXY3N4VU9GRVkxSHhLdmRZQUFTZUdGdTNDb0tuVDZmYi1Ydw?oc=5",
-   "data": "2026-11-11T08:00:00+00:00"
-  },
-  {
-   "titulo": "Projeção para o IPCA: alívio de energia e passagens e pressão de alimentos e serviços",
-   "fonte": "InfoMoney",
-   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOdTdpeFlQb1pIb3ZwNk9QVkxXc2wxQ2poY1BSUzdRTXZ4T0NGWjllWF9tcjR6NkF1dERpN1EyTkNHRlRPOEkzYmFsNUdWME1PSjV1eVRBWThvZXk3NUhTN0o5V3huYzN2TlNTRFJmVVpSQkloNnBYYVl3bGRaMG9DR2NnTkl2N21QSldv0gGQAUFVX3lxTE9rb3ZZdXJRRU9aY0lmNjdPaHZoNTZsYUZOYWNmOFlkR1NPZmZ4NGxIUDRuR0RyZWZaZDRWSGJKM0JyRTBhZGwyQTBKVmcydXZrOXd3dHA3eGFWUUZSQjBnTW1uRHJvLURrblJiWXgxVjZ2bjVkN09GcS0wcjRUczM1a25wdWFtUW4xWWU5WFItRQ?oc=5",
-   "data": "2026-11-11T08:00:00+00:00"
-  },
-  {
-   "titulo": "Dólar sobe para R$ 5,586 com ata do Copom e inflação nos EUA",
-   "fonte": "Valor Econômico",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOSGhsNkhNWE1hYlNROEpONjV0QmFtOXMza29LUDJZb3AtWDJMRnpjVENpVVRtWU10amRiWEtxWUV4N0t6YnZHVEhFeUtsRTVrOVJFOHhDOGRYY1VlRTVzMnRqX1lhclNaMjFOb1huWkg2SkE0QU9GWnRaV2RJaWRoQnNYZHJEOERWb2JEX1pMR3pvWUNKLVk0VFJNMTgwVURqZ1Q2eDUzc2xZcDQ0X00yOVNHWFBBYnfSAcYBQVVfeXFMT2VsckRsMUlvMHlKbjNLTFBSdlhva0JwR1Q5QWtxd3JqTmg1aVRKLWRiN3VMU3p1emM1aGcxaFlUOE81V0VHLXlsZDVDVEU2RmVPTFI2VWFsdFdDTThQZHJZaFhYTFNmUkVmN3lOUmkzQUdHSmNhVldzTE1QeTdFX2YwVkhoZmFIZmJJbEdlVU9VdmxRVXdTdFE4eDNxQzlMbFJwXzJHVWJXcnRDcEh5emxVNmtocUhnU2NfaGhXWkNUdUxxZXR3?oc=5",
-   "data": "2026-11-11T08:00:00+00:00"
   }
  ]
 }
