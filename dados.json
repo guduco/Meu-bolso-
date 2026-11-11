@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-11T15:54:52+00:00",
+ "atualizado": "2026-11-11T16:58:24+00:00",
  "indicadores": {
   "selic": {
    "valor": 13.75,
@@ -17,6 +17,66 @@
  "cotacoes": {},
  "noticias": [
   {
+   "titulo": "Leonardo Sakamoto: Terror contra o fim da 6x1 sobrevive à eleição com juros e inflação",
+   "fonte": "UOL Notícias",
+   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQYnpPZk5SSWpWeC00dWhYdTktbkl0MVZoX3FUenVodHBWZ1FkbDE0Zng1SE00OS1pbEZDQzBJX2NGekRsOTdnM19vYWRXSFJSV3FOWDFHTS1wRlc3OExrLVFSeXEwcC1uc1hlV1d4NHNTQjlOS2huQ2liUTBWTXpHTnZWb1lvYzZHMlpRSzZ2ZldSYWlYRGlhZndxUm52eTBfMHdtaDA1aWZjNXNvMnpMc212dGowclhVd3RiQ1JVS0x2LUlPYVpWN3h1WnZKdV9QS2c?oc=5",
+   "data": "2026-11-11T16:42:00+00:00"
+  },
+  {
+   "titulo": "Ineep diz que Petrobras acerta em priorizar investimentos em vez de maximizar dividendos",
+   "fonte": "UOL Economia",
+   "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOT204Q0JrTEl2bEkzQVM1cHV6Mks0TlRpMVZueEJVZmxpbVdVNWhvYWlUd0pYWFFyaEhGZUNXVzBWNnpYN1dzZVM3aDZVRnJzclh4LXFkXzJXSDc2bG5jZ3lQaFA4dHNraGZMUkRBZmhMMkxPYzJYVDlseFdXSV9MNEdGU1o3REYyVmhDVVV3dUVUb01IeEtmMEVGTnlVSHRqbG9OUnBFTUU1VVpUT2h4Sm5QNHBESTVOeEtxOHZZYXJCZk1XNTFnOHZaMzkwWE5tZ3p5Ql9zaXV0WndoeVdRRUhRTE9oWTdnTHFRYzFn?oc=5",
+   "data": "2026-11-11T16:38:00+00:00"
+  },
+  {
+   "titulo": "Com inflação mais alta e reforma tributária, Telefônica vê viabilidade para reajustar preços",
+   "fonte": "Valor Econômico",
+   "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOVndoMmJ1OHptdTBMN1lGZzBVSHk5UUFmYm55TlUyUWt4TWZUQlRBeTRaOGM0VmZYdVRyY3VIU0VMVXFaUTVPc1lZS295Yy0xV3V4VlJ3dm02U0pLbUJGZHNqUXdzVUh3ZG00YktXZ002Z1JmVU4wV2tuWmFXaGV3ZFNJeDY3VGcxQnRzM0RJREFLNlh4NVlPaG1rRFlxdFhTZEtNazRHRVNkRjNXandzX29NalZxMHM1NTM3YUJMcEhBM0RVS0ZmTHkycHV1SUNpejlRdEFsNmVuazlCdGViZ05GNHJmeTR3SUpF0gH6AUFVX3lxTE11alBKRXZkWjZraWU0dWRDRFJmakxuS1MtQ1RGakVrTURhRnJJRnpMSGd5NlFOOW82dlR1bVo1RnRydl9uek5hQW1oTDc0d0VaZlJQRHNIRjBMV1NiNjhWcVRndWNSaGJMWnY5c2hhWE84QjdZaWhqOUE3M2wyQURZdmZHMDhXVzRPTlc1alFiNTlPVENyYllJVzY1aXpWLXZJWG5leXZkVnd3b2hHSWZIX1V4UWJwTUhMOVNmRWF3TlQ3ZWx4YVlvS1RwZkNKWmlJelBUT3Q4cEhFUE53ZndSRHVmMFl2VnFfYTFvTTBkM0VJX25JOXh4Mnc?oc=5",
+   "data": "2026-11-11T16:36:25+00:00"
+  },
+  {
+   "titulo": "Selic torna investimentos no Brasil impossíveis, diz CEO da Potash",
+   "fonte": "Poder360",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPUHA2b1p5YUNBNmRpNkxYdnBSaEdRYlZ4aWRXdS03N3VBaDdnMmFvYnBZQWw0bTRGMWxucjdNUHgwNFpobzJ2M2hUOTZHTHE5amhsUjhRU3puU3FTdUp5aDRLN3ZsSXhLTVZzam1vd283NHd4ajR2c3JsMUlfclNIN2JrU2NqdVJaSEFvNFVybzJUZXcxOUJFa2FncTMzUGZaVGxvUElQRDE4NVd5VlE?oc=5",
+   "data": "2026-11-11T16:35:36+00:00"
+  },
+  {
+   "titulo": "Alta de investimentos da Petrobras preocupa mercado, e ações caem",
+   "fonte": "Jornal de Brasília",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOc0QxZzJJRk9OSzFDVVFmem1NMk83UlptYWF4MVA5TTJwdUJPaGwyMEVCeUYtdkNnMjBLVXcyQlJwTDkwdFNXdlBnaDdLR0tBSTJ5Ni1tWWlwWDRiYkJIX3ZoWExxRVZrUkdpekhGODk2UG81VGhWY2EzZGZIOVhpSGcwU0JmMGxNQTIwS3FyenF1QU9fQXk2N0JMSEN0YUFIdV9USjNSTHhLU3RRNXdGdWFjR3lXZw?oc=5",
+   "data": "2026-11-11T16:33:51+00:00"
+  },
+  {
+   "titulo": "Boletim Cambial (11/11): Euro e Dólar PTAX",
+   "fonte": "trademap.com.br",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE0wcXZIRHVlQWljTjBndnlyaVVnRnNoeXZPeEtJTDBNN05rRm5CVTNUazBaVGNQR2NudzFvT0tvMEVYOEhlRzlISHFjWW9WWl9vZ2ZJUUNwQXg?oc=5",
+   "data": "2026-11-11T16:32:00+00:00"
+  },
+  {
+   "titulo": "Dólar recua com anúncio de ajuste fiscal considerado 'insuficiente'",
+   "fonte": "UOL Economia",
+   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQWmhLd0xNdVB1bUpnNHVfWU9BSkc4dnJBTEpFaEt5emxPYmpMWWxkOUV6NkNjWmVmcGtJRm9VY0otdXdVR1pRSFZBNU52dDNFcmJ6UnRRTDlidFdGUkJSd09TUGJ1U1hZYnFaUGY2bUdoLVcyWnJOTmMtdUhrcDdTMS1Yc3Y0NklLaWhhYi1wNHlYQVBIVnlVczNBWnhtVWE3eTBuRC1kRVFtaDFKQVJzMUFBeVZQRjhwaWg2blNvc2FrTVQ1M1RKU3ZUT3JnWmh1WVYyVGlYQ1E?oc=5",
+   "data": "2026-11-11T16:18:51+00:00"
+  },
+  {
+   "titulo": "Selic alta, dólar a R$ 5,60 e risco fiscal: como proteger o seu bolso",
+   "fonte": "Canal MyNews",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQVDVfTWlwT25kOGJGMzIxYU5fQW90UkdGLUg0dDBRSDh3S09GelcxQWlPX1hxa3JIdFcyYW51ci1FTFRCZVYteGdZSlcxVkRuM3hEQXprNVBPbkNiUG9EWERIZ043ZTRBX0ZVM2xDeUs3WW9VMUtDNUxpb3BBRTZhNGZVcDVER0xBNkl2QXRacUM0NjJ5WUtaRWJ6LURRWGhqWURZUUVOMjgzVDlJ?oc=5",
+   "data": "2026-11-11T15:55:00+00:00"
+  },
+  {
+   "titulo": "Ibovespa Hoje Ao Vivo: Bolsa sobe com fiscal, balanços e exterior; PETR4 cai",
+   "fonte": "InfoMoney",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOcmZXZEdGdEZTNVZJQ2tEeWljMmhoUFhMOEVOSGt5VldZTXZhVVVfREttOWttdjRfZ1I4TUl4NWJ0LWdTSTZwVnJqTDE0R1hDV2ZlWGtOT0xMMDU3Sk5idXZLNktacUlIallZWWdRMVZsUFhHOTdZNkNSME84SzhGQzVrVnJOaXRwZE81VGwyZw?oc=5",
+   "data": "2026-11-11T15:50:45+00:00"
+  },
+  {
+   "titulo": "Tesouro Direto hoje: prefixados caem até 0,08 p.p. com ajuste fiscal no radar",
+   "fonte": "EuQueroInvestir",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOQzc4c3dkaDZ1Nkl2bVZTRmpOVEtHMmxWMVhLLTNVbkFqdkFIMTZCdG5HdDhWY0tTaW8yZE5qVGtmS0RxOE03d05ETU44Wm1UdXRMaXQzb1FtYThBVlppYlhDN1BmTll3UTJsaGVZQWFMaWlOYjJjTzlXWmF0SmtEaVFQWWNJYlFUUTRYbEstZi1UR3hDTTNB?oc=5",
+   "data": "2026-11-11T15:49:52+00:00"
+  },
+  {
    "titulo": "Investimentos da Petrobras somam US$ 16,8 bi até setembro",
    "fonte": "Revista O Empreiteiro",
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1NT1pFTlhXcGFoaXZiNmg0WGJCT3huVUZtX1pjQkNtUG1yS3NBNC1qZ0w1VHVrM09HZnp6VmpKaWEwMEJDZFluV2dJdnpCOERreUtMWG1NRmluNHE3Vk9ieHNHZGZJcDdubXQzelJvLUViMF8xWHRiY25OTGVZR0k?oc=5",
@@ -27,66 +87,6 @@
    "fonte": "Jornal do Brasil",
    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQSWJQZVpYNFhtd09zWnpKN1RGMVVxOGtnbnByVGtSel9xZVB5ejY5eU9IQk5BTE13bmdKZXNTUkpwcVA2cll6MkNwbFJNMG9jeDZIbWFOb2dHdllfR2xhSVpOdkRvMWF6QzNkSjk5WHRDZzFXQ1V3MEszTERMLXJCZ0Y3bDVsc3Fwa1JKMFFJaDZXWFJYUDBYWTh1ZjlWc1ZLZnRiWGk3bU5qNzBxdzFaWjQ0LTlRdzDSAbwBQVVfeXFMTWc0OE0zZFh5eXdfcnlYTVZ2VXNIbkZkdnZlOW1MNHZ6Q2xXNVZmZVVZd2NJS09meWFxYTVVSF9JY3VSSzRCOU9RUUgxalBsRUhtcVdabE5KWGk4ellXSml5cktfc1N5dHpCSzhDTHdBOFhnMHM0MzFrdm9SMkFEZVNSd3gzR1NFRmpWdnhHeGVtX1UwdGxNcGNqN0RvR0oxMXlqbEFXZXFUYjVoVVhpcUQwa2ZjU1I2TkxRRUk?oc=5",
    "data": "2026-11-11T15:40:00+00:00"
-  },
-  {
-   "titulo": "Mesmo em alta, Ibovespa ainda fica longe de apagar tombo de 9,88% em outubro",
-   "fonte": "Economic News Brasil",
-   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxONnNjR05XbEFLYUFwMS02TldjOGIxM0xUTkZqbzF1NjZyM0RsTjRSUjhyLUNfMjhsdGhBZ2JocnM2SVZQclp1bUx0VGtPSkVVS0REQmItdnhOczNlQXkzNFR3Z2RsSnlWSzFBdThnNndrWU84R1I3RGI1cUpDeDg1VEo0bEZJVkx4THc?oc=5",
-   "data": "2026-11-11T15:38:00+00:00"
-  },
-  {
-   "titulo": "Copom mantém Selic em 13,75% ao ano; ata está disponível",
-   "fonte": "Revista Empreende",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9wMFZHclNKeWtPSHRpeEFwNFkxR0lBeDBZbVBzUkFDS29xU1NfS0tPUjh5N1RTMHQ3WExHaTA4SEpOM1ZqRFFMRU9FdGZZVmdCd05teVJjR1dPbGU2QVR5c2FUbHhOTlIyemtmVVNabzB1MUlVbkNPSWxjNjlrSGs?oc=5",
-   "data": "2026-11-11T15:35:00+00:00"
-  },
-  {
-   "titulo": "Ibovespa avança e dólar recua com expectativa de ajuste fiscal; Petrobras perde força",
-   "fonte": "Estadão",
-   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQbUkxQmpaVFhqeFNXQ1l1Z1RicnJEaDU0czZRQlZjdWZ0Z2IyR0w2TTBpTGVPRHZDdE5vWk03dTlBZG1nSGN0N1hYX1RCZExRZHN3Y2FFZlY1UGVsSTZwT2x6Mi1WdS1SeHBucjlZTHVKZXE5Y3Y3TGZhel81Y1YtblctUm5fNnMyNURFWGNkdFdSd2ZHamd3NUFtNDhLWUoySDhyZFFlcFZBeUZBenhBZ2lKc2o1endkbHRtLTJ3OF8yVk82dEc0Q19ROUx1N1JadGVxOTEyOXZiNy0wUE1GQnVn0gHnAUFVX3lxTE05SmVpZzc1VlpkYk50T2JaS0NlTkFRWXMwT3FUTlJTXzc1Q21vQTB1b2EweDdXeVdSQVp0T3N6OWdrdVJ1V1FKQUxuazBGMnhZaHlDSUJuQzhVamtrMUU3em1reUFNSTNQbkJ0VmJiMks4WkN3bUxZUzJlTjdwTFJubW00cUVEZjExMnpuNzlUZGdHVzR3LUdiYjRNUFd0MFRsbFFlS3pwRDhsdHJpZlk3VWtnVzZ0NGJCNXl5UDU4elpOVkM1SFlRSVRvYVBlUHdJTGk2b0VacDNQaURWVzZqTTNqY0VObw?oc=5",
-   "data": "2026-11-11T15:28:10+00:00"
-  },
-  {
-   "titulo": "Nvidia perde quase R$ 6 trilhões após caso envolvendo CEO, mais que toda a Bolsa brasileira",
-   "fonte": "G1",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOQ08tUGtXYXEzTll6aXpLNDhwSnFwOUtVMmJHdVllbHpRWWNRWi1EV3Nvc2hyRlN1T1lGU2JON2RtUV81MEt3dDFFUW9NSXZJc2xvYXdzRVhOZjU3eVpUblR1UEluSGZDOWNXdjA0WEwzSVFHM21NM19tdGVpd0h3UW13eGzSAZMBQVVfeXFMTlVDSk4zSjVVcEpLOGNyMTZURDVycUFLaFczUTR5S3FuUk1WalJuRkphU2RFSDRiWmhiOWNYWXozVkNhaGE5X1hBNTZqVFBFRzNpTUQteFpHRV9YUVd4cHUwSXE1d1dsZzJhTjM3d0U0SXdTUkR4TXdKQkJNLXBWZlRrNEU0eGJONy1kdjJKbVdIOGtZ?oc=5",
-   "data": "2026-11-11T15:20:29+00:00"
-  },
-  {
-   "titulo": "El Niño pode \"esquentar\" a inflação para até 6% e travar a Selic",
-   "fonte": "NeoFeed",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQRkx1YWVuUkJMR0FIZE54UHdpUDV0ZlN6NFJXNTNkLVZORm54akNZc3puOFRXVUs1X3BnajJ6NGZ0WU1jQ2ZvLXNaQ0xNdEc3WGhQUHBDa0FYbkdJN0NLZ09xUGZKVzZKXzdxQVM0dTFWcGplb3JQTm1SeW1nLVZ1NGRfNDJSejdERW1wTlZEclhqZHRsN2w5MVpR?oc=5",
-   "data": "2026-11-11T15:10:00+00:00"
-  },
-  {
-   "titulo": "Minerais críticos: Nordeste concentra mais de 50% dos investimentos em pesquisa no Brasil",
-   "fonte": "ParaibaOnline",
-   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPd3RPaTJTTVFyMFltOWYtRFV4U0gwbXh6MkZuSDRQUVM2STFZNVFub0s1V0pqWEs4eXFrRmhycjJTTm80THV2cDJwRGo2N19OQkZUMVlCLUY0eVI0cXlrRklsckppZEdDbl9wZ1BQM1lsS0Y2V2VUdW5SYnpmVnY0bVdfR1FISkVQQVdIM1FJZE5RTWlROG04OGJqeEhQakRiS0VkakM3U3F5WUpteFVCODJUVU1NVGlNVnA1aC0tMWd2N3FrOS1lSjNUaXBnR1RKTUZB?oc=5",
-   "data": "2026-11-11T15:07:21+00:00"
-  },
-  {
-   "titulo": "Goldman Sachs adiciona mais um aumento de juros à perspectiva do Fed",
-   "fonte": "CNN Brasil",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPQUdYZnhRQ2FiTV83ZkZjQlhlZExlbjlZWFZmQmdzQ0syZmJMNG9OdDlEOFV6Q2h1REVkTk5IU2JQWWFPT1l0dWNOMjkwSDJhM1YtbjlQMEJtcWxtem1BRG96cGczV2xSUkhBb3V4NTNKdUlMa3dNcXAydWhLN0JnQUNnSThfTEhrSnNaYlQ1NGNhejkwTlcwQ2N2RUVORjNUMHVIX0NpSDdBblJuekN2NkhPd1ExQnJva1I4VTNqZw?oc=5",
-   "data": "2026-11-11T15:04:09+00:00"
-  },
-  {
-   "titulo": "Fernandópolis busca parcerias com a Itália para atrair investimentos",
-   "fonte": "O Extra.net",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQM3FSRWdoQzRSMDR5THM3c00taUFyVkVyV0JaUkxCQkdIV29qbXZTTFRhbFdJeHFIZFFEUVpTVzZjSTdfajAxZ2hxU2Y1dklCd2NmeG5TeEVqWnA5bmw1MVhuUFdqQWNhX0FzYWxpTVF3REhhMEwtQm0tcHhlWDV4bjVGS1N1UEZtWHBYMGFwSGlhejlDbHRSaw?oc=5",
-   "data": "2026-11-11T15:01:35+00:00"
-  },
-  {
-   "titulo": "Ibovespa iniciou o pregão desta quarta operando no campo positivo",
-   "fonte": "Monitor Mercantil",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOSUpmb0JsN01WM2dBNVNndlVHRXhRUUNmbEdQY1lyWk95WFVldVNvcjVCNUlXVDlrNHFMcUJ0S09rbk1ISnk3N2wtSXA2UTRLbXZqZjQwcFZPZXV0VzNCTHpyZVlXVnEzTUt2STQ5YmpfaGVNUXd4S1dLZ2lQNk5CMS1UdmgzeWRuUlJJZWp5WXc0a3dQYXZmMGxFNEZpSnM?oc=5",
-   "data": "2026-11-11T15:00:57+00:00"
-  },
-  {
-   "titulo": "Saques da poupança superaram depósitos em R$ 8,88 bilhões em outubro",
-   "fonte": "Movimento Econômico",
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPVHcyY1djNnVhbmFRSXlIX0hQNGZhZHVGWmh3NjdWZEdGaThTN21QQXVJalRHcFhGQVUxN3NvVHcwTzZhd3VZUnpUU0NWUTctNHVXZU5KcjBLdE42d1RpZzE3MlFXbF83LUFGVVdHMWcxS3dyb0J1c1ZLcm8xVUZGLVBjaFlqQklTRG81QWxnWDZGYWVWb1FhX0o3LUsweWRaZ29MN3dUcTZ1d3IwNlMzREJvdnZmY0RFd25RdWRNV3FxVmdS?oc=5",
-   "data": "2026-11-11T15:00:19+00:00"
   }
  ]
 }
