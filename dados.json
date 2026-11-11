@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-11T06:00:16+00:00",
+ "atualizado": "2026-11-11T07:14:53+00:00",
  "indicadores": {
   "selic": {
    "valor": 13.75,
@@ -16,6 +16,18 @@
  },
  "cotacoes": {},
  "noticias": [
+  {
+   "titulo": "Dólar não dará trégua até ajuste fiscal consistente, dizem economistas",
+   "fonte": "CNN Brasil",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOQVB1dWRMVkF2RmtndjZHY1NkeG9STWR3WjBnMWJHLXJWNlZ3UHY2R0I4cTJ1NlhsLVBBRE1MdkU0OHh0SXBGSVY1c256TVBsNExzUFZRaldfTE4zNEwwcy1zTE01X0lrT29sb2ZSeFYza1QyVnR2Y3RNSVpvNjc2S1llTkVYNzVCOG1mVDUza0VHd2RwYzd0S0xiRTY4bndGRUlIZGY4NXVYMmdpb3IyTDU3d3A5NzVlNFRNRTRfTQ?oc=5",
+   "data": "2026-11-11T06:59:19+00:00"
+  },
+  {
+   "titulo": "Lucro da Bilfinger cai com atrasos nos investimentos de clientes",
+   "fonte": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQbTAwSVBCbUJtLVFxLUl6TF9vUGQ1UlhWX2dtN2UycXBBemQ1Y0t6LUtxRHJDbFpOZlNLV3pSXzF3YlY2N1FzaW5VY3dKcmRNN2xfTTdMbkl1NDdvbTFubmw0THNoYWZpaDBrV0dJU1BPUm5uQy16RklFSW9zWVRuRVUwZ1o0cFgtN01GQnJfMmV5Z1R3Nk42Tlh1bFNfUXp1NVJNZmp3clBfVXBjOVZVWQ?oc=5",
+   "data": "2026-11-11T06:24:00+00:00"
+  },
   {
    "titulo": "Ata do Copom lista riscos de inflação; entenda",
    "fonte": "band.com.br",
@@ -35,6 +47,12 @@
    "data": "2026-11-11T03:36:14+00:00"
   },
   {
+   "titulo": "Novos investimentos e modernização",
+   "fonte": "www.correiodamanha.com.br",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQUWFBR0ttbW95N05Jdl96SklHSkdyQnY4VFhyQ3JpUlpnQjVHUTJCR2NMWVVkaDd3d0tsMXh0VDBVbURNb2NTNUhJZER4dW5RODkwQWt5VHdiQzZ0VkZtQnJ0YUlHRzZ2MFFEdDZkVzcxYUM0eUQ2RDR1VEUzNzRzbFduclN1NFBYblZfVk9Ga2dMWHFoNWstVm5vTFVZMFhIZXdIN2VlbmE5aGROWlFqaURzZHpnTE12S1E?oc=5",
+   "data": "2026-11-11T03:01:00+00:00"
+  },
+  {
    "titulo": "O que desagradou ao mercado na ata do Copom sobre juros e o que isso tem a ver com a alta do dólar?",
    "fonte": "O GLOBO",
    "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPWW1ENG5TZVl1M0tScThxVG52Ri1lMk5sbzZ5TFgwaGtlRy1QNURnQUNUM2hXU0NUOF9qZXhldjhIdG9Td2M0SkFERGJ0YnMyRkUyOHd1RHZBaDFxNmN0T1dVNmVWVDV0eFFMcHhPZ2F2LXpBQUs5T3ZaVkRNYWQ3VThrUENjeUplQmF3YjB6Ti1LT1FqRmpuXzZISFo3WWUwX0dhbkFxMlAwbHA3Wkp6YXdvTlpvTkdoTFd1NUJadzhPcEdnTG1nV2hrZVNVNVlucmcwVnhBZXBTLThUMzBkdTFRYjlZMzZRZXlfbEZR0gH8AUFVX3lxTFBMOVlQYUw0eEx6bGFvX1l5NDhUNTAwTnE1YTlOV1FMSnI4U1hOVEVyQmV6XzdiOWRUSFRnVjU4QjQzRjJ3QUZsc3lsRXA5TUNDSHJ1eTFJc05sRFp0QTRITmJhMmtzMk9PZVNnZDZvbUUwRURrNmliRE1zY1c3cDRyWDV3b3Y5VTlfVFNjLUlKeEQ3TW45bEFoVVpua00zQjVWQm9QejZVNUlyUjNfMU5LTk14bE1LNmNablFlVXlDdThvOHVWR1NibVozQUp2MzdKMEFBaXcxWnlJZlBpdC1pbjNOWjVUQnI1cjZWaVFDU3VEWThwVG1RbFJEdQ?oc=5",
@@ -45,18 +63,6 @@
    "fonte": "Vero Notícias",
    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPZzh2NC1hV21xcGJJOHZsdzU5ZFl1dFdaREJ2Z2tJWVZJUzdSbkMzZllKeW9jVERiUW1TMTdvSnlEX3RQUTYtR216T08xN3ozeVk4NkgtR3BOT2tpTlhad0x3QU4xUGNLR19FbFJoeUwwVE93c1Q0UGNXXzY5eHdPekRqdUNyaU5naXB3MA?oc=5",
    "data": "2026-11-11T02:45:00+00:00"
-  },
-  {
-   "titulo": "Abeta Summit 2026: crise climática, IA e investimentos na pauta",
-   "fonte": "A Crítica de Campo Grande",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNSXVuZFdHSTNCNUctQVNBQlNkWUp6ZVI3OTV3cU9VMG9GQllTQ0VCcFhzSVpnUDlaRE1LTm5nc1pTMlJjNkJSaUpuYlhlWmxNOUxzVDVhRHVueWFLeDA4WUV3OVpBYTNPUGJCMXhBV1FKam44WTluVW1LeHpON1M4bkNuSkFjM2UzYzQ5bWVTckhGZlBqb3NiUFZPMk1mejJKWHFTY2dITi1XdEE?oc=5",
-   "data": "2026-11-11T02:03:00+00:00"
-  },
-  {
-   "titulo": "Paulson, do Fed, defende altas graduais de juros para conter a inflação",
-   "fonte": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQOXZFQndKQVotRmhObUZnQ2g4WWMyWXZTT2hLZ3hKbGhuNlJoQzN4dTF1Zm1FUkFmeFRJSU1ZR1pfUjRaZmViQmVwcVZRUDQxNUJURU9ZSGZZWmU3b3R6d1BkbmtUTGEzNTZXcFBSaUR1SGhoLTB4a25EUXVUMWlZMVNrQXVSVVFJbm9KS3pNdmxTaXdBOS1TX3ZCNWROemNTUjNXOHpmalZkN1dmbXV6NVZwZTBNLVktZE5HaA?oc=5",
-   "data": "2026-11-11T01:57:00+00:00"
   },
   {
    "titulo": "Preços de carros novos sobem acima da inflação e atingem valor recorde nos EUA",
@@ -81,12 +87,6 @@
    "fonte": "G1",
    "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPX3JqeDRVNG43RzFmcGNUX3ppZndMVDlZSU1mUFQyYVFVNDNyWnp4TDh1ejFGODMzaTg4LWoxTEhTbUF6ODRrMzJKR3NHcWlNeWdoVUlHUGhSNzJhalFfTW5RczRhXzR4LWpsOXA0N00yS0s0RjhIYWFTZ2RvUFVVV28xeVQ4YnhUUmlZLXUxYmUwT3VKb095UGJhMEg0c09jdGthVGU3X3NGdmkzVERmSEtSbjgyVkhSYmQ4TjlnNGo1OVVfa05TVDBsVVRzZHBpZXZLQXN3WjJ1aEdyeElFVGg1NWXSAfMBQVVfeXFMTnY4MktfUWtTdUtKaGpYUWJBd3R6aXVIMGwxY0xwWVJ6cnF2UlFtQ1JRdU10WFEtaW0wbDIzUVZxNTg5a1ExWW0xOHhzNUdtRXdCeHM5U21OUEt1NDdBcmMzTzlCLXk4VEdCSUo3S2trdGY4a0pRMmZuMXdRdUpuYlc5WVhlXzduZEthcDc1OE5UV05rNG8ybnNOOFA1cWhmNHhnbkthdS1zMEJ4LTFCWS0xbVNxLS1pN1pOZFoxVUU1SFNEc3hWbEJfVERtbGRHRkU1eUoxVzh3a1VnYVJOS0VoTi1JTW95MWpNcml1Nl9hWDVr?oc=5",
    "data": "2026-11-11T00:49:40+00:00"
-  },
-  {
-   "titulo": "Dólar sobe 1,46% e fecha no maior valor em 15 meses - Portal IN - Pompeu Vasconcelos",
-   "fonte": "Portal IN - Pompeu Vasconcelos",
-   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQdFptWTA1aTdTN0FNejRaLTRneVZXaVNPY1RsSEhnd3RJTHV2bVE3MEdDeW1vREdPbU9IWVREUDc4LXBrbzIyb09Xam9KZE1YR0lWaTdTZ254aDZLaHlsYlRRblVlcTdvdkN4dWZxMFpnSTFxdmYzaGt1bVJoeFZWTUo4S0JJcloxaVRhS3BURzY?oc=5",
-   "data": "2026-11-11T00:49:00+00:00"
   }
  ]
 }
