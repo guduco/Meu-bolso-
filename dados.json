@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-11T02:56:11+00:00",
+ "atualizado": "2026-11-11T03:56:53+00:00",
  "indicadores": {
   "selic": {
    "valor": 13.75,
@@ -16,6 +16,24 @@
  },
  "cotacoes": {},
  "noticias": [
+  {
+   "titulo": "Itaú B2B estreia em assessoria de investimentos",
+   "fonte": "Acia Araçatuba",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1xc3Z6LWI3U3J2T0hsU2p0ckZ1Y2hBRUNON2N2aFZLSlFWZXRRM2hHd3RsSVRXRThWQzZ1ZmhyempPZkxCTXpSd3ZfWXBSUXlnSEp3QmxtbHJDMGozWmpBU0ZZR0RLd0RqNW5PTjhDUG5oZllKRkRIUkl3?oc=5",
+   "data": "2026-11-11T03:40:51+00:00"
+  },
+  {
+   "titulo": "Juros futuros longos sobem após ata do Copom",
+   "fonte": "Acia Araçatuba",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE4yOVNiQzE3bElia1VOdUNfbzByRmt0eHZuMUVVRHNiV2hGTUJzLTNTMzhSSXFzSk9keDBlVWRJQWgzUng2R21qelVzZHBBNTdBdllFTHpMTEtiYjRrbzFsWHVXbVF3ZnlPUUI4a29QVWZnd1JLamc?oc=5",
+   "data": "2026-11-11T03:36:14+00:00"
+  },
+  {
+   "titulo": "O que desagradou ao mercado na ata do Copom sobre juros e o que isso tem a ver com a alta do dólar?",
+   "fonte": "O GLOBO",
+   "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPWW1ENG5TZVl1M0tScThxVG52Ri1lMk5sbzZ5TFgwaGtlRy1QNURnQUNUM2hXU0NUOF9qZXhldjhIdG9Td2M0SkFERGJ0YnMyRkUyOHd1RHZBaDFxNmN0T1dVNmVWVDV0eFFMcHhPZ2F2LXpBQUs5T3ZaVkRNYWQ3VThrUENjeUplQmF3YjB6Ti1LT1FqRmpuXzZISFo3WWUwX0dhbkFxMlAwbHA3Wkp6YXdvTlpvTkdoTFd1NUJadzhPcEdnTG1nV2hrZVNVNVlucmcwVnhBZXBTLThUMzBkdTFRYjlZMzZRZXlfbEZR0gH8AUFVX3lxTFBMOVlQYUw0eEx6bGFvX1l5NDhUNTAwTnE1YTlOV1FMSnI4U1hOVEVyQmV6XzdiOWRUSFRnVjU4QjQzRjJ3QUZsc3lsRXA5TUNDSHJ1eTFJc05sRFp0QTRITmJhMmtzMk9PZVNnZDZvbUUwRURrNmliRE1zY1c3cDRyWDV3b3Y5VTlfVFNjLUlKeEQ3TW45bEFoVVpua00zQjVWQm9QejZVNUlyUjNfMU5LTk14bE1LNmNablFlVXlDdThvOHVWR1NibVozQUp2MzdKMEFBaXcxWnlJZlBpdC1pbjNOWjVUQnI1cjZWaVFDU3VEWThwVG1RbFJEdQ?oc=5",
+   "data": "2026-11-11T03:00:00+00:00"
+  },
   {
    "titulo": "Dólar sobe a R$ 5,58 e atinge maior cotação de 2026",
    "fonte": "Vero Notícias",
@@ -69,24 +87,6 @@
    "fonte": "UOL Economia",
    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQR0FJY2lvWFNYNl9xQnd3b2NQUzN2SnMwU2VpQTJMbHNmaTBPQ2ZYbmFHMGJGVGlwcWJhdFBKRXF1aHd1WDAtR3dXZk5nY0JyVmk1am40WG5LbjlTeWtlVnRDZHV4UlFlU05zOTA3M05Zd3pBQlVrbXZnS19JZmJzVmdIMmlGd1Z0SVZPWk9heVFlTzVSbUFleWYweWFiWFl5eGU4S0RfS0VIdi1jQ2VqbGFhelhVdklaUU9nUldhd1B0WEU?oc=5",
    "data": "2026-11-11T00:41:59+00:00"
-  },
-  {
-   "titulo": "Tendências 11/11/2026 | das principais ações da Bolsa",
-   "fonte": "XP Investimentos",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQN1kya19yYy1SNmxzTWliMGpLNnFNLTdsU1YtWERqYktfb0dBQkp5aEY5ZEpkQl9aZWF2U3FLbGtPemRETVlpZWV4SGQ2VkNzZ1dlTzhkY1VxczdUcl92OWozdDE5QV9EekpyNmdtZlhnVS0tajFGbFlPZGFBZTdzcXU4MFpXejI4UjVVeDNvc0lDUEVIR01JM0JVcVgxWVNOM3dBOG5IOU1EZWQ1?oc=5",
-   "data": "2026-11-11T00:30:32+00:00"
-  },
-  {
-   "titulo": "Escala 6x1 e risco fiscal travam corte da Selic e elevam inflação",
-   "fonte": "Gazeta do Povo",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNWmdFNFJKdk81X0Zpb0tkN0VFakNNS0lIbGZwVl90eFk3S1QzVHVweHFnMHFZdVBkN3dadHBtRC1rSllQSFRSLUdMZW5kOW5wNVdBbnlLbWdxTjAwVVQ4aE9IQXIxTURsMzZldEU0eTZySy1VeDNrbl9HZnhGNjNGVTRhS3dyNkhjdHVPQ21YVG1qUWZuOHJRanU3ZER0VDhiWjhjdmxJVU5iYTNQTjBaUTRfem15dw?oc=5",
-   "data": "2026-11-11T00:26:00+00:00"
-  },
-  {
-   "titulo": "Ata do Copom reforça pausa longa na Selic, mas economistas divergem sobre tom",
-   "fonte": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
-   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOUTJNU2Vqc25hOGFiMHBsVDRKTjZTUk1jc3JsV0JUcEdOQ1RId2I0aWRWc1N1T1JVbGhxb1hDRVhfanI2TEJYd21XX3hBS3BiUnNlRHBUamdlaWNlaDNVb3EzbWNzdmxDTW1qbXBHWW55el9FUkRVOTVmWGtHcHJMUXYyZS1UU29NaFdLbTZkd1VHTXNyWF9RRUI3dk9qYW9PYTFxanU4NFoycUtrZmRFSDdCOWJvamVvSmMwTEJsV0xIY2tWTVRvaF9qNXhBTXc?oc=5",
-   "data": "2026-11-11T00:21:00+00:00"
   }
  ]
 }
