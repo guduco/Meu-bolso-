@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-11T02:05:55+00:00",
+ "atualizado": "2026-11-11T02:56:11+00:00",
  "indicadores": {
   "selic": {
    "valor": 13.75,
@@ -16,6 +16,18 @@
  },
  "cotacoes": {},
  "noticias": [
+  {
+   "titulo": "Dólar sobe a R$ 5,58 e atinge maior cotação de 2026",
+   "fonte": "Vero Notícias",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPZzh2NC1hV21xcGJJOHZsdzU5ZFl1dFdaREJ2Z2tJWVZJUzdSbkMzZllKeW9jVERiUW1TMTdvSnlEX3RQUTYtR216T08xN3ozeVk4NkgtR3BOT2tpTlhad0x3QU4xUGNLR19FbFJoeUwwVE93c1Q0UGNXXzY5eHdPekRqdUNyaU5naXB3MA?oc=5",
+   "data": "2026-11-11T02:45:00+00:00"
+  },
+  {
+   "titulo": "Abeta Summit 2026: crise climática, IA e investimentos na pauta",
+   "fonte": "A Crítica de Campo Grande",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNSXVuZFdHSTNCNUctQVNBQlNkWUp6ZVI3OTV3cU9VMG9GQllTQ0VCcFhzSVpnUDlaRE1LTm5nc1pTMlJjNkJSaUpuYlhlWmxNOUxzVDVhRHVueWFLeDA4WUV3OVpBYTNPUGJCMXhBV1FKam44WTluVW1LeHpON1M4bkNuSkFjM2UzYzQ5bWVTckhGZlBqb3NiUFZPMk1mejJKWHFTY2dITi1XdEE?oc=5",
+   "data": "2026-11-11T02:03:00+00:00"
+  },
   {
    "titulo": "Preços de carros novos sobem acima da inflação e atingem valor recorde nos EUA",
    "fonte": "Bloomberg Linea Brasil",
@@ -75,18 +87,6 @@
    "fonte": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOUTJNU2Vqc25hOGFiMHBsVDRKTjZTUk1jc3JsV0JUcEdOQ1RId2I0aWRWc1N1T1JVbGhxb1hDRVhfanI2TEJYd21XX3hBS3BiUnNlRHBUamdlaWNlaDNVb3EzbWNzdmxDTW1qbXBHWW55el9FUkRVOTVmWGtHcHJMUXYyZS1UU29NaFdLbTZkd1VHTXNyWF9RRUI3dk9qYW9PYTFxanU4NFoycUtrZmRFSDdCOWJvamVvSmMwTEJsV0xIY2tWTVRvaF9qNXhBTXc?oc=5",
    "data": "2026-11-11T00:21:00+00:00"
-  },
-  {
-   "titulo": "Banco Central vê fim da 6x1 e dólar como fatores que pioraram previsões de inflação",
-   "fonte": "Correio do Povo",
-   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNZFBIYVVwMWpOMDdmSWhIQVk2dEgzN3NSMVp6YXdoTG9DY3IxNXVTcTZfazdqQTR2aWNGdjRGSDU5SnNIbFIzejh0blRQUWJra2pQYjdlRlhRNEJwNUpQLUNzcFdXUGR4QkIzdGotM3BaNmhtRlZ4VVN3TU5wLWNSa19DcmxBVUgxaFdrcDVhNEt2ck4weDhwanRDZzVHOWFZNmZZRW9EWldLUG8zZTF1WFIxMUFnanNYUlA5NE52TFotODZLYWphbmNaaTJiZ050OWZmeFlzNi1vYlRBS29XbnZpbw?oc=5",
-   "data": "2026-11-11T00:20:11+00:00"
-  },
-  {
-   "titulo": "Copom indica que vai ser preciso manter os juros elevados por mais tempo",
-   "fonte": "G1",
-   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQT0Rfb0xvaTBpWm1fdlNSM2Vwd3k5dE9zUW4xUWZjdUp1dmU0YllkbWVXUmRIRWxnXzVZMzBDbm55WDZVcXB3cUM1NGphQjlMaEdFU2FKQnBxX00wTUl6bnNuR1lxRDZ1UVpoWmh4OEhHdktHbFdGUjdFME9rclpHUVI5S0tDMGZPX194NFNPNWFrNnZlZ1k1QmJqMlFVdk9RNi1Zb2lLOFE0SGZtWlRSTnVYeEtyY2czVHR2NjV2X2hyVmNxQ0sxanh30gHYAUFVX3lxTFBqUE4zdmlYUmt0ZGp0ZGVUU3pNdU1CME1BYTZhQTgxQmpnX2pFcEZzMEFWNGlUR3hGME9rVzBObzV3empoQ0Z0a3RpdXFlNjB3UGM4VmZuc0JYVTlDdy1NXzFMQXJNZ0RRLVBFbW00RkNmWGVMUy1VTlBVbGl3RHlrcUk4VV8tOTR3bFIzUDNRZ2p3WEY1STk5REpZdVFCa1VOaldhTk9Lbl95X0x4OE44WXZleWxEQnFReWpUY2xuVXA5eXNSbUNZY0tOc2hzclhtd29EYktiVA?oc=5",
-   "data": "2026-11-11T00:00:30+00:00"
   }
  ]
 }
