@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-11T01:04:23+00:00",
+ "atualizado": "2026-11-11T02:05:55+00:00",
  "indicadores": {
   "selic": {
    "valor": 13.75,
@@ -16,6 +16,30 @@
  },
  "cotacoes": {},
  "noticias": [
+  {
+   "titulo": "Preços de carros novos sobem acima da inflação e atingem valor recorde nos EUA",
+   "fonte": "Bloomberg Linea Brasil",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOSlNoSnU4eEtFNm9EV1BSUkl2dDVHMmhhU0QxTWl2R2NCb01uOHJzUkZxNzNKQVRqeFRHWGpYNGF0anBuRzM0Z2tkbTN5SU43Q01tMjZuVjVnRVdwLTM5SDdmOXNvXzNkOGNRSFNuSUd3a1pKVXczd2NCUEJsSWpoZmVxUXJsOFF4eF9KcHpyWk1NZmZIMFcyWFdxRzRVV0Nkd21GREtDaS1VeTh3ZFZQdVRyNW4wV0c0Nk9teHJJb0lTei1EOFHSAdoBQVVfeXFMT0JxLVU2M0NmUE5tYU1XX2duTDRVdGhFVGZ4VlRnX042cV9IalQtQnJ3dElTSXhSZ3ZyRXlIVUs2TzdHNVYxejlGNGhfYTF6Vl9SdlVYWjloX21YV1NCZkxSclRFUVpPVjBMN3FYcnk5UzlFTWtiMERfVjJkNzRwdGNvV29rUTZBSDhkNnktdjh4RkZuaXJlc2gwNlRESHA1TTJrLTE0ekxyT0VVd1pXbGQxWE43R0oyaUZEWjlnYzM2Tmc0dHVjNTRZZkdGVmMxSE5XdXRuNi1yemc?oc=5",
+   "data": "2026-11-11T01:33:00+00:00"
+  },
+  {
+   "titulo": "Inflação resiste no Brasil e nos EUA, e juros voltam ao centro das atenções",
+   "fonte": "Times Brasil | CNBC",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQeklhRkgxNlJ1ZVZVc0d3dXRCRGNNTHhQYkNTdDgzLXNHQ3BMVi1aUGRNT0Nia2paNUxBaWdmRms4YllQdVp6QmtZdlo5RFhhZTMzY0RXQzNpMVN2cnpOV0xSekUzaUFkT2l6b0hjQnVtT19WOERMaWt6Sjc2LUV5aWF5TU5pNW9jc1BlRG8yMnQ3dnhHd1pWTjl1dEs2MzIxZDNBeEd5ZjMyaTJxbmc?oc=5",
+   "data": "2026-11-11T01:25:00+00:00"
+  },
+  {
+   "titulo": "ATA DO COPOM | O Copom reafirmou nesta terça-feira, 10, que o contexto atual é caracterizado por taxa Selic substancialmente contracionista, aumento significativo das incertezas em torno do cenário base, expectativas de inflação mais elevadas e desacel",
+   "fonte": "Instagram",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1pbjVsNFJKQ2htcDljb08xM3BmSUJrY3J3WDZPVmNrV2xWZmxwZ2hYTnJ1TGdtMjBLS21LYkF0NWMteVpkaVYwTGZkTzdrc1BPUUE?oc=5",
+   "data": "2026-11-11T01:06:11+00:00"
+  },
+  {
+   "titulo": "Dólar sobe e atinge o nível mais alto desde dezembro de 2025 após ata do Copom",
+   "fonte": "Bloomberg Linea Brasil",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOWWFXQUpTeXpoMnRwRHAxMFhzTmJsYV9tUmE1RTRzWUJrMXZrUm56bl9aY0xJNWhLczlLVnpSUC1oeU5iNmtxekg1YmFvZ0h4VTRnVkg2MEpBR2RhYkRyZkJNTTR4aV94c1lnU05OSE9ueXBHSW9jdWNNM0paYzZrMGdJZHVKZ1hpcThrenQzdXBNWVpudzBFbGlremRfOFo4cXpnYTdaNzdWT25kSm1iczFURGZVOWlGMFVSNFlOVdIB0wFBVV95cUxOTmtUbWZJSlRqQUtsaVI4bWpZZWp2dFJva3A0eXRzM3lEMWRlTDFZbTJTMk93eHl2V3czOTRJRzJENzloSDFaeDNVZXo2d2JfU3l0SjhKTWtiOGFxQkR1ZHpIZWVlM0ZHdl83NGd5dFc2bXN2OVFYbTVTNXRhNDV1cm5iTHY4U1NWMG0zcDBHREFOVjZZZXlJQjJpQlVCak80MWxKcUkxb09iWV9WcFdpVlNFYXRWRG1IZ0h5ZTFJeHJnOGE4SWxQc1NWa1ZidzNzSWJv?oc=5",
+   "data": "2026-11-11T01:00:00+00:00"
+  },
   {
    "titulo": "Copom indica que vai ser preciso manter juros altos por mais tempo para segurar inflação",
    "fonte": "G1",
@@ -59,34 +83,10 @@
    "data": "2026-11-11T00:20:11+00:00"
   },
   {
-   "titulo": "ATA DO COPOM | O Copom reafirmou nesta terça-feira, 10, que o contexto atual é caracterizado por taxa Selic substancialmente contracionista, aumento significativo das incertezas em torno do cenário base, expectativas de inflação mais elevadas e desacel",
-   "fonte": "Instagram",
-   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1pbjVsNFJKQ2htcDljb08xM3BmSUJrY3J3WDZPVmNrV2xWZmxwZ2hYTnJ1TGdtMjBLS21LYkF0NWMteVpkaVYwTGZkTzdrc1BPUUE?oc=5",
-   "data": "2026-11-11T00:14:02+00:00"
-  },
-  {
    "titulo": "Copom indica que vai ser preciso manter os juros elevados por mais tempo",
    "fonte": "G1",
    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQT0Rfb0xvaTBpWm1fdlNSM2Vwd3k5dE9zUW4xUWZjdUp1dmU0YllkbWVXUmRIRWxnXzVZMzBDbm55WDZVcXB3cUM1NGphQjlMaEdFU2FKQnBxX00wTUl6bnNuR1lxRDZ1UVpoWmh4OEhHdktHbFdGUjdFME9rclpHUVI5S0tDMGZPX194NFNPNWFrNnZlZ1k1QmJqMlFVdk9RNi1Zb2lLOFE0SGZtWlRSTnVYeEtyY2czVHR2NjV2X2hyVmNxQ0sxanh30gHYAUFVX3lxTFBqUE4zdmlYUmt0ZGp0ZGVUU3pNdU1CME1BYTZhQTgxQmpnX2pFcEZzMEFWNGlUR3hGME9rVzBObzV3empoQ0Z0a3RpdXFlNjB3UGM4VmZuc0JYVTlDdy1NXzFMQXJNZ0RRLVBFbW00RkNmWGVMUy1VTlBVbGl3RHlrcUk4VV8tOTR3bFIzUDNRZ2p3WEY1STk5REpZdVFCa1VOaldhTk9Lbl95X0x4OE44WXZleWxEQnFReWpUY2xuVXA5eXNSbUNZY0tOc2hzclhtd29EYktiVA?oc=5",
    "data": "2026-11-11T00:00:30+00:00"
-  },
-  {
-   "titulo": "MDIC lança plataformas digitais para comércio exterior e investimentos",
-   "fonte": "Fato Paulista",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNUm82RG1JSzQ5Y2RWVThuVTN1RXV4Q2pSZm01ZGM0bkFLaUkxdHpYS0U0QXJLTTdoODNERE9rWUpMYnRVek05cFNYUXFRSGlyN0lRQTJ4STBQVkRQV2w4TmNwRGEwelFkSEl4ZGhsSEVHbW1NblFHcUY5TkNtbWFWSDhacDBWcm5HWXBOTEtoS2xQaDhfYjhv?oc=5",
-   "data": "2026-11-10T23:52:07+00:00"
-  },
-  {
-   "titulo": "Ibovespa fecha em queda e dólar sobe a R$5,58 com exterior e ata do Copom",
-   "fonte": "TradingView",
-   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1NNk1QclVRR256eURvYmNZQVgwOG5OT0RsTE4xYUdndDgtdmV3cjBIX3ZLcWhZbnAyR09wVGpFdldrSllfVmJfQmJIVUVDcmlPamwyTFE0X20zZVpucmNGSEowSGpjMDVQV1p5djR1U3Zfc0VTZnRV?oc=5",
-   "data": "2026-11-10T23:42:01+00:00"
-  },
-  {
-   "titulo": "Petrobras (PETR3, PETR4) eleva projeções de produção, investimentos e geração de caixa para 2026",
-   "fonte": "Valor Investe",
-   "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxObHljdU8zT0diVTI4WVJ2NG1XZXFmWjhhQUhNTVZ1WTROSmxtQ1dNeVEtYzBoNWpCRmwxNG9aR0pBVm0xSHdhVThfVW1RWHBFT21UVUVpU1dEOUxwNU9WTm43RG1LcEE0NUxRLTRmdHVVVkctV1NqaEhiSXRvdzBjcmR4b19iYmpIMC14T0NGUHhMdVZqa3VjS0hwTU1JZktOS2p1RnUwSTlRSGNOQkVPenFmOWVLU1FXdWhES2JSb1UzTFV1NEdLRXhTamRJN3QzRHFpN0h3OER3ZU5ISGR4aUdvWnhDTkN0SlJDdWFLZUl1S3djY3EzaDVwLXJhM29rQkRFNjFBeFJzc0xNQ2fSAZwCQVVfeXFMUGNxVGYtbjhHQXpSck1XYkFzQ0JnN2FoSEE5cVdXamtNSUg1N0FqcThjTFZ2aGdILTR0MXhzVG9XRXdfUTk1Ml9IcTBSUndaaVpfalJmOTE0ZGFWbVFndGx0bFVzQ2pwUVdVdGprUHdIUlhwd0ItVjkyZUw4bExPQWM5bjBnZ09DTmVYaTIwcFBsTE9aT2dOckF1eG5neU54TXZhZkdHTnRkUEtHQ19GdVRtc3pIYkRXd1A5ak5aUmstTmpiWEd4bWtZWkJ1LUtZZDI5VjlPdUg0N2Q5Q0tKcXNWM1Z3b3VMaFNKY1lyNVBHLTVZUHdIQlJLVHV4X3JLTHRkM2RGMDRNd0kyTkxDUGFlUzVoTmJJNHd3ZUw?oc=5",
-   "data": "2026-11-10T23:41:21+00:00"
   }
  ]
 }
