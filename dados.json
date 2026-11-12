@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-12T17:04:03+00:00",
+ "atualizado": "2026-11-12T17:56:15+00:00",
  "indicadores": {
   "selic": {
    "valor": 13.75,
@@ -17,76 +17,76 @@
  "cotacoes": {},
  "noticias": [
   {
-   "titulo": "IPCA de outubro: alívio no mês, pressão no acumulado – Economix 21 / 2026",
-   "fonte": "Sincovaga Notícias",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQXzNlel9GQ0tZZmlzQUhGSFhfUTFVSkNUWUhBOXV2SWdxaEtfZWJobXJCY2tiUmhYYXNBWWt3eVIwOHhSVXl1VFUyUVZ0eDJ5ZkduWmUwUDZYS29URnltZk5nSGgyNi1VTndvdWNWam1nUktweWZTOFFDbE5INnp2cFpMRUI0SFowblBmb09ib19uSXowYllPa1BZQ1JGUTRwaFV0SF9lM0FCQQ?oc=5",
-   "data": "2026-11-12T17:00:00+00:00"
+   "titulo": "Rota do Surf deve atrair investimentos em turismo no litoral",
+   "fonte": "Jornal do Comércio",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOSUNaTWNXeU9FTEJHbnZIMU16UTZmejZYaUxSMG8zQmlWaTJacGF1a0szRGlKa3h4UnlDbkUteEttcGF5RWdpY05nbm9MajBnWUNJWHJGdU9mQV9NbkJRdzJSWEhKVFJjSldfOTJ0Ym53MmdwTkNyVlRSTG1nR0VwVWVQdjg0TUltV3hEd2pWblJWcTRWWEpWTHdlTUpZTmFpQmtUcVdYOHJrb1l3MWozS3NJUnMwZmNpYzRpc20wVklEZGNxX245TA?oc=5",
+   "data": "2026-11-12T17:52:27+00:00"
   },
   {
-   "titulo": "A inflação caiu, mas o tomate subiu 19%: alguém avisa o supermercado?",
-   "fonte": "Suno - Investimentos Inteligentes",
-   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOSnVId21HWGNvYVQwZGhvNmhKRFNHZHZkS1l6MFNZYW84LV9wNVptRS1tUmJ4SUk5emxaQXRvWkNlOXZ2cFItWjRYTlFpYnZ1bnhzUHNSU2dsMHVOanJpck5xZGxLV1ZSdUgza2pjbmc4enZKQnJLcXJHUm5zUTBQSWFB0gGHAUFVX3lxTFA0MEVMN2JhRmtVaXBMeGZaZmlRTTR1b2ZPOGZEdmhFbzlNWV9VeTI0eTVzV0RUS0FvcjBZUXZobkc0YjVyemxoU1NmcU1JQ0RIM3A2R3NjOTducDdTZzl6dFRWQUdxZmZvb0FIZkxpZzBmbjBnRkNfdXpiSFpsY01vVDVMOUNiaw?oc=5",
-   "data": "2026-11-12T16:58:37+00:00"
-  },
-  {
-   "titulo": "COP31: Sebrae amplia investimentos e parcerias para acelerar a economia circular nos pequenos negócios",
-   "fonte": "Agência Sebrae de Notícias",
-   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNVDNVNlJCOWFRZHR5T3hsM21SdGlKbVE0VmduRFIxbHlWN0J5MFNwWFdQMlB0bnJpcHQzMDFiQUJZcHpydW42aDZUWTUtamJDXzdsVVVUQl9FQkUwNXJ4TFYtVmsweHRhT1gwcUVQbHgzRW5CbW1QX3Z0R2RqUW9tTnBGUWFvTkJtMktDWi1sTkRUcnhRYXNXYWwzWWxKUWFtN2U4V2dBQWlXOWtzc0FwX1BFaVhZZ0ZKZmZXX0dOelpkTGI2aDdfUkg3VjV6Q0JKelZGVktPWmhONnhIOExrYnZmYjJVS3Ju?oc=5",
-   "data": "2026-11-12T16:57:06+00:00"
-  },
-  {
-   "titulo": "Black Friday tende a não ter efeito sobre inflação geral, diz IBGE",
-   "fonte": "Valor Econômico",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNOUh6RWJUM2wxWXBwZHRRT2FSdXhmZUFvZDJWUUV1c1UyRWZKQjVhSDZmTzlLdEtpOHdSLUo2UUk2am42dXJGUWdrMlcyV0dFRkFUb0t3cU9IbnZvRVpMM21IRkRDZEVzZ0h3Z1VqaVVRVkJrZXplNVZuR25sY3E2Sk45NFhmbk5xMXJ3cnc3QmNETE11VlROaGNCN3lDSUVsT0Z4Mlpmc3pjSkduWVQ0TzhEMC1jWERNZlHSAcgBQVVfeXFMT0hCMzFCak8xNzRWaDJ5OGJJcGhQb19yX21OQ1JRSTVnaUdZRk9SY2RuTG1MOUZqbnBuWkZFNE9OSnlYLWVYT0pTaU1NaUdhdUNTZjdCVEJBZ2NlYS1zaVRXNmFNWjhISjM3UG1ESExjTnJNSzdEbUFPUGFnaVl4VHpzVE5US25aUnhkTTc2Z09iVW5RWGl5WG41TGNhQUZqMm5INGNKN05hWkZGWVlPQ25KNTZCX1lGeFhXRWhJVjAzbEJGSFppaEI?oc=5",
-   "data": "2026-11-12T16:54:10+00:00"
-  },
-  {
-   "titulo": "Crédito caro: juros de 62,4% ao ano e Selic a 13,75% travam a economia",
-   "fonte": "ativovirtual.com.br",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPRXFlRk5WYzlISlA5YUR2VjJvN0xFRWZPd1JoOTNRVV9qYy1vMF9YU3lnSWt0b3Y3X3RRdXFrdTBCdkFQbEVueFhPZUw5MmJ3SGdvNC1Sak1nTHhoWlN6U3N4SmNWNjEzNjVQV3ZrWjNqMTBXZktObHFCVC1RelY3SlNoTDRheUpneDFtMHNBR2RTd0lWSnNsWnN4Wlc3c011ZVdyMlpKYTI1eVJuVVEwbDZB?oc=5",
-   "data": "2026-11-12T16:50:33+00:00"
-  },
-  {
-   "titulo": "Inflação dos EUA está bem acima da meta e exige postura cautelosa do Fed, diz dirigente",
-   "fonte": "UOL Economia",
-   "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPRnh1TUt2QUdwSmRTVFVYX3dGODNYMlZuQnBQeDM2Nk9wcS0tM191TmhtLUd6Q1JiaXZnZ0ZZX19VRXE3TDB2azN5cVlsM01YUjlnV2JXcm5oOW9QaGdhTHE5Yy1xcTl6VFN5Q3RveVVxQ29OUnZ5VnJCUnQ5VV91N2IyLUl5aVA4dEdTcGM5VVB5elFOb2tLdTI3QUVJOF9McWRkSDJ6RDR6MVM5SXRxaXFkWHQzdkpIbDJXX1JNVUJnSFFjakp1dTByMlJDNXhkMmJrbTFlT1lKd0dLTV90d29CS2ZLRnlwRXNv?oc=5",
-   "data": "2026-11-12T16:49:00+00:00"
-  },
-  {
-   "titulo": "Dólar avança 1% com adiamento de votação de medidas fiscais e IPCA no radar",
-   "fonte": "UOL Economia",
-   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOZEtQZHozSm1Ya2t1N2ZnRnBsbVBmazczUzkzOW9NeXY0U2lYZEpjVU9NWWJfTE9qaVZRbjRDaHRtdUh2X3BVRllRTkFBS0pIWWZyM09CSmtPbWRaaHhWejNLT1p2ZGN0QTZycGl4Z3RVN0NEejhRYS1GQVF6eXdtTHhSdjBCS1lsZUk2ajA0LUxPS2JGa1FzRXJGd2Z3NC1MTXg0UFl5bzBFcWEtRi1UN1lUUjh6UHhoemM3azh6bEg0NjJiNmtzaW4wWWZTQ2tBUlExNlJaVQ?oc=5",
-   "data": "2026-11-12T16:43:54+00:00"
-  },
-  {
-   "titulo": "Ganho político favorece atração de investimentos no Centro-Oeste de MG",
-   "fonte": "Rádio Itatiaia",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNS01rc2VCSHhxZFQ5NWl1Wno1ODd5SEVDRzFtcXU3aW82Zk9nOS13WDRCOGEyNnJlVVF1QXo0MlRjQlJwR3IxdnhBYlc2clVIYkNkeG9pUDFBVk5EVlFDbDQ1STdnWXdBUTNiSmNsZ3RaUGlZbjJRM0ROOTdfQ1RIWjU5MTU3TkUwXy1qb21WX0ZKZVI1elhKWXg1WndLeW8wYy1RLTBFSHMxZ01r?oc=5",
-   "data": "2026-11-12T16:43:17+00:00"
-  },
-  {
-   "titulo": "Além da Bolsa: como dólar e juros altos podem ameaçar investimentos e empregos",
+   "titulo": "Petrobras e PRIO podem ter dividend yield de até 20% em 2027, estima Goldman",
    "fonte": "InfoMoney",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQNGw2Yk03aTZpamtKdHN3LWFzblZTVDFqQjkwbVNhZFByRnNrTnQycS1BblNkUUVnekNaaVFtZ0I2U3paVFRwdWVrY2Q4RTdtYjRGa3FDTlAxY2RDTDdkTDJmTFZlZzZRb25mQzZvMHF1Y0h5NFFMV054WVVjMWphRHh4NENUNlpmX1JvOEJVMFNqMzVkWEVFUHBFMDNYTTR0VkdYYkphLTl6S3hSeGowYjd30gG3AUFVX3lxTE1WejhSMWFfVXlIRzRyU1dISm15d3J3OEplYmNIZTNFR29malBrV0ZCUmtLNkNEVDJybTYwaTdQclZ0UFVraFQzQThzejZwUXdCTU1ocHhrb3FFaGxoZHFtYmJJSHdWZGl6alA2QmdNOHptQW1IVzVNQlBOR0FPMzZtLUtNQ1FEb1JVWVVWVVVnOHBBOG12ZjR1aldZUTlQaGZNWlRCem1pUHoxMlMwdHRXWThPcWJaMA?oc=5",
-   "data": "2026-11-12T16:36:52+00:00"
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQV3ZSYmZwMU1PZUg4ZXRUSmplSzByaTJFSGo3QlR6OWU1bUtDNXlydFhxaUltSHhDOGFveDF4TXJ4dGY5VDdBSGFOb3FnUGp4cDd1anBlZ1RBbUszRVQzLU1PcFVJTWxHdUNpeFV5T2RkVHVhVGFpWnQwLWJPa2FSUnNnWHVJRElGMkRHT0s5dldtRm9POEtHcnR4YnhSckFFdjJXV0ZtNWRlSTBTR3NvZ3FqY9IBuAFBVV95cUxQeHp0dkZGdzdtdjlPQ1ZOcV9yLUR4QmEzeDNSYklNem1BcWVtR1g3T3VOZkNoUGJzbDdkc3pMUFJ4VnoxcFZaYjFkSlFybkoyYk5BNExodDlSUER2LXJpWkszYTlGX0tvbzhMWDBSbHAxR3k5Mmp4TE9NMXdCWnJfN21kOHFpQlFGX0ZFeFJwc2pya0Q1TktpM3lPNjZwWXhHSldGQnRzWnBwalV0ZWMzSXk4dDdOdWcz?oc=5",
+   "data": "2026-11-12T17:50:00+00:00"
   },
   {
-   "titulo": "Inflação desacelera, mas alimentos seguem pressionando o orçamento",
-   "fonte": "Contec Brasil",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOY21LYlpndVFuNzhzNDM1V1o4OURYUGhCYVl3NW5qdEMwNHR6ODFOWWZMQ3cxaEZiM25oUUNxVXpfckpfaDc3YVZlZE9yNDVDaFRiOTJTRmpyaGwtcG1NM2lGYkVSSlNlbE5LOVh3TU5QajhLMW80amd0QzNNMlVjNG5JUlQ0UHF1TmtCNV9CT2t5dw?oc=5",
-   "data": "2026-11-12T16:35:01+00:00"
+   "titulo": "Selic sem novas altas e PIB estagnado: o que o UBS BB espera para 2027",
+   "fonte": "Money Times",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQRnk2MVRUWjB1aU83SlQxYTNURF9aYXNnMHhGbkdaTnhTeVVVSFVqNC1PRHczaWZFTXA2elN2TDM0VnJVVUR5VTlUOUEyN2pKVUZlZFM4c2U3MHZ3OGNjeGRxeGNRM2FLb1FSLWZoemxCNnBySk1FRzVNZ0lDMS1FS1Y3RmNkQzJ1ekpTY3RZaWxZSzlFYzZiT0lYU2tocnpJQ0EzZHBObmc?oc=5",
+   "data": "2026-11-12T17:47:00+00:00"
   },
   {
-   "titulo": "Finfluencers: a dica de investimento que viraliza cabe no seu bolso?",
-   "fonte": "InvesTalk",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQNEtPVlhmOUEyOWRSWVNjQ3haTkpFZTlWZmVfTHZVVjVYZjdRQUFDYngzUnFOTURuVlhOYnd3MENEVExJdlMySTNUMDBwY192dnRITU02bFNuRmFwanBkWHFYVFc4eHJzU3lwVUZTZi1rOENYN0lnU1FsTHV4NWRrLVk4RGhsOUlqTnlVSXhMUlhnaEpwX0MyN1NzVVhkeXpPcjE5TENzZFVDZF9QbHl5RTFR?oc=5",
-   "data": "2026-11-12T16:35:00+00:00"
+   "titulo": "Inflação dos EUA está acima da meta e pede cautelosa do Fed, diz dirigente",
+   "fonte": "CNN Brasil",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQRzQ4OVdnN0lSa0dfY29Ed0dwNjlHckJ1dGV1UVVPZHBlMzIyU0pUZVZuWUFjdHNiZGx2bUkzUFhwZTFWMm9RNk5VNi1DNHJiR1FxSHh1RFhPc1ZGdXBHS0lzQ0pFZFd0bVVfSDE1elVPLWNMYmxRamZSSFNQMENCRmJHZHlYWnRlYnhQc0ozbmhuODd4VG5EZ2ZiTjVjUlZzeUNva08zcm9oVHo1dGxfVTVXejRtVVhZbUVzdGNJRUQxT0lPZTJweFR0N0o?oc=5",
+   "data": "2026-11-12T17:44:04+00:00"
   },
   {
-   "titulo": "Azul quer levar dívida em dólar para reais para reduzir volatilidade, diz CFO",
-   "fonte": "UOL Economia",
-   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQNHJwdWlTdjNHeHpCVzFxMGQ3RnhHcVlfdHpNMWtvRE5uYWlPSnE5N3dEUkJETWZtbkM2UndCdFNoMldhbzVQQUZvV2ZJeHhGQ0tVTVFoNTJGY0xEaDFpal9va0RUTTAzRG82TFRFYTMzSGp6Ui00bExJSW9CTW50MVV5d1AzOGNlZ0NXcWpGX2t0UHdIQXg1YUZMQVRXSkw5T0hWdXpwQzVtZmNWMXlzR3E0S1lYYXBOOXFBU1lhakY5TmJvWUlpQzF5a29jcmZBR1NlakhFRlZqQUZLSGc?oc=5",
-   "data": "2026-11-12T16:35:00+00:00"
+   "titulo": "Direito e Selic",
+   "fonte": "CartaCapital",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBFQTVVamlVWnozc0VuamFnUW1xQ3pRMnRicE5NcjgwZWUzU0RJVzc4WE1YOWt6RFl2RWpJVDYwR1FZelNPUW9rQjQ5YVEzZDRnY1BoVTNUXzVaX2YxNjd0SmMzTnE3RjA3N0wxbGRwNA?oc=5",
+   "data": "2026-11-12T17:44:00+00:00"
+  },
+  {
+   "titulo": "Quando os juros asfixiam",
+   "fonte": "CartaCapital",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE0zLXRtYVJpSE1NXzlldkh4bVhCbjU0dktHNzA5MXdIT2FTbE5NRHJtN0lvSmY1LXBPQUZuT05HdEVyWjJKUHFENEFXX21qT1hjUXBVQWVMVHFWRDUxMjlfS015X19MQXdaenNubjNLWk91ZmNWVklZOU5Ncw?oc=5",
+   "data": "2026-11-12T17:44:00+00:00"
+  },
+  {
+   "titulo": "Sem aeroportos, 'Motiva 2.0' mira R$ 60 bi em investimentos e cria nova frente de negócios — que inclui até imóveis",
+   "fonte": "Money Times",
+   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQeEpWV0V4d3JPMnN5VUZKcFhNdHBVbmllYVNCZldZNHp6Y1NKdTR6VVEyamo2bzltTEtXemxwUml6Vk5OemdINERYN3pGRnBXVWdVeWhlUVpNQnpKYkMxd2dLUXVfTHkyQ1lnbks5cDhSTmhZQU9SRXMzeVZZYmdtOUNlYzFLX0V1OWJSYzI5YUdIby1pMG84WEh1NWNreEF6MzZrZ0FPejZYajNBNmlBQ3ZiTTZuTlNNeXptSFFKX3U2Uk1wX3pXV1hlZERhSm50YlVvLWM0UQ?oc=5",
+   "data": "2026-11-12T17:40:00+00:00"
+  },
+  {
+   "titulo": "Inflação Mais Baixa Não Resolve Dilema do BC: Preços Cedem, Mas Pressão Persiste",
+   "fonte": "Forbes Brasil",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOV1ZBTUpkRDRnbU96UmlfTk0tR2ZBQi1BV0JMN0lDRC1YR05XYTNDSFRzcUx6NnpjclhzbjlfeTJyNnoxS1kxS3BlLVlaZ3doVDFfMTlVRlpaVkROc3oyaWVHRGpSZmNHTW1fT0FHbUNiYXp6SVZGNGRVT0NadjBydndiTU5KN1FSM2YtZ1JTZ0g1S1E1anBmNnBNdEgxaEt4QUJfWGxGMUsxcy1fQXlnRGpDcDNMLVhMNlFVd0NzZw?oc=5",
+   "data": "2026-11-12T17:38:42+00:00"
+  },
+  {
+   "titulo": "COP31: juros de 13,75% ao ano põem Brasil em desvantagem",
+   "fonte": "SBT News",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPaFNDWEY3NXNpejBlbUtHWmptcW1pNkNxeElaV0oyWWtUOWlrWjdXMXRBSXdKSXN0QVhHS3BBS19IdXJkSzZCRjhKSTBmUkc3SVltSUFWcVZmNmRmWWFCTTFjUXFfRmpCUFNUcllHeTRoZXpWdVcxWXNRSEMyMDZ2UXFRQkNsSHV3VWllLXh1ZHIySW8tSEdFY1F0TXlFMEFmc2pKMlZ3?oc=5",
+   "data": "2026-11-12T17:32:17+00:00"
+  },
+  {
+   "titulo": "Copel anuncia R$ 200 milhões em investimentos para reforçar energia em Cascavel e região",
+   "fonte": "Gazeta do Paraná",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPOElGTXZ5YjNncnNOSzdrdmtoYnpLaXlLMHhQaW5sQ0szdzVIR29XellBX05ydHJFVjlPWVhjMWVydEdSRElYeWlfUG9KcVpOZzE2akx4T3NHVUVfX0hzM3Rpa3hia1NaMGowZHd2SVF4VWdfLXFmdFdtckF1VU5YVmVIMnZPVWpMVndjcVBES2RmN0pjNGlESFMxREFJMGp4Vnk5YklVajYyVlJtVXJubmt3bUttRHV3Q2otTzRHYVdSM0k?oc=5",
+   "data": "2026-11-12T17:30:00+00:00"
+  },
+  {
+   "titulo": "Goiás prevê R$ 10 bilhões em investimentos ferroviários e aplica R$ 5,3 bilhões em obras em 2026",
+   "fonte": "Tribuna do Planalto",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPOWlNOC1ZVHJzenM3cnkya3VjVlRvMjBfbHVYd2Fhd2Fxd0k4S05GVVlidkVTM1ZUeDRncDhlLUVEWFhaakdMSGk3XzVhb1RkOEhxR3ZOSndHSlNLaGcyMVptSE1TQ2tWRF9sV1dFX25ZY3hpV0dEYW82V1VBVWlqWENVdzFNdTU5WXI5dks2TDVGeXdtVm9OWW9QcDJZWW9uYzc5SW9jaHlmUThmZl94STUxUGpja1pjdWJIbFRvSVNOdXlCV2c?oc=5",
+   "data": "2026-11-12T17:27:00+00:00"
+  },
+  {
+   "titulo": "TFFF não é pedido de esmola; queremos que países ricos façam investimentos, diz Lula",
+   "fonte": "UOL Notícias",
+   "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxONmRlZ18zTTZXdEVWUGZDZVlNaU90VVRxTXllQ0J0RW5BRUphWV9tb0xFVTJ4bGEwU2hIaE9HdnRlVHd4S2ItVzM4SlZqTHQ1ZEhuWG1pdElOQjdNcFVCYkwxZW1Wb1B1OGRFV0FYT0pzMEZnMFZRTHlZMVJSOFBPaE9NVlc4WV9Cb25wcThwM0kzNWpEX1Vsa2dJVFZ2OXFuaWVmWHh2UWNMTng1X2p5b0o3MkdmaXgzNHctRXJWYThfV3hFU2xfanp1VGU1YXZ6U25tei1qMFBkUkhGenlXYnZPVzNxekt5clZWWG53?oc=5",
+   "data": "2026-11-12T17:26:00+00:00"
   }
  ]
 }
