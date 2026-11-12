@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-12T05:01:40+00:00",
+ "atualizado": "2026-11-12T06:04:14+00:00",
  "indicadores": {
   "selic": {
    "valor": 13.75,
@@ -17,6 +17,18 @@
  "cotacoes": {},
  "noticias": [
   {
+   "titulo": "Rupia indonésia atinge mínima histórica, com a valorização do dólar e a turbulência política pesando sobre a moeda",
+   "fonte": "TradingView",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE90bzloOUwydHBDWGdnYVM5QUxzTmQ5cVVqM2s5aEVZejdSZnQwT0VDUEZVQk44S1ViSjduZjRaNTh6R0RZakxnSkR4ZXhSOHZtTDZaTFdiU0w2cXljR2QxdENoenkwSGxfOUdNRHA2UVgyLTItcV8w?oc=5",
+   "data": "2026-11-12T05:26:00+00:00"
+  },
+  {
+   "titulo": "Projeto de ajuste fiscal do governo também abre espaço para gasto com diesel e investimentos",
+   "fonte": "O GLOBO",
+   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPeFhlWnhOcWt1OGlrOUtCSDFZU2hmTXo1ak0yRS0weFl4VnhrTXBybjFWVU1xYlV1bFk4dzQwalQxVW5RMWhRRG5yWGlIX1V2ZjMyVHVMTmxNU0pTTEVYUkxHV2hEU3V1OEU0RFU2cW1NaW5WNmFHelItWkg1Ty0wY2U3VXYtbUd3TkZHWl9LaWxmNDlFMTdVdWtUcll5UGR2WFNLSjFXdVJOZ0RwV01lWFUyS2ttZ0tDUlNIYWhIdTB6VHo2SVNHUGZJTUVYbUd2SjNveXREaFBqZEJjeUdYQ2JhOGpjd9IB9AFBVV95cUxNSmt3TkRyNkZDREFqY1VCNGM1bU9zT2wxOFhpaFh1OEE0LXdfTEg4UWVlaWdkQmZGQkZzZWxhQk9QLV9ocnhIbDJCQWFJMlJDY3NnaVJCVU5meHV5SXlRRGF4R2x1eDhGZEkwbjhJODJBSUM5bHRidXhSTDhYWG9vM1V0Vl9qQzNaMzhmT0lxUlZsRjZYQ3VEWjBSbXVGRHM5LU1FaUh3RVB5TG5rbGFpUU9kNVo2V2lxVWl2V3Y3TlZ3U1A2MmFRbTRZanFPS2sya1dNVTVrOUVGM0tNbFhlejRXWHNNZENncDlLdmtFZ0oxQmRx?oc=5",
+   "data": "2026-11-12T05:00:00+00:00"
+  },
+  {
    "titulo": "Pacote fiscal pode ir a voto; IPCA testa BC",
    "fonte": "Bom Dia Mercado",
    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOd2VBOFdmMlIyUC1seE55Tkp5LXpGQWtNN0RiNDVGLWJGYUdJTGtyY0kxeE9jWFBjVEtOeG1HdHZmc1Z3ME9sbFRoQkpaLW9oMV95dHNqNk1ueVBaQUQxTjJsMEdSVDVZS0ZBZU9SRmd2VXAwZndWOWNWdzAxNkJybHFiemU5akVvUHU4eWJjY19pRVk?oc=5",
@@ -33,12 +45,6 @@
    "fonte": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOOFo0X3BFREdYMFdydXdXLXVQQ2ZMTUxGZGx5NDVSdG1xSmFidExSeG93eW5Yc0UtRGNjM1VjZjlFUTJfeW1KWE8yeVY3bjdFMFE5R1Y0NHB0VkhzaVdCZXMtV1hJX2dkNmxQRUhOSC1jcW1DNFhPcmNVcVVSMFozeFhxUldTU2xrT3E1OUVrZ181SmxNdjMtMGlvUTNFV0VwMWY0RUUyWHd1aHE3TG14SHJyTkY3dEtjMHVPVkhpdVlqbFZjMVczSkRXYjh3QQ?oc=5",
    "data": "2026-11-12T03:55:00+00:00"
-  },
-  {
-   "titulo": "Rupia indonésia atinge mínima histórica devido a dólar mais forte e riscos políticos",
-   "fonte": "TradingView",
-   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE8xODNHazlNOXA5MDhNU21td0l1UTZTVVo5cVBPdGpOMDluYnpiRXZXN0NWRnlfbG9PbHlhcVJITkw2SDVVd01GeGp6QnZvc3BoSUpQb1JvLXBVVmh2d2tLcVpWY1N0c29FZnVCUEZlMElXZE5vUndR?oc=5",
-   "data": "2026-11-12T03:27:00+00:00"
   },
   {
    "titulo": "Vilão da inflação? Entenda por que o tomate está mais caro em todo o país",
@@ -81,12 +87,6 @@
    "fonte": "Esquerda Diário",
    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQMHkySnJLR1UtSzA0SjEwaTZYaXdFbTR5cmRRZmFhTkwwNkpxQmc1UTZDWFBsUGFWd1MxNkJzbXlPUXdFOGtJRnMzZTlnMU9CdGRHVW5Ob2FaTTZyTUpVcFRRNTNtZENoWDI1QXF6c0c2SnN2UE41Z3BrcU5ZUTlabkdEU20zSGZfZ3p1SXVvRURmby1rRVRrTHlldkx3Q25qVXgxaUU1QVd1QTA0N2ZsYUFHT01qNzcxVnNJWmd3VVJNZTB5aXJXQWxB?oc=5",
    "data": "2026-11-12T01:42:24+00:00"
-  },
-  {
-   "titulo": "Queda no Ibovespa após vitória de Lula ainda não acabou, alertam gestoras",
-   "fonte": "CNN Brasil",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPQmdKREc3MzV6WXVKWV9uN294clFVMm1sSVgzOHRSZ2lhaF94Nmg5RlhzSjI3bkxJUVpRNnlvaVFUNnlaQnNDVVNoRW5qTndtR2ljSkd6OGVrNW9QRkhNZ21BdndBMHUwNkRVd3BHLUZNa21GMjBjU0M4ODVnVzZqSHQtS3dFMXJNTkY5OWlSbXlVM3ZJWHM4aEx4SUtfdlQ3bXdmOXk1dUxNNkJZZzZlUg?oc=5",
-   "data": "2026-11-12T01:41:19+00:00"
   }
  ]
 }
