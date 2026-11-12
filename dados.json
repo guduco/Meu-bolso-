@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-12T03:56:48+00:00",
+ "atualizado": "2026-11-12T05:01:40+00:00",
  "indicadores": {
   "selic": {
    "valor": 13.75,
@@ -17,16 +17,40 @@
  "cotacoes": {},
  "noticias": [
   {
+   "titulo": "Pacote fiscal pode ir a voto; IPCA testa BC",
+   "fonte": "Bom Dia Mercado",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOd2VBOFdmMlIyUC1seE55Tkp5LXpGQWtNN0RiNDVGLWJGYUdJTGtyY0kxeE9jWFBjVEtOeG1HdHZmc1Z3ME9sbFRoQkpaLW9oMV95dHNqNk1ueVBaQUQxTjJsMEdSVDVZS0ZBZU9SRmd2VXAwZndWOWNWdzAxNkJybHFiemU5akVvUHU4eWJjY19pRVk?oc=5",
+   "data": "2026-11-12T04:04:19+00:00"
+  },
+  {
+   "titulo": "Dólar recua a R$ 5,562 e Bolsa sobe com ajuste fiscal no radar",
+   "fonte": "Vero Notícias",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOQjI4cDJKaTRxSl9IM21LeEZaOFdpazhOOHYxbEV1NUFlaUVMQzRFTWVuUUVYQTdoczRDYmttdEdWNXNiVUlNbnQzTlhRNnhxaTA5WkNYZE5WTWxvQVk5YURDM2dILVpZNjBSS09LZXZtZGJHRFRfbnRpaXlEbnMyU3ZDY0g0LS1wZFdyOFdzOTVjZ2NsUldSWGxYOA?oc=5",
+   "data": "2026-11-12T04:00:00+00:00"
+  },
+  {
+   "titulo": "Moedas asiáticas recuam com dólar no maior nível em 19 meses; iene se aproxima de 160",
+   "fonte": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOOFo0X3BFREdYMFdydXdXLXVQQ2ZMTUxGZGx5NDVSdG1xSmFidExSeG93eW5Yc0UtRGNjM1VjZjlFUTJfeW1KWE8yeVY3bjdFMFE5R1Y0NHB0VkhzaVdCZXMtV1hJX2dkNmxQRUhOSC1jcW1DNFhPcmNVcVVSMFozeFhxUldTU2xrT3E1OUVrZ181SmxNdjMtMGlvUTNFV0VwMWY0RUUyWHd1aHE3TG14SHJyTkY3dEtjMHVPVkhpdVlqbFZjMVczSkRXYjh3QQ?oc=5",
+   "data": "2026-11-12T03:55:00+00:00"
+  },
+  {
    "titulo": "Rupia indonésia atinge mínima histórica devido a dólar mais forte e riscos políticos",
    "fonte": "TradingView",
    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE8xODNHazlNOXA5MDhNU21td0l1UTZTVVo5cVBPdGpOMDluYnpiRXZXN0NWRnlfbG9PbHlhcVJITkw2SDVVd01GeGp6QnZvc3BoSUpQb1JvLXBVVmh2d2tLcVpWY1N0c29FZnVCUEZlMElXZE5vUndR?oc=5",
-   "data": "2026-11-12T03:27:20+00:00"
+   "data": "2026-11-12T03:27:00+00:00"
   },
   {
    "titulo": "Vilão da inflação? Entenda por que o tomate está mais caro em todo o país",
    "fonte": "O GLOBO",
    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOZVhOMlc4QngtM2ZYTWNyTXNBa1RpdGRrb1hvdTBiSl9yelk5MWFkdmM4UENHNzRyYm83WGItc3lmNHBIZFUzZDU1M3FvLWQ5MEp0YXVEY0EzR29PVkEtN3VBOHpGUlIxMnoxWUxZbElhSDNwRkpuTUpJTVA5Q2NJaUhEM0ZlUksxal9PYlBSekdoZ2ExVkQ2Y1pxYkltNXQ5MGVuZW55MVV5QVZNSjNyV003ZFJpWUZZZkFUTU82enJYOEJ1Zmk0d3g5NNIB2gFBVV95cUxPWWFtT3pJaF9CRTZkUWhxX0FGYkotdjhwWF8tNlJJVUFpTnBNTklZc0tlRjh5bTVmZHJEaG9kOFhVT3VXSC1jUUg3WFdxRlJ3UGpMZ1k3Wl9HaFFDZHJOV3VwQXJXY3lDNVByejN1WS1vN3FZbE5NVUtDcEhYS0VhTzh2YzRnTWVYOWY1REFoR1Q5VzhWQ1RlSk1fZEFwd3pzcjJhWVZwa3RsSThqcGFSMFAxOXRraFVVY0tmVjBVOXI2THptX3U1bDBoQkdCaW0yLUpORUYyWGNLQQ?oc=5",
    "data": "2026-11-12T03:00:01+00:00"
+  },
+  {
+   "titulo": "Brasil deixa R$ 546,5 bilhões em investimentos intangíveis fora das contas oficiais de investimento, aponta INPI",
+   "fonte": "Capital Digital",
+   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOdDhubzg5bldzRDd3WFpBdTFDVG5BbUhwamNhcEhSVEgwT3BaUERHS2NyV0ZFNVIwTjQ0aG8yeHhHVUg5VGpyM3E2cVR4OTAwRklzb0NDUndGMmV4U2xiMHlwclphRWd5RkQ1NzIyV2JuQnMzLTNUTTFmM3o5eHVoOGUxTjFvLWliMkdETkNVTlo0TGEzak5GLUxLbHQ3LS1zQXVRNkp3N2g2THQwd2hiamt2Szg2ci0tcVpxMVIyLXlPNDhXa2ZoZERfWi1NZVRza3RtZlVlSQ?oc=5",
+   "data": "2026-11-12T02:16:56+00:00"
   },
   {
    "titulo": "Cotação do dólar hoje: moeda cai a R$ 5,559 e Bolsa sobe",
@@ -63,30 +87,6 @@
    "fonte": "CNN Brasil",
    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPQmdKREc3MzV6WXVKWV9uN294clFVMm1sSVgzOHRSZ2lhaF94Nmg5RlhzSjI3bkxJUVpRNnlvaVFUNnlaQnNDVVNoRW5qTndtR2ljSkd6OGVrNW9QRkhNZ21BdndBMHUwNkRVd3BHLUZNa21GMjBjU0M4ODVnVzZqSHQtS3dFMXJNTkY5OWlSbXlVM3ZJWHM4aEx4SUtfdlQ3bXdmOXk1dUxNNkJZZzZlUg?oc=5",
    "data": "2026-11-12T01:41:19+00:00"
-  },
-  {
-   "titulo": "Fluxos do Rebalanceamento do MSCI Brazil – Novembro 2026",
-   "fonte": "XP Investimentos",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZHVDUzYyclBrNG1oX2hYVDJsUGlTN1JWR0JQVEZaWlk4Qmp2dkc3TnB0cmlDaFFOUFp4ZndIRjlqbktyYlZFMkROcjFWLXNDT2RXNnBfbUM2R1VjZFU0SHR2MVlnRlJrNklVaFNhemRDSU1rakhpT3I5VUZ1Z2h3YVAwUFVlQngtVjk0Y2U0dlluYmZvaFJPNk9wbnRvNmhWVDJF?oc=5",
-   "data": "2026-11-12T01:27:03+00:00"
-  },
-  {
-   "titulo": "Eurasia avalia necessidade de uma PEC para promover ajuste fiscal robusto",
-   "fonte": "UOL Economia",
-   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxObmc0eEpTRFZhYU5xQ3FYMWY2MHd1NW8yNDZTNjlvZFI5X2NTakdVRk1pU2QzeENPWXQyUHA3b2pkaFF1Q003aHF1OVc4Sk9Iel80RF8wUGFkOUxrWE1QSVMzWkw5UGtDMzJUMlphSXRtcmdqTmJZQ2M0WUhxTDJaTGxsbU9YNlNkQ2l6aEtFaWVmUWVMbFIxenotZlAtZXBOUjhzU3JUTnRBU2ZacjRkeXhkLWxBck5nOGVNVEtHQ1BYR3dlS05SRVdYOTN4Zw?oc=5",
-   "data": "2026-11-12T01:21:58+00:00"
-  },
-  {
-   "titulo": "Lucro trimestral da Samsung Fire & Marine cai com receita de investimentos menor",
-   "fonte": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQU2RvU3dlRWZVWW80WmR1bUZVN2FidXBfVWJScVh3ZVlfbHZvQVU5eFE1c01nQ2ZZX1JLNTV5aDlIUDVNMFRkR3l1V1VSeVRrNFJoTnBJU0tfZ216ODJpdFlSc3JTay1aWDhQMGF6bHVMTF9LZjFBUFdieW1vdWJMekhYZVZuS0NEekMwYjk0anZ5akQzMnUwM2JXbE5HU1lSYzJrYmpEdkl0SmlQR1pqMjdqUlFQOFhlVVI4RnE3cEEzbXg4?oc=5",
-   "data": "2026-11-12T01:04:00+00:00"
-  },
-  {
-   "titulo": "Galípolo diz que crédito consignado do INSS segue crescendo mesmo com juros elevados no país",
-   "fonte": "A Crítica de Campo Grande",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxONHNmQXdJUzVUeWJRMVFfNWVpU1hlRVZ5WWxHcW0tdXdvM3lNaGVoRjJuS0VsRW5aQUhlSWtvdGh1NExpOWtFYnBaRk5WQ3lRbXFvYVBadWE0S3FLdUdLbDZYdVhBYzNZNDg1Yk1mTGk5V1ZyS090cHNKbUliZjVyOFpCdmhyRS0tUGhnVGdOUERjVDJMNDZ1c2ZPaG1KczktLVFPTU5iVlRkNS11a2pj?oc=5",
-   "data": "2026-11-12T01:00:00+00:00"
   }
  ]
 }
