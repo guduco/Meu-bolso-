@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-12T01:11:57+00:00",
+ "atualizado": "2026-11-12T02:53:46+00:00",
  "indicadores": {
   "selic": {
    "valor": 13.75,
@@ -17,6 +17,60 @@
  "cotacoes": {},
  "noticias": [
   {
+   "titulo": "Cotação do dólar hoje: moeda cai a R$ 5,559 e Bolsa sobe",
+   "fonte": "Acia Araçatuba",
+   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5HTEZic2R0QzJOTi1TVG83RXpaaGVtSUxmcmlrbVE1a1ZMWGpLMjJvbzhjTWxndEhrY0pwT2h2aVhudE9ZOFhCOGdhMU45SjFCR0ZYRjVHZzBjNGFxU2VHVUlySVVPVnJfMHJkeFh1N2xMUlU?oc=5",
+   "data": "2026-11-12T02:06:40+00:00"
+  },
+  {
+   "titulo": "Ibovespa sobe, dólar cai e Petrobras recua",
+   "fonte": "Acia Araçatuba",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5XZFVNbWVyWVNkLWlxZlliLTFBcEZDZUszZXpQa1puRGNodjFWMWxGLXZsT29NNk84aUttTXhWdFUxcFpDX1lYVTB0MzJsZWJSbnlsSkZWYXg4RnhBSnBTbV8ySW02dXM4T3ZhcUtSTQ?oc=5",
+   "data": "2026-11-12T02:06:38+00:00"
+  },
+  {
+   "titulo": "Pacote fiscal de R$ 60 bilhões leva dólar a R$ 5,56 e impulsiona Ibovespa acima de 172 mil pontos",
+   "fonte": "Brasil Inovador",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNeVg0cTdxMjJyaUVQamVjdzBLajhJemtpemc5cGlGOWd4WkY1YUVPQ2RHQzI5cHZfUVJHMUxKWm9oc01DN19BR1hkaVkyTGJ4S0tNUFlidDR0Q01RSWF6aE5INmpUM2hLdi1RWU9pRmk4NFBSLVVycHhxMG1jRFNfcW5XTzR6ZHplLWVXaVU0UV9ZcF96Xy1xVGhIdjNFVEtYVGNYNG1CRm1rOGpwWE1EUVNOZVlVenB5LW1WbGtINUQ5SUk?oc=5",
+   "data": "2026-11-12T01:56:52+00:00"
+  },
+  {
+   "titulo": "Queda no Ibovespa após vitória de Lula ainda não acabou, alertam gestoras",
+   "fonte": "CNN Brasil",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPQmdKREc3MzV6WXVKWV9uN294clFVMm1sSVgzOHRSZ2lhaF94Nmg5RlhzSjI3bkxJUVpRNnlvaVFUNnlaQnNDVVNoRW5qTndtR2ljSkd6OGVrNW9QRkhNZ21BdndBMHUwNkRVd3BHLUZNa21GMjBjU0M4ODVnVzZqSHQtS3dFMXJNTkY5OWlSbXlVM3ZJWHM4aEx4SUtfdlQ3bXdmOXk1dUxNNkJZZzZlUg?oc=5",
+   "data": "2026-11-12T01:41:19+00:00"
+  },
+  {
+   "titulo": "Dívida pública Ajuste fiscal proposto de R$ 60 bilhões por Lula mira gastos na saúde e poderá diminuir teto para investimentos nos anos seguintes",
+   "fonte": "Esquerda Diário",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQMHkySnJLR1UtSzA0SjEwaTZYaXdFbTR5cmRRZmFhTkwwNkpxQmc1UTZDWFBsUGFWd1MxNkJzbXlPUXdFOGtJRnMzZTlnMU9CdGRHVW5Ob2FaTTZyTUpVcFRRNTNtZENoWDI1QXF6c0c2SnN2UE41Z3BrcU5ZUTlabkdEU20zSGZfZ3p1SXVvRURmby1rRVRrTHlldkx3Q25qVXgxaUU1QVd1QTA0N2ZsYUFHT01qNzcxVnNJWmd3VVJNZTB5aXJXQWxB?oc=5",
+   "data": "2026-11-12T01:41:15+00:00"
+  },
+  {
+   "titulo": "Ata do Copom aponta quatro riscos à inflação e joga pressão sobre gastos do governo",
+   "fonte": "Rádio Pampa",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNnRVc09kNnpZR2xtV0dKaVpldWFVRnFFc2lHUGxJZmJCS0xUU1BWYXhEanFMSTlVNXVqQTlweVpqNWlwY0tvSmQtYmpEUEN1VE5JaVNUNU5TTHdpVENPLXV1QXA2dmZvdzJnNl9yc2VLb29md04xcl85a1liV3Y5aGVvZWswOUVkSVlHYnk0VU5vWkFoUFBpNHRHZFZjQm5LclBVengyR0dSelFVWS1JRXF3Zkk?oc=5",
+   "data": "2026-11-12T01:34:15+00:00"
+  },
+  {
+   "titulo": "Fluxos do Rebalanceamento do MSCI Brazil – Novembro 2026",
+   "fonte": "XP Investimentos",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZHVDUzYyclBrNG1oX2hYVDJsUGlTN1JWR0JQVEZaWlk4Qmp2dkc3TnB0cmlDaFFOUFp4ZndIRjlqbktyYlZFMkROcjFWLXNDT2RXNnBfbUM2R1VjZFU0SHR2MVlnRlJrNklVaFNhemRDSU1rakhpT3I5VUZ1Z2h3YVAwUFVlQngtVjk0Y2U0dlluYmZvaFJPNk9wbnRvNmhWVDJF?oc=5",
+   "data": "2026-11-12T01:27:03+00:00"
+  },
+  {
+   "titulo": "Eurasia avalia necessidade de uma PEC para promover ajuste fiscal robusto",
+   "fonte": "UOL Economia",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxObmc0eEpTRFZhYU5xQ3FYMWY2MHd1NW8yNDZTNjlvZFI5X2NTakdVRk1pU2QzeENPWXQyUHA3b2pkaFF1Q003aHF1OVc4Sk9Iel80RF8wUGFkOUxrWE1QSVMzWkw5UGtDMzJUMlphSXRtcmdqTmJZQ2M0WUhxTDJaTGxsbU9YNlNkQ2l6aEtFaWVmUWVMbFIxenotZlAtZXBOUjhzU3JUTnRBU2ZacjRkeXhkLWxBck5nOGVNVEtHQ1BYR3dlS05SRVdYOTN4Zw?oc=5",
+   "data": "2026-11-12T01:21:58+00:00"
+  },
+  {
+   "titulo": "Ouro se mantém abaixo de US$ 4.000 com temores de inflação",
+   "fonte": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOUk5mcGFLQWJoZzBJMVc3U2pxVnVqWTlzSmhPNGhzMjd2RFMxTWFNWjg4bjB2eF9aMjMzS1AtRERMenMtOEtTaGR4RkpYd0c4UDZCQTBENzZtc0l3UUJqS2RyS0syZlBrXzh0eVE4aXNPZ2dNQTJBTTVTSTdQakJ6b01kTVVjOF95T2lNT2VBd2FJdUZVaVgxVjNGdXR5b1NWejlpcmhjeUx3eXdEZUhiUg?oc=5",
+   "data": "2026-11-12T01:11:00+00:00"
+  },
+  {
    "titulo": "Lucro trimestral da Samsung Fire & Marine cai com receita de investimentos menor",
    "fonte": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQU2RvU3dlRWZVWW80WmR1bUZVN2FidXBfVWJScVh3ZVlfbHZvQVU5eFE1c01nQ2ZZX1JLNTV5aDlIUDVNMFRkR3l1V1VSeVRrNFJoTnBJU0tfZ216ODJpdFlSc3JTay1aWDhQMGF6bHVMTF9LZjFBUFdieW1vdWJMekhYZVZuS0NEekMwYjk0anZ5akQzMnUwM2JXbE5HU1lSYzJrYmpEdkl0SmlQR1pqMjdqUlFQOFhlVVI4RnE3cEEzbXg4?oc=5",
@@ -33,60 +87,6 @@
    "fonte": "Estadão",
    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPVWxnTXo3cUJEMVJpS2ljT2ZKbko5Vl84dmNDc1UtU29NSXhaYVVrNHZrLTlzUzBlSDMwZWNCNEJ1WjUtclppVW9RaUtEd01kdVFCQ0VuNjc5TTQ1VXhKUHFINkNybjU5YUNaSVNuM3JwSkkwYTQzNmlpZEdXR0VseHAtMUx6OGRTQ3NidmFRbENoRkpleF9ScVF3c0Z5R3ZxdGlfY0hVbFpJQklzQll4R2ZjaDFCTzVNLWRZN2Fha0Z1VGFJZFHSAcsBQVVfeXFMTjZ4WXRFcXQ2S25DanNZV3NFQ3JxaGhVYnFlTFhoWkVXbUk2VGc5OG1MZUwybGxfYmlHQWFyXzR1SzZpM2hXQTY3bzZxSnVudktOOVFaa2hRUDZSN3FsYlVSUlJKT2pldVdqd0dRY3ZVNnRkTUFiYU5xMUZXb01YazNwdlEzTUZrTU5zZGt3S2h1SlY3WnVJNUZKYzJQenRvWnNHbTZzQjNGcVJnYi1YZmpWbTNfX1Y1eDhOaUw0aTZ6RGdRbmdQYzhBcGc?oc=5",
    "data": "2026-11-12T01:00:00+00:00"
-  },
-  {
-   "titulo": "Sicredi Recife e Movimento Econômico fazem evento sobre economia e investimentos",
-   "fonte": "Movimento Econômico",
-   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOczZaenhyRFhJYlZuWHFsZXhNcjVkZjZER1JPOXpEVjRMVkxrQ2pMYzk3YkhjR0ZUQ28xZ2JtUWhqREY3dndSSDZiUXIxWVNpM0ZybDV3d2FiVHFQc1J5aUdwT2diUVY0UVRaS3RMMVJXWkFDNkRFTm9vdHo3RHhVVGlQVGFrZnd0TVotcjFGNUFqWWx2UjBQbnV3QzB2Q1E4WTk3UzRmSFJNaHVaTE56UU1wdUUzRUVfNGpSSjdDNXhRQm9ncFdtbENNSTV3MDQ?oc=5",
-   "data": "2026-11-12T00:54:12+00:00"
-  },
-  {
-   "titulo": "Bolsas da Europa sobem com tech; Ibovespa e dólar reagem",
-   "fonte": "TV Sim Brasil",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQSVRuMDAwZ0JjMGpTcVJiVEdKbVkyTlhBZHVMVUpscUZNSXpfdG0yQmNpXzFFaWwtLUdWYjBSd2RvRnptSVNtMlI0NE5nX2tpckVqdk9YRGtnNi0wSmhmQjIzRC01bS1hdk1uTzdiUG1VbzZuamhpa1IwLWNySWM0SHFJVlgxV2l4U1djb2V1SURPYm50a0tMZGg3NmFGdTN5LTAwa2VuYzVUT2JV?oc=5",
-   "data": "2026-11-12T00:29:00+00:00"
-  },
-  {
-   "titulo": "O “Dólar Brasileiro” como alternativa à Selic alta",
-   "fonte": "AEPET",
-   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQMjdvYzY3cEdBX1FNR3VnS0dVODJ6WkF6VHg2al9fanBPZTg2UzRMSjZIZTF3djZfdGYwUlhlbE9pU3VDWXRDNkRkYV81QWItVVlkRktidTZYbUtPZGV6Q01DYVJEQWRUNV9aMk1jbHB6eWs1U1BqNmZzelNKWndxTTlPRQ?oc=5",
-   "data": "2026-11-12T00:24:19+00:00"
-  },
-  {
-   "titulo": "COP31: MS apresenta projetos de conservação e adaptação climática para atrair investimentos",
-   "fonte": "REDE BRASIL DE TELEVISÃO",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNWTNNTjdsQ25LVWRjMDBQQjJfeS16ZlZHWV8zSmJJTU1kTXBUWW00Y3QtRERCUU92UVc3WHBMMTI1SGNEOU80TXR0ZzNseVVaNTVZVWNMNnVrNGxjLVh3QW9SUlhHUl8waS1UazlubFppRl9xSFVsejBqc0NVYzN6YWtvTjd6Qm01aGRlSFI0enZwZGcyQmk0cEktUnNPNk9fZzJ5bjZZczJzNk5Mbm5oY2NvZGM2dzNfWVRvM29wQ3Z2dw?oc=5",
-   "data": "2026-11-12T00:21:08+00:00"
-  },
-  {
-   "titulo": "Dólar cai a R$ 5,56 e Ibovespa sobe aos 172 mil pontos com pacote fiscal em foco",
-   "fonte": "A Crítica de Campo Grande",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOUDJyYTZ2cUg1cjBVMENjbXZZM1NuREpvbXV1clNFT0NpV0dhYTA2SEZvRXc3eVVsUUJrd1JQT3pLQTNsWkgwUU85cnptM0lyYUFsSVhpV0tOOFhQRlVSRmRIZGpZZk1iMEkzWncwSzlrNmJZd1N5SGloajR3Q1FXcnN6LWxJY0NrRnloalVzVWdsSmtJTWF6RGU2R2tmcE9qeW1aWGRyV21OTGla?oc=5",
-   "data": "2026-11-12T00:10:00+00:00"
-  },
-  {
-   "titulo": "Ibovespa sobe com NY e dólar recua com correção e foco no plano fiscal",
-   "fonte": "TradingView",
-   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1jQk1VaERDQURqNHpkcE1aLTU4TUNpQlpudC1pMWxoRFBPSDA0Tm02N3VSR0VTNENkdzB6bFBnRW9qa2xlVGlFcEF3d1FvQ1pyRGxGRlY5R3hZcXBWRDBPZFhPdTU3eHlLZGM2SlcyZWxDZ1Q3RllZ?oc=5",
-   "data": "2026-11-12T00:03:00+00:00"
-  },
-  {
-   "titulo": "Amazonas pode superar resultados de 2025 em investimentos e geração de empregos na indústria",
-   "fonte": "SIMMMEM",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQaDdOQW95d21CX2FXdTU2RGlTODkzeTdHYS1udENkd2hOTkZjZzJVWkVXS1ZpMjFKcWZpR00wSElXQ1duS1E4a2ZPRGhxSkJxbGtqUFVTbERjYURJLUF1a2dTLURvV20tWFJfaTFkeUZMSnRXbktuczNqUWIxY19xZE9oY2VXblBfSmcydEJ6Wlo3OHBWeDJjN0xPV1pjY0ozN0dZdmpMYlBTRkNGMU9kNEF4ZnJuT1NIYWgxbg?oc=5",
-   "data": "2026-11-12T00:02:57+00:00"
-  },
-  {
-   "titulo": "Petrobras amplia capacidade de 11 plataformas sem novos investimentos",
-   "fonte": "Agência Brasil",
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNZllNc080ejc0UmJfOGZMellSenEtNXpCX1JpXzNwOXZfV005YzAzTG1oVW1ZOFR3b3BlN3JRcGJ3Q0FFbmczU0xaTUhsZmpZRjE5WU1NZS0tRHBBY3BIRmlsYnBFbloxWGNMd3ROS0FQTzlSU1lmaHA2blZsZDRSZEgyV09odThZcThBV2ZQdGRqSVpOdkRsV1dpUG02VzU1Nk4zd3VwYl83WGJadDJac0VvQXJzNWFPd0lUTVkwTXFFRTQ1Z0E?oc=5",
-   "data": "2026-11-11T23:19:00+00:00"
-  },
-  {
-   "titulo": "Dólar cai para R$ 5,56 com pacote fiscal e Ibovespa sobe",
-   "fonte": "Campo Grande News",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOUW5NVks4eW1nQ1lxeFhSaDRNazh6dU51cU4xQ0lpSVRfdHdMTDUta200MTB6eS10d29CZUZSQS12ZDVkc0t2YTM1Yk9QblpHUE5RSVpkN1lTNFFadjJ6eTZENmUzMjFmVnZjZlA0ajBMNWwwWVZqTkFXV0hjLTBQRmppQWVoZWVRUXRZVm5lMlBjcGpvdk4zMU12Z3lSaHJvLWN5VjJVS0VrMHc4cmZN0gGvAUFVX3lxTFBWR0lsTEN4b1RhNkN0eGMzN2hoSGRiRG41bW1NWjFYRXdTaDFNV0ZaY0EySTN1S2xUSTNGNkNwZW1VWWZtU1R2SW5lRjJrRTc2SzNVYjZIaFcyWUdZOHY4YnJSZWFQamVJOGhnMXRYZzdGQ2g3aDd6QUVmMVVSdVZDb3o3VF9hS3NvcDE2ZXhybm96YlgyWlBFU0FxemlJS0JhSmhpcTVQNlY5enBGRmM?oc=5",
-   "data": "2026-11-11T23:09:00+00:00"
   }
  ]
 }
