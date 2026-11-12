@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-12T13:16:04+00:00",
+ "atualizado": "2026-11-12T14:57:05+00:00",
  "indicadores": {
   "selic": {
    "valor": 13.75,
@@ -7,7 +7,7 @@
   },
   "cdi": {
    "valor": 13.65,
-   "data": "10/11/2026"
+   "data": "11/11/2026"
   },
   "ipca12m": {
    "valor": 4.63,
@@ -17,76 +17,76 @@
  "cotacoes": {},
  "noticias": [
   {
-   "titulo": "CAPITÃO MARTIM DESTACA PREVENÇÃO E INVESTIMENTOS NA DEFESA CIVIL DO RS",
-   "fonte": "mundial.fm.br",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPNmx3WC1Qd25yUTJjUDlIa2tBbU04U3lHZTFoNEdBV0Q1aFJlcmdVVndQRlRaaURJNmh2QmduenFXSDBOLWhkNm4xYS04QWdaR3dacTFEdHJ6bWM0QXE0ei1oY3hkSm5DNklxOVBYZlBBWHQ4Nmlhb19aQVZlenhxSHd5bklzT1BlSHE3VGdVR3BxNVZyaGpNaw?oc=5",
-   "data": "2026-11-12T13:15:19+00:00"
+   "titulo": "Sicredi Veredas promove encontro sobre economia, investimentos e o futuro do cooperativismo no L’Ô",
+   "fonte": "Portal IN - Pompeu Vasconcelos",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOejRGeXpBTkUtakNaQmdGRFJxYlNrTXRvM3Q3TWVpcXVnRTNiSk1ZUFdJV0RiLWZ0R3RuU2Zfc0xjazFUUk1NRndjS1JBX0lOSk1tYjVYelVvWXNQaEFEeTdGazkwa3BoZFctOE9lRVh2WTJsR1U2NFp5ZkpTNVRHZGpsNlB2dWpHenVNV0ZnVEgzY3Y2cXBGODhvYkNuQlczUm1xWEsxY3VqeWxsc183dm5feVJVTXc1UW55UFlHaTVQMkM3bjBOVFVR?oc=5",
+   "data": "2026-11-12T14:48:00+00:00"
   },
   {
-   "titulo": "Inflação cai a 0,14% em outubro; queda drástica para o período",
-   "fonte": "Opinião em Pauta",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNU3NESjktZ2hyZjZDV1dybDkxLU9KLWxqVU44U1JhcnBXX0Z2d1FuYllYZm03ZE1JTERocjRjZVhUbTdUdFctRkp0ZFBIZktNNkVuV05oLU9NUlJ4STdGN3QxRkszUDh3UGFoVUJJUXZnR0trV2tvcExoTVRWU0QxNXdlWHBOQ3B0UXZlUW1NQ3B3R2Qz?oc=5",
-   "data": "2026-11-12T13:06:00+00:00"
+   "titulo": "Ibovespa operava com queda, Banco do Brasil decepciona, fiscal pressiona e saída de Jensen Huang da Nvidia amplia aversão ao risco",
+   "fonte": "ADVFN",
+   "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNU0xtbWN6YUR5ZE9fS0NqOFg3UElvbm4tbFVzVTFRajA1cVljdmtlSzBQMlZfNHNibmZDbE1zbVNZOWNCQmFEQUlJVjloMTNJbmdhcEpwRjcyeXJ5WWM3akFKTnFLSUFWZ01CZGNwYm9nVmRMbEM4c3lWaXllemFkU0NUckZpbjRQQkR0c0x1a2tNTWswYklWX2N3TkwtNzI4Z3NaVGp1aEUyY2txbGZTUmltXzQ5TnJrN2tYV3dlenhrM25YVkVDX0ZsRS0wSUNYSG5QVHJWaDc5UjFKUERFbU9sSHlwN25xNGhDTUhyUnI5cDFhTGpR?oc=5",
+   "data": "2026-11-12T14:47:58+00:00"
   },
   {
-   "titulo": "IPCA de outubro desacelera para 0,14%, mas alimentos pressionam",
-   "fonte": "EuQueroInvestir",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQU3h0eUZkc3N2WGdhSnFrUjNid2w2NmItZmRYQjdkR2pQNUJsa1hyUHUxOTdIRXlQbXlLOGN4TmMzTHpWdk5zSS1UWWw4WWlkRFB5QlFjTDJkNzZVQUJKanJQc3h0V0lncXExMDhtNmNLMHZhRXpsdkg0S0xLaF9PeTMxcld1ZmIzY2ZUZFpmRHltejI3TmF1dUw1YTQ1dw?oc=5",
-   "data": "2026-11-12T13:05:03+00:00"
+   "titulo": "Dólar hoje sobe a R$ 5,592 com IPCA e pacote fiscal no radar",
+   "fonte": "ISTOÉ DINHEIRO",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5IMEc3U0oxV3lDLUlZQkhTdFdDZTZ0Ykw0MWItQnJKR2NPZU1PVHozVEZFVGRIV1BiREFTZUFWaDBPTFdZakZkeF9XbjZqZ0JhN0dKdFNSdE5EcmR0VGVYeDVrVHlVVWR0SU9wMG1EdVFvSjRrODJHbQ?oc=5",
+   "data": "2026-11-12T14:45:52+00:00"
   },
   {
-   "titulo": "Meio Ambiente ganha voto sobre investimentos, venda de mineradoras e projetos de minerais críticos",
-   "fonte": "Capital Digital",
-   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOQ2g0T1hBMHBPb3JvSkxrT1RiZVNSYkJXTDBTcGlZRUN3OFZpcktMUzFoLUd4MzdGdnVjeVRtRHYwUTh2Tm03NkhVam1xMGI0LU11WmFoNVFfdGxJQ3dLN2VUY05GYk9jaTdNV1ZqYklBdXJnS3ZkUF81ZU5Tb1gyR1M2eWdjQkUtM1RpMExsU0FPTmp5QWpuT3hkdnNzeGYzQmlXWmlvRWczMnpxbm8tNnJNOEplQ01qVzF2amNkamk5NVhlQjBR?oc=5",
-   "data": "2026-11-12T13:03:55+00:00"
+   "titulo": "Inflação acumulada de Fortaleza desacelera, mas supera a média do Brasil em 0,8 ponto",
+   "fonte": "Economic News Brasil",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNb3k5bzFhWW5LQVA4anNPTlE3TkY1dFdHTDVYWlFvOFF4MFpzWjZOcFdOZEsyeDRXck5BOWFLWjdVMWM0cExwSlA0Q0tJb2wtTXBaZ1lrbkZmYW05aDZkYktQUmZtcmNpSlA1SW43MEtuQVN4dG4xdnNNRElTV08tNkdFaWNyaWc?oc=5",
+   "data": "2026-11-12T14:45:00+00:00"
   },
   {
-   "titulo": "Alta de alimentos leva inflação a acelerar para os mais pobres. Entenda",
-   "fonte": "O GLOBO",
-   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOSS13NVJwb0dUZ0JDTWUzWG4yY29BZHN6OWFDSXNjcXZQdXhZUk1ObzB1dkhNN0llbUtVREwzR1J4eTFCdVlWYU5oTzNZQ0lFbTRwWUh4ZHlGYXZmcXh6SWNpeHFRdW80VWhBM3ljcmdXdWxXNjNkVGtXSHVwNDV4YXo0YzFIYU1sZTRYRjRUWGFYNDhBZklGM2ZTbWh6ZndndmJjejZmWDduTDhFdGNDOUNBdi1EVDVoTzRPOTR1eGF2cV9ZektON2kwMWR2YXfSAd4BQVVfeXFMTno0MmFTT0dfd1NCNWJUU1kyTy1xcFdHdUQzUGYxOXlPWmVUUHk5R09hTy1lNk44RDhLdGVHbWdZRERfWkVLWGY5UV9TWTViM2JKRndMU3gxQlNPYmpCZG1DbUt2THlEZXhtSE9PYlRkem5RRmdlRWtkaUVDVUZ5VnBhM1pwRVRzbnhsNTlKN3lkVk5BX2FPY1hmREtxR29FOE1kNEN4QjJFbTlyN1dXZjhtYlVoTjRqR2hMSWRBTVE1Y0hzRkZ4cnh0RmsyYWhxazJ0bWwwT1k1RWdvV3Fn?oc=5",
-   "data": "2026-11-12T13:02:05+00:00"
+   "titulo": "IPCA tem alívio em serviços e núcleos, mas alimentos devem manter Copom em cautela",
+   "fonte": "InfoMoney",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQV0h1RUVEdGpWSm10VXllVHpBMWV0bWN5RFFicHVaRUttRjAzbG44MzBDUU9XOGtfSVFscm9TM2RQMGZZODg1azBIdTYtUm5aa1g4RVpCandoQUx6Nm9vNjI2MVNFV2hsYjl3aFJ5ZUE3OUxVSk5mT1FORkZadVhMOC1fU3ZHbTE3dFhMM3U2X21NZ9IBlwFBVV95cUxNendYbWQwYmZfYWFBNWdGNEtmNldybjl4V25Sb0tiX1AtSktVMG54ZTQ4eEZ1ZWZmaEdPdEF6UFdUa1dKWHRBTng2eExiZXZ5NFdaUEdTTy16aXdLMldIYVlWQ3FZVWRJRDJtanB1Z2VOaDRXeWhaalZJODVKSmJYclhnNkYyUmZTOU5mNUFZcG55ZWhXVEJF?oc=5",
+   "data": "2026-11-12T14:44:48+00:00"
   },
   {
-   "titulo": "Criação do Fundo Caatinga é aprovada em Alagoas e fortalece estratégia de atração de investimentos",
-   "fonte": "AMA - Associação dos Municípios Alagoanos",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQNVBsTXZmNy1saTNsNGdwc2ZDQl9WNXY2Q2ExM1UtelZsOGo0c0g0akZlOGRfYVRRVW80N1J1V1hrVVVTUjFNX3kzNTRVT2JjVS1vY3BQOThXQ1NEQ2VvQV93YUFOUjRfX1pnZ0pDWUNqQVNoYkxGVG1lZGQyeVlPTVE5a2R6eTFkRnhJUkFkd1RSZjdJMzFyOWRnN3NPN0NadVNMWEg1eEpLNElDMVdPS0dXYVFzMGw1a2lIXzd3?oc=5",
-   "data": "2026-11-12T13:01:32+00:00"
+   "titulo": "Lar Cooperativa anuncia investimentos de mais de R$ 1,3 bilhão no Paraná, com projeto de expansão em Laranjeiras do Sul",
+   "fonte": "RRMAIS",
+   "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQVjhKcmtYRk1BS1RQck1UZlRSVEFURVlYcDNrTVFPZXlheDRQMFo2YnZ0a0kxZ285WVhUczJ1Ny1ISFJHNnlCRXJNR0tYam1vMVhRSU50cFU1ZGdsa0lNaG1JOGtPdUdHM2duY2lxaThjclZCUGxhMm1idFprTy10UlcwUmNSbDB5eGc4dVBiNGNQRGV6akZtVWRFY1FMOXNhclpTbmNfczNJdHJYVnhOZzNxMU9CZjU0cXc4WXFGeHdkaG4tN2wxQzJSX2JTcDNlVlBqanBBcEZjcGlXVExDNTk4czJ6ZmE1dUJUV0U2cjNlVzN0?oc=5",
+   "data": "2026-11-12T14:43:00+00:00"
   },
   {
-   "titulo": "Inflação desacelera para 0,14% em outubro, com recuo na energia elétrica",
-   "fonte": "viva.com.br",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOQUFqUExGR0I0c21TVTNOX0xRYWFjUFozTlJzLTFBQXRFSzVoSXRTcVVUendPR0JGb2tHMms3MHA5Ql9aQlRVT1BIc21zeVVjY1hBcGlvR2gyWEZ4b1VMLWJ5U3R2ZXFiYTRkOGFfSFRkVUtUSEc3LThxZ2dlNkhSVU1iS2o4NEI3YzV1WVpGZFQ2Mm1Uc01mTHZGdUtDanNZci10alh3?oc=5",
-   "data": "2026-11-12T12:57:00+00:00"
+   "titulo": "Na COP 31, Governo Lula detalha pacote de R$ 51 bi em investimentos",
+   "fonte": "Poder360",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNTnhoR2h3LThXVXJHYjFpMzJ3T0NvRU9QZFZvcTVkQkFXc3o1QUNaQ3U3d2VvdGJ1SEIzd3Z5Q09ZaU5rQ255dDdXZXFaNkdqbVdTM0JMenVjbVo5UmtmX0FMVXV4T2s5MkV4U2F3cEUzZFhuaGUxN2YyQlhuSjFTa1FXVjY4bjhGSnM4U1BsYmViZmIxamxkS2RYU0pMV284akdDYzZJV21sTk0?oc=5",
+   "data": "2026-11-12T14:40:03+00:00"
   },
   {
-   "titulo": "IPCA deve ser de até 0,39% no último bimestre para inflação ficar no teto da meta de 2026",
+   "titulo": "Inflação de alimentos é a maior em quatro anos, com destaque para alta de tomate e cebola",
+   "fonte": "Folha de S.Paulo",
+   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPcnZuSnpsUWREc1JkOVRZanp6Z0ZxLWZLWmR3a2hEU1RvcVhzVURzZGVPWGZVM01FamV0RHhrWWpzNmJza2RPSVppaFp6andBRDAzT05lcWRGU1ZuUHM5c2ZiNFp4LU4wVXBSUFdwMVFEa29SNUYwdkRnaVN3TS1XZks4T2VpM2ZnR0FxTUtIYVh2dTRQc1ZSOVlITDRUUVBrTjlBTWxxbFdIUkY1MmxFb3dFLURJS1VOc2VFdmFLUHIzTVJoUkhwZDc2WEtUbC1UamplZWRQcw?oc=5",
+   "data": "2026-11-12T14:40:00+00:00"
+  },
+  {
+   "titulo": "Ibovespa iniciou pregão desta quinta próximo à estabilidade",
+   "fonte": "Monitor Mercantil",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPSUp6Tngzd0gzXzFYZHpEMEZGU1I2NFJBRWo3Z1NqRHRFeDdIX3cxNW5wOEhNZVdaUHI2bmdfT3hFVXc0NXFrVFhtRDd5QWJkWW5mcGI0NjNPbUVnb3owSEpjRkdNTjVpTTJlSmFvYlF5T2E4UXRCS2RoTDlVY0pXVTM0U2gwTHVFQzBhT1BGTG1rUDVJRy04?oc=5",
+   "data": "2026-11-12T14:38:27+00:00"
+  },
+  {
+   "titulo": "El Niño, problemas de oferta e preço do diesel explicam alta de alimentos e bebidas no IPCA em outubro",
    "fonte": "Valor Econômico",
-   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPbDV3UGw2X2ExRXExT1V3TTQwZVJPQ1prS3RhMkEtMW5HZmY3Tk5YWFFHc3FuMnBWWmpuUXRVSEJoZ0NSb2hiMG9ndWg1UWV6akdDLU5rM3ExTkhqaVYtb3d0b2xjbGhyTE5GeTNGNURydzFON1dOb1FYNG9kRjdoV2ppMVc5bzJsVWszYUFoZDBNa3BVNmQ1VVR4SmYtZ0lrMzlOMmdVREU0NE05S2pWNnRwYXdqZm1DanpMLU13NU5iVzVMSHA5bURqeEE1anhKbnJrNmdMOThsUXhmcnF5S3plVjI?oc=5",
-   "data": "2026-11-12T12:55:17+00:00"
+   "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQLUE5VFM5VXJGSVdyY0U2akdxcmVLY1RCczBURVY1alJSZ191cHpYY0F6eFNBWUszSVFzNmE4WnZxV1FsSGlPa1M3c2MtOU45NnFUdm1SZUU2Vk5YaVhEV2F2bEtOdmt5R0h4d1dtSjhnT09LMEFIY3RPLVJYOW4tUy1ucjRaZXlrZ3M3NEZ0QWtfUkQ1U1JQbUcxVUxvNDktM2E4QUFzdGVWYXVhV1FMRDExMFNiazR5eGJxTk9iWW1aS1ZQZGduOHNzYTNoWktuckpNZlRFa1QzdVNZZ3NGeHZnMm1mU1VZT0xCU3BR0gH8AUFVX3lxTE5XNEswaVhycFFsVXZqZG1Ia21feHQyemQxeEgzZGVCQlN1UXdjZkhVbjJvM0VzbUozTDRTV3JsZV9QRk9TdUJzZzVIREdXcHpwUWtDRUU0NnhuSWxkU2hRSDlfOUVLQk52TTMtSmpkZUZ6NXRvTkRoVnNFWjY0eHhjbFp1aGlaMVNvUExlelFnUkxpUVNjWFBsdGl1OW1VQ0QtX1k0RlZRRTR5ZTZfdDkzMXhFMS16amVVbjFEMlF3dFg3VVdxNEpLYVNBRUVBTVltTm83YnJDdzNLTGVHajRvOWhYRGZ0eTYwWEQzYm1JU3JObG9IbWdvMUZELQ?oc=5",
+   "data": "2026-11-12T14:37:58+00:00"
   },
   {
-   "titulo": "Abertura | Mercado deve repercutir IPCA e balanços em meio ao exterior negativo",
-   "fonte": "InvesTalk",
-   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE8xMTZ0SFRISl9SYk1YaG04OWFFSkl2NzZuMktpTnZycUFnUWVMemhsenZHRUFXYzRJMlVhT1Y1aXRBQVZwbldnaVA5dE5oQk90OHRxb2l1Q3pPb3MtRFNLN245ZGR1V3pVTno1enpOQjFzeGxERVE?oc=5",
-   "data": "2026-11-12T12:53:00+00:00"
+   "titulo": "Inflação desacelera e fecha outubro em 0,14% após alívio na conta de luz",
+   "fonte": "OpiniãoCE",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNYXR5VzhfMGF0eThUWHpJb1pTU2NrU2E5N1JBRnZiZ25iWjZOQnJrRFFpeXZRaHZWTEhlalhYUTctbmU3ZW9tcTVKOEpRTEY0cnd4U1pLdFVnQURuMGg5alRzTG1yVHhjRzZoa0s2RU9IbEgwLVQ3eGhGSllfaVZDY1FFdV9hNEhPRUdrQWkzMWFkVklnLXZJNFhwdzctN0RLMkJtTEZ6SThkbWZRSHc3Rk5aUksySlFlN3VwUw?oc=5",
+   "data": "2026-11-12T14:37:30+00:00"
   },
   {
-   "titulo": "B3 compra 40% da empresa de índices IDEX de olho no crescimento de ETFs de renda fixa",
-   "fonte": "InvestNews",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOOHM4SGdCdlFyM2x5ZW10VURrY1BubzJ6aGFwZ1JaZDNvZE91QlV2bWl1V25kWVF3dUd6NUM5eTdVZ3A1OGZicHR5TG1mamNsdGhtMVQ1eDRWeGxmTzdoLXBfTWowSURpQjlfeWxmRmdvVm54b2p4UXZJYVpXcWNneEZjYTVuNWhhaVlBbDhSTHVuVkhpUEFCNDdvYjVoRmNxa1NMUmxrX2s3akZrc0Y0ZFpBRzVEbF9xaHRZbWU0OC1nZk3SAcgBQVVfeXFMUGVtanVhck54SFVHcENaSkdDR3hWV2hQbU9xVDZtaGlWUFpsT2JDbFRIRlA4a0JuX3hGNG5TV3ptLUs0VHNZVWZIVmZYclQwb3R4Rk12SlNCR2RPSkRBMExWbjhtcGMyZEZtdFZmdHhUR1JjdFgwYnFwUHExb051R3RUY3RrTTZONXZEeEoyT0lPVlF4a3hONElfQ2JBUDU2THNGLW51RFRrX2lRQ1Mwc0F1dGJQU09jUkMzV2wtMm1iczU3aHBsZm0?oc=5",
-   "data": "2026-11-12T12:49:33+00:00"
-  },
-  {
-   "titulo": "Dólar avança com adiamento de votação de medidas fiscais e IPCA no radar",
-   "fonte": "UOL Economia",
-   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOZEtQZHozSm1Ya2t1N2ZnRnBsbVBmazczUzkzOW9NeXY0U2lYZEpjVU9NWWJfTE9qaVZRbjRDaHRtdUh2X3BVRllRTkFBS0pIWWZyM09CSmtPbWRaaHhWejNLT1p2ZGN0QTZycGl4Z3RVN0NEejhRYS1GQVF6eXdtTHhSdjBCS1lsZUk2ajA0LUxPS2JGa1FzRXJGd2Z3NC1MTXg0UFl5bzBFcWEtRi1UN1lUUjh6UHhoemM3azh6bEg0NjJiNmtzaW4wWWZTQ2tBUlExNlJaVQ?oc=5",
-   "data": "2026-11-12T12:47:50+00:00"
-  },
-  {
-   "titulo": "Elias Jabbour vai propor PEC para garantir investimentos de 4% do PIB em infraestrutura",
-   "fonte": "Brasil de Fato",
-   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPc2M2b0Rld0RwTDJlMHRCMXRWXzdDZmpJLWVLVnB5WmZpRVVVMHRIUTdpcC1lRTFqZlp3ZGRwdE1CYUNXOWFMOUdLYXBWSUgwOUJsckxKU3NpT04zeFBEMmYxT3hfV1IybmJ3SG90VWR5NUd0R20xQXpnbDJvc3hXYXBXWW9xZmVtSUlKMHg5ZlVaVGZzbU9hbTFIX3h2dTdpZktSZDQ1XzF1a2xnaUwtaWFFSkN6cmdqaFUzSGFpWnVESEJNcFhoMUxB?oc=5",
-   "data": "2026-11-12T12:47:00+00:00"
+   "titulo": "Inflação e Reforma Tributária mudam a conta das empresas",
+   "fonte": "Mundo Logística",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQV2k3eS1RM0RrbGNPNkY2ejRkanFpbElCcHdzdmxCYk5RekJ3bGJsaUtuN09HLXhxQ1NONzlwYXdMaFJJYkVGUE8yN21BaXY3Y3dKbGxfbGxWWTQxQ2JvN3FpNEh3VmtVMmNDRHRlZ2R6R2xON095c1lCMnR3QWpjRkJNNS1sZDJySnNnN0J3?oc=5",
+   "data": "2026-11-12T14:35:43+00:00"
   }
  ]
 }
