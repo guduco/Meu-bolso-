@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-12T02:53:46+00:00",
+ "atualizado": "2026-11-12T03:56:48+00:00",
  "indicadores": {
   "selic": {
    "valor": 13.75,
@@ -16,6 +16,18 @@
  },
  "cotacoes": {},
  "noticias": [
+  {
+   "titulo": "Rupia indonésia atinge mínima histórica devido a dólar mais forte e riscos políticos",
+   "fonte": "TradingView",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE8xODNHazlNOXA5MDhNU21td0l1UTZTVVo5cVBPdGpOMDluYnpiRXZXN0NWRnlfbG9PbHlhcVJITkw2SDVVd01GeGp6QnZvc3BoSUpQb1JvLXBVVmh2d2tLcVpWY1N0c29FZnVCUEZlMElXZE5vUndR?oc=5",
+   "data": "2026-11-12T03:27:20+00:00"
+  },
+  {
+   "titulo": "Vilão da inflação? Entenda por que o tomate está mais caro em todo o país",
+   "fonte": "O GLOBO",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOZVhOMlc4QngtM2ZYTWNyTXNBa1RpdGRrb1hvdTBiSl9yelk5MWFkdmM4UENHNzRyYm83WGItc3lmNHBIZFUzZDU1M3FvLWQ5MEp0YXVEY0EzR29PVkEtN3VBOHpGUlIxMnoxWUxZbElhSDNwRkpuTUpJTVA5Q2NJaUhEM0ZlUksxal9PYlBSekdoZ2ExVkQ2Y1pxYkltNXQ5MGVuZW55MVV5QVZNSjNyV003ZFJpWUZZZkFUTU82enJYOEJ1Zmk0d3g5NNIB2gFBVV95cUxPWWFtT3pJaF9CRTZkUWhxX0FGYkotdjhwWF8tNlJJVUFpTnBNTklZc0tlRjh5bTVmZHJEaG9kOFhVT3VXSC1jUUg3WFdxRlJ3UGpMZ1k3Wl9HaFFDZHJOV3VwQXJXY3lDNVByejN1WS1vN3FZbE5NVUtDcEhYS0VhTzh2YzRnTWVYOWY1REFoR1Q5VzhWQ1RlSk1fZEFwd3pzcjJhWVZwa3RsSThqcGFSMFAxOXRraFVVY0tmVjBVOXI2THptX3U1bDBoQkdCaW0yLUpORUYyWGNLQQ?oc=5",
+   "data": "2026-11-12T03:00:01+00:00"
+  },
   {
    "titulo": "Cotação do dólar hoje: moeda cai a R$ 5,559 e Bolsa sobe",
    "fonte": "Acia Araçatuba",
@@ -35,22 +47,22 @@
    "data": "2026-11-12T01:56:52+00:00"
   },
   {
+   "titulo": "Com atividade mais fraca e inflação, cenário é 'desafiador', diz Galípolo",
+   "fonte": "UOL Economia",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNS0NtUjBqVC1nWXVJRXJxNUphR01Xck9QRXhBOG1WTlR6U21CM012OXNESEk3cVJrNHk3VGtkNXdrUGZoRTNfRlZlX1N3OXYxNmdPRmhEV050Ny01WDZTbWRWWEVCLWtOZGdqWU9ZbWxpSVRad0FsaTF5cjhfUERscHBNT0tRR29yU0lVSVE3UWZBRUtSMVF1LUFBT29hbDA4RUNhOEd2MTB1d29xZDdmdFdKTFBwd1QxZ3hyczRjMDMxaHFrSHBMRE1B?oc=5",
+   "data": "2026-11-12T01:54:55+00:00"
+  },
+  {
+   "titulo": "Dívida pública Ajuste fiscal de R$ 60 bilhões anunciado por Lula mira gastos na saúde e poderá diminuir teto para investimentos nos anos seguintes",
+   "fonte": "Esquerda Diário",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQMHkySnJLR1UtSzA0SjEwaTZYaXdFbTR5cmRRZmFhTkwwNkpxQmc1UTZDWFBsUGFWd1MxNkJzbXlPUXdFOGtJRnMzZTlnMU9CdGRHVW5Ob2FaTTZyTUpVcFRRNTNtZENoWDI1QXF6c0c2SnN2UE41Z3BrcU5ZUTlabkdEU20zSGZfZ3p1SXVvRURmby1rRVRrTHlldkx3Q25qVXgxaUU1QVd1QTA0N2ZsYUFHT01qNzcxVnNJWmd3VVJNZTB5aXJXQWxB?oc=5",
+   "data": "2026-11-12T01:42:24+00:00"
+  },
+  {
    "titulo": "Queda no Ibovespa após vitória de Lula ainda não acabou, alertam gestoras",
    "fonte": "CNN Brasil",
    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPQmdKREc3MzV6WXVKWV9uN294clFVMm1sSVgzOHRSZ2lhaF94Nmg5RlhzSjI3bkxJUVpRNnlvaVFUNnlaQnNDVVNoRW5qTndtR2ljSkd6OGVrNW9QRkhNZ21BdndBMHUwNkRVd3BHLUZNa21GMjBjU0M4ODVnVzZqSHQtS3dFMXJNTkY5OWlSbXlVM3ZJWHM4aEx4SUtfdlQ3bXdmOXk1dUxNNkJZZzZlUg?oc=5",
    "data": "2026-11-12T01:41:19+00:00"
-  },
-  {
-   "titulo": "Dívida pública Ajuste fiscal proposto de R$ 60 bilhões por Lula mira gastos na saúde e poderá diminuir teto para investimentos nos anos seguintes",
-   "fonte": "Esquerda Diário",
-   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQMHkySnJLR1UtSzA0SjEwaTZYaXdFbTR5cmRRZmFhTkwwNkpxQmc1UTZDWFBsUGFWd1MxNkJzbXlPUXdFOGtJRnMzZTlnMU9CdGRHVW5Ob2FaTTZyTUpVcFRRNTNtZENoWDI1QXF6c0c2SnN2UE41Z3BrcU5ZUTlabkdEU20zSGZfZ3p1SXVvRURmby1rRVRrTHlldkx3Q25qVXgxaUU1QVd1QTA0N2ZsYUFHT01qNzcxVnNJWmd3VVJNZTB5aXJXQWxB?oc=5",
-   "data": "2026-11-12T01:41:15+00:00"
-  },
-  {
-   "titulo": "Ata do Copom aponta quatro riscos à inflação e joga pressão sobre gastos do governo",
-   "fonte": "Rádio Pampa",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNnRVc09kNnpZR2xtV0dKaVpldWFVRnFFc2lHUGxJZmJCS0xUU1BWYXhEanFMSTlVNXVqQTlweVpqNWlwY0tvSmQtYmpEUEN1VE5JaVNUNU5TTHdpVENPLXV1QXA2dmZvdzJnNl9yc2VLb29md04xcl85a1liV3Y5aGVvZWswOUVkSVlHYnk0VU5vWkFoUFBpNHRHZFZjQm5LclBVengyR0dSelFVWS1JRXF3Zkk?oc=5",
-   "data": "2026-11-12T01:34:15+00:00"
   },
   {
    "titulo": "Fluxos do Rebalanceamento do MSCI Brazil – Novembro 2026",
@@ -65,12 +77,6 @@
    "data": "2026-11-12T01:21:58+00:00"
   },
   {
-   "titulo": "Ouro se mantém abaixo de US$ 4.000 com temores de inflação",
-   "fonte": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOUk5mcGFLQWJoZzBJMVc3U2pxVnVqWTlzSmhPNGhzMjd2RFMxTWFNWjg4bjB2eF9aMjMzS1AtRERMenMtOEtTaGR4RkpYd0c4UDZCQTBENzZtc0l3UUJqS2RyS0syZlBrXzh0eVE4aXNPZ2dNQTJBTTVTSTdQakJ6b01kTVVjOF95T2lNT2VBd2FJdUZVaVgxVjNGdXR5b1NWejlpcmhjeUx3eXdEZUhiUg?oc=5",
-   "data": "2026-11-12T01:11:00+00:00"
-  },
-  {
    "titulo": "Lucro trimestral da Samsung Fire & Marine cai com receita de investimentos menor",
    "fonte": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQU2RvU3dlRWZVWW80WmR1bUZVN2FidXBfVWJScVh3ZVlfbHZvQVU5eFE1c01nQ2ZZX1JLNTV5aDlIUDVNMFRkR3l1V1VSeVRrNFJoTnBJU0tfZ216ODJpdFlSc3JTay1aWDhQMGF6bHVMTF9LZjFBUFdieW1vdWJMekhYZVZuS0NEekMwYjk0anZ5akQzMnUwM2JXbE5HU1lSYzJrYmpEdkl0SmlQR1pqMjdqUlFQOFhlVVI4RnE3cEEzbXg4?oc=5",
@@ -80,12 +86,6 @@
    "titulo": "Galípolo diz que crédito consignado do INSS segue crescendo mesmo com juros elevados no país",
    "fonte": "A Crítica de Campo Grande",
    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxONHNmQXdJUzVUeWJRMVFfNWVpU1hlRVZ5WWxHcW0tdXdvM3lNaGVoRjJuS0VsRW5aQUhlSWtvdGh1NExpOWtFYnBaRk5WQ3lRbXFvYVBadWE0S3FLdUdLbDZYdVhBYzNZNDg1Yk1mTGk5V1ZyS090cHNKbUliZjVyOFpCdmhyRS0tUGhnVGdOUERjVDJMNDZ1c2ZPaG1KczktLVFPTU5iVlRkNS11a2pj?oc=5",
-   "data": "2026-11-12T01:00:00+00:00"
-  },
-  {
-   "titulo": "Incerteza fiscal faz gestoras elevarem caixa e reverem aposta em ativos locais",
-   "fonte": "Estadão",
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPVWxnTXo3cUJEMVJpS2ljT2ZKbko5Vl84dmNDc1UtU29NSXhaYVVrNHZrLTlzUzBlSDMwZWNCNEJ1WjUtclppVW9RaUtEd01kdVFCQ0VuNjc5TTQ1VXhKUHFINkNybjU5YUNaSVNuM3JwSkkwYTQzNmlpZEdXR0VseHAtMUx6OGRTQ3NidmFRbENoRkpleF9ScVF3c0Z5R3ZxdGlfY0hVbFpJQklzQll4R2ZjaDFCTzVNLWRZN2Fha0Z1VGFJZFHSAcsBQVVfeXFMTjZ4WXRFcXQ2S25DanNZV3NFQ3JxaGhVYnFlTFhoWkVXbUk2VGc5OG1MZUwybGxfYmlHQWFyXzR1SzZpM2hXQTY3bzZxSnVudktOOVFaa2hRUDZSN3FsYlVSUlJKT2pldVdqd0dRY3ZVNnRkTUFiYU5xMUZXb01YazNwdlEzTUZrTU5zZGt3S2h1SlY3WnVJNUZKYzJQenRvWnNHbTZzQjNGcVJnYi1YZmpWbTNfX1Y1eDhOaUw0aTZ6RGdRbmdQYzhBcGc?oc=5",
    "data": "2026-11-12T01:00:00+00:00"
   }
  ]
