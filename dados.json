@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-13T02:50:45+00:00",
+ "atualizado": "2026-11-13T03:55:48+00:00",
  "indicadores": {
   "selic": {
    "valor": 13.75,
@@ -17,10 +17,22 @@
  "cotacoes": {},
  "noticias": [
   {
+   "titulo": "Em Brasília, Vinícius Labanca e Silvio Costa Filho discutem investimentos para São Lourenço da Mata",
+   "fonte": "Blog do Magno",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNYzgzSUYzNjNnWHFGclU2SzdGYmZreFl1RnY5dnotMmNoV1NCMHlCMUlNNzVEWUZJVlAwOVppdkZxNm43ZVhnSmI2Zm1SbEFORWU1cmcxZzJna1pRN1FVcTBOSi1WOHZOVEpVa0ZES3lRRFhXd0lXUkZMZ0FvbFZDaDY4YVR6UWszYlhrNXdNQ1l0bk1aMFJzNFpUc080bEJvODhIUTVzcTRmaFFBQWdCRXZEN0ZFTGtjU0s2VU5UZ1ZrU2dF?oc=5",
+   "data": "2026-11-13T02:55:00+00:00"
+  },
+  {
    "titulo": "Dólar sobe a R$ 5,652 e Ibovespa cai com ajuste fiscal no radar",
    "fonte": "Vero Notícias",
    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNZE1XNHZqR1VWVmFfUF9zWEY0dVUzWVNzMUJ2dE1WNHpUUnN5TGZERExYMXhBcTRoSmgwajRwZGhGRjZuYmZjRk02Q2ZxcjZvbHpCam85ejU1MWxPeXhtaGNjNE1SaXFVMDV3RDl5RzRoZlVuS3dHWnFGcy1EZmFvZzZVYnBhR2E0bUxWMENiZUZtdTBqeGYzVEsyZ2E?oc=5",
    "data": "2026-11-13T02:45:00+00:00"
+  },
+  {
+   "titulo": "Dólar sobe a R$ 5,65, maior valor desde junho de 2025",
+   "fonte": "Poder360",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNNURwX3FweHBJRkJVT1dSNjNtMmJaeTNhS2xITWlTWUp4eEhNMUE5eEdyQk5NVllGVWNCZmdJUjc3TU1fY3FuRTBBWmpMbnphSnVmZE9nUFVySEQ5QUowMFNaLXlUTGE2WjRxZnBlc2lJb09QRW5JUzlHR2VqWGpGSnBud1o2Mm45QXRRUU5vdEpPRjREaVlqelZNNA?oc=5",
+   "data": "2026-11-13T02:30:09+00:00"
   },
   {
    "titulo": "Linha 10-Turquesa da CPTM recebe investimentos de R$ 97 milhões para melhorias",
@@ -32,7 +44,7 @@
    "titulo": "Dólar se aproxima da maior cotação em 19 meses devido às expectativas de aumento da taxa de juros pelo Fed; iene chega a 160",
    "fonte": "TradingView",
    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5BdjNucUxlUl9iOXppMXVsNGJDdFE1UGRqdnRnWFNnak9pYktrRE9McjhxaTVPdFhmUU5jaXNXNHVNX0ctYm5uRlYtUC1meFVfZEVPdVZaaTMxejBOMnk3LThMTzdsQ01PN0ZpdW9UdjNxcUtWc0JR?oc=5",
-   "data": "2026-11-13T01:51:47+00:00"
+   "data": "2026-11-13T01:51:00+00:00"
   },
   {
    "titulo": "Ações se recuperam da oscilação da Nvidia; dólar sobe com os rendimentos dos títulos dos EUA",
@@ -47,16 +59,16 @@
    "data": "2026-11-13T01:24:37+00:00"
   },
   {
+   "titulo": "Cosan pode rever ‘poison pill’ da Rumo | Novembro 2026",
+   "fonte": "XP Investimentos",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZW5GX1ZORDJLUVplMC05UThHQ01qeDdnSkJWbVpaVkZLV2NJbTFpVkk2YzJtT2NibHVIMTVWVjZyeTFLckFDOGdNSC1hWVFHdkZZNThsX0l3X185b2luZERlMFQ0eGJ5WFRIWEVZUXdLMDdLZE9SdjVyODBxeFhSTm80b3FaekhFTVpqVno2Y3hEbHpqSmtUdA?oc=5",
+   "data": "2026-11-13T01:16:17+00:00"
+  },
+  {
    "titulo": "Excesso de regras afasta investimentos e reduz competitividade - Times Brasil | CNBC",
    "fonte": "Times Brasil | CNBC",
    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNNkdoTjU2c2hEdGd2VV9RMk9Jb0VhX2FFdEFPRUx2ZDA3NGpVeWJKMW5fLXpiYWFFal9LTEhLQ3NRUUY1emVUQms4RENBbnBNVEpqT0xUbWd0TGg5ZE5BcFdpenZzS1RzNVctSmhpMWk4MHBJRWwxWnU2NDdxS1lYTVRELVpZWkdibHYyQkU4Qml2YWx5dU1WZXA1cTlPU052WUlYZWl1ck9NZUtOeDlHS1lVczhYSXZFS2RMMGVWeWY5WGJDTlE?oc=5",
    "data": "2026-11-13T01:15:00+00:00"
-  },
-  {
-   "titulo": "Dólar australiano se mantém próximo a mínima de 10 meses com alta nos rendimentos dos títulos dos EUA",
-   "fonte": "TradingView",
-   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1OZzh4N2lpMjhOM2dBTmk1dGdOd2JIMmdCMHV0bzBpbjlldnFLeW9fSGtySEJSZUtkdkhtTzhoQURqLXRhblIxcXdiY29vVUNFak5ONFdnVWtHVWsxR21qVkwyQkFWbUNBS0w1ekJDRHhwVlVlU2Q0?oc=5",
-   "data": "2026-11-13T01:08:00+00:00"
   },
   {
    "titulo": "Waack: Dólar sobe e conta da demora de Lula fica mais cara",
@@ -75,18 +87,6 @@
    "fonte": "Monitor Mercantil",
    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQczFUSWJyQVU3V1dhZG41bnhqb0hkZVZrSnFvS2YyVDJCM2prblhCaFhEdlpSYXBLc2Y0Mzk2RkVfdEszdDIxbmNHWTV0M1U0OTRHV3ZjSFNfOWY3eFlvYzBaNGRiNkc4UXBfWVNndWZnazE2NTdfa1ZoWnRHamx5MU5pLWMyVGJGbjZXSzNrNHpnc3A5WTQ2ZWFKWQ?oc=5",
    "data": "2026-11-13T00:43:50+00:00"
-  },
-  {
-   "titulo": "Opinião - Vinicius Torres Freire: Qual é o preço do dólar que vai fazer governo e políticos acordarem? R$ 6?",
-   "fonte": "Folha de S.Paulo",
-   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOTEoza3lJQUtfcWNRSFQtNnE0SEZxWWpSX1otS2MyY21tM2RCSDRqdGZNNFhKbHlabENTMUVFXzJ1cVFyRzl6SkduSlB2QU1rQUdHM1BlNXNiWi1OaVpQeHlsZGtyRUJ6VXRIR2N3WXNsdTBoSkxEQ3pxWEpiV3VvbTlvVjNhZUJ5VUhBZG4xWTVRN0c1d0p2UzBILXQtc1BlSk1iUktyOE15Y01FeF93d0VNdk9aamhScWVwSFdjVnpmeGRhNEpIdlRMODV5TnRMcFRETg?oc=5",
-   "data": "2026-11-13T00:43:00+00:00"
-  },
-  {
-   "titulo": "Para escapar do dólar, Belluzzo defende salto na aliança com a China e Banco dos BRICS como ‘BNDES global’",
-   "fonte": "AEPET",
-   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxObjZCbXRoa1lmVkd0dU9TSlk2RjhpR19rUnVyaFB2d09UM3o2VFZVeV9wel9lZEVtNVpYdHBqQ05JMnV1WXVqSGwtM1ZST1ZGVWxQb0JueFpWZ3c0OW9EcUYzX2NPbDE2WkxkVDAzU0FneGwxUXIwaDFxeWxRYmJuNGpab2hEbTF3NDhLU2ZEV1hONjc5V0lXbm85SzExSkg3R0VEb1JETVRjYl81bTdBU3RpWlU0dzE0VFdIcXB0dTYzb1dqZVI3VGlBclByQQ?oc=5",
-   "data": "2026-11-13T00:41:39+00:00"
   }
  ]
 }
