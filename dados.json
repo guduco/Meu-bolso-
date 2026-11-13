@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-13T03:55:48+00:00",
+ "atualizado": "2026-11-13T05:00:01+00:00",
  "indicadores": {
   "selic": {
    "valor": 13.75,
@@ -16,6 +16,30 @@
  },
  "cotacoes": {},
  "noticias": [
+  {
+   "titulo": "Dólar vai a R$ 5,65 e atinge maior nível desde junho de 2025",
+   "fonte": "O POVO+",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQQllKSVEtVlJ3OElJVFQwS3Jja3JxRkJiT0lUb2V4Y2paTkszSUpXbG1hcWJaVWU1SkR2bTlmRTd5QmZGWmpDdkRpVENnNHhiWFhkdXRocHpBSWNRbUtROVgtRlpNeGRod25vc3hac2QybDdES01pRi1hWUN5UUFRVWpNb0tseVBTWE15R3pycGc3b3N3UXZHWTFNbWNPZWhKSi1fZ3ZSTkJ6S3ZPb1p2aUdhMUZsUGVE?oc=5",
+   "data": "2026-11-13T04:15:00+00:00"
+  },
+  {
+   "titulo": "COP31: Lula volta a cobrar mais investimentos de países ricos na preservação de florestas",
+   "fonte": "G1",
+   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNaGdZd01jX1pPeFpsS05qQl83NTBqdWEzckVZYXlDdW05bDZNTVh0N0dQZE1UZmg2Zlh2ZHZCMUt0MWRma3gyWGt4VmNzY25jSVZIanFwTXlQMWxLUWZ5aTViUFhuUWM4cjdCUUFqVHZ6X0hnQl96eGhyWmFMVmxIOWYwRDZNOEhMWW5OWThFZkNhcmQ4T3BHX3Z5TUZOMzlqRm5GTGF3ZnFIdzd1ODhYRVlnX1VzZV91VzlFLWtSQWxmT2I0QU1za3Ffclh6ZE80VEdLODZYZklLb3U0ZE9N0gHuAUFVX3lxTE5qMFh6amEycjR2cWFPUkhXNWtfdG5RS2F1WWRpeVRHVjI2N3ZSQkpZdzM4eXVRdjhaQ284LTNEaVFiMGswbWk3TS15R1Q4S1lLWnViQU80OElGVWRaMkRjMUMxWkl1aWthalN3dEVKLUY0T3VaVHlWNWRiTzItYWNyMGFxZ0h4WDdEUlV6VDRnWjlXX2I0ZW5Ic0JlU240Y0c3RHFvaS1WaFVacXE0Mkk1ZWdOeGdRSUV0WXhLYWF3dENNNHJZeTVyRGhTMHBqZVZDUjZoTmhvXy02MWg2QlQ1dUtfeXhpVURHcnlOUHc?oc=5",
+   "data": "2026-11-13T04:01:42+00:00"
+  },
+  {
+   "titulo": "Inflação argentina acelera em outubro e soma 33,1% em 12 meses",
+   "fonte": "Vero Notícias",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPdlo0MjY1MDQ5cGMzNDRaazJGeUQtVUZnSlJ2WEJLOEVRRlQtelJUc3pzLXBucTV0emFsX09Yc2d3RFVtMDN4aWxXQm5IckIxMUJjV0FqTzNmYUdSblA3THFCb0NlV3FxZXpuaEI3Z1BOX2ktYUJCMTdTM3VKOUktRE00bDNtNkRZbzVGMHVocTdLX3ppeUtlVVBoVQ?oc=5",
+   "data": "2026-11-13T04:00:00+00:00"
+  },
+  {
+   "titulo": "Novo ciclo de investimentos prevê R$ 160 bilhões para portos, aeroportos e hidrovias",
+   "fonte": "www.gov.br",
+   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNdGpHTXZ1d3BOVlBLZ0ZmTWs3MlRDRUdFUkx4RHJQQmVXX2NjTWJnRlBOOXZUZmNGbEFES1RCdUxKZnBNaXFYM2dUb0pBX3lJQkRUSEZNSnpmdGNPbE9yOFBmd3hBMEpXM1ZJUXQzblJMUWpXZm5fSXFZdjk3WV85d0ZyUlI3eDlPeFFjTmFvN3JKbmV0S05DeUxmUEluaFFpa0h0SGtJMnNFcVJiejdSSTVrSUw4Y05lQmFNYktTTDNwRkdnZDBVRnJGeTUxOXN1NG9LdEdVZHBySG9LWFJuZmY0bVA3R203?oc=5",
+   "data": "2026-11-13T02:59:37+00:00"
+  },
   {
    "titulo": "Em Brasília, Vinícius Labanca e Silvio Costa Filho discutem investimentos para São Lourenço da Mata",
    "fonte": "Blog do Magno",
@@ -47,12 +71,6 @@
    "data": "2026-11-13T01:51:00+00:00"
   },
   {
-   "titulo": "Ações se recuperam da oscilação da Nvidia; dólar sobe com os rendimentos dos títulos dos EUA",
-   "fonte": "TradingView",
-   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBTRzJtSFFJdThfV2xIRXQyOVBzYThfdUdPcmZTSWhFWjhfMVFBdl9obS10cU9QaFZtNkwxWmRPcW9vWEYzdGdGN3BDaTNGb0ljVEt3bmVHcjBYSHR6YmxJajRldVhVLXFkamRDa1ZzR0NoWDQ3Nk9N?oc=5",
-   "data": "2026-11-13T01:48:00+00:00"
-  },
-  {
    "titulo": "Na COP31, Lula volta a cobrar investimentos dos países mais ricos para preservação de florestas",
    "fonte": "G1",
    "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPcE8xb3Y1VHM2Q3VtYnZNUWtpeUZSTEhhT1R4a1M2cEdlZnNJa00zcWc0MlBRd2hQeHRWTzBTU09uYW1xZ293a0ptZjRUTVhHWllubmE3MVZQb0thQW14c2ZIRU5NRHYxcmxVRmtJTFZpMm51M081eWhWMnloZXo2NVFNWmQzLXhVQmRkWk1JU2hvUFVDU3I4amxNMXNBQWEyRFJQVE0wZUJ4XzdRM3NobHNEdFZ1QmNfYnpnR2hzbDFidjdhMU93VXpwZUVONE9LNGxYOWNrSzJDdkpfamQ5ckx5QWFzbl9iX1E4N9IB-wFBVV95cUxObFlCMktjMFdwVVMwdkd5Z3VnSXBaRmdUcmJudVBBcmRHZjVxSnhwVHVWSEE2Mk9YLXhMajZSVi04azNBVE1kOGthblNEVDJXZmxfYjlFRlVGbWROazFLMnBLX3lYNWRuWUUwUHFtVzIxcWY3RUFDRXl4cU4ySHNQOXVxS0gxZnBKRnA1LVQyOXNrWXZhVGJMM1FWd1FpVk1MZHJqbFVxbGRRU1F3YnBZOVllbDFWY085ZFEwX2xKRXA1azlYcFJYSVUzbmVwRnEzbFJscEFEU01zNlUzcTNRVWxia1h4NzU5RjVnekZlNm9YcnZnbFNHeWhPVQ?oc=5",
@@ -69,24 +87,6 @@
    "fonte": "Times Brasil | CNBC",
    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNNkdoTjU2c2hEdGd2VV9RMk9Jb0VhX2FFdEFPRUx2ZDA3NGpVeWJKMW5fLXpiYWFFal9LTEhLQ3NRUUY1emVUQms4RENBbnBNVEpqT0xUbWd0TGg5ZE5BcFdpenZzS1RzNVctSmhpMWk4MHBJRWwxWnU2NDdxS1lYTVRELVpZWkdibHYyQkU4Qml2YWx5dU1WZXA1cTlPU052WUlYZWl1ck9NZUtOeDlHS1lVczhYSXZFS2RMMGVWeWY5WGJDTlE?oc=5",
    "data": "2026-11-13T01:15:00+00:00"
-  },
-  {
-   "titulo": "Waack: Dólar sobe e conta da demora de Lula fica mais cara",
-   "fonte": "CNN Brasil",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNVG5GaElDWVozMmNwd0NYeFkzeW5fM2w3ZmY5WmYxOXJ4RTh0REpYRmVmTmhCVF92cURYbWZ5U0RYMk9HRmt5ZkZuNk5HSVZaN19IVGp5bGc5ZTF6Z1JzVDAyR1duV25uSmZSYU5zUVVMdnpudWxEZGRTSXZvS2cyYmpsdmNNcWcyOHRrZFVxVmpyLXBrZVM0di1KWVprZUlHRTI1N3JBU3lORGQ3Q0hVbG9lWFFWdFk?oc=5",
-   "data": "2026-11-13T01:03:05+00:00"
-  },
-  {
-   "titulo": "Gasmig destaca a importância do Gasoduto Centro-Oeste na atração de investimentos para a região",
-   "fonte": "Agência Minas",
-   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPel93cnlRaTN5WUxBbEw3SUVscmFOd0tvWENCVnd4cERfbjY5V293UHRZcVg2ZTVMbFQzYmZnN3VISWUydU9QbEJNWHMyblpjZjFsSzBXNVd1VVNsYlBLMEJTdnZmVlFDY3J5UjRHamdnLUdvRDFERnNBbDFLei1SY3lBN2hJcUJZVTYzdkN0a1NhX00ydVhrUHRYUnhudFV3ek1HRUVsZXpSbXlPNzJZVnZTWU1QVF9rN2ZqNkJ1WDJJU3RJcktLZ3Y5YjV1YlNaOTdV?oc=5",
-   "data": "2026-11-13T00:46:38+00:00"
-  },
-  {
-   "titulo": "Outubro: maiores retornos da renda fixa foram os de menor prazo",
-   "fonte": "Monitor Mercantil",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQczFUSWJyQVU3V1dhZG41bnhqb0hkZVZrSnFvS2YyVDJCM2prblhCaFhEdlpSYXBLc2Y0Mzk2RkVfdEszdDIxbmNHWTV0M1U0OTRHV3ZjSFNfOWY3eFlvYzBaNGRiNkc4UXBfWVNndWZnazE2NTdfa1ZoWnRHamx5MU5pLWMyVGJGbjZXSzNrNHpnc3A5WTQ2ZWFKWQ?oc=5",
-   "data": "2026-11-13T00:43:50+00:00"
   }
  ]
 }
