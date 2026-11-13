@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-13T22:46:09+00:00",
+ "atualizado": "2026-11-13T23:42:46+00:00",
  "indicadores": {
   "selic": {
    "valor": 13.75,
@@ -16,6 +16,54 @@
  },
  "cotacoes": {},
  "noticias": [
+  {
+   "titulo": "Dólar fecha a R$ 5,65 e mercado se divide sobre ajuste fiscal",
+   "fonte": "TV Sim Brasil",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOMzZRXzZiN0JUbWFRYS03NFp1Y0hmN2d6TlE1WDVYQmxUb24yeTNqVDY0Z3JQZ3dKcE13aUVKTXNPejZEREZ2akNwZVlDb3ZSTTdXQ01YNzJ4bHB0d0VKSjVyYlZWR1czQm1hMm1xR21vU3VhblpsUGFvTVRSQk5QWmppRHpQVDBFbUhJRkViYzVwcU8zanNmNnVCa2UtU21vaTBDM2w3NUJVdw?oc=5",
+   "data": "2026-11-13T23:16:07+00:00"
+  },
+  {
+   "titulo": "Alta do dólar: veja como a moeda americana afeta os preços e o seu bolso",
+   "fonte": "Gazeta do Povo",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOVW1vekFESFhuRDUtSjdIeUJ0UWFUZDZIS2RzQjRJdC0tUXNmdzlKQjhtOHh6Nk9NeGhKbFkzNWQ2NmowWGNRUnJ3UnVFdl80NmgtekRCa1NXcDA2RzVOcFU1dDlkX3ZkUEJXeEIzRFNVcDVOYWJBSVBucG5iUHdBcTVwRmNESFJBYjIwQ0xpTkFvbWZZR2hJTDA0dGpNSFY2cFU2YlZmZnVXaFllV3UweQ?oc=5",
+   "data": "2026-11-13T23:16:00+00:00"
+  },
+  {
+   "titulo": "Dólar fecha estável a R$ 5,657, mas sobe 2,63% na semana; Ibovespa avança 0,66%",
+   "fonte": "A Crítica de Campo Grande",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNelczNUlZbnIyOFZxSTNfSVNRSzJkWEsyblhWek5mdk9aZzBDRTRnU2RQWThOQm1UWm55VThpSHdyZnJHVmdGR2J2b0lVcldHSGFTSGgzbUpVNlpZLTFQYm85THVPdkg2b0NObFNmVkFNdi11SFhHWHFOdS00UU1GbE9rTDM5UXlqM195Zm9pODdkWkE5Qkc4eVZZNl8wT0kyNFE?oc=5",
+   "data": "2026-11-13T23:10:00+00:00"
+  },
+  {
+   "titulo": "Elmano articula com Alexandre Padilha nova expansão da rede hospitalar e investimentos no CE",
+   "fonte": "Portal IN - Pompeu Vasconcelos",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNZVI1cEpIa0RYRThxZi0yZVozT2hSVVBpblljZnN1LXFDY1VPMkZ4Ym1kcDltYmYtY0tyUXVvM2h1bXhBbEhUN1lyZ0taeE5Na0M3ejdYVm9zNkVua1c1d3VsQzU2LTRZelQ0cnZzbVdxbXIxQ2lXMXJTZ1BxWjcwMVJVV2U4YUFDa2QwemVlczNEbkxSRXVJVW84aEhrT1ZycVFpQjYzOFdNdWZDYzhJLXRLMzNGMm5hMHF1dWJOc0J2eFVKeVE?oc=5",
+   "data": "2026-11-13T23:07:00+00:00"
+  },
+  {
+   "titulo": "PT apresenta quatro projetos para taxar super-ricos, dividendos e investimentos financeiros",
+   "fonte": "Brasil 247",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPb2o1QkxHQ0JoSEtzQmRmSDhreG9rbi1LUGR1Mnd1dDBTaXEwOGFwTl9lSlZhcVJJRzhQblZFWDdMU0lsVnVTRFZzSndUaURUN3loUmtDT1BRWjRXM190OE5qdzhGb1c3XzF5dlVnUWNYZnRmTk1DalMyRDd6QWNYdmFJUVZmWE9Jc05jSDRnN2VTdlVUYVZWMnpoUXNNQVoyWTRvbWVhV1ZwN0ZRVHZDTE9UTnFJRzFRZkEtbXJZRlBWNG53?oc=5",
+   "data": "2026-11-13T22:54:33+00:00"
+  },
+  {
+   "titulo": "Tesouro Direto, mercado secundário ou COE? XP compara três formas de investir na dívida do governo",
+   "fonte": "Seu Dinheiro",
+   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQczQ3M1dDTHI1VEZjX2pYdExRbnJKemdXVkJLUWs0X2FLc09QWWcwUnZnalVGa1M5UXlQWW9ja2dJNG05ck1yVjZOMWpIeVZzQUlYTGZ2QTlhTzMwTzhzNUdlWGx6WnlMZHRqSzJJdG80NXoyaWY3c1IwZV9uRjRyTU5UbEk4X1YzWGRfZkRyUE1JMjlBT0RJUWVQaUpkVnVtc01BQ1dJNTdURjBPNmo0MmRtdWFPYWRPMnIxMkdSZmszN3p1Nm84WDhMaU92R2p3TFU5QURLNmdCdnM5LUJn?oc=5",
+   "data": "2026-11-13T22:45:00+00:00"
+  },
+  {
+   "titulo": "Sexta-feira 13 não assusta Ibovespa, mas CSN (CSNA3) despenca 12%",
+   "fonte": "Suno - Investimentos Inteligentes",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOMnV0LUhuQVN6UkctenpMTzd2TkZKOHg3SmVHYWpFQVN4NGJpNE90ZV8xMjlSQVVzVXQ4aHo0MGpabkRURmt5TW5mVjFFU0xGeTlkc3pMN3JKcTFVb08wT21JSnNvNzJrYlg0QzJ4cHd1RENuWTdfRmc4NS1JZnZBbdIBhgFBVV95cUxPbmc2LVNVQnJnTkdQQnhlM2l2VEp4TkdpNlBFbVh6OUVRWjQ2ZGtWSGc5QjRFR1ZiWDh3MkdKdGVJS1o4R25PaEszUHFnWVZDNGNaT3ZrVzA3UkRHWTl4ZlRRa2JucnVtVlpwRWtHcVRCejJzMDJzc0U1d09xYTF5YWdicG5tdw?oc=5",
+   "data": "2026-11-13T22:43:33+00:00"
+  },
+  {
+   "titulo": "Maiores altas e baixas do Ibovespa na semana",
+   "fonte": "trademap.com.br",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE80UFhCd3hnbHlZYWhhd3RqYXNsNVJueTBVR09BeDhVQThqc25rWjVNYm9EUW1OOWpFVFhaWGFSQTU0bUw3c1k4NzZJbUJnc3FSUkpVTWRETno?oc=5",
+   "data": "2026-11-13T22:41:00+00:00"
+  },
   {
    "titulo": "Ibovespa na semana: balanços ditam rumos e CSN e BB são destaques de baixa; Magalu salta quase 40%",
    "fonte": "Estadão",
@@ -39,54 +87,6 @@
    "fonte": "Portal VV8",
    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPSWxtY2NyWVFucVBBX1ZWbVU2dTdObGZvUk5ZVGg1UFdnRkMtTGllN0ZVcm9OUG02TjhFbTZYWHYzSWZaTWNQZDNTejl2TjNNSmluWFR6VVc4NkptenY2U2NxWGk3OGtLcWxOS0JzOWplRDZmTjZBLTZjVkxsOXdLT0o5WUtsRlM2dnFUQXNXYjkyMVp1MGx1V01tRHA?oc=5",
    "data": "2026-11-13T22:13:25+00:00"
-  },
-  {
-   "titulo": "Paraíba: Lucas Ribeiro discute novos investimentos em tecno",
-   "fonte": "Blog Milton Figueiredo",
-   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOazVKNnl4dkxxZm85Q0NDY2UtbVFWRERCRlF0SVhzNkRJN0V1Mk01eE1PYUJsQWYzeWI4eVI2dG9FLTdWUGVHYVg5WW0tUTBQTGRVM001b2JQOTFxOXJCcVpSZnV0V0hoeXZmd09LZVVNTkJkd05WX3RLNzB0T1VRbzhKSzhMaW5VZnBlTzZsaEd2TjB0YVBrZ3hEbFEzdzk3Rmd3aUhEcGpWZjFsLU1DVmV3Wm05ekQ0MXdZNjUxZzZVTHlnWnZCS3NWU09qa21LcXdfRFdTaHVDRXJfR3pKTg?oc=5",
-   "data": "2026-11-13T22:11:03+00:00"
-  },
-  {
-   "titulo": "Ibovespa Tem Leve Ganho; Dólar Fecha Estável ante Ao Real",
-   "fonte": "Forbes Brasil",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPeTVRVm1ja3lhSnlNMXEyS3lPUVQwTXFDczcwWFA3VVhtdUx6WkFzTzR5YmJSNlJUUW51TThWbVdIZ19yWjIwbHhRV2g3ZVo3Wk82SlFicFloRUNPeDVDOXhtaVNZUzVVSE4yNG9uek0zLVRPU1VHdWhKSGY5cDN5c1ltdThwck96Mnd4dEk2ejBpN2lHVFZqTWpHdjJfbUpqVkE?oc=5",
-   "data": "2026-11-13T22:09:48+00:00"
-  },
-  {
-   "titulo": "Lindbergh articula alternativa ao ajuste fiscal com taxação dos mais ricos e proteção dos investimentos públicos",
-   "fonte": "Noticia Preta",
-   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOVVJHejJPbG9mV0FDWVdaajV5NEkzYWpPYXVTaWZYbUxjMTJLRXFZUnFkZTVJV0w5Y29SVkFULVMzUkpWaHlwM3BOUWpnWTV5NXFzSmJCVk5MQmZRNW81SmVQOFdETmp3UkFFbldzajFtV0RfZ0t0Z3ZWYlR1LWRhMlhoU0dhV1FmLVBBVHMxeDRzVEZlZmJfRmVVREdXU2c1ZVVVQU53S2tKSzRuQ0thbHZpTE5rRDdKc3hCdE13S2NGNjZ3OTZBZEFjakN6WkNsWVBNMUtGaDI?oc=5",
-   "data": "2026-11-13T22:09:12+00:00"
-  },
-  {
-   "titulo": "Dólar avança com 'mau-humor' após caso Nvidia",
-   "fonte": "G1",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNYzVfblJHVmNFd2tvWVlGek00dzJCMUNUSkljQ3BsbTZDSm9XTTFoYWpMNFhwanRxZkxlVFhfTFUxem1VeEpidzVJalNnelZuOTg0RHNnSWNlRXFnekYxZVd0dUg5cTU3QjZOWFF3RXZKSFU2Y2RZRlVpLXVRbVd6U3hrQmFhOTQxZG9jTFd1cUZaVFNIZ2E4WkFTZjNUMTlSZ2hPdzlKTFpTRHRaVDUtc0V2d9IBwgFBVV95cUxOYXRNRTJfdjB2cFV3RjVHUVdndllmeXpTR1FlMXgxdVlSU1N1amxTcllxVnpHQUQxV043UHlHZjZiVzR6clR0TFpTSzZTcldNU21CTWhhbGxuUVE4RW1Xb092LUJxSnhvSnZBMEpWVGROWXdEQTk2d1VKdTJ6Q0Y5SGlGMmtYQ2hUYnhZcFRMbGtOaHlZLXhYN1ZuWU1nVDVmWkd1cXlKUGlDM2dlTVE4YkNjN2dsS1RnSHk3RlZwOXNWQQ?oc=5",
-   "data": "2026-11-13T22:05:10+00:00"
-  },
-  {
-   "titulo": "Ibovespa fecha hoje em alta de 0,66%",
-   "fonte": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOY2lZUjJERi1zY0hVeVVXcHh0VkpMQ0R3b1hrQ3hQZk94MVhIMzhUZWRWN1VzRWRjWTA4a2VqLUZ5MXF6ZHl3VzVobzJEeU5UU3VxRkVxLXZvTzdKRzE5TU9NcDJkZ1RfYncwbFU1S2JybkVQRktZM3g5bUlFTWpuYU5kWTM?oc=5",
-   "data": "2026-11-13T22:04:00+00:00"
-  },
-  {
-   "titulo": "Ibovespa sobe com fiscal no radar e avança 2,35% na semana; dólar supera ganho, com 2,66%",
-   "fonte": "Exame",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPd3hKUFliU29iWGtNMmVzSldPdVp4VEdYMURKMF9pNk4ybC1ScllTOU8zR1VaT1NfT0g4NVpOSmZrRFFkYkQ5RWQzTlR5ZFNMS3U4Y3VwOXloV0NqUTFybE5sYzRCNEd5aDRhY0wydW1YNmJ5czQ4cS1TVFNyVnc4WFpySGJ4WjJhSlZTTENwUS1xa29aUS1IWjlnQ3JXZjVQLXhEckVPZkZ4T3VQNHlEVmwwVEkzSHhDQmc?oc=5",
-   "data": "2026-11-13T22:02:04+00:00"
-  },
-  {
-   "titulo": "Dólar fecha a R$ 5,65, no maior valor deste ano; Bolsa avança",
-   "fonte": "Bem Paraná",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNOVJwNHZ4U0o2Z1l3ZDJWUVdWUXJfSDZ6WU5NSEpwNnRueE12YTBQQmNOZ1owaHlLbXhfbnRuMnF2UjA1NnBUUGlIYnhxWFBpOHRTeUVnRDJCcHN6NTkzbUU5LVd1cDNiYUR0MDM3MjhQTExrSjlDMjUtN19CZmtSSDQxb2dHMFhpeHNpOTBZN0pZOVNEUGhtcXJTc1ZGQm1NYm9qcjJ6TEnSAa4BQVVfeXFMTy03dWJyaWRLSjFZT3BYXzBwRC04Q21xOEJDOHlhcnV4TzNLRm1RQzQ0RktlTjgtVjZNQmZZVEhZbzU1YUVmc0pNWkhvbnVaYUdFanJ2ZjQtMG54ampTakhIbHNYT25tTUNhUmcyTmxPSWdPLWxaemkxc3ZwNFpxSHFydHlmc0RrY2ZCa2NOZXNjY01mVklXN0t3VHJkQ256djVjS1dMamR6anFvVjBn?oc=5",
-   "data": "2026-11-13T21:59:00+00:00"
-  },
-  {
-   "titulo": "Ibovespa fecha em alta com o ajuste fiscal e recuperação do petróleo",
-   "fonte": "Money Times",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPb0ZwTzlHbEdMVTFvekI4VlZBRWdOZWE2c1llWUh2aV8wZDBqcXpLUm02T2ZzVVkyTkJ3V0gwOEtBMWd2eFVVQVNoZ2FuRHAyaFh0ZFQya09jcnlUN2E2UThNNlcwLVVNWXRiWmRXQVd1YVRBb0RkN0l2d3dkNnV3cDFvLVlNUnRzRFdyRGZlNEl6NG5PekZ4aGxLclYxNnNfZjJmQ3d1bw?oc=5",
-   "data": "2026-11-13T21:58:00+00:00"
   }
  ]
 }
