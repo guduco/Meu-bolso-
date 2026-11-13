@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-13T11:57:56+00:00",
+ "atualizado": "2026-11-13T13:08:24+00:00",
  "indicadores": {
   "selic": {
    "valor": 13.75,
@@ -7,7 +7,7 @@
   },
   "cdi": {
    "valor": 13.65,
-   "data": "11/11/2026"
+   "data": "12/11/2026"
   },
   "ipca12m": {
    "valor": 4.63,
@@ -17,76 +17,76 @@
  "cotacoes": {},
  "noticias": [
   {
-   "titulo": "CTC amplia receita em 8,7% e investimentos em pesquisa e desenvolvimento avançam 36%",
-   "fonte": "revistarpanews.com.br",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOUWFmLTMzRTZDWGJfcUtVTFVJZTk4ZXBCSnBsbHZkM2JoR1F3NWF5STZMSnNVX2ZxYUMwaGlVNi0yTG1LSHdpejZqbzY2ano5NnZ0Rm1POW91VHdvVzc0a3lTbk1TWWtqTmFFOElqRThQeUFQWk5yckR3T2RGdjFWNWxzdE5QWC04RGNiXzZTMkkxUk9lVTBZTFhrcWdCYXhFRkRzQzJKYnV2aG81aUgydDRn?oc=5",
-   "data": "2026-11-13T11:51:35+00:00"
+   "titulo": "As perspectivas de atração de investimentos no setor elétrico",
+   "fonte": "CanalEnergia",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPaFdFSWt5dE5SdmFXajB3RDNZRVBKRWV4R092YXR4dDl2Z1E1dmgxUVV4NEtkX1Q4LUdJTUxtYmg5LU5rUk9hTzFCa1pjQVhYeEI3OXRHM1hzWFRIcGZnUVk1Z01qLS1mVWJaQUU5RUZJU3Jiam1HbzN2Ymx5TXNFaU0zdDVqWi0xaXBaeFJUdVJJQWM5OGo5dDRjWTJLc1NuUTVBOXVid0ZBTjgxR3Y4?oc=5",
+   "data": "2026-11-13T13:05:35+00:00"
   },
   {
-   "titulo": "News XPress: 13/11/2026",
-   "fonte": "XP Investimentos",
-   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5oNjhmN2IwbWNYamh2cmcxVWFlcjRBNlAxdW11azJMYl91RTZHRnJQT3BEQUY4RFVqblFXSkw2cUlfdXE0WGpZS2pOa1hOejcwSVROcFRFcXZFbmxMb3hxU3BZbjNDd0s0VUxWc2NR?oc=5",
-   "data": "2026-11-13T11:51:28+00:00"
+   "titulo": "VRTA11 e KNIP11 revelam estratégias distintas em CRIs IPCA",
+   "fonte": "Suno - Investimentos Inteligentes",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBKQlcxdGxEOEMxLWctRnRnYmJ5NzE1Snd5UzN3bW94NXJUNlJYYjJtVXR6X3cwYWpkOS1lRlJrX0RfQ3UwT0dWUGZfYzNEV3NrdHZxZHBUaU1adEh3VDgya0NyTUEtZEpCbGFuTE05OUJjUnRNTGNxX3V5SGV3d9IBgwFBVV95cUxPWG9kclJKSFRzOXpyU2RobGt1RGFHN0hJRmhBa0FIY09tUnY2Y01SdWkxUFRGb0g2Zm9CTjI1RG50YUNpTjRrakhiQ3Z5d3hGemFjYXlIRV9lSFg0d09FV1hiekxSbTZJMVp3M21xbXRqdjVSaVdyWHJ3UUR2U3BtWVFETQ?oc=5",
+   "data": "2026-11-13T13:02:15+00:00"
   },
   {
-   "titulo": "O equilíbrio possível: Ibovespa reage a pacote fiscal enquanto investidores monitoram inflação nos EUA, Nvidia e pane na Microsoft",
-   "fonte": "Seu Dinheiro",
-   "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOSTJDLWxmbU5UV05hNzByb1U3amFIemY4dGZvd01DSmRvZURXVVhxaGl2UWRVbEJmNzRJUlBNZlJQTVRtd0JSOWZXYVJRTlVTRnFkelZvY2hOdjBiTnFpWHpJNFMxekxXSWI1S0tXNVVMOEU2dzJMUEw2VEFNYTRWNXJ2WmtvUkxZa0dKTTZkWWVseS1JMU1VUWQ3aDlyLXNfLV9PR3pNZkhNUlpJYTMyZktSRFB1N05FaElJeGpQV3o5UENGaGxTejdlUVhVdjRxcDJlcDhrM1piVWdlUVh5am5zeFZ3SjB5VE5JbW9EcDhvdENETUZSTlln?oc=5",
-   "data": "2026-11-13T11:48:05+00:00"
+   "titulo": "Inflação perde força, fica em 0,14% em outubro, mas segue acima da meta",
+   "fonte": "Abrafarma",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQUURBeHQ0cFByUDFjNW5qVzBDbTNuOFQ4cTdYeVdJeW5uNlhRU1FfTG1PRDgyR2hNeUtIUzAxSFk4Yzg0VmxWM2Zfc3JWMk1lTzhpUnh1U01QYzVQMVJwbFVoNEs1ZGJReFk5R29hU0dwM2wwcEVLWkd1N3pDc09GdVhRTHFtX2VVODlINFZFMWFfXzdYem0tRGwzcEptRzdMQjlvVG9Scmo?oc=5",
+   "data": "2026-11-13T13:00:54+00:00"
   },
   {
-   "titulo": "Inflação nos EUA e dados do comércio no Brasil em foco nesta sexta",
-   "fonte": "XP Investimentos",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQWjE3b0FMTEo5QkhpeHJucGlpcmJ1Mm00X2NTdFVXLTVZOEZXNDBXTDhnMWxYMGswd2VNd2tLcTNyX3c0d0ZMYWhETUNzOWs2X093OVEzQlc1SXZYdkFWa2h5WVZ2ODRmYXpjSWl4RG03X2dVSjB2dEpqVm1OTVhCZFZsVEphOFdqQXZ1VF9rWVVETnNBb21CdEVwNkp0c3BDb3BQdFdNRmxEdnNvS1E?oc=5",
-   "data": "2026-11-13T11:40:07+00:00"
+   "titulo": "Novos investimentos: Campinas avança na abertura de empresas e geração de empregos",
+   "fonte": "Prefeitura de Campinas",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNQlFUVVBWa25WLWJuUFRocHc4TF9DU0NGOFVkUmlLcFZwR1o4ZEVFMHFGdnR1VzBfRWZOLVp4QUxHMnYzNUlBMi04YUNnazZudmZKeDl3RFE3M2J1VmdkRE9KQ1BUVzhJdHJMalBkOUp5aE1TaFN5TzA2MGx1bm5pTWx4UjFqTVNkc21OV19JVUVWaWFiY0Fibk1PYTdPeXJlT09WRko3dDBMUVBKUjVPYUFoWXhCS3Frbl9nTzZyZVlhUQ?oc=5",
+   "data": "2026-11-13T13:00:00+00:00"
   },
   {
-   "titulo": "Tendências 13/11/2026 | das principais ações da Bolsa",
-   "fonte": "XP Investimentos",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQX0ZMaEtGalpkUHVaa2ZzX1FILW1tQ0dOQmhXcFdWaEJndGJkT0hSZWNEQ0U0ZUd5cmMzbnlKS1ItakV3U0ZRRzhRQk1NaVIzTV9tRUVBdlc1WVlieFlwSVBFc2wtckdKS0N3di1DVGdxR0tlcGFuTjQwckNUY0N0X2Q1TEVEcjRaXzEyc1ExMWtQbnFsMTNtXzU3MGtxUlB1QXA0dGR4ZWNMQy1i?oc=5",
-   "data": "2026-11-13T11:37:33+00:00"
+   "titulo": "Dos 150 mil aos 200 mil pontos: As projeções da Empiricus para o Ibovespa a depender dos rumos do cenário fiscal brasileiro",
+   "fonte": "Money Times",
+   "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxONEx1UnJRQXdpTEtlNGZPbXdidVVtTHRGNHBEOTRuaHJQb1k1eEkwMnNrejNGSHlsR0tnMkp6Q3ljUE1Zd0FCbUFFYkRNV0hiM0owVVVvLUp1ZGRWMU5sakV4YWdGcXFyWUFYNk9NeWl2eVlNUnRyTV9YTUxQME1uRVRiVU5rMkUxUkRCOHplQ0FaNzFaMFpRN2owMlk1TG1YS0RJcEFzLVEzTTNBN3g2TEJRWl9KU2pxWmV2SWZXMVNYbHJ1VmM4Q0h5QUdUZWNNQ19nZ3RvRWlwT1JiQUxFclV0VGVVVkV3NEVVdThzS2JMSkp4eWc?oc=5",
+   "data": "2026-11-13T13:00:00+00:00"
   },
   {
-   "titulo": "Riedel acompanha modernização de aeroportos e anuncia R$ 366 milhões em investimentos em MS",
-   "fonte": "MS Todo dia",
-   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNTjQ2a2dMRjZMTWV1UGJYbkJIY2sxMDFpbHpsdlU5dGYxNHAzVzlTZ1FPUDEzb2FZXzYzS2s5TFBMVmltT1FoODBsQVRkcmEtdDZTWWI3RTNiSHhnNWZRMkdoY2pyalhWdjNLTmN2VzBJRUhrN0tKTVYyR2VnbmdrVTNaSHptajZDNGwxaV9tQjMxRFhkWWZQd2RXRFFZZ1JxS1VLYzQ4djdIMWpza2Y4el9QaklVMVRNTU81S3p3TngtVFU0TXlFSWpR?oc=5",
-   "data": "2026-11-13T11:36:44+00:00"
+   "titulo": "Dólar abre perto da estabilidade com aprovação de plano fiscal no radar",
+   "fonte": "Folha de S.Paulo",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOQkVBUkMzMmptMU5zUnRZbkozcDhzQmlqY1JyOTR6LUVuSG1zaGRGMmRjcUxhaTY5a3pzUGJtNV9Ba3M1NnF3eDBkNm1pRE5jQ05YMzBuck04b2E4OF9ZdjZvWlpDcGJxNzFLczA5YUxadjNDV0JWeXdmSElyXzRTc2c4UjFMOGY1VHBHV3llTUlFWnprelNEa1MwaVZCSTIwelJKbUxjaXoybm5OaG1sSnJVUElrc010NFpsdkNtOXU?oc=5",
+   "data": "2026-11-13T12:48:00+00:00"
   },
   {
-   "titulo": "Manhã no mercado: Política fiscal brasileira segue no radar em dia de dado de inflação nos EUA",
-   "fonte": "Valor Econômico",
-   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQcUx6Rjd0UlVqbDZxQi00Z1FzYUpKZUtGMTV0bG90VUdMak43U1R3LWNINGdXSGlxdHVoSWdqaEk3cUU3TVZLY1BTa2d2VUFLNUFjcWRuWWF5S0xyVkRGa3JkeUI0MGJTT1QwZEt2cEJIRk1TQWJGaXpmVGtsb2lOR2lxQXNocXd5SDhKOWFXN0F1eVg5R2ZiamQ4bm9yalBpbUFTWjRpUVdlUVpXeTBaVmNuRUNES014bERoTW1JeVRzaTNUV1pTOElPaEZGcmRQZ2lJaFRreDBpVG1VQVZvVFl2ZzhyUdIB9AFBVV95cUxPNE1EcHVIMGRQSFZaenZ3UlItUXQxdDA3UDV2RnY1eTNoSTk2a3FHT042aDE5VEoxXzJzaWZTZWJYcDVkV3N4MS1WQjhZZWtFMEVYaFEtYXprWm5DQS1vSXFUYlB6WlYtOHhfNXZKbTliTmMwTUlPR2lkRmQtR2ZKemF5VkRlUU1mUmUweGJrSElhSmJyWWtiek53MWtEZUtqZmNwNjZJVHN1NzduN05FRjMxbmh6RXJpNW9wNmdERVl2dGt5c2V5SW1vSWNmZmI5enE2ZWsxSFdrYWRFX3hBZ2R5U1dTdnJnTGVXT21wZGJyMTB0?oc=5",
-   "data": "2026-11-13T11:21:19+00:00"
+   "titulo": "Dólar sobe 1,58% e fecha no maior valor em 17 meses",
+   "fonte": "Blog do Esmael",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE94MnBjUi11ODc5dlNTNGhNQ2dybFdlT19nTDhqeWcxeU93aE1IRHlaQUZpRXFvM3hyQmxVYnpMZHl4ckJ1YW5LY1BsUVowQzFFSW1SMlNHUHc1SGpZZHpuWnB4NHM5RTZubE10bHNMdUE1REsxRkJJZ3JEblJLVDg?oc=5",
+   "data": "2026-11-13T12:47:52+00:00"
   },
   {
-   "titulo": "Dow Jones hoje: petróleo cai com projeção de demanda menor e bolsas aguardam inflação",
-   "fonte": "Estadão",
-   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPYTV3YUY5dnBWMDQ1VEFDZk5PUlp3bnJZSGxFMU5WekdTRVRHaGRYS1Bmc1lNRVk0bXdrTFc3VG1XR2cxTkNkSjFoY2pGR19zS2RnbXU0WW4zSV82eDhkaXhnUUM0V0VCSFc5VFNVdlpJS2tUTlE3bjRZUHRINXZVeE1KUHlXSnBCNjg0emhUZlk0OHlLVVl1WjhYdW1YQlZtcTdGcGg3RDBjSUMtclpMMW84MkdNNzNERUNZWUdMMG1IVTUyVGR0TXpQeXQ1VFpNQkZ5N0kwMFZ4ZWvSAeABQVVfeXFMTmQwaWNnaDNZRFhoVkFwRTE0cmJ2c2JYLTR0NXk1akY2Qy1MMmZfUC1oQkdQMEZaakJYS2NGalBiaDExNzRRQWUyTlYzV0REaHRrckxiWTdqMlpaSEt5WXJkbUhxd01GY2Z2N2FwOTR2M3JwYmZweGdRRVFCTUNtM1R5a3phTXMtZUppVTdVUUk3RTY4N0Y2OFNwaVdXV1U4ZGtrZ0s4TUVlSms0QXE3anduYzZvNmtFZkphRVZyQzJrWkttYzROLXZNdUJYZHdPendjX0ZlNDJkVzczUXN3M3Q?oc=5",
-   "data": "2026-11-13T11:18:30+00:00"
+   "titulo": "ANTT discute concessões e investimentos com Arteris e BTG Pactual",
+   "fonte": "Portal BE News",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNZHo0aGZiNHNiSUZCTEstUGpGYWdNbTJmZXJZSVdYVzBGNEE0ZXJiM2JIeHBtQ29lNDA1dDR3b3AzOEJub1ZfMFNzLWwzNkI5Y0NlNWJBNktXM1YyOGNfLXRxUjRnV0V2dGpGdkd6SDJMTXk0NFpMeG1wd0NDWHpsYlJWNkw4TWE5UVFweDg3VVRZbHVFd0wzYzVR?oc=5",
+   "data": "2026-11-13T12:45:00+00:00"
   },
   {
-   "titulo": "Banco do Brasil em queda, varejo e inflação ao produtor nos EUA movem o dia",
+   "titulo": "Dólar abre em queda a R$ 5,64 após atingir maior fechamento desde junho de 2025",
+   "fonte": "Vero Notícias",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPM2NOZHZ2dVFaXy0wX3l0RnhEM0hlY1lTNVlRY25GVDhPSVd1X3FBWE1HTjBhN1E3Y2E4MWkyM281aGVpdEYwR2VEanJyRGFSZC1sWUdTY0pmeGEyR1h6NnJiNVkwU2ZiQ1pfNlN2VDBKYVBxQ1lCdnM4Wk5MUS1Sd295WUdiZFRZS1NXTlZpN2lhOFBjejZJa0FfN3Jibmo3dEtaX0d3UVlQeElCV0hCNFFB?oc=5",
+   "data": "2026-11-13T12:43:01+00:00"
+  },
+  {
+   "titulo": "Dólar sobe ao maior valor desde 2025 com fiscal e inflação dos EUA no radar",
    "fonte": "UOL Economia",
-   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQanhoRVdNSk9aNGk4T3lhMmNmd3NPNmo2azNzYWlUalBMNGZiM3VnU1QzM0VzdUkxaUotMGNBVktkcUx6VnRDU3VVZU9LVWUtV0xZN2V5OFV1dFM2QnRNbHFGZk9tYms3YUJpN2ozUTRjVEJYT242czVObTdYcFRKTi1PQ1pqQi1qeDdMWWxFUXVDWi1LMzA3YTE4Y0tROFBaQ204NXZIdDJkeXN1SE1BdzgxRTBYdmR1enRoMGM5X3B5dVc5Z0tpbzVLd3FnejYyd3djVGYtRkRlX19OQnloNk1DYw?oc=5",
-   "data": "2026-11-13T11:01:58+00:00"
+   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOTTBvdUdWQTFvbUcyWmxGM1l3UkttTWdIS2ZDUTBBbDB1UmtIRjF2UHVfZG1NaG1hQVR1ekJIcXkyVE1xdURmUG9jNldhTU9Pcjc0emlxOUVWVWdPTDJ6MkRpMjQ5RWc2MUxneTFmVW1JYlFoSXFYeXZ5MFh4MnJGdVR4Z2tTX1h4TGJCWVIzNHh5SzhoaDJVcFBwN0FXU1daNkt5TEN6Z005Y1lwWnZoR0lQeHlTXzlQeUhZQWk3eEVyT1RCeV9pQkZTYjNNazZDdnc?oc=5",
+   "data": "2026-11-13T12:41:44+00:00"
   },
   {
-   "titulo": "Ibovespa Hoje Ao Vivo: Confira o que movimenta Bolsa, Dólar e Juros nesta sexta",
-   "fonte": "InfoMoney",
-   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPUF94d1lCTTNSVFQ3NTFXUkFWUjFLV2I4Qi1rREVaaDBLZHFXT01uR2dhNjdLcV9sSWV5M3ptTXoyWHplOGsyTmRxTngwbHhXTUpmXzZ5VVF2b3QzRVdaR1hLeHFhVlN6V1dVQl8xZ3Zya1ByU0FTMnptUWlOazN4NFBMUkNNdklHcHF4QTJ3SQ?oc=5",
-   "data": "2026-11-13T10:59:53+00:00"
+   "titulo": "Abertura | Falas de Galípolo e inflação nos EUA ficam no foco, além de dados do varejo",
+   "fonte": "InvesTalk",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB3dTBaTDNVV2dLNWJ0X1JEN0RpYnA2dWNqaFpDT2lHVE1HMy1BS0pNMnRBcU02bEJkcEZvTTFmdXRCaEcxcFRZREdMbzM4Z1pfZFZGamN1NGd1YWtzNmxKNm96V3FMTHEyQUFNWWZKdjNlYWEwckE?oc=5",
+   "data": "2026-11-13T12:39:00+00:00"
   },
   {
-   "titulo": "Ações europeias se aproximam de máximas históricas; dólar se valoriza com apostas no aumento das taxas de juros",
-   "fonte": "TradingView",
-   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9lRE9TQ3o2bTk2cndmOG5xazJiQjZfcXNjM2JJZUFmM0I3ZlpFT0swb1NLTnNqMU9iWWgyXzE0U0U5azNzN1ZFZmZDY2xieVhxUjR2UzVqWmRlc0o4Tlc0ZWVTeUR6Y3pzRFVkT2FEWDFpbE0zcUdr?oc=5",
-   "data": "2026-11-13T10:52:34+00:00"
-  },
-  {
-   "titulo": "Acordo de até 300 milhões de euros prevê ampliar investimentos nos fundos regionais, afirma Geraldinho",
-   "fonte": "Classe Politica",
-   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPMm9VQnYtQlZ4OG9zZ3hNbGR4N0xqVGk0eEdzbGkweTk1NDkzckh6SFlKSUgxcE10N1dGMnJOdUxGTlVkeE1pcGgtVmQzODQ0dGdVVlFJYlNhNTU1ck1LY3JxNVFDb0ZpelJ2MDZNNll3RG5NbUNwMm1SM3NmbVVSY2NOb0pIaWJBeVBmUEVvX0xYa2RwT2VoT1djR3dVSjZCbHFTMnRsUkdlR185bDJZRk54Yzh1N2ExXzdYSG1NR3BrZmtQWERhUDlzYVVQT3lFTmtva1RB?oc=5",
-   "data": "2026-11-13T10:49:00+00:00"
+   "titulo": "Quanto custa manter uma aeronave privada com o dólar em alta",
+   "fonte": "O GLOBO",
+   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQMXc3cC1RaHdCM3NxbG9Hc2ZJLUpRNnJEcnFqUnlxZHN3THBsMG1maS1Eb2xGazVWMXFWM3R1ODBNc3ZTNHhkeUdFT29LdXNWVjRyVlplekVyS1dOMG9TdlF5ZFM2QkxLWWRNWkNHS244b3E4YUg4VGZWVDlkMHVSMU1RZnhrOUE2OHdzeUIwXzU2Zlc1bmxOSXo1SmdvbnI3ZEdmQVgwYzFqdUU2VG1yM3RPcU1TellLaHBtX0RpcHE3Ny1PWU9ody1SMGUyYTV4dGfSAeABQVVfeXFMTXBDNmRRaHVLdTVRazZUemhSeDA2WDJfV0NLYkZDUkZmdVMxQVhiRnBzWHN6OEZUVVlJdlFSY21mX2E5S09xZTM1ZC00RDItRXVmRUdROS1sSFJmdnZuTkgwRDdJYlp6V3NJVGtFRTdEbnFnSW5XOTFDblNXdmJmblZPajhLOUttLXpZaEg3U3ZSV2ZjQjNOSGVhMzQtZFo5cTZRMWVjQTUtU1RCNDY2LUIzcWRSUVAzbXN0RFVBZ1I3V2JJLVN2WnNLdVJzREZ6YXQzYWxjbFJJRjhRZHZ5cnU?oc=5",
+   "data": "2026-11-13T12:36:40+00:00"
   }
  ]
 }
