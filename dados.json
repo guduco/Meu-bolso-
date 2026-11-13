@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-13T01:09:32+00:00",
+ "atualizado": "2026-11-13T02:50:45+00:00",
  "indicadores": {
   "selic": {
    "valor": 13.75,
@@ -16,6 +16,48 @@
  },
  "cotacoes": {},
  "noticias": [
+  {
+   "titulo": "Dólar sobe a R$ 5,652 e Ibovespa cai com ajuste fiscal no radar",
+   "fonte": "Vero Notícias",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNZE1XNHZqR1VWVmFfUF9zWEY0dVUzWVNzMUJ2dE1WNHpUUnN5TGZERExYMXhBcTRoSmgwajRwZGhGRjZuYmZjRk02Q2ZxcjZvbHpCam85ejU1MWxPeXhtaGNjNE1SaXFVMDV3RDl5RzRoZlVuS3dHWnFGcy1EZmFvZzZVYnBhR2E0bUxWMENiZUZtdTBqeGYzVEsyZ2E?oc=5",
+   "data": "2026-11-13T02:45:00+00:00"
+  },
+  {
+   "titulo": "Linha 10-Turquesa da CPTM recebe investimentos de R$ 97 milhões para melhorias",
+   "fonte": "Fato Paulista",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQcjVTNlRKRENMcDdjcVQ0cGVKRjIxWDNLTy12dTFDRVlXTlJ4bUc1MzZUZXlVSjJQSmFqSHdNRVJULUJoM0hDV1VBQ0NQbjgzTWc4VXY0c1ByNXNxVUs3V1N5Y0pqbXJ6MjlxWnl3ejRqZGUyWldrdGhZMzExdmQ5NlY2ZXNyc2hrdkVEaGNiSGJHZE43?oc=5",
+   "data": "2026-11-13T02:03:45+00:00"
+  },
+  {
+   "titulo": "Dólar se aproxima da maior cotação em 19 meses devido às expectativas de aumento da taxa de juros pelo Fed; iene chega a 160",
+   "fonte": "TradingView",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5BdjNucUxlUl9iOXppMXVsNGJDdFE1UGRqdnRnWFNnak9pYktrRE9McjhxaTVPdFhmUU5jaXNXNHVNX0ctYm5uRlYtUC1meFVfZEVPdVZaaTMxejBOMnk3LThMTzdsQ01PN0ZpdW9UdjNxcUtWc0JR?oc=5",
+   "data": "2026-11-13T01:51:47+00:00"
+  },
+  {
+   "titulo": "Ações se recuperam da oscilação da Nvidia; dólar sobe com os rendimentos dos títulos dos EUA",
+   "fonte": "TradingView",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBTRzJtSFFJdThfV2xIRXQyOVBzYThfdUdPcmZTSWhFWjhfMVFBdl9obS10cU9QaFZtNkwxWmRPcW9vWEYzdGdGN3BDaTNGb0ljVEt3bmVHcjBYSHR6YmxJajRldVhVLXFkamRDa1ZzR0NoWDQ3Nk9N?oc=5",
+   "data": "2026-11-13T01:48:00+00:00"
+  },
+  {
+   "titulo": "Na COP31, Lula volta a cobrar investimentos dos países mais ricos para preservação de florestas",
+   "fonte": "G1",
+   "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPcE8xb3Y1VHM2Q3VtYnZNUWtpeUZSTEhhT1R4a1M2cEdlZnNJa00zcWc0MlBRd2hQeHRWTzBTU09uYW1xZ293a0ptZjRUTVhHWllubmE3MVZQb0thQW14c2ZIRU5NRHYxcmxVRmtJTFZpMm51M081eWhWMnloZXo2NVFNWmQzLXhVQmRkWk1JU2hvUFVDU3I4amxNMXNBQWEyRFJQVE0wZUJ4XzdRM3NobHNEdFZ1QmNfYnpnR2hzbDFidjdhMU93VXpwZUVONE9LNGxYOWNrSzJDdkpfamQ5ckx5QWFzbl9iX1E4N9IB-wFBVV95cUxObFlCMktjMFdwVVMwdkd5Z3VnSXBaRmdUcmJudVBBcmRHZjVxSnhwVHVWSEE2Mk9YLXhMajZSVi04azNBVE1kOGthblNEVDJXZmxfYjlFRlVGbWROazFLMnBLX3lYNWRuWUUwUHFtVzIxcWY3RUFDRXl4cU4ySHNQOXVxS0gxZnBKRnA1LVQyOXNrWXZhVGJMM1FWd1FpVk1MZHJqbFVxbGRRU1F3YnBZOVllbDFWY085ZFEwX2xKRXA1azlYcFJYSVUzbmVwRnEzbFJscEFEU01zNlUzcTNRVWxia1h4NzU5RjVnekZlNm9YcnZnbFNHeWhPVQ?oc=5",
+   "data": "2026-11-13T01:24:37+00:00"
+  },
+  {
+   "titulo": "Excesso de regras afasta investimentos e reduz competitividade - Times Brasil | CNBC",
+   "fonte": "Times Brasil | CNBC",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNNkdoTjU2c2hEdGd2VV9RMk9Jb0VhX2FFdEFPRUx2ZDA3NGpVeWJKMW5fLXpiYWFFal9LTEhLQ3NRUUY1emVUQms4RENBbnBNVEpqT0xUbWd0TGg5ZE5BcFdpenZzS1RzNVctSmhpMWk4MHBJRWwxWnU2NDdxS1lYTVRELVpZWkdibHYyQkU4Qml2YWx5dU1WZXA1cTlPU052WUlYZWl1ck9NZUtOeDlHS1lVczhYSXZFS2RMMGVWeWY5WGJDTlE?oc=5",
+   "data": "2026-11-13T01:15:00+00:00"
+  },
+  {
+   "titulo": "Dólar australiano se mantém próximo a mínima de 10 meses com alta nos rendimentos dos títulos dos EUA",
+   "fonte": "TradingView",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1OZzh4N2lpMjhOM2dBTmk1dGdOd2JIMmdCMHV0bzBpbjlldnFLeW9fSGtySEJSZUtkdkhtTzhoQURqLXRhblIxcXdiY29vVUNFak5ONFdnVWtHVWsxR21qVkwyQkFWbUNBS0w1ekJDRHhwVlVlU2Q0?oc=5",
+   "data": "2026-11-13T01:08:00+00:00"
+  },
   {
    "titulo": "Waack: Dólar sobe e conta da demora de Lula fica mais cara",
    "fonte": "CNN Brasil",
@@ -41,52 +83,10 @@
    "data": "2026-11-13T00:43:00+00:00"
   },
   {
-   "titulo": "Dólar dispara e Ibovespa recua sob pressão fiscal no Brasil e cautela monetária nos EUA",
-   "fonte": "Brasil Inovador",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNQlJrb1JuRlhxS09qUTZxWVB0NGVKMmx2MFBsaUhGNGtKSEt1eGIwY083TEtna1psakRiZzhfRkNWYjkzMnBhZU9sTjJNQ3IzR1ZvVXFSMWswLWNlOHIxMTg5cGNUWms2aWh6U0pDVWY0MXJjU0d5d3hyMVFRS20yZzJVYnB1LXZHU0U4Q1JOUFdzTTE2V09LUThIcU1USFI1NFhiMDF4MlRadTVqUi1ub09VbFYwU2JlTnc?oc=5",
-   "data": "2026-11-13T00:36:51+00:00"
-  },
-  {
-   "titulo": "IPCA de outubro desacelera para 0,14%, mas estoura meta",
-   "fonte": "Acia Araçatuba",
-   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9pRm9HWWtGVjFWMDVtb09pS2xKSjBUeFJ1NE0tT3Jab3ByNGw4eS1ObXc4WDJJM3JhWWhzTkVqY0JNUGZtOFVQTFlpaERFR1djd2tvRE1kT1NVcUIwVmNYMXVvRnU4RWctX1ZoQUFsRk1rU3MxY1hUVllpaw?oc=5",
-   "data": "2026-11-13T00:36:15+00:00"
-  },
-  {
-   "titulo": "Dólar hoje dispara a R$ 5,65 e Ibovespa cai",
-   "fonte": "Acia Araçatuba",
-   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5UQ3YybWc0RDJqcXU2dkNyZEYxRUNQaWRZSnEwYXo3RVNZczdQMnF3WmI4dldBVkFPYkRsWTlFdGxkX1hnbDg3S3g0ZHNQUTN2a0JqRTRKbEQxNlRWM0ZITTlTZVc?oc=5",
-   "data": "2026-11-13T00:36:15+00:00"
-  },
-  {
-   "titulo": "Dólar fecha a R$ 5,65, maior valor desde junho",
-   "fonte": "Acia Araçatuba",
-   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBJSzlOSEFPczdWTVhyUi1zX0c2S2dBRFRzVlF6ZzNmdGxQc3E0TjdlNkR5VmxaWS1hVUdUeExjSEhOd0p5SlR2ZGdhRFZ3dTlTM1JLczQ5V3p1amtVNC1OLWZyZjJCN2hFTGc?oc=5",
-   "data": "2026-11-13T00:31:37+00:00"
-  },
-  {
-   "titulo": "Inflação desacelera em outubro, mas continua acima do teto da meta do Banco Central",
-   "fonte": "G1",
-   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQd2hkTk8xc01WUVd0UUoxekthRUx3MWdHeW0wM0lNUUlGdk96TXBRcWlaZERzUVVGa1dVYllqOVdBRlF1RjRON2xHcTI3aU05cjFXYzhvcWZBV2syV1g1dmkzUDBNdEtKRG1VY0N5TDQzWmhOQ3lzdFktQjNtdWhHSktNOGNGakFua3RVSms4MktsSEh0OWY0ZjVpYTE2SGNFUnNKaTRhMnk2aW5LbzgyVHpKN29CRGRhRElLN3JSZ2w0VEJDeFY2d0VvSDFLSWdXd2dSTGdXTGg2Y0RW0gHrAUFVX3lxTE9ndlROWXRNWUJpQkctQmRuZkV2Q1VYVy1XTThDYV9Oc3JyTV8ySkxuc2JGSXBsTzBoR2ZHUVhuVDNGYWRfQ3pzaVU0LUR6d0tpSDAtQVBPQ1FMWFoxQ2pYS1lrVldfR1hjWktSSzFlMVRGQmVjcXdpWWlkeXY4NE8zX1M1dzlDWVc3eVFBNk9TUXQ4UUtVTFpCU3o4UlJXRktVTEkza1BUa1N3blFza1JuVExRSmlNQTdBcFU0UmJsWE1FVGN2WC1GY3pEd3VCc1hPSzBSR1lrV2VZNlBoMFFlM2t1V1dsTEZadmc?oc=5",
-   "data": "2026-11-13T00:14:40+00:00"
-  },
-  {
-   "titulo": "Ibovespa cai com fiscal e balanços no radar; dólar dispara a R$5,65",
-   "fonte": "TradingView",
-   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5sTFpIcjhkUXR5Y1o1aGtNMFR0akN5WklxTWhPLVFCUnV0REJmQVpWVWhDb1dObEZuZTFNOUlQeGRPRXUyNEtEdXk4M3BXVkRqR1BlWEdCb19EWk1uMTVXM0tmLVdZbVhLRlNyNU5sTC11Q1FuVUFB?oc=5",
-   "data": "2026-11-13T00:12:00+00:00"
-  },
-  {
-   "titulo": "Inflação na Argentina sobe 2,2% em outubro e chega a 33,1% em um ano",
-   "fonte": "UOL Economia",
-   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNQUl1cVdrNWRvaWFBTTJTZUc4LWJoeU02Q2lNazlyNFhVdk1EZFJOdW5ZdmQxT21HRU5SMEs2SjF4UmpncXNrdDc1Mml3SXA3TDh1eC1hU3M1VTJmT1dVc2RwQ0RwQnBoaVpSQnBQVDNPYWhJRlM4QV9FWEktZXZQdU1pSzAzWTNBN1F0R1MySlNTQ2FRMUwySXkxTTZ6eGJ1alN3eG1GNWU3RnR4RGJUR0Z6ZGlpWkV2SUFReUJKX096RHNibF82b0lVRnViS1BnQV8tTHM4eXdEUWIzLUcxMXJrOA?oc=5",
-   "data": "2026-11-13T00:04:32+00:00"
-  },
-  {
-   "titulo": "Dólar a R$ 5,65 é o maior valor em 17 meses, e Ibovespa cai",
-   "fonte": "TV Sim Brasil",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPR3BVOXc0eVdyT3JXa2RSck5kZllWTlBDRGNramttN2d1dEpCZTFyX1J0NF9xd3YyMjBjSk82WWJDYmoxRzdObThSZlBrSFBfeFdockNWSnJoTTI5YWpkekZUY1o2U1Y3TmxRYVJFei1ja004TER5eTRBTE05NXo2MlRpdXFfd3d4WWZNUWZhZzcwaXlkLUE1QlRFN1RvYkY1X21DS2tjY3Zvd2ZuTV9F?oc=5",
-   "data": "2026-11-12T23:57:53+00:00"
+   "titulo": "Para escapar do dólar, Belluzzo defende salto na aliança com a China e Banco dos BRICS como ‘BNDES global’",
+   "fonte": "AEPET",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxObjZCbXRoa1lmVkd0dU9TSlk2RjhpR19rUnVyaFB2d09UM3o2VFZVeV9wel9lZEVtNVpYdHBqQ05JMnV1WXVqSGwtM1ZST1ZGVWxQb0JueFpWZ3c0OW9EcUYzX2NPbDE2WkxkVDAzU0FneGwxUXIwaDFxeWxRYmJuNGpab2hEbTF3NDhLU2ZEV1hONjc5V0lXbm85SzExSkg3R0VEb1JETVRjYl81bTdBU3RpWlU0dzE0VFdIcXB0dTYzb1dqZVI3VGlBclByQQ?oc=5",
+   "data": "2026-11-13T00:41:39+00:00"
   }
  ]
 }
