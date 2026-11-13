@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-13T05:00:01+00:00",
+ "atualizado": "2026-11-13T06:01:42+00:00",
  "indicadores": {
   "selic": {
    "valor": 13.75,
@@ -16,6 +16,12 @@
  },
  "cotacoes": {},
  "noticias": [
+  {
+   "titulo": "Com alta do dólar, videogames e computadores ficam mais caros",
+   "fonte": "R7",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQMTZHVWd0YWF5N3BYc09nMk93ZnpsaUVybDVOR19feUw3WFc4cWVQYldLTzNIekg2RXhrX0NtZmFNMUw5aFV1ODdld3RuazBnQlFTcWZBZ2NmeXNuSTZPVFpyeVlEenhzMmFjeElLbkF2aW8zbmhFcFotWndjams1OHRReTcwdTJ0NG9VVWtoY0tZOVpKY2w2MDJKdTNHWUxKWkxzdk5B?oc=5",
+   "data": "2026-11-13T05:00:01+00:00"
+  },
   {
    "titulo": "Dólar vai a R$ 5,65 e atinge maior nível desde junho de 2025",
    "fonte": "O POVO+",
@@ -81,12 +87,6 @@
    "fonte": "XP Investimentos",
    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZW5GX1ZORDJLUVplMC05UThHQ01qeDdnSkJWbVpaVkZLV2NJbTFpVkk2YzJtT2NibHVIMTVWVjZyeTFLckFDOGdNSC1hWVFHdkZZNThsX0l3X185b2luZERlMFQ0eGJ5WFRIWEVZUXdLMDdLZE9SdjVyODBxeFhSTm80b3FaekhFTVpqVno2Y3hEbHpqSmtUdA?oc=5",
    "data": "2026-11-13T01:16:17+00:00"
-  },
-  {
-   "titulo": "Excesso de regras afasta investimentos e reduz competitividade - Times Brasil | CNBC",
-   "fonte": "Times Brasil | CNBC",
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNNkdoTjU2c2hEdGd2VV9RMk9Jb0VhX2FFdEFPRUx2ZDA3NGpVeWJKMW5fLXpiYWFFal9LTEhLQ3NRUUY1emVUQms4RENBbnBNVEpqT0xUbWd0TGg5ZE5BcFdpenZzS1RzNVctSmhpMWk4MHBJRWwxWnU2NDdxS1lYTVRELVpZWkdibHYyQkU4Qml2YWx5dU1WZXA1cTlPU052WUlYZWl1ck9NZUtOeDlHS1lVczhYSXZFS2RMMGVWeWY5WGJDTlE?oc=5",
-   "data": "2026-11-13T01:15:00+00:00"
   }
  ]
 }
