@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-13T06:01:42+00:00",
+ "atualizado": "2026-11-13T07:17:11+00:00",
  "indicadores": {
   "selic": {
    "valor": 13.75,
@@ -17,10 +17,22 @@
  "cotacoes": {},
  "noticias": [
   {
-   "titulo": "Com alta do dólar, videogames e computadores ficam mais caros",
-   "fonte": "R7",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQMTZHVWd0YWF5N3BYc09nMk93ZnpsaUVybDVOR19feUw3WFc4cWVQYldLTzNIekg2RXhrX0NtZmFNMUw5aFV1ODdld3RuazBnQlFTcWZBZ2NmeXNuSTZPVFpyeVlEenhzMmFjeElLbkF2aW8zbmhFcFotWndjams1OHRReTcwdTJ0NG9VVWtoY0tZOVpKY2w2MDJKdTNHWUxKWkxzdk5B?oc=5",
-   "data": "2026-11-13T05:00:01+00:00"
+   "titulo": "Dólar sobe e se aproxima de R$ 5,64 com pacote fiscal",
+   "fonte": "Acia Araçatuba",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBXZHVsTHljdWdSWTdLWWk1MVpTTVdadnJKaDlJTG1zTnF6amJpQmhiLUFYSFRlanRmMDNIbmtvUUxuRGMxdTg4VkdMeXMzNjJlUHV5TWtHUEdTTTVwdm5GRW1aNU9KRTFEdVJLUkc4bURUM09l?oc=5",
+   "data": "2026-11-13T06:26:16+00:00"
+  },
+  {
+   "titulo": "Para escapar do dólar, Belluzzo defende salto na aliança com a China e Banco dos BRICS como ‘BNDES global’",
+   "fonte": "AEPET",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxObjZCbXRoa1lmVkd0dU9TSlk2RjhpR19rUnVyaFB2d09UM3o2VFZVeV9wel9lZEVtNVpYdHBqQ05JMnV1WXVqSGwtM1ZST1ZGVWxQb0JueFpWZ3c0OW9EcUYzX2NPbDE2WkxkVDAzU0FneGwxUXIwaDFxeWxRYmJuNGpab2hEbTF3NDhLU2ZEV1hONjc5V0lXbm85SzExSkg3R0VEb1JETVRjYl81bTdBU3RpWlU0dzE0VFdIcXB0dTYzb1dqZVI3VGlBclByQQ?oc=5",
+   "data": "2026-11-13T05:51:22+00:00"
+  },
+  {
+   "titulo": "Dólar deve ter sua melhor semana em dois meses devido às apostas no aumento das taxas de juros; iene chega a 160",
+   "fonte": "TradingView",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5teldDSmZKNVJNZ1JkNjFmb3ZfV0MwT2tfREZPcFRiRjlRLUM3OGRnU3lOQ1Y5UWhVdURlNHFhRkVubFFBYVR4YU5jb0dNczhocWV3WDctRGdvVEVOeGlvT2hRTU1HMTJqdjJHOEV6aVFXSUwxUHRz?oc=5",
+   "data": "2026-11-13T05:47:00+00:00"
   },
   {
    "titulo": "Dólar vai a R$ 5,65 e atinge maior nível desde junho de 2025",
@@ -75,18 +87,6 @@
    "fonte": "TradingView",
    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5BdjNucUxlUl9iOXppMXVsNGJDdFE1UGRqdnRnWFNnak9pYktrRE9McjhxaTVPdFhmUU5jaXNXNHVNX0ctYm5uRlYtUC1meFVfZEVPdVZaaTMxejBOMnk3LThMTzdsQ01PN0ZpdW9UdjNxcUtWc0JR?oc=5",
    "data": "2026-11-13T01:51:00+00:00"
-  },
-  {
-   "titulo": "Na COP31, Lula volta a cobrar investimentos dos países mais ricos para preservação de florestas",
-   "fonte": "G1",
-   "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPcE8xb3Y1VHM2Q3VtYnZNUWtpeUZSTEhhT1R4a1M2cEdlZnNJa00zcWc0MlBRd2hQeHRWTzBTU09uYW1xZ293a0ptZjRUTVhHWllubmE3MVZQb0thQW14c2ZIRU5NRHYxcmxVRmtJTFZpMm51M081eWhWMnloZXo2NVFNWmQzLXhVQmRkWk1JU2hvUFVDU3I4amxNMXNBQWEyRFJQVE0wZUJ4XzdRM3NobHNEdFZ1QmNfYnpnR2hzbDFidjdhMU93VXpwZUVONE9LNGxYOWNrSzJDdkpfamQ5ckx5QWFzbl9iX1E4N9IB-wFBVV95cUxObFlCMktjMFdwVVMwdkd5Z3VnSXBaRmdUcmJudVBBcmRHZjVxSnhwVHVWSEE2Mk9YLXhMajZSVi04azNBVE1kOGthblNEVDJXZmxfYjlFRlVGbWROazFLMnBLX3lYNWRuWUUwUHFtVzIxcWY3RUFDRXl4cU4ySHNQOXVxS0gxZnBKRnA1LVQyOXNrWXZhVGJMM1FWd1FpVk1MZHJqbFVxbGRRU1F3YnBZOVllbDFWY085ZFEwX2xKRXA1azlYcFJYSVUzbmVwRnEzbFJscEFEU01zNlUzcTNRVWxia1h4NzU5RjVnekZlNm9YcnZnbFNHeWhPVQ?oc=5",
-   "data": "2026-11-13T01:24:37+00:00"
-  },
-  {
-   "titulo": "Cosan pode rever ‘poison pill’ da Rumo | Novembro 2026",
-   "fonte": "XP Investimentos",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZW5GX1ZORDJLUVplMC05UThHQ01qeDdnSkJWbVpaVkZLV2NJbTFpVkk2YzJtT2NibHVIMTVWVjZyeTFLckFDOGdNSC1hWVFHdkZZNThsX0l3X185b2luZERlMFQ0eGJ5WFRIWEVZUXdLMDdLZE9SdjVyODBxeFhSTm80b3FaekhFTVpqVno2Y3hEbHpqSmtUdA?oc=5",
-   "data": "2026-11-13T01:16:17+00:00"
   }
  ]
 }
