@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-14T15:42:07+00:00",
+ "atualizado": "2026-11-14T16:43:40+00:00",
  "indicadores": {
   "selic": {
    "valor": 13.75,
@@ -16,6 +16,36 @@
  },
  "cotacoes": {},
  "noticias": [
+  {
+   "titulo": "Economia desacelera com inflação alta no governo Lula",
+   "fonte": "noticiasdoplanalto.com.br",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQWmtwREFybFozTUliT3RQMWdaNG5DOWVSYWlKLXV6dDdFaFB6YVdTS2pIdEpiNlNwZ3hlZDJjS3Q4MUN2X0t5M2dRR2pVVzIyZTRlenJHdTFFWFlzemtWMmRCMmpGbFdNTXVXTVFJVDJUR1JnRXo5NzZ1TUJUeEk3T0JScUtZOUdsNDJsdFdmYUZyQQ?oc=5",
+   "data": "2026-11-14T16:23:12+00:00"
+  },
+  {
+   "titulo": "PT propõe tributar grandes fortunas e investimentos isentos",
+   "fonte": "Tribuna do Paraná",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNQW9sel90VFdQZGdTX0hieGVOcDIzd2Y4TVBnQTd1cDdwRWRFZGMyblF4WHZuOXM5M0pnZ2VISHU4bUZqajhDS0xTWE1qU3BUcWtmam0wbUFncEp0dmNkdDFVZHM2Z2xvc1M5eDFEWHFwem1Lc3RNMkJCM0lRNEluWkpObkU0b1JKanlmN1k2TTdpMjRnRXMzWnhINnhONFhybklPb0Z6RElMeU14QUhrWXZBa1dFMU9ETnfSAb8BQVVfeXFMTW5aQ1pJZHAwYTZYbEFnWVhiY1VSMTI3T01RMFhmdHlXbFQyMVM3V29yempQaGpGd2t5NE5LMUo1MlZOMG50cDdVNUxsQUZnN19qeVJyZTNrbHBZUVB6YXBacFdPN3JhOVBRa1c5eDVDNlZXaHJBbDcyei1PSDRDdnBGS2diR1lkRUxlcTc0MDlPTW1yOVpyRWFNTktOcXplQ05GZldqYkc2Sno3NTVpZy1KcDhIbXo3Q2VSRndJX2s?oc=5",
+   "data": "2026-11-14T16:07:00+00:00"
+  },
+  {
+   "titulo": "Novonesis mantém trajetória sólida em investimentos e alcança crescimento expressivo",
+   "fonte": "O Popular do Paraná",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPTkI3eS1RLXk5UDZkYjRETDJ6b2hSSmF4bTRLMF9HTzItLVR0aGFoZE1zRzdLRUl3cFd5cWRXZXctbGdyejVveDRjMXZET0luVWlFMFh4SHRmVWlZOTRZNFRfWHI5VGJfdmpHQ0lzRDBlbERUdVAxb3dyQkkxOURkRVFxSlpaOVh1TFo4ZFRtbEUtS3lUZ3VGRUdUb3FkS1RET3dNVEtpU1VzSXN1a2ZSMg?oc=5",
+   "data": "2026-11-14T16:02:00+00:00"
+  },
+  {
+   "titulo": "Magazine Luiza (MGLU3) vira foguete, enquanto CSN (CSNA3) despenca; veja o que rolou no Ibovespa na semana",
+   "fonte": "Seu Dinheiro",
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPYXBsOTNHX2d5blNkeTczYzZsSks4M1lRcndFclg5ek5JYXMtZWdkcng0LTNTUkk2REJCRHZNQnpmbW1kQ3h1bE9JaTAyZ3RNSkVnelRCQjh4cXZPWlprSWZES0xwYW1kZGQ4SnByRE82LTFOazNvLWZvbGQ2eXllX1FFRE5oN2RNdXVndURGN0lZZEpuMnA0SFRoN2tQMExycnlpWDRQakRHaGRVcWphMWViZ0JnUk85UlJQTi14eWJ5MmhRa0R0VmVRSmljYjk3UGtZ?oc=5",
+   "data": "2026-11-14T15:43:00+00:00"
+  },
+  {
+   "titulo": "Inflação pode voltar a pressionar no quarto mandato de Lula; entenda",
+   "fonte": "Jovem Pan",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNS0pjeW1uUjJLV1lFTXhGTHhCVFJjekdQVlpoYXdVSmdkNXhCM0lkWnlaaDBiSzRMM3ctYXRzOVpKSTg4d3ZzLVp4QmRXdVNoMzZoUjBGbk9NbG1SeFhlMGtJWkhYQXdZMmRRZWtRN25HLWp4QXA3NlRJYXdTQWpQM3pSUGRweXRiOU5TMkZlZzRFdlBlaFJDeHd3dHFQdUdlV0JN?oc=5",
+   "data": "2026-11-14T15:41:30+00:00"
+  },
   {
    "titulo": "Bancada do PT protocola projetos para ampliar tributação sobre grandes patrimônios, investimentos e dividendos",
    "fonte": "Portal VV8",
@@ -35,6 +65,12 @@
    "data": "2026-11-14T15:12:46+00:00"
   },
   {
+   "titulo": "Economia: PT propõe taxar grandes fortunas e investimentos",
+   "fonte": "Portal Terra da Luz",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPbS0xMm9GRWRuUGxHVjRvN0FVam02UWw1aGhmNWhCNmRlZEtmUTdETnlzNnpuSjM0TVBZTXEwa1ZxdF9zT21ZWWNqaUNpY0xiZnJHMG1tYk9lWXNUN1ZnVzh3RjdTdm1wQ2VyT1hzTEl6bDJZbERqR1Vrd2hpbDVHd1dfUmxFeUJ1UGREMVpWdnN4OEk1UHJHaWtCeGFadURiakE?oc=5",
+   "data": "2026-11-14T15:06:30+00:00"
+  },
+  {
    "titulo": "Disputa por relatórios climáticos na COP31 coloca investimentos de 2028 em debate",
    "fonte": "Economic News Brasil",
    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPaDc1VTUzbWk0UDZWbm9ldnRvMEV1b1JNdWN3WGJLS1FIVUNKWWlRbTRWZ0NJR2hqSkxyWmRPVkFPa1VtSmFQOHFZcHg3X1dZb3NuRG01WlJzcWVnRkVDdm5xVHBqNlZKWUU5WVpWMGE0MjBOa2ROTVgwbmFlVy1LTmtOSXh6UQ?oc=5",
@@ -51,42 +87,6 @@
    "fonte": "tmc.com.br",
    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOcmZPdEtlek5YTlBFVjBaSHZtNndLSXQ4V0UzX0dCckIwRHg2aXg4ZkJMU0M0bTRJb1pDeHJsclNMYV9ic2F5ajdCZ1ZpY2JuV0VzTlB1aERsUzdsdFhScVVaeEh6czVEOFRNa0x3V0lUOGx0YlJVTFFSV0oxbWVycE9uRQ?oc=5",
    "data": "2026-11-14T14:37:53+00:00"
-  },
-  {
-   "titulo": "Jantar exclusivo no La Cucina di Tullio Santini une gastronomia e investimentos",
-   "fonte": "Portal Zumm",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQR25qRVhJd0sxQVJPSnBVR2dCbmdDUkpzR3hXREpnblAtc09aWVlFams2QW9pZXZ3cFVPb0pBYkh1dlgwdnVhN0RfdDQ0R0ZxY2ZwX3lDZi1XVmg1c1RlQW1ZMllBR2RMQ1RqUkoySERTd2lVMzRIVEd3RnUwS0lvNXU4UUZaUDdmNHpxaDc1U3Bvb1FXSEplTDk4SzZEQzdFREVYT0lwZ3V1QQ?oc=5",
-   "data": "2026-11-14T14:31:22+00:00"
-  },
-  {
-   "titulo": "B3: Trabalhamos para atrair investidores estrangeiros",
-   "fonte": "CNN Brasil",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPbTFNUDBfcENYZjRiR3piZnNFejZ0ZVZlTUJRMy1heWhDUWIyUlphRVpXNkdUdnhjTGdvelo3UTFjUF9wZEJaOVY5aWpVUmZMU2FfUncza1Q0NlBtN3k0VnVWSVdveWNGMW1GWWswNGNlRWJyT3NKaUtaNE9PblRZaFlueXBFYTNSWkYtR1lPQUptbU5RNEdrRnJqV0ZJTUViU0lLM0gwM0M?oc=5",
-   "data": "2026-11-14T14:30:10+00:00"
-  },
-  {
-   "titulo": "Governo apresenta potencial de investimentos do Acre e busca referências para fortalecer inovação no estado durante o REC’n’Play 2026",
-   "fonte": "Agência de Notícias do Acre",
-   "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOYWhGYXJfeGNETjVpYmc1UC1fakRVRFRsNVlCV3JubDg2XzNka1Z1eTNDblUzdUNJU0M4N0FfTzFTTzZGY1dRWHdON2FVRFRMZUVvWktPRDJ3V3cxNDUtWHMyUFFKenFLX1pZUndELWh2MTNuQzhZSDMwYTN0WXQ2U0UzcjBDOVFVempIeDV5TDdOMk9GSE5SWHJJT1JaUnpzemFGTnBRdFo4aVhFazVXQjYtdzBpYVNCendfNUxRQUZ6QXlPTGw2VWFTZ0RVUUhweEdTYVBYSTdFcWtKcHU2QTg4dU90WHJzS2ZvakNCZw?oc=5",
-   "data": "2026-11-14T14:29:12+00:00"
-  },
-  {
-   "titulo": "Festival Melanina Acentuada reúne atrações em São Paulo",
-   "fonte": "Jornal Correio do Brasil",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPWjhmZE5pbXE5V2NGV2xUUU04a2F5TWNtNktSSkxuWEljeHFFN0JqeW9aTmQxd1kwdjMybFZoN2lYVm5LeWttdFMzZDhPdzB4N2pCVVZPek13ODdNaE9iTFdFRndNbmM3aVFTQmtyeWxyVS1fQW00czlDbUZ3MTJybzRNR19Ua2sxcXNOVmpn?oc=5",
-   "data": "2026-11-14T14:23:33+00:00"
-  },
-  {
-   "titulo": "Financiamento imobiliário exige cautela após pausa do Copom e alta de juros bancários, avalia especialista",
-   "fonte": "Brasil Inovador",
-   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNVzF0WWtRZmFNNV9qQ3VJVWJpdXE4WDBSSUtIUVBXM3poQmhidWY2dlFJX3g4RHhiUEQyS1N2MndvWEw1dVRjdGd0R0p2RkhBQWJldW1udXEwaDhONWxUbTAxaHNKYkpESXRmajYxWWRoWWZxdEg2TktNS2xwTldxMHpwTnk0X0RrcmVwWTBNYXhHY0N2ZkpkMWZEUDNxVTBkTU9ra1dkSGt6dXd1ZDg2X0RmQ0VMekNrX3N2R1dZd2VqVHh5ai0zT1VkcUEyZUNiV2c?oc=5",
-   "data": "2026-11-14T14:20:06+00:00"
-  },
-  {
-   "titulo": "Greene, do BoE, defende altas proativas de juros para conter riscos de inflação - Notícias e Estatísticas",
-   "fonte": "IndexBox",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPaFNSRl9mWUV2aDRkdGt4THRQeGxJYlNkOWZLQS1xZl9qN3lmenZaUVdRQnNJWldjX3ozVUhSU1FCX2VUVnJYUHVaZk1tbTBrV0ROaTRDd2FzM2pnMGJwbmJJbnhOb2R5TjFnb1BjQlNKcGRTc0RBZlk3UWJrekd0OTZEZGVjd0g0bV9zakFBanVsbHUzVU51ZC11bHVZa2lJbENmS0JzTjVUaTIzUEpwcg?oc=5",
-   "data": "2026-11-14T14:00:29+00:00"
   }
  ]
 }
