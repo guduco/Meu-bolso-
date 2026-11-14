@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-14T13:54:02+00:00",
+ "atualizado": "2026-11-14T14:45:07+00:00",
  "indicadores": {
   "selic": {
    "valor": 13.75,
@@ -16,6 +16,36 @@
  },
  "cotacoes": {},
  "noticias": [
+  {
+   "titulo": "Jantar exclusivo no La Cucina di Tullio Santini une gastronomia e investimentos",
+   "fonte": "Portal Zumm",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQR25qRVhJd0sxQVJPSnBVR2dCbmdDUkpzR3hXREpnblAtc09aWVlFams2QW9pZXZ3cFVPb0pBYkh1dlgwdnVhN0RfdDQ0R0ZxY2ZwX3lDZi1XVmg1c1RlQW1ZMllBR2RMQ1RqUkoySERTd2lVMzRIVEd3RnUwS0lvNXU4UUZaUDdmNHpxaDc1U3Bvb1FXSEplTDk4SzZEQzdFREVYT0lwZ3V1QQ?oc=5",
+   "data": "2026-11-14T14:31:22+00:00"
+  },
+  {
+   "titulo": "B3: Trabalhamos para atrair investidores estrangeiros",
+   "fonte": "CNN Brasil",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPbTFNUDBfcENYZjRiR3piZnNFejZ0ZVZlTUJRMy1heWhDUWIyUlphRVpXNkdUdnhjTGdvelo3UTFjUF9wZEJaOVY5aWpVUmZMU2FfUncza1Q0NlBtN3k0VnVWSVdveWNGMW1GWWswNGNlRWJyT3NKaUtaNE9PblRZaFlueXBFYTNSWkYtR1lPQUptbU5RNEdrRnJqV0ZJTUViU0lLM0gwM0M?oc=5",
+   "data": "2026-11-14T14:30:10+00:00"
+  },
+  {
+   "titulo": "Governo apresenta potencial de investimentos do Acre e busca referências para fortalecer inovação no estado durante o REC’n’Play 2026",
+   "fonte": "Agência de Notícias do Acre",
+   "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOYWhGYXJfeGNETjVpYmc1UC1fakRVRFRsNVlCV3JubDg2XzNka1Z1eTNDblUzdUNJU0M4N0FfTzFTTzZGY1dRWHdON2FVRFRMZUVvWktPRDJ3V3cxNDUtWHMyUFFKenFLX1pZUndELWh2MTNuQzhZSDMwYTN0WXQ2U0UzcjBDOVFVempIeDV5TDdOMk9GSE5SWHJJT1JaUnpzemFGTnBRdFo4aVhFazVXQjYtdzBpYVNCendfNUxRQUZ6QXlPTGw2VWFTZ0RVUUhweEdTYVBYSTdFcWtKcHU2QTg4dU90WHJzS2ZvakNCZw?oc=5",
+   "data": "2026-11-14T14:29:12+00:00"
+  },
+  {
+   "titulo": "Investimentos estrangeiros no Paraguai alcançam US$ 31 milhões e impulsionam demanda de corretores brasileiros",
+   "fonte": "Brasil Inovador",
+   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOVERlVTlxdUFvaW9PM1ZFSWxycFRDZUgyZXZ0R1pIc0JPRkJBYWNTaWZTbmVVWDNjN3k5SkRuZXpUX3ZfRWdvTjF2X2hYZVdpbGtfWW5KV05ncko5cWdCNzN6NUMwX3NsTmJDdm5mQkJjRWpnMXQ5aHZVVUduYTdXV0wwZmkxcnAwU1BoMWdzWTFxcU1BZUdjRTBLN29FNEw2WHhyWWZraUZXdWlXdnoybk9ka2NXRVg0enphalYydUJwZ0RndWJERk50VE50X0lKMWZ4dmVtUQ?oc=5",
+   "data": "2026-11-14T13:40:05+00:00"
+  },
+  {
+   "titulo": "Inflação na Grande São Paulo sobe 0,22% em outubro, aponta IBGE",
+   "fonte": "G1",
+   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxORUlFWm9uUUJ6dVhOSVExc0szTWJkN1FZM2FjZURudUY0VEZfWXJEdWpUQ3JKSjljNnRYM3BjbXBCN0pvWWgxbTBxN0JIMEp3LTE5NEpSWmplNzUyX0w4bEhxdFItc21hZmFmVlRSeUlHeC1kX2ttUXg3MmlXcE1QY3JNZkZQdU9yY1dHQ2M5MnZFZ2xPMTgzVHJlUl8yNm9PbGhsYlNVTHgycEJudy1vUUdudHNPeTI3N1FvWU4wNmFRV0ZqdEREdlloMk56ejhldk9aQUFBU09LczBoVlU5QmIyOXJGeFlZTUHSAfgBQVVfeXFMT08wSDREQjFwZ3pXNG5HcHVicWRucGhYX3ZmTnFkM3J5blFCOG9vczhQdV94bU1UUFNoMjc4TlVYYVRaSlp5eGZZWS10YXVyOWJoTkE3enhHazNOMUdhYW1lekFhMFVKUEpkdDdCNExaNzVnUzRpaVVQbHdHUGhtN1JDSTZGaW1ubU1MUE01Y3c2ZWVkVG9LMjVNdUhmMkJNR3ZFcmdJdjF0aC1iNWlCQTRlSGJvX1lQWFl5aEN4WVJEUmpET1NxMHJqQ1RVc1FueG8tTURiX2NCa1BQTUxjM0lZV1Y1bExkenFZZlIzRk1XWHRwVTNEczE?oc=5",
+   "data": "2026-11-14T13:36:58+00:00"
+  },
   {
    "titulo": "Jardinópolis anuncia mais de R$ 8 milhões em investimentos durante a abertura da 3ª ExpoJardi",
    "fonte": "MUNICÍPIO de Jardinópolis",
@@ -53,40 +83,10 @@
    "data": "2026-11-14T13:12:00+00:00"
   },
   {
-   "titulo": "Lula é peça-chave para Ibovespa voltar aos 200 mil pontos? Empiricus traça possíveis cenários fiscais para o Brasil e seus efeitos na bolsa",
-   "fonte": "Seu Dinheiro",
-   "link": "https://news.google.com/rss/articles/CBMimwJBVV95cUxQeGdEMUExTXhydnFRdTlfMFJ3eU04TThGblcyUEV0WG9Fa1g1LUZ5QlNSbFdOVHpVTlIwMkN5M2FMaUY5ekJtOE1UXzdvbGZ6bVgtYUtNbEl5RGNIQ0dHSTFLblljMU1ReUZfNk0wbHVkcWFPN2daNGxCbmlCRUo0RWpIZ3RaaEtDSXBWQmVmdTRrMzEyb3g2Sko4b0p4UUNUYnAzSU5QWVViVWdTQ012NUtCdDRBN3lRampaRmVxMnZWMHVMRHNxM3h0NC04ZWJkeEVIQWh3dXNCY1VNTHd6ZVVpRkJ5QTJIb2lKR0FfN040UDU5WjJWbWVEZVhFdWR1MmJRTzM4WTM1SWdBemZKaFBZNFNES25UOVVF?oc=5",
-   "data": "2026-11-14T13:00:00+00:00"
-  },
-  {
-   "titulo": "INPC, inflação que corrige salários, acumula 4,49% em 12 meses",
-   "fonte": "Jornal DR1",
-   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNYndrNXBTTlZILWVLZWxHbmZpcG9icFFGVm9Qb3FRT20yS0lZMlJCWlZ3S2RtUi1rUlc5WklIVTB1RDNsSWxnOU82ajRLaWgxTV9hNDJOTW9pWWRjaFN3WGt4RWt6RC1XSFZMOGhOVmFjMlhMZS00MHNLYkk1VnN5dDlUUXZVamRaVXRtZw?oc=5",
-   "data": "2026-11-14T13:00:00+00:00"
-  },
-  {
-   "titulo": "Hospital de São Joaquim recebe R$ 200 mil para investimentos na lavanderia por meio de articulação de vereadores",
-   "fonte": "Notiserra SC",
-   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQejlGS0lSUnJXa3lCX1VvbGZGdW4tVUw0RGZlRGNmdEpKTlo2cmQwdHV5MHE5NTZGc1FwMDQ0QTJ4bEJ6d3QtQXJWVjhBUEFuZHEwTVZsV0Npa0h3enE5SWJtdmIxYjJOTGJnTEhpQ1NLY3A2TGpCbll3a013MFJZMEgwNDZrc2o4clZRRGtMQ3MxNWtJclloNlVFM2EzZVJ3S2Z0TVBGSWRRZW9LeVhhSTJ3UEVpMnd6SU9NYlBNN2dGWDFPVmZkRWdDN1pYcWpnZTNTb1JB?oc=5",
-   "data": "2026-11-14T12:54:46+00:00"
-  },
-  {
-   "titulo": "Diversidade de negócios e polo gastronômico: o que atrai novos investimentos para a Avenida do Forte, em Porto Alegre",
-   "fonte": "Diário Gaúcho",
-   "link": "https://news.google.com/rss/articles/CBMisgJBVV95cUxNYmVDZGR0UGZ0aWRWRU5CTTJZSmVwWWY0Y2pSRTkwbWFvQzRYTWtUSzlIQ2ladnRGeWhTU2RkbWJSTFdRSVBfSUFxbjZXTXczazU5TWpvd1ZPczJ4Z1lLdTkzT1FFcVdYTHpQUXVnSnRTTU5qcUh5bHRfZkxNYjFadXA3cGZ5TGt0ZGl4cFFsNlpWNllqNXdaZ3VFME5zUmEyYVo3V1NGczZ3VWJTUnVTVzF4Tzl1cVVPNGtKMEwzTm5TTzhMMDBxTnpIWFluQk8yWjlRbnVvYzdYMjJ6UktEdnJqeEFyU1JRLURTcVc1NF9UWVVKeksxWkZVY1lTclNmWUJtdGlGTXZJNHpidzJDQ3J4ektYdU84dWdhME9nQjVTU0dvOUpsdS1VcUlxcWl1N0E?oc=5",
-   "data": "2026-11-14T12:47:38+00:00"
-  },
-  {
-   "titulo": "Mercado financeiro projeta Selic acima de 10% até 2030",
-   "fonte": "Vero Notícias",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNMDZsWnJuVVBEcUdPVTlkckNKMXVjcURtbnlXZGZkY0NaM3hSY29zUHlSamJoN2tBaS1wNjJ2MmEyRTB5Y0tUM1QzWXF5cDJfNzRBbjNZdkNEdWdSUlBTS3pkV3p4bUk1aUtLT2lCTnQ0M1VDX2w0NlV2aTBnTzBOcTd4ZlFrSlk4UmRlYnM2cXFEdw?oc=5",
-   "data": "2026-11-14T12:34:34+00:00"
-  },
-  {
-   "titulo": "Sem sinal fiscal crível, pessimismo com Selic e PIB seguirá punindo ações cíclicas",
-   "fonte": "InfoMoney",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQdlMwb2UySndkV3lJSmV5UFY5bktlYmdDckp5SnV4eUMzSU5DUkd0V1RJeEJ0anB4bWpqVVY0elBCTURGZlJsS2lJUDlpYUJ3QU0yRTkwc3J3bXNFSjR6Wm5JVngzNlFmSVY3SkZ4R3JCRFpma3YzNENjOUVONl8wMWxvMXhCanpiTW9ndExWNW51d0ZyUE9IY1NzZlo0V2FRTUZ6VXI0WFNnSGlCTWRmYm90N1hXVEpCSXRpa9IBwgFBVV95cUxPdjJYWXVZN0p4U29yVFFrY3Z0bEw5S19tVTV0TEk3SnM5OURCUFp2bVV5ampfZktEVWhLenJfYWF2N3B3M2lqbmhnbFA0a3lKVm5EUmdSVzc2QUlrTUM1RXNxR2xybE1jRTVHSDlSSUE3LWxkc0RFMl9sbzhTZC10WkVQLTJMU1U4UmNlek5oRVExUENyOTNhWmJta0FkMG04SEMwMHlsSG1uS2puLXZ2MG5GQjFlYmxmYTZWMFo0WWt5QQ?oc=5",
-   "data": "2026-11-14T12:22:00+00:00"
+   "titulo": "Notícia Lula é peça-chave para Ibovespa voltar aos 200 mil pontos? Empiricus traça possíveis cenários fiscais para o Brasil e seus efeitos na bolsa",
+   "fonte": "Kinvo",
+   "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPa2FNSzIzWHQ2NkhESUZqMHAweVJ3RHNpNTd2Qng0aFpNc0Y5cm1rTjNweUtfa1dZZ1Y3bE9FNndOMlZqXy1CV0F5SFg0MWVXNE1BOHhMcGlGcks2YmxsdGVkN1FqNm80Z29EclBsZmZWd0FnZWR2VVZGdHFSUEtKdTFhVmxORTA4eVY4aFhSR2JEWVVmUFNCblRQMlA0X1lYNURHaExEUGk3Uktpc2pwMlN1TG8xWHB1RjI2QWUzNGdSdS1oclpxQ2pXNV9DcDBuYkpVSzNHLUpSODFoWWh5ZVl4dmRFMGtSTVluX1ZiMlNlMUVBREJzaE5XSQ?oc=5",
+   "data": "2026-11-14T13:11:00+00:00"
   }
  ]
 }
