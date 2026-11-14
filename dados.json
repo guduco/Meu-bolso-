@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-14T02:54:01+00:00",
+ "atualizado": "2026-11-14T03:53:19+00:00",
  "indicadores": {
   "selic": {
    "valor": 13.75,
@@ -16,6 +16,18 @@
  },
  "cotacoes": {},
  "noticias": [
+  {
+   "titulo": "Mercado financeiro prevê juros de dois dígitos até 2030, ao longo dos dois mandatos de Lula",
+   "fonte": "G1",
+   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPQ0dkZE5WTm5CTGtUWnJwVnAyb21LYXZHX2ZjVGlBcmNRUkZTU1dEMWc4SFFmRDBVTjZlUndobjNLYmJBQ0JKNXJTdlZyVTlJNjRNRDU1NE90bHZKdGR3V0NxZGxLWFdUM0lqV01kU000WU9VbUdINF9wbGd2dVdrUmxLdndvcklWbkdSYTdDWV9JVTZRUUNrUmdMNFV4UG1KTVFJc0NqWlZ0VW5rUGtNSkdiNmd0WU1RR3FZRU9sSVlvVFFCWXg3cjFsTkZtOC1tYVo3TkU0NDVfcmc3VmfSAewBQVVfeXFMTW5fN0NZcUh1STVaUzE0ZWQwWHgtdnVvb1AzVGhYMlV1SEhuQnNKV1BBNTJESWgtVFFwSWdpcDhaVHpOeWI4WlRyTEp0M3M2TDctQ3FVYkd5WWExTUlfeVA1Zm5nelBMdGZIdzZIdkhpQkNBWWNGNXhLWGREd0RoeXN1RFRwSVFSYjFmeDFJeWdzQTNIZTZ0SmdybG4zVjgwaF9WZ3RMaVJsVDBMRUFyLUtna1BJVkRNMm16eFhTVkJfaTl5VnV0ZW9pZE1YYlVyMUZjRFNOa1lrelU2SjdTOTAtWlpOd0F0UjV2ZkI?oc=5",
+   "data": "2026-11-14T03:00:00+00:00"
+  },
+  {
+   "titulo": "Bolsa sobe 0,66% e dólar segue em R$ 5,65 com ajuste fiscal em vista",
+   "fonte": "Poder360",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQMWxJQTNEeUVIVU5meUx6NzExRmNzdDgwMWRZQ3dfcXdJdGVObzVubkxVSlNjcVJfS1QwMHdMa2dneDJhMjcwQ2RLOGppdmFzajd6Ul9KRTJibmtBc2w0Ym9nY0FZWjh0bFpvT0JsemhvcnRwWDBLSl84YTAxWUdQQzg4Ymtsc0NRYWw5emhaMUNjejh5NkZfQVNORm1CaS1BaG8zX1VlX1N3QnJC?oc=5",
+   "data": "2026-11-14T02:50:24+00:00"
+  },
   {
    "titulo": "Ibovespa avança 0,66% e dólar acumula alta de 2,63% na semana",
    "fonte": "Vero Notícias",
@@ -75,18 +87,6 @@
    "fonte": "Estadão",
    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPMHdVY2JiN0M4Y19xeXhaU2ZpNjhhaUVtU0hZY0tGWjdKR1J3SWdYcFQ2dHZ0b1NSNFZBMmF5UmhOc0Zibk15Z193MWRzSkRmRTVKN2o3MFJ5VXNtaVUzRjA3TXl3X2JNVkkzT19feDlxb1R2LWV4WFhURDhhNlpfVjRESXFvTnMzaHJnbVpIWEHSAZYBQVVfeXFMUDBwa2JPV0hTQ0tZd2hycHdWWHFldWl2cE9QS2ZGN1Q0RUhDMGR1ZzVObHJhQlFvXzlwVG52cl9EZVdHQlpqbWhNblVFZGs5eDgxMXd2cnFVVHN5dXZ5cU5WZlhsZW9RdVJSMlZsa0NkWW93dzNJLVBFdlNCSGRRVVpEeW15b3o1QTNVWjFFaGlDSHZzZHNn?oc=5",
    "data": "2026-11-14T00:02:11+00:00"
-  },
-  {
-   "titulo": "Persistência inflacionária e projeção de PIB de 1,15% para 2027 pressionam manutenção da taxa Selic em 13,75%",
-   "fonte": "Brasil Inovador",
-   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPNThOdTBOR3pzeTNQUzBkUXBKVmR2bGxvdW9lM3F4cFpMYmY3X2N2WVVzN0dZcElubDVzajBrNjJOaVYyMUpIUE1RRWtFZVVWd3dIQkFQM2pNbWEwRGRFS0lhNTVEY1hLMVNlbTlFM1JscGxBUFA5bVFCNktXNFp5RGR6VlBZc21ITkFZN0NrbHZsV21fVlZYQzgtZHNDekFnWDlUb1B5VG5sYkhIeDBZZFRfeFA0OUpiZjQxemw5bV8wRllPaE5QT1VsUzZMVXdab0E?oc=5",
-   "data": "2026-11-14T00:00:04+00:00"
-  },
-  {
-   "titulo": "Magazine Luiza dispara 39,22% e lidera altas do Ibovespa; CSN e Banco do Brasil puxam as quedas",
-   "fonte": "A Crítica de Campo Grande",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxORUY0YjJyeHI5Tno5SlppQjZfeTgtUnlPZTNobDV1ZjFlVWRNQXZrQWdGLVBxTmVJZ2lLZmw0bUd2TUFfYlI0dzFWWGRzWEUzT3R2Nkh3SkZ3YUc4UFZYVmFYYUd4cmw1ejFqWHdPZF95ZWlyLWwzOUhqUFdCekJLZExKTjB3OFpUM1NiV082SmFTR3ItUndzcTl0Q19Vc0dkWk5vR1NB?oc=5",
-   "data": "2026-11-14T00:00:00+00:00"
   }
  ]
 }
