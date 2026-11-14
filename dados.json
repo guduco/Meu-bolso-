@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-14T09:48:19+00:00",
+ "atualizado": "2026-11-14T10:45:21+00:00",
  "indicadores": {
   "selic": {
    "valor": 13.75,
@@ -16,6 +16,42 @@
  },
  "cotacoes": {},
  "noticias": [
+  {
+   "titulo": "BB corta dividendo, crise na Nvidia, CDB, LCI/LCA ou Tesouro? O que mexeu com seu dinheiro na semana",
+   "fonte": "Estadão",
+   "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOR1VlV1ZPRWw5M1NfNndJdUxmbHZpdVJDemxJQWVZbFJvVElvY0FZRTZrYnY4eHBlMjNLU3VQcjZVX1hWRklZNjRGVXM5dzFXekIzUFdMaWR4M0txc3NGakhTXzVoQzRNaExWQXhWVHZVazRoMVg1Q3JoWmx2SmZiQTJ5em1GQl9lRFVaTVo4WkxlRmhmX0RQcm56dG5zZktQV25obXBzbGVQb283djhwN18xTDJPNTg3SWJzSGM5bDl5WDJoMFgwVkFMZVhzWFR6S200eUx4a2VCMUJqNWNMLTZYcHBOUWNiakpXQVpDSWdGaHdW?oc=5",
+   "data": "2026-11-14T10:32:54+00:00"
+  },
+  {
+   "titulo": "Dividendos da Petrobras, IPCA e IPO da Anthropic; veja os destaques da semana",
+   "fonte": "InfoMoney",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPNTlUc29zRV92RUhZaUE0bjlPbWk4QnVWVjFXNXZHMkNGTS0tckpZRnktV0s1aUV6dWd2eVYzNDB2cTQ5Rk9PdkIxb3BZTUMxWWtRN0Z3YzRhTjRKX2NtM2ZINDNXdThnOGlKMlJEMXZ6T0U0WnVjaDRZSmxrWFl3VnFQcFRya1RLVXJHdFQ0d00wZ0ZlTHJubms5SDloT0tjTEtnZk1ldDRaMHpxQzVKRHlWYkhFWjhUNEpZ0gHAAUFVX3lxTE5pOXoyWk8wdHd3NXVSTzBRMmV1NVNncHlFazhnOHhfMjFOWGc1M0sxcnBlS0hka1M3SzdHNXdxZnUtRGYwWVMtQXNIdURveGxXcEhMTmlTTkZ6SC1vQnV0eXdfWXV3dUFaWk0yUUxQczZhSm5TdmJIQS1hYjlDZmxnS1VUSjRPQnBHRDlnUF95dGFWakJvc2lUdVZLOTd4Z1ZWdUUwNXpiODR5MFhrUXZmZUcxYS1IUi1oY1lFSlVKVg?oc=5",
+   "data": "2026-11-14T10:22:00+00:00"
+  },
+  {
+   "titulo": "Análise | Fim de ano se aproxima com inflação alta e PIB travado",
+   "fonte": "Estadão",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNSS1kdFE1QVlDaTAzeDdpSkRWZTNOQmo2TElVM0d6VmNWMUZvVHF6ZDIzZXBrLV9nay10Ykptc2l6dlY1MVM3V0ViXzlNcE5abkdhQXFIV2xoT2NjN1dVM2VtSi0yTklqM2NEZ1ZIbFVhdWhFb0dJaGNPTG5PYlp6VFJHWW9LdmdHQ0NaT1dEclpNUGlIa0o3dXViWUhVX0Z0?oc=5",
+   "data": "2026-11-14T10:14:52+00:00"
+  },
+  {
+   "titulo": "Âmbar anuncia investimentos de R$ 5,5 bi e aponta perdas de 44% de energia no Amazonas",
+   "fonte": "BNC Amazonas",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQVDRHZkRUMG0wbXdPXzFqOGpDeVY4Z3pQcHo4Y2dDZFNEMDBoUnFMR281SElOQlMxcnhWZjhlRVVKNVh4Y3VHdXU1dEN4dXNZdnEzdVNpM2pweTczNEZFTTdyWW1zd1NhdENPM0VKQ3ZCbFEwMVNndTdIdTRYYll5Yk1BSVM0MGVMTDRNRWVUdE5vSEZaaGVQVF83bU1QbEozQ0Noazl1a1BqYVpRZXRyZmp6ZTB3c3JfWlp5T04wZw?oc=5",
+   "data": "2026-11-14T10:13:30+00:00"
+  },
+  {
+   "titulo": "Investir em IA ou pisar no freio? O dilema que desafia as empresas",
+   "fonte": "Estadão",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxONG1ia2Z3NC1WWXd5bk5XRmU1d3REcVJIS0s2Qi1kdFN1Q1lRZWVMeUJxN3B5QjAwSVkzcnNzOFhRTWJaWXhGelg2LUxxRlZHQlAyREFOeVlqUmdMVnREUTVZSGFlb2tIWFJ5SUgwYXZCd0cxZE9WMkxURG9IX2NKT3Q2UnpMVFVESDN2X2RRR1hDUDQ0R1Y4bkV1cUk4cWxHS2ZjR20xaGV1YUxSYUt5dFc4cGxQaTF2emIyMmNyWktIZ9IBxwFBVV95cUxOOVpyMm5GOHBmb3hLdk5oWlJKSVBReWt0aE1maGNPdmZIa0pBQnNnT0J2WU1kLWxleVV2SFB4aXhLU3lBR0VFd3NiZ1N4M050ZWk2ZmJCRHNsaHctYVNSN1B3UnNfanBrcml4V2VLRnFhM3BYdDJISzlqY3EycG1ldG9sQlZEc05DdVBPbmw1aTVCQW85aHdHSkx2emN5ZHVScTg5Y1RUcDBfODZxZFVZcTA1TjJvOFBPZWc0ZzlVdTR2Ung5cEdj?oc=5",
+   "data": "2026-11-14T10:00:00+00:00"
+  },
+  {
+   "titulo": "Investimentos do Governo do Pará fortalecem o turismo e impulsionam crescimento econômico",
+   "fonte": "REDE BRASIL DE TELEVISÃO",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNYzhTdngyOEphbC0tdFdmZi1raGNySG55WE0yR2tCczMzM2hGSWtneWRRN0NEc1c0QXZhLWlVTS16MG9NMUhhTXA5NUxybU1CdHYwSk4yRHFrWGd5dm9hZzR0SWhNWUhEeC1PWjZaa1piSXJ4MlZ0Q1ZKcVptalJicy12V3pFbnhzVU5vc0JEVXhmb1pyUklyX3h5ZHMzZ0t2ZDNDNU5zTk15TDkwTXFhQzhRNlZKbE1DbEZDVkVWUG4?oc=5",
+   "data": "2026-11-14T09:44:04+00:00"
+  },
   {
    "titulo": "Elias Jabbour fala sobre o PLP e alerta para as barreiras aos investimentos",
    "fonte": "Hora do Povo",
@@ -51,42 +87,6 @@
    "fonte": "Grupo Ceres de Comunicação",
    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQTGVOYVpNTTdWb0w1bjNSX3lNVktSR0doWU9NMVRUcEZLaVVkblduUkdRNUlMc05WeFM1NmtjV08wS3hNOUU4c1kxdFFxQ0JOSHNwUTZCNExSeUVocW5YSmhkellIcldoLUZ0M1NWZm1OOE9Pd3RXUnhuYjZabmp5bnhkekhvV1NGWWVYVkpEQ3dWZ0FqaDNRREVRdEVKYWppQzdUZG1YcTVual8wM05qbVFmM3NNU3JDRkNJMTloYWpORzNSb2c?oc=5",
    "data": "2026-11-14T08:14:15+00:00"
-  },
-  {
-   "titulo": "Espanhola Factorenergia chega ao Brasil em parceria com a Path Investimentos",
-   "fonte": "Movimento Econômico",
-   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNQnJ1STA5d2szYXJuN0owVlE5TUlVTzZXSEJOYk1JMjlHcXdFY1RMcmxIclNqWVRxYmRBSk1kREhudkw4NF91dXI5bVZRWTJQMktqWFNfbGxfYUFEcW80bDZaaTZEZEN3bnZUcGRqMDZydTViQ3ptZ2p3QktvUENwWkpUSjB5MWdKaFl0aEF6VEw2b1FNSHBYMGVJNWxYdjR6S3Y4eEt0bnlaaTlLYURQalRVeEl3YmNwUC1KQTlHRmd1MXdsaDdoNy1lTXg0QzZ6Tk1FclFB?oc=5",
-   "data": "2026-11-14T07:18:00+00:00"
-  },
-  {
-   "titulo": "Diversidade de negócios e polo gastronômico: o que atrai novos investimentos para a Avenida do Forte, em Porto Alegre",
-   "fonte": "GZH",
-   "link": "https://news.google.com/rss/articles/CBMisAJBVV95cUxNTFNGenotWjBNS2lqcGN2UDlocndudmw3UFZ3dFJUSkJuWXRic2MxWmR2aEFjNm1XdzQ5ZWdPUTdnVy1GbEhQM1BPXzdjVTUweXczZHRmM3p1UjRiVkZrbkZFbjZTc3dOQTZmSlJwVDFWRi1PT1lPT2lsZnpPWEo2QnVaOUxncVNkSWhpU2pIdVZGVW1hRnVjNFdkOTA5Vjk4UVo3OERvalBTVFJjZzNaNUdreE1rZUl1QXI0aTlIaVpIdnBHWTIwdFhjZWdwX1JUYS1vaUJUVUt1WlJUT1hycmF5ckQxRTM0OWttZXJDUlJwZXczX3g0THJmbVdlS1pRZWE4bHFyd1FXT0o2bEVhNnc4SWFpSVc5bXEyLXdNcVpMZTRSNVpzM3hiZGxOcWlI?oc=5",
-   "data": "2026-11-14T07:12:05+00:00"
-  },
-  {
-   "titulo": "O dólar fechou praticamente estável nesta sexta-feira (13), cotado a R$ 5,65, mas acumulou alta de 2,63% na semana. Além das incertezas sobre o pacote fiscal do governo, pesou a continuidade das turbulências no mercado internacional. Na bolsa, o Ibove",
-   "fonte": "Instagram",
-   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE96OGVKQWFkVUpEU0FLZjRtOUxKREROMFMzWXFjZDNERTQwSE1ZNEdkQ1pmSUpQTXVza1VLREREajNqek9sbWNvYnZjZEJVTEFTTEE?oc=5",
-   "data": "2026-11-14T05:45:27+00:00"
-  },
-  {
-   "titulo": "Inflação em Fortaleza desacelera, mas chega a 5,43% em 12 meses",
-   "fonte": "O Estado CE",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPd3NJRV85U2FYbGdRMUpHdy0xUl9aajRoUFlid1RtNWQ2cGNQSnlESHRPOS1iSWZITFhzSXpNUTlYWWNiZUFCSURUd0kwdDhjY2FWaEh1S2pVclJwODBjRmZiRURZZGhqb0U0Rl91ZDJRVmtlY1YwWTBFcTMxSXdEemlxVXdjQ01LeTV5cFg5R3dIbDJ4T0VVNFMtQUdrUjM2X01Z?oc=5",
-   "data": "2026-11-14T04:29:00+00:00"
-  },
-  {
-   "titulo": "Mercado financeiro prevê juros de dois dígitos até 2030, ao longo dos dois mandatos de Lula",
-   "fonte": "G1",
-   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPQ0dkZE5WTm5CTGtUWnJwVnAyb21LYXZHX2ZjVGlBcmNRUkZTU1dEMWc4SFFmRDBVTjZlUndobjNLYmJBQ0JKNXJTdlZyVTlJNjRNRDU1NE90bHZKdGR3V0NxZGxLWFdUM0lqV01kU000WU9VbUdINF9wbGd2dVdrUmxLdndvcklWbkdSYTdDWV9JVTZRUUNrUmdMNFV4UG1KTVFJc0NqWlZ0VW5rUGtNSkdiNmd0WU1RR3FZRU9sSVlvVFFCWXg3cjFsTkZtOC1tYVo3TkU0NDVfcmc3VmfSAewBQVVfeXFMTW5fN0NZcUh1STVaUzE0ZWQwWHgtdnVvb1AzVGhYMlV1SEhuQnNKV1BBNTJESWgtVFFwSWdpcDhaVHpOeWI4WlRyTEp0M3M2TDctQ3FVYkd5WWExTUlfeVA1Zm5nelBMdGZIdzZIdkhpQkNBWWNGNXhLWGREd0RoeXN1RFRwSVFSYjFmeDFJeWdzQTNIZTZ0SmdybG4zVjgwaF9WZ3RMaVJsVDBMRUFyLUtna1BJVkRNMm16eFhTVkJfaTl5VnV0ZW9pZE1YYlVyMUZjRFNOa1lrelU2SjdTOTAtWlpOd0F0UjV2ZkI?oc=5",
-   "data": "2026-11-14T03:00:00+00:00"
-  },
-  {
-   "titulo": "Bolsa sobe 0,66% e dólar segue em R$ 5,65 com ajuste fiscal em vista",
-   "fonte": "Poder360",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQMWxJQTNEeUVIVU5meUx6NzExRmNzdDgwMWRZQ3dfcXdJdGVObzVubkxVSlNjcVJfS1QwMHdMa2dneDJhMjcwQ2RLOGppdmFzajd6Ul9KRTJibmtBc2w0Ym9nY0FZWjh0bFpvT0JsemhvcnRwWDBLSl84YTAxWUdQQzg4Ymtsc0NRYWw5emhaMUNjejh5NkZfQVNORm1CaS1BaG8zX1VlX1N3QnJC?oc=5",
-   "data": "2026-11-14T02:50:24+00:00"
   }
  ]
 }
