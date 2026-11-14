@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-14T04:55:27+00:00",
+ "atualizado": "2026-11-14T05:52:31+00:00",
  "indicadores": {
   "selic": {
    "valor": 13.75,
@@ -16,6 +16,18 @@
  },
  "cotacoes": {},
  "noticias": [
+  {
+   "titulo": "O dólar fechou praticamente estável nesta sexta-feira (13), cotado a R$ 5,65, mas acumulou alta de 2,63% na semana. Além das incertezas sobre o pacote fiscal do governo, pesou a continuidade das turbulências no mercado internacional. Na bolsa, o Ibove",
+   "fonte": "Instagram",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE96OGVKQWFkVUpEU0FLZjRtOUxKREROMFMzWXFjZDNERTQwSE1ZNEdkQ1pmSUpQTXVza1VLREREajNqek9sbWNvYnZjZEJVTEFTTEE?oc=5",
+   "data": "2026-11-14T05:45:27+00:00"
+  },
+  {
+   "titulo": "Inflação em Fortaleza desacelera, mas chega a 5,43% em 12 meses",
+   "fonte": "O Estado CE",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPd3NJRV85U2FYbGdRMUpHdy0xUl9aajRoUFlid1RtNWQ2cGNQSnlESHRPOS1iSWZITFhzSXpNUTlYWWNiZUFCSURUd0kwdDhjY2FWaEh1S2pVclJwODBjRmZiRURZZGhqb0U0Rl91ZDJRVmtlY1YwWTBFcTMxSXdEemlxVXdjQ01LeTV5cFg5R3dIbDJ4T0VVNFMtQUdrUjM2X01Z?oc=5",
+   "data": "2026-11-14T04:29:00+00:00"
+  },
   {
    "titulo": "Mercado financeiro prevê juros de dois dígitos até 2030, ao longo dos dois mandatos de Lula",
    "fonte": "G1",
@@ -75,18 +87,6 @@
    "fonte": "Acia Araçatuba",
    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPckZJU3lKTmdaWDRVN1JsalFmR3QxQjdHMENkb082d1g2ZUx6eDJKdGlYdVlPc1hMbUN3c1BqaTNGRzkwQlNKamZxaDJEeGRtLUs0VmRSUTlUejlmUkNETV94Ymw1U2xUaWd0WU1veXZFNHdXLTlWTjdzWC1UTTRxcFpQWQ?oc=5",
    "data": "2026-11-14T00:02:43+00:00"
-  },
-  {
-   "titulo": "Persistência inflacionária e projeção de PIB de 1,15% para 2027 pressionam manutenção da taxa Selic em 13,75%",
-   "fonte": "Brasil Inovador",
-   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPNThOdTBOR3pzeTNQUzBkUXBKVmR2bGxvdW9lM3F4cFpMYmY3X2N2WVVzN0dZcElubDVzajBrNjJOaVYyMUpIUE1RRWtFZVVWd3dIQkFQM2pNbWEwRGRFS0lhNTVEY1hLMVNlbTlFM1JscGxBUFA5bVFCNktXNFp5RGR6VlBZc21ITkFZN0NrbHZsV21fVlZYQzgtZHNDekFnWDlUb1B5VG5sYkhIeDBZZFRfeFA0OUpiZjQxemw5bV8wRllPaE5QT1VsUzZMVXdab0E?oc=5",
-   "data": "2026-11-14T00:00:04+00:00"
-  },
-  {
-   "titulo": "Magazine Luiza dispara 39,22% e lidera altas do Ibovespa; CSN e Banco do Brasil puxam as quedas",
-   "fonte": "A Crítica de Campo Grande",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxORUY0YjJyeHI5Tno5SlppQjZfeTgtUnlPZTNobDV1ZjFlVWRNQXZrQWdGLVBxTmVJZ2lLZmw0bUd2TUFfYlI0dzFWWGRzWEUzT3R2Nkh3SkZ3YUc4UFZYVmFYYUd4cmw1ejFqWHdPZF95ZWlyLWwzOUhqUFdCekJLZExKTjB3OFpUM1NiV082SmFTR3ItUndzcTl0Q19Vc0dkWk5vR1NB?oc=5",
-   "data": "2026-11-14T00:00:00+00:00"
   }
  ]
 }
