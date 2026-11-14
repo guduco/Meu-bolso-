@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-14T11:42:05+00:00",
+ "atualizado": "2026-11-14T12:51:37+00:00",
  "indicadores": {
   "selic": {
    "valor": 13.75,
@@ -17,10 +17,46 @@
  "cotacoes": {},
  "noticias": [
   {
-   "titulo": "Sem sinal fiscal crível, pessimismo com Selic e PIB deve seguir punindo ações cíclicas",
-   "fonte": "UOL Economia",
-   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPaEJoUFpobFpoZGpmZGtJUXBnRHNFMzgybWNOQ1JoMTdidE9FMTBLZWNnUXM0REV6TWZYZWFKV0huYnpfQUJXQjNuUTU1bGtFaWpTdW9JNEx1d05zQlpWdG5ZemJMUHRWWk1zRkFXdy1ZM1MzUkNsc2h5UFFsenBDME8zZllRUmgzdEV6WWJ5R0JnVUk1dTZUWXBzUkhhWnBGM3Q5aHBndG5JZG1IZktENlFQVk5PeFlnZjZ5QkFGSnRUMUg1YVlYQW5DdlBmMFllVmtmb1Brak4zWnF1cnBONkFNNktRS21tbWc?oc=5",
-   "data": "2026-11-14T11:01:00+00:00"
+   "titulo": "Diversidade de negócios e polo gastronômico: o que atrai novos investimentos para a Avenida do Forte, em Porto Alegre",
+   "fonte": "Diário Gaúcho",
+   "link": "https://news.google.com/rss/articles/CBMisgJBVV95cUxNYmVDZGR0UGZ0aWRWRU5CTTJZSmVwWWY0Y2pSRTkwbWFvQzRYTWtUSzlIQ2ladnRGeWhTU2RkbWJSTFdRSVBfSUFxbjZXTXczazU5TWpvd1ZPczJ4Z1lLdTkzT1FFcVdYTHpQUXVnSnRTTU5qcUh5bHRfZkxNYjFadXA3cGZ5TGt0ZGl4cFFsNlpWNllqNXdaZ3VFME5zUmEyYVo3V1NGczZ3VWJTUnVTVzF4Tzl1cVVPNGtKMEwzTm5TTzhMMDBxTnpIWFluQk8yWjlRbnVvYzdYMjJ6UktEdnJqeEFyU1JRLURTcVc1NF9UWVVKeksxWkZVY1lTclNmWUJtdGlGTXZJNHpidzJDQ3J4ektYdU84dWdhME9nQjVTU0dvOUpsdS1VcUlxcWl1N0E?oc=5",
+   "data": "2026-11-14T12:47:38+00:00"
+  },
+  {
+   "titulo": "Mercado financeiro projeta Selic acima de 10% até 2030",
+   "fonte": "Vero Notícias",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNMDZsWnJuVVBEcUdPVTlkckNKMXVjcURtbnlXZGZkY0NaM3hSY29zUHlSamJoN2tBaS1wNjJ2MmEyRTB5Y0tUM1QzWXF5cDJfNzRBbjNZdkNEdWdSUlBTS3pkV3p4bUk1aUtLT2lCTnQ0M1VDX2w0NlV2aTBnTzBOcTd4ZlFrSlk4UmRlYnM2cXFEdw?oc=5",
+   "data": "2026-11-14T12:34:34+00:00"
+  },
+  {
+   "titulo": "Sem sinal fiscal crível, pessimismo com Selic e PIB seguirá punindo ações cíclicas",
+   "fonte": "InfoMoney",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQdlMwb2UySndkV3lJSmV5UFY5bktlYmdDckp5SnV4eUMzSU5DUkd0V1RJeEJ0anB4bWpqVVY0elBCTURGZlJsS2lJUDlpYUJ3QU0yRTkwc3J3bXNFSjR6Wm5JVngzNlFmSVY3SkZ4R3JCRFpma3YzNENjOUVONl8wMWxvMXhCanpiTW9ndExWNW51d0ZyUE9IY1NzZlo0V2FRTUZ6VXI0WFNnSGlCTWRmYm90N1hXVEpCSXRpa9IBwgFBVV95cUxPdjJYWXVZN0p4U29yVFFrY3Z0bEw5S19tVTV0TEk3SnM5OURCUFp2bVV5ampfZktEVWhLenJfYWF2N3B3M2lqbmhnbFA0a3lKVm5EUmdSVzc2QUlrTUM1RXNxR2xybE1jRTVHSDlSSUE3LWxkc0RFMl9sbzhTZC10WkVQLTJMU1U4UmNlek5oRVExUENyOTNhWmJta0FkMG04SEMwMHlsSG1uS2puLXZ2MG5GQjFlYmxmYTZWMFo0WWt5QQ?oc=5",
+   "data": "2026-11-14T12:22:00+00:00"
+  },
+  {
+   "titulo": "Copom aponta desaceleração da economia, inflação persistente e manutenção da Selic em patamar restritivo",
+   "fonte": "Jornal Grande Bahia",
+   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQbDY5ZFk3V0dGR21HcWc3Y2wzOE1CVEpycS1DRUVCalkyTzVxaWZ6ZjM5NTR4RWtkb1VOaXBoSnU5ZW1Ob3NUWGZUTmVldlBLcHE1bVNWdF84UG1yckhHb2ktdmxRWVkyRXN2c3UxMG9hbUZTYjdzMTllaDk3YUc4T3pRem10emlQRmZrT2VWMzVhdXlDTnpvcGxoaGFFNV84bWtOQmxoZy0xOFA4Q192Y2M0UmtlTG5mUHZkeUJ2cW94WXlkM1lHZGNDN09MS2FUa3RCOC1Dbk1wREdKNUE?oc=5",
+   "data": "2026-11-14T12:00:23+00:00"
+  },
+  {
+   "titulo": "Riedel defende equilíbrio fiscal e investimentos para crescimento de MS",
+   "fonte": "Capital News",
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOeXFlRWJjS2U4b2kwRmZhRzBCVlpQMTJjbG1tOHptZUFJeHFSV3NfZGdURzVHcVpCNm43N2pCaFJ3YXMzZmNvWVliOTIyam5uVm1rRVM0ckI4TEh5ZUtING1ENW5DSEZQaW9xblVvbWJmLWJkRGNRQzJnNjFoNS0zenJwQm9zNWVjWThuQmhIM25mLWJ4VVJCZ0Vsc0JIWVU1OGlmeFI1ZG9GRnhLcW90Rmp5N1VxRWFfSUwyZHJOVW50NTJlQ3BXdHZ1MTBCLU5G?oc=5",
+   "data": "2026-11-14T11:55:00+00:00"
+  },
+  {
+   "titulo": "MS defende mais investimentos em adaptação climática durante COP31",
+   "fonte": "Capital News",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOZmNZUXRYQVp4RXhtOHBPWDBWdS02SkpSWVgxWWJzMmVQOHJmZXV4RnpSaVRZZ0RoQUlKYUVLcmctX2dqZmlLWEJIbWxoODV6eGI2N2hOQ21OUXFudDhkT0duQy1QQmI3dGp5TVBaWDIzdTlGQk9UU1dkMV9MTVhXRkduWGhTM1M0MWN5RHZXZlRKZEJnMkpvNnlENGNNUGVMbTlwRFhPYUZYV3JRSnE1SEZibjJJZFh0alVKdQ?oc=5",
+   "data": "2026-11-14T11:42:00+00:00"
+  },
+  {
+   "titulo": "Aeroportos de Paulo Afonso e Lençóis estão entre os contemplados por R$ 1,5 bilhão",
+   "fonte": "Portal Salvador FM",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNZVd6SXB4LWIzZGduX1VYTU5OR0pQTkk1TDk5VVZwaVFsZlNOYTVTcHpaY0kxLU1nVGY0RmM2czRwVkVMRk9yOXRrdEh4Wlo4RlZYNDhhQXpMMEY5Z1lMZUlVcmxOVUF4UWhEaGZWVlc4bXZpMFlSbGdaMzZNYU83b25ScTJmTnY0SWJVQ3dBRm5rN2U0RDdvSTVBOXBzWjlaRzYzcFB6T2tiQnV5UU5IY0hYM0dyNnNPOC1od1VWcU5zT1kw?oc=5",
+   "data": "2026-11-14T11:14:11+00:00"
   },
   {
    "titulo": "O que acontece com os investimentos em petróleo quando um país decide reduzir o uso de combustíveis fósseis?",
@@ -51,42 +87,6 @@
    "fonte": "BNC Amazonas",
    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQVDRHZkRUMG0wbXdPXzFqOGpDeVY4Z3pQcHo4Y2dDZFNEMDBoUnFMR281SElOQlMxcnhWZjhlRVVKNVh4Y3VHdXU1dEN4dXNZdnEzdVNpM2pweTczNEZFTTdyWW1zd1NhdENPM0VKQ3ZCbFEwMVNndTdIdTRYYll5Yk1BSVM0MGVMTDRNRWVUdE5vSEZaaGVQVF83bU1QbEozQ0Noazl1a1BqYVpRZXRyZmp6ZTB3c3JfWlp5T04wZw?oc=5",
    "data": "2026-11-14T10:13:30+00:00"
-  },
-  {
-   "titulo": "Santa Catarina recebe comitiva da ONU e representante da Embaixada da Rússia com o objetivo de fortalecer parcerias e atrair investimentos",
-   "fonte": "Blog do Prisco",
-   "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQenZrSnliWWF6ZGpRYUhxMDVJcHFZbWlTa1pRLVA3WHYwWFZyMzhZemZ2cjUxYjFERU1pbEJ1akhaV1FYdktsZjJnRnFJWGZBcWtDSEFoZmwzYVFhY1o1dzlYU0g4RWZtcnZOVWtUcVlNR2ZZcFVjRlFNOGJ1QWduT2V1c2hkcFFzMldOYkx0OFJYZHItZmVMTUlXSHQ1ZUpqQ0ZwSHNBYmZLR0VkSFJ5T2tRVTd5bTVYR29zNEhrV0hUbG1BQW4tdTJLdDlsMWd3SWl3al9aOUxxb3FtNXF3Q2xyLTdXYWFoS2kwLXRqQi0xOFJteUF1ZDFmUU93akVH0gGGAkFVX3lxTE01OEhzeG9iVU4tcW9mNE13TVlBMDNqTkYtRnhPcHZnTUFFaWtYZ1VNOGo2aDhYc01feHh6UnMwNy1GS3h5SmFNdjhJWmZncndPM0NmcnBleUZJaUpxZFM1SXlfbk03VWJVcldESnJucG9CMDJOR2c4NUpJRHhvSzFFNHVzc2k1ZmZPNTFMbTRHQ21WZDJtR1hYTTZhZzZKaWJWSkV2T21ZcURRbUExUEY0eEs0QzZxc1FGWEJaTVdFWE81UlZmNTU5UmlmTzV3dnhreXVhYm5lRHc5UjdiUHI3YUx0X01XbVBrMENvRjhlNGJZN19IZW5CUlppbnNleFM3NUh2b2c?oc=5",
-   "data": "2026-11-14T10:09:37+00:00"
-  },
-  {
-   "titulo": "Investir em IA ou pisar no freio? O dilema que desafia as empresas",
-   "fonte": "Estadão",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxONG1ia2Z3NC1WWXd5bk5XRmU1d3REcVJIS0s2Qi1kdFN1Q1lRZWVMeUJxN3B5QjAwSVkzcnNzOFhRTWJaWXhGelg2LUxxRlZHQlAyREFOeVlqUmdMVnREUTVZSGFlb2tIWFJ5SUgwYXZCd0cxZE9WMkxURG9IX2NKT3Q2UnpMVFVESDN2X2RRR1hDUDQ0R1Y4bkV1cUk4cWxHS2ZjR20xaGV1YUxSYUt5dFc4cGxQaTF2emIyMmNyWktIZ9IBxwFBVV95cUxOOVpyMm5GOHBmb3hLdk5oWlJKSVBReWt0aE1maGNPdmZIa0pBQnNnT0J2WU1kLWxleVV2SFB4aXhLU3lBR0VFd3NiZ1N4M050ZWk2ZmJCRHNsaHctYVNSN1B3UnNfanBrcml4V2VLRnFhM3BYdDJISzlqY3EycG1ldG9sQlZEc05DdVBPbmw1aTVCQW85aHdHSkx2emN5ZHVScTg5Y1RUcDBfODZxZFVZcTA1TjJvOFBPZWc0ZzlVdTR2Ung5cEdj?oc=5",
-   "data": "2026-11-14T10:00:00+00:00"
-  },
-  {
-   "titulo": "Investimentos do Governo do Pará fortalecem o turismo e impulsionam crescimento econômico",
-   "fonte": "REDE BRASIL DE TELEVISÃO",
-   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNYzhTdngyOEphbC0tdFdmZi1raGNySG55WE0yR2tCczMzM2hGSWtneWRRN0NEc1c0QXZhLWlVTS16MG9NMUhhTXA5NUxybU1CdHYwSk4yRHFrWGd5dm9hZzR0SWhNWUhEeC1PWjZaa1piSXJ4MlZ0Q1ZKcVptalJicy12V3pFbnhzVU5vc0JEVXhmb1pyUklyX3h5ZHMzZ0t2ZDNDNU5zTk15TDkwTXFhQzhRNlZKbE1DbEZDVkVWUG4?oc=5",
-   "data": "2026-11-14T09:44:04+00:00"
-  },
-  {
-   "titulo": "Elias Jabbour fala sobre o PLP e alerta para as barreiras aos investimentos",
-   "fonte": "Hora do Povo",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOOUFFLTh2XzF5bHBDOW9TSlJhY1lGYkpTVzBWN3BEM2hDY1hVV1ZPZ2xDNE9SbGN5dUhBN00yT2l4RW1ZaDgwalZleUk3cllvRV92TFc3UExFR09OdnEzQWV3UjRqNzB3ZXdDNTFfOHZTb2lGS252emtjdWpkbGZUdElEOFh1VTNtak9WNHlfVWRLb3d5RVZDclNBRHNmNDJmcFhTMQ?oc=5",
-   "data": "2026-11-14T09:32:59+00:00"
-  },
-  {
-   "titulo": "Dólar sobe a R$ 5,65 com pacote fiscal e alta semanal de 2,6%",
-   "fonte": "Acia Araçatuba",
-   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5WcjhBQ2xFZFZaNE5vU0kxalg5aGhZVFp5N3MwdjRWUEw3d3p1LS1SWnJzdlE0U0c4YlBUalRkSTkxcFU4cEVWczV2ZXNCVkhfbHI4RmJiVUxiX2tUVUtUTE9tTmRFdE9TV1QxeVF2YzgwZw?oc=5",
-   "data": "2026-11-14T09:02:28+00:00"
-  },
-  {
-   "titulo": "Entrevista especial: Diretor Operacional da Iguá detalha obras e investimentos no estado",
-   "fonte": "AJN1",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQV3d3RFZNcWd4R01Na2ZIejJQNjliWGZSRlV1eXlXYzJCUF8zazFkU2hSV3RlcjNzS01fSGZzWThrR0x2T21hUDNWU0RjRTRkWERsaWdUQ3ZzeF9DTGFZM09wc1RsaVVPTnhTeEg3cU1WeXcyUUJlN0pPR0h3ZV9ubUxvZVlmRG95NjJYZjkwNmVrOU5zc0JrVWVZd3dQZFpUYUV1QWdUam54Z0Vi?oc=5",
-   "data": "2026-11-14T08:45:17+00:00"
   }
  ]
 }
