@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-14T16:43:40+00:00",
+ "atualizado": "2026-11-14T17:39:46+00:00",
  "indicadores": {
   "selic": {
    "valor": 13.75,
@@ -16,6 +16,36 @@
  },
  "cotacoes": {},
  "noticias": [
+  {
+   "titulo": "Lula aborda democracia e minerais críticos nas Filipinas",
+   "fonte": "Jornal Correio do Brasil",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxONUViTjFpZ3BnbnhlUTVXX2VNWjRZZkU3eVpSc3lzaTJrdGVPOUZyeVRxYmk1U0FSRWtESFdoaEJrRWpMZzFCNXNPZndaem5OSjhyemRDc2FsU1llMkhzajRlYlA1cGZEa2xvZy1ZMWM0UzQtVGp0SVRST2dud3ZYT0Z0RkFjZ0szREdz?oc=5",
+   "data": "2026-11-14T17:30:30+00:00"
+  },
+  {
+   "titulo": "Brasil é derrotado pelo Japão nos minutos finais",
+   "fonte": "Jornal Correio do Brasil",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQTWpBbmVQVHdzekFZVEdJUkRzYmI4SHZOckVRMXRZbVFIeDl2emctTnAxVUNtcUExR3d5eWxXR2d4TkJDME9fWUFhcXNJb1FDTUpGVV9KWWVDTm9BLXZ1c0VYZzZ2ak1iZkRjc0lVZmlMUlhLdjU2N2I2RGpJTkVJbw?oc=5",
+   "data": "2026-11-14T17:17:04+00:00"
+  },
+  {
+   "titulo": "De cosméticos a investimentos: K-beauty ganha ETF e testa seu apelo em Wall Street",
+   "fonte": "Bloomberg Línea Brasil",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQVEdQNW5aV0x1T0ZtUUphajNZM0w3anpTUkg3Z240THVqZHlMSnZGVHAtVVN5Tk85SDh4ck1ZWjR1ckhhMmZ3YThmU21na0dnNjVJdkpOQ3A5TF9jb3RJZzZzTUdZRGRyRHVLakZJRXNpcTZ2MXV6elFxTXo4OVBzR0JvU25GN1phbU1wUWtTdWd0WmhZOVE4R2t0Z25CS2xUTFd1czM2QVdZcDY3OV9VcFBaS25GNjBFcTJUemRWbWtkZ0s0aEpBYm1UQdIB3wFBVV95cUxNQVhnSjkyTlFXdFp5X1Q5ZEpVRDhacnhJTlpqOEpWZDFzNDRpWTJYSUstOGpkVTcxNVNqbGlya1RBN3FUVk9fM0JJTnpBN0M4blVFa1A5andsYTFxWjdkNEpPQi0wU1o5eWh5R01uRFlEaGxDSFlVN2djQ2NkSmg4Z3JvNlYtdnhXeE5FdU16OExybzFCMVltWnBOLWRfbzdfVllWN3JqT3dkSmRXTm4xSnhJMy1pR0dUYllaejI3TmxfSko2S294eWM3U3JuZTBoUU16TmxQcG1fbjFjenJR?oc=5",
+   "data": "2026-11-14T17:14:44+00:00"
+  },
+  {
+   "titulo": "Microsoft normaliza Outlook e Teams após pane global",
+   "fonte": "Jornal Correio do Brasil",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOTmZfNWRLWFh1S2lOZHpNWXlueFQwR21kQW8wMlZ3dllBakItVXo5MHRuQjNvTllES2VkUHRJY3JYalNXWkZpZ3VoNGsya3h5ZUhNbUFCRDB3akhhVTB5bjUwQjJMdDVIZ2h4MDJoWDBER2s0N3pGbWhjZ1dsaTVkRUtKd1NQZTJ0MFdJ?oc=5",
+   "data": "2026-11-14T17:08:42+00:00"
+  },
+  {
+   "titulo": "Dólar a R$ 5,65 e indústria pessimista após pacote de Lula",
+   "fonte": "Rádio Corredor",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPc3JjaGFwNU1PMUJwZHEzUnhYeE90eFI3VVZSM29jNTJqZjFUT0dBLTFtdGs3NjZRTXE3TkZSQUMwLWtwdVBPVE4xWGtDU2IySHJXTVktUXpnZTlEUmlBTERtY2JmN2x0VUo4UTdVYXpSSlZYRHpxczBkOEhNNjJDc0JoOTNLVG00SklJOXpOMA?oc=5",
+   "data": "2026-11-14T16:50:04+00:00"
+  },
   {
    "titulo": "Economia desacelera com inflação alta no governo Lula",
    "fonte": "noticiasdoplanalto.com.br",
@@ -57,36 +87,6 @@
    "fonte": "Jovem Pan News Campinas 100.3",
    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQTEx3MTNjVmhQNmp5Z3FLemZVZEtrTWFKQllCMXdvZnhLYkdQb20wVVhELTFCN2Y0Y0NaLWpNUlF4ZGxMUlZLaUI0b05XRzlkRzQ5QWdnTEVENzhrSm0wcnl2QkhkYUxZTXdVeGhIYmt4M3ljM0Y3WVc5UmZVRDlTdjROcHlSWkh6bmlWdlZMY08wOFBXTXhMeDRyMXFfNmFtMUd1RFVjdkNvRkR1UjZZTEJB?oc=5",
    "data": "2026-11-14T15:16:28+00:00"
-  },
-  {
-   "titulo": "Desaceleração da economia e inflação pressionam cenário do quarto mandato de Lula",
-   "fonte": "Canal Rural",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQZFFwYm5mM3RWUkxmTTR5YkZ4YWdwcG10ZVNEaHVGZ3R2ZG1SVU03Wkc5RDlNbHIxOHEwa3pEZUhLSjAyZ2lqRFNNWnFkRVhKbU1ZZnk0cEVEYlBXdUJUd1RjQWxfSk1YZEk1d090VlJTM1BtUWNGUU1vb2RWUlJwYnlwYUZqWHZ6cXZXeWE5M0dNUXJsRUtMRnc0ZHRsdnoxOU8tOUxIY1B5ZVF2dmJaSmVndVVTUENGNDFuV2N3?oc=5",
-   "data": "2026-11-14T15:12:46+00:00"
-  },
-  {
-   "titulo": "Economia: PT propõe taxar grandes fortunas e investimentos",
-   "fonte": "Portal Terra da Luz",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPbS0xMm9GRWRuUGxHVjRvN0FVam02UWw1aGhmNWhCNmRlZEtmUTdETnlzNnpuSjM0TVBZTXEwa1ZxdF9zT21ZWWNqaUNpY0xiZnJHMG1tYk9lWXNUN1ZnVzh3RjdTdm1wQ2VyT1hzTEl6bDJZbERqR1Vrd2hpbDVHd1dfUmxFeUJ1UGREMVpWdnN4OEk1UHJHaWtCeGFadURiakE?oc=5",
-   "data": "2026-11-14T15:06:30+00:00"
-  },
-  {
-   "titulo": "Disputa por relatórios climáticos na COP31 coloca investimentos de 2028 em debate",
-   "fonte": "Economic News Brasil",
-   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPaDc1VTUzbWk0UDZWbm9ldnRvMEV1b1JNdWN3WGJLS1FIVUNKWWlRbTRWZ0NJR2hqSkxyWmRPVkFPa1VtSmFQOHFZcHg3X1dZb3NuRG01WlJzcWVnRkVDdm5xVHBqNlZKWUU5WVpWMGE0MjBOa2ROTVgwbmFlVy1LTmtOSXh6UQ?oc=5",
-   "data": "2026-11-14T15:06:00+00:00"
-  },
-  {
-   "titulo": "BB Seguridade (BBSE3), Itaú (ITUB4) e outras três ações para investir no curto prazo, segundo a Terra Investimentos",
-   "fonte": "Money Times",
-   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQMTNPbzBkUll3VUU5YnM4allWcVJjak1xLUFJeXB1Z1hMNWZ1bU0wVkFDSDAzdTNXclItSHJybV9SeEY0dm4zaWJMVGMteXhoMklaTE5pMkJiWTA1c3RpVGdHYWhYSW1TRVY3czNDUDU0aHpGTEdjMzBqTlNZSS1Pa3A4cjBNMGJpU2RneGc2OTMxZ1BsU213em9Wb3ZMMnN5S29zcGtaTm1NMFlKRk5vbmFsNXJlRlVYU3N3NU9PTnRTcG5IVE8yUWZmZjRNSF9SQ0pwZkJHd0xjcTByVFE?oc=5",
-   "data": "2026-11-14T14:50:00+00:00"
-  },
-  {
-   "titulo": "Pane aérea: secretário de Transportes dos EUA cobra investimentos",
-   "fonte": "tmc.com.br",
-   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOcmZPdEtlek5YTlBFVjBaSHZtNndLSXQ4V0UzX0dCckIwRHg2aXg4ZkJMU0M0bTRJb1pDeHJsclNMYV9ic2F5ajdCZ1ZpY2JuV0VzTlB1aERsUzdsdFhScVVaeEh6czVEOFRNa0x3V0lUOGx0YlJVTFFSV0oxbWVycE9uRQ?oc=5",
-   "data": "2026-11-14T14:37:53+00:00"
   }
  ]
 }
