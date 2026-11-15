@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-15T17:40:22+00:00",
+ "atualizado": "2026-11-15T22:45:24+00:00",
  "indicadores": {
   "selic": {
    "valor": 13.75,
@@ -17,76 +17,76 @@
  "cotacoes": {},
  "noticias": [
   {
-   "titulo": "Lula quer atrair investimentos para explorar minerais críticos e terras raras",
-   "fonte": "Diario de Pernambuco",
-   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPSHh3Nll5QmFTR05mcVdSNE04Mlo2VDE2NmhJTnVwaDUza3dwNS1sbGt5Z3pFUnBDM2FwemY4dGtmRUJ5aE8yZHo1X0dBTGFNUjBDT2N3SFBHeVZoSHRobnRIOTRXeHJvTVhWOVVxNHhOOWszUmNQM3M2aDhnNmNYdWg1S2pMRWdKNGhLVmxXSUZMSWlpdWQxUjJEUHlNdEY2U2l6ZmxYMEtnM3hwNU92XzMxTFZzY3I3MWdKa1VSVXhxU1p4aGUxczhzZzI0UmNhS0dmYWpIdE9vTjlURnRB?oc=5",
-   "data": "2026-11-15T17:27:00+00:00"
+   "titulo": "Dirigente do Fed vê inflação alta e fora da meta",
+   "fonte": "SpaceMoney",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQSWlXSHdzc1lZM3NZN2lUUjJCR3lQc3daY2R4MUFrS2tTNi1lRlpGX3JsZWl4QjZnbGpxTEU1VTJIeE02Z1lzbm1Lc0JYRHRhbWZKQ2NxM3ZTODJXM1NROEltak81NzdSOGZaSFJzSXkxZXBBM0trWW9kMlduRTJJdWtFMGZYYkhpdEg3WHQxMnQ5T0tVNHcwSXFwWGl5ZHotR2c?oc=5",
+   "data": "2026-11-15T22:19:19+00:00"
   },
   {
-   "titulo": "El Niño deve pesar mais na inflação em 2027; veja o que pode ficar mais caro",
+   "titulo": "Fabricio Forest, diretor de Atração de Investimentos e Promoção Comercial da Invest RS",
+   "fonte": "Jornal do Comércio",
+   "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxON0llRmdSWVRGeFVGRHR3cHZDZmYtdU9kUXBaT212MXBaYnE2clFudUltWDJueXNvRWxFZ1JHcWdWMFRvQkFTVENXc3RFX3hJcVlNOEh3V1kwbXNFVGFib2VMUDFCTzZIa0JRdkF2MERteE1oVnhBcVZjRUxiQ1lmc2N5ZzVENEwtNDZfUWcwN0FsTFVnTUFQZC1xb1hJV0d3c1J5TG5fTXBnejd0Rzl6dVd2MUQxUFE2T0FmaEhnWndaUUpJS3BHelFBQllSYVllelc3Z01pWkdaNFlac3N1aDZwTlRYWnVFLS14bVdlSkZxRk5MNWl3T0NuY2c?oc=5",
+   "data": "2026-11-15T22:18:45+00:00"
+  },
+  {
+   "titulo": "Quanto custaria um Fiat Punto hoje, com a inflação?",
+   "fonte": "Canaltech",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOS040SXZJRlVEXzB3ZENRX1g2QUE5UUZVNG8wMUt1Y0R2ZEVSZlg2anhHWUxwcGF4dUtYSGNNLVNRUTBSWm9fekZlYkhDVkhLUkhwMm5YNTBMYWY2OUVXN3NJdG9VcTdCY09QOGxHZzQ3ZmpKTG4xS0lmdW1iZUQtTXV4bmdVYkJoSnc?oc=5",
+   "data": "2026-11-15T22:02:00+00:00"
+  },
+  {
+   "titulo": "Economistas deslocam para 2027 o pico do efeito do El Niño sobre alimentos e conta de luz",
+   "fonte": "PIRANOT",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOZTMwSnhzWjBja3F2djRxZU41dmZXVHBSQVZjWWFnbEZyMjYwTDdhRXE5SFkzN3VPcnZjVGF4bFM2SXVobVlFZ2JlY1hRRDRmMnFHdnJ6U3BqRG84QTFsSjREWS0xbmg0TExrRWRCZHU4VXZzT1NxT043M2x5cThZZXhPRF9lNzMyVGFMbVQ2SXlnUQ?oc=5",
+   "data": "2026-11-15T21:30:17+00:00"
+  },
+  {
+   "titulo": "Copom alerta em ata para expectativa de inflação subir diante de risco fiscal e fim da 6x1",
+   "fonte": "Estadão",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNNkdWQkFjYXZVZFZZeUJPWDFYZm9jc1NURTAtNGJnZ3Fydm9SZllraVNVWFl6SnpOTUl3aW9mLXJ1TVJoSmFqdmJMdUtUb05tNGpXdEdQaV8tOFR0MmdPVW9tWXlpdzg5QjJaOXlReDZrY2pIUkFIUU9kUkJ1WFFUNVIzdElBOHd6ZXdDaWs2ckxVQjZlRWZySTJ0TmhLMlAzalpV?oc=5",
+   "data": "2026-11-15T21:03:48+00:00"
+  },
+  {
+   "titulo": "Prévia do PIB no Brasil e ata do Fed guiam a semana de 15 a 20 de novembro",
+   "fonte": "BPMoney",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOdkFhWkV3T2xEZWVKdU5sMVBMeV9CbnRIUkdKOEtGczdyNWVNeDFhbElNdWxyNGc1UWR4RnNQM2RMcXAzN3oxTXVIVGhWSGNwWENQSXNjTkpIc3ExdHRQR1NZSXdqSnlkSzlsQnFrSVJLc3RnNlZpQjhvNlFhT05RUlQtTjdDU3NRWU80dTRmUG1URmp3QWc?oc=5",
+   "data": "2026-11-15T21:00:00+00:00"
+  },
+  {
+   "titulo": "Cermoful celebra 63 anos com investimentos e melhorias na rede elétrica",
+   "fonte": "Portal TN Sul",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxONm10OHhSQ3ZvbHg2R3cwM0dzdnZZR1RtSFhvOF9nRENlLXVoYnMzUzkyOFVDWVFuYTQ0MzFZNWZHOS1KSHdfbUJLUFRqb2cwZUQyQkNFTE41d1A5RWliNjBCTldDNVRoUXNkcDZ2Mk1ZNXBUUXpCYWtFSGxNWDFZaGRBbURBQlZyWkpPVXVxMFRHUkxpeEp3a0x1VTUzOURqazNj?oc=5",
+   "data": "2026-11-15T20:40:00+00:00"
+  },
+  {
+   "titulo": "Lula busca atrair investimentos em minerais críticos durante cúpula na Asean",
+   "fonte": "PlanetaOsasco.com",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPU19ndmhDcHREYjZoT2ZxYnZKbUQ5MmFMc2JjcUI1TW90UC1qd2U4aU9ScDJJb1JEeUxKUnRvSnJqN3JOLUdHSnktRE5rbGE0UXBOb0syNEhvb2ZBV2IyWHlxeTB3dDFLZm5vSnNfUGw2QlduaEt3WHZTeVljVXdCZnYxb05VblVTbW9iUkg2X0J2VnRsVmdUaWl0OFI0ZWVXMTBFa09reERncGxZUTJFMWhiaVh3ajRrb3c?oc=5",
+   "data": "2026-11-15T20:36:14+00:00"
+  },
+  {
+   "titulo": "Inflação nos EUA está ‘caminhando na direção errada’, alerta dirigente do Fed",
    "fonte": "InfoMoney",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQUDY1X1l3MV82M0RTNzJ3S2xjRWJCcER4TERXZ1hNcW1SM0tEYlBQcWQ0cW5XZGZLMjFvVEpPOHk4b1JwTGVtR0M1ZmJ0RFFYQ0dCSTNVUTlwWnFBR2ZPWFQ3TGNWb09YTnhlb0oyNFhhQ0V2Y2g5dU9hM0NMaVdGUTRIbnNMM29nRm9OeXBHSmF6cG5ycDlmZWNFTUlVVHpSVVp6cjE2U3B4aUM3cWU5SlNFVTPSAboBQVVfeXFMT0o4UEtRbmU4TUVlYUliQ3pVVDhLRnY1OW1aUER6enVEcFRwb3E2UEg5NGVsRGdTZjdFSV9aVUZYWVExVVVYdXZIMG9odTBRTHN6UEYwa19rR2hSTmdKZkNndDlrbEtaaDhPQjU1dllhNldwTkhNTnFpbWloT21DcWF6VW9RMi1SeU81dHNfZnRzamtycFFQd1VEQTRjTVE4c0Y1RjZ6RFdGZlY5RlZJNnIyTFdnM1dMS3NR?oc=5",
-   "data": "2026-11-15T17:22:43+00:00"
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxON0pnN2hrejNDamlWVHo3ZlVXck9vYzhfM2QwSU1JMXc2ZUV6S2pXTE94TERyMDBMdXR0SE5oamh1T3g0Y2EwRTBhUE5vaUxUWmtkSmRzM0RxWXFYWk5tMk8xZjg1cTlDRFFDWnNKSVZSUnV6aEc5TEw0bjMtX2kxUUUwVG55V2pKX0dFNkNwY3ZCUXllUXdIeGtSTEZ2Nm9zcFNOUGJnVmNhV3dUMjFMcUlLc9IBuAFBVV95cUxOa0tuM19tTFRoRE1kNmJ1c054eWdXSmh1R21MTlZ4bmJMNUxSV1lRVTV6emhoYXRsaTVFRVMtbk15dVBnTnpMUmFPSXV2X0MxV2w5azNaVG03dENBRmxrQkF3UkpfalBxWEtoTktCZk1YOHMwV1lWT0tQQ2ZxMTNvM2ZPLVlBSTZ3VUlEOGZjU29TVEhkUUF1SEFsRmZ4aFdUdjB2QmdlVElzSmlua1h4dTdYeE9hSXJh?oc=5",
+   "data": "2026-11-15T20:32:13+00:00"
   },
   {
-   "titulo": "Stablecoin: US$ 10 mil teriam ganho € 420 no câmbio",
-   "fonte": "Webitcoin",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOTXpfanBIOC1GUWtLVS12M0k3YktIbEpDMWg5d1N3MkljcjdycTdKdFotWHpBT0JRVG9PU19zb21HVVhFamtLcWtqSm9HRk5wSEdta1pRbzRRdjN0SXNjV1NDQkRSMVNrU2JBODcxZjQzTlhNdDZIUzdkVF9oV1U1TQ?oc=5",
-   "data": "2026-11-15T17:07:27+00:00"
+   "titulo": "CDB a 110% do CDI bate LCI isenta? Veja quanto rendem R$ 100 mil",
+   "fonte": "Estadão",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPd196bi1qeEsyTGs5MURaUFRHYUo0dTE3MW5pX3pRTDJWbzMwSGh1Mjl6eDVlckk2YXh5MGh1dXpuUnJROU1RU1ZRY0R1R2xzM1FkOGlxaGQxZHNyWUVFdHo5bmMtaGFHNGJpQWo4YkN3UG5hclNIeTZmZFVfbkZwUUFUcUM0VlM0Q2s3Qll5S1c1YzdLNXEzdndqampSVEVJN29NdUpSXzlsWDFFRXR4SGpVY3NlZk1naHRRUm5zUmthU0p4T3c?oc=5",
+   "data": "2026-11-15T20:18:45+00:00"
   },
   {
-   "titulo": "Tomate sobe 19,57% em outubro e puxa inflação do mês",
-   "fonte": "O Cafezinho",
-   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNbW5XTm1QblpTOHdiR3Fwa0NIV0diUmtROS1SYlZGOWFaazFhNmE5V1dtbFQ1RWliQmZkbi1qRUJPV0JEa0ZpQ1E2SkxRMDE1VVBpVG9fZFB0eV9jMFo4dkM0X2tpRmdaaFZ5Rl91TEtKZUQ1dC1pcmFEdlB0RkJUOFVhNTJLVXFTak5qWHVNZWx4TkHSAZgBQVVfeXFMTWV6SnNWZmI5UVNUZTJ2bm9SWVlSM0xnUWs4WElPOG1EYVZRQU1XUmM2dFgxZmtVZzR1Z1VXMXgta3lsNGZEUkVtMjdhLXpHaEphMFF1U2RMQUpVQmtMX1h5WTBIRHNncmZEd2JveXFzRGdQc2xleGRmajlHM01Ma0Z6VUZIZ1FhMVRlS0tUZHNfeUpoQjI0U0I?oc=5",
-   "data": "2026-11-15T16:48:00+00:00"
+   "titulo": "Lula busca ampliar comércio com Sudeste Asiático e atrair investimentos",
+   "fonte": "Farol da Bahia",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOUkdkYnJnZXJaMGkzWExQc2Vrakx1NExrOXR4Qy0wWVhrRzh2NG1EWDRtYnE3ak0tQXN1ZngwRXFvTi0wYzVXcmVTTk1vdDhSUjhVRjZlQmJISlUxdEJVZm5pZU1BNkNBVlpHMVhWUThmMUJpLW9HWXlEU2x3bVdXazBPN1dQNVY4SXp6MGlvNHRPaE5Wa2RYRjZvS19yMFJScGdyNHBSTEczdVJtaVJ6Wg?oc=5",
+   "data": "2026-11-15T20:15:00+00:00"
   },
   {
-   "titulo": "Bitcoin cai com decisões iminentes do Federal Reserve e dólar mais forte pressionando a demanda",
-   "fonte": "Traders Union",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOUE5YRXJpcklOZDE5ZVBkajZNMXZweXU0aHlVLXgweUxfdi1lM1lqZmpNaVdJdUhxcDYyYW9FM2ZkMU5LNmlzOFJwVl95MkNYWTZDM3I1RWx4UVFXa0U3MzhiWDBUSTNYelhWZklGRlF5SVBNUklNNVFldGpQdUU4ZDhjNERWWWg1MzB0VkxzVk1JNWttQlNlaUlIbG8zdS0tYlE?oc=5",
-   "data": "2026-11-15T16:32:31+00:00"
-  },
-  {
-   "titulo": "SpaceX realiza recuperação inédita de espaçonave",
-   "fonte": "correiodobrasil.com.br",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPMVd3X2U3cjM5MjY1NTdJZ19uTGJmTERpS0xlMlA1UUhqS254MEViOWRuMkNQd0QwOG9OZlpqT3l4LVRfOXRrT3ZlNnVSUkNpTjdQdXFQRTBIWlRVekktaDNUa2p3NnVUaFZHZ3ZnSnRvd3FvWWo0Q3hkSmhpQWRwRW5hR1Q?oc=5",
-   "data": "2026-11-15T16:31:04+00:00"
-  },
-  {
-   "titulo": "Atualização e juros na nova interpretação do STJ: impactos sobre créditos e dívidas",
-   "fonte": "Consultor Jurídico",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZi1ScGpMQlVTWHBsbWYzUGNOdUpmam4tUHBjeTFrQ2tRbDctSDRZQk41RmxPQUZmQVJNeV9HbFI3OTRFaS1VcUxXQ091Z1RxME4xSFZ6M0dPV01xYm5GYy1pOW1jTXFPOHhjX2Z5N29lQTQxVk1UZkNYa2t4Nmd5NGpNbVNnMmlJZDdpN29pY0FFMXFDSkU3bnVhTGItQUJBbG0wT1JJSmJ5RnFkWThLRVVZSHVHRTVD?oc=5",
-   "data": "2026-11-15T16:23:15+00:00"
-  },
-  {
-   "titulo": "Sinner é premiado por avanço do tênis italiano no cenário mundial",
-   "fonte": "Jornal Correio do Brasil",
-   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNbVZKeXJvajNQR1JtRGxLUkYzaXdhTXQ2dXJ5VTE5NHdENUFoR1JNRzl0aDE5eGZJSHEyWmtGZzRpa05ZenFZZ0hiczZZTllfb0JJVTFDVTllS19XWDdfN3pyYmJWMVM2OXBUeEFSTkNkS09yUlZXWXBXeTB6VHloUko0Y1JMTE4yb1QxUkpycw?oc=5",
-   "data": "2026-11-15T16:21:47+00:00"
-  },
-  {
-   "titulo": "Mercado desloca para 2027 pico do efeito do El Niño sobre o IPCA",
-   "fonte": "Canal Rural",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQQ0RjbFMzaEtEbFRiQWxDcXVmeEV5NGYwdjFOMnpnYmZ1NnhpRkM1S1pva2VyVjVoMXlqSTB5VjVUOXZrQVlKY1puUnNkQnl0Q054amNnaU1saUFMU2NsR004cUhseWt4MUhZZUx2X2dlRGdUWUxHbE5Za04tUlFISm9TYXFoeDZiRzRNallqSFItZDJqb0JyN19pTzlPS1A0bkpNRzN5Yw?oc=5",
-   "data": "2026-11-15T16:13:02+00:00"
-  },
-  {
-   "titulo": "Lula defende novos acordos comerciais com a Asean",
-   "fonte": "Jornal Correio do Brasil",
-   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNYTJ0dzFvNm1sTkNXa01qUjUwSDROOUo5QVhzZHBpYThub2RZYmluZ2gyZkdGeFhwR0tWNHZKdmxFellfclRFMmVjWjk2Wl9lY0Y1MjZKRmhOaXMtdGYtSkNTZnFhd2hKX2o4blBSOTd5RzBWbWNDYzhwTlczOGt4T0xn?oc=5",
-   "data": "2026-11-15T16:12:22+00:00"
-  },
-  {
-   "titulo": "Enem reúne grande número de participantes em fase de treino",
-   "fonte": "Jornal Correio do Brasil",
-   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNbWlBWUxtRVpXNVR5Q0s5aWVQMU9IX0NpOVBMS2h0c2FmWUZNWjZicFk4cEJiQVpxSHBmZkI3a1RfS011YXQxMVJPTWNhWTBCbzVpVDhjaGxta20wUTRVNF9obVJTN1ViTHF6b2trRjljR3BmanBQTjhESjRoNl9PODgzYllkVXk3R3F3?oc=5",
-   "data": "2026-11-15T16:01:40+00:00"
-  },
-  {
-   "titulo": "Expectativas sobre impacto mais forte do El Niño no IPCA estão se deslocando para 2027",
-   "fonte": "UOL Economia",
-   "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxORjBseXIwVjFvTGM3ZWpIcW1PdjI3MWRjREl1bGx1VjM3cnhheHh1TU94VXN4YkNWdm4zZ01UVUMyemgzRXhINVk5WnBDZWx2ZnpfakM0aC0zMmhxYkFsRjIwRGJ6emxlUEYtX2xXRVZGX2NDbEZSbXpkMExibnF6TWRvZlY4UDBjT041bXhpWjhDYlpTdXhzb0JGclhIcVV2OC1jZklSdS1aaFgzTVU3UlBHWGdCeFI2LXRqUWJ2SUpKUWt2OUt6RFBGUEJHNG4taXVBZGFzWFQzUzBXWG5lcUxDM2NUWVZfYjhz?oc=5",
-   "data": "2026-11-15T16:01:00+00:00"
+   "titulo": "Ibovespa na semana: balanços ditam rumos e CSN e BB são destaques de baixa; Magalu salta quase 40%",
+   "fonte": "Estadão",
+   "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNdFhUN2lidFEzaGQyM1k3TlR6QnF0SzFjajJWS0NKbHRhbVBiVlphYlk3YnpxVnVrTVppRDhoSi05d2ZwdGpYcDBFR0xsUE5WSXB6eEp5Y1Z0X1I3SE5pczI2NUpuYWc0NGJCVi1lcWEybEQzZHhra05iRzVOZEpRWlBQWUVDNDJiVUhON1pqQWhwSGdVQXBGQ0tVS0xweTQ2eWpMaTZBcVZBRnVwSXZWZlR0ODVhUXVtS01KUE1VZS1QUmxERnhWSTU2QzAwQnAtV2dUOEJOXzNwTU5WTzZpRmtEbU9YTjlGSVgxazZHdG1aTEIt?oc=5",
+   "data": "2026-11-15T20:00:38+00:00"
   }
  ]
 }
