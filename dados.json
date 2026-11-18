@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-18T13:52:15+00:00",
+ "atualizado": "2026-11-18T21:52:12+00:00",
  "indicadores": {
   "selic": {
    "valor": 13.75,
@@ -17,76 +17,76 @@
  "cotacoes": {},
  "noticias": [
   {
-   "titulo": "Dólar abre em alta com indecisão sobre pacote fiscal",
-   "fonte": "www.band.com.br",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPQ1V5TjVUQUxfSGwzcEZRV1otSWUtYldCUkpfczBNaGZPYWFjRXpwejhzaDRuUmFxM1A1SllEUm11dGhOQ3JGM2x2c2p2QmxsUzNsVXE2eTFfeERaWmN1dUNtNHJWRzVOODNDbWs5cWNqSjkxdnNuNWRKdU1jN3ZLSTVtRDhhMXkwb01hYWJn?oc=5",
-   "data": "2026-11-18T13:45:46+00:00"
+   "titulo": "Ibovespa cai 1,28% e fecha aos 167,6 mil pontos sob pressão fiscal",
+   "fonte": "Times Brasil | CNBC",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxONGVoWlFNYTBHUVl3dXRMSFl3dlFidzlCS2JNX3dKanl5UDZsaTBZa085NF8wLXBvVVF5Yl80TU4zVlViNm5rY0tocUFuVG1ucUlDQklhZkxQbkRQVmp4ZlR2dmU4eTFuVWZ0VEMzdXZUNmNaZjY0ODRzaVZCbEVnNWJBRW5FamYweFprNGFMejZfeGg2ZldIRWN6dXZMU3o5ZUNnVUM0SQ?oc=5",
+   "data": "2026-11-18T21:44:00+00:00"
   },
   {
-   "titulo": "Volta da inflação é a pior política social, diz economista Eduardo Gianetti",
-   "fonte": "Jornal do Comércio",
-   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPaTh0NFI2X2w3akZzblVfdXpnNlhnZDJZaWJyTXMyQ0RpYVVCSmFxcEx1VG9EbTZ1UlU3eDlQTFlNNUdBUEYzYXEzT3NnanczbG9uNTlTbzFDR3dRZ0M0ZV9IOHJNczVjeWktWXRyNU5vM25wT2loTklnMWgyNEdsaXhReXg1dTltRHA1UFFWQ1VSdTlydUlsNjk4NDNtNVRmQ0F2X0JjV2ZmbGVEdDc4ZjJUVHA3ajhFWDB2ZWl0YVhFRVQ1VjZDajRlVWlpOV9YbkJV?oc=5",
-   "data": "2026-11-18T13:44:04+00:00"
+   "titulo": "Dólar na máxima em 19 meses coroa aversão ao risco e aprofunda divisão na bolsa",
+   "fonte": "Valor Investe",
+   "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQQnFTeEVxTk9RMHh1Xzg1YXBPM2xCckotc2RURTkzaWF6a2N4WDFXMkEtLXpGdkQ2YVo2TlQ3RHRKaWhfVTBFWExPcE83MXk0YUxRN0M3ZWtqUUItTFMweVRVeUUzdlRhdDVqY1BkRXhYZ1FfYWF5NkhYY3J4cGEydjl6TnBDM0R3S0tvTWl1ZHNiTDlxaXZMWHFsMkpGQTRYSlBLaFBRZVdkd3JlMWVha0VuMGVUN0xkaC04UTNNX1JhTUZROE9NOUNFNWVPT3N2Y3ZWVGFEeVhVdGY1aERuSHp2czM2ZG9IQlM4LWxyVnpIRzFUcDVlS0JWY0NxOTF2S2EyWmNnVdIBlgJBVV95cUxOV1dpVm5nczhjcktlNFRqcnJ1YURsYld0czY0R1owcVF3UUJFekFudEtJMUE4NzlPUVFwUE1UX3pPSFlLblgtaFJvZGJrdG8tc1BIMklfcHZfYnRjSVJFTHJwSl9QdnBUQkM2dTNTRmFsQ0NrU2l3ajVsaU9DM1lvaVphSVltNy0ybmI2U2hoZmoyZEI1V0J5bzQ3ZS1kUmJnY1Z3X1JwaUdZMjNXZHdJcHY1Q1g5bF9NN1RQbTdHZnhiTWFpUjBFV2ttNExaYk9tX3U2VnBVSU9QaEZTNE83YV9kRGIwdjhKdHJVY1pTZmV2UlVUajRvNXZyOTZMRV9fVWU3WFhOOWE2eTQtNEx3bXQ5TkhQZw?oc=5",
+   "data": "2026-11-18T21:42:53+00:00"
   },
   {
-   "titulo": "Dólar sobe e supera R$ 5,80; Ibovespa cai em dia de votação de ajuste fiscal no Senado e ata do Fed",
-   "fonte": "Estadão",
-   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNT3hzSDZ5Q1NiSXVXalV0N0pxWDZISEwwbjIybFpUTlhWMmZfdlRZMWNONjdiMHB3RTU3QUU4RDdXSzhIaXVXMkFBVkV0NzAzQTJWejFBNXo2eGF0Q1FkRFh1SUMtdHVnOEl1eU5ZS2FjX2JOaDdlZlJvTVFIV1JVc2lfaGNKR2QzSFh1YTZOdlV5bHhEWUpxVThvX0RvSHMyLWliYWJDRmM3ODg2VkpjdWJxNU5Md3BDUDlKdkpMUkc2NV9KdV9tOFlqT2lwdW1HdFdtS2hwX2VWUXlCc0xjM05qUdIB6AFBVV95cUxQbGVCNEtZM0xvOUpROE8yWUUzMGZLdldYUXlCbm5EZzdFWEdpOExXNEJ4WkszRnJ4aXhTMG5kMnFiMmE0VGowNERDanJYYzR3YnRiTWtHYUlZVFRhVzF0b2ZrWk91UkJPa3UzUjhqLWJ1d0I1TXhBSGhLMGpKZG13Qy1lWklDamowUVpxNEFfbTJjYjc1cDhLQVJLZk1WRFhnMzcxdTU4Z25ScldOQXhkb2NkWU9xdndlNnRzd0dyaDZpMHRiOFFXeVJicXQ3VjBjblg3Sjl4MXFUSkJMNTZwX2tkVVFsN3JK?oc=5",
-   "data": "2026-11-18T13:41:00+00:00"
+   "titulo": "Dólar sobe 15% e vai encarecer alimentos e combustíveis",
+   "fonte": "Gazeta do Povo",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPdjAyMkZucUE5YjM3dDZoX1RnQ2dmelo1aGJvcEtobzhNam05OGprMi1IRWhpOHhlZ2JnVS1lTi1XakpsMXFQTFdRM1Y2V2o1Q0cyblY5eEhOQlBVWDJOb2RSSFdtUHpUOC1aMUM5bWVtTG1PMWFrejVodnp4VjZ5Xy1RdDRpb3lyWkE?oc=5",
+   "data": "2026-11-18T21:35:00+00:00"
   },
   {
-   "titulo": "Ibovespa recua com rebaixamento do Goldman Sachs e contas públicas no radar",
+   "titulo": "Ibovespa cai com incertezas fiscais no Brasil, enquanto ata do Fed pressiona mercados globais",
+   "fonte": "ADVFN",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQVGlMSUwzQklCTnNHQ3p1eXZSTHQ2UFlqT2dWV0doanZoYTBMY0RzMFBSLWV5ZVRNVzVDSUV3MTZrNG9FYzFGazdvS3JXcnN0VVJTalFNbkVhNUY2TlNZaFBBSEZWMjZSdDdIMzRXUlAtZm8tRVppeXdBSk9QQVdfZ1FaaVB0WlFZQV94WkVwVUNCRFRiMm5fS05xVVFoNnZobmszc0N4R3hPTTdpcllNc0ZfQ1lyNTJZSXdJU1JKMG9QUTRJa2ZN?oc=5",
+   "data": "2026-11-18T21:34:55+00:00"
+  },
+  {
+   "titulo": "Prefeitura Presente Sé acompanha obras e investimentos na rede municipal de saúde",
+   "fonte": "Prefeitura",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNTHJkRnFaZmYzZ1YyVmZObVhWdGZpczRlSDBWY0J6SlBTY3praFZXaEhUUFY1Q1o1Qkh3TUd5aUQyaDVEaWh1ekRVWmowUTJ0TTR0T1Bqcjh4Xy0wS09FdlBOTV9nbXptSTZRQmhEdFJEVlZVM3hPVmNvcHZIU0laSmNLSGNKQlJYaEZNU29nTnVDcEQ1UWFvUUFXOWJNN0dLQnJydkRqSXNvZnBwUm9DU2FfbVh1VTBsd1lPSWF3SFgwR2NELXRReFNrMGo?oc=5",
+   "data": "2026-11-18T21:33:45+00:00"
+  },
+  {
+   "titulo": "Ibovespa perde mais de 2 mil pontos, dólar chega a R$ 5,86 e Vale (VALE3) cai pela 7ª vez",
+   "fonte": "Suno - Investimentos Inteligentes",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5CV19OcTZ5WEZXTlptNWRZV05JazBoY2xqM2lQWnZkUWtyb3NaUkZRM2x0NXBYSGpxMUlmTmYzbjFmcjBsczRuczBEc0JVZ3hINnhsNHdFSnlJT09xdk83ck1sci1sNkx4OUlaQngzeGIydGdRbkFWeWxSc9IBgAFBVV95cUxQTjVVdTRGT0l2UlVPb3JOXzNQc3RfeW82dW90cTBsZFZ2dWtFa21HMzg4dVd1OU1ERzZkRnFHRFU3bWVacnpweWZMWFNZMzdJREUySHpqRjJCc2wtLWFGYndMWnRCUHFFbFBIM0lTak15dGtvSk5KZ3JHV3pBNTBNNQ?oc=5",
+   "data": "2026-11-18T21:32:31+00:00"
+  },
+  {
+   "titulo": "Ibovespa cai com exterior e risco de desidratação do PLP do ajuste fiscal",
    "fonte": "UOL Economia",
-   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNZEFMSmVwWTNMcFh1VHF3Ml9RV1hZUEZIRVQySlY4UmpNSldrb2ZtY0I2RG5kWUdqNmJHQldnRHItWFJqQ2lzZG9FTzQ1ZnpNWXhudklBUW0yb01VVnlZb2Q0R0hCbmZ1NDRKdDdRZ2NiWWdBOVVmbklNZGU0VW9DZjNBc1ZITlpjQ1RNNk9QZTdYVFBXR196Y2JNbDdpOWU4bVA0OGJpS1JfLXpzcWdxYjFWeVQ1YzFwRmk4WEpETzBGaTZ1RjJBOF8xV2gxeWt6X2tCeFRn?oc=5",
-   "data": "2026-11-18T13:40:14+00:00"
+   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPaFl0MTZDN2VZUzFXQzJocDh5elJUVWx3YVd6ZDNwdE5neXdSMzJ1M2lMVzhOQ24tX01VQ1pDS0tyWnVfQkw2TTBWanNJbWFuODVXS19lYjJYeFBHMm9EanZBeUFUbk9MOW9pOUpoN25XY3NEdThwbHZaWDFNdWROc1p6ZHhUYk04aWVGVkl4dmhhYjVPaDM2TGNHdi15WVExSE45LTdxQmVlWXlxdktHUzZSZkZYSl9tNnBZc0hZZ3M5UFkyNUZacVJxVVg4VktzQk8tZE9uTkFhdw?oc=5",
+   "data": "2026-11-18T21:30:00+00:00"
   },
   {
-   "titulo": "BlackRock compra SulAmérica Investimentos para avançar no Brasil",
-   "fonte": "Investidor10",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOSS1admZwSjNNVXJYLVBOZEJqakkzR1Z5dTJIdk4zczRPb1k4VUhRZ1NnTFB0dTRYeGlvb3YxYXBtcnBITG1oaEw0aHFkOWFEclFfcmd4ZEllbkdLT29Jd2JBMGVNMXd3dUc2dXR5MkZLSmxLekVVa2JFOEdlR1JQVktBa0RycmtfRU1USDFMbWdrbmozc1cyOUI5MW9ucjJndmptSVpQeC1KNU9BMmfSAbMBQVVfeXFMUE9Hc3NvTXVmZWNOdmJuaHMtMmJNS2NLVlRtZEVORS1ESWRWTnFubmNiT0wwb19BcldNcFVVUW16NU9JWnMxQWpGa3RpZDJrZXkzUjg0aENsTDQyV1I0Y0VzR1JhSGNsU2xkQ3BJXzRQazJ2ZHNsYklRbXVVcE9STU5fOU9ERktDWV9PcHFHZjB2Z1FITk5mRVhucE9aRHhtOHRnYWNnWHVleHQ3MElWaDV3VUE?oc=5",
-   "data": "2026-11-18T13:39:27+00:00"
+   "titulo": "Enfoque - Informações Financeiras",
+   "fonte": "Enfoque - Informações Financeiras",
+   "link": "https://news.google.com/rss/articles/CBMi4ANBVV95cUxNUXotRndwbEVMMkNlbExQQ2hHbmVDcmJnSjYxem1ubDRxdExnellnRnZFU0hPSl9VTF82bUx0TzQyM3ZmdDc1a3hsOF9iXzB1c0VZV0Q4ZXJMWnY5TW8xcGsxdm1tRkl2LTRlYVFQQTlxdS1ZWUo1eVlUVnViNWFYWmxld0hEcC1fbExwOGJWUVZIelNVZzdBNmRVNnpkbmNrVUFNamFkRnB0NTY5T1BZcDNXZ1oxVjhpSDFiVHpOQk5TS2E4MTVGLTduS1ROa3B3Z2dnMGZ4TlJReTd3Wmt4cWNMcFJfbEl0MGFvZWlGVWItc1NmUlZDOHE5TFFpTTUxMDY3RTZhLUVaS09lcTU4ZnhmT0pjVzluT3RKLTNUOHpiR2xxTENqbVJPMmRJY0V3cDI1SzBVZUFEZEQ2M1dITE1rNGE4WkdDV1poMHM0VWg0ckItVXZ2Z1pSUFFESldyUk5XYkZ0QldfZ0l0TVVjNm1TZFE5ZU5vUHJGVXNqOXZqN0ctUWo2ZWc4blF5UkJTR2I2alIzQzEwQ3JWSmFySlVmZHJ3VzU3Mkl2am5UMFJKY0N1VVRPVWpCQjhtSm9yUUNlSFRFZTE4Wk1GejhlTjNYQnZFQVp3QnZhSHRqVGs?oc=5",
+   "data": "2026-11-18T21:29:59+00:00"
   },
   {
-   "titulo": "Rede D’Or vende gestora da SulAmérica para a BlackRock por R$ 850 milhões",
-   "fonte": "Exame",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPajlKVkVpdUtQdElOUlpWenBGT1lvMnI5aWRTQUpLWFpBZVB2NVJSUHV0cFRGM01NZ0VlUG85TXhrRGdlTHF2WTZ6Q2M5Z2hnUGRDLXZ6V2JCcE1CcF9TUm9oeER5d1F0dFhDZlpMbEJyZ3NmRXNwcnpKRk5pUFFPUE1NMGRmZHQwWDhuajNMcURVSmJXTjhBclY4QnVDcUhmSTRkX043RWNTQQ?oc=5",
-   "data": "2026-11-18T13:38:09+00:00"
+   "titulo": "Taxas de juros sobem com percepção de riscos ao PLP e saída de recursos da renda fixa",
+   "fonte": "UOL Economia",
+   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQTTBtZW1pWnM4b2dfS2lHTmQydnlfeERwcTZJTXpBOW5tQW83U2NYVUZIYU5rMFpFTXpYdkdBbHFYaUNCSWU2NEwycC1FTDVySGhqUW80a1VkbC1GOE1jVWRId1E3dDFCdm5ONkE1OXQ2UUl5MW12M2xVTzM5aVVnYzlaMnVWU1YyckxZcFhEaVBDSUJ4X2dFZTBlSWpGU05xUDJOU3VCeGhoUzBGdXQzeHRoM3otcGtUTzFVeW5JWFdfTC1fUzdfWXJ5M2xLMkttMHBYejMtZUZDUWlFZDBXNmxfeExSZmxES3c?oc=5",
+   "data": "2026-11-18T21:28:00+00:00"
   },
   {
-   "titulo": "Bahia terá R$ 12,8 bilhões do FNE para investimentos no setor produtivo em 2027",
-   "fonte": "Classe Politica",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNcGdIejRCWGlpNU5HODZVU0Y0MUREN2g3M3JMWkp5MFZTVTZxSGIzVkhJYmJmSnNPS0tmejNKcE1fUGNiSXBrTThTVFFFRU13OVE0WXNlRS16QUlhWTBlSDJKSjhjeWNMLU5nUEhpQlVyYWZvT0lIRjFpNUQ1a0dkbjZCcVVsNXdXNV83MzdoVGFtUEhPV0tjaTVxNmd6ZWhBR0NkUWljUml1RU96U3phc0lKU0pKZw?oc=5",
-   "data": "2026-11-18T13:32:00+00:00"
+   "titulo": "Dólar volta a disparar e Ibovespa cai com atenção voltada a projeto de ajuste fiscal e ata do Fed",
+   "fonte": "CBN",
+   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPU1J1WE0xREhMYWM0eU5DbkxXU2xCWjhQN2o3SERYRHVwanRSXzBQdXpKbmxQNkJUTHowR1p1NmczTXM1T1lkNjhsVm5VbDVSam5xa2VSTTllVjZxZ21EQXlLazJEcVhZaHpLbV84ci10MlhrM0tvalVvUFNiQURuWEoxcF81V0lidmcyTFJEczF0SU9UWkhITG5scnhqYU93anJsWEpoUElZT1otVWxoTEFvWlRwTTJ5NzRUVlFoUVE4c3J2dGpyNi00dnVCVnVnUVZyb24tYVXSAecBQVVfeXFMUDJEX21QVlh2dDFoNUJRSFFHWXdIRXpvTFFlZUFRVlkyTkRhRkY3anZFQWtHeUNyQWg0TW9TVHRVRk1SM3pZOTJ3NTlBcVZtT21jaG1uS2pvYmQyV3EzckRoNnBOaF9qUVE3WllncGRkRmVQX0QzajdhdHg1YzBMdUJIUGZZZDNlRHgxa3JKWVJzOWRGSHczOVhBUjF6UFpVbzNTbEowaURmQjJKbjhRZm1PMkZkbmNfQkFIMEdNaFg1R21sN2lTS2VhQ0JQYmRVcFM1ZjBTdUR6WndBZGl2c1ZsMGp1RVlv?oc=5",
+   "data": "2026-11-18T21:25:21+00:00"
   },
   {
-   "titulo": "Zagaia EcoResort renova marca e anuncia planos de expansão em Bonito (MS)",
-   "fonte": "Panrotas",
-   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQaXF4aGlpWUJSRUtJQUJ0eEZQMVVzby1tX1hfaThudmRDRV9mQUZmNlF2dHhCOEdTcTk1bG1SZWxYeW5CUGxxUE1NN3JtaFE4RzV1VWxyRXBIZnFFWlYzbnpTVXV5bEE2OUQ3cUV1RWF2cXdqR3czRjNxM1dkWEljeXc2alBFYnZaN2dvSWlOX0NoYkFlV2RQc2dEU2dYYUliN085eVBSMWN2ajU1OVFHNmdRYTBVa1laRE8wXzVkOXlnTEk1WlZQVFFlSDZianJtb0R2Z1lVR0Y1SHc?oc=5",
-   "data": "2026-11-18T13:31:00+00:00"
+   "titulo": "BlackRock fecha acordo para comprar SulAmérica Investimentos, com US$ 17 bilhões sob gestão",
+   "fonte": "Revista LIDE",
+   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOVnQwZVFGdy1oR1FaWElwSXpONmRWbnpGQnZicExnTFJQT0tmbmxKUWtBaExqY3NvYzVKVEJwQ1B4aWRMZjlyYUM2REU3WWlDZll2MFBqYVowdmVJWUpkdHFJNENnSlpjSXZWbGJtdUlxc24tS3VrQ0FoVWowVnBTMld2VWxqR1NJbTMwSmRKYW5ZSXNJbVpjNnB2cld2WkptTXE5M1BqLXk1d0JtX3dfdWo0dzc0WkNZSUYtR1Byb2M5RmJEdy12anNzdHdsTVpxUUhHRlRkbWNkQzVPNUZWaWw2TnFUZFVoT0E?oc=5",
+   "data": "2026-11-18T21:24:09+00:00"
   },
   {
-   "titulo": "Henrique Teles encerra biênio na Câmara de Artur Nogueira com investimentos, modernização e quase R$ 3 milhões devolvidos ao Executivo",
-   "fonte": "O Regional Net",
-   "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNcGdlTjRyZk4yMWdaTklfSGc4ekhkOHJ4Qzg0am44MDNUZVhxVTBxWEc2TE10SkVNQWFrQnAyY1dVVzNLRzNzWWxqZ2g1M2dfYS1KMHVxaFJWUEFRMlRVSzhkV21ZQnBzSE14Wmw5Z1pDUUlwaXJnM1FfOEdSQTVVSl90a2ZFRWRVUjVRTnI5UWk4RzhPUWtGcnVaWmY3amduZ2NIRjhUSEFfYThyX3NFcXZpUDJWTkRUUlp5ZE5TaEUwbWxZUEo0ZWZjQUtMbVpwZE1xb29PZ1NnMzh3dUprS21Da2FITkpWSkV2RzBmX1N2QVU?oc=5",
-   "data": "2026-11-18T13:30:53+00:00"
-  },
-  {
-   "titulo": "Preço do algodão sobe no Brasil com valorização do dólar",
-   "fonte": "Agrolink",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQSXYxUF9kckxuV3JLc3Z5c21hQ3J3Rk9QNF9qTDZPUE50QlRaeU1aalFWczlid0lMcUJ0ejNBQ0NfR0JrcUVCT0NYX1BwanlkUC11SU9fQXEyMUVTUFJ6eHFZR3M5VmNzWmdmMEdnUGlNRlhpSjFINEdJZldUMFViMVdSZFdZdzNWSFAtZlY1OGlkdkQ1Z0FYd0NnWFNXT01UdDRzUU1YMXQ?oc=5",
-   "data": "2026-11-18T13:30:00+00:00"
-  },
-  {
-   "titulo": "investimentos no esporte em Minas Gerais",
-   "fonte": "Jornal Panorama Minas",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQdDFibzNYRHg1YWE1S0ROdmM0UDVzRDlkdmRySTJ4S09vZWN3X2lwYTFKSkEtMFF0TU9sVG1fYy1qUGwxdzFPVXk3N09xUU5iNUozZU4zd0tZYlVJd3NwM09UaUhoWDRiMkhYYktVQVZnb2lLTERsSlp5SkFQRUU1M1FuNEhCdzVlekFQMXUyOS1BS3dIUmZUM1JLSTYxRkc4a19MVlNnREVXWExnWlcwYkJWREo?oc=5",
-   "data": "2026-11-18T13:28:39+00:00"
-  },
-  {
-   "titulo": "Ibovespa abre em queda em meio à votação do pacote fiscal e a movimentações no radar corporativo",
-   "fonte": "TradeMap",
-   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1DS0E3eFJvOWFmaWtGaE56OHFfaTZob3lwZWZaWDlINXk3M0U5ZG44dG5XenJQenp0NFlTenZ5cGxseDdFc0xTWkQzM0YyS2F3SjRqTGNYbEU?oc=5",
-   "data": "2026-11-18T13:20:00+00:00"
+   "titulo": "Ibovespa perde os 168 mil pontos com votação do PLP do ajuste fiscal e queda forte de bancos",
+   "fonte": "Valor Econômico",
+   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQeXVMVnhwU2pFeERLR2xGRlc2bGh6V2VuRFdtMlRCd2E2SEx1dXRRS0h0d1QxNk1uNDZiRnhKMWRxREVhY1dWODZGbUlEb2F1OUZUbmh2RFR3azFmM1h1TlZFYTVIQ1ZmclBUVkZiZm9yNnd5emExNkFlNzBuUUFwQjlIX2pKZ0ZaWXR0UUJnV080Q2Y5QUxzMEtNNXE5VVZoTW0zQlRBX2FBWi0tVVVXTDBVa0hNVFNweE1pWVR5OUlzaEV1WFYweE5FNVFNQXpnMERlWnNiS0hkY2I2RjVTWWJSVXPSAfMBQVVfeXFMUEhNcVdzOGFoQVVnaVJldVpwY1Q3TENsU2lLUkVaZUxJN25nX0IwRUdXdG1ZQ0RlWVRDSEhsbi1PMHRKZ1dPSGpYc29IaFlCaldoZzlRNG9PdzdoaFRtTFJLazlrblRYdmx3YUs4THJZZlNoV0xQeS1zcnFuaVYyb2Q2NTdRZnpmdkVlWEhZVzlkeFFJMm9OTklLMElKZkJrcHV6SFVpNnRqNTVvaW53NWo4TFlUalJObnhWVjNRNUZFQkJvRWllQ1hOSlhpQTVPUlc2Q2RBUkFNSmlBY2xsZUNvdDRCaFV6b2d2QVQ2Uk5VUGxF?oc=5",
+   "data": "2026-11-18T21:24:01+00:00"
   }
  ]
 }
