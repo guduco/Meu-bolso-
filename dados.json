@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-19T12:54:35+00:00",
+ "atualizado": "2026-11-19T21:25:45+00:00",
  "indicadores": {
   "selic": {
    "valor": 13.75,
@@ -17,76 +17,76 @@
  "cotacoes": {},
  "noticias": [
   {
-   "titulo": "DIs sobem com dólar e exterior, apesar de aprovação de ajuste fiscal no Senado",
-   "fonte": "InfoMoney",
-   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOY2RsUkZXNDNOcjhKTGhBVXp5T3F5VUZNck50dU9pODVIeC1GVTNCNEFEaFlvMTFFVG1pUWRzT1I0RmFLS0RsWUVrbl9IR3NlQzVUcTNlX3ZVTENLLVJkQjZvQ3E0eHpfcjZvYjRQOXY0VVhTOXVSR3dzYVdVTGQwUEpSRl9VbW1RXzR3T1RYM2ZRTEgySjZ2aWZXcjVlTnE0ZE9QLVZaTFJzZVFnNjFMN2ttZm1McE93NG1rSFVhcnBUWFZJZmJsRENR0gHPAUFVX3lxTE10ODM4cDEyZWdUc3EwQV9HeGFwUzlsckk0cW1kcXdOWTVTc2xyQURXSkRCLUswdTBmU1VXMm5LTk9HQWdzOEV2bUlFanhCNUtYeXYtaWNTLUs4Yl9Wa2NBNDJRVHIwVGE4NmNUaVhtcXJaRUpaUTE1cDVQS0tfU0tmbG03UzVqTFFjRVU5WklTVjZ5RnBrT295ZEpZOXpjSjZWQmRvRVZJenpGNGY3MDhvTmJlVGZPX2JLd285eEdBS3lVTERXY3NxYXlLdjMzOA?oc=5",
-   "data": "2026-11-19T12:48:13+00:00"
-  },
-  {
-   "titulo": "Dólar acumula cinco altas seguidas e atinge maior cotação em quase 2 anos",
-   "fonte": "Mercado e Eventos",
-   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQYWxZOUFsQzFDdkVyUzg1LWp4N3g0LWhPU3BLbUJQZmxHS1hQTTd0Mno5OG9SWjlzQjlWNmI5QUlsUDBtWFl1cVlwcERmVV9RY3FlaWVGWU1EWnI3alRDQndTeDRoZ3dnQWxtSVIyeE9tTjlJVUxqakZKYkxPSXA2cTBYNEZvbkRaS1Y4WDBrMU5BLTRfWlRKSE1rMWdjeTd3cWRCRm5iSFJnWGxNb1NnMk5NWmdfRmVCTWpkdmlFaFJqYU50bG90aDNB?oc=5",
-   "data": "2026-11-19T12:47:39+00:00"
-  },
-  {
-   "titulo": "Dólar alcança R$ 5,91 em semana tensa no mercado",
-   "fonte": "SBT News",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNVGRmaUVPZjZqWGFwRVZNRU5CTm9YVkhkN2ZzUllpa0V0UllQTGJtekhIMWRWSnZWR3VuaWtXTlVJYmN6M2Rfc1V4RjJvQUNST2hrOUV4YzJuc3NrWlJYcDNQQ2tKZ0JTRlpoZmlaNmRqRXA4LVYyUUNoaDY2NmRQVERUSzFVdjBBX0Y4SnBXZjZLa01UTVA4YzU0ekhZV3lo?oc=5",
-   "data": "2026-11-19T12:47:35+00:00"
-  },
-  {
-   "titulo": "Dólar a R$ 5,90 afasta compradores da Black Friday em Ciudad del Este",
-   "fonte": "GDia",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNaXVWRUhIMzAzT01mM0Nac1ljd3dwLWJzQlpUQmM0TUhMeEpEdzQ4Nkt2RWJpNTI0SzFSVWxUdVNtV3ZSZ3FzVG9xSXU3T2l4TURNcl9GTlVzSDdaR2FEY2hEWnplT0ZsRWo1bG1lQnAwOUtWR3diRlExTTdmUHlhU0U0MVc0MGlHeEhuZDk0ZllMQlhaeUI5Q2sxbFljNzFEcElj?oc=5",
-   "data": "2026-11-19T12:45:00+00:00"
-  },
-  {
-   "titulo": "Tesouro Direto hoje: taxas disparam a 15,43% com fiscal e Fed",
-   "fonte": "Valor Investe",
-   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNRC01RXdpZVdUSWk1YmxZclZpdnk3V2FjMW8zeFZfSUtpc09NaDhHTjR4bEJPRVB0Wlg0UEVTRUQwWXA0M09wbUJsNGdpTmJtSi10Q3dWX1Q2ZlBqWkxpOGlmU0hETldCU3RZcVNxRFpFeXA4RFBMMjUwcmw3Y2Y5SEVPbTFnVVFHT216U2I0MWVhTmM5Yy00YWp0TFdPdXg3TmxOQWthQ05CZVAwVk90RThVVHFQOFpMaHhIc0xrN3Z4SzczYUtod2lLeDY5dzVPd1pKdGxYdUVRYW52MEHSAewBQVVfeXFMT0JvT1ZBcWpReGFLcDNobkxTVi13Tk1POERoeVc3SkhoTXgwOG9FQnRQSlNLT2NWLUxLSUtzVVJVN1dMYVpiUGxCaS1fZDJORFhFRG5FNFQxOWNXdHBXMk1IbmJoY2VWcllEb2J5clZQb3BKaFpSR0dwb29iM3YzSFJFUEdRRE13aTRYdE0xZEFCeFY5RV9wanN2eDNZUkVWUnQ0UHBVYi04NFJpdjVSNFBURTVUSXlfenAzTWFBRTNYVnFia1pucEw0R0dnTVBVR0FBU2ExellfYWpaMmU4eFZjYi1hSEluNzh2X1U?oc=5",
-   "data": "2026-11-19T12:42:14+00:00"
-  },
-  {
-   "titulo": "UFSC busca apoio em Brasília para investimentos no Hospital Universitário",
-   "fonte": "Reitoria UFSC",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQUjZtYjNKR3Rldl9NRWE1VWpYbmdtSFZVTUE5RlkwWUVkWTN6akFyRS1PTzhEMTlLQ2x0UDlXM1FZcnR5Z0NBY0xoQ1d3T0pVejdQenAtNHdJTTBxSkpzTFFacmszOGtzMWN2SjhLOFNPeDc5QV9jUkI0eWttR2FPMUNOX3RsNVBfQm9rak1mZTUyQmJ3QkdVT3VwUHc4MVhwNHV4SHpRbVJFOVYyZGg4?oc=5",
-   "data": "2026-11-19T12:41:00+00:00"
-  },
-  {
-   "titulo": "Dólar abre em alta e supera R$ 5,91 após aprovação de pacote fiscal no Senado",
-   "fonte": "Folha de S.Paulo",
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPYS1OWDJnb3d5Nkp3RjZGeThUSnlyYzlZTFhsVm85UGRVaGQyVVlNcnZtcnN2N3dYalBfUWQtb2V5aWl4TWZTWWxkWDM4QXdQc3RoMzZlMEV4SERGNzVsNU0wMFlPSk9Qd1RGTVdDWnE1bmRQTU9RRGkzanNuVm5RMjdWVzhER0NQaGlVZl9JTXFYSnBHbng0UEhTemxFVU13dmhwRkF0Z09LMS0tbVVSNmplWHhFcDZDRnlOcTZaOGpyT3Z6Mmc?oc=5",
-   "data": "2026-11-19T12:39:00+00:00"
-  },
-  {
-   "titulo": "Dólar abre em alta e vai a R$ 5,90",
+   "titulo": "Dólar vai a R$ 5,93 e renova máxima do ano apesar de leilão do BC",
    "fonte": "Poder360",
-   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQNkR4dXFxaTduQUdxXzdNdmpqQnRhWnRKRnptTXRfT2VfS1BJQTBsbUNZODROMG5SbGFYdUx6YVotNjNaNkdpR0NPN3dRbU0zN3UtT0FqdmJwek03UjJiX1dLbW15V0ljSzBScGtZcmlwUTd6bzZ3Ui1Id2t6WXV0OG5B?oc=5",
-   "data": "2026-11-19T12:34:49+00:00"
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZ0VLUDhwY1hEOVo3Q1BIeTNCbXo1b3RmNkJXYlBoQ2trVHZyb3lLVDFQd1MxVkExVFg1WUY2eElzTnphZl9JYkNFalgzbTZNRkljcHhfVWs1WVBoN0JsNHg0aGVzOFBLb1BkUWlxMTZON2E1a3hvM1NhendWa3NJVGRURUQzZGM5SWZtUFNybDVTQ1JMYlJxa01TSUJRWEFVQ3pvMlRtazl4UQ?oc=5",
+   "data": "2026-11-19T21:16:39+00:00"
   },
   {
-   "titulo": "Taxas de juros sobem com dólar e exterior, apesar de aprovação de ajuste fiscal no Senado",
-   "fonte": "UOL Economia",
-   "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPTDl0YkFEbFBkWG5ySnFjcUhlVDJLcU14d1V0WndyRHZqUU1PWXkzMUIxOF9Fb1BYLTVJTGRTV2UxVWFIZnNWTVZHY0czTlRLU3RlSGlrb05MVWVITW1DVVZNa25JLUZRTHZsTUpUNGloS0R2VWg1VTRTY2VWSXBjdGlOY0JXR3JnVUh0VVB4bjZacEMxcmFCMnh1WTVFTmZhTENmekY1MktBWFQyTDRqLVJibWFfY25zSmljaUhjeTMxNnNfRkZkV3haaTdFTmxYU2I1N0I3X1JTMGdDWVUzX3BSelBFcG9vV0VkTkNR?oc=5",
-   "data": "2026-11-19T12:34:00+00:00"
+   "titulo": "Enfoque - Informações Financeiras",
+   "fonte": "Enfoque - Informações Financeiras",
+   "link": "https://news.google.com/rss/articles/CBMi-wNBVV95cUxOQl9GdWl1TXR2b0lpV2xqZ3dLbmFKSTFGNmZCbVh1TXN0dFI3QTNLV2lNSFNHTVRNX3pPaUExVlBqcVBuS2xOSEF6bDBpQjkyNEhMRnVGb1NkTExmUFRRVnM3eGg0M2V0akI2S2labHVmM1RhQ05BOHpOZkczRDJsSlR6cnRQZUZsVVVmZGhpMkxfX3dPcURqZjZSZzRzZkluMG1waHNnSm1Ba2ltR0dncUticmdWcTliU01nNzZaSzBsWDVSbnFzWE9pY3lfRHo2cHhDRFdRZjdIc2NSaFhYX2VYcXhMdjh3WVB3SjN1MUFoMjQtWlo0aVZpSkRqZGZvRmRsZmpfanpZZVF4SkF0eTJrakN1cXp1a1M2X3N5bVdrd3JMS0VTcTliMEEyV1NGME9Ia3NVTWRfRDh6ZF9EX29tRVBqX1VZYXZnc1lDa3V4UF9nVlhmVXZLWTYyRkt6d3o0ZThRMmpGRmtOU3dQT0prc2UxRllmSEY1NnNQOWFqUHFQZ25ZWFVKcGIyYWVnc2h6VUo2Z0gwY0xUMGxHU0t0cUF0R1c5OGJsUFlfdU42SE55LTBLSFR2RDg1dWZINEE5WnliRExuVWxQY2lVcEpQMzZGbTRmUHF0cUlsR2VEcUdranpoN1lIZVJoT2EzdWp1LV9BbDFIM0U?oc=5",
+   "data": "2026-11-19T21:15:13+00:00"
   },
   {
-   "titulo": "Dólar sobe a R$ 5,90 e atinge maior patamar desde abril de 2025",
+   "titulo": "Saiba como ter o GTA VI na sua carteira de investimentos",
+   "fonte": "Bora Investir",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNQ2FoT1pzUzgwZkNsTHg3eFE1bWI0YTdZTE5GZXVwYkhzZ0Q4RkJ5Q3RxMXJXbnlPM2xyUUFzeHdjbHNTb09oeTlhb1ZwUDZmTnNRdkViU0VaQWZyVXVycmpxQUlDdHdKNWVGMlNFRDl3X1B1Ylh6SzViQmgwZFRXZ2VIaHBPYkM1dUFhZlZWWmlTSFRaUFAwWW9FZUZ5WDFyU2NpX0VaT2NfTmlmVEc1c2d2M0luZXRFQ2Zod0pHcE9UY2lOY1VzQkpsRQ?oc=5",
+   "data": "2026-11-19T21:12:00+00:00"
+  },
+  {
+   "titulo": "Ex-diretor do BC critica intervenção no dólar e aponta incertezas fiscais",
    "fonte": "Vero Notícias",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPdktGOEczUl9SM3NFSV8wYTIxb193SDNMU1pad010RUNhaFU3alBReHVEUGF6a3otWkFoVjFjLTRLN0hRQlNNaVZ4aE9WNHNnbEJRdDVOTVRPN1lCNXZTZTd4SG5lRk5HSHhuTllXbHl0UWU4b09tT0FyLW5heEh4QzNsR1N2Zmk4VldNVWJYNXNvYjhKYWZ1Q0tocXE?oc=5",
-   "data": "2026-11-19T12:33:15+00:00"
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPU3hYTnVxX0pVX1ZpNGg4REc3MWx5NngxRkZmYTJsbmI1RjdKWnFZcmtaRHAyOHRXclNpU0pEdUtDTlY1VGZqMmpSV0xtX2RYSzdENVl3a1J2NkJJakYtYjRubzVVaEJrczJNb1ZacTRLS1pVclowcVU1YTFnX09hYzNqbWVKSmRlZHdKMEcwOVJqLV83UlhPVzgwNEZPZDd3QnNkRTM3akRtOGNx?oc=5",
+   "data": "2026-11-19T21:09:30+00:00"
   },
   {
-   "titulo": "Agronegócio em 2027: crédito restrito, clima e juros exigem cautela nos investimentos",
-   "fonte": "Portal do Agronegócio",
-   "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOUlpWOFJNSkw2dnNkV1lRb1NCclI1Mi1NdFJGZWVpYVZYbU1TUmdqTGZtRm5pODJUTWdJT0R1LVRQWVZLQTBuT0VVVnBJU19CZUE3ZFpHdU83X1QtRTBHbTFJSXBidEhyRWNVVVlYUWZ6T01GYVZZTlZyWkRjOWhydFpFcDRaVFprTnBQNVRBd2tValY0Ymd5eU1RUk5BUWNpbHExbHo1R21raXF3SF9jX2R4RG1fckh1V2JNYV82RlhaY1h4c1ZpeWhpNzB6NVhpV1JlQW12dE5yeUZKUDZtNWpwNE9jdTlCT196bWVHMzJxaHMxaHc?oc=5",
-   "data": "2026-11-19T12:30:00+00:00"
+   "titulo": "Dólar supera R$ 5,90 mesmo após Banco Central atuar no mercado",
+   "fonte": "Brasil 247",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNM25zUGh5dFRJZXdzcl9fWTJ1RU1VVk5nRWNkYmp6allhMkhLbzdyMm9CVkd0VW1XeHhsUmZ0YVFVZmdpMlRHNnEzUFF5SEZIRzJfVVN5YmQ1b0R0TllYdGw4U050RmhVdUIyR0ZtMW5rODkxUk9jY2VCZUtvTlJYS2dRMTFQekxFNURVaFhfTEtCLWo2UWVwcm5NUFc?oc=5",
+   "data": "2026-11-19T21:03:11+00:00"
   },
   {
-   "titulo": "Dólar abre a R$ 5,90, apesar de aprovação do ?Plano Moretti? no Senado",
-   "fonte": "UOL Economia",
-   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOLVh3cXhCQ25jRWZzM1lkZWlEYUpyNklHX0UtQ1A5WVhUNGYxNWpXWEVMREp5Mlc3Q3QtZVAxVlROblFTOV9NemI1dTJPUG5NbW1EbnpIRVVVclRzMTlVdmNPLVZKekg5bzlfbjlZRmk4SF9EMVJpTzE5OVpheEtVRGdGYWhNcmlkYzAwREN6bWdWRUptM2tEUW5mYkt1LWVTaUVveWtydTdsMnN0LVpfUk5pRkZMaEc3V2R2TlVreTZBektUdG5MUHk5akNza0xz?oc=5",
-   "data": "2026-11-19T12:26:26+00:00"
+   "titulo": "Selic a 13,75%: quem ganha com os juros altos no Brasil?",
+   "fonte": "Jornal GGN",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNdXZscGVOYkdYN1BKOW9hbmxiVHZSMFRVUENiTnlYXzJ2b1lhZlJxNFkyZ0NadjZpWXc5Y1FIeFN3bEgzSG9mNThSN0p1Z19SMm1MMmstNHAyclJwTDJSeHRLZDVqeVI5a0dtWmdhRFJYV1Q2Y2lNeXgzWTRCaUM4SXlqT20wbTRpcjVxcHZfOEQ?oc=5",
+   "data": "2026-11-19T21:00:00+00:00"
+  },
+  {
+   "titulo": "Ibovespa fecha em queda sem trégua com receio fiscal",
+   "fonte": "TradingView",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9uT045NzVaYXJpM2VKZmRzc3pSZTY3Z0lIbzEyUGJsa3RZMWhQcHRpRXRWQ194V0dNMFVVRXZDcjd1UTZacFpXT3FKU0xyOVhhanR1WUp5cW0xOHNxSWJjODBmZ3RXbnlfYzFRa3pzdjFfa3czd3Rz?oc=5",
+   "data": "2026-11-19T21:00:00+00:00"
+  },
+  {
+   "titulo": "Dólar chega a R$ 5,93 e registra sexta alta seguida; Ibovespa recua",
+   "fonte": "Claudio Dantas",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1weFVzb0V2OWJmT0lfbmxhVnNJS3dNNk9pLXBrdTJMU250alQ2aXpMWUtTRERTY1Bsd240MlE5TU5XS2U2Zk81TG9STkxaNTc4bktrWHB2RmptZUJiMlYyWkQ1cEdBRjJSbU4tV2NROA?oc=5",
+   "data": "2026-11-19T20:59:42+00:00"
+  },
+  {
+   "titulo": "Assembleia aprova projeto que coloca o Paraná na disputa por investimentos em Data Centers",
+   "fonte": "Blog do Doc.com",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPMVV0Q0JUbXEzeDFGeFRpZXByaDZaMXdNeVpkWDBQTVZVRTM4dXdYR0NDMk1meVZPcHhDZEtReVQwaUpZYkFtU05ra29Pbld3SUF5TWxoQW9pSGlwYmlYUDlWb2dGdG8zZGNNRlFhbzFmdl9IdDhoTWtFN3BkdkRUWndHUnh6TC12Mnp3eDIyVHVTbTBudF9fSFVGWjdaNVUwVV9vVFVvaXE2RUdxLXZnMi1tYnFROTZDenpGek9sY2U?oc=5",
+   "data": "2026-11-19T20:58:43+00:00"
+  },
+  {
+   "titulo": "Intervenção do BC não contém dólar e moeda fecha a R$ 5,93, maior valor desde 2025",
+   "fonte": "Band",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOb2taWWNabmFMbmREcUV6amlLeTU2TzBFT2xVek8xZ243ejR1ZnBiMVBfaWpOOGd0TzRfdEVkdTJzQmY2aUg5NUR4STItT2plR2pfLXdLc1hoeVdnZFhvdXBBZXpuSGdFbWkzWXBuOUdPU2ZFelJfdk9fQzJFRVVfeGwweXFFVV9EQkFNQl80TURaMXdWdlk1TjNQcUNlREg3aFAwREpGWXBXUQ?oc=5",
+   "data": "2026-11-19T20:58:27+00:00"
+  },
+  {
+   "titulo": "Tesouro Direto paralisa negociações com disparada nos juros",
+   "fonte": "InvestNews",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNXzlNZzMtdEZ6a01zYkg2RE1uN2I5MkJOdldpcjF4amQyNTFOMG9DeXpwTDNRakdEVm4tZ3c3QU1GZVVSbGhPb2R1WE54R2s5WmFWVEJsYjIxR2Z5MDRmeXl2eWlSOFRBSy1HUExUNG5WRTJzMXhfeFp0OW14aTEyVVNYcGhRVXNDVkdYWUVKVWlJd9IBlwFBVV95cUxPaHdyY21QQngyU2ZKVUtuRk8ybDEtX1BCQWZwMTRKTGdNVzRvZ0JIVXRwWnEwdG01Y0FKMi15aUZOa3JKNnVNMjg4SDZCTFpDR195TUktNHJBWVpNVlN5dDdGZzlleC1aZkd6NUE3M0JrX1N0RS1kWGR5WGxsUFdlZ3FHQ3RlZkptd3RYN2d0Z1BWcUI0Z2hR?oc=5",
+   "data": "2026-11-19T20:55:15+00:00"
+  },
+  {
+   "titulo": "Dólar sobe pela sexta vez consecutiva e fecha a R$ 5,93, maior cotação desde janeiro de 2025",
+   "fonte": "Rádio Metrópole",
+   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQUDl1QmNVaG1OdGU5V0FobDU0N3B5VlZsWFBPbjU2Um9sUGFBQ2w2eHhrLWVIWS0tQlJaR0xmMmpDNnM3TUJnMGhZWFNvOVFKLTlTT1pJZEwzWlhQT2dDamlUOWFOdnN3WDJuWFRxOW5obTlOWjZ2eW5MdUVBMk02akVKdkVOQ2M1bk5memVnMkxCS19nYjV1dVdReDZVT1E2YnBjZnlwVnRSRDlxVHVoV2htaHZsVS1rc3lKSndhS1NDX21tV2kwNTd3WDRtcEk5OWVvbUtZMVNSY2p3bC1j?oc=5",
+   "data": "2026-11-19T20:54:00+00:00"
   }
  ]
 }
