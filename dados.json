@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-25T04:10:25+00:00",
+ "atualizado": "2026-11-25T15:29:47+00:00",
  "indicadores": {
   "selic": {
    "valor": 13.75,
@@ -7,7 +7,7 @@
   },
   "cdi": {
    "valor": 13.65,
-   "data": "23/11/2026"
+   "data": "24/11/2026"
   },
   "ipca12m": {
    "valor": 4.63,
@@ -17,76 +17,76 @@
  "cotacoes": {},
  "noticias": [
   {
-   "titulo": "Dólar fecha a R$ 5,91 após ajuste fiscal; Ibovespa recua",
-   "fonte": "Vero Notícias",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOWVk1Y2RnU0VQZDhKWHVoT21sTWdWMkk4MVg2VFM4R2R6bGd2WVBYaHpSdkV1TU1xcjN1YktRZ0xHR3Y4RUdSdm1pVUhXNGhCUlRHZGc0ZnJybGNxTHFpbHFhWVdRczIxdkkzSVRqd0ZGenRrZWJNc0pyRmwzSjBUVXJWb0tBUnZyX2trWHFFLWY1dw?oc=5",
-   "data": "2026-11-25T04:00:00+00:00"
+   "titulo": "PCE (Out/26): Inflação persistente mantém pressão por novo aperto monetário",
+   "fonte": "Genial Analisa",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPa0NKUmF4TzNyUzJIYUVVWndZaDBXdEg5cjFrZV9wYjc3RjU5S2lBVFB4d1lIZTRQWXNOTkNscmdlUkd6RGstbF9ZZTQ3eGNVNWRRVlIwWWN1a2hyVkN6b01VMW5sRXVnMEJVQ2hCaUl6d2I2VDRuSjRlZ2xKcEZPUEdUMDVnZ2NHRXE1V1BCLVcyNWF1Q2E4NTFSQk9TRnQ4cmhmOTB4MkZwMzI5Mm50WkFLVkxFMDB3cGhDTkFCYjdtRXpfRWxhb3haTlU?oc=5",
+   "data": "2026-11-25T15:22:31+00:00"
   },
   {
-   "titulo": "Tesouro Direto: taxas caem até 28 pontos após PEC",
-   "fonte": "Acia Araçatuba",
-   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE42STAwN1k2SEFqT1FsWGtydm92Nm02UEdKbnFkal9nV3FJX1lDSzM1NGQ5RGtIUVVFOXM5T21WRFMzaS1PUzVtY0JycURhYldZMVk3U3pNVEFWNkxFRlFwYlJ6a1BRYjdTa2MwRlpoOWpKVHFJZ3JnSlhoYw?oc=5",
-   "data": "2026-11-25T03:42:07+00:00"
+   "titulo": "R$ 50 bilhões em investimentos estratégicos para o RS em 2027 entram na pauta do último Sergs Debates do ano",
+   "fonte": "Correio do Povo",
+   "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQTDlDRVZoaVV1YXN5dTkzbW41LXRRYXlXVkd5bEpaVDVNUVdkem9BY2R6RlJYdVAxUVh1RnVPRWhaWE9hMWJEaTYzSlNwLV94SHZ3NjNMM0dXcjlZZDQzMHE0WEpudzl6ekwyQW1FaGxaeUFfUnZfM21VYVR3aXQxSndvdnFDNHVENmRmb3BxbDN0ZF9VaXdqdGNlbnlNZDFRdUtzOWpjaU5UOXhhTnVyYzdIN2kta2FES3dQWUVHNHNva2lrTmh4YzZNRFdmNXYyYTN4Sk1NQlVJM1luUkQtYTZXYmtCWHRyRUFGeEFycS1EOGxDem5ZdkpHX0VYelVUNUY0?oc=5",
+   "data": "2026-11-25T15:22:12+00:00"
   },
   {
-   "titulo": "Dólar cai 2% com PEC para conter despesas obrigatórias",
-   "fonte": "Acia Araçatuba",
-   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOZW11Y0tLYnkzTDBxR2J5QkdpM1pkTlNvVHFqV2FHMmh3SXRzQ19LS0ROLVltdTA5U3FsVUM5OVN3ZUtRSUk0WjFJbEZ5dlphWHlNc3QyZ1RJbHJBZWZaVE9oc2hKN2dWQ1pCeVZsWlZnQ0Nxa2V0aW9xX2xWSndLZjVB?oc=5",
-   "data": "2026-11-25T03:37:07+00:00"
+   "titulo": "Jefferies reduz preços-alvos para ADRs da Petrobras após alta de investimentos em plano de negócios",
+   "fonte": "Valor Econômico",
+   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOVlBrbmpBYzEzbkRDZUdhQU96UzF3ekMyaXZnR2NVdTA5S3FFbmdPUVo3WjJHdVdpMDZBeWYzemlfZS1QaE90S003Q3VEWW9xR29lOUp0dDlFRnlvWTI2Q21GSXpuQkotMEtWbFh3S2JOZUp2cWUtbVV2eERNVlotY0tJMExkVTVoaEtwOXozZExrLVlLVzlrNXlIRS1QS05ZYjc4S3RrVFZmUUJCQ0RQM0JqY0otT3FCSXNmMUUzcGpZSFpTR2JIeW1TTEZ6cEMzU09GaDR4NDRCQmxsNUQ0dHdLZ0J2d3NjN1HSAfgBQVVfeXFMUDdvZjVmRmJFYm1wVmg3dlRNMW5fcUQ2UjRsWWxfcGxMOW9KaUUzY3VMck5nV2tvRl9fNTNFRS1nbHZEZVlnZ0dIRmFLYkxTa3VzVExsNFRrWmNxYmNiYXF3UV9ld0RDRHJmZ0YwNnAzdjRObmxmcFJwVWJJTHV4SnpDRm9sNzVyeTFJSHNGb3kxRWtKS0d3M0JmamhWcWhKVGZ1dzZuTzNlSmlvXzF2T1FNcjlvTE1wNWFGSEdwOUVxdXlLWWhYLWtnYzJRVUZVWUNOZXkwajJ1TDJIQW1HV2ZsekIxTVAzUkVGNDVCWGtpNDRFZUVWSzM?oc=5",
+   "data": "2026-11-25T15:17:23+00:00"
   },
   {
-   "titulo": "Mulheres e investimentos",
-   "fonte": "Meu Bolso em Dia",
-   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9weHZFWjFmY0ExQmY3R25WMmZEVVlfUTZLSndoTFpvUzVlSzFzT3Y1ZGFweXlKdzBUX1ZQLTRuTXltcjkwZzBsb2lNSGpiNGQ5S215TzRVQUVoY1FJbHlDTGJ0YmF2bUNTbGFzQmlobw?oc=5",
-   "data": "2026-11-25T03:04:05+00:00"
+   "titulo": "José Guimarães: União libera empréstimo de R$ 550 milhões para investimentos em Fortaleza",
+   "fonte": "OpiniãoCE",
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNQ2I1VmZTdnJ0QzBmenR2c2JwMnBEQnNXQ2hpb1FDc3VwOTdkTDNnbkxDc3R5eF8tUHJnN2xoVjRUQ245WDJJemp5akVrWEk5dnY3ZDd6OHpIQTR5THlfWmRtSnUxczZ4TjZtNktmaHFsbm10TnpBbzZYZzEwcTBSTEtCcmEtRGlFcTE2U2NFZFdtaS1zWDFybFZkbjlHVTlfZmttTFBVa1NyRmxVTkZ0bzkzZDdfa3o5SUk1ZVZZeURqQUlOUjV3dVhRdTdKZmRuYUtZ?oc=5",
+   "data": "2026-11-25T15:10:08+00:00"
   },
   {
-   "titulo": "Reforma tributária e fim da escala 6x1 podem pressionar inflação em 2027; BC e equipe econômica monitoram impactos",
-   "fonte": "G1",
-   "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNcm1sbW9WblN0RzlWZDc3SElhZXNCc29UZWZQZG1kYUZfT0txbUQ2Uk1ycWVWdjRKczN2S3R5NUNqenhXa0ZVYjlQUk13d2QwTWkwTHdSYm5fbVU1VFBoUUZub3VIQm1heWJwQW5DXzNWUlF0a1FqdmVMRXRJYjEyb3lWcGlWS3REaERKUDJpemtnb2VZYU0teGg1cjVhVGd6N0RrZlNmQ1NQQkR3NTBaLVFkc3dReGo1ZGVhdzVYQWJ1WXctQlhpLUVVRjhjWFVLamU4aWxMQ3JkUUppOUZvakhkNi1ESll0MmMtZDlvc0V6ZjByWktrNW9ySlfSAYsCQVVfeXFMUHdWSl9mcXY3WjJZQzZlRVJrNE1QT3V1bWVDVDlnVDdaMF9iR3dGcjBWbHhpbmx6NURtUUpyeHVOdm42WnFfWXI5bUZqeFRSQWY3WUxNNURXWXNWWTB2UXZRSTl4dEZtVzZHSmwxMUNSd2lCWF9NbU1PTm9FNmpUa2t3VXdEWk9XaGhleDVTZlNPaXdVVXBOcXJibnlhc3VKNXZZNDdOWUlqOGkzaGpNUlVsMXhYMllkaEp3TmNJRHdFRTVjVWRzVURUcGJFNm5TdllGMzFBdl9ITHI5QVkwWU1TVmdBblY4aUN6R2VTWUdwU1JWa0phYlpHSU9FZHZUdUxNd1FpU2l3MUxR?oc=5",
-   "data": "2026-11-25T03:00:00+00:00"
+   "titulo": "Caravana 417: com entregas e investimentos no interior, Jerônimo se aproxima de percorrer toda a Bahia em quatro anos de gestão",
+   "fonte": "ba.gov.br",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPQ2p2ejVKcTNFWjNaa2paZUtLdl9aeXRjbm12M1NLZ3N0OHk3N3pGS2Fqc2I5cWNQMVhhZDZBcm1PR0tUbG1hbkRicGdqaTNkVWVYcG9hSUtYNE5oUDRoV2VSTFlja05rSFdDSnVVZmlfZlRKaWxNRS1vMGxESHJZZDZtVlVLZjFnWVJaVlhKZm9RVTlwcU9XV3N6WVc2NzduajU1SHlwZW5zTGRTS0NiY3ZPUDkybVFUb2dDcDdpZFEzVHRNLXZoY09NWGM?oc=5",
+   "data": "2026-11-25T15:06:34+00:00"
   },
   {
-   "titulo": "BYD prevê assinar protocolo de investimentos em Minas Gerais",
-   "fonte": "Vero Notícias",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPOFRVeHRPOUdXNWlkMHRFQmw1Wmszdi1ZSkJfRy1MSWFqQk5jRy00ZGQ5M2dDR2oxYnVMUklGcy1uZGxwLVpNYUpTTDF2a19NU2lTTmhKTTZEcktUVHFTNnJNdDVVejdfVmJfLTNTdTJZcThNTHdBWGpTbXJ5eG1mY2xDX0NJVVE1eU5EUVRJOVFLZUxGcXZSN2VLdw?oc=5",
-   "data": "2026-11-25T02:45:00+00:00"
+   "titulo": "Enfoque - Informações Financeiras",
+   "fonte": "Enfoque - Informações Financeiras",
+   "link": "https://news.google.com/rss/articles/CBMi_gNBVV95cUxNQmJwSEdtQzhtaklnalBQV0xGOWEwcW5Ec3lHNnFUSEpRaHBteEZDWnNOdnN4S29YNDUtVmJmZGxKRWNHMHExT1VLa092T09xdVByRE1HMTA4OHMxSlg3ZkpSeEhfcTdaMVZJT1ZyNEN1LVp6NVJNN3RON0pKUlhMS3VWVFgtUzRVWGVSeU5TNUZkWkJjdmNlMjYtVFZ1UTRSZktvZGUzWW1nbk9KZlVLc0JTc1kwQnNQelRQYkxqZ0xtRk41SExaWE1MRzRqYUFHWVhsSkNXVVYwS3pHMy1Uc0VTak1VLU1fVjYwOHlxZng5TVZ2Z1FRRkxGVmx3Q1V1X3Zoa2RxT0hxU0xSV01BZXNMbDB4RHpBWFdrUWlKdXdTRTJabkJidzN5MDkwQUM2Y05icHZRWW5sZ2FtUFZMbXk3UnNrMmoxWnBlTm1MajdvTGJRUzdULUxFZDdLbGhDQWw3Mk9YQmlBRkU2S1M5OU9ieUktc0RWRFIySlpUMVJpYnYtOGFaX0FNZThGa1NkLUNJM2ZBckFYeWIwUDhfS2p0UlhTd2VaZ1lYRTB4bmVCS09la3dSQTNlX21CX2J0dWxmVzZKa0pUUlY3Y2M5bmRwRDFHOVJHRk5yTUtoWWNWQUhfOXlQaXNFcjlsbXhxRG1RZ1ZwZElxOUZrZ0E?oc=5",
+   "data": "2026-11-25T15:05:27+00:00"
   },
   {
-   "titulo": "Pesquisa e investimentos impulsionam a cafeicultura e abrem novos mercados em Mato Grosso",
-   "fonte": "Sapicuá",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPR1N2VUdSNjZBSWpYQjFfcUVrQzhWLTNkeEhBV19NNGZXcEJTVVhTN3d1cVBkcC03c0J4OHpGLUlESGxFNU9WRWwtMHlMSDljVzJ0RE1QSmdxMThCM1pnRUZ1a0tjVklOdTdLQl9FNG93cmRSS3J6ZElUUmN4dTZ5dkVkdUt3SzVFMWZPR1lvUWV2WW1aQUFCdE1jdERaTFdYZTFYTVdtZVVjSkdUNFpSZWdObm8?oc=5",
-   "data": "2026-11-25T02:33:08+00:00"
+   "titulo": "Concessionária Nova 364 aceita convite para apresentar investimentos e ouvir demandas da sociedade cacoalense",
+   "fonte": "Tribuna Popular",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPYVZheEluWWFLYkZSRmMySDQ3S1pXU2ZadnVUc3RzdkYybTc0UHBqV3VRc3BTZEowSFJNdmQ5UFN5NjAyTlZuMnpuMlN0c0g3YnZoaDZpcVpSeklhSFdhUUp0VkZHd3N6NWJMck5yWlFNWVZkVG1MUngwMnRCcDBJZWZEQ3BqUnpqdUNUT3lmX1VpZHFnZUxucDI3OFRzbWRyTE0tR0J1U0ROSmowTlZVc2hrNVp4NTlKeVNEdVh1aDdpa00?oc=5",
+   "data": "2026-11-25T15:00:57+00:00"
   },
   {
-   "titulo": "Petrobras diversifica investimentos com etanol de milho e vê Brent estável no longo prazo",
-   "fonte": "Bloomberg Línea Brasil",
-   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNNnFCR1BiZHJaVXE3d204R1NSNjNLa0ZqU3N2eE5WWk1LNnAzcjFlbjA4QlZsNTlWQnlyVFFSUi1vYVZUOXFDZkViVUxhSFlMMzdFYWJQNkRWQjJnOEQ1UDVqZVZHT1RQckRPeWR2TkpWTTNtSjFhdjFKYWJkVU4zc29EMFpSTnplYkFlS19GSUsxZk50NEVDTnRWYkJUZWZUVXpwTmR2bV9zdmtVTHBCNjRUUGlKM1BzeTJhdGE0SDZYSmJoUWlCMUlTODlyZ9IB4gFBVV95cUxNZjJaUFlJcmJ2c3NUWkNLWEZRSVQxMUNNT1pUUlMtLWVVOEFMOUJGYTFGT0MzdE9vbVJ1ODVLLTA0WnRJQ0tIRnRZZXFTYnBUMkkzc0hjZEczbktpMnFISVZkMXZmcWNZcGg4SUliV0NmX0JwMzNFWnc4VGs4b1ZGQUFBVXhBSkN4MTBZUEJlSVJKS1pRcXU3cnRkTl9odmJMRGtwcGVCLWQtbTI0MDJ1MVh0TlM2WU9GV2NTb3NEU2dBeFVlVGgycHpsT1hyQlQ5Y1FYeXowN1U0VXItZ2c2RWdn?oc=5",
-   "data": "2026-11-25T02:32:00+00:00"
+   "titulo": "Comprar imóveis e FIIs protege o patrimônio da inflação? Veja o que diz especialista",
+   "fonte": "InfoMoney",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOR01nWUJVR1h2QlNWR29FU1dxN2hmbkhhQnY2cGJFT3ZJX1FSdmRtekJ3dnZwOHdpMzBwZ3VyeTAzOU1YQURTbUJwSURWVlpKZVU4bzRfZjdadHFQMjFDUGlMX1hfNllZZ19vdHI5TUxOMGF5eVFidEh4c3ZZSHVFRkNWbmVnYm9ieldXN0xRMllmMENWTXhFbUVlN3d1RFI4Z0FmRzZJZjdVYTVlREwtT3ZoUGd3bld6VzkxbllIOWZuNDViZnfSAcsBQVVfeXFMTzd1aWE3V1FWeFZwZ0VLY3lIbGFyVHRURDJjNU9ORUJnU1ZrZ2Y1eDhxc2dfWDNRdm5mN2Z1QWtxUE9FZlQtT0Vzdmw5TkFIRjlBZW16YXAyZVhRdUNBMXZVVDd4VGtGbXQ4TVF3U0toSHM4RWJOTG8yNHBWWmxvRnZ0NERQWC1ZT1Rnby1YcTktXzl1OEo4MGl1TmphSTB2TFVISlhYUHhUc1JuclI2MFJqcVNxaENJOVFmeEJNTktWRGdiRDFNeHFFMTA?oc=5",
+   "data": "2026-11-25T15:00:00+00:00"
   },
   {
-   "titulo": "Tendências 25/11/2026 | das principais ações da Bolsa",
-   "fonte": "XP",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxObUNjWmJjTVM5d3p5SjBiei1XQUlOSG5mV1JzNlJvajdDNVRFY0kwaTFCN3RrN2RXNjFlUHlIZFNmOWd2Z1d6MXlMbkxRMGNOVUo2OEJqazhrUm13aXNZYWU4c0VZUzQ2WnJwUnhYTGF2S0pRY2JWX1ducnVJbDBqT1ZhVmNCZVJMSHJxVjN4VHhrT0pxU3h5b2RhN3NwTng4eDhDY0pKM2xockg5?oc=5",
-   "data": "2026-11-25T02:29:13+00:00"
+   "titulo": "Ibovespa sobe levemente com mercado monitorando nova PEC fiscal e inflação dos EUA",
+   "fonte": "Exame",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1nRkd2YjktU0paekNSX2psWmJxbzJaSVpxdFdrTDVxOHJXclk2TE1BQlotMS1VYjh4eHRnaVBETko5dVprdjVvYVJ4anBOSFJzNVVxZ05VY3ZaSFBhY2FDWDNYdG1UM2F0cXlV?oc=5",
+   "data": "2026-11-25T14:59:37+00:00"
   },
   {
-   "titulo": "Em debate sobre ajuste tributário, Gerson defende equilíbrio fiscal e preservação dos investimentos",
-   "fonte": "viamorena",
-   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNdVUwbF9RNlkyZjlBd0ktcHBraWU4MDJGV2ZkM0JQTDFra1phV002b1BOTk5rN3BsM3oyNHd5bGU3T21wTWtFUUhpcm1KVjhSQWptekZqT2Z6WC1OeWRUejFSX3R3cjZsbzV3dV95MVZRcEdicm5xaHgyU0pnUGZkcUx5bkFJd01STjhXRnllMjNIQi0wT3hsSktHSFE4V3hQd1QtV3RDQzZwVlU1VTNNNFdCNDZNNWpmaHVMdWFMbE9DQTNHZlIxaTM0aEdiOHc?oc=5",
-   "data": "2026-11-25T01:52:42+00:00"
+   "titulo": "PCE: Inflação nos EUA sobe em outubro e acumula alta de 3,8% no ano",
+   "fonte": "CNN Brasil",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOTTd5bU9UcndzWGl6U2hoTUUzRl9FUG9zT280Z200ZTJNakh1VG1FTWgxdnBlZlFQdmRvb3MzMXkzVUVqMFRVQm1YZTZHZ1pjVmhuUkF4QUZvdE1XdzJsWTYzOFlSN0k2dDVaMkYzMHFhVmQySml3dEtOelQwVXB3Tk9rRFY1OTM4VW1xOWk3eGYxRXJzTlJLX040dW8wSUlLa2hNVnZIV0ZpWmtTTnVSeDBSZjJoa1JMd09wdHU2UXc?oc=5",
+   "data": "2026-11-25T14:59:20+00:00"
   },
   {
-   "titulo": "Governador recebe representantes do Grupo Cencosud e discute novos investimentos em Sergipe",
-   "fonte": "RO Acontece",
-   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxObTU4TWRtWGkxZUpOcE50X3h0LTVLMEswR3JlM0E4NjA1WWZMMlJjTjAzODQwTmV5Q2Q0X0t4Uk91TE9uNkZDWGpoTExjUE5iUVNSR2tMNWFhSlJ5TXRGVDdrS1NqbGxuWnRhbENBTXBCV1ZzaGkyNUhkT3RCVDBiWHI1bndCZVg3WXZ5MGk2SzlhZlJlOHJrcTNoMXZEbXBrRlhpX0M3cndrZWNVTkJiZ1dwa25KQXhIUTlYRkVWZldLZUdOX2Zfbg?oc=5",
-   "data": "2026-11-25T01:47:44+00:00"
+   "titulo": "Wall Street abre sessão em forte queda com alta da inflação e pressão do setor tech",
+   "fonte": "Money Times",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOYXEwbXMzbGhJVTJUS2ViRXcyaU9tSm9KNmNObVdCM1M2TWM0LVc1NE85OWdwRWxIZGR1XzJIaXh1MVFpQkJ2UGd1NDRPOFl0allHbjYzUEVrSGxSRl9kUXlNLVJSaXNDZWZjb0c1Wi1qVzU2eFdkTndJa2QtTTB6d0xBRmNjd3QyYU9NYXJKeUQ3VTc0T0xJMjAtcnNHLXI5LVVuN1ZhektlZWlONl9yTjFBMA?oc=5",
+   "data": "2026-11-25T14:58:00+00:00"
   },
   {
-   "titulo": "Dólar cai e fecha a R$ 5,91 após aprovação do ajuste fiscal",
-   "fonte": "GZH",
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPY1pMUFFwclpUZGF5SXY1NmZPRUpzOThlQ05feGptaGtDWjYyRzhFc19KclkyTkVTQlV1OGtBMVRtT2ZmWktyYW10aVZPNEMxaEVYbFdnaDJsOVNsVUF6OEp5SFhBMHdXR3Z6RU0ybVVnQ3l0T3daOFNsN04yTjJBd1dBWmpTclJKOUdJQk9hNkx0dHZIRzkzbjR6R01EX3ZzbmZiOEpSV0NzbFI4MjAyNWlQQURTQVdZV3RlZDlCTmd6ejhWVWc?oc=5",
-   "data": "2026-11-25T00:59:21+00:00"
+   "titulo": "Bitcoin cai para US$ 57 mil com novas tarifas dos EUA e inflação ainda pressionada",
+   "fonte": "Valor Econômico",
+   "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNUWxTZ2lVZmlpVGNNcUU1MUNwcld5SGJmTWFDYWVrSVB2Wjh5WTUzQ0ZaUXBOWmVhQlpYemZCeGJLemdRaHRZMmx6R25nV2ctNFFoSTFZaGlCUHRpdzNzTWRJXzh0OUlSNHc3VlZSMkRCX252MlJMQ3g4ZXJXbTFDaU9LTlYwajZ4YVJsZWROYmt3MkpWd3JKc2xPcFFadmw5Zjhad2NRSVNTb3J4S3pYMjQ0MFJmZ210ay1FZDhlX3E5aEYydnRZb00zOEZ4NVcySGkxLXQ3Q1ZQS3lacXlGVElpWEkteFHSAfYBQVVfeXFMUENuQ2V3Q18zZkJrcENscTRocERoRnFHODhMelVZaDBzRGtVZ0FDSExCSXdVcGw2blVObmhFN2cwaXQ2TEpBQVdvVXh1TEprbEg0OHByOHQyNjRLcnZSM0lFSXJVc3FGM0hfMmhaeXkxeXhfUkVLSE1kVk9xa09jMk5hQTlTekVXQmNpMmFZbV9oRkIybkduRkdvVUo3X1dHWVpHQVkzSHZ5NXJqek9QQUFCMVZkUjVhLWFJZlg0bm5XZFR4Z0xfcnBmZWxuOXlleUN1UjF0aTVzaHJCSnQ5cVNrRTB0TWF5YjdrOHJ5aVNzVGpXc05R?oc=5",
+   "data": "2026-11-25T14:56:07+00:00"
   }
  ]
 }
